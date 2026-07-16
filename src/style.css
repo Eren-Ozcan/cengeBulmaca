@@ -502,10 +502,11 @@ button {
 }
 
 .icon-btn {
-  width: 36px;
-  height: 36px;
+  width: 38px;
+  height: 38px;
   border-radius: 50%;
   background: var(--surface);
+  border: 1px solid var(--tile-border);
   box-shadow: var(--shadow);
   display: flex;
   align-items: center;
@@ -523,10 +524,11 @@ button {
 
 .action-btn {
   background: var(--surface);
+  border: 1px solid var(--tile-border);
   border-radius: 999px;
-  padding: 8px 14px;
+  padding: 9px 15px;
   font-size: 0.85rem;
-  font-weight: 700;
+  font-weight: 800;
   box-shadow: var(--shadow);
 }
 
@@ -537,31 +539,36 @@ button {
 .cluebar {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 11px;
   margin: 2px 12px 10px;
-  padding: 12px 14px;
-  background: var(--accent);
+  padding: 12px 15px;
+  background: linear-gradient(120deg, var(--hero-a), var(--hero-b));
   color: var(--accent-ink);
-  border-radius: 14px;
-  min-height: 46px;
-  box-shadow: 0 4px 14px rgba(108, 92, 231, 0.3);
+  border-radius: 16px;
+  min-height: 50px;
+  box-shadow: 0 5px 16px rgba(95, 90, 240, 0.3);
 }
 
 .cluebar-arrow {
   flex-shrink: 0;
-  width: 16px;
-  height: 16px;
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .cluebar-arrow svg {
-  width: 16px;
-  height: 16px;
+  width: 14px;
+  height: 14px;
   fill: currentColor;
 }
 
 .cluebar-text {
-  font-size: 0.95rem;
-  font-weight: 700;
+  font-size: 0.98rem;
+  font-weight: 800;
   line-height: 1.25;
 }
 
@@ -577,9 +584,10 @@ button {
   grid-template-columns: repeat(var(--cols), 1fr);
   gap: 3px;
   margin: 0 12px;
-  padding: 5px;
-  border-radius: 12px;
+  padding: 6px;
+  border-radius: 14px;
   background: var(--surface-2);
+  border: 1px solid var(--tile-border);
   align-self: center;
   width: calc(100% - 24px);
   max-width: min(100%, calc((100dvh - 330px) * var(--cols) / var(--rows)));
@@ -589,30 +597,49 @@ button {
   aspect-ratio: 1;
   min-width: 0;
   min-height: 0;
-  border-radius: 5px;
+  border-radius: 6px;
   position: relative;
 }
 
 .letter-cell {
   background: var(--tile);
+  border: 1px solid var(--tile-border);
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: clamp(14px, 4.5vw, 26px);
-  font-weight: 800;
+  font-weight: 900;
   cursor: pointer;
   transition: background 0.1s ease;
 }
 
 .letter-cell.in-active-word {
   background: var(--tile-active);
+  border-color: color-mix(in srgb, var(--accent) 35%, transparent);
 }
 
 .letter-cell.selected {
   background: var(--tile-selected);
-  outline: 2.5px solid var(--accent);
-  outline-offset: -2.5px;
+  outline: 2.5px solid var(--gold);
+  outline-offset: -2px;
+  border-color: transparent;
   z-index: 1;
+}
+
+.letter-cell.pop-in {
+  animation: letter-pop 0.16s ease;
+}
+
+@keyframes letter-pop {
+  0% {
+    transform: scale(0.6);
+  }
+  60% {
+    transform: scale(1.15);
+  }
+  100% {
+    transform: scale(1);
+  }
 }
 
 .letter-cell.wrong {
@@ -744,25 +771,29 @@ button {
 
 .kb-key {
   flex: 1;
-  max-width: 44px;
-  height: 48px;
-  border-radius: 8px;
+  max-width: 46px;
+  height: 52px;
+  border-radius: 10px;
   background: var(--kb-key);
-  box-shadow: var(--shadow);
-  font-size: 1.05rem;
-  font-weight: 700;
+  box-shadow: 0 2px 0 var(--kb-key-shadow);
+  font-size: 1.1rem;
+  font-weight: 800;
+  transition: transform 0.05s ease;
 }
 
 .kb-key:active {
   background: var(--accent);
   color: #fff;
-  transform: translateY(1px);
+  transform: translateY(2px);
+  box-shadow: 0 0 0 var(--kb-key-shadow);
 }
 
 .kb-backspace {
-  max-width: 62px;
+  max-width: 64px;
   flex: 1.4;
   font-size: 1.2rem;
+  background: var(--accent-soft);
+  color: var(--accent);
 }
 
 /* ---------- bildirim & modal ---------- */

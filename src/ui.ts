@@ -44,6 +44,8 @@ export class App {
   private root: HTMLElement;
   private puzzles: PuzzleDef[];
   private state: GameState | null = null;
+  /** Son harf girilen hücre; bir sonraki çizimde pop animasyonu alır */
+  private popIdx: number | null = null;
 
   constructor(root: HTMLElement, puzzles: PuzzleDef[]) {
     this.root = root;
@@ -296,6 +298,7 @@ export class App {
         }
         if (s.wrongCells.has(i)) div.classList.add("wrong");
         if (s.completed) div.classList.add("won");
+        if (this.popIdx === i && s.entries[i] !== "") div.classList.add("pop-in");
         div.textContent = s.entries[i];
         div.addEventListener("click", () => {
           selectCell(s, cell.row, cell.col);
@@ -304,7 +307,16 @@ export class App {
         grid.appendChild(div);
       }
     }
+    this.popIdx = null;
     return grid;
+  }
+
+  /** Seçili hücrenin ızgara indeksini pop animasyonu için işaretler */
+  private markPop(): void {
+    const s = this.state;
+    if (s && s.selRow !== null && s.selCol !== null) {
+      this.popIdx = s.selRow * s.grid.cols + s.selCol;
+    }
   }
 
   private renderKeyboard(): HTMLElement {
@@ -326,6 +338,7 @@ export class App {
           btn.addEventListener("click", () => {
             playKey();
             hapticKey();
+            this.markPop();
             this.withWinCheck(() => typeLetter(s, key));
           });
         }
@@ -398,6 +411,7 @@ export class App {
         this.renderGame();
         e.preventDefault();
       } else if (/^[a-zA-ZçÇğĞıİöÖşŞüÜ]$/.test(e.key)) {
+        this.markPop();
         this.withWinCheck(() => typeLetter(s, e.key));
         e.preventDefault();
       }
