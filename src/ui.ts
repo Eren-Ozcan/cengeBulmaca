@@ -22,6 +22,7 @@ import {
   soundEnabled,
   toggleSound,
 } from "./sound.ts";
+import { hapticKey, hapticWin, hapticWrong } from "./haptics.ts";
 import type { ArrowDir, PuzzleDef } from "./types.ts";
 
 // Ok ikonları: klasik çengel bulmaca okları (SVG, currentColor)
@@ -157,7 +158,10 @@ export class App {
     const s = this.state!;
     const wasCompleted = s.completed;
     action();
-    if (!wasCompleted && s.completed) playWin();
+    if (!wasCompleted && s.completed) {
+      playWin();
+      hapticWin();
+    }
     this.renderGame();
   }
 
@@ -183,8 +187,12 @@ export class App {
     const checkBtn = el("button", "action-btn", "Kontrol");
     checkBtn.addEventListener("click", () => {
       const wrong = checkEntries(s);
-      if (wrong === 0) playCorrect();
-      else playWrong();
+      if (wrong === 0) {
+        playCorrect();
+      } else {
+        playWrong();
+        hapticWrong();
+      }
       this.renderGame();
       if (wrong === 0) toast(this.root, "Dolu hücrelerin hepsi doğru!");
       else toast(this.root, `${wrong} yanlış harf işaretlendi`);
@@ -300,12 +308,14 @@ export class App {
           btn.classList.add("kb-backspace");
           btn.addEventListener("click", () => {
             playKey();
+            hapticKey();
             backspace(s);
             this.renderGame();
           });
         } else {
           btn.addEventListener("click", () => {
             playKey();
+            hapticKey();
             this.withWinCheck(() => typeLetter(s, key));
           });
         }
