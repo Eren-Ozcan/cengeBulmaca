@@ -297,7 +297,11 @@ export class App {
           div.classList.add("selected");
         }
         if (s.wrongCells.has(i)) div.classList.add("wrong");
-        if (s.completed) div.classList.add("won");
+        if (s.completed) {
+          div.classList.add("won");
+          // sol üstten sağ alta yayılan kutlama dalgası
+          div.style.animationDelay = `${(cell.row + cell.col) * 45}ms`;
+        }
         if (this.popIdx === i && s.entries[i] !== "") div.classList.add("pop-in");
         div.textContent = s.entries[i];
         div.addEventListener("click", () => {
@@ -351,6 +355,7 @@ export class App {
 
   private showCompleted(): void {
     const overlay = el("div", "overlay");
+    overlay.appendChild(makeConfetti());
     const modal = el("div", "modal");
     modal.appendChild(el("div", "modal-emoji", "🎉"));
     modal.appendChild(el("h2", "modal-title", "Tebrikler!"));
@@ -427,6 +432,31 @@ function statCard(icon: string, value: string, label: string): HTMLElement {
   col.appendChild(el("div", "stat-label", label));
   card.appendChild(col);
   return card;
+}
+
+const CONFETTI_COLORS = [
+  "#5f5af0",
+  "#a75bdd",
+  "#f5b83d",
+  "#2fa96e",
+  "#e5484d",
+  "#4cc3ff",
+];
+
+function makeConfetti(count = 42): HTMLElement {
+  const box = el("div", "confetti");
+  for (let i = 0; i < count; i++) {
+    const piece = el("span", "confetti-piece");
+    piece.style.left = `${Math.random() * 100}%`;
+    piece.style.animationDelay = `${Math.random() * 1.4}s`;
+    piece.style.animationDuration = `${2.4 + Math.random() * 1.8}s`;
+    piece.style.background = CONFETTI_COLORS[i % CONFETTI_COLORS.length];
+    const w = 6 + Math.random() * 6;
+    piece.style.width = `${w}px`;
+    piece.style.height = `${w * (0.5 + Math.random())}px`;
+    box.appendChild(piece);
+  }
+  return box;
 }
 
 function capitalizeTr(s: string): string {
