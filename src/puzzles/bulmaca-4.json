@@ -1,0 +1,207 @@
+{
+  "id": "bulmaca-4",
+  "title": "Bulmaca 4",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Yunanistan'ın başkenti",
+      "answer": "ATİNA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İri taneli bezelye",
+      "answer": "ARAKA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir seslenme sözü",
+      "answer": "YA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kırmızı taneli bir meyve",
+      "answer": "NAR",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Babanın veya annenin babası",
+      "answer": "DEDE",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çevrilerek oynanan oyuncak",
+      "answer": "TOPAÇ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bir soru sözcüğü",
+      "answer": "NE",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Olağanüstü halk anlatısı",
+      "answer": "MASAL",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Nikel'in simgesi",
+      "answer": "Nİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "At yavrusu",
+      "answer": "TAY",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sürü güden kimse",
+      "answer": "ÇOBAN",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Komşu bir ülke",
+      "answer": "İRAN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "Sİ",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sodyum'un simgesi",
+      "answer": "NA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kebabıyla ünlü ilimiz",
+      "answer": "ADANA",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyaz, kara karşıtı",
+      "answer": "AK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kahvaltılık meyve tatlısı",
+      "answer": "REÇEL",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Binek hayvanı",
+      "answer": "AT",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kozadan elde edilen değerli iplik",
+      "answer": "İPEK",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 3
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay"
+}

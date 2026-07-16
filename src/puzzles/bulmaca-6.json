@@ -1,0 +1,267 @@
+{
+  "id": "bulmaca-6",
+  "title": "Bulmaca 6",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Ayrılış selamlaması",
+      "answer": "VEDA",
+      "row": 1,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Lityum'un simgesi",
+      "answer": "Lİ",
+      "row": 1,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dokuzdan sonra gelen sayı",
+      "answer": "ON",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "İçi gazla dolu uçan küre",
+      "answer": "BALON",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sarıya çalan göz rengi",
+      "answer": "ELA",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalsiyum'un simgesi",
+      "answer": "CA",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Deriden salgılanan sıvı",
+      "answer": "TER",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Elektrik direnç birimi",
+      "answer": "OM",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yetki simgesi değnek",
+      "answer": "ASA",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Temel, esas",
+      "answer": "ANA",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "FA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Binek hayvanı",
+      "answer": "AT",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Radyum'un simgesi",
+      "answer": "RA",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "RE",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çaba, uğraş",
+      "answer": "EMEK",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Berilyum'un simgesi",
+      "answer": "BE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "LA",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tahıl deposu",
+      "answer": "AMBAR",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırmızı, kokulu küçük meyve",
+      "answer": "ÇİLEK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Meydana gelen şey, hadise",
+      "answer": "OLAY",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Boru akışını kesen musluk",
+      "answer": "VANA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tanrıtanımaz kimse",
+      "answer": "ATE",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Güneş doğmadan önceki alacakaranlık",
+      "answer": "TAN",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "DO",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüreklilik",
+      "answer": "CESARET",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Türkiye'nin başkenti",
+      "answer": "ANKARA",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyaz, kara karşıtı",
+      "answer": "AK",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 7,
+      "col": 2
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 2
+    },
+    {
+      "row": 10,
+      "col": 3
+    },
+    {
+      "row": 10,
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 7
+    }
+  ],
+  "difficulty": "orta"
+}

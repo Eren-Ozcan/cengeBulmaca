@@ -1,0 +1,302 @@
+{
+  "id": "bulmaca-9",
+  "title": "Bulmaca 9",
+  "rows": 12,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "Tespih başlığı",
+      "answer": "İMAME",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Beyaz yağış",
+      "answer": "KAR",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yassı, mayalı ekmek",
+      "answer": "PİDE",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yiğit, kahraman",
+      "answer": "ALP",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski dilde ayak",
+      "answer": "PA",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "En soğuk mevsim",
+      "answer": "KIŞ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kurum, duman lekesi",
+      "answer": "İS",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Lityum'un simgesi",
+      "answer": "Lİ",
+      "row": 5,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Pul kanatlı renkli böcek",
+      "answer": "KELEBEK",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "DO",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tanrıtanımaz kimse",
+      "answer": "ATE",
+      "row": 7,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "İskambilde koz",
+      "answer": "ATU",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Halk dilinde ateş",
+      "answer": "HAR",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sodyum'un simgesi",
+      "answer": "NA",
+      "row": 9,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Öğütülmüş tahıl",
+      "answer": "UN",
+      "row": 10,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Giysi diken usta",
+      "answer": "TERZİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İki şey arasındaki boşluk",
+      "answer": "ARA",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Berilyum'un simgesi",
+      "answer": "BE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Saçsız",
+      "answer": "KEL",
+      "row": 4,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Surlarla çevrili yapı",
+      "answer": "KALE",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaban hayvanı barınağı",
+      "answer": "İN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Güçlü sevgi, sevda",
+      "answer": "AŞK",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Vilayet",
+      "answer": "İL",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İşve, naz",
+      "answer": "EDA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Belirti, emare",
+      "answer": "İZ",
+      "row": 9,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İskambilde birli",
+      "answer": "AS",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Uçak kullanan kimse",
+      "answer": "PİLOT",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "Mİ",
+      "row": 9,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Selenyum'un simgesi",
+      "answer": "SE",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Japon halk türküsü",
+      "answer": "UTA",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Takım, kadro",
+      "answer": "EKİP",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Baryum'un simgesi",
+      "answer": "BA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Hak ve hukuka uygunluk",
+      "answer": "ADALET",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Aydınlık, ışık",
+      "answer": "NUR",
+      "row": 8,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir seslenme ünlemi",
+      "answer": "BRE",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Japon çiçek düzenleme sanatı",
+      "answer": "İKEBANA",
+      "row": 4,
+      "col": 8,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 6
+    }
+  ],
+  "difficulty": "zor"
+}

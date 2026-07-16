@@ -1,0 +1,212 @@
+{
+  "id": "bulmaca-5",
+  "title": "Bulmaca 5",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Bir nota",
+      "answer": "DO",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sahne dansı sanatı",
+      "answer": "BALE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yırtıcı iri kuş",
+      "answer": "KARTAL",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir soru sözcüğü",
+      "answer": "NE",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Zamanın çok kısa parçası",
+      "answer": "AN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Lantan'ın simgesi",
+      "answer": "LA",
+      "row": 3,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Japon çiçek düzenleme sanatı",
+      "answer": "İKEBANA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bir askeri birlik",
+      "answer": "ALAY",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ekşi kiraz",
+      "answer": "VİŞNE",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Beyaz, kara karşıtı",
+      "answer": "AK",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Karı kocadan her biri",
+      "answer": "EŞ",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaban hayvanı barınağı",
+      "answer": "İN",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İskambilde koz",
+      "answer": "ATU",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir bağlaç",
+      "answer": "VE",
+      "row": 6,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Yayla atılan ince silah",
+      "answer": "OK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ters, huysuz",
+      "answer": "AKSİ",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çocuğu olan kadın, ana",
+      "answer": "ANNE",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ün, şöhret",
+      "answer": "ŞAN",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir seslenme ünlemi",
+      "answer": "BRE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Parklardaki oturma sırası",
+      "answer": "BANK",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Satrançta bir taş",
+      "answer": "AT",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir süs çiçeği",
+      "answer": "LALE",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaprakları katmerli kış sebzesi",
+      "answer": "LAHANA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kasapta satılan besin",
+      "answer": "ET",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yabancı kimse",
+      "answer": "EL",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Dünya'nın uydusu",
+      "answer": "AY",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir işaret sıfatı",
+      "answer": "ŞU",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay"
+}

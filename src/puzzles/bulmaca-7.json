@@ -1,0 +1,257 @@
+{
+  "id": "bulmaca-7",
+  "title": "Bulmaca 7",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Bir nota",
+      "answer": "Mİ",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İskambilde koz",
+      "answer": "ATU",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Havada yayılan akışkan madde",
+      "answer": "GAZ",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "'İşte' anlamında bir ünlem",
+      "answer": "HA",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kulağın algıladığı titreşim",
+      "answer": "SES",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kuşların barınağı",
+      "answer": "YUVA",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Utanma duygusu",
+      "answer": "AR",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Gövdenin ortası",
+      "answer": "BEL",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İnanç, görüş",
+      "answer": "KANI",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski konaklama yapısı; hükümdar",
+      "answer": "HAN",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tiyatroda özel bölme",
+      "answer": "LOCA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Öç alma isteği",
+      "answer": "KİN",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yassı metal levha",
+      "answer": "SAC",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Karışık renkli, benekli",
+      "answer": "ALA",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sanayi, endüstri",
+      "answer": "URAN",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Söylence",
+      "answer": "EFSANE",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Germanyum'un simgesi",
+      "answer": "GE",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kareli kumaş",
+      "answer": "EKOSE",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Olağanüstü halk anlatısı",
+      "answer": "MASAL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalsiyum'un simgesi",
+      "answer": "CA",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Belirti, emare",
+      "answer": "İZ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İslam'ın beşinci şartı",
+      "answer": "HAC",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Giysinin boyna gelen bölümü",
+      "answer": "YAKA",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Akıl",
+      "answer": "US",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ceylan",
+      "answer": "AHU",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Türkiye'nin başkenti",
+      "answer": "ANKARA",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Odanın üst yüzeyi",
+      "answer": "TAVAN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Duyuru",
+      "answer": "İLAN",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bal yapan böcek",
+      "answer": "ARI",
+      "row": 2,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Güzel kokulu bir bitki",
+      "answer": "NANE",
+      "row": 6,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 3
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 2
+    },
+    {
+      "row": 10,
+      "col": 0
+    }
+  ],
+  "difficulty": "orta"
+}

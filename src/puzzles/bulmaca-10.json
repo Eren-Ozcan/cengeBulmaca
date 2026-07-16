@@ -1,0 +1,318 @@
+{
+  "id": "bulmaca-10",
+  "title": "Bulmaca 10",
+  "rows": 13,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "Hardal kokulu savaş gazı",
+      "answer": "İPERİT",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Hak ve hukuka uygunluk",
+      "answer": "ADALET",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sık gözlü ağ",
+      "answer": "TOR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ateş (eski dilde)",
+      "answer": "OD",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Satrançta bir taş",
+      "answer": "AT",
+      "row": 3,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Spor karşılaşmaları kümesi",
+      "answer": "LİG",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yetki simgesi değnek",
+      "answer": "ASA",
+      "row": 5,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağacın yeşil organı",
+      "answer": "YAPRAK",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yığın",
+      "answer": "KÜME",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Temel, esas",
+      "answer": "ANA",
+      "row": 7,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "İzlenecek yol",
+      "answer": "ROTA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hareketi sağlayan doku",
+      "answer": "KAS",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Baryum'un simgesi",
+      "answer": "BA",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Zanaat öğrenen genç",
+      "answer": "ÇIRAK",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bir bağlaç",
+      "answer": "İLE",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Omuza alınan örtü",
+      "answer": "ŞAL",
+      "row": 12,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Avcının kısmeti",
+      "answer": "AV",
+      "row": 12,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "DO",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çeşit, cins",
+      "answer": "TÜR",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Şehir dışı açık alan",
+      "answer": "KIR",
+      "row": 9,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Oyuncunun canlandırdığı kişi",
+      "answer": "ROL",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Menekşe rengi",
+      "answer": "MOR",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde ayak",
+      "answer": "PA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sağlık için uygulanan beslenme düzeni",
+      "answer": "DİYET",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kafa; önder",
+      "answer": "BAŞ",
+      "row": 9,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İşve, naz",
+      "answer": "EDA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Galyum'un simgesi",
+      "answer": "GA",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İri taneli bezelye",
+      "answer": "ARAKA",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski Mısır'ın güneş tanrısı",
+      "answer": "RA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Vilayet",
+      "answer": "İL",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Saç düzeltme aracı",
+      "answer": "TARAK",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Nikel'in simgesi",
+      "answer": "Nİ",
+      "row": 9,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce metal iplik",
+      "answer": "TEL",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Güzel sanatların her biri",
+      "answer": "SANAT",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Lantan'ın simgesi",
+      "answer": "LA",
+      "row": 10,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Değiş tokuş",
+      "answer": "TAKAS",
+      "row": 3,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Masallardaki iri yaratık",
+      "answer": "DEV",
+      "row": 9,
+      "col": 8,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 8
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 12,
+      "col": 0
+    }
+  ],
+  "difficulty": "zor"
+}
