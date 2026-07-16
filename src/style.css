@@ -206,6 +206,8 @@ button {
 .daily-card {
   position: relative;
   overflow: hidden;
+  /* overflow:hidden flex içinde min-height'i sıfırlar; kart ezilmesin */
+  flex-shrink: 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
