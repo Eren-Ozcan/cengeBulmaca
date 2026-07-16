@@ -149,6 +149,16 @@ button {
   justify-content: space-between;
 }
 
+.home-top-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.theme-btn {
+  font-size: 1rem;
+}
+
 .brand {
   display: flex;
   align-items: center;
@@ -933,4 +943,141 @@ button {
   color: var(--accent);
   box-shadow: none;
   margin-top: 4px;
+}
+
+/* ---------- Gazete (klasik) tema ----------
+   Basılı gazete bulmacası görünümü: kağıt zemin, beyaz hücreler,
+   ince koyu çizgiler, gri soru hücreleri, serif tipografi, kırmızı vurgu.
+   Karanlık mod tercihinden bağımsız olarak hep "kağıt" kalır. */
+
+:root[data-theme="gazete"] {
+  --bg: #f1ede1;
+  --bg-grad: linear-gradient(180deg, #f1ede1, #f1ede1);
+  --surface: #fbfaf5;
+  --surface-2: #e4e0d2;
+  --ink: #17150e;
+  --ink-soft: #6d6a5e;
+  --accent: #a01c1c;
+  --accent-ink: #ffffff;
+  --accent-soft: #f0dcdc;
+  --hero-a: #232019;
+  --hero-b: #454037;
+  --gold: #c9a227;
+  --gold-soft: #f2e8c9;
+  --tile: #ffffff;
+  --tile-border: #d5d1c2;
+  --tile-active: #e7ebf2;
+  --tile-selected: #ffe9a8;
+  --clue-bg: #e6e3d7;
+  --clue-ink: #17150e;
+  --clue-hi: #a01c1c;
+  --wrong: #c0271f;
+  --ok: #2e7d4f;
+  --kb-key: #fbfaf5;
+  --kb-key-shadow: #c9c5b6;
+  --shadow: 0 1px 2px rgba(23, 21, 14, 0.1);
+  --radius: 10px;
+}
+
+:root[data-theme="gazete"] body {
+  font-family: Georgia, "Times New Roman", "Nunito Variable", serif;
+}
+
+:root[data-theme="gazete"] .brand-mark {
+  border-radius: 4px;
+  transform: none;
+  background: #17150e;
+  box-shadow: none;
+}
+
+:root[data-theme="gazete"] .daily-card {
+  border-radius: 8px;
+  box-shadow: 0 4px 14px rgba(23, 21, 14, 0.25);
+}
+
+:root[data-theme="gazete"] .daily-card::before,
+:root[data-theme="gazete"] .daily-card::after {
+  display: none;
+}
+
+:root[data-theme="gazete"] .daily-cta {
+  color: #17150e;
+}
+
+/* ızgara: bitişik hücreler, ince koyu çizgiler, köşesiz */
+:root[data-theme="gazete"] .grid {
+  gap: 1px;
+  padding: 2px;
+  border-radius: 2px;
+  background: #17150e;
+  border-color: #17150e;
+}
+
+:root[data-theme="gazete"] .cell {
+  border-radius: 0;
+}
+
+:root[data-theme="gazete"] .letter-cell {
+  border: none;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+}
+
+:root[data-theme="gazete"] .letter-cell.in-active-word {
+  background: var(--tile-active);
+}
+
+:root[data-theme="gazete"] .letter-cell.selected {
+  outline: 2.5px solid var(--accent);
+  background: var(--tile-selected);
+}
+
+:root[data-theme="gazete"] .clue-cell {
+  background: var(--clue-bg);
+  color: var(--clue-ink);
+}
+
+:root[data-theme="gazete"] .clue-cell.clue-active {
+  outline: 2px solid var(--accent);
+}
+
+:root[data-theme="gazete"] .clue-split .clue-part + .clue-part {
+  border-top: 1px solid rgba(23, 21, 14, 0.35);
+}
+
+:root[data-theme="gazete"] .clue-arrow {
+  color: #17150e;
+}
+
+:root[data-theme="gazete"] .clue-part-active .clue-text {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+:root[data-theme="gazete"] .block-cell {
+  background: #45423a;
+  opacity: 1;
+}
+
+/* klavye ve butonlar: düz, mürekkep çizgili */
+:root[data-theme="gazete"] .kb-key {
+  border-radius: 5px;
+  border: 1px solid #c9c5b6;
+}
+
+:root[data-theme="gazete"] .kb-key:active {
+  background: #17150e;
+}
+
+:root[data-theme="gazete"] .cluebar {
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(23, 21, 14, 0.25);
+}
+
+:root[data-theme="gazete"] .icon-btn,
+:root[data-theme="gazete"] .action-btn,
+:root[data-theme="gazete"] .streak-chip,
+:root[data-theme="gazete"] .stat-card,
+:root[data-theme="gazete"] .puzzle-card {
+  border-color: #b9b5a6;
 }
