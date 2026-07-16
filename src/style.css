@@ -1,46 +1,65 @@
 :root {
-  --bg: #f6f5f2;
+  --bg: #f7f3ea;
+  --bg-grad: linear-gradient(180deg, #efeafc 0%, #f7f3ea 280px);
   --surface: #ffffff;
-  --surface-2: #eceae4;
-  --ink: #17161a;
-  --ink-soft: #6f6d78;
-  --accent: #6c5ce7;
+  --surface-2: #ede8dd;
+  --ink: #201f26;
+  --ink-soft: #7a7683;
+  --accent: #5b5bd6;
   --accent-ink: #ffffff;
-  --accent-soft: #e9e5fd;
-  --hero-a: #6c5ce7;
-  --hero-b: #a463f2;
+  --accent-soft: #e9e8fb;
+  --hero-a: #5f5af0;
+  --hero-b: #a75bdd;
+  --gold: #f5b83d;
+  --gold-soft: #fbedcd;
   --tile: #ffffff;
-  --tile-active: #f3edff;
-  --tile-selected: #e3d9ff;
-  --clue-bg: #2b2937;
-  --clue-ink: #eceaf6;
+  --tile-border: #e7e2d6;
+  --tile-active: #e9e8fb;
+  --tile-selected: #fbedcd;
+  --clue-bg: #292734;
+  --clue-ink: #edeaf6;
   --clue-hi: #ffd166;
-  --wrong: #e04f4f;
-  --ok: #2eb872;
+  --wrong: #e5484d;
+  --ok: #2fa96e;
   --kb-bg: transparent;
   --kb-key: #ffffff;
-  --shadow: 0 1px 3px rgba(20, 18, 28, 0.1);
-  --radius: 16px;
+  --kb-key-shadow: #d9d3c6;
+  --shadow: 0 1px 3px rgba(28, 25, 38, 0.08), 0 4px 14px rgba(28, 25, 38, 0.06);
+  --radius: 18px;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #121118;
-    --surface: #1d1b26;
-    --surface-2: #26232f;
-    --ink: #f0eef6;
-    --ink-soft: #97939f;
-    --accent: #8b7cf8;
-    --accent-soft: #2c2745;
-    --hero-a: #5b4bd4;
-    --hero-b: #8e4fd9;
-    --tile: #26232f;
-    --tile-active: #322c4a;
-    --tile-selected: #453a6e;
-    --clue-bg: #0f0e15;
-    --clue-ink: #d8d5e6;
-    --kb-key: #2c2937;
-    --shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+    --bg: #0f1017;
+    --bg-grad: linear-gradient(180deg, #1b1733 0%, #0f1017 300px);
+    --surface: #1a1b25;
+    --surface-2: #232430;
+    --ink: #f0eff6;
+    --ink-soft: #94919e;
+    --accent: #7d7df2;
+    --accent-soft: #282850;
+    --hero-a: #5d55e2;
+    --hero-b: #9a4fd4;
+    --gold: #f0b13a;
+    --gold-soft: #453413;
+    --tile: #232433;
+    --tile-border: #303142;
+    --tile-active: #2c2d4c;
+    --tile-selected: #4a3a15;
+    --clue-bg: #0b0b12;
+    --clue-ink: #d9d6e6;
+    --kb-key: #2b2c3a;
+    --kb-key-shadow: #14141c;
+    --shadow: 0 1px 3px rgba(0, 0, 0, 0.45), 0 4px 14px rgba(0, 0, 0, 0.3);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
   }
 }
 
@@ -59,7 +78,7 @@ body {
 body {
   font-family: "Nunito Variable", "Segoe UI", system-ui, -apple-system,
     "Helvetica Neue", sans-serif;
-  background: var(--bg);
+  background: var(--bg) var(--bg-grad) no-repeat;
   color: var(--ink);
   overscroll-behavior: none;
   user-select: none;
