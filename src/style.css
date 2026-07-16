@@ -57,7 +57,8 @@ body {
 }
 
 body {
-  font-family: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", sans-serif;
+  font-family: "Nunito Variable", "Segoe UI", system-ui, -apple-system,
+    "Helvetica Neue", sans-serif;
   background: var(--bg);
   color: var(--ink);
   overscroll-behavior: none;
