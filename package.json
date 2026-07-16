@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "gen": "node tools/generate.mjs",
     "test": "vitest run",
-    "android": "npm run build && cap sync android && cd android && gradlew.bat assembleDebug"
+    "android": "npm run build && cap sync android && cd android && gradlew.bat assembleDebug",
+    "android:release": "npm run build && cap sync android && cd android && gradlew.bat assembleRelease"
   },
   "devDependencies": {
     "@capacitor/cli": "^8.4.2",
