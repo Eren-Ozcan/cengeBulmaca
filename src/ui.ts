@@ -14,6 +14,14 @@ import {
   loadStats,
   playedToday,
 } from "./stats.ts";
+import {
+  playCorrect,
+  playKey,
+  playWin,
+  playWrong,
+  soundEnabled,
+  toggleSound,
+} from "./sound.ts";
 import type { ArrowDir, PuzzleDef } from "./types.ts";
 
 // Ok ikonları: klasik çengel bulmaca okları (SVG, currentColor)
@@ -141,6 +149,18 @@ export class App {
     this.renderGame();
   }
 
+  /**
+   * Bir hamleyi çalıştırır, bulmaca bu hamleyle tamamlandıysa
+   * kutlama efektini tetikler ve ekranı tazeler.
+   */
+  private withWinCheck(action: () => void): void {
+    const s = this.state!;
+    const wasCompleted = s.completed;
+    action();
+    if (!wasCompleted && s.completed) playWin();
+    this.renderGame();
+  }
+
   // ---------- oyun ekranı ----------
 
   private renderGame(): void {
@@ -163,6 +183,8 @@ export class App {
     const checkBtn = el("button", "action-btn", "Kontrol");
     checkBtn.addEventListener("click", () => {
       const wrong = checkEntries(s);
+      if (wrong === 0) playCorrect();
+      else playWrong();
       this.renderGame();
       if (wrong === 0) toast(this.root, "Dolu hücrelerin hepsi doğru!");
       else toast(this.root, `${wrong} yanlış harf işaretlendi`);
@@ -170,11 +192,16 @@ export class App {
     const revealBtn = el("button", "action-btn", "İpucu");
     revealBtn.title = "Seçili hücrenin harfini aç";
     revealBtn.addEventListener("click", () => {
-      revealLetter(s);
-      this.renderGame();
+      this.withWinCheck(() => revealLetter(s));
+    });
+    const soundBtn = el("button", "icon-btn sound-btn", soundEnabled() ? "🔊" : "🔇");
+    soundBtn.setAttribute("aria-label", "Sesi aç/kapat");
+    soundBtn.addEventListener("click", () => {
+      soundBtn.textContent = toggleSound() ? "🔊" : "🔇";
     });
     actions.appendChild(checkBtn);
     actions.appendChild(revealBtn);
+    actions.appendChild(soundBtn);
     bar.appendChild(actions);
     wrap.appendChild(bar);
 
@@ -272,13 +299,14 @@ export class App {
         if (key === "⌫") {
           btn.classList.add("kb-backspace");
           btn.addEventListener("click", () => {
+            playKey();
             backspace(s);
             this.renderGame();
           });
         } else {
           btn.addEventListener("click", () => {
-            typeLetter(s, key);
-            this.renderGame();
+            playKey();
+            this.withWinCheck(() => typeLetter(s, key));
           });
         }
         rowEl.appendChild(btn);
@@ -323,8 +351,7 @@ export class App {
         this.renderGame();
         e.preventDefault();
       } else if (/^[a-zA-ZçÇğĞıİöÖşŞüÜ]$/.test(e.key)) {
-        typeLetter(s, e.key);
-        this.renderGame();
+        this.withWinCheck(() => typeLetter(s, e.key));
         e.preventDefault();
       }
     });
