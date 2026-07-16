@@ -286,8 +286,48 @@ button {
   min-width: 0;
 }
 
+.puzzle-title-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+
 .puzzle-title {
   font-weight: 700;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.diff-chip {
+  flex-shrink: 0;
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  border-radius: 999px;
+  padding: 2px 8px;
+}
+
+.diff-kolay {
+  background: color-mix(in srgb, var(--ok) 18%, transparent);
+  color: var(--ok);
+}
+
+.diff-orta {
+  background: color-mix(in srgb, var(--clue-hi) 22%, transparent);
+  color: #b8860b;
+}
+
+.diff-zor {
+  background: color-mix(in srgb, var(--wrong) 16%, transparent);
+  color: var(--wrong);
+}
+
+@media (prefers-color-scheme: dark) {
+  .diff-orta {
+    color: var(--clue-hi);
+  }
 }
 
 .puzzle-sub {

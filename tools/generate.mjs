@@ -1,7 +1,8 @@
 // Çengel bulmaca üretici.
 //
 // Kullanım:
-//   node tools/generate.mjs <id> <başlık> [seed] [cols] [rows]
+//   node tools/generate.mjs <id> <başlık> [seed] [cols] [rows] [zorluk]
+//   zorluk: kolay | orta | zor (isteğe bağlı etiket)
 //
 // Akış: rastgele maske üret -> ipucu hücrelerine soru ataması yap ->
 // sözlükten backtracking ile doldur -> doğrula -> src/puzzles/<id>.json yaz.
@@ -342,9 +343,13 @@ function validatePuzzle(p) {
 }
 
 // ---------- ana akış ----------
-const [id, title, seedArg, colsArg, rowsArg] = process.argv.slice(2);
+const [id, title, seedArg, colsArg, rowsArg, diffArg] = process.argv.slice(2);
 if (!id || !title) {
-  console.error("Kullanım: node tools/generate.mjs <id> <başlık> [seed] [cols] [rows]");
+  console.error("Kullanım: node tools/generate.mjs <id> <başlık> [seed] [cols] [rows] [zorluk]");
+  process.exit(1);
+}
+if (diffArg && !["kolay", "orta", "zor"].includes(diffArg)) {
+  console.error(`Geçersiz zorluk '${diffArg}': kolay | orta | zor`);
   process.exit(1);
 }
 const cols = Number(colsArg ?? 7);
@@ -404,6 +409,7 @@ for (let r = 0; r < rows; r++) {
 }
 
 const puzzle = { id, title, rows, cols, clues, blocks };
+if (diffArg) puzzle.difficulty = diffArg;
 validatePuzzle(puzzle);
 
 // çözümü konsola bas (gözden geçirme için)

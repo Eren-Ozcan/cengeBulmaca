@@ -82,7 +82,12 @@ export class App {
       ),
     );
     heroInfo.appendChild(
-      el("div", "daily-meta", `${daily.title} · ${daily.cols}×${daily.rows}`),
+      el(
+        "div",
+        "daily-meta",
+        `${daily.title} · ${daily.cols}×${daily.rows}` +
+          (daily.difficulty ? ` · ${capitalizeTr(daily.difficulty)}` : ""),
+      ),
     );
     hero.appendChild(heroInfo);
     hero.appendChild(
@@ -108,7 +113,14 @@ export class App {
       if (solved) num.classList.add("solved");
       btn.appendChild(num);
       const info = el("div", "puzzle-info");
-      info.appendChild(el("div", "puzzle-title", p.title));
+      const titleRow = el("div", "puzzle-title-row");
+      titleRow.appendChild(el("span", "puzzle-title", p.title));
+      if (p.difficulty) {
+        titleRow.appendChild(
+          el("span", `diff-chip diff-${p.difficulty}`, capitalizeTr(p.difficulty)),
+        );
+      }
+      info.appendChild(titleRow);
       info.appendChild(
         el("div", "puzzle-sub", `${p.cols}×${p.rows} · ${p.clues.length} soru`),
       );
@@ -327,6 +339,10 @@ function statCard(icon: string, value: string, label: string): HTMLElement {
   col.appendChild(el("div", "stat-label", label));
   card.appendChild(col);
   return card;
+}
+
+function capitalizeTr(s: string): string {
+  return s.charAt(0).toLocaleUpperCase("tr-TR") + s.slice(1);
 }
 
 function sizeClass(text: string): string {

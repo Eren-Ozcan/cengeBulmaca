@@ -24,6 +24,8 @@ export interface ClueDef {
   arrow: ArrowDir;
 }
 
+export type Difficulty = "kolay" | "orta" | "zor";
+
 export interface PuzzleDef {
   id: string;
   title: string;
@@ -32,6 +34,8 @@ export interface PuzzleDef {
   clues: ClueDef[];
   /** Soru barındırmayan koyu (blok) hücreler */
   blocks?: { row: number; col: number }[];
+  /** Zorluk etiketi; verilmezse listede gösterilmez */
+  difficulty?: Difficulty;
 }
 
 /** Cevabın yerleştiği hücreler: başlangıç konumu ve ilerleme yönü */
