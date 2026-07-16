@@ -8,12 +8,14 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "gen": "node tools/generate.mjs",
+    "test": "vitest run",
     "android": "npm run build && cap sync android && cd android && gradlew.bat assembleDebug"
   },
   "devDependencies": {
     "@capacitor/cli": "^8.4.2",
     "typescript": "~6.0.2",
-    "vite": "^8.1.1"
+    "vite": "^8.1.1",
+    "vitest": "^4.1.10"
   },
   "dependencies": {
     "@capacitor/android": "^8.4.2",
