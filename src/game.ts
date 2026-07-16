@@ -1,4 +1,5 @@
 import { buildGrid, trUpper } from "./puzzle.ts";
+import { recordCompletion } from "./stats.ts";
 import type { Grid, LetterCell, PuzzleDef } from "./types.ts";
 
 export interface GameState {
@@ -96,12 +97,7 @@ export function typeLetter(s: GameState, letter: string): void {
     }
   }
 
-  if (isSolved(s)) {
-    s.completed = true;
-    clearProgress(s.puzzle.id);
-  } else {
-    saveProgress(s);
-  }
+  finishIfSolved(s);
 }
 
 /** Silme: hücre doluysa temizler, boşsa bir geri gidip temizler */
@@ -148,9 +144,15 @@ export function revealLetter(s: GameState): void {
   const i = cellIdx(s, s.selRow, s.selCol);
   s.entries[i] = cell.solution;
   s.wrongCells.delete(i);
+  finishIfSolved(s);
+}
+
+/** Çözüm tamamlandıysa oyunu bitirir, seriyi işler; değilse ilerlemeyi kaydeder. */
+function finishIfSolved(s: GameState): void {
   if (isSolved(s)) {
     s.completed = true;
     clearProgress(s.puzzle.id);
+    recordCompletion(s.puzzle.id);
   } else {
     saveProgress(s);
   }
