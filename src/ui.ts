@@ -3,6 +3,7 @@ import {
   checkEntries,
   newGame,
   revealLetter,
+  savedProgress,
   selectCell,
   typeLetter,
   type GameState,
@@ -118,6 +119,7 @@ export class App {
     this.puzzles.forEach((p, i) => {
       const solved = isSolvedPuzzle(p.id);
       const btn = el("button", "puzzle-card");
+      btn.style.setProperty("--i", String(i));
       const num = el("div", "puzzle-num", String(i + 1));
       if (solved) num.classList.add("solved");
       btn.appendChild(num);
@@ -133,6 +135,14 @@ export class App {
       info.appendChild(
         el("div", "puzzle-sub", `${p.cols}×${p.rows} · ${p.clues.length} soru`),
       );
+      const prog = solved ? 0 : savedProgress(p);
+      if (prog > 0) {
+        const bar = el("div", "puzzle-progress");
+        const fill = el("div", "puzzle-progress-fill");
+        fill.style.width = `${Math.max(4, Math.round(prog * 100))}%`;
+        bar.appendChild(fill);
+        info.appendChild(bar);
+      }
       btn.appendChild(info);
       btn.appendChild(
         el("div", "puzzle-badge" + (solved ? " solved" : ""), solved ? "✓" : "›"),

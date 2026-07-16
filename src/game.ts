@@ -198,3 +198,28 @@ function clearProgress(id: string): void {
     // yok sayılır
   }
 }
+
+/**
+ * Kayıtlı ilerleme oranı (0-1): dolu harf hücresi / toplam harf hücresi.
+ * Ana menüdeki ilerleme çubukları için; kayıt yoksa 0.
+ */
+export function savedProgress(puzzle: PuzzleDef): number {
+  try {
+    const raw = localStorage.getItem(STORAGE_PREFIX + puzzle.id);
+    if (!raw) return 0;
+    const saved = JSON.parse(raw);
+    if (!Array.isArray(saved)) return 0;
+    const grid = buildGrid(puzzle);
+    let total = 0;
+    let filled = 0;
+    for (const cell of grid.cells) {
+      if (cell.kind !== "letter") continue;
+      total++;
+      const v = saved[cell.row * grid.cols + cell.col];
+      if (typeof v === "string" && v !== "") filled++;
+    }
+    return total > 0 ? filled / total : 0;
+  } catch {
+    return 0;
+  }
+}

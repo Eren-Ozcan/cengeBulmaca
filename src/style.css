@@ -106,10 +106,41 @@ button {
 .home {
   flex: 1;
   overflow-y: auto;
-  padding: 18px 16px calc(24px + env(safe-area-inset-bottom));
+  padding: 20px 16px calc(28px + env(safe-area-inset-bottom));
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 18px;
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.home > * {
+  animation: rise-in 0.4s cubic-bezier(0.2, 0.7, 0.3, 1) both;
+}
+
+.home > *:nth-child(2) {
+  animation-delay: 50ms;
+}
+
+.home > *:nth-child(3) {
+  animation-delay: 100ms;
+}
+
+.home > *:nth-child(4) {
+  animation-delay: 140ms;
+}
+
+.home > *:nth-child(5) {
+  animation-delay: 170ms;
 }
 
 .home-top {
@@ -125,22 +156,24 @@ button {
 }
 
 .brand-mark {
-  width: 38px;
-  height: 38px;
-  border-radius: 11px;
+  width: 42px;
+  height: 42px;
+  border-radius: 13px;
   background: linear-gradient(135deg, var(--hero-a), var(--hero-b));
   color: #fff;
-  font-weight: 800;
-  font-size: 1.2rem;
+  font-weight: 900;
+  font-size: 1.3rem;
   display: flex;
   align-items: center;
   justify-content: center;
+  transform: rotate(-6deg);
+  box-shadow: 0 5px 14px rgba(95, 90, 240, 0.35);
 }
 
 .brand-name {
-  font-size: 1.35rem;
-  font-weight: 800;
-  letter-spacing: -0.01em;
+  font-size: 1.45rem;
+  font-weight: 900;
+  letter-spacing: -0.02em;
 }
 
 .streak-chip {
@@ -148,17 +181,20 @@ button {
   align-items: center;
   gap: 5px;
   background: var(--surface);
+  border: 1px solid var(--tile-border);
   border-radius: 999px;
-  padding: 7px 13px;
-  font-weight: 700;
+  padding: 8px 14px;
+  font-weight: 800;
   box-shadow: var(--shadow);
   filter: grayscale(1);
-  opacity: 0.75;
+  opacity: 0.7;
 }
 
 .streak-chip.streak-hot {
   filter: none;
   opacity: 1;
+  background: var(--gold-soft);
+  border-color: color-mix(in srgb, var(--gold) 50%, transparent);
 }
 
 .streak-count {
@@ -168,55 +204,92 @@ button {
 /* günün bulmacası */
 
 .daily-card {
+  position: relative;
+  overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  padding: 20px;
-  border-radius: var(--radius);
+  padding: 22px 20px;
+  border-radius: 22px;
   background: linear-gradient(135deg, var(--hero-a), var(--hero-b));
   color: #fff;
   text-align: left;
-  box-shadow: 0 8px 24px rgba(108, 92, 231, 0.35);
+  box-shadow: 0 10px 28px rgba(95, 90, 240, 0.35);
   transition: transform 0.12s ease;
+}
+
+/* hero süslemeleri: ışık huzmesi ve dönük mini ızgara deseni */
+.daily-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 88% -30%, rgba(255, 255, 255, 0.28), transparent 55%),
+    radial-gradient(circle at 115% 95%, rgba(255, 255, 255, 0.14), transparent 45%);
+  pointer-events: none;
+}
+
+.daily-card::after {
+  content: "";
+  position: absolute;
+  right: -30px;
+  top: -34px;
+  width: 150px;
+  height: 150px;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.18) 2px, transparent 2px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.18) 2px, transparent 2px);
+  background-size: 27px 27px;
+  transform: rotate(12deg);
+  pointer-events: none;
+  mask-image: radial-gradient(circle at 65% 35%, #000 40%, transparent 75%);
 }
 
 .daily-card:active {
   transform: scale(0.98);
 }
 
+.daily-info,
+.daily-cta {
+  position: relative;
+  z-index: 1;
+}
+
 .daily-label {
   font-size: 0.7rem;
-  font-weight: 800;
-  letter-spacing: 0.14em;
-  opacity: 0.85;
+  font-weight: 900;
+  letter-spacing: 0.16em;
+  opacity: 0.9;
 }
 
 .daily-date {
-  font-size: 1.15rem;
-  font-weight: 800;
+  font-size: 1.3rem;
+  font-weight: 900;
   margin-top: 4px;
+  letter-spacing: -0.01em;
 }
 
 .daily-meta {
   font-size: 0.85rem;
-  opacity: 0.85;
-  margin-top: 2px;
+  opacity: 0.88;
+  margin-top: 3px;
+  font-weight: 600;
 }
 
 .daily-cta {
   flex-shrink: 0;
-  background: rgba(255, 255, 255, 0.22);
-  backdrop-filter: blur(4px);
+  background: rgba(255, 255, 255, 0.95);
+  color: var(--hero-a);
   border-radius: 999px;
-  padding: 12px 22px;
-  font-weight: 800;
+  padding: 13px 24px;
+  font-weight: 900;
   font-size: 1rem;
+  box-shadow: 0 4px 12px rgba(20, 10, 60, 0.25);
 }
 
 .daily-cta.done {
-  background: rgba(255, 255, 255, 0.92);
-  color: var(--hero-a);
+  color: var(--ok);
 }
 
 /* istatistikler */
@@ -232,32 +305,47 @@ button {
   align-items: center;
   gap: 12px;
   background: var(--surface);
+  border: 1px solid var(--tile-border);
   border-radius: var(--radius);
-  padding: 14px 16px;
+  padding: 13px 15px;
   box-shadow: var(--shadow);
 }
 
 .stat-icon {
-  font-size: 1.5rem;
+  width: 44px;
+  height: 44px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  background: var(--accent-soft);
+  flex-shrink: 0;
+}
+
+.stat-card:first-child .stat-icon {
+  background: var(--gold-soft);
 }
 
 .stat-value {
-  font-size: 1.25rem;
-  font-weight: 800;
+  font-size: 1.35rem;
+  font-weight: 900;
   line-height: 1.1;
 }
 
 .stat-label {
   font-size: 0.8rem;
   color: var(--ink-soft);
+  font-weight: 600;
 }
 
 /* bulmaca listesi */
 
 .section-title {
-  font-size: 1.05rem;
-  font-weight: 800;
+  font-size: 1.1rem;
+  font-weight: 900;
   margin-top: 4px;
+  letter-spacing: -0.01em;
 }
 
 .puzzle-list {
@@ -271,11 +359,14 @@ button {
   align-items: center;
   gap: 14px;
   background: var(--surface);
+  border: 1px solid var(--tile-border);
   border-radius: var(--radius);
   padding: 14px 16px;
   box-shadow: var(--shadow);
   text-align: left;
   transition: transform 0.12s ease;
+  animation: rise-in 0.35s cubic-bezier(0.2, 0.7, 0.3, 1) both;
+  animation-delay: calc(180ms + var(--i, 0) * 35ms);
 }
 
 .puzzle-card:active {
@@ -283,13 +374,13 @@ button {
 }
 
 .puzzle-num {
-  width: 40px;
-  height: 40px;
-  border-radius: 12px;
+  width: 42px;
+  height: 42px;
+  border-radius: 13px;
   background: var(--accent-soft);
   color: var(--accent);
-  font-weight: 800;
-  font-size: 1.05rem;
+  font-weight: 900;
+  font-size: 1.1rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -364,6 +455,20 @@ button {
 
 .puzzle-badge.solved {
   color: var(--ok);
+}
+
+.puzzle-progress {
+  height: 5px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  margin-top: 8px;
+  overflow: hidden;
+}
+
+.puzzle-progress-fill {
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--hero-a), var(--hero-b));
 }
 
 /* ---------- oyun ekranı ---------- */
