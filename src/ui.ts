@@ -24,6 +24,7 @@ import {
   toggleSound,
 } from "./sound.ts";
 import { hapticKey, hapticWin, hapticWrong } from "./haptics.ts";
+import { currentTheme, toggleTheme } from "./theme.ts";
 import type { ArrowDir, PuzzleDef } from "./types.ts";
 
 // Ok ikonları: klasik çengel bulmaca okları (SVG, currentColor)
@@ -68,11 +69,25 @@ export class App {
     brand.appendChild(el("span", "brand-mark", "Ç"));
     brand.appendChild(el("span", "brand-name", "Çengel"));
     top.appendChild(brand);
+    const right = el("div", "home-top-right");
+    const themeBtn = el(
+      "button",
+      "icon-btn theme-btn",
+      currentTheme() === "gazete" ? "🎨" : "📰",
+    );
+    themeBtn.title = "Tema değiştir: modern / gazete";
+    themeBtn.setAttribute("aria-label", "Tema değiştir");
+    themeBtn.addEventListener("click", () => {
+      toggleTheme();
+      this.renderHome();
+    });
+    right.appendChild(themeBtn);
     const streak = currentStreak();
     const chip = el("div", "streak-chip" + (playedToday() ? " streak-hot" : ""));
     chip.appendChild(el("span", "streak-flame", "🔥"));
     chip.appendChild(el("span", "streak-count", String(streak)));
-    top.appendChild(chip);
+    right.appendChild(chip);
+    top.appendChild(right);
     home.appendChild(top);
 
     // günün bulmacası kartı
