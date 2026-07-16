@@ -341,6 +341,9 @@ export class App {
       );
       modal.appendChild(line);
     }
+    const shareBtn = el("button", "modal-btn modal-share", "Sonucu paylaş");
+    shareBtn.addEventListener("click", () => void this.shareResult());
+    modal.appendChild(shareBtn);
     const btn = el("button", "modal-btn", "Ana menüye dön");
     btn.addEventListener("click", () => {
       this.state = null;
@@ -349,6 +352,30 @@ export class App {
     modal.appendChild(btn);
     overlay.appendChild(modal);
     this.root.appendChild(overlay);
+  }
+
+  /** Sonucu sistem paylaşım menüsüyle, yoksa panoya kopyalayarak paylaşır. */
+  private async shareResult(): Promise<void> {
+    const s = this.state;
+    if (!s) return;
+    const streak = currentStreak();
+    const diff = s.puzzle.difficulty ? ` · ${capitalizeTr(s.puzzle.difficulty)}` : "";
+    const lines = [
+      "Çengel Bulmaca 🧩",
+      `${s.puzzle.title} (${s.puzzle.cols}×${s.puzzle.rows}${diff}) çözüldü ✅`,
+    ];
+    if (streak > 1) lines.push(`🔥 ${streak} günlük seri`);
+    const text = lines.join("\n");
+    try {
+      if (navigator.share) {
+        await navigator.share({ text });
+        return;
+      }
+      await navigator.clipboard.writeText(text);
+      toast(this.root, "Sonuç panoya kopyalandı");
+    } catch {
+      // kullanıcı paylaşımı iptal ettiyse sessizce dön
+    }
   }
 
   /** Fiziksel klavye desteği (masaüstü testleri için) */

@@ -744,3 +744,10 @@ button {
 .modal-btn:active {
   transform: scale(0.97);
 }
+
+.modal-share {
+  background: var(--accent-soft);
+  color: var(--accent);
+  box-shadow: none;
+  margin-top: 4px;
+}
