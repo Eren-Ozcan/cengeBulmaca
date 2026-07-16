@@ -7,6 +7,14 @@ yöne yazılacağını gösterir.
 Web teknolojisiyle (Vite + TypeScript, framework'süz) geliştirildi,
 Capacitor ile Android uygulamasına paketlenir.
 
+## Özellikler
+
+- Klasik çengel formatı: hücre içi sorular, 4 tip yön oku, çift soruluk hücreler
+- Günün bulmacası (tarihe göre deterministik seçim) ve 🔥 günlük seri (streak)
+- Türkçe ekran klavyesi (Ğ Ü Ş İ Ö Ç), kontrol ve ipucu (harf açma)
+- İlerleme kaydı (localStorage) — kaldığın yerden devam
+- Açık/koyu tema (sistem tercihine göre)
+
 ## Geliştirme
 
 ```bash
