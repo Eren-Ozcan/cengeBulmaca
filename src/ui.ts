@@ -7,13 +7,21 @@ import {
   typeLetter,
   type GameState,
 } from "./game.ts";
+import {
+  currentStreak,
+  dailyIndex,
+  isSolvedPuzzle,
+  loadStats,
+  playedToday,
+} from "./stats.ts";
 import type { ArrowDir, PuzzleDef } from "./types.ts";
 
-const ARROW_GLYPH: Record<ArrowDir, string> = {
-  right: "▸",
-  down: "▾",
-  "right-down": "↴",
-  "down-right": "↳",
+// Ok ikonları: klasik çengel bulmaca okları (SVG, currentColor)
+const ARROW_SVG: Record<ArrowDir, string> = {
+  right: `<svg viewBox="0 0 10 10"><path d="M2.5 1.5 L8 5 L2.5 8.5 Z"/></svg>`,
+  down: `<svg viewBox="0 0 10 10"><path d="M1.5 2.5 L5 8 L8.5 2.5 Z"/></svg>`,
+  "right-down": `<svg viewBox="0 0 10 10"><path d="M0.5 2 H5.2 V4.6" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M2.8 4.6 L5.2 8.8 L7.6 4.6 Z"/></svg>`,
+  "down-right": `<svg viewBox="0 0 10 10"><path d="M2 0.5 V5.2 H4.6" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M4.6 2.8 L8.8 5.2 L4.6 7.6 Z"/></svg>`,
 };
 
 const KEY_ROWS = [
@@ -36,24 +44,83 @@ export class App {
     this.renderHome();
   }
 
+  // ---------- ana menü ----------
+
   private renderHome(): void {
     this.root.innerHTML = "";
     const home = el("div", "home");
-    home.appendChild(el("h1", "home-title", "Çengel Bulmaca"));
-    home.appendChild(
-      el("p", "home-sub", "Bir bulmaca seç ve çözmeye başla"),
+
+    // üst bar: logo + seri rozeti
+    const top = el("div", "home-top");
+    const brand = el("div", "brand");
+    brand.appendChild(el("span", "brand-mark", "Ç"));
+    brand.appendChild(el("span", "brand-name", "Çengel"));
+    top.appendChild(brand);
+    const streak = currentStreak();
+    const chip = el("div", "streak-chip" + (playedToday() ? " streak-hot" : ""));
+    chip.appendChild(el("span", "streak-flame", "🔥"));
+    chip.appendChild(el("span", "streak-count", String(streak)));
+    top.appendChild(chip);
+    home.appendChild(top);
+
+    // günün bulmacası kartı
+    const di = dailyIndex(this.puzzles.length);
+    const daily = this.puzzles[di];
+    const dailyDone = isSolvedPuzzle(daily.id);
+    const hero = el("button", "daily-card");
+    const heroInfo = el("div", "daily-info");
+    heroInfo.appendChild(el("div", "daily-label", "GÜNÜN BULMACASI"));
+    heroInfo.appendChild(
+      el(
+        "div",
+        "daily-date",
+        new Date().toLocaleDateString("tr-TR", {
+          day: "numeric",
+          month: "long",
+          weekday: "long",
+        }),
+      ),
     );
+    heroInfo.appendChild(
+      el("div", "daily-meta", `${daily.title} · ${daily.cols}×${daily.rows}`),
+    );
+    hero.appendChild(heroInfo);
+    hero.appendChild(
+      el("div", "daily-cta" + (dailyDone ? " done" : ""), dailyDone ? "✓" : "Oyna"),
+    );
+    hero.addEventListener("click", () => this.openPuzzle(daily));
+    home.appendChild(hero);
+
+    // istatistik satırı
+    const stats = loadStats();
+    const statRow = el("div", "stat-row");
+    statRow.appendChild(statCard("🔥", String(streak), "Günlük seri"));
+    statRow.appendChild(statCard("✅", String(stats.solved.length), "Çözülen"));
+    home.appendChild(statRow);
+
+    // bulmaca listesi
+    home.appendChild(el("div", "section-title", "Tüm Bulmacalar"));
     const list = el("div", "puzzle-list");
-    for (const p of this.puzzles) {
-      const btn = el("button", "puzzle-btn");
-      btn.appendChild(el("span", "puzzle-btn-title", p.title));
+    this.puzzles.forEach((p, i) => {
+      const solved = isSolvedPuzzle(p.id);
+      const btn = el("button", "puzzle-card");
+      const num = el("div", "puzzle-num", String(i + 1));
+      if (solved) num.classList.add("solved");
+      btn.appendChild(num);
+      const info = el("div", "puzzle-info");
+      info.appendChild(el("div", "puzzle-title", p.title));
+      info.appendChild(
+        el("div", "puzzle-sub", `${p.cols}×${p.rows} · ${p.clues.length} soru`),
+      );
+      btn.appendChild(info);
       btn.appendChild(
-        el("span", "puzzle-btn-size", `${p.cols}×${p.rows}`),
+        el("div", "puzzle-badge" + (solved ? " solved" : ""), solved ? "✓" : "›"),
       );
       btn.addEventListener("click", () => this.openPuzzle(p));
       list.appendChild(btn);
-    }
+    });
     home.appendChild(list);
+
     this.root.appendChild(home);
   }
 
@@ -62,15 +129,17 @@ export class App {
     this.renderGame();
   }
 
+  // ---------- oyun ekranı ----------
+
   private renderGame(): void {
     const s = this.state!;
     this.root.innerHTML = "";
 
     const wrap = el("div", "game");
 
-    // --- üst çubuk ---
     const bar = el("div", "topbar");
-    const back = el("button", "icon-btn", "‹");
+    const back = el("button", "icon-btn");
+    back.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18 L9 12 L15 6"/></svg>`;
     back.setAttribute("aria-label", "Ana menü");
     back.addEventListener("click", () => {
       this.state = null;
@@ -86,7 +155,7 @@ export class App {
       if (wrong === 0) toast(this.root, "Dolu hücrelerin hepsi doğru!");
       else toast(this.root, `${wrong} yanlış harf işaretlendi`);
     });
-    const revealBtn = el("button", "action-btn", "Harf");
+    const revealBtn = el("button", "action-btn", "İpucu");
     revealBtn.title = "Seçili hücrenin harfini aç";
     revealBtn.addEventListener("click", () => {
       revealLetter(s);
@@ -97,27 +166,21 @@ export class App {
     bar.appendChild(actions);
     wrap.appendChild(bar);
 
-    // --- aktif soru çubuğu ---
+    // aktif soru çubuğu
     const clueBar = el("div", "cluebar");
     if (s.activeClue !== null) {
       const clue = s.puzzle.clues[s.activeClue];
-      clueBar.appendChild(
-        el("span", "cluebar-arrow", ARROW_GLYPH[clue.arrow]),
-      );
+      const ar = el("span", "cluebar-arrow");
+      ar.innerHTML = ARROW_SVG[clue.arrow];
+      clueBar.appendChild(ar);
       clueBar.appendChild(el("span", "cluebar-text", clue.text));
     } else {
-      clueBar.appendChild(
-        el("span", "cluebar-hint", "Bir hücreye dokun"),
-      );
+      clueBar.appendChild(el("span", "cluebar-hint", "Bir hücreye dokun"));
     }
     wrap.appendChild(clueBar);
 
-    // --- ızgara ---
     wrap.appendChild(this.renderGrid());
-
-    // --- klavye ---
     wrap.appendChild(this.renderKeyboard());
-
     this.root.appendChild(wrap);
 
     if (s.completed) this.showCompleted();
@@ -140,6 +203,7 @@ export class App {
       const i = cell.row * s.grid.cols + cell.col;
       if (cell.kind === "clue") {
         const div = el("div", "cell clue-cell");
+        if (cell.clueIndexes.length === 0) div.classList.add("block-cell");
         if (
           s.activeClue !== null &&
           cell.clueIndexes.includes(s.activeClue)
@@ -154,11 +218,8 @@ export class App {
           const text = el("span", "clue-text", clue.text);
           text.classList.add(sizeClass(clue.text));
           part.appendChild(text);
-          const arrow = el(
-            "span",
-            `clue-arrow arrow-${clue.arrow}`,
-            ARROW_GLYPH[clue.arrow],
-          );
+          const arrow = el("span", `clue-arrow arrow-${clue.arrow}`);
+          arrow.innerHTML = ARROW_SVG[clue.arrow];
           part.appendChild(arrow);
           part.addEventListener("click", () => {
             const start = s.grid.cluePlacements[ci][0];
@@ -177,6 +238,7 @@ export class App {
           div.classList.add("selected");
         }
         if (s.wrongCells.has(i)) div.classList.add("wrong");
+        if (s.completed) div.classList.add("won");
         div.textContent = s.entries[i];
         div.addEventListener("click", () => {
           selectCell(s, cell.row, cell.col);
@@ -219,9 +281,16 @@ export class App {
     const modal = el("div", "modal");
     modal.appendChild(el("div", "modal-emoji", "🎉"));
     modal.appendChild(el("h2", "modal-title", "Tebrikler!"));
-    modal.appendChild(
-      el("p", "modal-text", "Bulmacayı başarıyla tamamladın."),
-    );
+    modal.appendChild(el("p", "modal-text", "Bulmacayı başarıyla tamamladın."));
+    const streak = currentStreak();
+    if (streak > 0) {
+      const line = el("div", "modal-streak");
+      line.appendChild(el("span", "streak-flame", "🔥"));
+      line.appendChild(
+        el("span", "", `${streak} günlük seri`),
+      );
+      modal.appendChild(line);
+    }
     const btn = el("button", "modal-btn", "Ana menüye dön");
     btn.addEventListener("click", () => {
       this.state = null;
@@ -250,6 +319,16 @@ export class App {
   }
 }
 
+function statCard(icon: string, value: string, label: string): HTMLElement {
+  const card = el("div", "stat-card");
+  card.appendChild(el("div", "stat-icon", icon));
+  const col = el("div", "stat-col");
+  col.appendChild(el("div", "stat-value", value));
+  col.appendChild(el("div", "stat-label", label));
+  card.appendChild(col);
+  return card;
+}
+
 function sizeClass(text: string): string {
   if (text.length <= 12) return "clue-md";
   if (text.length <= 24) return "clue-sm";
@@ -258,7 +337,7 @@ function sizeClass(text: string): string {
 
 function el(tag: string, cls: string, text?: string): HTMLElement {
   const e = document.createElement(tag);
-  e.className = cls;
+  if (cls) e.className = cls;
   if (text !== undefined) e.textContent = text;
   return e;
 }
