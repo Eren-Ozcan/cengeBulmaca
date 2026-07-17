@@ -391,6 +391,14 @@ export class App {
       }
     }
 
+    // her cevabın başlangıç hücresi: ok oraya çizilir (klasik görünüm)
+    const starts = new Map<number, number[]>();
+    s.puzzle.clues.forEach((_, ci) => {
+      const p = s.grid.cluePlacements[ci][0];
+      const idx = p.row * s.grid.cols + p.col;
+      starts.set(idx, [...(starts.get(idx) ?? []), ci]);
+    });
+
     for (const cell of s.grid.cells) {
       const i = cell.row * s.grid.cols + cell.col;
       if (cell.kind === "clue") {
@@ -413,16 +421,14 @@ export class App {
           const cached = this.clueFontCache.get(part.dataset.fitKey);
           if (cached) text.style.fontSize = cached;
           part.appendChild(text);
-          const arrow = el("span", `clue-arrow arrow-${clue.arrow}`);
-          arrow.innerHTML = ARROW_SVG[clue.arrow];
-          part.appendChild(arrow);
-          part.addEventListener("click", () => {
+          const selectClue = () => {
             const start = s.grid.cluePlacements[ci][0];
             s.activeClue = ci;
             s.selRow = start.row;
             s.selCol = start.col;
             this.renderGame();
-          });
+          };
+          part.addEventListener("click", selectClue);
           div.appendChild(part);
         }
         grid.appendChild(div);
@@ -440,7 +446,14 @@ export class App {
         }
         if (this.popIdx === i && s.entries[i] !== "") div.classList.add("pop-in");
         if (flashCells.has(i) && !s.completed) div.classList.add("word-flash");
-        div.textContent = s.entries[i];
+        div.appendChild(el("span", "cell-letter", s.entries[i]));
+        // bu hücreden başlayan cevapların okları (köşede, klasik görünüm)
+        for (const ci of starts.get(i) ?? []) {
+          const arrow = el("span", `cell-arrow arrow-${s.puzzle.clues[ci].arrow}`);
+          if (s.activeClue === ci) arrow.classList.add("arrow-active");
+          arrow.innerHTML = ARROW_SVG[s.puzzle.clues[ci].arrow];
+          div.appendChild(arrow);
+        }
         div.addEventListener("click", () => {
           selectCell(s, cell.row, cell.col);
           this.renderGame();

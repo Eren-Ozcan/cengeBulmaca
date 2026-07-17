@@ -843,32 +843,48 @@ button {
   font-size: clamp(6.5px, 1.75vw, 9.5px);
 }
 
-.clue-arrow {
+/* Ok, sorunun değil cevabın ilk hücresinde durur: girdiği kenarda,
+   köşede küçük bir işaret (basılı çengel bulmaca düzeni). */
+.cell-arrow {
   position: absolute;
-  width: clamp(7px, 2vw, 10px);
-  height: clamp(7px, 2vw, 10px);
-  color: var(--clue-hi);
+  width: clamp(8px, 2.2vw, 11px);
+  height: clamp(8px, 2.2vw, 11px);
+  color: var(--clue-ink);
+  opacity: 0.8;
+  pointer-events: none;
 }
 
-.clue-arrow svg {
+.cell-arrow.arrow-active {
+  color: var(--clue-hi);
+  opacity: 1;
+}
+
+.cell-arrow svg {
   width: 100%;
   height: 100%;
   fill: currentColor;
   display: block;
 }
 
-.arrow-right,
-.arrow-right-down {
-  right: 1px;
+/* soldan giren düz ok */
+.cell-arrow.arrow-right {
+  left: 2px;
   top: 50%;
   transform: translateY(-50%);
 }
 
-.arrow-down,
-.arrow-down-right {
-  bottom: 1px;
+/* üstten giren düz ok */
+.cell-arrow.arrow-down {
+  top: 2px;
   left: 50%;
   transform: translateX(-50%);
+}
+
+/* dirsekli oklar sol üst köşeye oturur */
+.cell-arrow.arrow-right-down,
+.cell-arrow.arrow-down-right {
+  left: 2px;
+  top: 2px;
 }
 
 /* ---------- klavye ---------- */
@@ -1151,8 +1167,12 @@ button {
   border-top: 1px solid rgba(23, 21, 14, 0.35);
 }
 
-:root[data-theme="gazete"] .clue-arrow {
+:root[data-theme="gazete"] .cell-arrow {
   color: #17150e;
+}
+
+:root[data-theme="gazete"] .cell-arrow.arrow-active {
+  color: var(--accent);
 }
 
 :root[data-theme="gazete"] .clue-part-active .clue-text {
