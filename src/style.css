@@ -806,7 +806,8 @@ button {
 }
 
 .clue-part {
-  flex: 1;
+  /* yükseklik içeriğe göre paylaşılır: uzun soru daha çok yer alır */
+  flex: 1 1 auto;
   display: flex;
   align-items: center;
   justify-content: center;

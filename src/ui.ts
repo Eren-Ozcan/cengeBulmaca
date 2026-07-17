@@ -61,6 +61,10 @@ export class App {
 
   start(): void {
     this.renderHome();
+    // web fontu sonradan yüklenince veya pencere boyutu değişince
+    // ölçüler kayar; puntoları yeniden sığdır
+    document.fonts?.ready.then(() => this.refitClueTexts());
+    window.addEventListener("resize", () => this.refitClueTexts());
   }
 
   // ---------- ana menü ----------
@@ -333,7 +337,9 @@ export class App {
   }
 
   /**
-   * Soru yazılarını hücrelerine sığana kadar küçültür. Sonuç puntolar
+   * Soru yazılarını hücrelerine sığana kadar küçültür. Hücredeki tüm
+   * sorular aynı puntoyu kullanır; parçaların yüksekliği içeriğe göre
+   * dağıldığından uzun soru kendine daha çok yer açar. Sonuç puntolar
    * önbelleğe alınır; sonraki çizimlerde ölçüm tekrarlanmaz.
    */
   private fitClueTexts(): void {
@@ -343,33 +349,59 @@ export class App {
       this.clueFontCache.clear();
       this.clueFontWidth = grid.clientWidth;
     }
-    for (const part of grid.querySelectorAll<HTMLElement>(".clue-part")) {
-      const text = part.querySelector<HTMLElement>(".clue-text");
-      const key = part.dataset.fitKey;
-      if (!text || !key) continue;
-      // önbellekteki punto çizim sırasında uygulandı; yeniden ölçme
-      if (this.clueFontCache.has(key)) continue;
-      // ekran genişliği değişmişse eski sabit punto kalmış olabilir
-      text.style.fontSize = "";
-      const ps = getComputedStyle(part);
-      const availH =
-        part.clientHeight -
-        parseFloat(ps.paddingTop) -
-        parseFloat(ps.paddingBottom);
-      const availW =
-        part.clientWidth -
-        parseFloat(ps.paddingLeft) -
-        parseFloat(ps.paddingRight);
-      let size = parseFloat(getComputedStyle(text).fontSize);
-      while (
-        size > 6 &&
-        (text.scrollHeight > availH || text.scrollWidth > availW + 0.5)
-      ) {
-        size -= 0.5;
-        text.style.fontSize = `${size}px`;
+    for (const cellEl of grid.querySelectorAll<HTMLElement>(".clue-cell")) {
+      const texts: HTMLElement[] = [];
+      const keys: string[] = [];
+      let allCached = true;
+      for (const part of cellEl.querySelectorAll<HTMLElement>(".clue-part")) {
+        const text = part.querySelector<HTMLElement>(".clue-text");
+        const key = part.dataset.fitKey;
+        if (!text || !key) continue;
+        texts.push(text);
+        keys.push(key);
+        if (!this.clueFontCache.has(key)) allCached = false;
       }
-      this.clueFontCache.set(key, `${size}px`);
+      // önbellekteki puntolar çizim sırasında uygulandı; yeniden ölçme
+      if (texts.length === 0 || allCached) continue;
+
+      // ekran genişliği değişmişse kalıntı sabit puntoları sıfırla
+      for (const t of texts) t.style.fontSize = "";
+      let size = Math.min(
+        ...texts.map((t) => parseFloat(getComputedStyle(t).fontSize)),
+      );
+      const apply = () => {
+        for (const t of texts) t.style.fontSize = `${size}px`;
+      };
+      const overflows = () =>
+        texts.some((t) => {
+          const part = t.parentElement!;
+          const ps = getComputedStyle(part);
+          const availH =
+            part.clientHeight -
+            parseFloat(ps.paddingTop) -
+            parseFloat(ps.paddingBottom);
+          const availW =
+            part.clientWidth -
+            parseFloat(ps.paddingLeft) -
+            parseFloat(ps.paddingRight);
+          return (
+            t.scrollHeight > availH + 0.5 || t.scrollWidth > availW + 0.5
+          );
+        });
+      apply();
+      while (size > 5 && overflows()) {
+        size -= 0.5;
+        apply();
+      }
+      for (const key of keys) this.clueFontCache.set(key, `${size}px`);
     }
+  }
+
+  /** Punto önbelleğini boşaltıp yazıları yeniden sığdırır */
+  private refitClueTexts(): void {
+    this.clueFontCache.clear();
+    this.clueFontWidth = 0;
+    this.fitClueTexts();
   }
 
   private renderGrid(): HTMLElement {
