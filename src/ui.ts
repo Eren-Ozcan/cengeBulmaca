@@ -174,6 +174,47 @@ export class App {
 
   private openPuzzle(p: PuzzleDef): void {
     this.state = newGame(p);
+    // oyuncu hemen yazmaya başlayabilsin diye ilk boş soruyu seç
+    if (!this.state.completed) {
+      const first = this.findClueWithEmptyCell(0);
+      this.activateClue(first ?? 0);
+    }
+    this.renderGame();
+  }
+
+  /** İpucunu aktifleştirir, imleci kelimenin ilk boş hücresine koyar */
+  private activateClue(ci: number): void {
+    const s = this.state!;
+    s.activeClue = ci;
+    const cells = s.grid.cluePlacements[ci];
+    const target =
+      cells.find(
+        (p) => s.entries[p.row * s.grid.cols + p.col] === "",
+      ) ?? cells[0];
+    s.selRow = target.row;
+    s.selCol = target.col;
+  }
+
+  /** from'dan başlayarak (kendisi dahil) boş hücresi olan ilk ipucu */
+  private findClueWithEmptyCell(from: number): number | null {
+    const s = this.state!;
+    const n = s.puzzle.clues.length;
+    for (let i = 0; i < n; i++) {
+      const ci = (from + i) % n;
+      const hasEmpty = s.grid.cluePlacements[ci].some(
+        (p) => s.entries[p.row * s.grid.cols + p.col] === "",
+      );
+      if (hasEmpty) return ci;
+    }
+    return null;
+  }
+
+  /** Aktif ipucundan ileri/geri sıradaki ipucuya geçer */
+  private stepClue(dir: 1 | -1): void {
+    const s = this.state!;
+    const n = s.puzzle.clues.length;
+    const from = s.activeClue ?? 0;
+    this.activateClue((from + dir + n) % n);
     this.renderGame();
   }
 
@@ -240,20 +281,8 @@ export class App {
     bar.appendChild(actions);
     wrap.appendChild(bar);
 
-    // aktif soru çubuğu
-    const clueBar = el("div", "cluebar");
-    if (s.activeClue !== null) {
-      const clue = s.puzzle.clues[s.activeClue];
-      const ar = el("span", "cluebar-arrow");
-      ar.innerHTML = ARROW_SVG[clue.arrow];
-      clueBar.appendChild(ar);
-      clueBar.appendChild(el("span", "cluebar-text", clue.text));
-    } else {
-      clueBar.appendChild(el("span", "cluebar-hint", "Bir hücreye dokun"));
-    }
-    wrap.appendChild(clueBar);
-
     wrap.appendChild(this.renderGrid());
+    wrap.appendChild(this.renderPanel());
     wrap.appendChild(this.renderKeyboard());
     this.root.appendChild(wrap);
 
@@ -328,6 +357,62 @@ export class App {
     }
     this.popIdx = null;
     return grid;
+  }
+
+  /**
+   * Cevap paneli: aktif sorunun metni büyük puntoyla, altında kelimenin
+   * harf kutuları. Izgaradaki küçük yazıya bakmadan çözmeyi sağlar.
+   */
+  private renderPanel(): HTMLElement {
+    const s = this.state!;
+    const panel = el("div", "panel");
+
+    const top = el("div", "panel-top");
+    const prev = el("button", "panel-nav");
+    prev.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18 L9 12 L15 6"/></svg>`;
+    prev.setAttribute("aria-label", "Önceki soru");
+    prev.addEventListener("click", () => this.stepClue(-1));
+    const next = el("button", "panel-nav");
+    next.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18 L15 12 L9 6"/></svg>`;
+    next.setAttribute("aria-label", "Sonraki soru");
+    next.addEventListener("click", () => this.stepClue(1));
+
+    const mid = el("div", "panel-clue");
+    if (s.activeClue !== null) {
+      const clue = s.puzzle.clues[s.activeClue];
+      const ar = el("span", "panel-arrow");
+      ar.innerHTML = ARROW_SVG[clue.arrow];
+      mid.appendChild(ar);
+      mid.appendChild(el("span", "panel-text", clue.text));
+    } else {
+      mid.appendChild(el("span", "panel-hint", "Bir soruya dokun"));
+    }
+
+    top.appendChild(prev);
+    top.appendChild(mid);
+    top.appendChild(next);
+    panel.appendChild(top);
+
+    if (s.activeClue !== null) {
+      const slots = el("div", "panel-slots");
+      for (const p of s.grid.cluePlacements[s.activeClue]) {
+        const i = p.row * s.grid.cols + p.col;
+        const slot = el("div", "slot", s.entries[i]);
+        if (s.entries[i] !== "") slot.classList.add("slot-filled");
+        if (s.selRow === p.row && s.selCol === p.col) {
+          slot.classList.add("slot-current");
+        }
+        if (s.wrongCells.has(i)) slot.classList.add("slot-wrong");
+        slot.addEventListener("click", () => {
+          selectCell(s, p.row, p.col);
+          this.renderGame();
+        });
+        slots.appendChild(slot);
+      }
+      panel.appendChild(slots);
+    }
+
+    return panel;
   }
 
   /** Seçili hücrenin ızgara indeksini pop animasyonu için işaretler */

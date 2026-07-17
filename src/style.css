@@ -548,45 +548,115 @@ button {
   background: var(--accent-soft);
 }
 
-.cluebar {
-  display: flex;
-  align-items: center;
-  gap: 11px;
-  margin: 2px 12px 10px;
-  padding: 12px 15px;
+/* ---------- cevap paneli ---------- */
+
+.panel {
+  /* ızgara ile arasında kalan boşluğu yutup klavyeye yaslanır */
+  margin: auto 12px 0;
+  padding: 10px 8px 12px;
   background: linear-gradient(120deg, var(--hero-a), var(--hero-b));
   color: var(--accent-ink);
-  border-radius: 16px;
-  min-height: 50px;
+  border-radius: 18px;
   box-shadow: 0 5px 16px rgba(95, 90, 240, 0.3);
 }
 
-.cluebar-arrow {
+.panel-top {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.panel-nav {
   flex-shrink: 0;
-  width: 30px;
-  height: 30px;
-  border-radius: 10px;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.18);
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.panel-nav:active {
+  background: rgba(255, 255, 255, 0.35);
+}
+
+.panel-nav svg {
+  width: 18px;
+  height: 18px;
+}
+
+.panel-clue {
+  flex: 1;
+  min-width: 0;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  text-align: center;
+}
+
+.panel-arrow {
+  flex-shrink: 0;
+  width: 22px;
+  height: 22px;
+  border-radius: 7px;
   background: rgba(255, 255, 255, 0.2);
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.cluebar-arrow svg {
-  width: 14px;
-  height: 14px;
+.panel-arrow svg {
+  width: 11px;
+  height: 11px;
   fill: currentColor;
 }
 
-.cluebar-text {
-  font-size: 0.98rem;
+.panel-text {
+  font-size: 1.02rem;
   font-weight: 800;
-  line-height: 1.25;
+  line-height: 1.22;
 }
 
-.cluebar-hint {
+.panel-hint {
   opacity: 0.75;
   font-size: 0.9rem;
+}
+
+.panel-slots {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin-top: 9px;
+}
+
+.slot {
+  width: clamp(30px, 9.5vw, 42px);
+  aspect-ratio: 1;
+  border-radius: 9px;
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--hero-a);
+  border: 2px solid transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.slot-current {
+  border-color: var(--gold);
+  background: #fff;
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--gold) 45%, transparent);
+}
+
+.slot-wrong {
+  color: var(--wrong);
+  text-decoration: line-through;
 }
 
 /* ---------- ızgara ---------- */
@@ -602,7 +672,7 @@ button {
   border: 1px solid var(--tile-border);
   align-self: center;
   width: calc(100% - 24px);
-  max-width: min(100%, calc((100dvh - 330px) * var(--cols) / var(--rows)));
+  max-width: min(100%, calc((100dvh - 390px) * var(--cols) / var(--rows)));
 }
 
 .cell {
@@ -767,8 +837,7 @@ button {
 /* ---------- klavye ---------- */
 
 .keyboard {
-  margin-top: auto;
-  padding: 10px 4px calc(10px + env(safe-area-inset-bottom));
+  padding: 8px 4px calc(10px + env(safe-area-inset-bottom));
   display: flex;
   flex-direction: column;
   gap: 6px;
@@ -1069,9 +1138,18 @@ button {
   background: #17150e;
 }
 
-:root[data-theme="gazete"] .cluebar {
+:root[data-theme="gazete"] .panel {
   border-radius: 8px;
   box-shadow: 0 3px 10px rgba(23, 21, 14, 0.25);
+}
+
+:root[data-theme="gazete"] .slot {
+  border-radius: 4px;
+}
+
+:root[data-theme="gazete"] .slot-current {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 35%, transparent);
 }
 
 :root[data-theme="gazete"] .icon-btn,
