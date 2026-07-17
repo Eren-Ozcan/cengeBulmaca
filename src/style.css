@@ -832,8 +832,11 @@ button {
   overflow: hidden;
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 4;
-  word-break: break-word;
+  -webkit-line-clamp: 5;
+  /* kelimeler bölünmez; sığmayan kelime alt satıra iner,
+     punto sığdırıcı en uzun kelimeye göre küçültür */
+  overflow-wrap: normal;
+  word-break: keep-all;
   font-weight: 600;
 }
 
