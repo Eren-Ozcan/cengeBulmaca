@@ -14,11 +14,12 @@
   --gold-soft: #fbedcd;
   --tile: #ffffff;
   --tile-border: #e7e2d6;
-  --tile-active: #e9e8fb;
-  --tile-selected: #fbedcd;
+  --tile-active: #f8efd7;
+  --tile-selected: #fff6dd;
   --clue-bg: #f7f3d7;
   --clue-ink: #40454f;
   --clue-hi: #c1700f;
+  --grid-line: #b9bec7;
   --block: #454b66;
   --wrong: #e5484d;
   --ok: #2fa96e;
@@ -45,11 +46,12 @@
     --gold-soft: #453413;
     --tile: #232433;
     --tile-border: #303142;
-    --tile-active: #2c2d4c;
+    --tile-active: #3d3625;
     --tile-selected: #4a3a15;
     --clue-bg: #2c2f3e;
     --clue-ink: #c9cee2;
     --clue-hi: #f0a848;
+    --grid-line: #3a3d4c;
     --block: #0b0c14;
     --kb-key: #2b2c3a;
     --kb-key-shadow: #14141c;
@@ -664,15 +666,17 @@ button {
 
 /* ---------- ızgara ---------- */
 
+/* Bitişik hücreler, ince çizgiler: basılı bulmaca görünümü */
 .grid {
   display: grid;
   grid-template-columns: repeat(var(--cols), 1fr);
-  gap: 3px;
+  gap: 1px;
   margin: 0 12px;
-  padding: 6px;
-  border-radius: 14px;
-  background: var(--surface-2);
-  border: 1px solid var(--tile-border);
+  padding: 2px;
+  border-radius: 10px;
+  background: var(--grid-line);
+  border: 1px solid var(--grid-line);
+  overflow: hidden;
   align-self: center;
   width: calc(100% - 24px);
   max-width: min(100%, calc((100dvh - 390px) * var(--cols) / var(--rows)));
@@ -682,13 +686,11 @@ button {
   aspect-ratio: 1;
   min-width: 0;
   min-height: 0;
-  border-radius: 6px;
   position: relative;
 }
 
 .letter-cell {
   background: var(--tile);
-  border: 1px solid var(--tile-border);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -700,15 +702,27 @@ button {
 
 .letter-cell.in-active-word {
   background: var(--tile-active);
-  border-color: color-mix(in srgb, var(--accent) 35%, transparent);
 }
 
 .letter-cell.selected {
   background: var(--tile-selected);
   outline: 2.5px solid var(--gold);
   outline-offset: -2px;
-  border-color: transparent;
   z-index: 1;
+}
+
+/* seçili hücrede imleci andıran kısa çizgi */
+.letter-cell.selected::after {
+  content: "";
+  position: absolute;
+  left: 26%;
+  right: 26%;
+  bottom: 10%;
+  height: 6%;
+  min-height: 3px;
+  border-radius: 2px;
+  background: var(--wrong);
+  opacity: 0.85;
 }
 
 .letter-cell.pop-in {
