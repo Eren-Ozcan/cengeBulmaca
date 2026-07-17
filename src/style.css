@@ -16,9 +16,10 @@
   --tile-border: #e7e2d6;
   --tile-active: #e9e8fb;
   --tile-selected: #fbedcd;
-  --clue-bg: #292734;
-  --clue-ink: #edeaf6;
-  --clue-hi: #ffd166;
+  --clue-bg: #f7f3d7;
+  --clue-ink: #40454f;
+  --clue-hi: #c1700f;
+  --block: #454b66;
   --wrong: #e5484d;
   --ok: #2fa96e;
   --kb-bg: transparent;
@@ -46,8 +47,10 @@
     --tile-border: #303142;
     --tile-active: #2c2d4c;
     --tile-selected: #4a3a15;
-    --clue-bg: #0b0b12;
-    --clue-ink: #d9d6e6;
+    --clue-bg: #2c2f3e;
+    --clue-ink: #c9cee2;
+    --clue-hi: #f0a848;
+    --block: #0b0c14;
     --kb-key: #2b2c3a;
     --kb-key-shadow: #14141c;
     --shadow: 0 1px 3px rgba(0, 0, 0, 0.45), 0 4px 14px rgba(0, 0, 0, 0.3);
@@ -773,11 +776,12 @@ button {
 .clue-cell.clue-active {
   outline: 2px solid var(--clue-hi);
   outline-offset: -2px;
+  background: color-mix(in srgb, var(--clue-hi) 14%, var(--clue-bg));
 }
 
 .block-cell {
-  background: var(--clue-bg);
-  opacity: 0.55;
+  background: var(--block);
+  opacity: 1;
   cursor: default;
 }
 
@@ -797,16 +801,18 @@ button {
 
 .clue-part-active .clue-text {
   color: var(--clue-hi);
+  font-weight: 800;
 }
 
 .clue-text {
   text-align: center;
-  line-height: 1.08;
+  line-height: 1.12;
   overflow: hidden;
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 4;
   word-break: break-word;
+  font-weight: 600;
 }
 
 .clue-md {
