@@ -49,6 +49,10 @@ export class App {
   private popIdx: number | null = null;
   /** Az önce doğru tamamlanan kelime; hücreleri yeşil parlar */
   private flashClue: number | null = null;
+  /** Hücreye sığdırılmış soru puntoları; anahtar "hücre:ipucu" */
+  private clueFontCache = new Map<string, string>();
+  /** Önbelleğin geçerli olduğu ızgara genişliği */
+  private clueFontWidth = 0;
 
   constructor(root: HTMLElement, puzzles: PuzzleDef[]) {
     this.root = root;
@@ -176,6 +180,7 @@ export class App {
 
   private openPuzzle(p: PuzzleDef): void {
     this.state = newGame(p);
+    this.clueFontCache.clear();
     // oyuncu hemen yazmaya başlayabilsin diye ilk boş soruyu seç
     if (!this.state.completed) {
       const first = this.findClueWithEmptyCell(0);
@@ -322,7 +327,49 @@ export class App {
     wrap.appendChild(this.renderKeyboard());
     this.root.appendChild(wrap);
 
+    this.fitClueTexts();
+
     if (s.completed) this.showCompleted();
+  }
+
+  /**
+   * Soru yazılarını hücrelerine sığana kadar küçültür. Sonuç puntolar
+   * önbelleğe alınır; sonraki çizimlerde ölçüm tekrarlanmaz.
+   */
+  private fitClueTexts(): void {
+    const grid = this.root.querySelector<HTMLElement>(".grid");
+    if (!grid) return;
+    if (grid.clientWidth !== this.clueFontWidth) {
+      this.clueFontCache.clear();
+      this.clueFontWidth = grid.clientWidth;
+    }
+    for (const part of grid.querySelectorAll<HTMLElement>(".clue-part")) {
+      const text = part.querySelector<HTMLElement>(".clue-text");
+      const key = part.dataset.fitKey;
+      if (!text || !key) continue;
+      // önbellekteki punto çizim sırasında uygulandı; yeniden ölçme
+      if (this.clueFontCache.has(key)) continue;
+      // ekran genişliği değişmişse eski sabit punto kalmış olabilir
+      text.style.fontSize = "";
+      const ps = getComputedStyle(part);
+      const availH =
+        part.clientHeight -
+        parseFloat(ps.paddingTop) -
+        parseFloat(ps.paddingBottom);
+      const availW =
+        part.clientWidth -
+        parseFloat(ps.paddingLeft) -
+        parseFloat(ps.paddingRight);
+      let size = parseFloat(getComputedStyle(text).fontSize);
+      while (
+        size > 6 &&
+        (text.scrollHeight > availH || text.scrollWidth > availW + 0.5)
+      ) {
+        size -= 0.5;
+        text.style.fontSize = `${size}px`;
+      }
+      this.clueFontCache.set(key, `${size}px`);
+    }
   }
 
   private renderGrid(): HTMLElement {
@@ -359,9 +406,12 @@ export class App {
         for (const ci of cell.clueIndexes) {
           const clue = s.puzzle.clues[ci];
           const part = el("div", "clue-part");
+          part.dataset.fitKey = `${i}:${ci}`;
           if (s.activeClue === ci) part.classList.add("clue-part-active");
           const text = el("span", "clue-text", clue.text);
           text.classList.add(sizeClass(clue.text));
+          const cached = this.clueFontCache.get(part.dataset.fitKey);
+          if (cached) text.style.fontSize = cached;
           part.appendChild(text);
           const arrow = el("span", `clue-arrow arrow-${clue.arrow}`);
           arrow.innerHTML = ARROW_SVG[clue.arrow];

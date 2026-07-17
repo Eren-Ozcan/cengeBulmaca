@@ -793,6 +793,8 @@ button {
   position: relative;
   padding: 1px 3px;
   min-height: 0;
+  /* punto sığdırma sonrası olası kalıntı taşmayı hücre içinde tut */
+  overflow: hidden;
 }
 
 .clue-split .clue-part + .clue-part {
@@ -816,15 +818,15 @@ button {
 }
 
 .clue-md {
-  font-size: clamp(7px, 2vw, 11px);
+  font-size: clamp(8.5px, 2.4vw, 13px);
 }
 
 .clue-sm {
-  font-size: clamp(6px, 1.7vw, 9.5px);
+  font-size: clamp(7.5px, 2.05vw, 11px);
 }
 
 .clue-xs {
-  font-size: clamp(5px, 1.45vw, 8px);
+  font-size: clamp(6.5px, 1.75vw, 9.5px);
 }
 
 .clue-arrow {
