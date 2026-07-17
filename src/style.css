@@ -725,6 +725,12 @@ button {
   opacity: 0.85;
 }
 
+/* doğru tamamlanan kelimeler kalıcı yeşil kalır */
+.letter-cell.word-done {
+  background: color-mix(in srgb, var(--ok) 15%, var(--tile));
+  color: color-mix(in srgb, var(--ok) 80%, var(--ink));
+}
+
 .letter-cell.pop-in {
   animation: letter-pop 0.16s ease;
 }

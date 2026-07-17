@@ -399,6 +399,15 @@ export class App {
       starts.set(idx, [...(starts.get(idx) ?? []), ci]);
     });
 
+    // doğru tamamlanmış kelimelerin hücreleri kalıcı yeşil görünür
+    const doneCells = new Set<number>();
+    s.puzzle.clues.forEach((_, ci) => {
+      if (!this.isWordCorrect(ci)) return;
+      for (const p of s.grid.cluePlacements[ci]) {
+        doneCells.add(p.row * s.grid.cols + p.col);
+      }
+    });
+
     for (const cell of s.grid.cells) {
       const i = cell.row * s.grid.cols + cell.col;
       if (cell.kind === "clue") {
@@ -446,6 +455,7 @@ export class App {
         }
         if (this.popIdx === i && s.entries[i] !== "") div.classList.add("pop-in");
         if (flashCells.has(i) && !s.completed) div.classList.add("word-flash");
+        if (doneCells.has(i) && !s.completed) div.classList.add("word-done");
         div.appendChild(el("span", "cell-letter", s.entries[i]));
         // bu hücreden başlayan cevapların okları (köşede, klasik görünüm)
         for (const ci of starts.get(i) ?? []) {
