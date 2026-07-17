@@ -47,6 +47,8 @@ export class App {
   private state: GameState | null = null;
   /** Son harf girilen hücre; bir sonraki çizimde pop animasyonu alır */
   private popIdx: number | null = null;
+  /** Az önce doğru tamamlanan kelime; hücreleri yeşil parlar */
+  private flashClue: number | null = null;
 
   constructor(root: HTMLElement, puzzles: PuzzleDef[]) {
     this.root = root;
@@ -218,6 +220,18 @@ export class App {
     this.renderGame();
   }
 
+  /** Kelimenin tüm hücreleri doğru harfle dolu mu? */
+  private isWordCorrect(ci: number): boolean {
+    const s = this.state!;
+    return s.grid.cluePlacements[ci].every((p) => {
+      const cell = s.grid.cells[p.row * s.grid.cols + p.col];
+      return (
+        cell.kind === "letter" &&
+        s.entries[p.row * s.grid.cols + p.col] === cell.solution
+      );
+    });
+  }
+
   /**
    * Bir hamleyi çalıştırır, bulmaca bu hamleyle tamamlandıysa
    * kutlama efektini tetikler ve ekranı tazeler.
@@ -229,6 +243,28 @@ export class App {
     if (!wasCompleted && s.completed) {
       playWin();
       hapticWin();
+    }
+    this.renderGame();
+  }
+
+  /**
+   * Harf girişi: kelime bu harfle doğru tamamlandıysa kısa bir
+   * yeşil parlamayla kutlar ve sıradaki boş soruya geçer.
+   */
+  private handleType(key: string): void {
+    const s = this.state!;
+    this.markPop();
+    const prevClue = s.activeClue;
+    const wasCompleted = s.completed;
+    typeLetter(s, key);
+    if (!wasCompleted && s.completed) {
+      playWin();
+      hapticWin();
+    } else if (prevClue !== null && this.isWordCorrect(prevClue)) {
+      playCorrect();
+      this.flashClue = prevClue;
+      const next = this.findClueWithEmptyCell(prevClue + 1);
+      if (next !== null) this.activateClue(next);
     }
     this.renderGame();
   }
@@ -301,6 +337,12 @@ export class App {
         activeCells.add(p.row * s.grid.cols + p.col);
       }
     }
+    const flashCells = new Set<number>();
+    if (this.flashClue !== null) {
+      for (const p of s.grid.cluePlacements[this.flashClue]) {
+        flashCells.add(p.row * s.grid.cols + p.col);
+      }
+    }
 
     for (const cell of s.grid.cells) {
       const i = cell.row * s.grid.cols + cell.col;
@@ -347,6 +389,7 @@ export class App {
           div.style.animationDelay = `${(cell.row + cell.col) * 45}ms`;
         }
         if (this.popIdx === i && s.entries[i] !== "") div.classList.add("pop-in");
+        if (flashCells.has(i) && !s.completed) div.classList.add("word-flash");
         div.textContent = s.entries[i];
         div.addEventListener("click", () => {
           selectCell(s, cell.row, cell.col);
@@ -356,6 +399,7 @@ export class App {
       }
     }
     this.popIdx = null;
+    this.flashClue = null;
     return grid;
   }
 
@@ -442,8 +486,7 @@ export class App {
           btn.addEventListener("click", () => {
             playKey();
             hapticKey();
-            this.markPop();
-            this.withWinCheck(() => typeLetter(s, key));
+            this.handleType(key);
           });
         }
         rowEl.appendChild(btn);
@@ -516,8 +559,7 @@ export class App {
         this.renderGame();
         e.preventDefault();
       } else if (/^[a-zA-ZçÇğĞıİöÖşŞüÜ]$/.test(e.key)) {
-        this.markPop();
-        this.withWinCheck(() => typeLetter(s, e.key));
+        this.handleType(e.key);
         e.preventDefault();
       }
     });

@@ -735,6 +735,21 @@ button {
   animation: pop 0.35s ease;
 }
 
+.letter-cell.word-flash {
+  animation: word-flash 0.55s ease;
+}
+
+@keyframes word-flash {
+  0%,
+  55% {
+    background: var(--ok);
+    border-color: var(--ok);
+    color: #fff;
+  }
+  100% {
+  }
+}
+
 @keyframes pop {
   0% {
     transform: scale(1);
