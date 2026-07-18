@@ -28,7 +28,16 @@ import { currentTheme, toggleTheme } from "./theme.ts";
 import type { ArrowDir, PuzzleDef } from "./types.ts";
 import { CATS, DUMAN, catForPuzzle, type CatDef } from "./cats.ts";
 import { catAvatarSvg } from "./cat-avatar.ts";
-import { STORY_TITLE, STORY_PARAGRAPHS, storySeen, markStorySeen } from "./story.ts";
+import {
+  STORY_TITLE,
+  STORY_PARAGRAPHS,
+  storySeen,
+  markStorySeen,
+  EPILOGUE_TITLE,
+  EPILOGUE_PARAGRAPHS,
+  epilogueSeen,
+  markEpilogueSeen,
+} from "./story.ts";
 
 // Ok ikonları: klasik çengel bulmaca okları (SVG, currentColor)
 const ARROW_SVG: Record<ArrowDir, string> = {
@@ -58,6 +67,8 @@ export class App {
   private clueFontWidth = 0;
   /** Bu hamleyle yeni açılan kedi varsa, kutlama ekranında gösterilir */
   private justUnlockedCat: CatDef | null = null;
+  /** Bu hamleyle son bekçi kedi de açılıp yolculuk tamamlandıysa true */
+  private journeyJustCompleted = false;
 
   constructor(root: HTMLElement, puzzles: PuzzleDef[]) {
     this.root = root;
@@ -97,6 +108,39 @@ export class App {
     const btn = el("button", "modal-btn intro-btn", "Yolculuğa başla");
     btn.addEventListener("click", () => {
       markStorySeen();
+      returnTo();
+    });
+    wrap.appendChild(btn);
+
+    this.root.appendChild(wrap);
+  }
+
+  /** Tüm bekçi kediler toplanınca gösterilen kapanış hikayesi; devam edince returnTo çalışır. */
+  private renderEpilogue(returnTo: () => void): void {
+    this.root.innerHTML = "";
+    const wrap = el("div", "home intro-screen epilogue-screen");
+
+    const family = el("div", "epilogue-family");
+    const dumanAvatar = el("div", "cat-avatar-wrap cat-avatar-lg");
+    dumanAvatar.innerHTML = catAvatarSvg(DUMAN);
+    family.appendChild(dumanAvatar);
+    CATS.forEach((cat) => {
+      const mini = el("div", "cat-avatar-wrap cat-avatar-mini");
+      mini.innerHTML = catAvatarSvg(cat);
+      family.appendChild(mini);
+    });
+    wrap.appendChild(family);
+
+    wrap.appendChild(el("h1", "intro-title", EPILOGUE_TITLE));
+    const body = el("div", "intro-body");
+    for (const p of EPILOGUE_PARAGRAPHS) {
+      body.appendChild(el("p", "intro-p", p));
+    }
+    wrap.appendChild(body);
+
+    const btn = el("button", "modal-btn intro-btn", "Anadolu'ya dön");
+    btn.addEventListener("click", () => {
+      markEpilogueSeen();
       returnTo();
     });
     wrap.appendChild(btn);
@@ -384,9 +428,18 @@ export class App {
     if (!wasCompleted && s.completed) {
       playWin();
       hapticWin();
-      this.justUnlockedCat = alreadySolved ? null : catForPuzzle(s.puzzle.id) ?? null;
+      this.registerCatUnlock(alreadySolved, s.puzzle.id);
     }
     this.renderGame();
+  }
+
+  /** Yeni tamamlanan bulmacaya bağlı kediyi ve yolculuğun bitip bitmediğini kaydeder. */
+  private registerCatUnlock(alreadySolved: boolean, puzzleId: string): void {
+    this.justUnlockedCat = alreadySolved ? null : catForPuzzle(puzzleId) ?? null;
+    this.journeyJustCompleted =
+      this.justUnlockedCat !== null &&
+      !epilogueSeen() &&
+      CATS.every((c) => isSolvedPuzzle(c.puzzleId));
   }
 
   /**
@@ -403,7 +456,7 @@ export class App {
     if (!wasCompleted && s.completed) {
       playWin();
       hapticWin();
-      this.justUnlockedCat = alreadySolved ? null : catForPuzzle(s.puzzle.id) ?? null;
+      this.registerCatUnlock(alreadySolved, s.puzzle.id);
     } else if (prevClue !== null && this.isWordCorrect(prevClue)) {
       playCorrect();
       this.flashClue = prevClue;
@@ -738,7 +791,9 @@ export class App {
 
   private showCompleted(): void {
     const cat = this.justUnlockedCat;
+    const journeyCompleted = this.journeyJustCompleted;
     this.justUnlockedCat = null;
+    this.journeyJustCompleted = false;
     const overlay = el("div", "overlay");
     overlay.appendChild(makeConfetti());
     const modal = el("div", "modal");
@@ -766,7 +821,14 @@ export class App {
       );
       modal.appendChild(line);
     }
-    if (cat) {
+    if (journeyCompleted) {
+      const epilogueBtn = el("button", "modal-btn modal-share", "Hikayenin sonu");
+      epilogueBtn.addEventListener("click", () => {
+        overlay.remove();
+        this.renderEpilogue(() => this.renderHome());
+      });
+      modal.appendChild(epilogueBtn);
+    } else if (cat) {
       const catsBtn = el("button", "modal-btn modal-share", "Kedi Dostlarım'ı gör");
       catsBtn.addEventListener("click", () => this.renderCollection());
       modal.appendChild(catsBtn);
