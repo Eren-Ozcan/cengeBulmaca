@@ -161,12 +161,78 @@ export const CATS: CatDef[] = [
     region: "Rize",
     breed: "Doğu Karadeniz kedisi",
     lore:
-      "Çay tarlalarının en yükseğinde yaşayan, kahverengi çizgili son bekçi " +
-      "kedi. Duman'ın yolculuğu onunla tamamlanır — Anadolu artık bir aile.",
+      "Çay tarlalarının en yükseğinde yaşayan, kahverengi çizgili bir bekçi " +
+      "kedi. Duman'a bulutların içinde yürümenin nasıl bir his olduğunu gösterdi.",
     furColor: "#8a5a35",
     patternColor: "#5e3c22",
     pattern: "tabby",
     eyeColor: "#4fae6b",
+  },
+  {
+    puzzleId: "bulmaca-11",
+    name: "Nar",
+    region: "Mardin",
+    breed: "Mezopotamya kedisi",
+    lore:
+      "Taş evlerin damından dama atlayan, altın sarısı çizgili bir kedi. " +
+      "Duman'a Mardin'in yedi dilde birden selamlaştığını anlattı.",
+    furColor: "#d9b26a",
+    patternColor: "#a97a3c",
+    pattern: "tabby",
+    eyeColor: "#c4813c",
+  },
+  {
+    puzzleId: "bulmaca-12",
+    name: "İnci",
+    region: "Çanakkale",
+    breed: "Boğaz kedisi",
+    lore:
+      "Boğaz'dan geçen gemileri sahilden izlemeyi seven, inci beyazı bir " +
+      "kedi. Duman'a Troya'nın atının hâlâ orada durduğunu fısıldadı.",
+    furColor: "#f2efe6",
+    patternColor: "#dcd8cc",
+    pattern: "solid",
+    eyeColor: "#4f9fe0",
+  },
+  {
+    puzzleId: "bulmaca-13",
+    name: "Baklava",
+    region: "Gaziantep",
+    breed: "Antep kedisi",
+    lore:
+      "Bakırcılar Çarşısı'nın kokularına âşık, karamel renkli benekli bir " +
+      "kedi. Duman'a fıstığın toprağa nasıl teşekkür ettiğini anlattı.",
+    furColor: "#c9903f",
+    patternColor: "#8a5a24",
+    pattern: "patch",
+    eyeColor: "#e0b23c",
+  },
+  {
+    puzzleId: "bulmaca-14",
+    name: "Kar",
+    region: "Erzurum",
+    breed: "Doğu Anadolu kedisi",
+    lore:
+      "Palandöken'in eteklerinde karda oynamayı seven, bembeyaz bir kedi. " +
+      "Duman'a soğuğun içinde bile sıcak bir dost bulunabileceğini öğretti.",
+    furColor: "#f5f6f8",
+    patternColor: "#dfe3e8",
+    pattern: "solid",
+    eyeColor: "#7fb8e0",
+  },
+  {
+    puzzleId: "bulmaca-15",
+    name: "Fener",
+    region: "Sinop",
+    breed: "Sinop kedisi",
+    lore:
+      "Anadolu'nun en kuzey ucundaki deniz fenerinin dibinde yaşayan, deniz " +
+      "griyle beyazı karışık son bekçi kedi. Duman'ın yolculuğu onunla " +
+      "tamamlanır — Anadolu artık uçtan uca bir aile.",
+    furColor: "#7c8a94",
+    patternColor: "#f2f1eb",
+    pattern: "tuxedo",
+    eyeColor: "#3f8fae",
   },
 ];
 
