@@ -9,6 +9,11 @@ import bulmaca7 from "./bulmaca-7.json";
 import bulmaca8 from "./bulmaca-8.json";
 import bulmaca9 from "./bulmaca-9.json";
 import bulmaca10 from "./bulmaca-10.json";
+import bulmaca11 from "./bulmaca-11.json";
+import bulmaca12 from "./bulmaca-12.json";
+import bulmaca13 from "./bulmaca-13.json";
+import bulmaca14 from "./bulmaca-14.json";
+import bulmaca15 from "./bulmaca-15.json";
 
 export const puzzles: PuzzleDef[] = [
   bulmaca1 as PuzzleDef,
@@ -21,4 +26,9 @@ export const puzzles: PuzzleDef[] = [
   bulmaca8 as PuzzleDef,
   bulmaca9 as PuzzleDef,
   bulmaca10 as PuzzleDef,
+  bulmaca11 as PuzzleDef,
+  bulmaca12 as PuzzleDef,
+  bulmaca13 as PuzzleDef,
+  bulmaca14 as PuzzleDef,
+  bulmaca15 as PuzzleDef,
 ];
