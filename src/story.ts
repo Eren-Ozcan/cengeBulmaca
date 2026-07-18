@@ -2,6 +2,7 @@
 // istenirse koleksiyon ekranından tekrar okunabilir.
 
 const KEY = "cengel-story-seen";
+const EPILOGUE_KEY = "cengel-epilogue-seen";
 
 export const STORY_TITLE = "Duman'ın Anadolu Yolculuğu";
 
@@ -16,6 +17,18 @@ export const STORY_PARAGRAPHS: string[] = [
     "Hazırsan yola çıkalım.",
 ];
 
+export const EPILOGUE_TITLE = "Anadolu Artık Bir Aile";
+
+export const EPILOGUE_PARAGRAPHS: string[] = [
+  "Yayla'yla tanıştığında Duman'ın patileri artık yorgun ama yüreği doluydu: " +
+    "Van'dan Rize'ye, on bekçi kedinin hepsini bulmuştu.",
+  "Koca Baba'nın anlattığı efsane doğruymuş — her kedi kendi bölgesinin " +
+    "dilini, tarihini ve sırrını taşıyormuş. Şimdi bu sırların hepsi Duman'da.",
+  "Ama asıl armağan sır değildi. İstanbul'un yalnız sokak kedisi, artık " +
+    "Anadolu'nun dört bir yanında ailesi olduğunu biliyordu.",
+  "Bu senin de yolculuğundu. Duman ve on bekçi kedi adına: teşekkürler.",
+];
+
 export function storySeen(): boolean {
   try {
     return localStorage.getItem(KEY) === "1";
@@ -27,6 +40,22 @@ export function storySeen(): boolean {
 export function markStorySeen(): void {
   try {
     localStorage.setItem(KEY, "1");
+  } catch {
+    // depolama yoksa bir sonraki açılışta tekrar gösterilir
+  }
+}
+
+export function epilogueSeen(): boolean {
+  try {
+    return localStorage.getItem(EPILOGUE_KEY) === "1";
+  } catch {
+    return true;
+  }
+}
+
+export function markEpilogueSeen(): void {
+  try {
+    localStorage.setItem(EPILOGUE_KEY, "1");
   } catch {
     // depolama yoksa bir sonraki açılışta tekrar gösterilir
   }
