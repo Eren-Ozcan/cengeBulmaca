@@ -674,4 +674,23 @@ export const WORDS = [
   { a: "YAPRAK", c: ["Ağacın yeşil organı"] },
   { a: "YASTIK", c: ["Başın altına konan destek"] },
   { a: "ZEYTİN", c: ["Yağı çıkarılan siyah veya yeşil meyve"] },
+
+  // ==== Genişletme (araştırma turu 3) ====
+
+  // ---- 2 harf ----
+  { a: "EY", c: ["Seslenme ünlemi"] },
+  { a: "BU", c: ["Yakını gösteren işaret zamiri"] },
+  { a: "ÖZ", c: ["Kendi, asıl"] },
+  { a: "İÇ", c: ["Dış karşıtı, dahil"] },
+  { a: "TA", c: ["Tantal'ın simgesi"] },
+  { a: "PO", c: ["Polonyum'un simgesi", "İtalya'da bir nehir"] },
+  { a: "KR", c: ["Kripton'un simgesi"] },
+  { a: "CO", c: ["Kobalt'ın simgesi"] },
+  { a: "CU", c: ["Bakır'ın simgesi"] },
+  { a: "ZN", c: ["Çinko'nun simgesi"] },
+  { a: "SN", c: ["Kalay'ın simgesi"] },
+  { a: "PT", c: ["Platin'in simgesi"] },
+  { a: "AU", c: ["Altın'ın simgesi"] },
+  { a: "HG", c: ["Cıva'nın simgesi"] },
+  { a: "MG", c: ["Magnezyum'un simgesi"] },
 ];
