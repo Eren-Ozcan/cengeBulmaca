@@ -26,6 +26,9 @@ import {
 import { hapticKey, hapticWin, hapticWrong } from "./haptics.ts";
 import { currentTheme, toggleTheme } from "./theme.ts";
 import type { ArrowDir, PuzzleDef } from "./types.ts";
+import { CATS, DUMAN, catForPuzzle, type CatDef } from "./cats.ts";
+import { catAvatarSvg } from "./cat-avatar.ts";
+import { STORY_TITLE, STORY_PARAGRAPHS, storySeen, markStorySeen } from "./story.ts";
 
 // Ok ikonları: klasik çengel bulmaca okları (SVG, currentColor)
 const ARROW_SVG: Record<ArrowDir, string> = {
@@ -53,6 +56,8 @@ export class App {
   private clueFontCache = new Map<string, string>();
   /** Önbelleğin geçerli olduğu ızgara genişliği */
   private clueFontWidth = 0;
+  /** Bu hamleyle yeni açılan kedi varsa, kutlama ekranında gösterilir */
+  private justUnlockedCat: CatDef | null = null;
 
   constructor(root: HTMLElement, puzzles: PuzzleDef[]) {
     this.root = root;
@@ -60,11 +65,43 @@ export class App {
   }
 
   start(): void {
-    this.renderHome();
+    if (storySeen()) {
+      this.renderHome();
+    } else {
+      this.renderIntro(() => this.renderHome());
+    }
     // web fontu sonradan yüklenince veya pencere boyutu değişince
     // ölçüler kayar; puntoları yeniden sığdır
     document.fonts?.ready.then(() => this.refitClueTexts());
     window.addEventListener("resize", () => this.refitClueTexts());
+  }
+
+  // ---------- açılış hikayesi ----------
+
+  /** Duman'ın hikayesini tam ekran anlatır; devam edince returnTo çalışır. */
+  private renderIntro(returnTo: () => void): void {
+    this.root.innerHTML = "";
+    const wrap = el("div", "home intro-screen");
+
+    const avatar = el("div", "cat-avatar-wrap cat-avatar-lg intro-avatar");
+    avatar.innerHTML = catAvatarSvg(DUMAN);
+    wrap.appendChild(avatar);
+
+    wrap.appendChild(el("h1", "intro-title", STORY_TITLE));
+    const body = el("div", "intro-body");
+    for (const p of STORY_PARAGRAPHS) {
+      body.appendChild(el("p", "intro-p", p));
+    }
+    wrap.appendChild(body);
+
+    const btn = el("button", "modal-btn intro-btn", "Yolculuğa başla");
+    btn.addEventListener("click", () => {
+      markStorySeen();
+      returnTo();
+    });
+    wrap.appendChild(btn);
+
+    this.root.appendChild(wrap);
   }
 
   // ---------- ana menü ----------
@@ -140,6 +177,26 @@ export class App {
     statRow.appendChild(statCard("✅", String(stats.solved.length), "Çözülen"));
     home.appendChild(statRow);
 
+    // kedi koleksiyonu teaser kartı
+    const collected = CATS.filter((c) => isSolvedPuzzle(c.puzzleId)).length;
+    const catsCard = el("button", "cats-teaser");
+    const preview = el("div", "cats-teaser-preview");
+    CATS.slice(0, 5).forEach((c) => {
+      const mini = el("div", "cat-avatar-wrap cat-avatar-mini");
+      mini.innerHTML = catAvatarSvg(c, !isSolvedPuzzle(c.puzzleId));
+      preview.appendChild(mini);
+    });
+    catsCard.appendChild(preview);
+    const catsInfo = el("div", "cats-teaser-info");
+    catsInfo.appendChild(el("div", "cats-teaser-title", "Kedi Dostlarım"));
+    catsInfo.appendChild(
+      el("div", "cats-teaser-sub", `${collected}/${CATS.length} bekçi kedi toplandı`),
+    );
+    catsCard.appendChild(catsInfo);
+    catsCard.appendChild(el("div", "puzzle-badge", "›"));
+    catsCard.addEventListener("click", () => this.renderCollection());
+    home.appendChild(catsCard);
+
     // bulmaca listesi
     home.appendChild(el("div", "section-title", "Tüm Bulmacalar"));
     const list = el("div", "puzzle-list");
@@ -152,6 +209,12 @@ export class App {
       btn.appendChild(num);
       const info = el("div", "puzzle-info");
       const titleRow = el("div", "puzzle-title-row");
+      const cat = catForPuzzle(p.id);
+      if (cat) {
+        const badge = el("div", "puzzle-cat-badge");
+        badge.innerHTML = catAvatarSvg(cat, !solved);
+        titleRow.appendChild(badge);
+      }
       titleRow.appendChild(el("span", "puzzle-title", p.title));
       if (p.difficulty) {
         titleRow.appendChild(
@@ -180,6 +243,74 @@ export class App {
     home.appendChild(list);
 
     this.root.appendChild(home);
+  }
+
+  // ---------- kedi koleksiyonu ----------
+
+  private renderCollection(): void {
+    this.root.innerHTML = "";
+    const wrap = el("div", "home cats-screen");
+
+    const bar = el("div", "topbar");
+    const back = el("button", "icon-btn");
+    back.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18 L9 12 L15 6"/></svg>`;
+    back.setAttribute("aria-label", "Ana menü");
+    back.addEventListener("click", () => this.renderHome());
+    bar.appendChild(back);
+    bar.appendChild(el("div", "topbar-title", "Kedi Dostlarım"));
+    const storyBtn = el("button", "icon-btn", "📖");
+    storyBtn.title = "Hikayeyi tekrar oku";
+    storyBtn.setAttribute("aria-label", "Hikayeyi tekrar oku");
+    storyBtn.addEventListener("click", () => {
+      this.renderIntro(() => this.renderCollection());
+    });
+    bar.appendChild(storyBtn);
+    wrap.appendChild(bar);
+
+    const collected = CATS.filter((c) => isSolvedPuzzle(c.puzzleId)).length;
+    wrap.appendChild(
+      el("div", "cats-progress", `${collected}/${CATS.length} bekçi kedi toplandı`),
+    );
+
+    const grid = el("div", "cats-grid");
+    CATS.forEach((cat, i) => {
+      const unlocked = isSolvedPuzzle(cat.puzzleId);
+      const card = el("button", "cat-card" + (unlocked ? " unlocked" : " locked"));
+      card.style.setProperty("--i", String(i));
+      const avatar = el("div", "cat-avatar-wrap");
+      avatar.innerHTML = catAvatarSvg(cat, !unlocked);
+      card.appendChild(avatar);
+      card.appendChild(el("div", "cat-name", unlocked ? cat.name : "???"));
+      card.appendChild(
+        el("div", "cat-region", unlocked ? cat.region : `${i + 1}. bulmaca`),
+      );
+      if (unlocked) {
+        card.addEventListener("click", () => this.showCatDetail(cat));
+      }
+      grid.appendChild(card);
+    });
+    wrap.appendChild(grid);
+
+    this.root.appendChild(wrap);
+  }
+
+  private showCatDetail(cat: CatDef): void {
+    const overlay = el("div", "overlay");
+    const modal = el("div", "modal cat-modal");
+    const avatar = el("div", "cat-avatar-wrap cat-avatar-lg");
+    avatar.innerHTML = catAvatarSvg(cat, false);
+    modal.appendChild(avatar);
+    modal.appendChild(el("h2", "modal-title", cat.name));
+    modal.appendChild(el("div", "cat-modal-region", `${cat.region} · ${cat.breed}`));
+    modal.appendChild(el("p", "modal-text", cat.lore));
+    const btn = el("button", "modal-btn", "Kapat");
+    btn.addEventListener("click", () => overlay.remove());
+    modal.appendChild(btn);
+    overlay.appendChild(modal);
+    overlay.addEventListener("click", (e) => {
+      if (e.target === overlay) overlay.remove();
+    });
+    this.root.appendChild(overlay);
   }
 
   private openPuzzle(p: PuzzleDef): void {
@@ -248,10 +379,12 @@ export class App {
   private withWinCheck(action: () => void): void {
     const s = this.state!;
     const wasCompleted = s.completed;
+    const alreadySolved = isSolvedPuzzle(s.puzzle.id);
     action();
     if (!wasCompleted && s.completed) {
       playWin();
       hapticWin();
+      this.justUnlockedCat = alreadySolved ? null : catForPuzzle(s.puzzle.id) ?? null;
     }
     this.renderGame();
   }
@@ -265,10 +398,12 @@ export class App {
     this.markPop();
     const prevClue = s.activeClue;
     const wasCompleted = s.completed;
+    const alreadySolved = isSolvedPuzzle(s.puzzle.id);
     typeLetter(s, key);
     if (!wasCompleted && s.completed) {
       playWin();
       hapticWin();
+      this.justUnlockedCat = alreadySolved ? null : catForPuzzle(s.puzzle.id) ?? null;
     } else if (prevClue !== null && this.isWordCorrect(prevClue)) {
       playCorrect();
       this.flashClue = prevClue;
@@ -602,12 +737,26 @@ export class App {
   }
 
   private showCompleted(): void {
+    const cat = this.justUnlockedCat;
+    this.justUnlockedCat = null;
     const overlay = el("div", "overlay");
     overlay.appendChild(makeConfetti());
     const modal = el("div", "modal");
-    modal.appendChild(el("div", "modal-emoji", "🎉"));
-    modal.appendChild(el("h2", "modal-title", "Tebrikler!"));
-    modal.appendChild(el("p", "modal-text", "Bulmacayı başarıyla tamamladın."));
+    if (cat) {
+      const avatar = el("div", "cat-avatar-wrap cat-avatar-lg cat-reveal-pop");
+      avatar.innerHTML = catAvatarSvg(cat, false);
+      modal.appendChild(avatar);
+      modal.appendChild(el("div", "cat-reveal-tag", "Yeni bekçi kedi!"));
+      modal.appendChild(el("h2", "modal-title", cat.name));
+      modal.appendChild(
+        el("div", "cat-modal-region", `${cat.region} · ${cat.breed}`),
+      );
+      modal.appendChild(el("p", "modal-text", cat.lore));
+    } else {
+      modal.appendChild(el("div", "modal-emoji", "🎉"));
+      modal.appendChild(el("h2", "modal-title", "Tebrikler!"));
+      modal.appendChild(el("p", "modal-text", "Bulmacayı başarıyla tamamladın."));
+    }
     const streak = currentStreak();
     if (streak > 0) {
       const line = el("div", "modal-streak");
@@ -616,6 +765,11 @@ export class App {
         el("span", "", `${streak} günlük seri`),
       );
       modal.appendChild(line);
+    }
+    if (cat) {
+      const catsBtn = el("button", "modal-btn modal-share", "Kedi Dostlarım'ı gör");
+      catsBtn.addEventListener("click", () => this.renderCollection());
+      modal.appendChild(catsBtn);
     }
     const shareBtn = el("button", "modal-btn modal-share", "Sonucu paylaş");
     shareBtn.addEventListener("click", () => void this.shareResult());
