@@ -1140,6 +1140,24 @@ button {
   margin-top: 16px;
 }
 
+/* ---------- kapanış hikayesi (tüm kediler toplanınca) ---------- */
+
+.epilogue-family {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  max-width: 340px;
+  margin-bottom: 4px;
+}
+
+.epilogue-family .cat-avatar-lg {
+  width: 84px;
+  height: 84px;
+  flex-basis: 100%;
+  filter: drop-shadow(0 10px 22px rgba(28, 25, 38, 0.18));
+}
+
 /* ---------- kedi koleksiyonu teaser (ana menü) ---------- */
 
 .cats-teaser {
