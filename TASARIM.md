@@ -20,6 +20,11 @@ olanlar gerçek illüstrasyon/asset gerektirir ve şu an yer tutucu ya da eksik.
 | Zeytin | Bursa | ✅ SVG avatar | |
 | Şeker | Konya | ✅ SVG avatar | |
 | Yayla | Rize | ✅ SVG avatar | |
+| Nar | Mardin | ✅ SVG avatar | |
+| İnci | Çanakkale | ✅ SVG avatar | |
+| Baklava | Gaziantep | ✅ SVG avatar | |
+| Kar | Erzurum | ✅ SVG avatar | |
+| Fener | Sinop | ✅ SVG avatar | Kapanış hikayesi artık burada tetikleniyor (son kedi) |
 
 Mevcut sistem: tek bir parametrik "kedi kafası" iskeleti (kulak + kafa + göz +
 burun + ağız + bıyık), kediye göre değişen tüy rengi / desen (solid, tabby,
@@ -40,6 +45,7 @@ tercih — bkz. `src/cats.ts`, `src/cat-avatar.ts`.
 | Kedi Dostlarım koleksiyon ekranı | ✅ |
 | Kedi detay modalı | ✅ |
 | Bulmaca bitirince kedi açılma kutlaması | ✅ |
+| Kapanış hikayesi (tüm kediler toplanınca) | ✅ |
 | Bölge haritası (Anadolu üzerinde ilerleme görselleştirmesi) | ⏳ Beklemede — [[cengel-content-strategy]]'deki "harita üzerinde açılma" fikri henüz uygulanmadı |
 
 ## Kutu / kart bileşenleri (mevcut stil sistemi)
