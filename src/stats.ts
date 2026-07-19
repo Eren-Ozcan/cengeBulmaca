@@ -90,6 +90,11 @@ export function isSolvedPuzzle(id: string): boolean {
   return loadStats().solved.includes(id);
 }
 
+/** Tamamlanan farklı bulmaca sayısı (kedi açılım eşikleri buna bakar). */
+export function solvedCount(): number {
+  return loadStats().solved.length;
+}
+
 /** Günün bulmacası: tarihe göre deterministik seçim. */
 export function dailyIndex(count: number, d: Date = new Date()): number {
   const s = dayString(d);

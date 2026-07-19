@@ -1,12 +1,17 @@
-// Kedi teması: her bulmacayı çözünce bir "bekçi kedi" koleksiyona katılır.
+// Kedi teması: bulmaca çözdükçe "bekçi kediler" koleksiyona katılır.
 // Hikaye: Duman, İstanbul sokaklarından çıkıp Anadolu'nun bekçi kedilerini
 // arıyor. Her kedi bir bölgeyi ve o bölgenin kısa bir bilgisini taşıyor.
+//
+// Açılım modeli: her kedi, toplam çözülen (farklı) bulmaca sayısı kendi
+// eşiğine (unlockAt) ulaşınca açılır. Eşikler uzun bir yolculuk kuracak
+// şekilde seyrek: son kedi 60. bulmacada açılır — günde bir bulmaca çözen
+// bir oyuncu için yaklaşık iki aylık bir macera.
 
 export type CatPattern = "solid" | "tabby" | "patch" | "tuxedo";
 
 export interface CatDef {
-  /** Bu kediyi açan bulmacanın id'si */
-  puzzleId: string;
+  /** Bu kedinin açılması için gereken toplam çözülmüş bulmaca sayısı */
+  unlockAt: number;
   name: string;
   region: string;
   breed: string;
@@ -23,7 +28,7 @@ export interface CatDef {
 
 /** Hikayenin anlatıcısı ve oyuncunun rehberi; koleksiyona dahil değil. */
 export const DUMAN: CatDef = {
-  puzzleId: "",
+  unlockAt: 0,
   name: "Duman",
   region: "İstanbul",
   breed: "İstanbul sokak kedisi",
@@ -38,7 +43,7 @@ export const DUMAN: CatDef = {
 
 export const CATS: CatDef[] = [
   {
-    puzzleId: "bulmaca-1",
+    unlockAt: 2,
     name: "Pamuk",
     region: "Van",
     breed: "Van kedisi",
@@ -52,7 +57,7 @@ export const CATS: CatDef[] = [
     eyeColor2: "#e0a63c",
   },
   {
-    puzzleId: "bulmaca-2",
+    unlockAt: 6,
     name: "Bulut",
     region: "Ankara",
     breed: "Ankara kedisi",
@@ -65,7 +70,7 @@ export const CATS: CatDef[] = [
     eyeColor: "#6bbf8a",
   },
   {
-    puzzleId: "bulmaca-3",
+    unlockAt: 10,
     name: "Fıstık",
     region: "İzmir",
     breed: "Ege sokak kedisi",
@@ -78,7 +83,7 @@ export const CATS: CatDef[] = [
     eyeColor: "#e0b23c",
   },
   {
-    puzzleId: "bulmaca-4",
+    unlockAt: 14,
     name: "Yasemin",
     region: "Antalya",
     breed: "Akdeniz kedisi",
@@ -91,7 +96,7 @@ export const CATS: CatDef[] = [
     eyeColor: "#4f9fe0",
   },
   {
-    puzzleId: "bulmaca-5",
+    unlockAt: 18,
     name: "Fındık",
     region: "Trabzon",
     breed: "Karadeniz kedisi",
@@ -104,7 +109,7 @@ export const CATS: CatDef[] = [
     eyeColor: "#4fae6b",
   },
   {
-    puzzleId: "bulmaca-6",
+    unlockAt: 22,
     name: "Gri Dede",
     region: "Kapadokya",
     breed: "Peri bacası kedisi",
@@ -117,7 +122,7 @@ export const CATS: CatDef[] = [
     eyeColor: "#e0b23c",
   },
   {
-    puzzleId: "bulmaca-7",
+    unlockAt: 26,
     name: "Kum",
     region: "Şanlıurfa",
     breed: "Güneydoğu kedisi",
@@ -130,7 +135,7 @@ export const CATS: CatDef[] = [
     eyeColor: "#c4813c",
   },
   {
-    puzzleId: "bulmaca-8",
+    unlockAt: 30,
     name: "Zeytin",
     region: "Bursa",
     breed: "Marmara kedisi",
@@ -143,7 +148,7 @@ export const CATS: CatDef[] = [
     eyeColor: "#e0b23c",
   },
   {
-    puzzleId: "bulmaca-9",
+    unlockAt: 34,
     name: "Şeker",
     region: "Konya",
     breed: "İç Anadolu kedisi",
@@ -156,7 +161,7 @@ export const CATS: CatDef[] = [
     eyeColor: "#4f9fe0",
   },
   {
-    puzzleId: "bulmaca-10",
+    unlockAt: 38,
     name: "Yayla",
     region: "Rize",
     breed: "Doğu Karadeniz kedisi",
@@ -169,7 +174,7 @@ export const CATS: CatDef[] = [
     eyeColor: "#4fae6b",
   },
   {
-    puzzleId: "bulmaca-11",
+    unlockAt: 42,
     name: "Nar",
     region: "Mardin",
     breed: "Mezopotamya kedisi",
@@ -182,7 +187,7 @@ export const CATS: CatDef[] = [
     eyeColor: "#c4813c",
   },
   {
-    puzzleId: "bulmaca-12",
+    unlockAt: 46,
     name: "İnci",
     region: "Çanakkale",
     breed: "Boğaz kedisi",
@@ -195,7 +200,7 @@ export const CATS: CatDef[] = [
     eyeColor: "#4f9fe0",
   },
   {
-    puzzleId: "bulmaca-13",
+    unlockAt: 50,
     name: "Baklava",
     region: "Gaziantep",
     breed: "Antep kedisi",
@@ -208,7 +213,7 @@ export const CATS: CatDef[] = [
     eyeColor: "#e0b23c",
   },
   {
-    puzzleId: "bulmaca-14",
+    unlockAt: 55,
     name: "Kar",
     region: "Erzurum",
     breed: "Doğu Anadolu kedisi",
@@ -221,7 +226,7 @@ export const CATS: CatDef[] = [
     eyeColor: "#7fb8e0",
   },
   {
-    puzzleId: "bulmaca-15",
+    unlockAt: 60,
     name: "Fener",
     region: "Sinop",
     breed: "Sinop kedisi",
@@ -236,8 +241,22 @@ export const CATS: CatDef[] = [
   },
 ];
 
-const byPuzzleId = new Map(CATS.map((c) => [c.puzzleId, c]));
+/** solved kadar bulmaca çözmüş bir oyuncuda bu kedi açık mı? */
+export function catUnlocked(cat: CatDef, solved: number): boolean {
+  return solved >= cat.unlockAt;
+}
 
-export function catForPuzzle(puzzleId: string): CatDef | undefined {
-  return byPuzzleId.get(puzzleId);
+/** Tam bu çözüm sayısında açılan kedi (yoksa undefined). */
+export function catUnlockedAt(solved: number): CatDef | undefined {
+  return CATS.find((c) => c.unlockAt === solved);
+}
+
+/** Sıradaki kilitli kedi (hepsi açıksa undefined). */
+export function nextLockedCat(solved: number): CatDef | undefined {
+  return CATS.find((c) => c.unlockAt > solved);
+}
+
+/** Tüm bekçi kediler toplandı mı? */
+export function allCatsUnlocked(solved: number): boolean {
+  return CATS.every((c) => catUnlocked(c, solved));
 }
