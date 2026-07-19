@@ -31,6 +31,16 @@ burun + ağız + bıyık), kediye göre değişen tüy rengi / desen (solid, tab
 patch, tuxedo) / göz rengi. Tutarlı bir "aile" gibi görünmesi için bilinçli
 tercih — bkz. `src/cats.ts`, `src/cat-avatar.ts`.
 
+### Açılım modeli (2 aylık ilerleme)
+
+Kediler artık belirli bir bulmacaya değil, **toplam çözülen farklı bulmaca
+sayısına** bağlı (`CatDef.unlockAt`). Eşikler: 2, 6, 10, 14, 18, 22, 26, 30,
+34, 38, 42, 46, 50, 55, 60. Toplam 60 bulmaca var; günde bir bulmaca çözen
+ortalama oyuncu son kediye (Fener) ~2 ayda ulaşır. Aynı bulmacayı tekrar
+çözmek sayacı artırmaz. Kilitli kedi kartı gereken bulmaca sayısını yazar;
+tamamlama modalı ve ana menü teaser'ı sıradaki kediye kaç bulmaca kaldığını
+gösterir.
+
 **Beklemede (ileri aşama, isteğe bağlı):**
 - Kediler için tam gövde / oturan poz illüstrasyonu (şu an sadece baş/büst).
 - Basit "idle" animasyonu (göz kırpma, kuyruk sallama) — kedi detay modalında.
@@ -56,8 +66,11 @@ uyumlu:
 - `.cats-teaser` — ana menüde koleksiyon özeti kartı
 - `.cat-card` — koleksiyon ızgarasındaki tekil kedi kartı (kilitli/açık)
 - `.cat-modal` / `.cat-reveal-tag` — detay ve kutlama modalı
-- `.puzzle-cat-badge` — bulmaca listesindeki mini kedi rozeti
+- `.modal-cat-next` — tamamlama modalında "sıradaki kediye N bulmaca" satırı
 - `.intro-screen` — hikaye anlatım ekranı
+
+(`.puzzle-cat-badge` kaldırıldı: kediler bulmaca-başına değil, toplam çözüm
+sayısına göre açıldığı için bulmaca listesinde kedi rozeti artık yok.)
 
 ## Ses / haptik
 
