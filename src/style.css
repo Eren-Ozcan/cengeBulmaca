@@ -1055,6 +1055,22 @@ button {
   font-size: 0.95rem;
 }
 
+/* tamamlama modalında "sıradaki kediye N bulmaca kaldı" satırı */
+.modal-cat-next {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.modal-cat-next .cat-avatar-mini {
+  width: 26px;
+  height: 26px;
+  flex-shrink: 0;
+}
+
 .modal-btn {
   margin-top: 10px;
   background: var(--accent);
@@ -1211,13 +1227,6 @@ button {
 }
 
 /* ---------- kedi rozeti (bulmaca kartı) ---------- */
-
-.puzzle-cat-badge {
-  width: 24px;
-  height: 24px;
-  flex-shrink: 0;
-  color: var(--ink-soft);
-}
 
 /* ---------- kedi koleksiyonu ekranı ---------- */
 

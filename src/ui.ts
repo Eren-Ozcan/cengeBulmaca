@@ -14,6 +14,7 @@ import {
   isSolvedPuzzle,
   loadStats,
   playedToday,
+  solvedCount,
 } from "./stats.ts";
 import {
   playCorrect,
@@ -26,7 +27,15 @@ import {
 import { hapticKey, hapticWin, hapticWrong } from "./haptics.ts";
 import { currentTheme, toggleTheme } from "./theme.ts";
 import type { ArrowDir, PuzzleDef } from "./types.ts";
-import { CATS, DUMAN, catForPuzzle, type CatDef } from "./cats.ts";
+import {
+  CATS,
+  DUMAN,
+  allCatsUnlocked,
+  catUnlocked,
+  catUnlockedAt,
+  nextLockedCat,
+  type CatDef,
+} from "./cats.ts";
 import { catAvatarSvg } from "./cat-avatar.ts";
 import {
   STORY_TITLE,
@@ -222,19 +231,26 @@ export class App {
     home.appendChild(statRow);
 
     // kedi koleksiyonu teaser kartı
-    const collected = CATS.filter((c) => isSolvedPuzzle(c.puzzleId)).length;
+    const solved = solvedCount();
+    const collected = CATS.filter((c) => catUnlocked(c, solved)).length;
     const catsCard = el("button", "cats-teaser");
     const preview = el("div", "cats-teaser-preview");
     CATS.slice(0, 5).forEach((c) => {
       const mini = el("div", "cat-avatar-wrap cat-avatar-mini");
-      mini.innerHTML = catAvatarSvg(c, !isSolvedPuzzle(c.puzzleId));
+      mini.innerHTML = catAvatarSvg(c, !catUnlocked(c, solved));
       preview.appendChild(mini);
     });
     catsCard.appendChild(preview);
     const catsInfo = el("div", "cats-teaser-info");
     catsInfo.appendChild(el("div", "cats-teaser-title", "Kedi Dostlarım"));
+    const next = nextLockedCat(solved);
     catsInfo.appendChild(
-      el("div", "cats-teaser-sub", `${collected}/${CATS.length} bekçi kedi toplandı`),
+      el(
+        "div",
+        "cats-teaser-sub",
+        `${collected}/${CATS.length} bekçi kedi toplandı` +
+          (next ? ` · sıradaki ${next.unlockAt - solved} bulmaca sonra` : ""),
+      ),
     );
     catsCard.appendChild(catsInfo);
     catsCard.appendChild(el("div", "puzzle-badge", "›"));
@@ -253,12 +269,6 @@ export class App {
       btn.appendChild(num);
       const info = el("div", "puzzle-info");
       const titleRow = el("div", "puzzle-title-row");
-      const cat = catForPuzzle(p.id);
-      if (cat) {
-        const badge = el("div", "puzzle-cat-badge");
-        badge.innerHTML = catAvatarSvg(cat, !solved);
-        titleRow.appendChild(badge);
-      }
       titleRow.appendChild(el("span", "puzzle-title", p.title));
       if (p.difficulty) {
         titleRow.appendChild(
@@ -311,14 +321,15 @@ export class App {
     bar.appendChild(storyBtn);
     wrap.appendChild(bar);
 
-    const collected = CATS.filter((c) => isSolvedPuzzle(c.puzzleId)).length;
+    const solved = solvedCount();
+    const collected = CATS.filter((c) => catUnlocked(c, solved)).length;
     wrap.appendChild(
       el("div", "cats-progress", `${collected}/${CATS.length} bekçi kedi toplandı`),
     );
 
     const grid = el("div", "cats-grid");
     CATS.forEach((cat, i) => {
-      const unlocked = isSolvedPuzzle(cat.puzzleId);
+      const unlocked = catUnlocked(cat, solved);
       const card = el("button", "cat-card" + (unlocked ? " unlocked" : " locked"));
       card.style.setProperty("--i", String(i));
       const avatar = el("div", "cat-avatar-wrap");
@@ -326,7 +337,7 @@ export class App {
       card.appendChild(avatar);
       card.appendChild(el("div", "cat-name", unlocked ? cat.name : "???"));
       card.appendChild(
-        el("div", "cat-region", unlocked ? cat.region : `${i + 1}. bulmaca`),
+        el("div", "cat-region", unlocked ? cat.region : `${cat.unlockAt} bulmaca çöz`),
       );
       if (unlocked) {
         card.addEventListener("click", () => this.showCatDetail(cat));
@@ -428,18 +439,23 @@ export class App {
     if (!wasCompleted && s.completed) {
       playWin();
       hapticWin();
-      this.registerCatUnlock(alreadySolved, s.puzzle.id);
+      this.registerCatUnlock(alreadySolved);
     }
     this.renderGame();
   }
 
-  /** Yeni tamamlanan bulmacaya bağlı kediyi ve yolculuğun bitip bitmediğini kaydeder. */
-  private registerCatUnlock(alreadySolved: boolean, puzzleId: string): void {
-    this.justUnlockedCat = alreadySolved ? null : catForPuzzle(puzzleId) ?? null;
+  /**
+   * Bu tamamlamayla yeni bir kedi eşiği aşıldıysa kutlamayı ve yolculuğun
+   * bitip bitmediğini kaydeder. Daha önce çözülmüş bir bulmacayı tekrar
+   * çözmek sayacı artırmadığı için kedi açmaz.
+   */
+  private registerCatUnlock(alreadySolved: boolean): void {
+    const solved = solvedCount();
+    this.justUnlockedCat = alreadySolved ? null : catUnlockedAt(solved) ?? null;
     this.journeyJustCompleted =
       this.justUnlockedCat !== null &&
       !epilogueSeen() &&
-      CATS.every((c) => isSolvedPuzzle(c.puzzleId));
+      allCatsUnlocked(solved);
   }
 
   /**
@@ -456,7 +472,7 @@ export class App {
     if (!wasCompleted && s.completed) {
       playWin();
       hapticWin();
-      this.registerCatUnlock(alreadySolved, s.puzzle.id);
+      this.registerCatUnlock(alreadySolved);
     } else if (prevClue !== null && this.isWordCorrect(prevClue)) {
       playCorrect();
       this.flashClue = prevClue;
@@ -811,6 +827,24 @@ export class App {
       modal.appendChild(el("div", "modal-emoji", "🎉"));
       modal.appendChild(el("h2", "modal-title", "Tebrikler!"));
       modal.appendChild(el("p", "modal-text", "Bulmacayı başarıyla tamamladın."));
+      const next = nextLockedCat(solvedCount());
+      if (next) {
+        const left = next.unlockAt - solvedCount();
+        const line = el("div", "modal-cat-next");
+        const mini = el("span", "cat-avatar-wrap cat-avatar-mini");
+        mini.innerHTML = catAvatarSvg(next, true);
+        line.appendChild(mini);
+        line.appendChild(
+          el(
+            "span",
+            "",
+            left === 1
+              ? "Sıradaki bekçi kedi bir bulmaca sonra!"
+              : `Sıradaki bekçi kediye ${left} bulmaca kaldı`,
+          ),
+        );
+        modal.appendChild(line);
+      }
     }
     const streak = currentStreak();
     if (streak > 0) {
