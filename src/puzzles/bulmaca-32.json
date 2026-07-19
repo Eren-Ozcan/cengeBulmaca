@@ -1,0 +1,193 @@
+{
+  "id": "bulmaca-32",
+  "title": "Bulmaca 32",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Bir selamlaşma sözü",
+      "answer": "MERHABA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "LA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Osmanlı'da rütbe göstergesi, at kuyruğundan yapılan sorguç",
+      "answer": "TUĞ",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Namaza çağrı",
+      "answer": "EZAN",
+      "row": 3,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Japon çiçek düzenleme sanatı",
+      "answer": "İKEBANA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sicim, halat",
+      "answer": "İP",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Basılı sayfalardan oluşan yapıt",
+      "answer": "KİTAP",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Milli İstihbarat Teşkilatı'nın kısa adı",
+      "answer": "MİT",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Baryum'un simgesi",
+      "answer": "BA",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir soru sözcüğü",
+      "answer": "NE",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kolun tutmaya yarayan bölümü",
+      "answer": "EL",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İlave, ulama",
+      "answer": "EK",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İşaret, belirti",
+      "answer": "İM",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski Mısır'ın güneş tanrısı",
+      "answer": "RA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yağı çıkarılan siyah veya yeşil meyve",
+      "answer": "ZEYTİN",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde su",
+      "answer": "AB",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tanrıtanımaz kimse",
+      "answer": "ATE",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yunanistan'ın başkenti",
+      "answer": "ATİNA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yakını gösteren işaret zamiri",
+      "answer": "BU",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Nikel'in simgesi",
+      "answer": "Nİ",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Örülmüş avlanma gereci",
+      "answer": "AĞ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağacın yeşil organı",
+      "answer": "YAPRAK",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    }
+  ],
+  "difficulty": "kolay"
+}

@@ -1,0 +1,204 @@
+{
+  "id": "bulmaca-50",
+  "title": "Bulmaca 50",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Kasapta satılan besin",
+      "answer": "ET",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Öğütülmüş tahıl",
+      "answer": "UN",
+      "row": 1,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Japon halk türküsü",
+      "answer": "UTA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Rütbesiz asker",
+      "answer": "ER",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Doğuma yardım eden sağlıkçı",
+      "answer": "EBE",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Türklerin milli sporu sayılan güç sporu",
+      "answer": "GÜREŞ",
+      "row": 3,
+      "col": 2,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tanrıtanımaz kimse",
+      "answer": "ATE",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zamanın çok kısa parçası",
+      "answer": "AN",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sınav puanı",
+      "answer": "NOT",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir seslenme sözü",
+      "answer": "YA",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Gerçek olmayan söz",
+      "answer": "YALAN",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Doğal yer altı boşluğu, in",
+      "answer": "MAĞARA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yarışma bölümü",
+      "answer": "TUR",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bin kilogram",
+      "answer": "TON",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Germanyum'un simgesi",
+      "answer": "GE",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İğneyle yapılan ince süs işi",
+      "answer": "OYA",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Padişah çadırı",
+      "answer": "OTAĞ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Fizikte iş birimi",
+      "answer": "ERG",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "LA",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Berilyum'un simgesi",
+      "answer": "BE",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Altının saflık derecesi",
+      "answer": "AYAR",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hayvan ölüsü",
+      "answer": "LEŞ",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Emile Zola'nın bir romanı",
+      "answer": "NANA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 2
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    }
+  ],
+  "difficulty": "kolay"
+}

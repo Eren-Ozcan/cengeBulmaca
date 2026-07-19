@@ -1,0 +1,189 @@
+{
+  "id": "bulmaca-47",
+  "title": "Bulmaca 47",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Helyum'un simgesi",
+      "answer": "HE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bir seslenme sözü",
+      "answer": "YA",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Halk dilinde ateş",
+      "answer": "HAR",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Japon çiçek düzenleme sanatı",
+      "answer": "İKEBANA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yüzüklerde kullanılan yarı değerli bir taş",
+      "answer": "AKİK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Avrupa'yı Asya'dan ayıran dağ sırası",
+      "answer": "URAL",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eski dilde ayak",
+      "answer": "PA",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kül rengi",
+      "answer": "GRİ",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çocuğu olan kadın, ana",
+      "answer": "ANNE",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kalsiyum'un simgesi",
+      "answer": "CA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaşam gücü; ruh",
+      "answer": "CAN",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Polonya'nın başkenti",
+      "answer": "VARŞOVA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çalışkanlığıyla bilinen böcek",
+      "answer": "KARINCA",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Anlama ve kavrama yetisi",
+      "answer": "ZEKA",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırmızı taneli bir meyve",
+      "answer": "NAR",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Derin bilgili kimse",
+      "answer": "BİLGE",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Adaletin gerektirdiği şey",
+      "answer": "HAK",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kobalt'ın simgesi",
+      "answer": "CO",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir şeyin sağı veya solu",
+      "answer": "YAN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Pirinç yemeği",
+      "answer": "PİLAV",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İri taneli bezelye",
+      "answer": "ARAKA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sodyum'un simgesi",
+      "answer": "NA",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 1,
+      "col": 3
+    },
+    {
+      "row": 6,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay"
+}

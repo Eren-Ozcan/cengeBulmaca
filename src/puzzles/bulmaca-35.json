@@ -1,0 +1,187 @@
+{
+  "id": "bulmaca-35",
+  "title": "Bulmaca 35",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "İtalya'nın başkenti",
+      "answer": "ROMA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Konut, hane",
+      "answer": "EV",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bir burç",
+      "answer": "TERAZİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Trenin üzerinde gittiği çelik yol",
+      "answer": "RAY",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Japon çiçek düzenleme sanatı",
+      "answer": "İKEBANA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Fırında pişen tatlı çörek",
+      "answer": "KEK",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Giysinin boyna gelen bölümü",
+      "answer": "YAKA",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Evren pulu da denilen mineral",
+      "answer": "MİKA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Günlük haber yayını",
+      "answer": "GAZETE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kafa; önder",
+      "answer": "BAŞ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kale duvarı, hisar duvarı",
+      "answer": "SUR",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Belirti, emare",
+      "answer": "İZ",
+      "row": 3,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeşil, küçük bitki",
+      "answer": "OT",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Letonya'nın başkenti",
+      "answer": "RİGA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kanatlı kutsal varlık",
+      "answer": "MELEK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Göz üstündeki kıl kavisi",
+      "answer": "KAŞ",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Utanma duygusu",
+      "answer": "AR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ak",
+      "answer": "BEYAZ",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İri taneli bezelye",
+      "answer": "ARAKA",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Notada durak işareti",
+      "answer": "ES",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Namaza çağrı",
+      "answer": "EZAN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İçine eşya konan karton ya da plastik kap",
+      "answer": "KUTU",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Avusturya'nın başkenti",
+      "answer": "VİYANA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Rütbesiz asker",
+      "answer": "ER",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 3,
+      "col": 1
+    }
+  ],
+  "difficulty": "kolay"
+}

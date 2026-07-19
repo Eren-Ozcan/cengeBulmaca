@@ -1,0 +1,188 @@
+{
+  "id": "bulmaca-41",
+  "title": "Bulmaca 41",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Bolluk",
+      "answer": "BEREKET",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Büyük deniz taşıtı",
+      "answer": "GEMİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İri taneli bezelye",
+      "answer": "ARAKA",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dört yanı suyla çevrili kara",
+      "answer": "ADA",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Üstün başarılı kimse",
+      "answer": "AS",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Fasıla",
+      "answer": "ARA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Arka, geri",
+      "answer": "ART",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yiğit, kahraman",
+      "answer": "ALP",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tantal'ın simgesi",
+      "answer": "TA",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Doğuma yardım eden sağlıkçı",
+      "answer": "EBE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ün, şöhret",
+      "answer": "ŞAN",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Dede, cet",
+      "answer": "ATA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Lantan'ın simgesi",
+      "answer": "LA",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir denizimiz ve bölgemiz",
+      "answer": "EGE",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Otomobil",
+      "answer": "ARABA",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "RE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hak ve hukuka uygunluk",
+      "answer": "ADALET",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İlaç, merhem (halk dili)",
+      "answer": "EM",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski Mısır'ın güneş tanrısı",
+      "answer": "RA",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kullanım karşılığı ödenen para",
+      "answer": "KİRA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yırtıcı iri kuş",
+      "answer": "KARTAL",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kazakistan'ın başkenti",
+      "answer": "ASTANA",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 0
+    }
+  ],
+  "difficulty": "kolay"
+}

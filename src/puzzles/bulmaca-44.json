@@ -1,0 +1,214 @@
+{
+  "id": "bulmaca-44",
+  "title": "Bulmaca 44",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Donmuş su",
+      "answer": "BUZ",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "DO",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yeşil, küçük bitki",
+      "answer": "OT",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Doğal yer altı boşluğu, in",
+      "answer": "MAĞARA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tantal'ın simgesi",
+      "answer": "TA",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Zamanın çok kısa parçası",
+      "answer": "AN",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir soru sözcüğü",
+      "answer": "NE",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Anne",
+      "answer": "ANA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sapı uzun, kırmızı küçük meyve",
+      "answer": "KİRAZ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yoğun su buharı bulutu",
+      "answer": "SİS",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnanç, görüş",
+      "answer": "KANI",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Atın tırnağına çakılan demir",
+      "answer": "NAL",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Elektrik direnç birimi",
+      "answer": "OM",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yılın dördüncü ayı",
+      "answer": "NİSAN",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gümüş balığı",
+      "answer": "ATERİNA",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek sığır",
+      "answer": "BOĞA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gerçek, esas",
+      "answer": "ASIL",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Japon halk türküsü",
+      "answer": "UTA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok karşıtı",
+      "answer": "AZ",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Nâzım Hikmet'in soyadı",
+      "answer": "RAN",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kilit açan araç",
+      "answer": "ANAHTAR",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    }
+  ],
+  "difficulty": "kolay"
+}

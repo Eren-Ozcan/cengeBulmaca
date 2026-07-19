@@ -1,0 +1,242 @@
+{
+  "id": "bulmaca-60",
+  "title": "Bulmaca 60",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Birden sonra gelen sayı",
+      "answer": "İKİ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sıvı ve gaz olmayan madde hâli",
+      "answer": "KATI",
+      "row": 1,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İsim",
+      "answer": "AD",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Japon halk türküsü",
+      "answer": "UTA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kurum, duman lekesi",
+      "answer": "İS",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İri taneli bezelye",
+      "answer": "ARAKA",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski dilde su",
+      "answer": "AB",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Delikli, seyrek dokunmuş kumaş",
+      "answer": "ETAMİN",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Rütbesiz asker",
+      "answer": "ER",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "Mİ",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaylı bir çalgı",
+      "answer": "KEMAN",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Burnun algıladığı duyum",
+      "answer": "KOKU",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İlaç, merhem (halk dili)",
+      "answer": "EM",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kısaca yazılan hatırlatma",
+      "answer": "NOT",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Baryum'un simgesi",
+      "answer": "BA",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Para saklanan çelik dolap",
+      "answer": "KASA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yankı",
+      "answer": "EKO",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İlkel benlik",
+      "answer": "İD",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bolluk",
+      "answer": "BEREKET",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Fitilli aydınlatma aracı",
+      "answer": "MUM",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıçrayarak hareket eden çift yaşamlı hayvan",
+      "answer": "KURBAĞA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Dede, cet",
+      "answer": "ATA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Müzik sesi işareti",
+      "answer": "NOTA",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Günleri gösteren çizelge",
+      "answer": "TAKVİM",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyükanne",
+      "answer": "NİNE",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 3
+    },
+    {
+      "row": 4,
+      "col": 5
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
+    }
+  ],
+  "difficulty": "orta"
+}

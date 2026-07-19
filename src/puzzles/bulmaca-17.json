@@ -1,0 +1,201 @@
+{
+  "id": "bulmaca-17",
+  "title": "Bulmaca 17",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Sicim, halat",
+      "answer": "İP",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Berilyum'un simgesi",
+      "answer": "BE",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sodyum'un simgesi",
+      "answer": "NA",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Elektrik direnç birimi",
+      "answer": "OM",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Günlük haber yayını",
+      "answer": "GAZETE",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eksiksiz",
+      "answer": "TAM",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir bağlaç",
+      "answer": "İLE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sapı uzun, kırmızı küçük meyve",
+      "answer": "KİRAZ",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Avusturya'nın başkenti",
+      "answer": "VİYANA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Taban, yer",
+      "answer": "ZEMİN",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dış karşıtı, dahil",
+      "answer": "İÇ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir bağlaç",
+      "answer": "VE",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayak direme",
+      "answer": "İNAT",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yılın onuncu ayı",
+      "answer": "EKİM",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Haftanın son günü",
+      "answer": "PAZAR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İlaç, merhem (halk dili)",
+      "answer": "EM",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Komşu bir ülke",
+      "answer": "İRAN",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük gemi",
+      "answer": "BOT",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Düz, açık yer; saha",
+      "answer": "ALAN",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çaba, uğraş",
+      "answer": "EMEK",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Namaza çağrı",
+      "answer": "EZAN",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 5
+    }
+  ],
+  "difficulty": "kolay"
+}

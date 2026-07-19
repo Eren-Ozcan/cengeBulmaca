@@ -1,0 +1,194 @@
+{
+  "id": "bulmaca-16",
+  "title": "Bulmaca 16",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Üye",
+      "answer": "AZA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yankı",
+      "answer": "EKO",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir seslenme sözü",
+      "answer": "YA",
+      "row": 1,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yırtıcı iri kuş",
+      "answer": "KARTAL",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Üzerinde iş görülen mobilya",
+      "answer": "MASA",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Odanın üst yüzeyi",
+      "answer": "TAVAN",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Boru akışını kesen musluk",
+      "answer": "VANA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tavla küpü",
+      "answer": "ZAR",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yaprakları katmerli kış sebzesi",
+      "answer": "LAHANA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ordu mensubu",
+      "answer": "ASKER",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Anlama ve kavrama yetisi",
+      "answer": "ZEKA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Üç zamanlı bir dans",
+      "answer": "VALS",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Saç düzeltme aracı",
+      "answer": "TARAK",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağaçlarla kaplı geniş alan",
+      "answer": "ORMAN",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Helyum'un simgesi",
+      "answer": "HE",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kızartma kabı",
+      "answer": "TAVA",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Utanma duygusu",
+      "answer": "AR",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kanun",
+      "answer": "YASA",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Gerçek olmayan söz",
+      "answer": "YALAN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İddia, tez",
+      "answer": "SAV",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 5
+    }
+  ],
+  "difficulty": "kolay"
+}

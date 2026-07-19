@@ -1,0 +1,210 @@
+{
+  "id": "bulmaca-20",
+  "title": "Bulmaca 20",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Altın'ın simgesi",
+      "answer": "AU",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Söylence, efsanevi anlatı",
+      "answer": "MİT",
+      "row": 1,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Üst karşıtı",
+      "answer": "ALT",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sarıya çalan göz rengi",
+      "answer": "ELA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir kişinin veya yerin bulunduğu yeri gösteren bilgi",
+      "answer": "ADRES",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İlenme, yakınma ünlemi",
+      "answer": "AH",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Karışık renkli, benekli",
+      "answer": "ALA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sayıların ilki",
+      "answer": "BİR",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Çinko'nun simgesi",
+      "answer": "ZN",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gözleri görmeyen",
+      "answer": "AMA",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bakır'ın simgesi",
+      "answer": "CU",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yayla atılan ince silah",
+      "answer": "OK",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Lityum'un simgesi",
+      "answer": "Lİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Temel, esas",
+      "answer": "ANA",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski dilde su",
+      "answer": "AB",
+      "row": 1,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırmızı renk",
+      "answer": "AL",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Notada durak işareti",
+      "answer": "ES",
+      "row": 4,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Japon halk türküsü",
+      "answer": "UTA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İstiridyeden çıkan değerli tane",
+      "answer": "İNCİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Rusça'da 'evet'",
+      "answer": "DA",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir selamlaşma sözü",
+      "answer": "MERHABA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir bağlaç",
+      "answer": "İLE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ekşi, sarı meyve",
+      "answer": "LİMON",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük metal kap",
+      "answer": "TAS",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İri taneli bezelye",
+      "answer": "ARAKA",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 0
+    }
+  ],
+  "difficulty": "kolay"
+}

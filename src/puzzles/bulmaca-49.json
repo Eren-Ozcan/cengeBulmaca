@@ -1,0 +1,343 @@
+{
+  "id": "bulmaca-49",
+  "title": "Bulmaca 49",
+  "rows": 13,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "Vücudu kaplayan örtü",
+      "answer": "DERİ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Püsküllü eski başlık",
+      "answer": "FES",
+      "row": 1,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Para saklanan çelik dolap",
+      "answer": "KASA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Baş kaldıran",
+      "answer": "ASİ",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Geniş, verimli düzlük",
+      "answer": "OVA",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Üst karşıtı",
+      "answer": "ALT",
+      "row": 3,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "'İşte' anlamında bir ünlem",
+      "answer": "HA",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Japon halk türküsü",
+      "answer": "UTA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Salamurada bekletilmiş sebze",
+      "answer": "TURŞU",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir seslenme sözü",
+      "answer": "YA",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yarışma bölümü",
+      "answer": "TUR",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Temel, esas",
+      "answer": "ANA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Cıva'nın simgesi",
+      "answer": "HG",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Abide",
+      "answer": "ANIT",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tanrıtanımaz kimse",
+      "answer": "ATE",
+      "row": 7,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güney Amerika'nın büyük dağ sırası",
+      "answer": "AND",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Avrupa'yı Asya'dan ayıran dağ sırası",
+      "answer": "URAL",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yüz metrekarelik alan ölçüsü",
+      "answer": "AR",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sanayi, endüstri",
+      "answer": "URAN",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sarıya çalan göz rengi",
+      "answer": "ELA",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Tespih başlığı",
+      "answer": "İMAME",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yoğun su buharı bulutu",
+      "answer": "SİS",
+      "row": 12,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "İlave, ulama",
+      "answer": "EK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yunanistan'ın başkenti",
+      "answer": "ATİNA",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Anadolu kökenli Ortodoks Hristiyan",
+      "answer": "RUM",
+      "row": 9,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Radyum'un simgesi",
+      "answer": "RA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Lantan'ın simgesi",
+      "answer": "LA",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Türkiye'nin başkenti",
+      "answer": "ANKARA",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Urfa yöresine özgü acı biber",
+      "answer": "İSOT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Mikroskopta kullanılan cam",
+      "answer": "LAM",
+      "row": 9,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Avcının kısmeti",
+      "answer": "AV",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kesilmiş ağaç levha",
+      "answer": "TAHTA",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir soru sözcüğü",
+      "answer": "NE",
+      "row": 10,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ceylan",
+      "answer": "AHU",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sodyum'un simgesi",
+      "answer": "NA",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "FA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Arka, geri",
+      "answer": "ART",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir kişinin veya yerin bulunduğu yeri gösteren bilgi",
+      "answer": "ADRES",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Notada durak işareti",
+      "answer": "ES",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir işaret sıfatı",
+      "answer": "ŞU",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Lityum'un simgesi",
+      "answer": "Lİ",
+      "row": 10,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "Sİ",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Aydınlık, ışık",
+      "answer": "NUR",
+      "row": 3,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "En sert değerli taş",
+      "answer": "ELMAS",
+      "row": 7,
+      "col": 8,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
+    }
+  ],
+  "difficulty": "zor"
+}

@@ -1,0 +1,213 @@
+{
+  "id": "bulmaca-38",
+  "title": "Bulmaca 38",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Kebabıyla ünlü ilimiz",
+      "answer": "ADANA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gümüş balığı",
+      "answer": "ATERİNA",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bir bağlaç",
+      "answer": "VE",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kedisiyle ünlü ilimiz",
+      "answer": "VAN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "LA",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Altının saflık derecesi",
+      "answer": "AYAR",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalsiyum'un simgesi",
+      "answer": "CA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "FA",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir kişinin veya yerin bulunduğu yeri gösteren bilgi",
+      "answer": "ADRES",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kazakistan'ın başkenti",
+      "answer": "ASTANA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Temel, esas",
+      "answer": "ANA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Demir'in simgesi",
+      "answer": "FE",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Altın'ın simgesi",
+      "answer": "AU",
+      "row": 1,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Satrançta bir taş",
+      "answer": "AT",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İç ses, insaf duygusu",
+      "answer": "VİCDAN",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İlaç, çare",
+      "answer": "DEVA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapı yapılacak arazi",
+      "answer": "ARSA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Boğa güreşi alanı",
+      "answer": "ARENA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kasapta satılan besin",
+      "answer": "ET",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Nikel'in simgesi",
+      "answer": "Nİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Katıksız, arı",
+      "answer": "SAF",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Zamanın çok kısa parçası",
+      "answer": "AN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Söz, lakırdı",
+      "answer": "LAF",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir soru sözcüğü",
+      "answer": "NE",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İri taneli bezelye",
+      "answer": "ARAKA",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay"
+}

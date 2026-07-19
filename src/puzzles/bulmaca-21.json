@@ -1,0 +1,290 @@
+{
+  "id": "bulmaca-21",
+  "title": "Bulmaca 21",
+  "rows": 12,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Bir nota",
+      "answer": "Sİ",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sanı, şüphe",
+      "answer": "ZAN",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sindirim organı, karın boşluğundaki kese",
+      "answer": "MİDE",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sodyum'un simgesi",
+      "answer": "NA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "En büyük kıta",
+      "answer": "ASYA",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek sığır",
+      "answer": "BOĞA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dişi çocuk, evlat",
+      "answer": "KIZ",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Dilin algıladığı duyum",
+      "answer": "TAT",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir bağlaç",
+      "answer": "İLE",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Belirli gün",
+      "answer": "TARİH",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Satrançta bir taş",
+      "answer": "AT",
+      "row": 7,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Anne",
+      "answer": "ANA",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir soru sözcüğü",
+      "answer": "NE",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Konut, hane",
+      "answer": "EV",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İskambilde birli",
+      "answer": "AS",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ortaya konan yapıt",
+      "answer": "ESER",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Tanrıtanımaz kimse",
+      "answer": "ATE",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hamuru kabartan madde",
+      "answer": "MAYA",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Müzik sesi işareti",
+      "answer": "NOTA",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Elektrik güç birimi",
+      "answer": "VAT",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğal yer altı boşluğu, in",
+      "answer": "MAĞARA",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Selenyum'un simgesi",
+      "answer": "SE",
+      "row": 9,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yunanistan'ın başkenti",
+      "answer": "ATİNA",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Rusça'da 'evet'",
+      "answer": "DA",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Maçı yöneten kimse",
+      "answer": "HAKEM",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeni karşıtı",
+      "answer": "ESKİ",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yetki simgesi değnek",
+      "answer": "ASA",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bacaksız sürüngen",
+      "answer": "YILAN",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Seslenme ünlemi",
+      "answer": "EY",
+      "row": 9,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Günlük haber yayını",
+      "answer": "GAZETE",
+      "row": 2,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski Mısır'ın güneş tanrısı",
+      "answer": "RA",
+      "row": 9,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 0
+    }
+  ],
+  "difficulty": "orta"
+}

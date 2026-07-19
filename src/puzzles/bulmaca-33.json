@@ -1,0 +1,276 @@
+{
+  "id": "bulmaca-33",
+  "title": "Bulmaca 33",
+  "rows": 12,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Güneş doğmadan önceki alacakaranlık",
+      "answer": "TAN",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Üye",
+      "answer": "AZA",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Esas, ana",
+      "answer": "TEMEL",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Benzer, denk",
+      "answer": "EŞ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Fırında pişen tatlı çörek",
+      "answer": "KEK",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yayla atılan ince silah",
+      "answer": "OK",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Baş kaldıran",
+      "answer": "ASİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yetki simgesi değnek",
+      "answer": "ASA",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Acı ya da tatlı bir sebze",
+      "answer": "BİBER",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce, kuru parçacıklar",
+      "answer": "TOZ",
+      "row": 8,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Soluk",
+      "answer": "NEFES",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sodyum'un simgesi",
+      "answer": "NA",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Kum falı",
+      "answer": "REMİL",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yabancı kimse",
+      "answer": "EL",
+      "row": 4,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemek, çorba",
+      "answer": "AŞ",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Cilt, deri",
+      "answer": "TEN",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kurum, duman lekesi",
+      "answer": "İS",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Trabzon'un bir ilçesi",
+      "answer": "OF",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayak direme",
+      "answer": "İNAT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tohum ekme makinesi",
+      "answer": "MİBZER",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Anlama ve kavrama yetisi",
+      "answer": "ZEKA",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Selenyum'un simgesi",
+      "answer": "SE",
+      "row": 9,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tespih başlığı",
+      "answer": "İMAME",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaba, kalın yün kumaş",
+      "answer": "ABA",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kareli kumaş",
+      "answer": "EKOSE",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Nikel'in simgesi",
+      "answer": "Nİ",
+      "row": 9,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Başarı karşılığı verilen şey",
+      "answer": "ÖDÜL",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyaz yağış",
+      "answer": "KAR",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırmızı renk",
+      "answer": "AL",
+      "row": 9,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 1
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 0
+    }
+  ],
+  "difficulty": "orta"
+}

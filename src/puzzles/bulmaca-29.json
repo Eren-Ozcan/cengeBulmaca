@@ -1,0 +1,209 @@
+{
+  "id": "bulmaca-29",
+  "title": "Bulmaca 29",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Türkmenistan'ın başkenti",
+      "answer": "AŞKABAT",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Babanın veya annenin babası",
+      "answer": "DEDE",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Rusça'da 'evet'",
+      "answer": "DA",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Zamanın çok kısa parçası",
+      "answer": "AN",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Attila'nın hükümdarı olduğu tarihi Türk topluluğu",
+      "answer": "HUN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "Mİ",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Adanan şey, nezir",
+      "answer": "ADAK",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yapma, etme (eski dilde)",
+      "answer": "İKA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Üstün başarılı kimse",
+      "answer": "AS",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kareli kumaş",
+      "answer": "EKOSE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalay'ın simgesi",
+      "answer": "SN",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir işaret sıfatı",
+      "answer": "ŞU",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Maçı yöneten kimse",
+      "answer": "HAKEM",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağzın kenarındaki hareketli et kısmı",
+      "answer": "DUDAK",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kebabıyla ünlü ilimiz",
+      "answer": "ADANA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir ağırlık birimi (28,35 gram)",
+      "answer": "ONS",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Berilyum'un simgesi",
+      "answer": "BE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hareketi sağlayan doku",
+      "answer": "KAS",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek insan, kişi",
+      "answer": "ADAM",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Su birikintisi oluşturan baraj duvarı",
+      "answer": "SET",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Raketle oynanan spor",
+      "answer": "TENİS",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay"
+}

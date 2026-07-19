@@ -1,0 +1,196 @@
+{
+  "id": "bulmaca-26",
+  "title": "Bulmaca 26",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Gümüş balığı",
+      "answer": "ATERİNA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Vilayet",
+      "answer": "İL",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kurum, duman lekesi",
+      "answer": "İS",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Konuşma organı; lisan",
+      "answer": "DİL",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yivli bağlantı elemanı",
+      "answer": "VİDA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir uzunluk ölçüsü",
+      "answer": "MİL",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Tartı aleti",
+      "answer": "TERAZİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yardım için toplanan para",
+      "answer": "İANE",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gezinti teknesi",
+      "answer": "YAT",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Matem",
+      "answer": "YAS",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yüksek yer kabartısı",
+      "answer": "DAĞ",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kızartma kabı",
+      "answer": "TAVA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ele giyilen giysi",
+      "answer": "ELDİVEN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İlkel benlik",
+      "answer": "İD",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Oy (eski dilde)",
+      "answer": "REY",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "And Dağları'nın yük hayvanı",
+      "answer": "LAMA",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İsim",
+      "answer": "AD",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Nikel'in simgesi",
+      "answer": "Nİ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Belirti, emare",
+      "answer": "İZ",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Tantal'ın simgesi",
+      "answer": "TA",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstün başarılı kimse",
+      "answer": "AS",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kemiğin içindeki doku",
+      "answer": "İLİK",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 5
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay"
+}

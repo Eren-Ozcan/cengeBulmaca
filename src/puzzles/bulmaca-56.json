@@ -1,0 +1,237 @@
+{
+  "id": "bulmaca-56",
+  "title": "Bulmaca 56",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Şöhret, şan",
+      "answer": "ÜN",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yüz metrekarelik alan ölçüsü",
+      "answer": "AR",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yayla atılan ince silah",
+      "answer": "OK",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Deriden salgılanan sıvı",
+      "answer": "TER",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hisse, bölüşülen parça",
+      "answer": "PAY",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaşamın kaynağı sıvı",
+      "answer": "SU",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Karışık renkli, benekli",
+      "answer": "ALA",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bıkkınlık ünlemi",
+      "answer": "OF",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hekimlik bilimi",
+      "answer": "TIP",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İşaret, belirti",
+      "answer": "İM",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Berilyum'un simgesi",
+      "answer": "BE",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kafa; önder",
+      "answer": "BAŞ",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İsim",
+      "answer": "AD",
+      "row": 4,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Hristiyanların doğuş bayramı",
+      "answer": "NOEL",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Elektrik direnç birimi",
+      "answer": "OM",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kripton'un simgesi",
+      "answer": "KR",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Katıksız, arı",
+      "answer": "SAF",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Mektuba yapıştırılan değerli kâğıt",
+      "answer": "PUL",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Baryum'un simgesi",
+      "answer": "BA",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dede, cet",
+      "answer": "ATA",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanma olayı, od",
+      "answer": "ATEŞ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyaz, kara karşıtı",
+      "answer": "AK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir seslenme sözü",
+      "answer": "YA",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Trenin üzerinde gittiği çelik yol",
+      "answer": "RAY",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sicim, halat",
+      "answer": "İP",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 1,
+      "col": 3
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay"
+}
