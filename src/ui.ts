@@ -17,6 +17,7 @@ import {
   solvedCount,
 } from "./stats.ts";
 import {
+  playCatUnlock,
   playCorrect,
   playKey,
   playWin,
@@ -36,7 +37,14 @@ import {
   nextLockedCat,
   type CatDef,
 } from "./cats.ts";
-import { catAvatarSvg } from "./cat-avatar.ts";
+import { catAvatarSvg, catFullBodySvg } from "./cat-avatar.ts";
+import {
+  ISTANBUL_POS,
+  MAP_VIEWBOX,
+  OUTLINE_PATH,
+  percentPos,
+  regionPos,
+} from "./turkey-map.ts";
 import {
   STORY_TITLE,
   STORY_PARAGRAPHS,
@@ -104,7 +112,7 @@ export class App {
     const wrap = el("div", "home intro-screen");
 
     const avatar = el("div", "cat-avatar-wrap cat-avatar-lg intro-avatar");
-    avatar.innerHTML = catAvatarSvg(DUMAN);
+    avatar.innerHTML = catFullBodySvg(DUMAN);
     wrap.appendChild(avatar);
 
     wrap.appendChild(el("h1", "intro-title", STORY_TITLE));
@@ -131,7 +139,7 @@ export class App {
 
     const family = el("div", "epilogue-family");
     const dumanAvatar = el("div", "cat-avatar-wrap cat-avatar-lg");
-    dumanAvatar.innerHTML = catAvatarSvg(DUMAN);
+    dumanAvatar.innerHTML = catFullBodySvg(DUMAN);
     family.appendChild(dumanAvatar);
     CATS.forEach((cat) => {
       const mini = el("div", "cat-avatar-wrap cat-avatar-mini");
@@ -312,6 +320,11 @@ export class App {
     back.addEventListener("click", () => this.renderHome());
     bar.appendChild(back);
     bar.appendChild(el("div", "topbar-title", "Kedi Dostlarım"));
+    const mapBtn = el("button", "icon-btn", "🗺️");
+    mapBtn.title = "Anadolu haritası";
+    mapBtn.setAttribute("aria-label", "Anadolu haritası");
+    mapBtn.addEventListener("click", () => this.renderMap());
+    bar.appendChild(mapBtn);
     const storyBtn = el("button", "icon-btn", "📖");
     storyBtn.title = "Hikayeyi tekrar oku";
     storyBtn.setAttribute("aria-label", "Hikayeyi tekrar oku");
@@ -349,11 +362,74 @@ export class App {
     this.root.appendChild(wrap);
   }
 
+  /** Duman'ın Anadolu'daki yolculuğunu bir haritada gösterir: her bölge
+   * bekçi kedinin yaklaşık konumunda bir pim olarak durur, açık/kilitli
+   * durumu renkle belli olur. Harita stilize edilmiştir, coğrafi olarak
+   * kesin değildir; dokununca bölge adı ve durumu görünür. */
+  private renderMap(): void {
+    this.root.innerHTML = "";
+    const wrap = el("div", "home map-screen");
+
+    const bar = el("div", "topbar");
+    const back = el("button", "icon-btn");
+    back.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18 L9 12 L15 6"/></svg>`;
+    back.setAttribute("aria-label", "Kedi Dostlarım");
+    back.addEventListener("click", () => this.renderCollection());
+    bar.appendChild(back);
+    bar.appendChild(el("div", "topbar-title", "Anadolu Haritası"));
+    wrap.appendChild(bar);
+
+    const solved = solvedCount();
+    const collected = CATS.filter((c) => catUnlocked(c, solved)).length;
+    wrap.appendChild(
+      el("div", "cats-progress", `${collected}/${CATS.length} bölgeye ulaşıldı`),
+    );
+
+    const canvas = el("div", "map-canvas");
+
+    const vb = `0 0 ${MAP_VIEWBOX.width} ${MAP_VIEWBOX.height}`;
+    const svg = el("div", "map-bg-svg");
+    svg.innerHTML = `
+<svg viewBox="${vb}" preserveAspectRatio="none" aria-hidden="true">
+  <path d="${OUTLINE_PATH}" class="map-outline"/>
+</svg>`.trim();
+    canvas.appendChild(svg);
+
+    const startPin = el("div", "map-pin map-pin-start");
+    startPin.title = "Duman'ın yolculuğa başladığı yer: İstanbul";
+    const startPos = percentPos(ISTANBUL_POS);
+    startPin.style.left = startPos.left;
+    startPin.style.top = startPos.top;
+    const startAvatar = el("div", "cat-avatar-wrap map-pin-avatar");
+    startAvatar.innerHTML = catAvatarSvg(DUMAN, false);
+    startPin.appendChild(startAvatar);
+    canvas.appendChild(startPin);
+
+    CATS.forEach((cat) => {
+      const unlocked = catUnlocked(cat, solved);
+      const pin = el("button", "map-pin" + (unlocked ? " unlocked" : " locked"));
+      const pos = percentPos(regionPos(cat.region));
+      pin.style.left = pos.left;
+      pin.style.top = pos.top;
+      const avatar = el("div", "cat-avatar-wrap map-pin-avatar");
+      avatar.innerHTML = catAvatarSvg(cat, !unlocked);
+      pin.appendChild(avatar);
+      pin.addEventListener("click", () => {
+        if (unlocked) this.showCatDetail(cat);
+        else toast(this.root, `${cat.region}: ${cat.unlockAt} bulmaca çözünce açılır`);
+      });
+      canvas.appendChild(pin);
+    });
+
+    wrap.appendChild(canvas);
+    this.root.appendChild(wrap);
+  }
+
   private showCatDetail(cat: CatDef): void {
     const overlay = el("div", "overlay");
     const modal = el("div", "modal cat-modal");
     const avatar = el("div", "cat-avatar-wrap cat-avatar-lg");
-    avatar.innerHTML = catAvatarSvg(cat, false);
+    avatar.innerHTML = catFullBodySvg(cat, false);
     modal.appendChild(avatar);
     modal.appendChild(el("h2", "modal-title", cat.name));
     modal.appendChild(el("div", "cat-modal-region", `${cat.region} · ${cat.breed}`));
@@ -452,6 +528,7 @@ export class App {
   private registerCatUnlock(alreadySolved: boolean): void {
     const solved = solvedCount();
     this.justUnlockedCat = alreadySolved ? null : catUnlockedAt(solved) ?? null;
+    if (this.justUnlockedCat !== null) playCatUnlock();
     this.journeyJustCompleted =
       this.justUnlockedCat !== null &&
       !epilogueSeen() &&
@@ -815,7 +892,7 @@ export class App {
     const modal = el("div", "modal");
     if (cat) {
       const avatar = el("div", "cat-avatar-wrap cat-avatar-lg cat-reveal-pop");
-      avatar.innerHTML = catAvatarSvg(cat, false);
+      avatar.innerHTML = catFullBodySvg(cat, false);
       modal.appendChild(avatar);
       modal.appendChild(el("div", "cat-reveal-tag", "Yeni bekçi kedi!"));
       modal.appendChild(el("h2", "modal-title", cat.name));
