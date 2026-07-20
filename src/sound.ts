@@ -78,3 +78,26 @@ export function playWin(): void {
   const notes = [523.25, 659.25, 783.99, 1046.5];
   notes.forEach((f, i) => tone(f, 0.2, "sine", 0.06, i * 0.11));
 }
+
+/** Yeni bekçi kedi açıldı: kısa, yükselip alçalan bir "miyav" */
+export function playCatUnlock(): void {
+  const ac = audio();
+  if (!ac) return;
+  const t = ac.currentTime + 0.12;
+  const osc = ac.createOscillator();
+  const g = ac.createGain();
+  osc.type = "sawtooth";
+  osc.frequency.setValueAtTime(520, t);
+  osc.frequency.exponentialRampToValueAtTime(880, t + 0.09);
+  osc.frequency.exponentialRampToValueAtTime(360, t + 0.32);
+  const filter = ac.createBiquadFilter();
+  filter.type = "bandpass";
+  filter.frequency.setValueAtTime(1200, t);
+  filter.Q.value = 2.2;
+  g.gain.setValueAtTime(0.0001, t);
+  g.gain.exponentialRampToValueAtTime(0.08, t + 0.05);
+  g.gain.exponentialRampToValueAtTime(0.0001, t + 0.34);
+  osc.connect(filter).connect(g).connect(ac.destination);
+  osc.start(t);
+  osc.stop(t + 0.36);
+}
