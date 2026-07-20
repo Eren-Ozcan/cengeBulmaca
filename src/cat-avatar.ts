@@ -4,31 +4,32 @@ import type { CatDef } from "./cats.ts";
 // iskeleti, kediye göre değişen tüy rengi + desen (solid/tabby/patch/tuxedo)
 // + göz rengiyle (Van kedisinde heterokromik) her kedi birbirinden ayrışır.
 // Kilitli (henüz açılmamış) kediler siluet + pati izi olarak gösterilir.
+//
+// catFullBodySvg, aynı baş çizimini (headMarkup) daha uzun bir tuval üstünde
+// gövde + kuyruk + ön patilerle birleştirir; kod tekrarını önlemek için baş
+// çizimi tek bir yerde tanımlı.
 
 let uid = 0;
 
-export function catAvatarSvg(cat: CatDef, locked = false): string {
-  const clipId = `cat-clip-${uid++}`;
-  const earL = `M18 38 L29 6 L46 34 Z`;
-  const earR = `M82 38 L71 6 L54 34 Z`;
-  const earLInner = `M25 31 L31 14 L41 30 Z`;
-  const earRInner = `M75 31 L69 14 L59 30 Z`;
-  const headEllipse = `<ellipse cx="50" cy="58" rx="33" ry="29"/>`;
+const EAR_L = `M18 38 L29 6 L46 34 Z`;
+const EAR_R = `M82 38 L71 6 L54 34 Z`;
+const EAR_L_INNER = `M25 31 L31 14 L41 30 Z`;
+const EAR_R_INNER = `M75 31 L69 14 L59 30 Z`;
+const HEAD_ELLIPSE = `<ellipse cx="50" cy="58" rx="33" ry="29"/>`;
 
-  if (locked) {
-    return `
-<svg viewBox="0 0 100 100" class="cat-svg cat-locked" aria-hidden="true">
-  <path d="${earL}" fill="currentColor" opacity="0.16"/>
-  <path d="${earR}" fill="currentColor" opacity="0.16"/>
+function lockedHeadMarkup(): string {
+  return `
+  <path d="${EAR_L}" fill="currentColor" opacity="0.16"/>
+  <path d="${EAR_R}" fill="currentColor" opacity="0.16"/>
   <ellipse cx="50" cy="58" rx="33" ry="29" fill="currentColor" opacity="0.16"/>
   <ellipse cx="50" cy="62" rx="9" ry="7" fill="currentColor" opacity="0.4"/>
   <ellipse cx="36" cy="50" rx="3.6" ry="4.6" fill="currentColor" opacity="0.4"/>
   <ellipse cx="44" cy="44" rx="3.6" ry="4.8" fill="currentColor" opacity="0.4"/>
   <ellipse cx="56" cy="44" rx="3.6" ry="4.8" fill="currentColor" opacity="0.4"/>
-  <ellipse cx="64" cy="50" rx="3.6" ry="4.6" fill="currentColor" opacity="0.4"/>
-</svg>`.trim();
-  }
+  <ellipse cx="64" cy="50" rx="3.6" ry="4.6" fill="currentColor" opacity="0.4"/>`;
+}
 
+function headMarkup(cat: CatDef, clipId: string): string {
   const eye2 = cat.eyeColor2 ?? cat.eyeColor;
   let pattern = "";
   if (cat.pattern === "tabby") {
@@ -52,14 +53,13 @@ export function catAvatarSvg(cat: CatDef, locked = false): string {
   }
 
   return `
-<svg viewBox="0 0 100 100" class="cat-svg" aria-hidden="true">
   <defs>
-    <clipPath id="${clipId}">${headEllipse}</clipPath>
+    <clipPath id="${clipId}">${HEAD_ELLIPSE}</clipPath>
   </defs>
-  <path d="${earL}" fill="${cat.furColor}"/>
-  <path d="${earR}" fill="${cat.furColor}"/>
-  <path d="${earLInner}" fill="#ffffff" opacity="0.5"/>
-  <path d="${earRInner}" fill="#ffffff" opacity="0.5"/>
+  <path d="${EAR_L}" fill="${cat.furColor}"/>
+  <path d="${EAR_R}" fill="${cat.furColor}"/>
+  <path d="${EAR_L_INNER}" fill="#ffffff" opacity="0.5"/>
+  <path d="${EAR_R_INNER}" fill="#ffffff" opacity="0.5"/>
   <ellipse cx="50" cy="58" rx="33" ry="29" fill="${cat.furColor}"/>
   ${pattern}
   <circle cx="38" cy="56" r="7" fill="${cat.eyeColor}"/>
@@ -76,6 +76,58 @@ export function catAvatarSvg(cat: CatDef, locked = false): string {
     <path d="M13 65 L26 62"/>
     <path d="M86 58 L74 56"/>
     <path d="M87 65 L74 62"/>
-  </g>
+  </g>`;
+}
+
+export function catAvatarSvg(cat: CatDef, locked = false): string {
+  const clipId = `cat-clip-${uid++}`;
+  if (locked) {
+    return `
+<svg viewBox="0 0 100 100" class="cat-svg cat-locked" aria-hidden="true">${lockedHeadMarkup()}
+</svg>`.trim();
+  }
+  return `
+<svg viewBox="0 0 100 100" class="cat-svg" aria-hidden="true">${headMarkup(cat, clipId)}
+</svg>`.trim();
+}
+
+/** Oturan pozda tam gövde illüstrasyonu: gövde + kuyruk + ön patiler,
+ * üstte aynı baş çizimiyle. Hikaye ekranları ve kedi detayı için. */
+export function catFullBodySvg(cat: CatDef, locked = false): string {
+  const clipId = `cat-body-clip-${uid++}`;
+
+  if (locked) {
+    return `
+<svg viewBox="0 0 100 150" class="cat-svg cat-full-body cat-locked" aria-hidden="true">
+  <path d="M74 132 Q95 122 91 94 Q88 74 70 70" fill="none" stroke="currentColor" stroke-width="9" stroke-linecap="round" opacity="0.16"/>
+  <ellipse cx="50" cy="118" rx="30" ry="34" fill="currentColor" opacity="0.16"/>
+  <ellipse cx="37" cy="146" rx="10" ry="11" fill="currentColor" opacity="0.16"/>
+  <ellipse cx="63" cy="146" rx="10" ry="11" fill="currentColor" opacity="0.16"/>${lockedHeadMarkup()}
+</svg>`.trim();
+  }
+
+  let bodyPattern = "";
+  let pawPattern = "";
+  if (cat.pattern === "tuxedo") {
+    bodyPattern = `<path d="M28 106 Q50 148 72 106 Q75 132 50 142 Q25 132 28 106 Z" fill="${cat.patternColor}"/>`;
+    pawPattern = `<ellipse cx="37" cy="148" rx="6.5" ry="6" fill="${cat.patternColor}"/><ellipse cx="63" cy="148" rx="6.5" ry="6" fill="${cat.patternColor}"/>`;
+  } else if (cat.pattern === "patch") {
+    bodyPattern = `<ellipse cx="67" cy="110" rx="12" ry="17" transform="rotate(10 67 110)" fill="${cat.patternColor}"/>`;
+  } else if (cat.pattern === "tabby") {
+    bodyPattern = `
+  <g stroke="${cat.patternColor}" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.85">
+    <path d="M36 94 Q34 108 37 122"/>
+    <path d="M64 94 Q66 108 63 122"/>
+  </g>`;
+  }
+
+  return `
+<svg viewBox="0 0 100 150" class="cat-svg cat-full-body" aria-hidden="true">
+  <path d="M74 132 Q95 122 91 94 Q88 74 70 70" fill="none" stroke="${cat.furColor}" stroke-width="9" stroke-linecap="round"/>
+  <ellipse cx="50" cy="118" rx="30" ry="34" fill="${cat.furColor}"/>
+  ${bodyPattern}
+  <ellipse cx="37" cy="146" rx="10" ry="11" fill="${cat.furColor}"/>
+  <ellipse cx="63" cy="146" rx="10" ry="11" fill="${cat.furColor}"/>
+  ${pawPattern}${headMarkup(cat, clipId)}
 </svg>`.trim();
 }
