@@ -136,6 +136,29 @@ describe("bulmaca çözme akışı", () => {
   });
 });
 
+describe("ipucu ve reklam", () => {
+  it("günlük 3 ücretsiz ipucu tükenince buton reklam izlemeye döner; web ortamında reklam gösterilemediği için ipucu açılmaz", async () => {
+    storage.setItem("cengel-story-seen", "1");
+    const root = freshRoot();
+    new App(root, [PUZZLE_A]).start();
+    clickNth(root, ".puzzle-card", 0);
+
+    for (let i = 0; i < 3; i++) {
+      clickWithText(root, ".action-btn", `İpucu (${3 - i})`);
+    }
+
+    const adBtn = Array.from(root.querySelectorAll<HTMLElement>(".action-btn")).find(
+      (b) => b.textContent === "🎬 İpucu",
+    );
+    expect(adBtn).toBeTruthy();
+
+    adBtn!.click();
+    await new Promise((r) => setTimeout(r, 0));
+
+    expect(root.querySelector(".toast")?.textContent).toContain("Reklam tamamlanmadı");
+  });
+});
+
 describe("Kedi Dostlarım koleksiyonu", () => {
   it("kilit durumları eşiklerle uyumlu, açık karta dokununca detay modalı açılır", () => {
     storage.setItem("cengel-story-seen", "1");

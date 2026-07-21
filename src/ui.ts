@@ -26,6 +26,8 @@ import {
   toggleSound,
 } from "./sound.ts";
 import { hapticKey, hapticWin, hapticWrong } from "./haptics.ts";
+import { maybeShowInterstitial, shouldShowInterstitial, showRewardedHintAd } from "./ads.ts";
+import { consumeFreeHint, freeHintsRemainingToday } from "./hints.ts";
 import { currentTheme, toggleTheme } from "./theme.ts";
 import type { ArrowDir, PuzzleDef } from "./types.ts";
 import {
@@ -591,10 +593,35 @@ export class App {
       if (wrong === 0) toast(this.root, "Dolu hücrelerin hepsi doğru!");
       else toast(this.root, `${wrong} yanlış harf işaretlendi`);
     });
-    const revealBtn = el("button", "action-btn", "İpucu");
-    revealBtn.title = "Seçili hücrenin harfini aç";
+    const freeHints = freeHintsRemainingToday();
+    const revealBtn = el(
+      "button",
+      "action-btn",
+      freeHints > 0 ? `İpucu (${freeHints})` : "🎬 İpucu",
+    );
+    revealBtn.title =
+      freeHints > 0
+        ? "Seçili hücrenin harfini aç"
+        : "Günlük ücretsiz ipucu bitti — reklam izleyerek bir ipucu daha aç";
     revealBtn.addEventListener("click", () => {
-      this.withWinCheck(() => revealLetter(s));
+      if (freeHints > 0) {
+        consumeFreeHint();
+        this.withWinCheck(() => revealLetter(s));
+        return;
+      }
+      (revealBtn as HTMLButtonElement).disabled = true;
+      revealBtn.textContent = "Reklam yükleniyor…";
+      showRewardedHintAd()
+        .catch(() => false)
+        .then((earned) => {
+          if (this.state !== s) return; // oyuncu bu sırada başka yere geçti
+          if (earned) {
+            this.withWinCheck(() => revealLetter(s));
+          } else {
+            this.renderGame();
+            toast(this.root, "Reklam tamamlanmadı, ipucu açılmadı");
+          }
+        });
     });
     const soundBtn = el("button", "icon-btn sound-btn", soundEnabled() ? "🔊" : "🔇");
     soundBtn.setAttribute("aria-label", "Sesi aç/kapat");
@@ -955,6 +982,8 @@ export class App {
     modal.appendChild(btn);
     overlay.appendChild(modal);
     this.root.appendChild(overlay);
+
+    if (shouldShowInterstitial()) void maybeShowInterstitial();
   }
 
   /** Sonucu sistem paylaşım menüsüyle, yoksa panoya kopyalayarak paylaşır. */
