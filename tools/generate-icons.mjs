@@ -138,6 +138,41 @@ async function main() {
     console.log(`mipmap-${density}: ${size}px launcher, ${fgSize}px foreground`);
   }
 
+  // ---------- Play Store: 512x512 yüksek çözünürlüklü ikon ----------
+  const storeAssetsDir = join(root, "docs/store-assets");
+  mkdirSync(storeAssetsDir, { recursive: true });
+  const icon512 = await sharp(flatFull).resize(512, 512).png().toBuffer();
+  writeFileSync(join(storeAssetsDir, "icon-512.png"), icon512);
+  console.log("docs/store-assets/icon-512.png yazıldı");
+
+  // ---------- Play Store: 1024x500 öne çıkan görsel (feature graphic) ----------
+  const FG_W = 1024;
+  const FG_H = 500;
+  const PORTRAIT_SIZE = 360;
+  const portrait = await sharp(foregroundBuf).resize(PORTRAIT_SIZE, PORTRAIT_SIZE).toBuffer();
+  const textSvg = Buffer.from(`
+<svg xmlns="http://www.w3.org/2000/svg" width="${FG_W}" height="${FG_H}">
+  <text x="56" y="215" font-family="Arial, sans-serif" font-size="66" font-weight="900" fill="#2b2430">Çengel Bulmaca</text>
+  <text x="58" y="270" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#5b4a35">Bekçi kedileriyle Anadolu turu</text>
+</svg>`);
+  const featureGraphic = await sharp({
+    create: { width: FG_W, height: FG_H, channels: 4, background: bgHex },
+  })
+    .composite([
+      {
+        input: portrait,
+        left: FG_W - PORTRAIT_SIZE - 40,
+        top: Math.round((FG_H - PORTRAIT_SIZE) / 2),
+      },
+      { input: textSvg, left: 0, top: 0 },
+    ])
+    .flatten({ background: bgHex })
+    .removeAlpha() // Play Store feature graphic: alfa kanalsız (24-bit) PNG istiyor
+    .png()
+    .toBuffer();
+  writeFileSync(join(storeAssetsDir, "feature-graphic.png"), featureGraphic);
+  console.log("docs/store-assets/feature-graphic.png yazıldı");
+
   console.log("Tamamlandı.");
 }
 
