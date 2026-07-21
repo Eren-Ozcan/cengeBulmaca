@@ -1,3 +1,6 @@
+<!-- Bu dosya PRIVACY.md'nin GitHub Pages'te yayınlanan kopyasıdır.
+     PRIVACY.md değişirse buradaki içerik de güncellenmeli. -->
+
 # Gizlilik Politikası — Çengel Bulmaca
 
 _Son güncelleme: 21 Temmuz 2026_
