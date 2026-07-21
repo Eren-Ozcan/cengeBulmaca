@@ -33,6 +33,14 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/file_paths"></meta-data>
         </provider>
+
+        <!-- AdMob: şu an Google'ın herkese açık TEST App ID'si. Yayına
+             çıkmadan önce kendi AdMob hesabından üretilen gerçek App ID ile
+             değiştir (bkz. res/values/strings.xml -> admob_app_id, ve
+             src/ads.ts başındaki not). -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admob_app_id" />
     </application>
 
     <!-- Permissions -->
