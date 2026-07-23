@@ -28,6 +28,9 @@ import {
 import { hapticKey, hapticWin, hapticWrong } from "./haptics.ts";
 import { maybeShowInterstitial, shouldShowInterstitial, showRewardedHintAd } from "./ads.ts";
 import { consumeFreeHint, freeHintsRemainingToday } from "./hints.ts";
+import { CAT_UNLOCK_REWARD, grantJokers, jokerBalance, spendJoker } from "./economy.ts";
+import { JOKER_PACKS, purchaseJokerPack } from "./billing.ts";
+import { musicEnabled, toggleMusic } from "./music.ts";
 import { currentTheme, toggleTheme } from "./theme.ts";
 import type { ArrowDir, PuzzleDef } from "./types.ts";
 import {
@@ -57,6 +60,8 @@ import {
   epilogueSeen,
   markEpilogueSeen,
 } from "./story.ts";
+import { tutorialSeen, markTutorialSeen } from "./tutorial.ts";
+import { claimFirstPuzzleReferralReward, shareInvite } from "./referral.ts";
 
 // Ok ikonları: klasik çengel bulmaca okları (SVG, currentColor)
 const ARROW_SVG: Record<ArrowDir, string> = {
@@ -72,9 +77,24 @@ const KEY_ROWS = [
   ["Z", "X", "C", "V", "B", "N", "M", "Ö", "Ç", "⌫"],
 ];
 
+const SPLASH_FLAVORS = [
+  "Patiler ısınıyor…",
+  "Anadolu haritası açılıyor…",
+  "Bekçi kediler uyandırılıyor…",
+  "Bulmaca mürekkebi hazırlanıyor…",
+];
+const SPLASH_DURATION_MS = 1700;
+const SPLASH_FLAVOR_INTERVAL_MS = 500;
+
+export interface AppOptions {
+  /** Testlerde zaman aşımına dayalı açılış ekranını atlamak için. */
+  skipSplash?: boolean;
+}
+
 export class App {
   private root: HTMLElement;
   private puzzles: PuzzleDef[];
+  private options: AppOptions;
   private state: GameState | null = null;
   /** Son harf girilen hücre; bir sonraki çizimde pop animasyonu alır */
   private popIdx: number | null = null;
@@ -89,21 +109,72 @@ export class App {
   /** Bu hamleyle son bekçi kedi de açılıp yolculuk tamamlandıysa true */
   private journeyJustCompleted = false;
 
-  constructor(root: HTMLElement, puzzles: PuzzleDef[]) {
+  constructor(root: HTMLElement, puzzles: PuzzleDef[], options: AppOptions = {}) {
     this.root = root;
     this.puzzles = puzzles;
+    this.options = options;
   }
 
   start(): void {
-    if (storySeen()) {
-      this.renderHome();
-    } else {
-      this.renderIntro(() => this.renderHome());
-    }
     // web fontu sonradan yüklenince veya pencere boyutu değişince
     // ölçüler kayar; puntoları yeniden sığdır
     document.fonts?.ready.then(() => this.refitClueTexts());
     window.addEventListener("resize", () => this.refitClueTexts());
+
+    const enter = () => {
+      if (storySeen()) {
+        this.renderHome();
+      } else {
+        this.renderIntro(() => this.renderHome());
+      }
+    };
+    if (this.options.skipSplash) {
+      enter();
+    } else {
+      this.renderSplash(enter);
+    }
+  }
+
+  // ---------- açılış ekranı (splash) ----------
+
+  /** Kısa, sabit süreli marka açılışı; gerçek SDK başlatmalarıyla (initAds vb.) paralel gösterilir. */
+  private renderSplash(done: () => void): void {
+    this.root.innerHTML = "";
+    const wrap = el("div", "splash-screen");
+
+    const avatar = el("div", "cat-avatar-wrap cat-avatar-lg splash-avatar");
+    avatar.innerHTML = catFullBodySvg(DUMAN);
+    wrap.appendChild(avatar);
+
+    const brand = el("div", "brand splash-brand");
+    brand.appendChild(el("span", "brand-mark", "Ç"));
+    brand.appendChild(el("span", "brand-name", "Çengel Bulmaca"));
+    wrap.appendChild(brand);
+
+    const track = el("div", "splash-bar-track");
+    const fill = el("div", "splash-bar-fill");
+    track.appendChild(fill);
+    wrap.appendChild(track);
+
+    const flavor = el("div", "splash-flavor", SPLASH_FLAVORS[0]);
+    wrap.appendChild(flavor);
+
+    this.root.appendChild(wrap);
+    requestAnimationFrame(() => {
+      fill.style.transitionDuration = `${SPLASH_DURATION_MS}ms`;
+      fill.classList.add("splash-bar-anim");
+    });
+
+    let i = 0;
+    const flavorTimer = window.setInterval(() => {
+      i = (i + 1) % SPLASH_FLAVORS.length;
+      flavor.textContent = SPLASH_FLAVORS[i];
+    }, SPLASH_FLAVOR_INTERVAL_MS);
+
+    window.setTimeout(() => {
+      clearInterval(flavorTimer);
+      done();
+    }, SPLASH_DURATION_MS);
   }
 
   // ---------- açılış hikayesi ----------
@@ -167,19 +238,55 @@ export class App {
     this.root.appendChild(wrap);
   }
 
+  // ---------- alt gezinme & joker rozeti ----------
+
+  /** 4 üst-seviye sekme arasında gezinme çubuğu; oyun/harita/hikaye ekranlarında gösterilmez. */
+  private renderBottomNav(active: "home" | "cats" | "shop" | "settings"): HTMLElement {
+    const nav = el("nav", "bottom-nav");
+    const tabs: { key: typeof active; icon: string; label: string; go: () => void }[] = [
+      { key: "home", icon: "🏠", label: "Ana Sayfa", go: () => this.renderHome() },
+      { key: "cats", icon: "🐈", label: "Kediler", go: () => this.renderCollection() },
+      { key: "shop", icon: "🛍️", label: "Mağaza", go: () => this.renderShop() },
+      { key: "settings", icon: "⚙️", label: "Ayarlar", go: () => this.renderSettings() },
+    ];
+    for (const tab of tabs) {
+      const btn = el(
+        "button",
+        "bottom-nav-btn" + (tab.key === active ? " active" : ""),
+      );
+      btn.appendChild(el("span", "bottom-nav-icon", tab.icon));
+      btn.appendChild(el("span", "bottom-nav-label", tab.label));
+      if (tab.key !== active) btn.addEventListener("click", tab.go);
+      nav.appendChild(btn);
+    }
+    return nav;
+  }
+
+  /** Joker bakiyesini gösteren rozet; her üst-seviye ekranda görünür, dokununca Mağaza açılır. */
+  private jokerPill(): HTMLElement {
+    const pill = el("button", "joker-pill");
+    pill.appendChild(el("span", "joker-pill-icon", "🃏"));
+    pill.appendChild(el("span", "joker-pill-count", String(jokerBalance())));
+    pill.appendChild(el("span", "joker-pill-plus", "＋"));
+    pill.setAttribute("aria-label", "Joker bakiyesi, Mağaza'yı aç");
+    pill.addEventListener("click", () => this.renderShop());
+    return pill;
+  }
+
   // ---------- ana menü ----------
 
   private renderHome(): void {
     this.root.innerHTML = "";
     const home = el("div", "home");
 
-    // üst bar: logo + seri rozeti
+    // üst bar: logo + joker rozeti + seri rozeti
     const top = el("div", "home-top");
     const brand = el("div", "brand");
     brand.appendChild(el("span", "brand-mark", "Ç"));
     brand.appendChild(el("span", "brand-name", "Çengel"));
     top.appendChild(brand);
     const right = el("div", "home-top-right");
+    right.appendChild(this.jokerPill());
     const themeBtn = el(
       "button",
       "icon-btn theme-btn",
@@ -307,6 +414,7 @@ export class App {
     home.appendChild(list);
 
     this.root.appendChild(home);
+    this.root.appendChild(this.renderBottomNav("home"));
   }
 
   // ---------- kedi koleksiyonu ----------
@@ -362,6 +470,7 @@ export class App {
     wrap.appendChild(grid);
 
     this.root.appendChild(wrap);
+    this.root.appendChild(this.renderBottomNav("cats"));
   }
 
   /** Duman'ın Anadolu'daki yolculuğunu bir haritada gösterir: her bölge
@@ -446,6 +555,134 @@ export class App {
     this.root.appendChild(overlay);
   }
 
+  // ---------- mağaza ----------
+
+  private renderShop(): void {
+    this.root.innerHTML = "";
+    const wrap = el("div", "home shop-screen");
+
+    const bar = el("div", "topbar");
+    bar.appendChild(el("div", "topbar-title", "Mağaza"));
+    const balance = el("div", "shop-balance");
+    balance.appendChild(el("span", "", "🃏"));
+    balance.appendChild(el("span", "", String(jokerBalance())));
+    bar.appendChild(balance);
+    wrap.appendChild(bar);
+
+    wrap.appendChild(
+      el(
+        "div",
+        "shop-intro",
+        "Jokerler, bir soruyu doğrudan açmak için kullanılır — günlük ücretsiz ipucun ve reklam hakkın bittiğinde devreye girer.",
+      ),
+    );
+
+    const inviteCard = el("div", "invite-card");
+    inviteCard.appendChild(el("div", "invite-icon", "🎁"));
+    const inviteInfo = el("div", "invite-info");
+    inviteInfo.appendChild(el("div", "invite-title", "Arkadaşını Davet Et"));
+    inviteInfo.appendChild(
+      el(
+        "div",
+        "invite-sub",
+        "Arkadaşın ilk bulmacasını çözünce ikiniz de 3'er joker kazanır.",
+      ),
+    );
+    inviteCard.appendChild(inviteInfo);
+    const inviteBtn = el("button", "invite-btn", "Davet Et");
+    inviteBtn.addEventListener("click", () => {
+      void shareInvite().then((result) => {
+        if (result === "shared") return;
+        if (result === "copied") toast(this.root, "Davet linki panoya kopyalandı");
+        else toast(this.root, "Davet sistemi şu an kullanılamıyor");
+      });
+    });
+    inviteCard.appendChild(inviteBtn);
+    wrap.appendChild(inviteCard);
+
+    wrap.appendChild(el("div", "section-title", "Joker Al"));
+    const grid = el("div", "shop-pack-grid");
+    JOKER_PACKS.forEach((pack) => {
+      const card = el("button", "shop-pack-card" + (pack.popular ? " popular" : ""));
+      if (pack.popular) card.appendChild(el("div", "shop-pack-badge", "Popüler"));
+      card.appendChild(el("div", "shop-pack-icon", "🃏"));
+      card.appendChild(el("div", "shop-pack-count", `${pack.count} Joker`));
+      card.appendChild(el("div", "shop-pack-price", pack.priceLabel));
+      card.addEventListener("click", () => void this.buyJokerPack(pack.id, card));
+      grid.appendChild(card);
+    });
+    wrap.appendChild(grid);
+
+    this.root.appendChild(wrap);
+    this.root.appendChild(this.renderBottomNav("shop"));
+  }
+
+  private async buyJokerPack(packId: string, card: HTMLElement): Promise<void> {
+    card.classList.add("shop-pack-pending");
+    const granted = await purchaseJokerPack(packId).catch(() => 0);
+    if (granted > 0) {
+      grantJokers(granted);
+      this.renderShop();
+      toast(this.root, `+${granted} 🃏 Joker eklendi!`);
+    } else {
+      card.classList.remove("shop-pack-pending");
+      toast(this.root, "Satın alma tamamlanmadı");
+    }
+  }
+
+  // ---------- ayarlar ----------
+
+  private renderSettings(): void {
+    this.root.innerHTML = "";
+    const wrap = el("div", "home settings-screen");
+
+    const bar = el("div", "topbar");
+    bar.appendChild(el("div", "topbar-title", "Ayarlar"));
+    wrap.appendChild(bar);
+
+    const list = el("div", "settings-list");
+    list.appendChild(
+      this.settingsRow("🔊", "Sesler", soundEnabled(), () => {
+        toggleSound();
+        this.renderSettings();
+      }),
+    );
+    list.appendChild(
+      this.settingsRow("🎵", "Müzik", musicEnabled(), () => {
+        toggleMusic();
+        this.renderSettings();
+      }),
+    );
+    list.appendChild(
+      this.settingsRow("🎨", "Gazete teması", currentTheme() === "gazete", () => {
+        toggleTheme();
+        this.renderSettings();
+      }),
+    );
+    wrap.appendChild(list);
+
+    const storyBtn = el("button", "puzzle-card");
+    const storyInfo = el("div", "puzzle-info");
+    storyInfo.appendChild(el("div", "puzzle-title", "Hikayeyi tekrar oku"));
+    storyBtn.appendChild(el("div", "puzzle-num", "📖"));
+    storyBtn.appendChild(storyInfo);
+    storyBtn.appendChild(el("div", "puzzle-badge", "›"));
+    storyBtn.addEventListener("click", () => this.renderIntro(() => this.renderSettings()));
+    wrap.appendChild(storyBtn);
+
+    this.root.appendChild(wrap);
+    this.root.appendChild(this.renderBottomNav("settings"));
+  }
+
+  private settingsRow(icon: string, label: string, on: boolean, onToggle: () => void): HTMLElement {
+    const row = el("button", "settings-row");
+    row.appendChild(el("span", "settings-icon", icon));
+    row.appendChild(el("span", "settings-label", label));
+    row.appendChild(el("span", "settings-toggle" + (on ? " on" : ""), on ? "AÇIK" : "KAPALI"));
+    row.addEventListener("click", onToggle);
+    return row;
+  }
+
   private openPuzzle(p: PuzzleDef): void {
     this.state = newGame(p);
     this.clueFontCache.clear();
@@ -513,11 +750,13 @@ export class App {
     const s = this.state!;
     const wasCompleted = s.completed;
     const alreadySolved = isSolvedPuzzle(s.puzzle.id);
+    const wasFirstEverSolve = solvedCount() === 0;
     action();
     if (!wasCompleted && s.completed) {
       playWin();
       hapticWin();
       this.registerCatUnlock(alreadySolved);
+      if (wasFirstEverSolve) void claimFirstPuzzleReferralReward();
     }
     this.renderGame();
   }
@@ -530,7 +769,10 @@ export class App {
   private registerCatUnlock(alreadySolved: boolean): void {
     const solved = solvedCount();
     this.justUnlockedCat = alreadySolved ? null : catUnlockedAt(solved) ?? null;
-    if (this.justUnlockedCat !== null) playCatUnlock();
+    if (this.justUnlockedCat !== null) {
+      playCatUnlock();
+      grantJokers(CAT_UNLOCK_REWARD);
+    }
     this.journeyJustCompleted =
       this.justUnlockedCat !== null &&
       !epilogueSeen() &&
@@ -543,15 +785,18 @@ export class App {
    */
   private handleType(key: string): void {
     const s = this.state!;
+    if (!tutorialSeen()) markTutorialSeen();
     this.markPop();
     const prevClue = s.activeClue;
     const wasCompleted = s.completed;
     const alreadySolved = isSolvedPuzzle(s.puzzle.id);
+    const wasFirstEverSolve = solvedCount() === 0;
     typeLetter(s, key);
     if (!wasCompleted && s.completed) {
       playWin();
       hapticWin();
       this.registerCatUnlock(alreadySolved);
+      if (wasFirstEverSolve) void claimFirstPuzzleReferralReward();
     } else if (prevClue !== null && this.isWordCorrect(prevClue)) {
       playCorrect();
       this.flashClue = prevClue;
@@ -594,18 +839,30 @@ export class App {
       else toast(this.root, `${wrong} yanlış harf işaretlendi`);
     });
     const freeHints = freeHintsRemainingToday();
+    const jokers = jokerBalance();
     const revealBtn = el(
       "button",
       "action-btn",
-      freeHints > 0 ? `İpucu (${freeHints})` : "🎬 İpucu",
+      freeHints > 0
+        ? `İpucu (${freeHints})`
+        : jokers > 0
+          ? `🃏 İpucu (${jokers})`
+          : "🎬 İpucu",
     );
     revealBtn.title =
       freeHints > 0
         ? "Seçili hücrenin harfini aç"
-        : "Günlük ücretsiz ipucu bitti — reklam izleyerek bir ipucu daha aç";
+        : jokers > 0
+          ? "Bir joker harcayarak seçili hücrenin harfini aç"
+          : "Ücretsiz ipucu ve joker bitti — reklam izleyerek bir ipucu daha aç";
     revealBtn.addEventListener("click", () => {
       if (freeHints > 0) {
         consumeFreeHint();
+        this.withWinCheck(() => revealLetter(s));
+        return;
+      }
+      if (jokers > 0) {
+        spendJoker();
         this.withWinCheck(() => revealLetter(s));
         return;
       }
@@ -630,9 +887,16 @@ export class App {
     });
     actions.appendChild(checkBtn);
     actions.appendChild(revealBtn);
+    if (freeHints === 0 && jokers === 0) {
+      const shopChip = el("button", "joker-cta-chip", "Joker al");
+      shopChip.addEventListener("click", () => this.renderShop());
+      actions.appendChild(shopChip);
+    }
     actions.appendChild(soundBtn);
     bar.appendChild(actions);
     wrap.appendChild(bar);
+
+    if (!tutorialSeen() && !s.completed) wrap.appendChild(this.renderTutorialCoach());
 
     wrap.appendChild(this.renderGrid());
     wrap.appendChild(this.renderPanel());
@@ -642,6 +906,30 @@ export class App {
     this.fitClueTexts();
 
     if (s.completed) this.showCompleted();
+  }
+
+  /** İlk bulmacada bir kereye mahsus gösterilen basit rehber kartı. */
+  private renderTutorialCoach(): HTMLElement {
+    const coach = el("div", "tutorial-coach");
+    const avatar = el("div", "cat-avatar-wrap cat-avatar-mini");
+    avatar.innerHTML = catAvatarSvg(DUMAN, false);
+    coach.appendChild(avatar);
+    const body = el("div", "tutorial-coach-body");
+    body.appendChild(
+      el(
+        "p",
+        "tutorial-coach-text",
+        "Merhaba, ben Duman! 🐾 Yukarıdaki soruyu oku, cevabı klavyeden yazmaya başla — her doğru kelime beni bir sonraki şehre yaklaştırır.",
+      ),
+    );
+    const dismiss = el("button", "tutorial-coach-btn", "Anladım, başlıyorum!");
+    dismiss.addEventListener("click", () => {
+      markTutorialSeen();
+      this.renderGame();
+    });
+    body.appendChild(dismiss);
+    coach.appendChild(body);
+    return coach;
   }
 
   /**
@@ -927,6 +1215,9 @@ export class App {
         el("div", "cat-modal-region", `${cat.region} · ${cat.breed}`),
       );
       modal.appendChild(el("p", "modal-text", cat.lore));
+      modal.appendChild(
+        el("div", "cat-reward-line", `+${CAT_UNLOCK_REWARD} 🃏 Joker!`),
+      );
     } else {
       modal.appendChild(el("div", "modal-emoji", "🎉"));
       modal.appendChild(el("h2", "modal-title", "Tebrikler!"));

@@ -1399,6 +1399,360 @@ button {
   animation: cat-reveal-pop 0.5s cubic-bezier(0.2, 0.7, 0.3, 1) both;
 }
 
+.cat-reward-line {
+  font-weight: 800;
+  font-size: 0.85rem;
+  color: var(--gold);
+}
+
+/* ---------- alt gezinme çubuğu ---------- */
+
+.bottom-nav {
+  flex-shrink: 0;
+  display: flex;
+  background: var(--surface);
+  border-top: 1px solid var(--tile-border);
+  padding: 6px 4px calc(6px + env(safe-area-inset-bottom));
+}
+
+.bottom-nav-btn {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 6px 2px;
+  border-radius: 12px;
+  color: var(--ink-soft);
+}
+
+.bottom-nav-btn.active {
+  color: var(--accent);
+}
+
+.bottom-nav-btn:active {
+  background: var(--accent-soft);
+}
+
+.bottom-nav-icon {
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+.bottom-nav-label {
+  font-size: 0.68rem;
+  font-weight: 800;
+}
+
+/* ---------- joker rozeti (üst bar) ---------- */
+
+.joker-pill {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--gold-soft);
+  border: 1px solid color-mix(in srgb, var(--gold) 45%, transparent);
+  border-radius: 999px;
+  padding: 8px 12px;
+  font-weight: 800;
+  box-shadow: var(--shadow);
+}
+
+.joker-pill-count {
+  color: var(--ink);
+  font-size: 0.95rem;
+}
+
+.joker-pill-plus {
+  color: var(--gold);
+  font-size: 0.85rem;
+}
+
+.joker-cta-chip {
+  background: var(--gold-soft);
+  color: var(--clue-hi);
+  border-radius: 999px;
+  padding: 9px 13px;
+  font-size: 0.8rem;
+  font-weight: 800;
+}
+
+/* ---------- mağaza ekranı ---------- */
+
+.shop-screen {
+  gap: 14px;
+}
+
+.shop-balance {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 800;
+  background: var(--gold-soft);
+  border-radius: 999px;
+  padding: 8px 14px;
+}
+
+.shop-intro {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  line-height: 1.5;
+}
+
+.invite-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: linear-gradient(120deg, var(--hero-a), var(--hero-b));
+  color: #fff;
+  border-radius: var(--radius);
+  padding: 16px;
+  box-shadow: 0 6px 18px rgba(95, 90, 240, 0.3);
+}
+
+.invite-icon {
+  font-size: 1.7rem;
+  flex-shrink: 0;
+}
+
+.invite-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.invite-title {
+  font-weight: 800;
+  font-size: 0.95rem;
+}
+
+.invite-sub {
+  font-size: 0.78rem;
+  opacity: 0.9;
+  line-height: 1.35;
+}
+
+.invite-btn {
+  flex-shrink: 0;
+  background: #fff;
+  color: var(--accent);
+  font-weight: 800;
+  font-size: 0.82rem;
+  border-radius: 999px;
+  padding: 9px 15px;
+}
+
+.shop-pack-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  padding-bottom: 6px;
+}
+
+.shop-pack-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  background: var(--surface);
+  border: 1px solid var(--tile-border);
+  border-radius: var(--radius);
+  padding: 20px 10px 16px;
+  box-shadow: var(--shadow);
+}
+
+.shop-pack-card.popular {
+  border-color: var(--gold);
+}
+
+.shop-pack-card.shop-pack-pending {
+  opacity: 0.55;
+  pointer-events: none;
+}
+
+.shop-pack-badge {
+  position: absolute;
+  top: -9px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--gold);
+  color: #201f26;
+  font-size: 0.65rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-radius: 999px;
+  padding: 3px 10px;
+}
+
+.shop-pack-icon {
+  font-size: 1.8rem;
+}
+
+.shop-pack-count {
+  font-weight: 800;
+}
+
+.shop-pack-price {
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border-radius: 999px;
+  padding: 5px 14px;
+}
+
+/* ---------- ayarlar ekranı ---------- */
+
+.settings-screen {
+  gap: 14px;
+}
+
+.settings-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.settings-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--surface);
+  border: 1px solid var(--tile-border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  box-shadow: var(--shadow);
+  text-align: left;
+  width: 100%;
+}
+
+.settings-icon {
+  font-size: 1.15rem;
+}
+
+.settings-label {
+  flex: 1;
+  font-weight: 800;
+}
+
+.settings-toggle {
+  font-size: 0.75rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+  background: var(--surface-2);
+  border-radius: 999px;
+  padding: 5px 11px;
+}
+
+.settings-toggle.on {
+  color: var(--ok);
+  background: color-mix(in srgb, var(--ok) 16%, transparent);
+}
+
+/* ---------- açılış ekranı (splash) ---------- */
+
+.splash-screen {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 24px calc(24px + env(safe-area-inset-bottom)) 24px 24px;
+  background: linear-gradient(160deg, var(--hero-a), var(--hero-b));
+  color: #fff;
+  text-align: center;
+}
+
+.splash-avatar {
+  width: 120px;
+  height: 120px;
+  filter: drop-shadow(0 10px 22px rgba(0, 0, 0, 0.25));
+}
+
+.splash-brand {
+  justify-content: center;
+}
+
+.splash-brand .brand-name {
+  color: #fff;
+}
+
+.splash-bar-track {
+  width: min(240px, 70%);
+  height: 8px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.25);
+  overflow: hidden;
+}
+
+.splash-bar-fill {
+  height: 100%;
+  width: 0%;
+  border-radius: inherit;
+  background: #fff;
+  transition-property: width;
+  transition-timing-function: ease-out;
+}
+
+.splash-bar-fill.splash-bar-anim {
+  width: 100%;
+}
+
+.splash-flavor {
+  min-height: 1.2em;
+  font-size: 0.85rem;
+  font-weight: 700;
+  opacity: 0.85;
+}
+
+/* ---------- rehber kartı (tutorial) ---------- */
+
+.tutorial-coach {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  margin: 8px 12px 0;
+  padding: 12px 14px;
+  border-radius: var(--radius);
+  background: linear-gradient(120deg, var(--hero-a), var(--hero-b));
+  color: #fff;
+  box-shadow: 0 5px 16px rgba(95, 90, 240, 0.3);
+  animation: rise-in 0.35s cubic-bezier(0.2, 0.7, 0.3, 1) both;
+}
+
+.tutorial-coach .cat-avatar-wrap {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+}
+
+.tutorial-coach-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.tutorial-coach-text {
+  font-size: 0.82rem;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+.tutorial-coach-btn {
+  align-self: flex-start;
+  background: #fff;
+  color: var(--accent);
+  font-weight: 800;
+  font-size: 0.78rem;
+  border-radius: 999px;
+  padding: 7px 13px;
+}
+
 /* ---------- Gazete (klasik) tema ----------
    Basılı gazete bulmacası görünümü: kağıt zemin, beyaz hücreler,
    ince koyu çizgiler, gri soru hücreleri, serif tipografi, kırmızı vurgu.
@@ -1547,6 +1901,13 @@ button {
 :root[data-theme="gazete"] .stat-card,
 :root[data-theme="gazete"] .puzzle-card,
 :root[data-theme="gazete"] .cats-teaser,
-:root[data-theme="gazete"] .cat-card {
+:root[data-theme="gazete"] .cat-card,
+:root[data-theme="gazete"] .joker-pill,
+:root[data-theme="gazete"] .shop-pack-card,
+:root[data-theme="gazete"] .settings-row {
   border-color: #b9b5a6;
+}
+
+:root[data-theme="gazete"] .bottom-nav {
+  border-top-color: #b9b5a6;
 }
