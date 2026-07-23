@@ -1,0 +1,76 @@
+rules_version = '2';
+
+// Çengel Bulmaca — arkadaş davet ödülü kuralları.
+//
+// Şema: players/{uid} — her belge bir oyuncuya (Firebase Anonymous Auth
+// kimliğine) karşılık gelir.
+//   createdAt: sunucu zaman damgası
+//   referredBy: bu oyuncuyu davet eden oyuncunun uid'i, ya da null
+//   firstPuzzleRewardClaimed: bu oyuncu ilk bulmacasını çözüp ödülü
+//     (varsa) aldı mı — yalnızca false->true geçebilir, bir daha asla
+//     true->false olamaz
+//   jokerBalanceCloud: bu oyuncunun davet ödüllerinden bulutta biriken
+//     joker toplamı (yerel bakiyeye src/referral.ts tarafından senkronlanır)
+//
+// Güvenlik mantığı (bkz. src/referral.ts başındaki daha uzun açıklama):
+//   - Kendi kendine davet imkansız: create sırasında referredBy != uid
+//     zorunlu, ayrıca referredBy'nin GERÇEK bir oyuncuya ait olması şart.
+//   - Ödül yalnızca ilk bulmaca çözülünce, yalnızca BİR KEZ verilir:
+//     firstPuzzleRewardClaimed false'tan true'ya geçerken aynı anda hem
+//     kendi belgesi hem davet edenin belgesi güncellenir; bu geçiş bir
+//     daha tekrarlanamaz çünkü bayrak kalıcı olarak true kalır.
+//   - Davet edilenin, davet edenin belgesine yazabilmesi İÇİN kendi
+//     belgesinde referredBy'nin tam olarak o kişiyi göstermesi ve henüz
+//     ödül almamış olması şart (get() ile çapraz kontrol) — bu, rastgele
+//     bir oyuncuya sınırsız +3 yazma açığını kapatır.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /players/{uid} {
+      allow read: if request.auth != null;
+
+      allow create: if request.auth != null
+        && request.auth.uid == uid
+        && request.resource.data.keys().hasOnly(
+          ['createdAt', 'referredBy', 'firstPuzzleRewardClaimed', 'jokerBalanceCloud']
+        )
+        && request.resource.data.createdAt == request.time
+        && request.resource.data.firstPuzzleRewardClaimed == false
+        && request.resource.data.jokerBalanceCloud == 0
+        && (
+          request.resource.data.referredBy == null
+          || (
+            request.resource.data.referredBy is string
+            && request.resource.data.referredBy != uid
+            && exists(/databases/$(database)/documents/players/$(request.resource.data.referredBy))
+          )
+        );
+
+      allow update: if request.auth != null && (
+        // (1) Oyuncu kendi ilk-bulmaca ödülünü talep ediyor.
+        (
+          request.auth.uid == uid
+          && resource.data.referredBy != null
+          && resource.data.firstPuzzleRewardClaimed == false
+          && request.resource.data.diff(resource.data).affectedKeys()
+               .hasOnly(['firstPuzzleRewardClaimed', 'jokerBalanceCloud'])
+          && request.resource.data.firstPuzzleRewardClaimed == true
+          && request.resource.data.jokerBalanceCloud
+               == resource.data.jokerBalanceCloud + 3
+        )
+        ||
+        // (2) Davet ettiğim bir arkadaş, İLK KEZ kendi ilk-bulmaca ödülünü
+        //     talep ederken beni (davet edeni) ödüllendiriyor.
+        (
+          request.auth.uid != uid
+          && get(/databases/$(database)/documents/players/$(request.auth.uid)).data.referredBy == uid
+          && get(/databases/$(database)/documents/players/$(request.auth.uid)).data.firstPuzzleRewardClaimed == false
+          && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['jokerBalanceCloud'])
+          && request.resource.data.jokerBalanceCloud
+               == resource.data.jokerBalanceCloud + 3
+        )
+      );
+
+      allow delete: if false;
+    }
+  }
+}
