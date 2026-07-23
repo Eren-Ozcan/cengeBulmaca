@@ -9,14 +9,16 @@
 //   3. android/app/src/main/res/values/strings.xml'deki admob_app_id'yi
 //      ve aşağıdaki REWARDED_AD_ID / INTERSTITIAL_AD_ID sabitlerini
 //      güncelle.
-//   4. AB/AEA (GDPR) kullanıcıları için rıza formu (UMP) akışı eklenmeli
-//      — bkz. plugin README'sindeki "User Message Platform" bölümü.
+//   4. AdMob hesabında "Privacy & messaging" bölümünden bir GDPR mesaj
+//      (UMP) kampanyası oluştur — aşağıdaki requestConsentInfo/showConsentForm
+//      çağrıları o kampanyayı render eder; kampanya yoksa AB/AEA dışı
+//      kullanıcılarda olduğu gibi NOT_REQUIRED döner ve hiçbir şey göstermez.
 //
 // Sadece native platformda (Android/iOS) çalışır; web/dev ortamında tüm
 // fonksiyonlar sessizce no-op döner, oyun akışını asla bozmaz.
 
 import { Capacitor, type PluginListenerHandle } from "@capacitor/core";
-import { AdMob, RewardAdPluginEvents } from "@capacitor-community/admob";
+import { AdMob, AdmobConsentStatus, RewardAdPluginEvents } from "@capacitor-community/admob";
 
 const REWARDED_AD_ID = "ca-app-pub-3940256099942544/5224354917"; // Google test ID
 const INTERSTITIAL_AD_ID = "ca-app-pub-3940256099942544/1033173712"; // Google test ID
@@ -35,9 +37,31 @@ async function ensureInitialized(): Promise<boolean> {
   }
 }
 
+/**
+ * Google'ın gerçek UMP (User Messaging Platform) akışını çalıştırır: AB/AEA
+ * bölgesindeki kullanıcılar için gerekiyorsa Google'ın kendi render ettiği
+ * GDPR rıza formunu gösterir. Kendi elle yazdığımız bir "kabul ediyorum"
+ * ekranı DEĞİL — reklam SDK'larının fiilen uyacağı gerçek rıza sinyalini
+ * (IAB TCF) bu üretir; özel bir ekran bunu üretmez ve gerçek uyum sağlamaz.
+ * Bölge dışı kullanıcıda ya da kampanya tanımlı değilse sessizce hiçbir şey
+ * göstermez (NOT_REQUIRED).
+ */
+async function ensureConsent(): Promise<void> {
+  try {
+    const info = await AdMob.requestConsentInfo();
+    if (info.status === AdmobConsentStatus.REQUIRED && info.isConsentFormAvailable) {
+      await AdMob.showConsentForm();
+    }
+  } catch {
+    // rıza bilgisi alınamazsa (ağ yok, kampanya tanımsız vb.) reklamlar
+    // yine de kişiselleştirilmemiş modda çalışmaya devam edebilir
+  }
+}
+
 /** Uygulama açılışında bir kere çağrılır; web'de sessizce hiçbir şey yapmaz. */
 export async function initAds(): Promise<void> {
-  await ensureInitialized();
+  if (!(await ensureInitialized())) return;
+  await ensureConsent();
 }
 
 /**
