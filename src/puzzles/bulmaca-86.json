@@ -1,0 +1,214 @@
+{
+  "id": "bulmaca-86",
+  "title": "Bulmaca 86",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Tavlada iki kat yenilgi",
+      "answer": "MARS",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İlave, ulama",
+      "answer": "EK",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Gümüş balığı",
+      "answer": "ATERİNA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Odanın üst yüzeyi",
+      "answer": "TAVAN",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaban hayvanı barınağı",
+      "answer": "İN",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Miyavlayan evcil hayvan",
+      "answer": "KEDİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kırmızı renk",
+      "answer": "AL",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yankı",
+      "answer": "EKO",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Eğlenme, dalga geçme",
+      "answer": "ALAY",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "Sİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gözleri görmeyen",
+      "answer": "AMA",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Avcının kısmeti",
+      "answer": "AV",
+      "row": 2,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Kripton'un simgesi",
+      "answer": "KR",
+      "row": 5,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemin",
+      "answer": "ANT",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir soru sözcüğü",
+      "answer": "NE",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstün başarılı kimse",
+      "answer": "AS",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kasapta satılan besin",
+      "answer": "ET",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Aklını yitirmiş",
+      "answer": "DELİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bitki yetiştirilen camlık",
+      "answer": "SERA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapma, etme (eski dilde)",
+      "answer": "İKA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeşil, tüylü kabuklu meyve",
+      "answer": "KİVİ",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İğneyle yapılan ince süs işi",
+      "answer": "OYA",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Emile Zola'nın bir romanı",
+      "answer": "NANA",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kedisiyle ünlü ilimiz",
+      "answer": "VAN",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "And Dağları'nın yük hayvanı",
+      "answer": "LAMA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 5
+    }
+  ],
+  "difficulty": "orta"
+}

@@ -1,0 +1,227 @@
+{
+  "id": "bulmaca-233",
+  "title": "Bulmaca 233",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Parklardaki oturma sırası",
+      "answer": "BANK",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bozkırlarda yaşayan iri bir kuş",
+      "answer": "TOY",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tespih başlığı",
+      "answer": "İMAME",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Uzun kulaklı, hızlı koşan kemirgen",
+      "answer": "TAVŞAN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kurum, duman lekesi",
+      "answer": "İS",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Helyum'un simgesi",
+      "answer": "HE",
+      "row": 3,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Emile Zola'nın bir romanı",
+      "answer": "NANA",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Anne, baba ve çocuklardan oluşan topluluk",
+      "answer": "AİLE",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ekşi kiraz",
+      "answer": "VİŞNE",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bir soru sözcüğü",
+      "answer": "NE",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yapma, etme (eski dilde)",
+      "answer": "İKA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "Sİ",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "İki şey arasındaki boşluk",
+      "answer": "ARA",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Öğretim yapılan kurum",
+      "answer": "OKUL",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Altının saflık derecesi",
+      "answer": "AYAR",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ege'nin incisi sayılan büyük ilimiz",
+      "answer": "İZMİR",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Moldova'nın başkenti",
+      "answer": "KİŞİNEV",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Üzerinde iş görülen mobilya",
+      "answer": "MASA",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaban hayvanı barınağı",
+      "answer": "İN",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Güneş doğmadan önceki alacakaranlık",
+      "answer": "TAN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sevinç, keyif",
+      "answer": "NEŞE",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Elektrik direnç birimi",
+      "answer": "OM",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "'İşte' anlamında bir ünlem",
+      "answer": "HA",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaşamın kaynağı sıvı",
+      "answer": "SU",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Atın boyun kılları",
+      "answer": "YELE",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kum falı",
+      "answer": "REMİL",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
+    }
+  ],
+  "difficulty": "orta"
+}

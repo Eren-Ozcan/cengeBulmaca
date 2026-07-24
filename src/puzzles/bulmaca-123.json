@@ -1,0 +1,255 @@
+{
+  "id": "bulmaca-123",
+  "title": "Bulmaca 123",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Şifre; program yazılan metin",
+      "answer": "KOD",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Latife",
+      "answer": "ŞAKA",
+      "row": 1,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gemisiyle ünlü peygamber",
+      "answer": "NUH",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yassı metal levha",
+      "answer": "SAC",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İpek böceğinin besini olan meyve",
+      "answer": "DUT",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "'İşte' anlamında bir ünlem",
+      "answer": "HA",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yardım için toplanan para",
+      "answer": "İANE",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Birinci, en önce olan",
+      "answer": "İLK",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dağın tepe çizgisi",
+      "answer": "SIRT",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kasapta satılan besin",
+      "answer": "ET",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Raylar üzerinde giden taşıt",
+      "answer": "TREN",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Manzum edebiyat yapıtı",
+      "answer": "ŞİİR",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Lityum'un simgesi",
+      "answer": "Lİ",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yakını gösteren işaret zamiri",
+      "answer": "BU",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yaylı bir çalgı",
+      "answer": "KEMAN",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Zemin, arka plan",
+      "answer": "FON",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir bağlaç",
+      "answer": "İLE",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir işaret sıfatı",
+      "answer": "ŞU",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağzın kenarındaki hareketli et kısmı",
+      "answer": "DUDAK",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Attila'nın hükümdarı olduğu tarihi Türk topluluğu",
+      "answer": "HUN",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ekşimsi, sulu yaz meyvesi",
+      "answer": "ERİK",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kesme aracı, diş diş bıçak",
+      "answer": "TESTERE",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Osmanlı'da padişaha ayrılan büyük toprak",
+      "answer": "HAS",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Mısır'ın başkenti",
+      "answer": "KAHİRE",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "LA",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Dumanın çıktığı yol",
+      "answer": "BACA",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "İnanç sistemi",
+      "answer": "DİN",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 3
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 5
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 0
+    }
+  ],
+  "difficulty": "zor"
+}

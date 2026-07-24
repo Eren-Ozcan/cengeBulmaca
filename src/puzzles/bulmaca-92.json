@@ -1,0 +1,319 @@
+{
+  "id": "bulmaca-92",
+  "title": "Bulmaca 92",
+  "rows": 13,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "Şehir içi yeşil dinlenme alanı",
+      "answer": "PARK",
+      "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kraliçe",
+      "answer": "ECE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bolluk",
+      "answer": "BEREKET",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kamıştan üflemeli çalgı",
+      "answer": "NEY",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Selenyum'un simgesi",
+      "answer": "SE",
+      "row": 3,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Dört yanı suyla çevrili kara",
+      "answer": "ADA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Adaletin gerektirdiği şey",
+      "answer": "HAK",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Güney Amerika'nın büyük dağ sırası",
+      "answer": "AND",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sağlık için uygulanan beslenme düzeni",
+      "answer": "DİYET",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuş vücudunu örten yapı",
+      "answer": "TÜY",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 7,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Yemin",
+      "answer": "ANT",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Atın tırnağına çakılan demir",
+      "answer": "NAL",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Fırında pişen tatlı çörek",
+      "answer": "KEK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kısaca yazılan hatırlatma",
+      "answer": "NOT",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Gözleri görmeyen",
+      "answer": "AMA",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek insan, kişi",
+      "answer": "ADAM",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Boğa güreşi alanı",
+      "answer": "ARENA",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Geniş, verimli düzlük",
+      "answer": "OVA",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüzün üst bölümü",
+      "answer": "ALIN",
+      "row": 12,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Baş derisini kaplayan kıllar",
+      "answer": "SAÇ",
+      "row": 12,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Evin bölmelerinden her biri",
+      "answer": "ODA",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Türkiye'nin başkenti",
+      "answer": "ANKARA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde su",
+      "answer": "AB",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Anne",
+      "answer": "ANA",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapının taşıyıcı alt bölümü",
+      "answer": "TEMEL",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Almanya'dan geçen önemli bir Avrupa nehri",
+      "answer": "REN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İnanç, görüş",
+      "answer": "KANI",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Cilt bakım maddesi",
+      "answer": "KREM",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bugünden önceki gün",
+      "answer": "DÜN",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Zamanın çok kısa parçası",
+      "answer": "AN",
+      "row": 10,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Seslenme ünlemi",
+      "answer": "EY",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Avusturya'nın başkenti",
+      "answer": "VİYANA",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İlave, ulama",
+      "answer": "EK",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Güneybatıdan esen rüzgâr",
+      "answer": "LODOS",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüreklilik",
+      "answer": "CESARET",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kızartma kabı",
+      "answer": "TAVA",
+      "row": 8,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Belden aşağı giysi",
+      "answer": "ETEK",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Çeşit, tür",
+      "answer": "TİP",
+      "row": 5,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Spor karşılaşması",
+      "answer": "MAÇ",
+      "row": 9,
+      "col": 8,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 3
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
+    }
+  ],
+  "difficulty": "orta"
+}

@@ -1,0 +1,266 @@
+{
+  "id": "bulmaca-234",
+  "title": "Bulmaca 234",
+  "rows": 12,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Eski dilde su",
+      "answer": "AB",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mevlana'nın türbesiyle ünlü ilimiz",
+      "answer": "KONYA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Girişken, çevik",
+      "answer": "ATAK",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Utanma duygusu",
+      "answer": "AR",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Kurum, duman lekesi",
+      "answer": "İS",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Lantan'ın simgesi",
+      "answer": "LA",
+      "row": 3,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağacın yeşil organı",
+      "answer": "YAPRAK",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gözleri görmeyen",
+      "answer": "AMA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Avrupa'nın önemli nehirlerinden biri, Karadeniz'e dökülür",
+      "answer": "TUNA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Dede, cet",
+      "answer": "ATA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Öğrenciye verilen karşılıksız para",
+      "answer": "BURS",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yerine getirme",
+      "answer": "İFA",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Müzik sesi işareti",
+      "answer": "NOTA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kolun tutmaya yarayan bölümü",
+      "answer": "EL",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Paris'ten geçen ünlü nehir (... Nehri)",
+      "answer": "SEN",
+      "row": 9,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zemin, arka plan",
+      "answer": "FON",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüreklilik",
+      "answer": "CESARET",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Baryum'un simgesi",
+      "answer": "BA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kızıl renkli değerli ağaç",
+      "answer": "MAUN",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Selenyum'un simgesi",
+      "answer": "SE",
+      "row": 9,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sahne sanatı",
+      "answer": "TİYATRO",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Notada durak işareti",
+      "answer": "ES",
+      "row": 9,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Para saklanan çelik dolap",
+      "answer": "KASA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kazakistan'ın başkenti",
+      "answer": "ASTANA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yayla atılan ince silah",
+      "answer": "OK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Platin'in simgesi",
+      "answer": "PT",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hindistan'ın para birimi",
+      "answer": "RUPİ",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Batı Anadolu yiğidi",
+      "answer": "EFE",
+      "row": 9,
+      "col": 4,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Gerçek olmayan söz",
+      "answer": "YALAN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Demir'in simgesi",
+      "answer": "FE",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeşil, küçük bitki",
+      "answer": "OT",
+      "row": 9,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İri taneli bezelye",
+      "answer": "ARAKA",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Düz, açık yer; saha",
+      "answer": "ALAN",
+      "row": 6,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 7
+    }
+  ],
+  "difficulty": "zor"
+}

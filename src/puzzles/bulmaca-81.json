@@ -1,0 +1,189 @@
+{
+  "id": "bulmaca-81",
+  "title": "Bulmaca 81",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Aynı anda doğan kardeşlerden her biri",
+      "answer": "İKİZ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bir soru sözcüğü",
+      "answer": "NE",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Dokuzdan sonra gelen sayı",
+      "answer": "ON",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kamıştan üflemeli çalgı",
+      "answer": "NEY",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kolun tutmaya yarayan bölümü",
+      "answer": "EL",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şarap, içki (eski dilde)",
+      "answer": "BADE",
+      "row": 3,
+      "col": 2,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İlave, ulama",
+      "answer": "EK",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bazı Latin Amerika ülkelerinin para birimi",
+      "answer": "PESO",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Altının saflık derecesi",
+      "answer": "AYAR",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kırmızı renk",
+      "answer": "AL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Küçük yükselti, dağdan alçak yer şekli",
+      "answer": "TEPE",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yer kabuğu kırığı",
+      "answer": "FAY",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sarı ötücü kafes kuşu",
+      "answer": "KANARYA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Omuzdan ele uzanan organ",
+      "answer": "KOL",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çırakla usta arası işçi",
+      "answer": "KALFA",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaban hayvanı barınağı",
+      "answer": "İN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Zamanın çok kısa parçası",
+      "answer": "AN",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyaz yapraklı kır çiçeği",
+      "answer": "PAPATYA",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük akarsu",
+      "answer": "DERE",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Soluk",
+      "answer": "NEFES",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Seslenme ünlemi",
+      "answer": "EY",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Müzikli sahne yapıtı",
+      "answer": "OPERA",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    }
+  ],
+  "difficulty": "zor"
+}
