@@ -22,8 +22,11 @@ describe("kedi açılım eşikleri", () => {
     }
   });
 
-  it("son kedi ancak tüm bulmacalar çözülünce açılır (2 aylık hedef)", () => {
-    expect(CATS[CATS.length - 1].unlockAt).toBe(puzzles.length);
+  it("son kedi 60. çözümde açılır (2 aylık hedef); bulmaca havuzu daha büyük olabilir", () => {
+    // Havuz (puzzles.length) rotasyon çeşitliliği için büyütülebilir; kedi
+    // yolculuğu bundan bağımsız, sabit bir çözüm sayısında tamamlanır.
+    expect(CATS[CATS.length - 1].unlockAt).toBe(60);
+    expect(puzzles.length).toBeGreaterThanOrEqual(CATS[CATS.length - 1].unlockAt);
   });
 
   it("catUnlocked eşiğin altında kapalı, eşikte ve üstünde açık", () => {

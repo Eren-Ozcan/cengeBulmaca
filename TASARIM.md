@@ -40,11 +40,19 @@ Gemini portresi (bkz. `src/cats.ts`, `src/cat-avatar.ts`).
 
 Kediler artık belirli bir bulmacaya değil, **toplam çözülen farklı bulmaca
 sayısına** bağlı (`CatDef.unlockAt`). Eşikler: 2, 6, 10, 14, 18, 22, 26, 30,
-34, 38, 42, 46, 50, 55, 60. Toplam 60 bulmaca var; günde bir bulmaca çözen
-ortalama oyuncu son kediye (Fener) ~2 ayda ulaşır. Aynı bulmacayı tekrar
-çözmek sayacı artırmaz. Kilitli kedi kartı gereken bulmaca sayısını yazar;
-tamamlama modalı ve ana menü teaser'ı sıradaki kediye kaç bulmaca kaldığını
+34, 38, 42, 46, 50, 55, 60. Günde bir bulmaca çözen ortalama oyuncu son
+kediye (Fener) ~2 ayda ulaşır. Aynı bulmacayı tekrar çözmek sayacı
+artırmaz. Kilitli kedi kartı gereken bulmaca sayısını yazar; tamamlama
+modalı ve ana menü teaser'ı sıradaki kediye kaç bulmaca kaldığını
 gösterir.
+
+**Bulmaca havuzu (2026-07-24, 300'e çıkarıldı):** `src/puzzles/` artık
+300 bulmaca içeriyor (`tools/generate.mjs` ile üretildi,
+`src/puzzles/index.ts` artık elle 300 import satırı yerine
+`import.meta.glob` ile numerik sırayla otomatik yüklüyor). Kedi açılım
+eşikleri havuz büyüklüğünden bağımsız — yolculuk hâlâ 60 farklı bulmaca
+çözülünce tamamlanıyor; büyümüş havuz sadece günlük bulmaca rotasyonunun
+(`dailyIndex`) çok daha uzun süre tekrarsız kalmasını sağlıyor.
 
 **Büyük/detay görünümü (✅ tamamlandı):** `catFullBody` (cat-avatar.ts) açıkken
 aynı Gemini portresini (`catAvatar` ile aynı görsel), kilitliyken gövde+kuyruk+
