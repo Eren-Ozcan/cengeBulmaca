@@ -539,7 +539,7 @@ export class App {
   private showCatDetail(cat: CatDef): void {
     const overlay = el("div", "overlay");
     const modal = el("div", "modal cat-modal");
-    const avatar = el("div", "cat-avatar-wrap cat-avatar-lg");
+    const avatar = el("div", "cat-avatar-wrap cat-avatar-lg cat-idle");
     avatar.innerHTML = catFullBody(cat, false);
     modal.appendChild(avatar);
     modal.appendChild(el("h2", "modal-title", cat.name));

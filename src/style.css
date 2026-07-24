@@ -1113,6 +1113,29 @@ button {
   display: block;
 }
 
+/* ---------- kedi idle animasyonu (detay modalı) ---------- */
+
+@keyframes cat-idle-breathe {
+  0%,
+  100% {
+    transform: scale(1) rotate(0deg);
+  }
+  50% {
+    transform: scale(1.015) rotate(-0.6deg);
+  }
+}
+
+.cat-idle .cat-img {
+  animation: cat-idle-breathe 3.2s ease-in-out infinite;
+  transform-origin: 50% 85%;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cat-idle .cat-img {
+    animation: none;
+  }
+}
+
 .cat-avatar-mini {
   width: 40px;
   height: 40px;
