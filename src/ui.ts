@@ -42,7 +42,7 @@ import {
   nextLockedCat,
   type CatDef,
 } from "./cats.ts";
-import { catAvatarSvg, catFullBodySvg } from "./cat-avatar.ts";
+import { catAvatar, catFullBody } from "./cat-avatar.ts";
 import {
   ISTANBUL_POS,
   MAP_VIEWBOX,
@@ -143,7 +143,7 @@ export class App {
     const wrap = el("div", "splash-screen");
 
     const avatar = el("div", "cat-avatar-wrap cat-avatar-lg splash-avatar");
-    avatar.innerHTML = catFullBodySvg(DUMAN);
+    avatar.innerHTML = catFullBody(DUMAN);
     wrap.appendChild(avatar);
 
     const brand = el("div", "brand splash-brand");
@@ -185,7 +185,7 @@ export class App {
     const wrap = el("div", "home intro-screen");
 
     const avatar = el("div", "cat-avatar-wrap cat-avatar-lg intro-avatar");
-    avatar.innerHTML = catFullBodySvg(DUMAN);
+    avatar.innerHTML = catFullBody(DUMAN);
     wrap.appendChild(avatar);
 
     wrap.appendChild(el("h1", "intro-title", STORY_TITLE));
@@ -212,11 +212,11 @@ export class App {
 
     const family = el("div", "epilogue-family");
     const dumanAvatar = el("div", "cat-avatar-wrap cat-avatar-lg");
-    dumanAvatar.innerHTML = catFullBodySvg(DUMAN);
+    dumanAvatar.innerHTML = catFullBody(DUMAN);
     family.appendChild(dumanAvatar);
     CATS.forEach((cat) => {
       const mini = el("div", "cat-avatar-wrap cat-avatar-mini");
-      mini.innerHTML = catAvatarSvg(cat);
+      mini.innerHTML = catAvatar(cat);
       family.appendChild(mini);
     });
     wrap.appendChild(family);
@@ -354,7 +354,7 @@ export class App {
     const preview = el("div", "cats-teaser-preview");
     CATS.slice(0, 5).forEach((c) => {
       const mini = el("div", "cat-avatar-wrap cat-avatar-mini");
-      mini.innerHTML = catAvatarSvg(c, !catUnlocked(c, solved));
+      mini.innerHTML = catAvatar(c, !catUnlocked(c, solved));
       preview.appendChild(mini);
     });
     catsCard.appendChild(preview);
@@ -456,7 +456,7 @@ export class App {
       const card = el("button", "cat-card" + (unlocked ? " unlocked" : " locked"));
       card.style.setProperty("--i", String(i));
       const avatar = el("div", "cat-avatar-wrap");
-      avatar.innerHTML = catAvatarSvg(cat, !unlocked);
+      avatar.innerHTML = catAvatar(cat, !unlocked);
       card.appendChild(avatar);
       card.appendChild(el("div", "cat-name", unlocked ? cat.name : "???"));
       card.appendChild(
@@ -512,7 +512,7 @@ export class App {
     startPin.style.left = startPos.left;
     startPin.style.top = startPos.top;
     const startAvatar = el("div", "cat-avatar-wrap map-pin-avatar");
-    startAvatar.innerHTML = catAvatarSvg(DUMAN, false);
+    startAvatar.innerHTML = catAvatar(DUMAN, false);
     startPin.appendChild(startAvatar);
     canvas.appendChild(startPin);
 
@@ -523,7 +523,7 @@ export class App {
       pin.style.left = pos.left;
       pin.style.top = pos.top;
       const avatar = el("div", "cat-avatar-wrap map-pin-avatar");
-      avatar.innerHTML = catAvatarSvg(cat, !unlocked);
+      avatar.innerHTML = catAvatar(cat, !unlocked);
       pin.appendChild(avatar);
       pin.addEventListener("click", () => {
         if (unlocked) this.showCatDetail(cat);
@@ -540,7 +540,7 @@ export class App {
     const overlay = el("div", "overlay");
     const modal = el("div", "modal cat-modal");
     const avatar = el("div", "cat-avatar-wrap cat-avatar-lg");
-    avatar.innerHTML = catFullBodySvg(cat, false);
+    avatar.innerHTML = catFullBody(cat, false);
     modal.appendChild(avatar);
     modal.appendChild(el("h2", "modal-title", cat.name));
     modal.appendChild(el("div", "cat-modal-region", `${cat.region} · ${cat.breed}`));
@@ -912,7 +912,7 @@ export class App {
   private renderTutorialCoach(): HTMLElement {
     const coach = el("div", "tutorial-coach");
     const avatar = el("div", "cat-avatar-wrap cat-avatar-mini");
-    avatar.innerHTML = catAvatarSvg(DUMAN, false);
+    avatar.innerHTML = catAvatar(DUMAN, false);
     coach.appendChild(avatar);
     const body = el("div", "tutorial-coach-body");
     body.appendChild(
@@ -1207,7 +1207,7 @@ export class App {
     const modal = el("div", "modal");
     if (cat) {
       const avatar = el("div", "cat-avatar-wrap cat-avatar-lg cat-reveal-pop");
-      avatar.innerHTML = catFullBodySvg(cat, false);
+      avatar.innerHTML = catFullBody(cat, false);
       modal.appendChild(avatar);
       modal.appendChild(el("div", "cat-reveal-tag", "Yeni bekçi kedi!"));
       modal.appendChild(el("h2", "modal-title", cat.name));
@@ -1227,7 +1227,7 @@ export class App {
         const left = next.unlockAt - solvedCount();
         const line = el("div", "modal-cat-next");
         const mini = el("span", "cat-avatar-wrap cat-avatar-mini");
-        mini.innerHTML = catAvatarSvg(next, true);
+        mini.innerHTML = catAvatar(next, true);
         line.appendChild(mini);
         line.appendChild(
           el(

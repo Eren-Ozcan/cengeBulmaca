@@ -1106,6 +1106,13 @@ button {
   display: block;
 }
 
+.cat-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
 .cat-avatar-mini {
   width: 40px;
   height: 40px;
