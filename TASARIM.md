@@ -53,8 +53,16 @@ kapanış hikayesindeki Duman portresi, kedi detay modalı, bulmaca bitince
 açılma kutlaması. Koleksiyon ızgarası, harita pimleri ve teaser önizlemesi
 `catAvatar` ile aynı portreyi küçük kare çerçevede gösteriyor.
 
+**Idle animasyonu (✅ tamamlandı, sade sürüm):** Kedi detay modalında CSS-only
+bir "nefes alma" döngüsü (`cat-idle-breathe` @keyframes, style.css) — hafif
+büyüyüp küçülme + minik eğilme, `prefers-reduced-motion`da kapanıyor. Gerçek
+göz kırpma/kuyruk sallama denenmedi (portreler tek kare, ayrı göz/kuyruk
+katmanı yok); istenirse ikinci "gözleri kapalı" kare üretilip crossfade
+yapılabilir — bkz. "Beklemede".
+
 **Beklemede (ileri aşama, isteğe bağlı):**
-- Basit "idle" animasyonu (göz kırpma, kuyruk sallama) — kedi detay modalında.
+- Gerçek göz kırpma: her kedi için "gözleri kapalı" ikinci bir Gemini
+  portresi üretilip aynı kadraja hizalanarak periyodik crossfade yapılabilir.
 - Duman için ayrı, biraz daha büyük/detaylı bir "kahraman" illüstrasyonu.
 
 ## Ekranlar
@@ -108,6 +116,7 @@ sayısına göre açıldığı için bulmaca listesinde kedi rozeti artık yok.)
 
 ## Öncelik önerisi
 
-Kontrol listesindeki dört ana madde (app icon/favicon, ses efekti, bölge
-haritası, tam gövde illüstrasyon) tamamlandı. Kalan isteğe bağlı fikirler
-"Beklemede" notlarında (idle animasyon, ayrı kahraman illüstrasyonu vb.).
+Kontrol listesindeki ana maddeler (app icon/favicon, ses efekti, bölge
+haritası, gerçek kedi portreleri, sade idle animasyonu) tamamlandı. Kalan
+isteğe bağlı fikirler "Beklemede" notlarında (gerçek göz kırpma karesi,
+ayrı kahraman illüstrasyonu vb.).
