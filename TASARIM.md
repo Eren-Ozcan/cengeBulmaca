@@ -1,37 +1,40 @@
 # Tasarım / Görsel Varlık Kontrol Listesi
 
 Kedi temalı içerik güncellemesiyle birlikte eklenen ve ileride
-güçlendirilebilecek görsel öğelerin listesi. Oyun içi tüm kedi çizimleri
-(avatar, tam gövde, harita pimleri) hâlâ elle çizilmiş, parametrik SVG'dir
-(harici görsel/telif riski yok, bkz. `cat-avatar.ts`). Tek istisna: uygulama
-ikonu/favicon, Gemini ile üretilip yerelde işlenmiş tek bir Duman portresine
-dayanıyor (bkz. "Uygulama ikonu / marka varlıkları").
+güçlendirilebilecek görsel öğelerin listesi. Açık (unlock edilmiş) kediler
+artık Gemini ile üretilip `tools/process-cat-images.mjs` ile temizlenmiş
+gerçek portre görselleriyle gösteriliyor (`public/cats/*.png`, bkz.
+`cat-avatar.ts`). Kilitli kediler hâlâ elle çizilmiş, jenerik (kedi-bağımsız)
+bir parametrik SVG siluetiyle gösteriliyor — kimlik ifşa etmiyor ve harici
+görsel/telif riski taşımıyor. Uygulama ikonu/favicon de aynı şekilde Gemini
+ile üretilip yerelde işlenmiş bir Duman portresine dayanıyor (bkz. "Uygulama
+ikonu / marka varlıkları").
 
 ## Karakterler
 
 | Karakter | Bölge | Durum | Not |
 |---|---|---|---|
-| Duman (rehber) | İstanbul | ✅ SVG avatar + tam gövde | App icon/favicon de Duman'ın Gemini ile üretilip elle işlenmiş bir portresine dayanıyor |
-| Pamuk | Van | ✅ SVG avatar | Heterokromik göz uygulandı |
-| Bulut | Ankara | ✅ SVG avatar | |
-| Fıstık | İzmir | ✅ SVG avatar | |
-| Yasemin | Antalya | ✅ SVG avatar | |
-| Fındık | Trabzon | ✅ SVG avatar | |
-| Gri Dede | Kapadokya | ✅ SVG avatar | |
-| Kum | Şanlıurfa | ✅ SVG avatar | |
-| Zeytin | Bursa | ✅ SVG avatar | |
-| Şeker | Konya | ✅ SVG avatar | |
-| Yayla | Rize | ✅ SVG avatar | |
-| Nar | Mardin | ✅ SVG avatar | |
-| İnci | Çanakkale | ✅ SVG avatar | |
-| Baklava | Gaziantep | ✅ SVG avatar | |
-| Kar | Erzurum | ✅ SVG avatar | |
-| Fener | Sinop | ✅ SVG avatar | Kapanış hikayesi artık burada tetikleniyor (son kedi) |
+| Duman (rehber) | İstanbul | ✅ Gerçek portre (PNG) | App icon/favicon de Duman'ın Gemini ile üretilip elle işlenmiş bir portresine dayanıyor |
+| Pamuk | Van | ✅ Gerçek portre (PNG) | Heterokromik göz uygulandı |
+| Bulut | Ankara | ✅ Gerçek portre (PNG) | |
+| Fıstık | İzmir | ✅ Gerçek portre (PNG) | |
+| Yasemin | Antalya | ✅ Gerçek portre (PNG) | |
+| Fındık | Trabzon | ✅ Gerçek portre (PNG) | |
+| Gri Dede | Kapadokya | ✅ Gerçek portre (PNG) | |
+| Kum | Şanlıurfa | ✅ Gerçek portre (PNG) | |
+| Zeytin | Bursa | ✅ Gerçek portre (PNG) | |
+| Şeker | Konya | ✅ Gerçek portre (PNG) | |
+| Yayla | Rize | ✅ Gerçek portre (PNG) | |
+| Nar | Mardin | ✅ Gerçek portre (PNG) | |
+| İnci | Çanakkale | ✅ Gerçek portre (PNG) | |
+| Baklava | Gaziantep | ✅ Gerçek portre (PNG) | |
+| Kar | Erzurum | ✅ Gerçek portre (PNG) | |
+| Fener | Sinop | ✅ Gerçek portre (PNG) | Kapanış hikayesi artık burada tetikleniyor (son kedi) |
 
-Mevcut sistem: tek bir parametrik "kedi kafası" iskeleti (kulak + kafa + göz +
-burun + ağız + bıyık), kediye göre değişen tüy rengi / desen (solid, tabby,
-patch, tuxedo) / göz rengi. Tutarlı bir "aile" gibi görünmesi için bilinçli
-tercih — bkz. `src/cats.ts`, `src/cat-avatar.ts`.
+`CatDef` üzerindeki `furColor`/`patternColor`/`pattern`/`eyeColor` alanları
+artık sadece kilitli-siluet SVG'sinin görünümünü değil, hikaye/lore verisini
+de besliyor; gerçek görsel artık bu alanlardan bağımsız, elle seçilmiş bir
+Gemini portresi (bkz. `src/cats.ts`, `src/cat-avatar.ts`).
 
 ### Açılım modeli (2 aylık ilerleme)
 
@@ -43,13 +46,12 @@ ortalama oyuncu son kediye (Fener) ~2 ayda ulaşır. Aynı bulmacayı tekrar
 tamamlama modalı ve ana menü teaser'ı sıradaki kediye kaç bulmaca kaldığını
 gösterir.
 
-**Tam gövde illüstrasyon (✅ tamamlandı):** `catFullBodySvg` (cat-avatar.ts),
-aynı baş çizimini (headMarkup, artık paylaşımlı) oturan gövde + kuyruk + ön
-patilerle birleştiriyor; desen (tabby/patch/tuxedo) gövdeye de yansıyor.
-Kullanıldığı yerler: hikaye intro'su, kapanış hikayesindeki Duman portresi,
-kedi detay modalı, bulmaca bitince açılma kutlaması. Koleksiyon ızgarası,
-harita pimleri ve teaser önizlemesi küçük boyut nedeniyle hâlâ baş/büst
-kullanıyor (bilinçli tercih, karmaşayı önlemek için).
+**Büyük/detay görünümü (✅ tamamlandı):** `catFullBody` (cat-avatar.ts) açıkken
+aynı Gemini portresini (`catAvatar` ile aynı görsel), kilitliyken gövde+kuyruk+
+patili siluet SVG'sini döndürüyor. Kullanıldığı yerler: hikaye intro'su,
+kapanış hikayesindeki Duman portresi, kedi detay modalı, bulmaca bitince
+açılma kutlaması. Koleksiyon ızgarası, harita pimleri ve teaser önizlemesi
+`catAvatar` ile aynı portreyi küçük kare çerçevede gösteriyor.
 
 **Beklemede (ileri aşama, isteğe bağlı):**
 - Basit "idle" animasyonu (göz kırpma, kuyruk sallama) — kedi detay modalında.
