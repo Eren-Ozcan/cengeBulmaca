@@ -1,0 +1,292 @@
+{
+  "id": "bulmaca-300",
+  "title": "Bulmaca 300",
+  "rows": 12,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "Sırbistan'ın başkenti",
+      "answer": "BELGRAD",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Radyum'un simgesi",
+      "answer": "RA",
+      "row": 2,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Anlama ve kavrama yetisi",
+      "answer": "ZEKA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Erkek insan, kişi",
+      "answer": "ADAM",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İğne yapraklı reçineli ağaç",
+      "answer": "ÇAM",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Isınma aracı",
+      "answer": "SOBA",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Aklını yitirmiş",
+      "answer": "DELİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Satrançta bir taş",
+      "answer": "AT",
+      "row": 5,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Göze takılan mercek",
+      "answer": "LENS",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mektup taşıma hizmeti",
+      "answer": "POSTA",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Seçimde kullanılan tercih",
+      "answer": "OY",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mısır'dan geçen ırmak",
+      "answer": "NİL",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Rütbesiz asker",
+      "answer": "ER",
+      "row": 8,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "İri taneli bezelye",
+      "answer": "ARAKA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İskambilde birli",
+      "answer": "AS",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yağı çıkarılan siyah veya yeşil meyve",
+      "answer": "ZEYTİN",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Beyaz, kara karşıtı",
+      "answer": "AK",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hatay'dan geçen ırmak",
+      "answer": "ASİ",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Kahvaltılık meyve tatlısı",
+      "answer": "REÇEL",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kanun",
+      "answer": "YASA",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Surlarla çevrili yapı",
+      "answer": "KALE",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Delikli, seyrek dokunmuş kumaş",
+      "answer": "ETAMİN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kendini beğendirme cilvesi",
+      "answer": "NAZ",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Lityum'un simgesi",
+      "answer": "Lİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Haber sunucusu",
+      "answer": "SPİKER",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yetki simgesi değnek",
+      "answer": "ASA",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Meydana gelen şey, hadise",
+      "answer": "OLAY",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "DO",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tantal'ın simgesi",
+      "answer": "TA",
+      "row": 9,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Otomobil",
+      "answer": "ARABA",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Raketle oynanan spor",
+      "answer": "TENİS",
+      "row": 6,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kızın ya da kız kardeşin kocası",
+      "answer": "DAMAT",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Utanma duygusu",
+      "answer": "AR",
+      "row": 6,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Nikel'in simgesi",
+      "answer": "Nİ",
+      "row": 9,
+      "col": 8,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 2
+    },
+    {
+      "row": 11,
+      "col": 3
+    }
+  ],
+  "difficulty": "zor"
+}

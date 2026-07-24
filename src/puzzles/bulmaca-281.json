@@ -1,0 +1,225 @@
+{
+  "id": "bulmaca-281",
+  "title": "Bulmaca 281",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Aydınlatma aracı",
+      "answer": "LAMBA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Muvazene",
+      "answer": "DENGE",
+      "row": 1,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kızıl renkli değerli ağaç",
+      "answer": "MAUN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Lantan'ın simgesi",
+      "answer": "LA",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İlave, ulama",
+      "answer": "EK",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Konut, hane",
+      "answer": "EV",
+      "row": 4,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Doğuma yardım eden sağlıkçı",
+      "answer": "EBE",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Hamsisiyle ünlü Karadeniz ilimiz",
+      "answer": "TRABZON",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Polonyum'un simgesi",
+      "answer": "PO",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir seslenme sözü",
+      "answer": "YA",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Salamurada bekletilmiş sebze",
+      "answer": "TURŞU",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tek, yalnız",
+      "answer": "BİR",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "Mİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Tantal'ın simgesi",
+      "answer": "TA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Rusça'da 'evet'",
+      "answer": "DA",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Rütbesiz asker",
+      "answer": "ER",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Romanya'nın para birimi",
+      "answer": "LEU",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Deniz yolcu taşıtı",
+      "answer": "VAPUR",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çocuğu olan kadın, ana",
+      "answer": "ANNE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir element; Niğde'nin ilçesi",
+      "answer": "BOR",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Magnezyum'un simgesi",
+      "answer": "MG",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Defa, sefer",
+      "answer": "KEZ",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gövdenin ortası",
+      "answer": "BEL",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Baş ile gövde arasındaki bölüm",
+      "answer": "BOYUN",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Boğa güreşi alanı",
+      "answer": "ARENA",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 3
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "orta"
+}

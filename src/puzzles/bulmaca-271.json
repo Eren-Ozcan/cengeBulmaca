@@ -1,0 +1,182 @@
+{
+  "id": "bulmaca-271",
+  "title": "Bulmaca 271",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Latife",
+      "answer": "ŞAKA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yaban hayvanı barınağı",
+      "answer": "İN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yemek konan çukur kap",
+      "answer": "TABAK",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Delikli, seyrek dokunmuş kumaş",
+      "answer": "ETAMİN",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kızartma kabı",
+      "answer": "TAVA",
+      "row": 4,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bazı Arap ülkelerinin para birimi (Ürdün, Irak vb.)",
+      "answer": "DİNAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sık gözlü ağ",
+      "answer": "TOR",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 6,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Arnavutluk'un başkenti",
+      "answer": "TİRAN",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaprakları katmerli kış sebzesi",
+      "answer": "LAHANA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tanrıtanımaz kimse",
+      "answer": "ATE",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Söylence, efsanevi anlatı",
+      "answer": "MİT",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıvı ve gaz olmayan madde hâli",
+      "answer": "KATI",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Müzik sesi işareti",
+      "answer": "NOTA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaba, kalın yün kumaş",
+      "answer": "ABA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Belirli gün",
+      "answer": "TARİH",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tahıl deposu",
+      "answer": "AMBAR",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Radyum'un simgesi",
+      "answer": "RA",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Birden sonra gelen sayı",
+      "answer": "İKİ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Güneş doğmadan önceki alacakaranlık",
+      "answer": "TAN",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yunanistan'ın başkenti",
+      "answer": "ATİNA",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 0
+    }
+  ],
+  "difficulty": "kolay"
+}

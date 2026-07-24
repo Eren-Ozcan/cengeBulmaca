@@ -1,0 +1,256 @@
+{
+  "id": "bulmaca-283",
+  "title": "Bulmaca 283",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Tanrıtanımaz kimse",
+      "answer": "ATE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aşçılarıyla ünlü ilimiz",
+      "answer": "BOLU",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yakıcı tat; üzüntü",
+      "answer": "ACI",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Japonya'nın para birimi",
+      "answer": "YEN",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Denizde yaşayan kırmızı canlı",
+      "answer": "MERCAN",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "Mİ",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaşamın kaynağı sıvı",
+      "answer": "SU",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Kebabıyla ünlü ilimiz",
+      "answer": "ADANA",
+      "row": 4,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kesme şeklinde büyük parça",
+      "answer": "BLOK",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Masallardaki iri yaratık",
+      "answer": "DEV",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Para saklanan çelik dolap",
+      "answer": "KASA",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Olağanüstü halk anlatısı",
+      "answer": "MASAL",
+      "row": 7,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Günlük haber yayını",
+      "answer": "GAZETE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Deriden salgılanan sıvı",
+      "answer": "TER",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Berilyum'un simgesi",
+      "answer": "BE",
+      "row": 5,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Eksiksiz",
+      "answer": "TAM",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırmızı renk",
+      "answer": "AL",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Spor karşılaşması",
+      "answer": "MAÇ",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kraliçe",
+      "answer": "ECE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "DO",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok karşıtı",
+      "answer": "AZ",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyük akarsu, nehir",
+      "answer": "IRMAK",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Paris'ten geçen ünlü nehir (... Nehri)",
+      "answer": "SEN",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ardıç kokulu bir içki",
+      "answer": "CİN",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Binanın her bir bölümü",
+      "answer": "KAT",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İğneyle yapılan ince süs işi",
+      "answer": "OYA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hak ve hukuka uygunluk",
+      "answer": "ADALET",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Göze takılan mercek",
+      "answer": "LENS",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Notada durak işareti",
+      "answer": "ES",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Öğütülmüş tahıl",
+      "answer": "UN",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Deniz yolcu taşıtı",
+      "answer": "VAPUR",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 2
+    }
+  ],
+  "difficulty": "kolay"
+}

@@ -1,0 +1,338 @@
+{
+  "id": "bulmaca-262",
+  "title": "Bulmaca 262",
+  "rows": 13,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "Hatay'dan geçen ırmak",
+      "answer": "ASİ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kripton'un simgesi",
+      "answer": "KR",
+      "row": 1,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ateş (eski dilde)",
+      "answer": "OD",
+      "row": 1,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Kırmızı ya da yeşil sulu meyve",
+      "answer": "ELMA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Birden sonra gelen sayı",
+      "answer": "İKİ",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir bağlaç",
+      "answer": "VE",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Cıva'nın simgesi",
+      "answer": "HG",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mısır'ın başkenti",
+      "answer": "KAHİRE",
+      "row": 3,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sicim, halat",
+      "answer": "İP",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sodyum'un simgesi",
+      "answer": "NA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kasapta satılan besin",
+      "answer": "ET",
+      "row": 5,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Beyaz, kara karşıtı",
+      "answer": "AK",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Öç alma isteği",
+      "answer": "KİN",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Radyum'un simgesi",
+      "answer": "RA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Suudi Arabistan ve İran'ın para birimi",
+      "answer": "RİYAL",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bolluk",
+      "answer": "BEREKET",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Vilayet",
+      "answer": "İL",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "Sİ",
+      "row": 9,
+      "col": 7,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Günlük haber yayını",
+      "answer": "GAZETE",
+      "row": 11,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağacın kolu",
+      "answer": "DAL",
+      "row": 12,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hareketi sağlayan doku",
+      "answer": "KAS",
+      "row": 12,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Muhabbet",
+      "answer": "SEVGİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Araç, avadanlık",
+      "answer": "ALET",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir bağlaç",
+      "answer": "İLE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde ayak",
+      "answer": "PA",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Letonya'nın başkenti",
+      "answer": "RİGA",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dört kenarı eşit dörtgen",
+      "answer": "KARE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırmızı renk",
+      "answer": "AL",
+      "row": 10,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemek pişirilen büyük kap",
+      "answer": "KAZAN",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Üçüncü burç",
+      "answer": "İKİZ",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Adaletin gerektirdiği şey",
+      "answer": "HAK",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kolsuz giysi",
+      "answer": "YELEK",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayak direme",
+      "answer": "İNAT",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tantal'ın simgesi",
+      "answer": "TA",
+      "row": 10,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yayla atılan ince silah",
+      "answer": "OK",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Almanya'dan geçen önemli bir Avrupa nehri",
+      "answer": "REN",
+      "row": 3,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kulağın algıladığı titreşim",
+      "answer": "SES",
+      "row": 9,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Sağlık için uygulanan beslenme düzeni",
+      "answer": "DİYET",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Lityum'un simgesi",
+      "answer": "Lİ",
+      "row": 8,
+      "col": 8,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 8
+    },
+    {
+      "row": 7,
+      "col": 2
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 8
+    },
+    {
+      "row": 11,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 8
+    },
+    {
+      "row": 12,
+      "col": 8
+    }
+  ],
+  "difficulty": "kolay"
+}

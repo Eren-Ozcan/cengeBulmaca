@@ -1,0 +1,235 @@
+{
+  "id": "bulmaca-293",
+  "title": "Bulmaca 293",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Şarap, içki (eski dilde)",
+      "answer": "BADE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Öç alma isteği",
+      "answer": "KİN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Cam (eski dilde)",
+      "answer": "SIRÇA",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yanma olayı, od",
+      "answer": "ATEŞ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Onama, kabul etme",
+      "answer": "RIZA",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 4,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Miyavlayan evcil hayvan",
+      "answer": "KEDİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Göze takılan mercek",
+      "answer": "LENS",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İçine bir şey konan nesne",
+      "answer": "KAP",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Radyum'un simgesi",
+      "answer": "RA",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yardım için toplanan para",
+      "answer": "İANE",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yemek yemede kullanılan çatallı araç",
+      "answer": "ÇATAL",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Utanma duygusu",
+      "answer": "AR",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Galyum'un simgesi",
+      "answer": "GA",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gürcistan'ın başkenti",
+      "answer": "TİFLİS",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Temel, esas",
+      "answer": "ANA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir burç",
+      "answer": "TERAZİ",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayak direme",
+      "answer": "İNAT",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ortaya konan yapıt",
+      "answer": "ESER",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Aydınlık veren enerji",
+      "answer": "IŞIK",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Alaka",
+      "answer": "İLGİ",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kripton'un simgesi",
+      "answer": "KR",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Anlama ve kavrama yetisi",
+      "answer": "ZEKA",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstün başarılı kimse",
+      "answer": "AS",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Dış karşıtı, dahil",
+      "answer": "İÇ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kebabıyla ünlü ilimiz",
+      "answer": "ADANA",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kendini beğendirme cilvesi",
+      "answer": "NAZ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Hardal kokulu savaş gazı",
+      "answer": "İPERİT",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 6
+    }
+  ],
+  "difficulty": "orta"
+}

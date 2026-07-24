@@ -1,0 +1,197 @@
+{
+  "id": "bulmaca-286",
+  "title": "Bulmaca 286",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Bir soru sözcüğü",
+      "answer": "NE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Adet belirten rakam kümesi",
+      "answer": "SAYI",
+      "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Haber sunucusu",
+      "answer": "SPİKER",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Birden sonra gelen sayı",
+      "answer": "İKİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Karışık renkli, benekli",
+      "answer": "ALA",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir bağlaç",
+      "answer": "İLE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İlave, ulama",
+      "answer": "EK",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Girişken, çevik",
+      "answer": "ATAK",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Taş veya tuğladan örülmüş bölme",
+      "answer": "DUVAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hamuru kabartan madde",
+      "answer": "MAYA",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hindistan'ın para birimi",
+      "answer": "RUPİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şöhret, şan",
+      "answer": "ÜN",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Bin kilogram",
+      "answer": "TON",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sodyum'un simgesi",
+      "answer": "NA",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yeni karşıtı",
+      "answer": "ESKİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ümit",
+      "answer": "UMUT",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Pirinç yemeği",
+      "answer": "PİLAV",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Polonyum'un simgesi",
+      "answer": "PO",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir nota",
+      "answer": "Sİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Delikli, seyrek dokunmuş kumaş",
+      "answer": "ETAMİN",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Fasıla",
+      "answer": "ARA",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kolsuz giysi",
+      "answer": "YELEK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Koyundan kırkılan lif",
+      "answer": "YÜN",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak",
+      "answer": "IRAK",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Boru akışını kesen musluk",
+      "answer": "VANA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    }
+  ],
+  "difficulty": "kolay"
+}
