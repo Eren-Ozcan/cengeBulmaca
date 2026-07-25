@@ -1,18 +1,11 @@
 // AdMob reklam entegrasyonu (@capacitor-community/admob).
 //
-// ÖNEMLİ: Aşağıdaki reklam birimi ID'leri Google'ın herkese açık TEST
-// ID'leridir (gerçek gelir üretmez, hesap gerektirmez). Yayına çıkmadan
-// önce kendi AdMob hesabından üretilen gerçek App ID ve reklam birimi
-// ID'leriyle değiştirilmeli:
-//   1. https://apps.admob.com adresinde bir uygulama oluştur.
-//   2. Ödüllü (rewarded) ve geçiş (interstitial) reklam birimleri oluştur.
-//   3. android/app/src/main/res/values/strings.xml'deki admob_app_id'yi
-//      ve aşağıdaki REWARDED_AD_ID / INTERSTITIAL_AD_ID sabitlerini
-//      güncelle.
-//   4. AdMob hesabında "Privacy & messaging" bölümünden bir GDPR mesaj
-//      (UMP) kampanyası oluştur — aşağıdaki requestConsentInfo/showConsentForm
-//      çağrıları o kampanyayı render eder; kampanya yoksa AB/AEA dışı
-//      kullanıcılarda olduğu gibi NOT_REQUIRED döner ve hiçbir şey göstermez.
+// Gerçek AdMob hesabı: yilkgamesstudio@gmail.com (uygulama: Çengel Bulmaca,
+// App ID ca-app-pub-9709993577664180~3994312791). Yayına çıkmadan önce
+// kalan adım: AdMob hesabında "Privacy & messaging" bölümünden bir GDPR
+// mesaj (UMP) kampanyası oluştur — aşağıdaki requestConsentInfo/showConsentForm
+// çağrıları o kampanyayı render eder; kampanya yoksa AB/AEA dışı
+// kullanıcılarda olduğu gibi NOT_REQUIRED döner ve hiçbir şey göstermez.
 //
 // Sadece native platformda (Android/iOS) çalışır; web/dev ortamında tüm
 // fonksiyonlar sessizce no-op döner, oyun akışını asla bozmaz.
@@ -20,8 +13,8 @@
 import { Capacitor, type PluginListenerHandle } from "@capacitor/core";
 import { AdMob, AdmobConsentStatus, RewardAdPluginEvents } from "@capacitor-community/admob";
 
-const REWARDED_AD_ID = "ca-app-pub-3940256099942544/5224354917"; // Google test ID
-const INTERSTITIAL_AD_ID = "ca-app-pub-3940256099942544/1033173712"; // Google test ID
+const REWARDED_AD_ID = "ca-app-pub-9709993577664180/1978523543";
+const INTERSTITIAL_AD_ID = "ca-app-pub-9709993577664180/6923728460";
 
 let initialized = false;
 
