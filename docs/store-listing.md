@@ -77,23 +77,23 @@ bulmaca, çengel bulmaca, kare bulmaca, kelime oyunu, Türkçe
 
 ## Reklam / Data Safety notları (Play Console)
 
-Uygulama artık Google AdMob ile reklam gösteriyor (geçiş reklamı bazı
-bulmaca bitişlerinde, ödüllü reklam isteğe bağlı ekstra ipucu için).
-Play Console'da doldurulması gerekenler:
+Uygulama Google AdMob ile reklam gösteriyor (geçiş reklamı bazı bulmaca
+bitişlerinde, ödüllü reklam isteğe bağlı ekstra ipucu için). Play
+Console'da (2026-07-25 itibarıyla) tamamlananlar:
 
-- **App content → Ads**: "Uygulamam reklam içeriyor" = Evet.
-- **Data safety formu**: "Reklam Kimliği / Cihaz kimlikleri" toplanıyor,
-  amaç = Reklamcılık; AdMob SDK'sı üzerinden Google ile paylaşılıyor.
-  Kullanıcı verisi şifrelenmiş iletimle gönderiliyor, silme talebi AdMob/
-  Google hesabı üzerinden yönetiliyor (uygulamanın kendi sunucusu yok).
-- **İçerik derecelendirmesi anketi**: reklam SDK'sı eklendiği için anket
-  yeniden doldurulmalı; oyunun kendisi hâlâ şiddet içermeyen bir kelime
-  oyunu (PEGI 3 / Herkes beklenir), reklamlar nedeniyle "reklam içerir"
-  notu eklenecek.
-- `src/ads.ts` ve `strings.xml`'deki AdMob ID'leri şu an Google'ın TEST
-  ID'leri — yayına almadan önce gerçek AdMob hesabından üretilen App ID
-  ve reklam birimi ID'leriyle değiştirilmeli (bkz. `src/ads.ts` başındaki
-  not).
+- **App content → Ads**: "Uygulamam reklam içeriyor" = Evet. ✅
+- **Data safety formu**: Konum (yaklaşık) ve Cihaz veya diğer kimlikler,
+  amaç = Reklam veya pazarlama; toplanıyor + paylaşılıyor olarak
+  işaretlendi, aktarım şifreli. ✅
+- **İçerik derecelendirmesi anketi**: tamamlandı, tüm otoritelerde
+  Genel/Tüm yaşlar (PEGI 3 / Herkes) çıktı. ✅
+- **Hedef kitle**: 13-15, 16-17, 18 yaş ve üstü olarak ayarlandı. ✅
+- `src/ads.ts` ve `strings.xml`'deki AdMob ID'leri artık gerçek hesaba
+  (yilkgamesstudio@gmail.com, App ID
+  `ca-app-pub-9709993577664180~3994312791`) ait. Kalan tek adım: AdMob
+  hesabı henüz Google tarafından onaylanmadı (24 saat–2 hafta sürebilir)
+  ve "Privacy & messaging" bölümünden bir GDPR (UMP) kampanyası
+  oluşturulmadı — bkz. `src/ads.ts` başındaki not.
 
 ## Diğer
 
