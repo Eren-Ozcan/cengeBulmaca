@@ -2,16 +2,13 @@
 // çözünce hem kendisi hem de kendisini davet eden joker kazanır.
 //
 // Bu özellik hafif bir Firebase (Firestore + Anonymous Auth) backend'i
-// gerektirir — localStorage tek başına iki farklı cihaz arasında güvenli
-// bilgi paylaşımı sağlayamaz. ÖNEMLİ, yayına çıkmadan önce:
-//   1. https://console.firebase.google.com adresinde ücretsiz (Spark) bir
-//      proje oluştur, bir Web App ekle, aşağıdaki FIREBASE_CONFIG'i gerçek
-//      değerlerle doldur.
-//   2. Authentication > Sign-in method'dan "Anonymous" sağlayıcısını aç.
-//   3. Firestore Database oluştur, bu projedeki firestore.rules dosyasını
-//      (`firebase deploy --only firestore:rules` ile) yayınla — kurallar
-//      kendini-davet ve ödülün birden fazla kez talep edilmesini
-//      reddedecek şekilde yazıldı (bkz. dosyadaki açıklama).
+// kullanır — localStorage tek başına iki farklı cihaz arasında güvenli
+// bilgi paylaşımı sağlayamaz. Firebase projesi (cengel-bulmaca-c504d,
+// yilkgamesstudio@gmail.com hesabı, ücretsiz Spark plan) kuruldu:
+// Anonymous Auth açık, Firestore oluşturuldu ve bu projedeki
+// firestore.rules Firebase Console üzerinden yayınlandı — kurallar
+// kendini-davet ve ödülün birden fazla kez talep edilmesini reddedecek
+// şekilde yazıldı (bkz. dosyadaki açıklama).
 //
 // Bilinen sınır (kullanıcıya da bildirildi): Anonymous Auth kimliği cihaz
 // kurulumuna bağlıdır — uygulamayı silip tekrar kurmak yeni bir kimlik
@@ -27,13 +24,13 @@
 import { grantJokers } from "./economy.ts";
 
 const FIREBASE_CONFIG = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
-}; // TODO yayın öncesi: gerçek Firebase proje yapılandırması
+  apiKey: "AIzaSyDAYdtc5t_-rUgLFg-_Y30cvFpwqWSuC8c",
+  authDomain: "cengel-bulmaca-c504d.firebaseapp.com",
+  projectId: "cengel-bulmaca-c504d",
+  storageBucket: "cengel-bulmaca-c504d.firebasestorage.app",
+  messagingSenderId: "211808649907",
+  appId: "1:211808649907:web:f75b8c07a446d8e8c4e6c6",
+};
 
 const REFERRAL_REWARD = 3;
 const SYNCED_KEY = "cengel-referral-synced";
