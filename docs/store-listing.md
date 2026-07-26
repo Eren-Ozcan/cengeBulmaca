@@ -121,6 +121,14 @@ Console'da tamamlananlar:
   son adım (şu an sadece Dahili test kanalında).
 - Tablet ekran görüntüleri (7"/10") ve YouTube video URL'si eklenmedi
   (zorunlu değil, isteğe bağlı kalabilir).
+- ⏳ **GitHub secret scanning uyarısı (Google API Key, `src/referral.ts`
+  — Firebase `apiKey`)**: GitHub'da `wont_fix` olarak kapatıldı (bu
+  anahtar Firebase web SDK'sının istemci tarafı, gizli olmayan
+  tanımlayıcısı — güvenlik Firestore rules ile sağlanıyor). Kalıcı
+  düzeltme: Google Cloud Console'da bu anahtarı API kısıtlamasıyla
+  (Identity Toolkit + Cloud Firestore API) ve mümkünse uygulama
+  kısıtlamasıyla sınırlamak. `yilkgamesstudio@gmail.com` hesabına erişim
+  sorunu nedeniyle henüz yapılmadı — hesap sorunu çözülünce tamamlanacak.
 
 ## Diğer
 
