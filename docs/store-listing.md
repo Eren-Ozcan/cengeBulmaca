@@ -119,8 +119,6 @@ Console'da tamamlananlar:
 - ⏳ Banka hesabı doğrulaması (Google tarafında, otomatik).
 - ⏳ Production track'e yayınlama — banka doğrulaması bitince yapılacak
   son adım (şu an sadece Dahili test kanalında).
-- İngilizce store listing eklenmeyecek — kullanıcı kararı (yalnızca
-  Türkçe kalacak).
 - Tablet ekran görüntüleri (7"/10") ve YouTube video URL'si eklenmedi
   (zorunlu değil, isteğe bağlı kalabilir).
 
