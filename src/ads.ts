@@ -12,6 +12,7 @@
 
 import { Capacitor, type PluginListenerHandle } from "@capacitor/core";
 import { AdMob, AdmobConsentStatus, RewardAdPluginEvents } from "@capacitor-community/admob";
+import { adsRemoved } from "./billing.ts";
 
 const REWARDED_AD_ID = "ca-app-pub-9709993577664180/1978523543";
 const INTERSTITIAL_AD_ID = "ca-app-pub-9709993577664180/6923728460";
@@ -103,9 +104,13 @@ export async function showRewardedHintAd(): Promise<boolean> {
 /**
  * Geçiş reklamını hazırlayıp gösterir. Ödül döndürmez; bulmaca bitince
  * ara sıra (frekans sınırlamasıyla) çağrılan tamamen isteğe bağlı bir
- * gelir kanalıdır. Hata/web ortamında sessizce yok sayılır.
+ * gelir kanalıdır. Hata/web ortamında sessizce yok sayılır. Kullanıcı
+ * "reklamları kaldır" ürününü satın aldıysa hiç gösterilmez — ödüllü
+ * reklam (joker kazanma) bu kısıtlamadan etkilenmez, çünkü kullanıcının
+ * kendi isteğiyle bir karşılık için izlediği bir reklamdır.
  */
 export async function maybeShowInterstitial(): Promise<void> {
+  if (adsRemoved()) return;
   if (!(await ensureInitialized())) return;
   try {
     await AdMob.prepareInterstitial({ adId: INTERSTITIAL_AD_ID });

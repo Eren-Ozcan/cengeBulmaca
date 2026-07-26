@@ -6,10 +6,12 @@ import { initTheme } from "./theme.ts";
 import { initAds } from "./ads.ts";
 import { initReferral } from "./referral.ts";
 import { ensureMusicStarted } from "./music.ts";
+import { restoreAdsRemoved } from "./billing.ts";
 
 initTheme();
 void initAds();
 void initReferral();
+void restoreAdsRemoved();
 // Tarayıcı/WebView autoplay politikası gereği müzik ancak gerçek bir
 // kullanıcı jestinden sonra başlayabilir; ilk dokunuşta bir kez tetiklenir.
 document.addEventListener("pointerdown", () => ensureMusicStarted(), { once: true });
