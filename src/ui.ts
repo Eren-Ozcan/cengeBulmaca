@@ -29,7 +29,13 @@ import { hapticKey, hapticWin, hapticWrong } from "./haptics.ts";
 import { maybeShowInterstitial, shouldShowInterstitial, showRewardedHintAd } from "./ads.ts";
 import { consumeFreeHint, freeHintsRemainingToday } from "./hints.ts";
 import { CAT_UNLOCK_REWARD, grantJokers, jokerBalance, spendJoker } from "./economy.ts";
-import { JOKER_PACKS, purchaseJokerPack } from "./billing.ts";
+import {
+  adsRemoved,
+  JOKER_PACKS,
+  purchaseJokerPack,
+  purchaseRemoveAds,
+  REMOVE_ADS_PRICE_LABEL,
+} from "./billing.ts";
 import { musicEnabled, toggleMusic } from "./music.ts";
 import { currentTheme, toggleTheme } from "./theme.ts";
 import type { ArrowDir, PuzzleDef } from "./types.ts";
@@ -600,6 +606,35 @@ export class App {
     inviteCard.appendChild(inviteBtn);
     wrap.appendChild(inviteCard);
 
+    if (adsRemoved()) {
+      const removedCard = el("div", "invite-card remove-ads-card owned");
+      removedCard.appendChild(el("div", "invite-icon", "🚫📺"));
+      const removedInfo = el("div", "invite-info");
+      removedInfo.appendChild(el("div", "invite-title", "Reklamlar Kaldırıldı"));
+      removedInfo.appendChild(
+        el("div", "invite-sub", "Artık geçiş reklamı görmeyeceksin. Teşekkürler!"),
+      );
+      removedCard.appendChild(removedInfo);
+      wrap.appendChild(removedCard);
+    } else {
+      const removeAdsCard = el("div", "invite-card remove-ads-card");
+      removeAdsCard.appendChild(el("div", "invite-icon", "🚫📺"));
+      const removeAdsInfo = el("div", "invite-info");
+      removeAdsInfo.appendChild(el("div", "invite-title", "Reklamları Kaldır"));
+      removeAdsInfo.appendChild(
+        el(
+          "div",
+          "invite-sub",
+          "Bulmaca aralarında çıkan geçiş reklamlarını tek seferlik satın alımla kalıcı olarak kapat.",
+        ),
+      );
+      removeAdsCard.appendChild(removeAdsInfo);
+      const removeAdsBtn = el("button", "invite-btn", REMOVE_ADS_PRICE_LABEL);
+      removeAdsBtn.addEventListener("click", () => void this.buyRemoveAds(removeAdsCard));
+      removeAdsCard.appendChild(removeAdsBtn);
+      wrap.appendChild(removeAdsCard);
+    }
+
     wrap.appendChild(el("div", "section-title", "Joker Al"));
     const grid = el("div", "shop-pack-grid");
     JOKER_PACKS.forEach((pack) => {
@@ -624,6 +659,18 @@ export class App {
       grantJokers(granted);
       this.renderShop();
       toast(this.root, `+${granted} 🃏 Joker eklendi!`);
+    } else {
+      card.classList.remove("shop-pack-pending");
+      toast(this.root, "Satın alma tamamlanmadı");
+    }
+  }
+
+  private async buyRemoveAds(card: HTMLElement): Promise<void> {
+    card.classList.add("shop-pack-pending");
+    const ok = await purchaseRemoveAds().catch(() => false);
+    if (ok) {
+      this.renderShop();
+      toast(this.root, "Reklamlar kaldırıldı!");
     } else {
       card.classList.remove("shop-pack-pending");
       toast(this.root, "Satın alma tamamlanmadı");

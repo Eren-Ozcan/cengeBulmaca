@@ -1573,6 +1573,16 @@ button {
   padding: 9px 15px;
 }
 
+.remove-ads-card {
+  background: linear-gradient(120deg, #2b2d3a, #454864);
+  box-shadow: 0 6px 18px rgba(43, 45, 58, 0.3);
+}
+
+.remove-ads-card.owned {
+  background: linear-gradient(120deg, #1f8a5f, #2fb87d);
+  box-shadow: 0 6px 18px rgba(31, 138, 95, 0.3);
+}
+
 .shop-pack-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
