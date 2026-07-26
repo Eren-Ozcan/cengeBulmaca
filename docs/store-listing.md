@@ -79,7 +79,7 @@ bulmaca, çengel bulmaca, kare bulmaca, kelime oyunu, Türkçe
 
 Uygulama Google AdMob ile reklam gösteriyor (geçiş reklamı bazı bulmaca
 bitişlerinde, ödüllü reklam isteğe bağlı ekstra ipucu için). Play
-Console'da (2026-07-25 itibarıyla) tamamlananlar:
+Console'da tamamlananlar:
 
 - **App content → Ads**: "Uygulamam reklam içeriyor" = Evet. ✅
 - **Data safety formu**: Konum (yaklaşık) ve Cihaz veya diğer kimlikler,
@@ -88,12 +88,41 @@ Console'da (2026-07-25 itibarıyla) tamamlananlar:
 - **İçerik derecelendirmesi anketi**: tamamlandı, tüm otoritelerde
   Genel/Tüm yaşlar (PEGI 3 / Herkes) çıktı. ✅
 - **Hedef kitle**: 13-15, 16-17, 18 yaş ve üstü olarak ayarlandı. ✅
-- `src/ads.ts` ve `strings.xml`'deki AdMob ID'leri artık gerçek hesaba
+- `src/ads.ts` ve `strings.xml`'deki AdMob ID'leri gerçek hesaba
   (yilkgamesstudio@gmail.com, App ID
-  `ca-app-pub-9709993577664180~3994312791`) ait. Kalan tek adım: AdMob
-  hesabı henüz Google tarafından onaylanmadı (24 saat–2 hafta sürebilir)
-  ve "Privacy & messaging" bölümünden bir GDPR (UMP) kampanyası
-  oluşturulmadı — bkz. `src/ads.ts` başındaki not.
+  `ca-app-pub-9709993577664180~3994312791`) ait, hesap onaylandı. ✅
+- GDPR/UMP (Privacy & messaging) rıza kampanyası yayınlandı. ✅
+
+## Satın alma (IAP) ve altyapı — 2026-07-26 itibarıyla
+
+- **Satıcı hesabı (merchant/payments profile)**: kurulu. Banka hesabı
+  (Yapı Kredi IBAN) eklendi, Google'ın deneme ödemesiyle doğrulaması
+  bekleniyor (otomatik, ~3 iş günü). ⏳
+- **IAP ürünleri**: 4 tüketilebilir joker paketi (jokers_5/10/20/50) +
+  1 tüketilmeyen ürün (remove_ads) Play Console'da oluşturuldu ve
+  Etkin. ✅
+- **RevenueCat entegrasyonu**: Android app config + servis hesabı +
+  Product catalog tamamlandı, "Valid credentials" doğrulandı. ✅
+- **`src/billing.ts` kod tarafı**: joker paketleri + `remove_ads`
+  (satın alma/restore/reklam gösterimini engelleme) tamamlandı,
+  mağaza ekranında kart olarak gösteriliyor. ✅
+- **Google developer notifications (Pub/Sub RTDN)**: opsiyonel,
+  RevenueCat'in önerdiği gerçek zamanlı satın alma bildirimi kanalı.
+  Kuruldu ve bağlandı ("Connected to Google"). ✅
+- GCP/Firebase projesi (`cengel-bulmaca-c504d`) artık tek hesapta
+  (`yilkgamesstudio@gmail.com`, Owner) topluca yönetiliyor; projeye
+  hiç faturalandırma (billing) hesabı bağlı değil, ücretsiz kotalarla
+  çalışıyor. ✅
+
+## Kalanlar
+
+- ⏳ Banka hesabı doğrulaması (Google tarafında, otomatik).
+- ⏳ Production track'e yayınlama — banka doğrulaması bitince yapılacak
+  son adım (şu an sadece Dahili test kanalında).
+- İngilizce store listing eklenmeyecek — kullanıcı kararı (yalnızca
+  Türkçe kalacak).
+- Tablet ekran görüntüleri (7"/10") ve YouTube video URL'si eklenmedi
+  (zorunlu değil, isteğe bağlı kalabilir).
 
 ## Diğer
 
