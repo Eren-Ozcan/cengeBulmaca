@@ -93,11 +93,11 @@ Console'da tamamlananlar:
   `ca-app-pub-9709993577664180~3994312791`) ait, hesap onaylandı. ✅
 - GDPR/UMP (Privacy & messaging) rıza kampanyası yayınlandı. ✅
 
-## Satın alma (IAP) ve altyapı — 2026-07-26 itibarıyla
+## Satın alma (IAP) ve altyapı — 2026-07-28 itibarıyla
 
 - **Satıcı hesabı (merchant/payments profile)**: kurulu. Banka hesabı
   (Yapı Kredi IBAN) eklendi, Google'ın deneme ödemesiyle doğrulaması
-  bekleniyor (otomatik, ~3 iş günü). ⏳
+  tamamlandı. ✅
 - **IAP ürünleri**: 4 tüketilebilir joker paketi (jokers_5/10/20/50) +
   1 tüketilmeyen ürün (remove_ads) Play Console'da oluşturuldu ve
   Etkin. ✅
@@ -116,9 +116,12 @@ Console'da tamamlananlar:
 
 ## Kalanlar
 
-- ⏳ Banka hesabı doğrulaması (Google tarafında, otomatik).
-- ⏳ Production track'e yayınlama — banka doğrulaması bitince yapılacak
-  son adım (şu an sadece Dahili test kanalında).
+- ⏳ Production track'e yayınlama — banka doğrulaması bitti, sıradaki
+  adım (şu an sadece Dahili test kanalında).
+- ⏳ Play Console "Ödeme profili" sayfasında **%15 hizmet ücreti
+  programına kaydolun** bildirimi çıkıyor (opsiyonel görünüyor ama
+  gözden geçirilmeli — hesap grubu oluşturma + hizmet ücreti şartlarını
+  kabul etme gerektiriyor).
 - Tablet ekran görüntüleri (7"/10") ve YouTube video URL'si eklenmedi
   (zorunlu değil, isteğe bağlı kalabilir).
 - ⏳ **GitHub secret scanning uyarısı (Google API Key, `src/referral.ts`
