@@ -14,3 +14,9 @@ Yeni bir store görseli eklenirken/güncellenirken: dosyayı hem
 sonra `pictures` reposunda commit+push yap. `docs/store-assets/` klasöründeki
 (tracked, public) dosyaları güncellemek istersen bunu ayrıca ve bilinçli olarak yap —
 onlar zaten repo geçmişinde public.
+
+## Stüdyo geneli bilgiler
+
+Google hesabı, Play Console geliştirici hesabı, yilkgames.com/yilkgames_web durumu
+gibi stüdyo geneli (bu oyuna özel olmayan) sorular için `C:\Projects\pictures\STUDIO.md`
+tek kaynak — burada tekrarlanmaz.
