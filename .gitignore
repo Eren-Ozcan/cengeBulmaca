@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Private/local-only store & marketing assets (mirrored to private Eren-Ozcan/pictures repo)
+docs/store-assets-originals/
