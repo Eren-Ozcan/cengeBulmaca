@@ -254,7 +254,7 @@ export const WORDS = [
   { a: "OYUN", c: ["Eğlence etkinliği"] },
   { a: "ROTA", c: ["İzlenecek yol"] },
   { a: "RÜYA", c: ["Uykuda görülen düş"] },
-  { a: "SALI", c: ["Haftanın üçüncü günü"] },
+  { a: "SALI", c: ["Haftanın ikinci günü"] },
   { a: "SIRA", c: ["Dizi", "Okul mobilyası"] },
   { a: "SOBA", c: ["Isınma aracı"] },
   { a: "ŞAİR", c: ["Şiir yazan sanatçı"] },
