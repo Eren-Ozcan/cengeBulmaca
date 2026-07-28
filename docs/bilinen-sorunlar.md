@@ -21,3 +21,9 @@ buraya eklenir, düzeltilince kaldırılır veya "✅ düzeltildi" olarak işare
    muhtemelen sığmıyor — düzeltme, cevabı değiştirmek değil ipucu metnini
    ("Haftanın üçüncü günü" yerine "SALI"ya uyan başka bir ipucu) değiştirmeyi
    gerektirebilir.
+
+2. **Yazı boyutu hâlâ çok küçük, kutular tam ekran değil**
+   Bulmaca ızgarası/kutuları ve metinler ekranı tam kullanmıyor; klavye
+   açıkken tam ekran olması beklenmez ama klavye kapalıyken kutular ve
+   yazılar ekranın tamamına yakın büyümeli. `src/style.css` ve `src/ui.ts`
+   içindeki ızgara/font boyutlandırma mantığına bakılmalı.
