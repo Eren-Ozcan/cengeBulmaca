@@ -32,3 +32,8 @@ buraya eklenir, düzeltilince kaldırılır veya "✅ düzeltildi" olarak işare
    Oyundan çıkıp tekrar girildiğinde, yarıda bırakılan bulmacanın kaldığı
    yerden devam etmesi bekleniyor; şu an bu çalışmıyor. `src/game.ts`
    içindeki ilerleme kaydetme/yükleme mantığına bakılmalı.
+
+4. **Ana menüdeki ses kısma tuşu işe yaramıyor**
+   Ana menüden sesi kısma/kapatma kontrolü tıklandığında etkisi olmuyor
+   gibi görünüyor. `src/music.ts` içindeki mute/volume kontrolüne
+   bakılmalı.
