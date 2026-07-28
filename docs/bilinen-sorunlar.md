@@ -5,35 +5,33 @@ buraya eklenir, düzeltilince kaldırılır veya "✅ düzeltildi" olarak işare
 
 ## 2026-07-28 playtest
 
-1. **"Haftanın üçüncü günü" ipucunun cevabı yanlış (Amerikan hafta
-   başlangıcına göre hesaplanmış)**
-   Cevap "SALI" olarak girilmiş; bu yalnızca haftanın Pazar günüyle
-   başladığı Amerikan sistemine göre doğru (Pazar=1, Pazartesi=2, Salı=3).
-   Türkiye'de hafta Pazartesi ile başlar, bu yüzden üçüncü gün "ÇARŞAMBA"
-   olmalı. Aynı bulmaca setinde "Haftanın son günü" → "PAZAR" cevabı zaten
-   doğru (Türk sistemine göre hafta Pazar ile bitiyor), yani sorun sadece
-   "üçüncü gün" ipucunda.
-   Etkilenen dosyalar: `src/puzzles/bulmaca-104.json`,
-   `bulmaca-117.json`, `bulmaca-12.json`, `bulmaca-174.json`,
-   `bulmaca-46.json`, `bulmaca-87.json` (6 bulmaca, hepsinde
-   "Haftanın üçüncü günü" → "SALI").
-   Not: "ÇARŞAMBA" 8 harf olduğu için mevcut bulmaca ızgaralarına
-   muhtemelen sığmıyor — düzeltme, cevabı değiştirmek değil ipucu metnini
-   ("Haftanın üçüncü günü" yerine "SALI"ya uyan başka bir ipucu) değiştirmeyi
-   gerektirebilir.
+1. **✅ düzeltildi** — "Haftanın üçüncü günü" ipucunun cevabı yanlıştı
+   (Amerikan hafta başlangıcına göre hesaplanmış: Pazar=1, Pazartesi=2,
+   Salı=3). İpucu metni "Haftanın ikinci günü" olarak değiştirildi (Türk
+   sisteminde Pazartesi=1, Salı=2 — cevap SALI olarak kaldı, sadece soru
+   metni düzeltildi). Değişiklik hem `tools/dictionary.mjs`'teki SALI
+   girdisine hem zaten üretilmiş 6 bulmaca dosyasına
+   (`bulmaca-104/117/12/174/46/87.json`) uygulandı.
 
-2. **Yazı boyutu hâlâ çok küçük, kutular tam ekran değil**
-   Bulmaca ızgarası/kutuları ve metinler ekranı tam kullanmıyor; klavye
-   açıkken tam ekran olması beklenmez ama klavye kapalıyken kutular ve
-   yazılar ekranın tamamına yakın büyümeli. `src/style.css` ve `src/ui.ts`
-   içindeki ızgara/font boyutlandırma mantığına bakılmalı.
+2. **✅ düzeltildi** — Yazı/kutu boyutu, ızgaranın gerçek boş dikey+yatay
+   alanına göre değil sabit bir "390px" tahminine göre hesaplanıyordu.
+   `App.sizeGrid()` (ui.ts) artık `.grid-wrap`'in gerçek ölçülen alanına göre
+   genişliği hesaplıyor (yükseklik hücrelerin aspect-ratio:1 özelliğinden
+   otomatik türüyor); harf punto'su `cqw` birimine geçirildi; soru
+   yazılarının punto sığdırma mantığı (`fitClueTexts`) artık sadece
+   küçültmüyor, büyük kutularda gerçekten büyüyor da.
 
-3. **Yarım kalan bulmacaya devam edilemiyor**
-   Oyundan çıkıp tekrar girildiğinde, yarıda bırakılan bulmacanın kaldığı
-   yerden devam etmesi bekleniyor; şu an bu çalışmıyor. `src/game.ts`
-   içindeki ilerleme kaydetme/yükleme mantığına bakılmalı.
+3. **✅ düzeltildi** — Harf girişleri zaten kaydediliyordu ama uygulamaya
+   her dönüşte imleç "ilk boş hücre"ye sıçrıyordu; kullanıcı kaldığı yeri
+   kaybetmiş gibi hissediyordu. `game.ts`'teki kayıt biçimi artık
+   `{entries, selRow, selCol, activeClue}` içeriyor (eski düz-dizi
+   kayıtlarla geriye dönük uyumlu), `ui.ts`'teki `openPuzzle` kaydedilmiş
+   imleç varsa onu koruyor. Ayrıca "Günün Bulmacası" kartına da yarım kalan
+   ilerleme çubuğu ve "Devam et" etiketi eklendi (önceden sadece bulmaca
+   listesinde vardı).
 
-4. **Ana menüdeki ses kısma tuşu işe yaramıyor**
-   Ana menüden sesi kısma/kapatma kontrolü tıklandığında etkisi olmuyor
-   gibi görünüyor. `src/music.ts` içindeki mute/volume kontrolüne
-   bakılmalı.
+4. **✅ düzeltildi (asıl hata yoktu)** — `music.ts`/`sound.ts`'teki aç/kapat
+   mantığı test edildi (`play()`/`pause()` doğru tetikleniyor, localStorage
+   doğru güncelleniyor); gerçek bir bozukluk bulunamadı. Kontrol sadece
+   Ayarlar ekranındaki "Müzik" satırından yapılabiliyor — bilinçli tercih
+   bu şekilde kalması (ana sayfaya ayrıca bir ses butonu eklenmedi).
