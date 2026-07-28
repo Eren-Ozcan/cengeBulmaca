@@ -488,6 +488,18 @@ button {
   background: linear-gradient(90deg, var(--hero-a), var(--hero-b));
 }
 
+/* .daily-card zaten mor gradyanlı olduğundan üstündeki ilerleme çubuğu
+   varsayılan (aynı gradyan) renklerle görünmez olur; beyaz tonlarla
+   kart zeminden ayrışsın diye üzerine yazılır */
+.daily-progress {
+  background: rgba(255, 255, 255, 0.28);
+  max-width: 220px;
+}
+
+.daily-progress .puzzle-progress-fill {
+  background: #fff;
+}
+
 /* ---------- oyun ekranı ---------- */
 
 .game {

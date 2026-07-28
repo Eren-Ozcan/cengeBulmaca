@@ -171,7 +171,12 @@ function saveProgress(s: GameState): void {
   try {
     localStorage.setItem(
       STORAGE_PREFIX + s.puzzle.id,
-      JSON.stringify(s.entries),
+      JSON.stringify({
+        entries: s.entries,
+        selRow: s.selRow,
+        selCol: s.selCol,
+        activeClue: s.activeClue,
+      }),
     );
   } catch {
     // depolama kullanılamıyorsa oyun kayıtsız devam eder
@@ -183,8 +188,33 @@ function loadProgress(s: GameState): void {
     const raw = localStorage.getItem(STORAGE_PREFIX + s.puzzle.id);
     if (!raw) return;
     const saved = JSON.parse(raw);
-    if (Array.isArray(saved) && saved.length === s.entries.length) {
-      s.entries = saved.map((x) => (typeof x === "string" ? x : ""));
+    // eski kayıt biçimi: düz harf dizisi (imleç konumu yok)
+    if (Array.isArray(saved)) {
+      if (saved.length === s.entries.length) {
+        s.entries = saved.map((x) => (typeof x === "string" ? x : ""));
+      }
+      return;
+    }
+    if (!saved || !Array.isArray(saved.entries)) return;
+    if (saved.entries.length === s.entries.length) {
+      s.entries = saved.entries.map((x: unknown) =>
+        typeof x === "string" ? x : "",
+      );
+    }
+    // kaldığı hücreyi/kelimeyi de geri getir; oyuncu her seferinde ilk boş
+    // hücreden değil, en son bıraktığı yerden devam eder. İkisi birden
+    // geçerliyse uygulanır, aksi halde ilk-boş-hücre varsayılanına düşülür.
+    if (
+      typeof saved.selRow === "number" &&
+      typeof saved.selCol === "number" &&
+      letterCellAt(s, saved.selRow, saved.selCol) &&
+      typeof saved.activeClue === "number" &&
+      saved.activeClue >= 0 &&
+      saved.activeClue < s.puzzle.clues.length
+    ) {
+      s.selRow = saved.selRow;
+      s.selCol = saved.selCol;
+      s.activeClue = saved.activeClue;
     }
   } catch {
     // bozuk kayıt yok sayılır
@@ -207,15 +237,17 @@ export function savedProgress(puzzle: PuzzleDef): number {
   try {
     const raw = localStorage.getItem(STORAGE_PREFIX + puzzle.id);
     if (!raw) return 0;
-    const saved = JSON.parse(raw);
-    if (!Array.isArray(saved)) return 0;
+    const parsed = JSON.parse(raw);
+    // eski biçim: düz dizi. yeni biçim: { entries, selRow, selCol, activeClue }
+    const entries = Array.isArray(parsed) ? parsed : parsed?.entries;
+    if (!Array.isArray(entries)) return 0;
     const grid = buildGrid(puzzle);
     let total = 0;
     let filled = 0;
     for (const cell of grid.cells) {
       if (cell.kind !== "letter") continue;
       total++;
-      const v = saved[cell.row * grid.cols + cell.col];
+      const v = entries[cell.row * grid.cols + cell.col];
       if (typeof v === "string" && v !== "") filled++;
     }
     return total > 0 ? filled / total : 0;

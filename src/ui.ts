@@ -317,6 +317,7 @@ export class App {
     const di = dailyIndex(this.puzzles.length);
     const daily = this.puzzles[di];
     const dailyDone = isSolvedPuzzle(daily.id);
+    const dailyProg = dailyDone ? 0 : savedProgress(daily);
     const hero = el("button", "daily-card");
     const heroInfo = el("div", "daily-info");
     heroInfo.appendChild(el("div", "daily-label", "GÜNÜN BULMACASI"));
@@ -339,9 +340,20 @@ export class App {
           (daily.difficulty ? ` · ${capitalizeTr(daily.difficulty)}` : ""),
       ),
     );
+    if (dailyProg > 0) {
+      const bar = el("div", "puzzle-progress daily-progress");
+      const fill = el("div", "puzzle-progress-fill");
+      fill.style.width = `${Math.max(4, Math.round(dailyProg * 100))}%`;
+      bar.appendChild(fill);
+      heroInfo.appendChild(bar);
+    }
     hero.appendChild(heroInfo);
     hero.appendChild(
-      el("div", "daily-cta" + (dailyDone ? " done" : ""), dailyDone ? "✓" : "Oyna"),
+      el(
+        "div",
+        "daily-cta" + (dailyDone ? " done" : ""),
+        dailyDone ? "✓" : dailyProg > 0 ? "Devam et" : "Oyna",
+      ),
     );
     hero.addEventListener("click", () => this.openPuzzle(daily));
     home.appendChild(hero);
@@ -733,8 +745,9 @@ export class App {
   private openPuzzle(p: PuzzleDef): void {
     this.state = newGame(p);
     this.clueFontCache.clear();
-    // oyuncu hemen yazmaya başlayabilsin diye ilk boş soruyu seç
-    if (!this.state.completed) {
+    // kaldığı ipucu/hücre kayıttan geldiyse onu korur; yoksa (ör. ilk açılış)
+    // oyuncu hemen yazmaya başlayabilsin diye ilk boş soruyu seçer
+    if (!this.state.completed && this.state.activeClue === null) {
       const first = this.findClueWithEmptyCell(0);
       this.activateClue(first ?? 0);
     }
