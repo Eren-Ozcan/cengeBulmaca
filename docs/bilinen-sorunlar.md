@@ -27,3 +27,8 @@ buraya eklenir, düzeltilince kaldırılır veya "✅ düzeltildi" olarak işare
    açıkken tam ekran olması beklenmez ama klavye kapalıyken kutular ve
    yazılar ekranın tamamına yakın büyümeli. `src/style.css` ve `src/ui.ts`
    içindeki ızgara/font boyutlandırma mantığına bakılmalı.
+
+3. **Yarım kalan bulmacaya devam edilemiyor**
+   Oyundan çıkıp tekrar girildiğinde, yarıda bırakılan bulmacanın kaldığı
+   yerden devam etmesi bekleniyor; şu an bu çalışmıyor. `src/game.ts`
+   içindeki ilerleme kaydetme/yükleme mantığına bakılmalı.
