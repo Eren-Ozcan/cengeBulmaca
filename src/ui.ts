@@ -958,11 +958,14 @@ export class App {
 
     if (!tutorialSeen() && !s.completed) wrap.appendChild(this.renderTutorialCoach());
 
-    wrap.appendChild(this.renderGrid());
+    const gridWrap = el("div", "grid-wrap");
+    gridWrap.appendChild(this.renderGrid());
+    wrap.appendChild(gridWrap);
     wrap.appendChild(this.renderPanel());
     wrap.appendChild(this.renderKeyboard());
     this.root.appendChild(wrap);
 
+    this.sizeGrid();
     this.fitClueTexts();
 
     if (s.completed) this.showCompleted();
@@ -990,6 +993,28 @@ export class App {
     body.appendChild(dismiss);
     coach.appendChild(body);
     return coach;
+  }
+
+  /**
+   * .grid-wrap'in gerçekte sahip olduğu boş alana (klavye/panel/topbar
+   * çıkarıldıktan sonra kalan gerçek genişlik+yükseklik) göre ızgaranın
+   * genişliğini hesaplar. Her hücre aspect-ratio:1 olduğundan yükseklik
+   * genişlikten otomatik türer; bu yüzden tek değişken doğru genişliği
+   * bulmak. Sabit bir "boşluk payı" tahmin etmek yerine gerçek ölçümü
+   * kullandığından cihaz/duruma göre kutular olabildiğince büyür.
+   */
+  private sizeGrid(): void {
+    const s = this.state;
+    if (!s) return;
+    const wrap = this.root.querySelector<HTMLElement>(".grid-wrap");
+    const grid = this.root.querySelector<HTMLElement>(".grid");
+    if (!wrap || !grid) return;
+    const availW = wrap.clientWidth;
+    const availH = wrap.clientHeight;
+    if (availW <= 0 || availH <= 0) return;
+    const widthForHeight = (availH * s.grid.cols) / s.grid.rows;
+    const width = Math.max(0, Math.min(availW, widthForHeight));
+    grid.style.width = `${width}px`;
   }
 
   /**
@@ -1022,12 +1047,6 @@ export class App {
 
       // ekran genişliği değişmişse kalıntı sabit puntoları sıfırla
       for (const t of texts) t.style.fontSize = "";
-      let size = Math.min(
-        ...texts.map((t) => parseFloat(getComputedStyle(t).fontSize)),
-      );
-      const apply = () => {
-        for (const t of texts) t.style.fontSize = `${size}px`;
-      };
       const overflows = () =>
         texts.some((t) => {
           const part = t.parentElement!;
@@ -1044,17 +1063,27 @@ export class App {
             t.scrollHeight > availH + 0.5 || t.scrollWidth > availW + 0.5
           );
         });
-      apply();
+      const apply = (size: number) => {
+        for (const t of texts) t.style.fontSize = `${size}px`;
+      };
+      // Kutu büyükse CSS'teki (küçük ekran varsayımıyla ayarlanmış) başlangıç
+      // puntosu boşuna küçük kalabiliyordu — bu yüzden hep sabit, yeterince
+      // büyük bir tavandan başlayıp sığana kadar küçültüyoruz. Böylece ızgara
+      // büyüdükçe soru yazısı da gerçekten büyüyor, sadece küçük kutularda
+      // küçülüyor.
+      let size = 22;
+      apply(size);
       while (size > 5 && overflows()) {
         size -= 0.5;
-        apply();
+        apply(size);
       }
       for (const key of keys) this.clueFontCache.set(key, `${size}px`);
     }
   }
 
-  /** Punto önbelleğini boşaltıp yazıları yeniden sığdırır */
+  /** Pencere boyutu değişince ızgara genişliğini ve soru puntolarını tazeler */
   private refitClueTexts(): void {
+    this.sizeGrid();
     this.clueFontCache.clear();
     this.clueFontWidth = 0;
     this.fitClueTexts();

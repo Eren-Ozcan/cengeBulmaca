@@ -568,8 +568,9 @@ button {
 /* ---------- cevap paneli ---------- */
 
 .panel {
-  /* ızgara ile arasında kalan boşluğu yutup klavyeye yaslanır */
-  margin: auto 12px 0;
+  /* ızgara artık kendi kalan alanını dolduruyor (.grid-wrap flex: 1),
+     bu yüzden panel hemen altında sabit küçük bir boşlukla oturur */
+  margin: 10px 12px 0;
   padding: 10px 8px 12px;
   background: linear-gradient(120deg, var(--hero-a), var(--hero-b));
   color: var(--accent-ink);
@@ -678,20 +679,37 @@ button {
 
 /* ---------- ızgara ---------- */
 
-/* Bitişik hücreler, ince çizgiler: basılı bulmaca görünümü */
+/* .grid'in gerçekte ne kadar dikey alanı olduğunu (topbar/panel/klavye
+   yüksekliği cihaza ve içeriğe göre değiştiği için) sabit bir sayıyla
+   tahmin etmek yerine, kalan flex alanının tamamını bu sarmalayıcıya
+   verip ızgarayı içine ortalıyoruz. */
+.grid-wrap {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 12px;
+}
+
+/* Bitişik hücreler, ince çizgiler: basılı bulmaca görünümü.
+   Her .cell'in aspect-ratio:1 olması, satır yüksekliğinin sütun genişliğini
+   otomatik takip ettiği anlamına gelir — yani ızgaranın toplam yüksekliği
+   genişliğinden türer. Bu yüzden tek yapılması gereken, .grid-wrap'teki
+   gerçek boş alana (hem genişlik hem yükseklik) göre doğru genişliği
+   JS'te hesaplayıp vermek (bkz. App.sizeGrid); max-width burada sadece
+   güvenlik payı. */
 .grid {
   display: grid;
   grid-template-columns: repeat(var(--cols), 1fr);
   gap: 1px;
-  margin: 0 12px;
   padding: 2px;
   border-radius: 10px;
   background: var(--grid-line);
   border: 1px solid var(--grid-line);
   overflow: hidden;
-  align-self: center;
-  width: calc(100% - 24px);
-  max-width: min(100%, calc((100dvh - 390px) * var(--cols) / var(--rows)));
+  max-width: 100%;
+  container-type: inline-size;
 }
 
 .cell {
@@ -706,7 +724,10 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: clamp(14px, 4.5vw, 26px);
+  /* cqw: .grid'in kendi genişliğinin yüzdesi, viewport'un değil —
+     ızgara artık dikey alana göre büyüyebildiği için harf boyutu da
+     gerçek hücre boyutunu takip etsin diye vw yerine bunu kullanıyoruz. */
+  font-size: clamp(16px, 9cqw, 38px);
   font-weight: 900;
   cursor: pointer;
   transition: background 0.1s ease;
@@ -854,15 +875,15 @@ button {
 }
 
 .clue-md {
-  font-size: clamp(8.5px, 2.4vw, 13px);
+  font-size: clamp(8.5px, 5cqw, 22px);
 }
 
 .clue-sm {
-  font-size: clamp(7.5px, 2.05vw, 11px);
+  font-size: clamp(7.5px, 4.2cqw, 18px);
 }
 
 .clue-xs {
-  font-size: clamp(6.5px, 1.75vw, 9.5px);
+  font-size: clamp(6.5px, 3.4cqw, 15px);
 }
 
 /* Ok, sorunun değil cevabın ilk hücresinde durur: girdiği kenarda,
