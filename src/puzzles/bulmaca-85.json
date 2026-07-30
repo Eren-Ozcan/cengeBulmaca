@@ -1,6 +1,6 @@
 {
   "id": "bulmaca-85",
-  "title": "Bulmaca 85",
+  "title": "Bulmaca 30",
   "rows": 12,
   "cols": 9,
   "clues": [
@@ -299,5 +299,6 @@
       "col": 4
     }
   ],
-  "difficulty": "kolay"
+  "difficulty": "kolay",
+  "order": 30
 }
