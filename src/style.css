@@ -523,6 +523,16 @@ button {
   color: var(--ok);
 }
 
+.chapter-next {
+  border-color: color-mix(in srgb, var(--accent) 45%, transparent);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 25%, transparent), var(--shadow);
+}
+
+.chip-next {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
 .puzzle-progress {
   height: 5px;
   border-radius: 999px;
