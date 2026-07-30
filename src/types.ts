@@ -36,6 +36,9 @@ export interface PuzzleDef {
   blocks?: { row: number; col: number }[];
   /** Zorluk etiketi; verilmezse listede gösterilmez */
   difficulty?: Difficulty;
+  /** Oyuncuya gösterilme sırası (kolaydan zora doğru kademeli zorluk için).
+   * Verilmezse dosya adındaki numara kullanılır — bkz. puzzles/index.ts. */
+  order?: number;
 }
 
 /** Cevabın yerleştiği hücreler: başlangıç konumu ve ilerleme yönü */
