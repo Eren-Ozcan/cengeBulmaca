@@ -46,6 +46,7 @@ import {
   catUnlocked,
   catUnlockedAt,
   nextLockedCat,
+  regionDative,
   type CatDef,
 } from "./cats.ts";
 import { catAvatar, catFullBody } from "./cat-avatar.ts";
@@ -313,6 +314,28 @@ export class App {
     top.appendChild(right);
     home.appendChild(top);
 
+    // Duman karşılaması: saatlik selamlama + yolculuk durumu
+    const solvedForGreet = solvedCount();
+    const greet = el("button", "duman-greet");
+    const greetAvatar = el("div", "cat-avatar-wrap duman-greet-avatar");
+    greetAvatar.innerHTML = catAvatar(DUMAN, false);
+    greet.appendChild(greetAvatar);
+    const greetText = el("div", "duman-greet-text");
+    greetText.appendChild(el("div", "duman-greet-hello", `${timeGreeting()} 👋`));
+    const greetNextCat = nextLockedCat(solvedForGreet);
+    greetText.appendChild(
+      el(
+        "div",
+        "duman-greet-sub",
+        greetNextCat
+          ? `Duman şu an ${regionDative(greetNextCat.region)} doğru yol alıyor 🐾`
+          : "Duman Anadolu'nun her köşesinde bir dost buldu 🎉",
+      ),
+    );
+    greet.appendChild(greetText);
+    greet.addEventListener("click", () => this.renderCollection());
+    home.appendChild(greet);
+
     // günün bulmacası kartı
     const di = dailyIndex(this.puzzles.length);
     const daily = this.puzzles[di];
@@ -366,7 +389,7 @@ export class App {
     home.appendChild(statRow);
 
     // kedi koleksiyonu teaser kartı
-    const solved = solvedCount();
+    const solved = solvedForGreet;
     const collected = CATS.filter((c) => catUnlocked(c, solved)).length;
     const catsCard = el("button", "cats-teaser");
     const preview = el("div", "cats-teaser-preview");
@@ -1444,6 +1467,15 @@ function makeConfetti(count = 42): HTMLElement {
 
 function capitalizeTr(s: string): string {
   return s.charAt(0).toLocaleUpperCase("tr-TR") + s.slice(1);
+}
+
+/** Saate göre Türkçe selamlama (ana menüdeki Duman karşılamasında kullanılır). */
+function timeGreeting(): string {
+  const h = new Date().getHours();
+  if (h >= 5 && h < 11) return "Günaydın";
+  if (h >= 11 && h < 18) return "İyi günler";
+  if (h >= 18 && h < 23) return "İyi akşamlar";
+  return "İyi geceler";
 }
 
 function sizeClass(text: string): string {

@@ -167,6 +167,33 @@ export const CATS: CatDef[] = [
   },
 ];
 
+/** Bölge adlarının yönelme hâli ("-a/-e doğru" cümleleri için). Türkçe ünlü
+ * uyumu/yardımcı ünsüz kuralları genel bir algoritmayla üretilmedi — sabit
+ * bölge listesi küçük olduğu için elle, hatasız bir tablo tutmak daha
+ * güvenli. */
+const REGION_DATIVE: Record<string, string> = {
+  İstanbul: "İstanbul'a",
+  Van: "Van'a",
+  Ankara: "Ankara'ya",
+  İzmir: "İzmir'e",
+  Antalya: "Antalya'ya",
+  Trabzon: "Trabzon'a",
+  Kapadokya: "Kapadokya'ya",
+  Şanlıurfa: "Şanlıurfa'ya",
+  Bursa: "Bursa'ya",
+  Konya: "Konya'ya",
+  Rize: "Rize'ye",
+  Mardin: "Mardin'e",
+  Çanakkale: "Çanakkale'ye",
+  Gaziantep: "Gaziantep'e",
+  Erzurum: "Erzurum'a",
+  Sinop: "Sinop'a",
+};
+
+export function regionDative(region: string): string {
+  return REGION_DATIVE[region] ?? `${region}'a`;
+}
+
 /** solved kadar bulmaca çözmüş bir oyuncuda bu kedi açık mı? */
 export function catUnlocked(cat: CatDef, solved: number): boolean {
   return solved >= cat.unlockAt;
