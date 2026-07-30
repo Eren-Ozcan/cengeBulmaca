@@ -96,9 +96,10 @@ uyumlu:
 - `.modal-cat-next` — tamamlama modalında "sıradaki kediye N bulmaca" satırı
 - `.intro-screen` — hikaye anlatım ekranı
 - `.map-canvas` / `.map-outline` / `.map-pin` — Anadolu haritası ekranı;
-  ada silüeti gerçek sınır verisi değil, elle çizilmiş stilize bir şekil
-  (harici veri/telif riski yok, bkz. `src/turkey-map.ts`). Bölge konumları
-  gerçek enlem/boylamdan ölçeklenmiş ama coğrafi olarak kesin değil.
+  silüet kamu malı (CC0) ülke sınırı verisinden (`uyasarkocal/borders-of-turkey`)
+  sadeleştirilerek üretildi ve sabit bir SVG path olarak gömüldü (çalışma
+  zamanında harici veri çekilmiyor, bkz. `src/turkey-map.ts`). Bölge
+  pimleri gerçek şehir enlem/boylamından aynı projeksiyonla hesaplandı.
 
 (`.puzzle-cat-badge` kaldırıldı: kediler bulmaca-başına değil, toplam çözüm
 sayısına göre açıldığı için bulmaca listesinde kedi rozeti artık yok.)
