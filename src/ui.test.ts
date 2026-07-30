@@ -70,6 +70,13 @@ function solveTinyPuzzle(root: HTMLElement): void {
   typeWord(root, "AT");
 }
 
+/** Ana menüden bölüme girip içindeki n'inci bulmacayı açar (testlerde
+ * kullanılan az sayıda bulmaca hep ilk bölüme sığar). */
+function openPuzzleCard(root: HTMLElement, index = 0): void {
+  clickNth(root, ".chapter-card", 0);
+  clickNth(root, ".puzzle-card", index);
+}
+
 beforeEach(() => {
   storage.clear();
 });
@@ -93,6 +100,8 @@ describe("hikaye intro", () => {
     newApp(root, [PUZZLE_A, PUZZLE_B]).start();
 
     expect(root.querySelector(".intro-screen")).toBeFalsy();
+    expect(root.querySelectorAll(".chapter-card").length).toBe(1);
+    clickNth(root, ".chapter-card", 0);
     expect(root.querySelectorAll(".puzzle-card").length).toBe(2);
   });
 });
@@ -103,7 +112,7 @@ describe("bulmaca çözme akışı", () => {
     const root = freshRoot();
     newApp(root, [PUZZLE_A]).start();
 
-    clickNth(root, ".puzzle-card", 0);
+    openPuzzleCard(root, 0);
     solveTinyPuzzle(root);
 
     const modal = root.querySelector(".modal");
@@ -116,6 +125,7 @@ describe("bulmaca çözme akışı", () => {
 
     clickWithText(root, ".modal-btn", "Ana menüye dön");
     expect(root.querySelector(".home")).toBeTruthy();
+    clickNth(root, ".chapter-card", 0);
     expect(root.querySelectorAll(".puzzle-card")[0].querySelector(".puzzle-num")).toHaveProperty(
       "className",
       "puzzle-num solved",
@@ -127,11 +137,11 @@ describe("bulmaca çözme akışı", () => {
     const root = freshRoot();
     newApp(root, [PUZZLE_A, PUZZLE_B]).start();
 
-    clickNth(root, ".puzzle-card", 0);
+    openPuzzleCard(root, 0);
     solveTinyPuzzle(root);
     clickWithText(root, ".modal-btn", "Ana menüye dön");
 
-    clickNth(root, ".puzzle-card", 1);
+    openPuzzleCard(root, 1);
     solveTinyPuzzle(root);
 
     // CATS[0] (Pamuk) unlockAt: 2 — bu ikinci farklı çözümle tam eşleşir
@@ -146,7 +156,7 @@ describe("ipucu, joker ve reklam", () => {
     storage.setItem("cengel-story-seen", "1");
     const root = freshRoot();
     newApp(root, [PUZZLE_A]).start();
-    clickNth(root, ".puzzle-card", 0);
+    openPuzzleCard(root, 0);
 
     for (let i = 0; i < 3; i++) {
       clickWithText(root, ".action-btn", `İpucu (${3 - i})`);
@@ -163,7 +173,7 @@ describe("ipucu, joker ve reklam", () => {
     storage.setItem("cengel-jokers", "0");
     const root = freshRoot();
     newApp(root, [PUZZLE_A]).start();
-    clickNth(root, ".puzzle-card", 0);
+    openPuzzleCard(root, 0);
 
     for (let i = 0; i < 3; i++) {
       clickWithText(root, ".action-btn", `İpucu (${3 - i})`);
@@ -258,7 +268,7 @@ describe("ilk bulmaca rehberi (tutorial)", () => {
     const root = freshRoot();
     newApp(root, [PUZZLE_A]).start();
 
-    clickNth(root, ".puzzle-card", 0);
+    openPuzzleCard(root, 0);
     expect(root.querySelector(".tutorial-coach")).toBeTruthy();
 
     clickWithText(root, ".kb-key", "B");
@@ -268,7 +278,7 @@ describe("ilk bulmaca rehberi (tutorial)", () => {
     // bir sonraki açılışta bile tekrar gösterilmez
     const back = root.querySelector<HTMLElement>(".icon-btn")!;
     back.click();
-    clickNth(root, ".puzzle-card", 0);
+    openPuzzleCard(root, 0);
     expect(root.querySelector(".tutorial-coach")).toBeFalsy();
   });
 
@@ -277,7 +287,7 @@ describe("ilk bulmaca rehberi (tutorial)", () => {
     const root = freshRoot();
     newApp(root, [PUZZLE_A]).start();
 
-    clickNth(root, ".puzzle-card", 0);
+    openPuzzleCard(root, 0);
     clickWithText(root, ".tutorial-coach-btn", "Anladım, başlıyorum!");
 
     expect(root.querySelector(".tutorial-coach")).toBeFalsy();
@@ -296,7 +306,7 @@ describe("kedi açılma joker ödülü", () => {
     newApp(root, [PUZZLE_A]).start();
 
     const before = Number(storage.getItem("cengel-jokers") ?? "5");
-    clickNth(root, ".puzzle-card", 0);
+    openPuzzleCard(root, 0);
     solveTinyPuzzle(root);
 
     const modal = root.querySelector(".modal")!;

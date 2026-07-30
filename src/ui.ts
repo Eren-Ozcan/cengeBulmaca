@@ -93,6 +93,12 @@ const SPLASH_FLAVORS = [
 const SPLASH_DURATION_MS = 1700;
 const SPLASH_FLAVOR_INTERVAL_MS = 500;
 
+/** Bulmaca listesi bu boyutta bölümlere ayrılır (ör. 1-25, 26-50, ...) —
+ * yüzlerce bulmaca olduğunda ana ekranda tek uzun bir liste yerine kısa
+ * bir bölüm listesi gösterilir, oyuncu her seferinde kaldığı yere kadar
+ * kaydırmak zorunda kalmaz. */
+const CHAPTER_SIZE = 25;
+
 export interface AppOptions {
   /** Testlerde zaman aşımına dayalı açılış ekranını atlamak için. */
   skipSplash?: boolean;
@@ -415,14 +421,92 @@ export class App {
     catsCard.addEventListener("click", () => this.renderCollection());
     home.appendChild(catsCard);
 
-    // bulmaca listesi
-    home.appendChild(el("div", "section-title", "Tüm Bulmacalar"));
+    // bulmaca bölümleri
+    home.appendChild(el("div", "section-title", "Bulmacalar"));
+    const chapterList = el("div", "puzzle-list");
+    const chapterCount = Math.ceil(this.puzzles.length / CHAPTER_SIZE);
+    const nextChapter = this.nextChapterIndex();
+    for (let c = 0; c < chapterCount; c++) {
+      const start = c * CHAPTER_SIZE;
+      const end = Math.min(start + CHAPTER_SIZE, this.puzzles.length);
+      const chunk = this.puzzles.slice(start, end);
+      const solvedInChunk = chunk.filter((p) => isSolvedPuzzle(p.id)).length;
+      const isNext = c === nextChapter;
+      const btn = el(
+        "button",
+        "puzzle-card chapter-card" + (isNext ? " chapter-next" : ""),
+      );
+      btn.style.setProperty("--i", String(c));
+      const num = el(
+        "div",
+        "puzzle-num" + (solvedInChunk === chunk.length ? " solved" : ""),
+        String(c + 1),
+      );
+      btn.appendChild(num);
+      const info = el("div", "puzzle-info");
+      const titleRow = el("div", "puzzle-title-row");
+      titleRow.appendChild(
+        el("span", "puzzle-title", `${start + 1}–${end}. Bulmacalar`),
+      );
+      if (isNext) titleRow.appendChild(el("span", "diff-chip chip-next", "SIRADA"));
+      info.appendChild(titleRow);
+      info.appendChild(
+        el("div", "puzzle-sub", `${solvedInChunk}/${chunk.length} çözüldü`),
+      );
+      const prog = solvedInChunk / chunk.length;
+      if (prog > 0) {
+        const bar = el("div", "puzzle-progress");
+        const fill = el("div", "puzzle-progress-fill");
+        fill.style.width = `${Math.max(4, Math.round(prog * 100))}%`;
+        bar.appendChild(fill);
+        info.appendChild(bar);
+      }
+      btn.appendChild(info);
+      btn.appendChild(
+        el(
+          "div",
+          "puzzle-badge" + (solvedInChunk === chunk.length ? " solved" : ""),
+          solvedInChunk === chunk.length ? "✓" : "›",
+        ),
+      );
+      btn.addEventListener("click", () => this.renderChapter(c));
+      chapterList.appendChild(btn);
+    }
+    home.appendChild(chapterList);
+
+    this.root.appendChild(home);
+    this.root.appendChild(this.renderBottomNav("home"));
+  }
+
+  /** Henüz tamamlanmamış bulmacası olan ilk bölümün indeksi (hepsi bittiyse son bölüm). */
+  private nextChapterIndex(): number {
+    const firstUnsolved = this.puzzles.findIndex((p) => !isSolvedPuzzle(p.id));
+    const idx = firstUnsolved === -1 ? this.puzzles.length - 1 : firstUnsolved;
+    return Math.floor(idx / CHAPTER_SIZE);
+  }
+
+  /** Bir bölümdeki bulmacaları (mevcut kart tasarımıyla) listeler. */
+  private renderChapter(chapterIndex: number): void {
+    this.root.innerHTML = "";
+    const wrap = el("div", "home");
+
+    const bar = el("div", "topbar");
+    const back = el("button", "icon-btn");
+    back.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18 L9 12 L15 6"/></svg>`;
+    back.setAttribute("aria-label", "Bölümler");
+    back.addEventListener("click", () => this.renderHome());
+    bar.appendChild(back);
+    const start = chapterIndex * CHAPTER_SIZE;
+    const end = Math.min(start + CHAPTER_SIZE, this.puzzles.length);
+    bar.appendChild(el("div", "topbar-title", `${start + 1}–${end}. Bulmacalar`));
+    wrap.appendChild(bar);
+
     const list = el("div", "puzzle-list");
-    this.puzzles.forEach((p, i) => {
+    this.puzzles.slice(start, end).forEach((p, i) => {
       const solved = isSolvedPuzzle(p.id);
       const btn = el("button", "puzzle-card");
       btn.style.setProperty("--i", String(i));
-      const num = el("div", "puzzle-num", String(i + 1));
+      const num = el("div", "puzzle-num", String(start + i + 1));
       if (solved) num.classList.add("solved");
       btn.appendChild(num);
       const info = el("div", "puzzle-info");
@@ -439,11 +523,11 @@ export class App {
       );
       const prog = solved ? 0 : savedProgress(p);
       if (prog > 0) {
-        const bar = el("div", "puzzle-progress");
+        const progBar = el("div", "puzzle-progress");
         const fill = el("div", "puzzle-progress-fill");
         fill.style.width = `${Math.max(4, Math.round(prog * 100))}%`;
-        bar.appendChild(fill);
-        info.appendChild(bar);
+        progBar.appendChild(fill);
+        info.appendChild(progBar);
       }
       btn.appendChild(info);
       btn.appendChild(
@@ -452,9 +536,9 @@ export class App {
       btn.addEventListener("click", () => this.openPuzzle(p));
       list.appendChild(btn);
     });
-    home.appendChild(list);
+    wrap.appendChild(list);
 
-    this.root.appendChild(home);
+    this.root.appendChild(wrap);
     this.root.appendChild(this.renderBottomNav("home"));
   }
 
