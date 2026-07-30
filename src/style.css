@@ -1368,7 +1368,7 @@ button {
 .map-canvas {
   position: relative;
   width: 100%;
-  aspect-ratio: 196 / 92;
+  aspect-ratio: 196 / 89;
   background: var(--surface);
   border: 1px solid var(--tile-border);
   border-radius: var(--radius);
