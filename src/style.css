@@ -137,15 +137,19 @@ button {
 }
 
 .home > *:nth-child(3) {
-  animation-delay: 100ms;
+  animation-delay: 90ms;
 }
 
 .home > *:nth-child(4) {
-  animation-delay: 140ms;
+  animation-delay: 130ms;
 }
 
 .home > *:nth-child(5) {
   animation-delay: 170ms;
+}
+
+.home > *:nth-child(6) {
+  animation-delay: 200ms;
 }
 
 .home-top {
@@ -214,6 +218,50 @@ button {
 
 .streak-count {
   font-size: 1rem;
+}
+
+/* Duman karşılaması */
+
+.duman-greet {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--surface);
+  border: 1px solid var(--tile-border);
+  border-radius: var(--radius);
+  padding: 10px 14px;
+  box-shadow: var(--shadow);
+  text-align: left;
+  transition: transform 0.12s ease;
+}
+
+.duman-greet:active {
+  transform: scale(0.98);
+}
+
+.duman-greet-avatar {
+  width: 52px;
+  height: 52px;
+  flex-shrink: 0;
+}
+
+.duman-greet-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.duman-greet-hello {
+  font-weight: 800;
+  font-size: 0.95rem;
+}
+
+.duman-greet-sub {
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+  margin-top: 2px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 /* günün bulmacası */
@@ -383,7 +431,7 @@ button {
   text-align: left;
   transition: transform 0.12s ease;
   animation: rise-in 0.35s cubic-bezier(0.2, 0.7, 0.3, 1) both;
-  animation-delay: calc(180ms + var(--i, 0) * 35ms);
+  animation-delay: calc(220ms + var(--i, 0) * 35ms);
 }
 
 .puzzle-card:active {
@@ -1973,6 +2021,7 @@ button {
 :root[data-theme="gazete"] .streak-chip,
 :root[data-theme="gazete"] .stat-card,
 :root[data-theme="gazete"] .puzzle-card,
+:root[data-theme="gazete"] .duman-greet,
 :root[data-theme="gazete"] .cats-teaser,
 :root[data-theme="gazete"] .cat-card,
 :root[data-theme="gazete"] .joker-pill,
