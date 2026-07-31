@@ -38,6 +38,7 @@ import {
 } from "./billing.ts";
 import { musicEnabled, toggleMusic } from "./music.ts";
 import { currentTheme, toggleTheme } from "./theme.ts";
+import { ensureLoaded, isLoaded } from "./puzzles/index.ts";
 import type { ArrowDir, PuzzleDef } from "./types.ts";
 import {
   CATS,
@@ -850,6 +851,12 @@ export class App {
   }
 
   private openPuzzle(p: PuzzleDef): void {
+    if (!isLoaded(p)) {
+      // İçerik henüz arka planda indirilmedi (bkz. puzzles/index.ts
+      // warmPuzzles); indirilince aynı bulmacayı tekrar açmayı dener.
+      void ensureLoaded(p).then(() => this.openPuzzle(p));
+      return;
+    }
     this.state = newGame(p);
     this.clueFontCache.clear();
     // kaldığı ipucu/hücre kayıttan geldiyse onu korur; yoksa (ör. ilk açılış)

@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import { buildGrid, trUpper } from "./puzzle.ts";
-import { puzzles } from "./puzzles/index.ts";
+import { allPuzzles as puzzles } from "./puzzles/all.ts";
 import type { PuzzleDef } from "./types.ts";
 
 // 3x3 asgari geçerli bulmaca: bir yatay, bir dikey soru, (1,1)'de kesişim.

@@ -1,24 +1,83 @@
 import type { PuzzleDef } from "../types.ts";
+import manifestData from "./manifest.json";
 
-// bulmaca-N.json dosyalarının tamamını otomatik yükler (elle 300 import
-// satırı yazmak yerine). Oyuncuya gösterilme sırası her dosyanın kendi
-// "order" alanına göredir (kademeli zorluk için: önce tüm kolaylar, sonra
-// ortalar, sonra zorlar) — dosya adındaki N ile aynı olmak zorunda değil.
-// order eksikse (ör. elle eklenmiş yeni bir bulmaca) dosya adındaki
-// numaraya düşülür.
-const modules = import.meta.glob("./bulmaca-*.json", {
-  eager: true,
+interface ManifestEntry {
+  id: string;
+  title: string;
+  rows: number;
+  cols: number;
+  difficulty?: "kolay" | "orta" | "zor";
+  order: number;
+  file: string;
+}
+
+const manifest = manifestData as ManifestEntry[];
+
+// bulmaca-N.json dosyalarının tamamına dinamik (lazy) erişim: her biri
+// açılışta değil, gerektiğinde (bkz. ensureLoaded) kendi chunk'ından yüklenir.
+// Ana JS bundle'ının 300 bulmacanın tüm soru/cevap verisini baştan içermesini
+// engelleyerek başlangıç yükünü küçültür.
+const fileLoaders = import.meta.glob("./bulmaca-*.json", {
   import: "default",
-}) as Record<string, PuzzleDef>;
+}) as Record<string, () => Promise<PuzzleDef>>;
 
-function puzzleNumber(path: string): number {
-  return Number(/bulmaca-(\d+)\.json$/.exec(path)?.[1] ?? 0);
+/**
+ * Görüntüleme sırasına göre (manifest'teki "order" alanı) dizilmiş bulmaca
+ * listesi. clues/blocks alanları başlangıçta boş yer tutucudur; gerçek
+ * içerik ensureLoaded/warmPuzzles ile arka planda doldurulur (bkz. ui.ts
+ * openPuzzle — isLoaded false ise ensureLoaded bekleyip tekrar dener).
+ */
+export const puzzles: PuzzleDef[] = manifest
+  .slice()
+  .sort((a, b) => a.order - b.order)
+  .map((e) => ({
+    id: e.id,
+    title: e.title,
+    rows: e.rows,
+    cols: e.cols,
+    difficulty: e.difficulty,
+    order: e.order,
+    clues: [],
+  }));
+
+const fileById = new Map(manifest.map((e) => [e.id, e.file]));
+const pending = new Map<string, Promise<void>>();
+
+function fill(p: PuzzleDef): Promise<void> {
+  if (p.clues.length > 0) return Promise.resolve();
+  const file = fileById.get(p.id);
+  if (!file) return Promise.resolve();
+  let job = pending.get(p.id);
+  if (!job) {
+    job = fileLoaders[file]().then((full) => {
+      Object.assign(p, full);
+    });
+    pending.set(p.id, job);
+  }
+  return job;
 }
 
-function displayOrder(path: string, p: PuzzleDef): number {
-  return p.order ?? puzzleNumber(path);
+/** Bulmacanın tam içeriği (clues/blocks) zaten yüklendi mi? */
+export function isLoaded(p: PuzzleDef): boolean {
+  return p.clues.length > 0;
 }
 
-export const puzzles: PuzzleDef[] = Object.keys(modules)
-  .sort((a, b) => displayOrder(a, modules[a]) - displayOrder(b, modules[b]))
-  .map((path) => modules[path]);
+/** Yer tutucu bir bulmacanın tam içeriğini indirir; zaten yüklüyse no-op. */
+export function ensureLoaded(p: PuzzleDef): Promise<void> {
+  return fill(p);
+}
+
+const EAGER_COUNT = 20;
+
+/**
+ * Uygulama açılışında ilk EAGER_COUNT bulmacayı (+ günün bulmacasını, öne
+ * çıkan karttan hemen açılabilsin diye) hazır hale getirir ve bu tamamlanınca
+ * kalan bulmacaları arka planda (bloklamadan) indirmeye başlar.
+ */
+export function warmPuzzles(dailyIndex: number): Promise<void> {
+  const eagerSet = new Set(puzzles.slice(0, EAGER_COUNT));
+  if (puzzles[dailyIndex]) eagerSet.add(puzzles[dailyIndex]);
+  return Promise.all([...eagerSet].map(fill)).then(() => {
+    void Promise.all(puzzles.filter((p) => !eagerSet.has(p)).map(fill));
+  });
+}
