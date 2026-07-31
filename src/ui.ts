@@ -1047,11 +1047,6 @@ export class App {
           }
         });
     });
-    const soundBtn = el("button", "icon-btn sound-btn", soundEnabled() ? "🔊" : "🔇");
-    soundBtn.setAttribute("aria-label", "Sesi aç/kapat");
-    soundBtn.addEventListener("click", () => {
-      soundBtn.textContent = toggleSound() ? "🔊" : "🔇";
-    });
     actions.appendChild(checkBtn);
     actions.appendChild(revealBtn);
     if (freeHints === 0 && jokers === 0) {
@@ -1059,7 +1054,6 @@ export class App {
       shopChip.addEventListener("click", () => this.renderShop());
       actions.appendChild(shopChip);
     }
-    actions.appendChild(soundBtn);
     bar.appendChild(actions);
     wrap.appendChild(bar);
 

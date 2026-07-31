@@ -606,10 +606,6 @@ button {
   height: 20px;
 }
 
-.sound-btn {
-  font-size: 0.95rem;
-}
-
 .action-btn {
   background: var(--surface);
   border: 1px solid var(--tile-border);
