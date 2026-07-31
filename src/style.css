@@ -523,6 +523,20 @@ button {
   color: var(--ok);
 }
 
+.puzzle-card.locked {
+  cursor: default;
+}
+
+.puzzle-card.locked .puzzle-title,
+.puzzle-card.locked .puzzle-sub {
+  opacity: 0.55;
+}
+
+.puzzle-badge.locked {
+  font-size: 1.1rem;
+  opacity: 0.55;
+}
+
 .chapter-next {
   border-color: color-mix(in srgb, var(--accent) 45%, transparent);
   box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 25%, transparent), var(--shadow);
