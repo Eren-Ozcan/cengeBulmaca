@@ -479,10 +479,23 @@ export class App {
     this.root.appendChild(this.renderBottomNav("home"));
   }
 
+  /** Çözülmemiş ilk bulmacanın global indeksi (hepsi çözüldüyse puzzles.length). */
+  private firstUnsolvedIndex(): number {
+    const idx = this.puzzles.findIndex((p) => !isSolvedPuzzle(p.id));
+    return idx === -1 ? this.puzzles.length : idx;
+  }
+
+  /**
+   * Bulmacalar sırayla açılır: bir önceki çözülmeden bu bulmaca oynanamaz.
+   * Günün Bulmacası kartı (renderHome) bu kısıtlamadan bilerek muaf tutulur.
+   */
+  private isLocked(globalIndex: number): boolean {
+    return globalIndex > this.firstUnsolvedIndex();
+  }
+
   /** Henüz tamamlanmamış bulmacası olan ilk bölümün indeksi (hepsi bittiyse son bölüm). */
   private nextChapterIndex(): number {
-    const firstUnsolved = this.puzzles.findIndex((p) => !isSolvedPuzzle(p.id));
-    const idx = firstUnsolved === -1 ? this.puzzles.length - 1 : firstUnsolved;
+    const idx = Math.min(this.firstUnsolvedIndex(), this.puzzles.length - 1);
     return Math.floor(idx / CHAPTER_SIZE);
   }
 
@@ -504,10 +517,12 @@ export class App {
 
     const list = el("div", "puzzle-list");
     this.puzzles.slice(start, end).forEach((p, i) => {
+      const gi = start + i;
       const solved = isSolvedPuzzle(p.id);
-      const btn = el("button", "puzzle-card");
+      const locked = !solved && this.isLocked(gi);
+      const btn = el("button", "puzzle-card" + (locked ? " locked" : ""));
       btn.style.setProperty("--i", String(i));
-      const num = el("div", "puzzle-num", String(start + i + 1));
+      const num = el("div", "puzzle-num", String(gi + 1));
       if (solved) num.classList.add("solved");
       btn.appendChild(num);
       const info = el("div", "puzzle-info");
@@ -532,9 +547,16 @@ export class App {
       }
       btn.appendChild(info);
       btn.appendChild(
-        el("div", "puzzle-badge" + (solved ? " solved" : ""), solved ? "✓" : "›"),
+        el(
+          "div",
+          "puzzle-badge" + (solved ? " solved" : locked ? " locked" : ""),
+          solved ? "✓" : locked ? "🔒" : "›",
+        ),
       );
-      btn.addEventListener("click", () => this.openPuzzle(p));
+      btn.addEventListener("click", () => {
+        if (locked) toast(this.root, "Önce sıradaki bulmacayı çözmelisin");
+        else this.openPuzzle(p);
+      });
       list.appendChild(btn);
     });
     wrap.appendChild(list);
