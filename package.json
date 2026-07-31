@@ -8,6 +8,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "gen": "node tools/generate.mjs",
+    "puzzles:manifest": "node tools/generate-puzzle-manifest.mjs",
     "icons": "node tools/generate-icons.mjs",
     "cats:clean": "node tools/process-cat-images.mjs",
     "test": "vitest run",
