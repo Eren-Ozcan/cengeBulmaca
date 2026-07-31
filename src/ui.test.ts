@@ -151,6 +151,32 @@ describe("bulmaca çözme akışı", () => {
   });
 });
 
+describe("sıralı bulmaca kilidi", () => {
+  it("bir önceki bulmaca çözülmeden sıradaki açılmaz, çözülünce kilidi kalkar", () => {
+    storage.setItem("cengel-story-seen", "1");
+    const root = freshRoot();
+    newApp(root, [PUZZLE_A, PUZZLE_B]).start();
+
+    clickNth(root, ".chapter-card", 0);
+    const cardB = root.querySelectorAll<HTMLElement>(".puzzle-card")[1];
+    expect(cardB.classList.contains("locked")).toBe(true);
+
+    cardB.click();
+    expect(root.querySelector(".toast")?.textContent).toContain("sıradaki bulmacayı çözmelisin");
+    expect(root.querySelector(".kb-key")).toBeFalsy();
+
+    clickNth(root, ".puzzle-card", 0);
+    solveTinyPuzzle(root);
+    clickWithText(root, ".modal-btn", "Ana menüye dön");
+
+    clickNth(root, ".chapter-card", 0);
+    const cardBAfter = root.querySelectorAll<HTMLElement>(".puzzle-card")[1];
+    expect(cardBAfter.classList.contains("locked")).toBe(false);
+    cardBAfter.click();
+    expect(root.querySelectorAll(".kb-key").length).toBeGreaterThan(0);
+  });
+});
+
 describe("ipucu, joker ve reklam", () => {
   it("günlük ücretsiz ipucu bitince joker harcanır", () => {
     storage.setItem("cengel-story-seen", "1");
