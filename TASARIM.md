@@ -1,133 +1,133 @@
-# Tasarım / Görsel Varlık Kontrol Listesi
+# Design / Visual Asset Checklist
 
-Kedi temalı içerik güncellemesiyle birlikte eklenen ve ileride
-güçlendirilebilecek görsel öğelerin listesi. Açık (unlock edilmiş) kediler
-artık Gemini ile üretilip `tools/process-cat-images.mjs` ile temizlenmiş
-gerçek portre görselleriyle gösteriliyor (`public/cats/*.png`, bkz.
-`cat-avatar.ts`). Kilitli kediler hâlâ elle çizilmiş, jenerik (kedi-bağımsız)
-bir parametrik SVG siluetiyle gösteriliyor — kimlik ifşa etmiyor ve harici
-görsel/telif riski taşımıyor. Uygulama ikonu/favicon de aynı şekilde Gemini
-ile üretilip yerelde işlenmiş bir Duman portresine dayanıyor (bkz. "Uygulama
-ikonu / marka varlıkları").
+A list of the visual elements added with the cat-themed content update, plus
+ones that could be strengthened later. Unlocked cats are now shown with real
+portrait images generated with Gemini and cleaned up via
+`tools/process-cat-images.mjs` (`public/cats/*.png`, see `cat-avatar.ts`).
+Locked cats are still shown with a hand-drawn, generic (cat-agnostic)
+parametric SVG silhouette — it reveals no identity and carries no external
+asset/copyright risk. The app icon/favicon is likewise based on a Duman
+portrait generated with Gemini and processed locally (see "App icon / brand
+assets").
 
-## Karakterler
+## Characters
 
-| Karakter | Bölge | Durum | Not |
+| Character | Region | Status | Note |
 |---|---|---|---|
-| Duman (rehber) | İstanbul | ✅ Gerçek portre (PNG) | App icon/favicon de Duman'ın Gemini ile üretilip elle işlenmiş bir portresine dayanıyor |
-| Pamuk | Van | ✅ Gerçek portre (PNG) | Heterokromik göz uygulandı |
-| Bulut | Ankara | ✅ Gerçek portre (PNG) | |
-| Fıstık | İzmir | ✅ Gerçek portre (PNG) | |
-| Yasemin | Antalya | ✅ Gerçek portre (PNG) | |
-| Fındık | Trabzon | ✅ Gerçek portre (PNG) | |
-| Gri Dede | Kapadokya | ✅ Gerçek portre (PNG) | |
-| Kum | Şanlıurfa | ✅ Gerçek portre (PNG) | |
-| Zeytin | Bursa | ✅ Gerçek portre (PNG) | |
-| Şeker | Konya | ✅ Gerçek portre (PNG) | |
-| Yayla | Rize | ✅ Gerçek portre (PNG) | |
-| Nar | Mardin | ✅ Gerçek portre (PNG) | |
-| İnci | Çanakkale | ✅ Gerçek portre (PNG) | |
-| Baklava | Gaziantep | ✅ Gerçek portre (PNG) | |
-| Kar | Erzurum | ✅ Gerçek portre (PNG) | |
-| Fener | Sinop | ✅ Gerçek portre (PNG) | Kapanış hikayesi artık burada tetikleniyor (son kedi) |
+| Duman (guide) | İstanbul | ✅ Real portrait (PNG) | The app icon/favicon is also based on a Gemini-generated, hand-processed portrait of Duman |
+| Pamuk | Van | ✅ Real portrait (PNG) | Heterochromatic eyes applied |
+| Bulut | Ankara | ✅ Real portrait (PNG) | |
+| Fıstık | İzmir | ✅ Real portrait (PNG) | |
+| Yasemin | Antalya | ✅ Real portrait (PNG) | |
+| Fındık | Trabzon | ✅ Real portrait (PNG) | |
+| Gri Dede | Kapadokya | ✅ Real portrait (PNG) | |
+| Kum | Şanlıurfa | ✅ Real portrait (PNG) | |
+| Zeytin | Bursa | ✅ Real portrait (PNG) | |
+| Şeker | Konya | ✅ Real portrait (PNG) | |
+| Yayla | Rize | ✅ Real portrait (PNG) | |
+| Nar | Mardin | ✅ Real portrait (PNG) | |
+| İnci | Çanakkale | ✅ Real portrait (PNG) | |
+| Baklava | Gaziantep | ✅ Real portrait (PNG) | |
+| Kar | Erzurum | ✅ Real portrait (PNG) | |
+| Fener | Sinop | ✅ Real portrait (PNG) | The closing story is now triggered here (final cat) |
 
-`CatDef` üzerindeki `furColor`/`patternColor`/`pattern`/`eyeColor` alanları
-artık sadece kilitli-siluet SVG'sinin görünümünü değil, hikaye/lore verisini
-de besliyor; gerçek görsel artık bu alanlardan bağımsız, elle seçilmiş bir
-Gemini portresi (bkz. `src/cats.ts`, `src/cat-avatar.ts`).
+The `furColor`/`patternColor`/`pattern`/`eyeColor` fields on `CatDef` now feed
+not only the appearance of the locked-silhouette SVG but the story/lore data as
+well; the real visual is now independent of these fields — a hand-picked Gemini
+portrait (see `src/cats.ts`, `src/cat-avatar.ts`).
 
-### Açılım modeli (2 aylık ilerleme)
+### Unlock model (2 months of progression)
 
-Kediler artık belirli bir bulmacaya değil, **toplam çözülen farklı bulmaca
-sayısına** bağlı (`CatDef.unlockAt`). Eşikler: 2, 6, 10, 14, 18, 22, 26, 30,
-34, 38, 42, 46, 50, 55, 60. Günde bir bulmaca çözen ortalama oyuncu son
-kediye (Fener) ~2 ayda ulaşır. Aynı bulmacayı tekrar çözmek sayacı
-artırmaz. Kilitli kedi kartı gereken bulmaca sayısını yazar; tamamlama
-modalı ve ana menü teaser'ı sıradaki kediye kaç bulmaca kaldığını
-gösterir.
+Cats are no longer tied to a specific puzzle but to the **total number of
+distinct puzzles solved** (`CatDef.unlockAt`). Thresholds: 2, 6, 10, 14, 18,
+22, 26, 30, 34, 38, 42, 46, 50, 55, 60. An average player solving one puzzle a
+day reaches the final cat (Fener) in about 2 months. Re-solving the same puzzle
+does not increment the counter. The locked cat card states the required puzzle
+count; the completion modal and the main menu teaser show how many puzzles
+remain until the next cat.
 
-**Bulmaca havuzu (2026-07-24, 300'e çıkarıldı):** `src/puzzles/` artık
-300 bulmaca içeriyor (`tools/generate.mjs` ile üretildi,
-`src/puzzles/index.ts` artık elle 300 import satırı yerine
-`import.meta.glob` ile numerik sırayla otomatik yüklüyor). Kedi açılım
-eşikleri havuz büyüklüğünden bağımsız — yolculuk hâlâ 60 farklı bulmaca
-çözülünce tamamlanıyor; büyümüş havuz sadece günlük bulmaca rotasyonunun
-(`dailyIndex`) çok daha uzun süre tekrarsız kalmasını sağlıyor.
+**Puzzle pool (2026-07-24, raised to 300):** `src/puzzles/` now contains 300
+puzzles (generated with `tools/generate.mjs`; `src/puzzles/index.ts` now loads
+them automatically in numeric order with `import.meta.glob` instead of 300
+manual import lines). The cat unlock thresholds are independent of pool size —
+the journey still completes once 60 distinct puzzles are solved; the larger
+pool only keeps the daily puzzle rotation (`dailyIndex`) repeat-free for far
+longer.
 
-**Büyük/detay görünümü (✅ tamamlandı):** `catFullBody` (cat-avatar.ts) açıkken
-aynı Gemini portresini (`catAvatar` ile aynı görsel), kilitliyken gövde+kuyruk+
-patili siluet SVG'sini döndürüyor. Kullanıldığı yerler: hikaye intro'su,
-kapanış hikayesindeki Duman portresi, kedi detay modalı, bulmaca bitince
-açılma kutlaması. Koleksiyon ızgarası, harita pimleri ve teaser önizlemesi
-`catAvatar` ile aynı portreyi küçük kare çerçevede gösteriyor.
+**Large/detail view (✅ done):** `catFullBody` (cat-avatar.ts) returns the same
+Gemini portrait (the same image as `catAvatar`) when unlocked, and a silhouette
+SVG with body + tail + paws when locked. Used in: the story intro, Duman's
+portrait in the closing story, the cat detail modal, and the unlock celebration
+at the end of a puzzle. The collection grid, map pins and teaser preview show
+the same portrait as `catAvatar` in a small square frame.
 
-**Idle animasyonu (✅ tamamlandı, sade sürüm):** Kedi detay modalında CSS-only
-bir "nefes alma" döngüsü (`cat-idle-breathe` @keyframes, style.css) — hafif
-büyüyüp küçülme + minik eğilme, `prefers-reduced-motion`da kapanıyor. Gerçek
-göz kırpma/kuyruk sallama denenmedi (portreler tek kare, ayrı göz/kuyruk
-katmanı yok); istenirse ikinci "gözleri kapalı" kare üretilip crossfade
-yapılabilir — bkz. "Beklemede".
+**Idle animation (✅ done, minimal version):** A CSS-only "breathing" loop in
+the cat detail modal (`cat-idle-breathe` @keyframes, style.css) — a slight
+scale up/down plus a tiny tilt, disabled under `prefers-reduced-motion`. Real
+blinking / tail wagging was not attempted (the portraits are single frames,
+with no separate eye/tail layer); if desired, a second "eyes closed" frame
+could be generated and crossfaded — see "On hold".
 
-**Beklemede (ileri aşama, isteğe bağlı):**
-- Gerçek göz kırpma: her kedi için "gözleri kapalı" ikinci bir Gemini
-  portresi üretilip aynı kadraja hizalanarak periyodik crossfade yapılabilir.
-- Duman için ayrı, biraz daha büyük/detaylı bir "kahraman" illüstrasyonu.
+**On hold (later stage, optional):**
+- Real blinking: a second "eyes closed" Gemini portrait could be generated for
+  each cat, aligned to the same framing and periodically crossfaded.
+- A separate, somewhat larger/more detailed "hero" illustration for Duman.
 
-## Ekranlar
+## Screens
 
-| Ekran | Durum |
+| Screen | Status |
 |---|---|
-| Ana menü + kedi teaser kartı | ✅ |
-| Hikaye intro (ilk açılış) | ✅ |
-| Kedi Dostlarım koleksiyon ekranı | ✅ |
-| Kedi detay modalı | ✅ |
-| Bulmaca bitirince kedi açılma kutlaması | ✅ |
-| Kapanış hikayesi (tüm kediler toplanınca) | ✅ |
-| Bölge haritası (Anadolu üzerinde ilerleme görselleştirmesi) | ✅ "Anadolu Haritası" ekranı (`src/turkey-map.ts` + `renderMap`), Kedi Dostlarım'dan 🗺️ ile açılıyor |
+| Main menu + cat teaser card | ✅ |
+| Story intro (first launch) | ✅ |
+| "Kedi Dostlarım" (My Cat Friends) collection screen | ✅ |
+| Cat detail modal | ✅ |
+| Cat unlock celebration on puzzle completion | ✅ |
+| Closing story (once all cats are collected) | ✅ |
+| Region map (progress visualization over Anatolia) | ✅ "Anadolu Haritası" (Anatolia Map) screen (`src/turkey-map.ts` + `renderMap`), opened from Kedi Dostlarım via 🗺️ |
 
-## Kutu / kart bileşenleri (mevcut stil sistemi)
+## Box / card components (existing style system)
 
-Tüm yeni bileşenler mevcut CSS değişken sistemini (`--surface`, `--radius`,
-`--shadow`, `--accent` vb.) kullanıyor; hem modern hem gazete temada otomatik
-uyumlu:
-- `.cats-teaser` — ana menüde koleksiyon özeti kartı
-- `.cat-card` — koleksiyon ızgarasındaki tekil kedi kartı (kilitli/açık)
-- `.cat-modal` / `.cat-reveal-tag` — detay ve kutlama modalı
-- `.modal-cat-next` — tamamlama modalında "sıradaki kediye N bulmaca" satırı
-- `.intro-screen` — hikaye anlatım ekranı
-- `.map-canvas` / `.map-outline` / `.map-pin` — Anadolu haritası ekranı;
-  silüet kamu malı (CC0/PDDL) ülke sınırı verisinden (`datasets/geo-countries`,
-  Wikimedia Commons `Data:Turkey.map` altında CC0 olarak listelenir)
-  sadeleştirilip Catmull-Rom eğrileriyle pürüzsüzleştirilerek üretildi ve
-  sabit bir SVG path olarak gömüldü (çalışma zamanında harici veri
-  çekilmiyor, bkz. `src/turkey-map.ts`). Bölge pimleri gerçek şehir
-  enlem/boylamından aynı projeksiyonla hesaplandı.
+All new components use the existing CSS variable system (`--surface`,
+`--radius`, `--shadow`, `--accent`, etc.); they adapt automatically to both the
+modern and the newspaper theme:
+- `.cats-teaser` — collection summary card on the main menu
+- `.cat-card` — individual cat card in the collection grid (locked/unlocked)
+- `.cat-modal` / `.cat-reveal-tag` — detail and celebration modal
+- `.modal-cat-next` — the "N puzzles to the next cat" row in the completion modal
+- `.intro-screen` — story narration screen
+- `.map-canvas` / `.map-outline` / `.map-pin` — Anatolia map screen; the
+  silhouette was produced by simplifying public-domain (CC0/PDDL) country
+  border data (`datasets/geo-countries`, listed as CC0 under Wikimedia Commons
+  `Data:Turkey.map`), smoothing it with Catmull-Rom curves, and embedding it as
+  a static SVG path (no external data is fetched at runtime, see
+  `src/turkey-map.ts`). Region pins were computed from real city
+  latitude/longitude using the same projection.
 
-(`.puzzle-cat-badge` kaldırıldı: kediler bulmaca-başına değil, toplam çözüm
-sayısına göre açıldığı için bulmaca listesinde kedi rozeti artık yok.)
+(`.puzzle-cat-badge` was removed: since cats unlock by total solve count rather
+than per puzzle, there is no longer a cat badge in the puzzle list.)
 
-## Ses / haptik
+## Sound / haptics
 
-- Kedi açılma anı: confetti + pop animasyonu + `playWin()` + artık ayrı bir
-  "miyav" sesi (`playCatUnlock`, `src/sound.ts`). Ses dosyası yok, oscillator
-  + bandpass filtreyle sentezleniyor (paket boyutu artmıyor), mevcut ses
-  sistemiyle aynı yaklaşım.
+- Cat unlock moment: confetti + pop animation + `playWin()` + now a separate
+  "meow" sound (`playCatUnlock`, `src/sound.ts`). There is no audio file; it is
+  synthesized with an oscillator + bandpass filter (no increase in bundle
+  size), the same approach as the existing sound system.
 
-## Uygulama ikonu / marka varlıkları
+## App icon / brand assets
 
-- ✅ Tamamlandı. Duman'ın Gemini (Google) ile üretilen düz-vektör bir
-  portresi kaynak alındı (`tools/icon-src/duman-icon-raw.png`), ardından
-  `tools/generate-icons.mjs` (sharp) ile:
-  - `public/favicon.png` (tarayıcı sekmesi ikonu, `index.html` güncellendi),
-  - Android `ic_launcher` / `ic_launcher_round` (tüm yoğunluklar, kenardan
-    kenara, arka planla kaynaşmış),
-  - Android adaptive icon foreground (şeffaf, güvenli alan içinde ölçekli) +
-    background rengi (görselden otomatik örneklenen turuncu ton)
-  üretildi. Yeniden üretmek için: `npm run icons`.
+- ✅ Done. A flat-vector portrait of Duman generated with Gemini (Google) was
+  used as the source (`tools/icon-src/duman-icon-raw.png`), then
+  `tools/generate-icons.mjs` (sharp) produced:
+  - `public/favicon.png` (browser tab icon, `index.html` updated),
+  - Android `ic_launcher` / `ic_launcher_round` (all densities, edge to edge,
+    blended with the background),
+  - Android adaptive icon foreground (transparent, scaled within the safe area)
+    + background color (an orange tone sampled automatically from the image).
+  To regenerate: `npm run icons`.
 
-## Öncelik önerisi
+## Priority suggestion
 
-Kontrol listesindeki ana maddeler (app icon/favicon, ses efekti, bölge
-haritası, gerçek kedi portreleri, sade idle animasyonu) tamamlandı. Kalan
-isteğe bağlı fikirler "Beklemede" notlarında (gerçek göz kırpma karesi,
-ayrı kahraman illüstrasyonu vb.).
+The main items on the checklist (app icon/favicon, sound effect, region map,
+real cat portraits, minimal idle animation) are done. The remaining optional
+ideas are in the "On hold" notes (a real blinking frame, a separate hero
+illustration, etc.).
