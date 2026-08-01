@@ -5,13 +5,13 @@ import type { PuzzleDef } from "../types.ts";
 // cats.test.ts) — production kodu (main.ts/ui.ts) bunun yerine
 // puzzles/index.ts'teki lazy `puzzles` dizisini kullanır, bu yüzden bu
 // dosya production bundle'ına dahil olmaz.
-const modules = import.meta.glob("./bulmaca-*.json", {
+const modules = import.meta.glob("./puzzle-*.json", {
   eager: true,
   import: "default",
 }) as Record<string, PuzzleDef>;
 
 function puzzleNumber(path: string): number {
-  return Number(/bulmaca-(\d+)\.json$/.exec(path)?.[1] ?? 0);
+  return Number(/puzzle-(\d+)\.json$/.exec(path)?.[1] ?? 0);
 }
 
 function displayOrder(path: string, p: PuzzleDef): number {

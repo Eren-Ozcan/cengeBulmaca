@@ -15,11 +15,11 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const puzzlesDir = join(dirname(fileURLToPath(import.meta.url)), "..", "src", "puzzles");
-const files = readdirSync(puzzlesDir).filter((f) => /^bulmaca-\d+\.json$/.test(f));
+const files = readdirSync(puzzlesDir).filter((f) => /^puzzle-\d+\.json$/.test(f));
 
 const entries = files.map((file) => {
   const data = JSON.parse(readFileSync(join(puzzlesDir, file), "utf8"));
-  const fileNumber = Number(/bulmaca-(\d+)\.json$/.exec(file)[1]);
+  const fileNumber = Number(/puzzle-(\d+)\.json$/.exec(file)[1]);
   return {
     id: data.id,
     title: data.title,

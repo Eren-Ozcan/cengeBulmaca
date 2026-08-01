@@ -13,11 +13,11 @@ interface ManifestEntry {
 
 const manifest = manifestData as ManifestEntry[];
 
-// bulmaca-N.json dosyalarının tamamına dinamik (lazy) erişim: her biri
+// puzzle-N.json dosyalarının tamamına dinamik (lazy) erişim: her biri
 // açılışta değil, gerektiğinde (bkz. ensureLoaded) kendi chunk'ından yüklenir.
 // Ana JS bundle'ının 300 bulmacanın tüm soru/cevap verisini baştan içermesini
 // engelleyerek başlangıç yükünü küçültür.
-const fileLoaders = import.meta.glob("./bulmaca-*.json", {
+const fileLoaders = import.meta.glob("./puzzle-*.json", {
   import: "default",
 }) as Record<string, () => Promise<PuzzleDef>>;
 
