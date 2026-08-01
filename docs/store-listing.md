@@ -1,21 +1,26 @@
-# Google Play Mağaza Metni
+# Google Play Store Listing
 
-Play Console'a girilecek metinler. Karakter sınırlarına dikkat:
-başlık 30, kısa açıklama 80, uzun açıklama 4000.
+Text to be entered into Play Console. Mind the character limits: title 30,
+short description 80, long description 4000.
 
-## Uygulama adı (30 karakter)
+> **Note:** the listing copy in the code blocks below is intentionally kept in
+> Turkish. The shipped app is a Turkish-language word game and this text is
+> pasted as-is into the Turkish Play Store listing. Only the surrounding
+> documentation is in English.
+
+## App name (30 characters)
 
 ```
 Çengel Bulmaca
 ```
 
-## Kısa açıklama (80 karakter)
+## Short description (80 characters)
 
 ```
 Türkçe çengel bulmaca: günün bulmacası, günlük seri ve üç zorluk seviyesi.
 ```
 
-## Uzun açıklama
+## Long description
 
 ```
 Klasik Türk bulmacacılığının sevilen türü çengel bulmaca (İsveç tipi kare
@@ -52,88 +57,88 @@ Türkçe kelime dağarcığınızı geliştirmek, zihninizi zinde tutmak ve keyi
 vakit geçirmek için ideal.
 ```
 
-## Kategori
+## Category
 
-Oyunlar > Kelime
+Games > Word (`Oyunlar > Kelime`)
 
-## Etiketler
+## Tags
 
+Kept in Turkish — these are the Play Store search keywords for the Turkish
+listing:
+
+```
 bulmaca, çengel bulmaca, kare bulmaca, kelime oyunu, Türkçe
+```
 
-## Grafik gereksinimleri
+## Graphic requirements
 
-- [x] Uygulama simgesi 512×512 PNG — `docs/store-assets/icon-512.png`
-- [x] Öne çıkan görsel (feature graphic) 1024×500 PNG (24-bit, alfasız) —
+- [x] App icon 512×512 PNG — `docs/store-assets/icon-512.png`
+- [x] Feature graphic 1024×500 PNG (24-bit, no alpha) —
   `docs/store-assets/feature-graphic.png`
-- [x] Ekran görüntüleri (3 adet, 545×777 civarı, alfasız) —
+- [x] Screenshots (3 of them, around 545×777, no alpha) —
   `docs/store-assets/screenshot-1-home.png`,
-  `screenshot-2-gameplay.png`, `screenshot-3-cats.png`. İsteğe bağlı:
-  daha yüksek çözünürlüklü/gerçek cihaz ekran görüntüleriyle
-  değiştirilebilir, mevcut olanlar Play Console'un min/maks boyut ve
-  en-boy oranı sınırları içinde.
-- Tümü `npm run icons` ile `tools/generate-icons.mjs`'den yeniden
-  üretilebilir (icon/feature graphic); ekran görüntüleri ayrı bir
-  tarayıcı oturumuyla alındı, script'e dahil değil.
+  `screenshot-2-gameplay.png`, `screenshot-3-cats.png`. Optional: these can be
+  replaced with higher-resolution / real-device screenshots; the current ones
+  are within Play Console's min/max size and aspect ratio limits.
+- All of these can be regenerated from `tools/generate-icons.mjs` with
+  `npm run icons` (icon / feature graphic); the screenshots were taken in a
+  separate browser session and are not part of the script.
 
-## Reklam / Data Safety notları (Play Console)
+## Ads / Data Safety notes (Play Console)
 
-Uygulama Google AdMob ile reklam gösteriyor (geçiş reklamı bazı bulmaca
-bitişlerinde, ödüllü reklam isteğe bağlı ekstra ipucu için). Play
-Console'da tamamlananlar:
+The app shows ads via Google AdMob (an interstitial after some puzzle
+completions, a rewarded ad for an optional extra hint). Completed in Play
+Console:
 
-- **App content → Ads**: "Uygulamam reklam içeriyor" = Evet. ✅
-- **Data safety formu**: Konum (yaklaşık) ve Cihaz veya diğer kimlikler,
-  amaç = Reklam veya pazarlama; toplanıyor + paylaşılıyor olarak
-  işaretlendi, aktarım şifreli. ✅
-- **İçerik derecelendirmesi anketi**: tamamlandı, tüm otoritelerde
-  Genel/Tüm yaşlar (PEGI 3 / Herkes) çıktı. ✅
-- **Hedef kitle**: 13-15, 16-17, 18 yaş ve üstü olarak ayarlandı. ✅
-- `src/ads.ts` ve `strings.xml`'deki AdMob ID'leri gerçek hesaba
+- **App content → Ads**: "My app contains ads" = Yes. ✅
+- **Data safety form**: Location (approximate) and Device or other IDs,
+  purpose = Advertising or marketing; marked as collected + shared, transfer
+  encrypted. ✅
+- **Content rating questionnaire**: completed, came out as General/All ages
+  (PEGI 3 / Everyone) across all authorities. ✅
+- **Target audience**: set to ages 13-15, 16-17, and 18+. ✅
+- The AdMob IDs in `src/ads.ts` and `strings.xml` belong to the real account
   (yilkgamesstudio@gmail.com, App ID
-  `ca-app-pub-9709993577664180~3994312791`) ait, hesap onaylandı. ✅
-- GDPR/UMP (Privacy & messaging) rıza kampanyası yayınlandı. ✅
+  `ca-app-pub-9709993577664180~3994312791`); the account is approved. ✅
+- GDPR/UMP (Privacy & messaging) consent campaign published. ✅
 
-## Satın alma (IAP) ve altyapı — 2026-07-28 itibarıyla
+## In-app purchases (IAP) and infrastructure — as of 2026-07-28
 
-- **Satıcı hesabı (merchant/payments profile)**: kurulu. Banka hesabı
-  (Yapı Kredi IBAN) eklendi, Google'ın deneme ödemesiyle doğrulaması
-  tamamlandı. ✅
-- **IAP ürünleri**: 4 tüketilebilir joker paketi (jokers_5/10/20/50) +
-  1 tüketilmeyen ürün (remove_ads) Play Console'da oluşturuldu ve
-  Etkin. ✅
-- **RevenueCat entegrasyonu**: Android app config + servis hesabı +
-  Product catalog tamamlandı, "Valid credentials" doğrulandı. ✅
-- **`src/billing.ts` kod tarafı**: joker paketleri + `remove_ads`
-  (satın alma/restore/reklam gösterimini engelleme) tamamlandı,
-  mağaza ekranında kart olarak gösteriliyor. ✅
-- **Google developer notifications (Pub/Sub RTDN)**: opsiyonel,
-  RevenueCat'in önerdiği gerçek zamanlı satın alma bildirimi kanalı.
-  Kuruldu ve bağlandı ("Connected to Google"). ✅
-- GCP/Firebase projesi (`cengel-bulmaca-c504d`) artık tek hesapta
-  (`yilkgamesstudio@gmail.com`, Owner) topluca yönetiliyor; projeye
-  hiç faturalandırma (billing) hesabı bağlı değil, ücretsiz kotalarla
-  çalışıyor. ✅
+- **Merchant / payments profile**: set up. Bank account (Yapı Kredi IBAN)
+  added, Google's test-deposit verification completed. ✅
+- **IAP products**: 4 consumable joker packs (jokers_5/10/20/50) + 1
+  non-consumable product (remove_ads) created in Play Console and Active. ✅
+- **RevenueCat integration**: Android app config + service account + Product
+  catalog completed, "Valid credentials" verified. ✅
+- **`src/billing.ts` code side**: joker packs + `remove_ads`
+  (purchase/restore/suppressing ad display) completed, shown as a card on the
+  store screen. ✅
+- **Google developer notifications (Pub/Sub RTDN)**: optional, the real-time
+  purchase notification channel recommended by RevenueCat. Set up and
+  connected ("Connected to Google"). ✅
+- The GCP/Firebase project (`cengel-bulmaca-c504d`) is now managed collectively
+  under a single account (`yilkgamesstudio@gmail.com`, Owner); no billing
+  account is attached to the project, it runs on free quotas. ✅
 
-## Kalanlar
+## Remaining
 
-- ⏳ Production track'e yayınlama — banka doğrulaması bitti, sıradaki
-  adım (şu an sadece Dahili test kanalında).
-- ⏳ Play Console "Ödeme profili" sayfasında **%15 hizmet ücreti
-  programına kaydolun** bildirimi çıkıyor (opsiyonel görünüyor ama
-  gözden geçirilmeli — hesap grubu oluşturma + hizmet ücreti şartlarını
-  kabul etme gerektiriyor).
-- Tablet ekran görüntüleri (7"/10") ve YouTube video URL'si eklenmedi
-  (zorunlu değil, isteğe bağlı kalabilir).
-- ⏳ **GitHub secret scanning uyarısı (Google API Key, `src/referral.ts`
-  — Firebase `apiKey`)**: GitHub'da `wont_fix` olarak kapatıldı (bu
-  anahtar Firebase web SDK'sının istemci tarafı, gizli olmayan
-  tanımlayıcısı — güvenlik Firestore rules ile sağlanıyor). Kalıcı
-  düzeltme: Google Cloud Console'da bu anahtarı API kısıtlamasıyla
-  (Identity Toolkit + Cloud Firestore API) ve mümkünse uygulama
-  kısıtlamasıyla sınırlamak. `yilkgamesstudio@gmail.com` hesabına erişim
-  sorunu nedeniyle henüz yapılmadı — hesap sorunu çözülünce tamamlanacak.
+- ⏳ Publishing to the Production track — bank verification is done, this is
+  the next step (currently only on the Internal testing channel).
+- ⏳ The Play Console "Payments profile" page shows an **enroll in the 15%
+  service fee program** notice (it appears optional but should be reviewed —
+  it requires creating an account group and accepting the service fee terms).
+- Tablet screenshots (7"/10") and a YouTube video URL have not been added (not
+  mandatory, can stay optional).
+- ⏳ **GitHub secret scanning alert (Google API Key, `src/referral.ts` —
+  Firebase `apiKey`)**: closed as `wont_fix` on GitHub (this key is the
+  client-side, non-secret identifier of the Firebase web SDK — security is
+  enforced by Firestore rules). Permanent fix: restrict this key in the Google
+  Cloud Console with API restrictions (Identity Toolkit + Cloud Firestore API)
+  and, if possible, application restrictions. Not done yet due to an access
+  problem with the `yilkgamesstudio@gmail.com` account — to be completed once
+  the account issue is resolved.
 
-## Diğer
+## Other
 
-- Gizlilik politikası: depodaki `PRIVACY.md` bir URL'de yayınlanmalı
-  (örn. GitHub Pages) ve Play Console'a o adres girilmeli.
+- Privacy policy: `PRIVACY.md` in the repo must be published at a URL (e.g.
+  GitHub Pages) and that address entered into Play Console.
