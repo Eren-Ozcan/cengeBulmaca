@@ -1,68 +1,64 @@
-<!-- Bu dosya PRIVACY.md'nin GitHub Pages'te yayınlanan kopyasıdır.
-     PRIVACY.md değişirse buradaki içerik de güncellenmeli. -->
+<!-- This file is the copy of PRIVACY.md published on GitHub Pages.
+     If PRIVACY.md changes, the content here must be updated too. -->
 
-# Gizlilik Politikası — Çengel Bulmaca
+# Privacy Policy — Çengel Bulmaca
 
-_Son güncelleme: 21 Temmuz 2026_
+_Last updated: 21 July 2026_
 
-## Özet
+## Summary
 
-Çengel Bulmaca hesap açtırmaz, kendi sunucularına hiçbir veri göndermez.
-Uygulama içi bulmaca ilerlemeniz yalnızca cihazınızda tutulur. Uygulama
-reklam gösterir; bu reklamları sağlayan **Google AdMob**, aşağıda
-açıklanan bazı verileri toplayabilir.
+Çengel Bulmaca does not require an account and sends no data to its own
+servers. Your in-app puzzle progress is kept only on your device. The app
+displays ads; **Google AdMob**, which serves those ads, may collect some of
+the data described below.
 
-## Reklamlar (Google AdMob)
+## Ads (Google AdMob)
 
-Çengel Bulmaca, gelirini reklamla karşılar ve bunun için Google AdMob
-kullanır:
+Çengel Bulmaca is funded by advertising and uses Google AdMob for this:
 
-- **Geçiş (interstitial) reklamları** bazı bulmacaları tamamladıktan
-  sonra ara sıra gösterilir.
-- **Ödüllü (rewarded) reklamlar** isteğe bağlıdır: günlük ücretsiz ipucu
-  hakkınız bitince, izlemeyi seçerseniz bir ipucu daha açar. İzlemezseniz
-  hiçbir veri paylaşılmaz.
+- **Interstitial ads** are shown occasionally after completing some puzzles.
+- **Rewarded ads** are optional: once your daily free hint is used up, you may
+  choose to watch one to unlock an additional hint. If you do not watch, no
+  data is shared.
 
-AdMob, reklam göstermek ve ölçmek için cihazınızdan reklam kimliği
-(advertising ID), yaklaşık konum bilgisi veren IP adresi, cihaz/işletim
-sistemi bilgisi ve reklamlarla etkileşim verisi toplayabilir. Bu veriler
-Çengel Bulmaca'nın kendisine değil, Google'a gider ve Google'ın
-[Gizlilik Politikası](https://policies.google.com/privacy)'na tabidir.
+To serve and measure ads, AdMob may collect your device's advertising ID, your
+IP address (which gives approximate location), device/operating system
+information and ad interaction data. This data goes to Google, not to Çengel
+Bulmaca itself, and is subject to Google's
+[Privacy Policy](https://policies.google.com/privacy).
 
-Reklam kişiselleştirmesini cihazınızın sistem ayarlarından (Google Ayarlar
-→ Reklamlar → Reklam kişiselleştirmeyi devre dışı bırak / Reklam
-kimliğini sıfırla) yönetebilirsiniz.
+You can manage ad personalization from your device's system settings (Google
+Settings → Ads → Opt out of Ads Personalization / Reset advertising ID).
 
-## Cihazda saklanan veriler
+## Data stored on your device
 
-Oyun ilerlemeniz (girilen harfler), çözüm istatistikleriniz (günlük seri,
-çözülen bulmacalar), günlük ücretsiz ipucu sayacınız, tema ve ses
-tercihiniz yalnızca **kendi cihazınızda**, uygulamanın yerel depolama
-alanında tutulur. Bu veriler:
+Your game progress (the letters you enter), your solve statistics (daily
+streak, solved puzzles), your daily free hint counter, and your theme and
+sound preferences are kept only **on your own device**, in the app's local
+storage. This data:
 
-- Çengel Bulmaca'nın kendi sunucularına hiç gitmez (uygulamanın kendi
-  sunucusu yok).
-- Uygulamayı kaldırdığınızda silinir.
+- Never reaches Çengel Bulmaca's own servers (the app has no server of its own).
+- Is deleted when you uninstall the app.
 
-## Paylaşım özelliği
+## Sharing feature
 
-"Sonucu paylaş" düğmesi, yalnızca sizin başlattığınız bir işlemle,
-seçtiğiniz uygulamaya kısa bir sonuç metni iletir. Bu işlem tamamen
-sizin kontrolünüzdedir.
+The "Share result" button passes a short result text to an app of your choice,
+only through an action you initiate yourself. This is entirely under your
+control.
 
-## Çocukların gizliliği
+## Children's privacy
 
-Uygulama belirli bir yaş grubunu hedeflemez ve çocuklara yönelik olarak
-pazarlanmaz. Hesap açtırmadığı ve doğrudan kişisel bilgi istemediği için
-kimseden bilgi toplamaz; ancak reklamlar Google AdMob üzerinden
-sunulduğundan, 13 yaşından küçük olduğunu bildiğiniz bir kullanıcının
-kişiselleştirilmemiş reklam ayarlarını kullanmasını öneririz.
+The app does not target a specific age group and is not marketed to children.
+Because it requires no account and asks for no personal information directly,
+it collects no information from anyone; however, since ads are served through
+Google AdMob, we recommend that a user you know to be under 13 use
+non-personalized ad settings.
 
-## Değişiklikler
+## Changes
 
-Bu politika değişirse güncel sürüm bu dosyada ve uygulamanın mağaza
-sayfasında yayınlanır.
+If this policy changes, the current version will be published in this file and
+on the app's store page.
 
-## İletişim
+## Contact
 
-Sorularınız için: erenozcaan@hotmail.com
+For questions: erenozcaan@hotmail.com
