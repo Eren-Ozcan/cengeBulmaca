@@ -10,7 +10,7 @@
 // dosyadaki sabit SVG path'ine önceden gömüldü — çalışma zamanında hiçbir
 // harici veri çekilmiyor. Bölge pimleri de gerçek şehir enlem/
 // boylamlarından aynı projeksiyonla hesaplandı, bu yüzden yaklaşık olarak
-// coğrafi açıdan doğru konumdadır. bkz. TASARIM.md.
+// coğrafi açıdan doğru konumdadır. bkz. DESIGN.md.
 
 type Point = [number, number];
 
