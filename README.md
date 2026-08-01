@@ -1,79 +1,81 @@
 # Çengel Bulmaca
 
-Türkçe klasik çengel bulmaca (İsveç tipi) mobil oyunu. Sorular ızgaranın
-içindeki koyu hücrelerde yazar; ok, cevabın hangi hücreden başlayıp hangi
-yöne yazılacağını gösterir.
+A Turkish-language classic çengel bulmaca (Swedish-style crossword) mobile
+game. Clues are written inside the dark cells of the grid; an arrow shows
+which cell the answer starts from and in which direction it is written.
 
-Web teknolojisiyle (Vite + TypeScript, framework'süz) geliştirildi,
-Capacitor ile Android uygulamasına paketlenir.
+Built with web technology (Vite + TypeScript, no framework) and packaged as
+an Android app with Capacitor.
 
-## Özellikler
+## Features
 
-- Klasik çengel formatı: hücre içi sorular, 4 tip yön oku, çift soruluk hücreler
-- 10 bulmaca, üç zorluk seviyesi (kolay / orta / zor)
-- Günün bulmacası (tarihe göre deterministik seçim) ve 🔥 günlük seri (streak)
-- Türkçe ekran klavyesi (Ğ Ü Ş İ Ö Ç), kontrol ve ipucu (harf açma)
-- Ses efektleri (Web Audio, açılıp kapanabilir) ve haptik geri bildirim
-- Sonucu paylaşma (Web Share API, desteklenmezse panoya kopyalama)
-- İlerleme kaydı (localStorage) — kaldığın yerden devam
-- Açık/koyu tema (sistem tercihine göre)
+- Classic çengel format: in-cell clues, 4 arrow directions, cells with two clues
+- 10 puzzles, three difficulty levels (easy / medium / hard)
+- Puzzle of the day (deterministic selection by date) and 🔥 daily streak
+- Turkish on-screen keyboard (Ğ Ü Ş İ Ö Ç), check and hint (reveal a letter)
+- Sound effects (Web Audio, can be toggled) and haptic feedback
+- Share your result (Web Share API, falls back to clipboard copy)
+- Progress saving (localStorage) — continue where you left off
+- Light/dark theme (follows the system preference)
 
-## Geliştirme
+## Development
 
 ```bash
 npm install
 npm run dev        # http://localhost:5173
-npm test           # birim testleri (vitest)
+npm test           # unit tests (vitest)
 ```
 
-## Yeni bulmaca üretme
+## Generating new puzzles
 
-Bulmacalar `tools/generate.mjs` ile üretilir: rastgele maske üretilir,
-onarılır, soru hücreleri atanır ve `tools/dictionary.mjs` sözlüğünden
-geriye izlemeli (backtracking) algoritmayla doldurulur. Çıktı hem araç
-içinde hem oyun motorunda (kesişim/taşma/boş hücre) doğrulanır.
+Puzzles are generated with `tools/generate.mjs`: a random mask is generated,
+repaired, clue cells are assigned, and the grid is filled with a backtracking
+algorithm using the dictionary in `tools/dictionary.mjs`. The output is
+validated both inside the tool and in the game engine (intersections /
+overflow / empty cells).
 
 ```bash
-npm run gen -- <id> <başlık> [seed] [sütun] [satır] [zorluk]
+npm run gen -- <id> <title> [seed] [columns] [rows] [difficulty]
 npm run gen -- bulmaca-11 "Bulmaca 11" 1234 8 11 orta
 ```
 
-Üretilen JSON `src/puzzles/` altına yazılır; oyuna eklemek için
-`src/puzzles/index.ts` listesine ekleyin.
+The generated JSON is written under `src/puzzles/`; to add it to the game,
+append it to the `src/puzzles/index.ts` list.
 
-Sözlüğü zenginleştirmek için `tools/dictionary.mjs` dosyasına
-`{ a: "CEVAP", c: ["soru metni"] }` girişleri ekleyin.
+To enrich the dictionary, add `{ a: "CEVAP", c: ["clue text"] }` entries to
+`tools/dictionary.mjs`. (Dictionary entries and clue text are Turkish — that
+is the game's content language.)
 
 ## Android (APK)
 
-Gereksinimler: Android SDK, JDK 17+.
+Requirements: Android SDK, JDK 17+.
 
 ```bash
 npm run android
 # APK: android/app/build/outputs/apk/debug/app-debug.apk
 ```
 
-### Release (imzalı)
+### Release (signed)
 
-`android/keystore.properties.example` dosyasını `keystore.properties`
-olarak kopyalayıp anahtar bilgilerinizi girin (dosya git'e girmez), sonra:
+Copy `android/keystore.properties.example` to `keystore.properties` and enter
+your key details (the file is not committed to git), then:
 
 ```bash
 npm run android:release
 # APK: android/app/build/outputs/apk/release/app-release.apk
 ```
 
-Play Store yayın hazırlığı için `docs/store-listing.md` ve `PRIVACY.md`
-dosyalarına bakın.
+For Play Store release preparation, see `docs/store-listing.md` and
+`PRIVACY.md`.
 
-## Mimari
+## Architecture
 
-- `src/types.ts` — bulmaca veri modeli (ipucu hücresi + 4 ok türü + zorluk)
-- `src/puzzle.ts` — tanımdan ızgara kurma ve tutarlılık doğrulama
-- `src/game.ts` — oyun durumu: seçim, harf girme, kontrol, kayıt (localStorage)
-- `src/stats.ts` — günlük seri, çözüm istatistikleri, günün bulmacası seçimi
-- `src/ui.ts` — ızgara, aktif soru çubuğu, Türkçe ekran klavyesi, paylaşım
-- `src/sound.ts` — Web Audio ses efektleri (dosyasız, sentezlenmiş)
-- `src/haptics.ts` — titreşim geri bildirimi
-- `src/*.test.ts` — vitest birim testleri
-- `tools/` — bulmaca üretici ve sözlük (646 giriş)
+- `src/types.ts` — puzzle data model (clue cell + 4 arrow types + difficulty)
+- `src/puzzle.ts` — building the grid from a definition and validating consistency
+- `src/game.ts` — game state: selection, letter entry, checking, saving (localStorage)
+- `src/stats.ts` — daily streak, solve statistics, puzzle-of-the-day selection
+- `src/ui.ts` — grid, active clue bar, Turkish on-screen keyboard, sharing
+- `src/sound.ts` — Web Audio sound effects (synthesized, no audio files)
+- `src/haptics.ts` — vibration feedback
+- `src/*.test.ts` — vitest unit tests
+- `tools/` — puzzle generator and dictionary (646 entries)

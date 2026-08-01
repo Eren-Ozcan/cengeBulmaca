@@ -1,22 +1,25 @@
-# Store / Marketing Görselleri
+# Store / Marketing Assets
 
-Store listing, feature graphic, ikon, ekran görüntüsü gibi pazarlama görselleri
-**asla bu public repo'ya commit edilmez**. Bunun yerine iki yere kaydedilir:
+Marketing assets such as the store listing, feature graphic, icon and
+screenshots are **never committed to this public repo**. They are saved in two
+places instead:
 
-1. Yerel, gitignore'lu kopya: `docs/store-assets-originals/` (bu klasör `.gitignore`'da,
-   asla git'e girmez).
-2. Private yedek repo: `C:\Projects\pictures\cengeBulmaca\` — bu, `Eren-Ozcan/pictures`
-   adlı ayrı bir private GitHub reposunun yerel clone'u. Yeni/güncel bir görsel eklenince
-   oraya da kopyalanıp o repoda commit + push edilmeli.
+1. Local, gitignored copy: `docs/store-assets-originals/` (this folder is in
+   `.gitignore` and never enters git).
+2. Private backup repo: `C:\Projects\pictures\cengeBulmaca\` — a local clone of
+   a separate private GitHub repo named `Eren-Ozcan/pictures`. Whenever a new or
+   updated asset is added, it must also be copied there and committed + pushed
+   in that repo.
 
-Yeni bir store görseli eklenirken/güncellenirken: dosyayı hem
-`docs/store-assets-originals/` hem `C:\Projects\pictures\cengeBulmaca\` içine koy,
-sonra `pictures` reposunda commit+push yap. `docs/store-assets/` klasöründeki
-(tracked, public) dosyaları güncellemek istersen bunu ayrıca ve bilinçli olarak yap —
-onlar zaten repo geçmişinde public.
+When adding/updating a store asset: put the file in both
+`docs/store-assets-originals/` and `C:\Projects\pictures\cengeBulmaca\`, then
+commit + push in the `pictures` repo. If you want to update the (tracked,
+public) files under `docs/store-assets/`, do that separately and deliberately —
+those are already public in the repo history.
 
-## Stüdyo geneli bilgiler
+## Studio-wide information
 
-Google hesabı, Play Console geliştirici hesabı, yilkgames.com/yilkgames_web durumu
-gibi stüdyo geneli (bu oyuna özel olmayan) sorular için `C:\Projects\pictures\STUDIO.md`
-tek kaynak — burada tekrarlanmaz.
+For studio-wide questions that are not specific to this game — Google account,
+Play Console developer account, yilkgames.com/yilkgames_web status and the like
+— `C:\Projects\pictures\STUDIO.md` is the single source of truth; it is not
+duplicated here.
