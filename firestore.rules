@@ -64,6 +64,13 @@ service cloud.firestore {
           request.auth.uid != uid
           && get(/databases/$(database)/documents/players/$(request.auth.uid)).data.referredBy == uid
           && get(/databases/$(database)/documents/players/$(request.auth.uid)).data.firstPuzzleRewardClaimed == false
+          // Davet edilenin KENDİ ödül geçişi (false->true) bu yazmayla AYNI
+          // atomik commit'in (transaction/batch) parçası olmalı — aksi halde
+          // istemci kendi belgesine hiç dokunmadan bu dalı sınırsız tekrar
+          // çağırıp davet edene sınırsız joker yazabilir. firstPuzzleRewardClaimed
+          // yalnızca bir kez false->true geçebildiği için (yukarıdaki dal),
+          // bu şart referrer ödülünü de doğal olarak bir kereyle sınırlar.
+          && getAfter(/databases/$(database)/documents/players/$(request.auth.uid)).data.firstPuzzleRewardClaimed == true
           && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['jokerBalanceCloud'])
           && request.resource.data.jokerBalanceCloud
                == resource.data.jokerBalanceCloud + 3
