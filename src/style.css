@@ -1895,6 +1895,56 @@ button {
   padding: 7px 13px;
 }
 
+/* rehberde "buraya dokun" hedefi: nabız gibi atan altın halka */
+.tut-target {
+  position: relative;
+  z-index: 2;
+  animation: tut-pulse 1.3s ease-in-out infinite;
+}
+
+@keyframes tut-pulse {
+  0%,
+  100% {
+    box-shadow:
+      0 0 0 0 var(--gold),
+      0 0 0 0 rgba(245, 184, 61, 0.55);
+  }
+  50% {
+    box-shadow:
+      0 0 0 3px var(--gold),
+      0 0 0 10px rgba(245, 184, 61, 0);
+  }
+}
+
+/* rehber ekranında ızgara ve balon aynı anda sığsın diye biraz daralt */
+.tutorial-game .tutorial-coach {
+  margin-bottom: 2px;
+}
+
+.tutorial-game .tutorial-coach-text {
+  font-size: 0.8rem;
+}
+
+/* anlatım adımının bloklayıcı modalı */
+.tut-modal .cat-avatar-wrap {
+  margin: 0 auto 6px;
+}
+
+.tut-tool-demo {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.tut-modal-progress {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: var(--ink-soft);
+  margin-bottom: 6px;
+}
+
 /* ---------- Gazete (klasik) tema ----------
    Basılı gazete bulmacası görünümü: kağıt zemin, beyaz hücreler,
    ince koyu çizgiler, gri soru hücreleri, serif tipografi, kırmızı vurgu.
