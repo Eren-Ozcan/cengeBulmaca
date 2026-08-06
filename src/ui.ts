@@ -1,6 +1,7 @@
 import {
   backspace,
   checkEntries,
+  moveCursorInActiveClue,
   newGame,
   revealLetter,
   savedProgress,
@@ -68,7 +69,13 @@ import {
   epilogueSeen,
   markEpilogueSeen,
 } from "./story.ts";
-import { tutorialSeen, markTutorialSeen } from "./tutorial.ts";
+import {
+  tutorialSeen,
+  markTutorialSeen,
+  TUTORIAL_PUZZLE,
+  TUTORIAL_STEPS,
+  type TutorialStep,
+} from "./tutorial.ts";
 import { claimFirstPuzzleReferralReward, shareInvite } from "./referral.ts";
 
 // Ok ikonları: klasik çengel bulmaca okları (SVG, currentColor)
@@ -122,6 +129,10 @@ export class App {
   private justUnlockedCat: CatDef | null = null;
   /** Bu hamleyle son bekçi kedi de açılıp yolculuk tamamlandıysa true */
   private journeyJustCompleted = false;
+  /** Rehber oynanıyorsa aktif adımın indeksi, aksi halde null */
+  private tutorialStep: number | null = null;
+  /** Rehber bitince çalışacak dönüş işlevi */
+  private tutorialDone: (() => void) | null = null;
 
   constructor(root: HTMLElement, puzzles: PuzzleDef[], options: AppOptions = {}) {
     this.root = root;
@@ -137,9 +148,9 @@ export class App {
 
     const enter = () => {
       if (storySeen()) {
-        this.renderHome();
+        this.enterAfterStory();
       } else {
-        this.renderIntro(() => this.renderHome());
+        this.renderIntro(() => this.enterAfterStory());
       }
     };
     if (this.options.skipSplash) {
@@ -147,6 +158,16 @@ export class App {
     } else {
       this.renderSplash(enter);
     }
+  }
+
+  /**
+   * Hikayeden sonraki ilk durak: oyunu ilk kez açan oyuncu önce rehberi
+   * oynar (bir kereye mahsus, atlanamaz), sonrakiler doğrudan ana menüye
+   * girer.
+   */
+  private enterAfterStory(): void {
+    if (tutorialSeen()) this.renderHome();
+    else this.startTutorial(() => this.renderHome());
   }
 
   // ---------- açılış ekranı (splash) ----------
@@ -859,6 +880,17 @@ export class App {
     storyBtn.addEventListener("click", () => this.renderIntro(() => this.renderSettings()));
     wrap.appendChild(storyBtn);
 
+    const howBtn = el("button", "puzzle-card");
+    const howInfo = el("div", "puzzle-info");
+    howInfo.appendChild(el("div", "puzzle-title", "Nasıl oynanır?"));
+    howBtn.appendChild(el("div", "puzzle-num", "🎓"));
+    howBtn.appendChild(howInfo);
+    howBtn.appendChild(el("div", "puzzle-badge", "›"));
+    howBtn.addEventListener("click", () =>
+      this.startTutorial(() => this.renderSettings()),
+    );
+    wrap.appendChild(howBtn);
+
     this.root.appendChild(wrap);
     this.root.appendChild(this.renderBottomNav("settings"));
   }
@@ -880,6 +912,7 @@ export class App {
       return;
     }
     this.state = newGame(p);
+    this.tutorialStep = null;
     this.clueFontCache.clear();
     // kaldığı ipucu/hücre kayıttan geldiyse onu korur; yoksa (ör. ilk açılış)
     // oyuncu hemen yazmaya başlayabilsin diye ilk boş soruyu seçer
@@ -923,7 +956,7 @@ export class App {
     const n = s.puzzle.clues.length;
     const from = s.activeClue ?? 0;
     this.activateClue((from + dir + n) % n);
-    this.renderGame();
+    this.refresh();
   }
 
   /** Kelimenin tüm hücreleri doğru harfle dolu mu? */
@@ -981,9 +1014,19 @@ export class App {
    */
   private handleType(key: string): void {
     const s = this.state!;
-    if (!tutorialSeen()) markTutorialSeen();
     this.markPop();
     const prevClue = s.activeClue;
+    if (s.practice) {
+      // rehber: kutlama/kedi/ödül akışı yok, sıradaki soruya da rehber
+      // kendi adımıyla geçirir
+      typeLetter(s, key);
+      if (prevClue !== null && this.isWordCorrect(prevClue)) {
+        playCorrect();
+        this.flashClue = prevClue;
+      }
+      this.refresh();
+      return;
+    }
     const wasCompleted = s.completed;
     const alreadySolved = isSolvedPuzzle(s.puzzle.id);
     const wasFirstEverSolve = solvedCount() === 0;
@@ -1086,8 +1129,6 @@ export class App {
     bar.appendChild(actions);
     wrap.appendChild(bar);
 
-    if (!tutorialSeen() && !s.completed) wrap.appendChild(this.renderTutorialCoach());
-
     const gridWrap = el("div", "grid-wrap");
     gridWrap.appendChild(this.renderGrid());
     wrap.appendChild(gridWrap);
@@ -1101,28 +1142,177 @@ export class App {
     if (s.completed) this.showCompleted();
   }
 
-  /** İlk bulmacada bir kereye mahsus gösterilen basit rehber kartı. */
-  private renderTutorialCoach(): HTMLElement {
+  // ---------- rehber (tutorial) ----------
+
+  /**
+   * Rehberi başlatır: mini bulmaca "practice" modunda kurulur (kayıt ve
+   * istatistik dokunulmaz), oyuncu adımları tamamlayana kadar ekrandan
+   * çıkış yoktur.
+   */
+  private startTutorial(done: () => void): void {
+    this.state = newGame(TUTORIAL_PUZZLE, { practice: true });
+    this.tutorialDone = done;
+    this.tutorialStep = 0;
+    this.clueFontCache.clear();
+    this.renderTutorial();
+  }
+
+  /** Rehberi kalıcı olarak biter sayar ve çağırana döner. */
+  private finishTutorial(): void {
+    const done = this.tutorialDone ?? (() => this.renderHome());
+    markTutorialSeen();
+    this.state = null;
+    this.tutorialStep = null;
+    this.tutorialDone = null;
+    this.clueFontCache.clear();
+    done();
+  }
+
+  /** Aktif ekranı (oyun ya da rehber) yeniden çizer. */
+  private refresh(): void {
+    if (this.tutorialStep !== null) this.renderTutorial();
+    else this.renderGame();
+  }
+
+  /** Koşulu sağlanmış adımları geçer; rehberin ilerlemesi buradan yürür. */
+  private advanceTutorial(): void {
+    const s = this.state!;
+    while (this.tutorialStep! < TUTORIAL_STEPS.length) {
+      const step = TUTORIAL_STEPS[this.tutorialStep!];
+      if (!step.done || !step.done(s)) break;
+      this.tutorialStep!++;
+    }
+  }
+
+  private renderTutorial(): void {
+    const s = this.state!;
+    this.advanceTutorial();
+    const step = TUTORIAL_STEPS[this.tutorialStep!];
+    if (!step) {
+      this.finishTutorial();
+      return;
+    }
+
+    this.root.innerHTML = "";
+    const wrap = el("div", "game tutorial-game");
+
+    // üst bar: geri butonu yok — rehber bitmeden çıkılmaz
+    const bar = el("div", "topbar");
+    bar.appendChild(el("div", "topbar-title", "Nasıl oynanır?"));
+    const actions = el("div", "topbar-actions");
+    const checkBtn = el("button", "action-btn", "Kontrol");
+    checkBtn.addEventListener("click", () => {
+      const wrong = checkEntries(s);
+      if (wrong === 0) playCorrect();
+      else {
+        playWrong();
+        hapticWrong();
+      }
+      this.renderTutorial();
+      toast(
+        this.root,
+        wrong === 0 ? "Dolu hücrelerin hepsi doğru!" : `${wrong} yanlış harf işaretlendi`,
+      );
+    });
+    // rehberde ipucu bedava: ne günlük hak ne joker harcanır
+    const revealBtn = el("button", "action-btn", "İpucu");
+    revealBtn.addEventListener("click", () => {
+      revealLetter(s);
+      playCorrect();
+      this.renderTutorial();
+    });
+    actions.appendChild(checkBtn);
+    actions.appendChild(revealBtn);
+    bar.appendChild(actions);
+    wrap.appendChild(bar);
+
+    // hamle bekleyen adımlarda yönerge tahtanın üstünde durur; anlatım
+    // adımlarında ise bloklayıcı modal olarak gelir (aşağıda)
+    if (!step.cta) wrap.appendChild(this.tutorialCoach(step.text));
+
+    const gridWrap = el("div", "grid-wrap");
+    gridWrap.appendChild(this.renderGrid());
+    wrap.appendChild(gridWrap);
+    wrap.appendChild(this.renderPanel());
+    wrap.appendChild(this.renderKeyboard());
+    this.root.appendChild(wrap);
+
+    this.sizeGrid();
+    this.fitClueTexts();
+
+    if (step.cta) this.showTutorialModal(step);
+  }
+
+  /** Duman'ın yönerge balonu (hamle beklenen adımlarda tahtanın üstünde). */
+  private tutorialCoach(text: string): HTMLElement {
     const coach = el("div", "tutorial-coach");
     const avatar = el("div", "cat-avatar-wrap cat-avatar-mini");
     avatar.innerHTML = catAvatar(DUMAN, false);
     coach.appendChild(avatar);
     const body = el("div", "tutorial-coach-body");
-    body.appendChild(
-      el(
-        "p",
-        "tutorial-coach-text",
-        "Merhaba, ben Duman! 🐾 Yukarıdaki soruyu oku, cevabı klavyeden yazmaya başla — her doğru kelime beni bir sonraki şehre yaklaştırır.",
-      ),
-    );
-    const dismiss = el("button", "tutorial-coach-btn", "Anladım, başlıyorum!");
-    dismiss.addEventListener("click", () => {
-      markTutorialSeen();
-      this.renderGame();
-    });
-    body.appendChild(dismiss);
+    body.appendChild(el("p", "tutorial-coach-text", text));
     coach.appendChild(body);
     return coach;
+  }
+
+  /**
+   * Anlatım adımı: tahtayı karartıp tüm dokunuşları kesen modal. Devam
+   * butonuna basılmadan oyuna dönülemez.
+   */
+  private showTutorialModal(step: TutorialStep): void {
+    const overlay = el("div", "overlay tut-overlay");
+    const modal = el("div", "modal tut-modal");
+    const avatar = el("div", "cat-avatar-wrap cat-avatar-lg");
+    avatar.innerHTML = catFullBody(DUMAN, false);
+    modal.appendChild(avatar);
+    modal.appendChild(
+      el(
+        "div",
+        "tut-modal-progress",
+        `Adım ${this.tutorialStep! + 1}/${TUTORIAL_STEPS.length}`,
+      ),
+    );
+    modal.appendChild(el("p", "modal-text", step.text));
+    if (step.highlightTools) {
+      // modal tahtayı karartıyor; anlatılan iki araç örnek olarak burada
+      // gösterilir
+      const demo = el("div", "tut-tool-demo");
+      demo.appendChild(el("span", "action-btn", "Kontrol"));
+      demo.appendChild(el("span", "action-btn", "İpucu"));
+      modal.appendChild(demo);
+    }
+    const btn = el("button", "modal-btn", step.cta!);
+    btn.addEventListener("click", () => {
+      this.tutorialStep!++;
+      if (this.tutorialStep! >= TUTORIAL_STEPS.length) this.finishTutorial();
+      else this.renderTutorial();
+    });
+    modal.appendChild(btn);
+    overlay.appendChild(modal);
+    this.root.appendChild(overlay);
+  }
+
+  /**
+   * Rehberdeki hamle süzgeci: adımın istediği dışındaki dokunuşlar (başka
+   * kutuya geçme, soru değiştirme…) yok sayılır ve oyuncu nazikçe hedefe
+   * yönlendirilir. Rehberi "zorunlu" yapan kısım burası.
+   */
+  private tutorialBlocks(kind: "cell" | "key", row?: number, col?: number): boolean {
+    if (this.tutorialStep === null) return false;
+    const step = TUTORIAL_STEPS[this.tutorialStep];
+    if (!step || step.cta) return true; // modal adımı: tahta kapalı
+    if (kind === "key") {
+      if (!step.target) return false;
+      toast(this.root, "Önce ışıldayan yere dokun 🐾");
+      return true;
+    }
+    if (!step.target) {
+      toast(this.root, "Şimdilik klavyeden yazman yeterli 🐾");
+      return true;
+    }
+    if (step.target.row === row && step.target.col === col) return false;
+    toast(this.root, "Işıldayan kutuya dokun 🐾");
+    return true;
   }
 
   /**
@@ -1246,6 +1436,12 @@ export class App {
       starts.set(idx, [...(starts.get(idx) ?? []), ci]);
     });
 
+    // rehberdeki adımın "buraya dokun" hedefi
+    const target =
+      this.tutorialStep !== null
+        ? TUTORIAL_STEPS[this.tutorialStep]?.target
+        : undefined;
+
     // doğru tamamlanmış kelimelerin hücreleri kalıcı yeşil görünür
     const doneCells = new Set<number>();
     s.puzzle.clues.forEach((_, ci) => {
@@ -1257,8 +1453,10 @@ export class App {
 
     for (const cell of s.grid.cells) {
       const i = cell.row * s.grid.cols + cell.col;
+      const isTarget = target?.row === cell.row && target?.col === cell.col;
       if (cell.kind === "clue") {
         const div = el("div", "cell clue-cell");
+        if (isTarget) div.classList.add("tut-target");
         if (cell.clueIndexes.length === 0) div.classList.add("block-cell");
         if (
           s.activeClue !== null &&
@@ -1278,11 +1476,9 @@ export class App {
           if (cached) text.style.fontSize = cached;
           part.appendChild(text);
           const selectClue = () => {
-            const start = s.grid.cluePlacements[ci][0];
-            s.activeClue = ci;
-            s.selRow = start.row;
-            s.selCol = start.col;
-            this.renderGame();
+            if (this.tutorialBlocks("cell", cell.row, cell.col)) return;
+            this.activateClue(ci);
+            this.refresh();
           };
           part.addEventListener("click", selectClue);
           div.appendChild(part);
@@ -1290,6 +1486,7 @@ export class App {
         grid.appendChild(div);
       } else {
         const div = el("div", "cell letter-cell");
+        if (isTarget) div.classList.add("tut-target");
         if (activeCells.has(i)) div.classList.add("in-active-word");
         if (s.selRow === cell.row && s.selCol === cell.col) {
           div.classList.add("selected");
@@ -1312,8 +1509,9 @@ export class App {
           div.appendChild(arrow);
         }
         div.addEventListener("click", () => {
+          if (this.tutorialBlocks("cell", cell.row, cell.col)) return;
           selectCell(s, cell.row, cell.col);
-          this.renderGame();
+          this.refresh();
         });
         grid.appendChild(div);
       }
@@ -1335,11 +1533,17 @@ export class App {
     const prev = el("button", "panel-nav");
     prev.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18 L9 12 L15 6"/></svg>`;
     prev.setAttribute("aria-label", "Önceki soru");
-    prev.addEventListener("click", () => this.stepClue(-1));
+    prev.addEventListener("click", () => {
+      if (this.tutorialBlocks("cell")) return;
+      this.stepClue(-1);
+    });
     const next = el("button", "panel-nav");
     next.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18 L15 12 L9 6"/></svg>`;
     next.setAttribute("aria-label", "Sonraki soru");
-    next.addEventListener("click", () => this.stepClue(1));
+    next.addEventListener("click", () => {
+      if (this.tutorialBlocks("cell")) return;
+      this.stepClue(1);
+    });
 
     const mid = el("div", "panel-clue");
     if (s.activeClue !== null) {
@@ -1367,9 +1571,11 @@ export class App {
           slot.classList.add("slot-current");
         }
         if (s.wrongCells.has(i)) slot.classList.add("slot-wrong");
+        // panel kutuları hep aktif kelimenin içindedir: dokunuş imleci
+        // taşır, yönü değiştirmez
         slot.addEventListener("click", () => {
-          selectCell(s, p.row, p.col);
-          this.renderGame();
+          moveCursorInActiveClue(s, p.row, p.col);
+          this.refresh();
         });
         slots.appendChild(slot);
       }
@@ -1397,13 +1603,15 @@ export class App {
         if (key === "⌫") {
           btn.classList.add("kb-backspace");
           btn.addEventListener("click", () => {
+            if (this.tutorialBlocks("key")) return;
             playKey();
             hapticKey();
             backspace(s);
-            this.renderGame();
+            this.refresh();
           });
         } else {
           btn.addEventListener("click", () => {
+            if (this.tutorialBlocks("key")) return;
             playKey();
             hapticKey();
             this.handleType(key);
@@ -1526,10 +1734,12 @@ export class App {
       const s = this.state;
       if (!s) return;
       if (e.key === "Backspace") {
+        if (this.tutorialBlocks("key")) return;
         backspace(s);
-        this.renderGame();
+        this.refresh();
         e.preventDefault();
       } else if (/^[a-zA-ZçÇğĞıİöÖşŞüÜ]$/.test(e.key)) {
+        if (this.tutorialBlocks("key")) return;
         this.handleType(e.key);
         e.preventDefault();
       }

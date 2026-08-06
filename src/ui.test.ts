@@ -79,6 +79,9 @@ function openPuzzleCard(root: HTMLElement, index = 0): void {
 
 beforeEach(() => {
   storage.clear();
+  // rehber testleri dışında her senaryo oyunu "rehberi görmüş" oyuncuyla
+  // başlatır; aksi halde ilk açılış rehbere düşer
+  storage.setItem("cengel-tutorial-seen", "1");
 });
 
 describe("hikaye intro", () => {
@@ -288,36 +291,87 @@ describe("açılış ekranı (splash)", () => {
   });
 });
 
-describe("ilk bulmaca rehberi (tutorial)", () => {
-  it("ilk bulmacada gösterilir, ilk harf yazılınca kalıcı olarak kapanır", () => {
-    storage.setItem("cengel-story-seen", "1");
+describe("zorunlu ilk açılış rehberi (tutorial)", () => {
+  /** Rehber ızgarasındaki (r,c) hücresine dokunur (soru hücresi de olabilir) */
+  function tapCell(root: HTMLElement, r: number, c: number): void {
+    const cells = root.querySelectorAll<HTMLElement>(".grid > .cell");
+    const cell = cells[r * 5 + c];
+    if (!cell) throw new Error(`rehber hücresi yok: (${r},${c})`);
+    (cell.querySelector<HTMLElement>(".clue-part") ?? cell).click();
+  }
+
+  /** Rehberi baştan sona, tarif edilen hamleleri yaparak oynar */
+  function playTutorial(root: HTMLElement): void {
+    clickWithText(root, ".modal-btn", "Hadi başlayalım");
+    tapCell(root, 1, 0); // KEDİ sorusu
+    typeWord(root, "KEDİ");
+    clickWithText(root, ".modal-btn", "Devam");
+    tapCell(root, 1, 3); // kesişen D kutusu → DAL'a kilitlenir
+    typeWord(root, "DAL");
+    clickWithText(root, ".modal-btn", "Anladım");
+    tapCell(root, 2, 0); // SAAT sorusu
+    typeWord(root, "SAAT");
+    clickWithText(root, ".modal-btn", "Oynamaya başla");
+  }
+
+  it("oyun ilk açıldığında hikayeden sonra gelir ve bitince ana menüye bırakır", () => {
+    storage.removeItem("cengel-tutorial-seen");
     const root = freshRoot();
     newApp(root, [PUZZLE_A]).start();
 
-    openPuzzleCard(root, 0);
-    expect(root.querySelector(".tutorial-coach")).toBeTruthy();
+    clickWithText(root, ".intro-btn", "Yolculuğa başla");
+    expect(root.querySelector(".tutorial-game")).toBeTruthy();
+    expect(root.querySelector(".home")).toBeFalsy();
 
-    clickWithText(root, ".kb-key", "B");
-    expect(root.querySelector(".tutorial-coach")).toBeFalsy();
+    playTutorial(root);
+
+    expect(root.querySelector(".tutorial-game")).toBeFalsy();
+    expect(root.querySelector(".home")).toBeTruthy();
     expect(storage.getItem("cengel-tutorial-seen")).toBe("1");
-
-    // bir sonraki açılışta bile tekrar gösterilmez
-    const back = root.querySelector<HTMLElement>(".icon-btn")!;
-    back.click();
-    openPuzzleCard(root, 0);
-    expect(root.querySelector(".tutorial-coach")).toBeFalsy();
+    // rehber bulmacası ne ilerleme ne istatistik bırakır
+    expect(storage.getItem("cengel-progress-tutorial")).toBeNull();
+    expect(storage.getItem("cengel-stats")).toBeNull();
   });
 
-  it("Anladım butonuyla da kapatılabilir", () => {
+  it("adımın istediği dışındaki hamleleri yok sayar", () => {
+    storage.removeItem("cengel-tutorial-seen");
     storage.setItem("cengel-story-seen", "1");
     const root = freshRoot();
     newApp(root, [PUZZLE_A]).start();
 
-    openPuzzleCard(root, 0);
-    clickWithText(root, ".tutorial-coach-btn", "Anladım, başlıyorum!");
+    // anlatım adımı bloklayıcı modal ile gelir: tahtada klavye yok sayılır
+    expect(root.querySelector(".tut-modal")).toBeTruthy();
+    clickWithText(root, ".kb-key", "K");
+    expect(root.querySelector(".tut-modal")).toBeTruthy();
 
-    expect(root.querySelector(".tutorial-coach")).toBeFalsy();
-    expect(storage.getItem("cengel-tutorial-seen")).toBe("1");
+    clickWithText(root, ".modal-btn", "Hadi başlayalım");
+
+    // "soruya dokun" adımı: yanlış hücreye dokunuş ve klavye çalışmaz
+    tapCell(root, 2, 0);
+    expect(root.querySelector(".toast")?.textContent).toContain("Işıldayan kutuya dokun");
+    clickWithText(root, ".kb-key", "K");
+    expect(root.querySelector(".toast")?.textContent).toContain("Önce ışıldayan yere dokun");
+
+    tapCell(root, 1, 0);
+    expect(root.querySelectorAll(".tut-target").length).toBe(0); // yazma adımı
+    typeWord(root, "KEDİ");
+    expect(root.querySelector(".tut-modal")).toBeTruthy(); // sıradaki anlatım
+  });
+
+  it("daha önce oynandıysa açılışta tekrar gelmez, Ayarlar'dan tekrar oynanabilir", () => {
+    storage.setItem("cengel-story-seen", "1");
+    const root = freshRoot();
+    newApp(root, [PUZZLE_A]).start();
+
+    expect(root.querySelector(".tutorial-game")).toBeFalsy();
+    expect(root.querySelector(".home")).toBeTruthy();
+
+    clickWithText(root, ".bottom-nav-label", "Ayarlar");
+    clickWithText(root, ".puzzle-title", "Nasıl oynanır?");
+    expect(root.querySelector(".tutorial-game")).toBeTruthy();
+
+    playTutorial(root);
+    expect(root.querySelector(".settings-screen")).toBeTruthy();
   });
 });
 
