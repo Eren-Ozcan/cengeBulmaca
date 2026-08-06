@@ -3,6 +3,7 @@ import {
   backspace,
   checkEntries,
   isSolved,
+  moveCursorInActiveClue,
   newGame,
   revealLetter,
   selectCell,
@@ -44,18 +45,76 @@ describe("selectCell", () => {
     expect(s.activeClue).toBe(0);
   });
 
+  it("kesişimde yön, sorusu en yakın olan kelimeye kilitlenir", () => {
+    const s = newGame(tiny);
+    // (1,1) hem BAL'ın 2. harfi (sorusuna uzaklık 2) hem AT'ın 1. harfi
+    // (uzaklık 1) — yakın olan AT kazanır
+    selectCell(s, 1, 1);
+    expect(s.activeClue).toBe(1);
+  });
+
+  it("aktif kelime uzak kalsa bile dokunulan kutu yakın soruya geçer", () => {
+    const s = newGame(tiny);
+    selectCell(s, 1, 0); // BAL
+    expect(s.activeClue).toBe(0);
+    selectCell(s, 1, 1); // kesişim: AT'ın sorusu daha yakın
+    expect(s.activeClue).toBe(1);
+  });
+
   it("kesişimde tekrar dokununca diğer kelimeye geçer", () => {
     const s = newGame(tiny);
     selectCell(s, 1, 1);
-    expect(s.activeClue).toBe(0);
-    selectCell(s, 1, 1);
     expect(s.activeClue).toBe(1);
+    selectCell(s, 1, 1);
+    expect(s.activeClue).toBe(0);
   });
 
   it("ipucu hücresine dokunuş yok sayılır", () => {
     const s = newGame(tiny);
     selectCell(s, 0, 0);
     expect(s.selRow).toBeNull();
+  });
+});
+
+describe("moveCursorInActiveClue", () => {
+  it("imleci taşır ama aktif kelimeyi değiştirmez", () => {
+    const s = newGame(tiny);
+    selectCell(s, 1, 0); // BAL
+    moveCursorInActiveClue(s, 1, 1); // kesişim, ama yön değişmemeli
+    expect(s.selCol).toBe(1);
+    expect(s.activeClue).toBe(0);
+  });
+
+  it("aktif kelimenin dışındaki hücreyi yok sayar", () => {
+    const s = newGame(tiny);
+    selectCell(s, 1, 0); // BAL
+    moveCursorInActiveClue(s, 2, 1); // sadece AT'ta
+    expect(s.selRow).toBe(1);
+    expect(s.selCol).toBe(0);
+  });
+});
+
+describe("rehber (practice) modu", () => {
+  it("ilerlemeyi kaydetmez ve çözüm istatistiğe işlenmez", () => {
+    const s = newGame(tiny, { practice: true });
+    selectCell(s, 1, 0);
+    typeLetter(s, "B");
+    typeLetter(s, "A");
+    typeLetter(s, "L");
+    selectCell(s, 2, 1);
+    typeLetter(s, "T");
+
+    expect(s.completed).toBe(true);
+    expect(storage.getItem("cengel-progress-test-game")).toBeNull();
+    expect(storage.getItem("cengel-stats")).toBeNull();
+  });
+
+  it("kayıtlı ilerlemeyi yüklemez", () => {
+    const s1 = newGame(tiny);
+    selectCell(s1, 1, 0);
+    typeLetter(s1, "B");
+    const s2 = newGame(tiny, { practice: true });
+    expect(s2.entries[1 * 3 + 0]).toBe("");
   });
 });
 

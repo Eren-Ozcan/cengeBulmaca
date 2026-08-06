@@ -15,11 +15,21 @@ export interface GameState {
   /** Kontrol sonucu yanlış işaretlenen hücreler */
   wrongCells: Set<number>;
   completed: boolean;
+  /** Rehber (tutorial) oyunu: ilerleme kaydedilmez, istatistiğe işlenmez */
+  practice: boolean;
+}
+
+export interface NewGameOptions {
+  /** Rehber oyunu: kayıt/istatistik dokunulmaz (bkz. GameState.practice) */
+  practice?: boolean;
 }
 
 const STORAGE_PREFIX = "cengel-progress-";
 
-export function newGame(puzzle: PuzzleDef): GameState {
+export function newGame(
+  puzzle: PuzzleDef,
+  options: NewGameOptions = {},
+): GameState {
   const grid = buildGrid(puzzle);
   const entries = new Array(grid.rows * grid.cols).fill("");
   const state: GameState = {
@@ -31,9 +41,12 @@ export function newGame(puzzle: PuzzleDef): GameState {
     activeClue: null,
     wrongCells: new Set(),
     completed: false,
+    practice: options.practice === true,
   };
-  loadProgress(state);
-  state.completed = isSolved(state);
+  if (!state.practice) {
+    loadProgress(state);
+    state.completed = isSolved(state);
+  }
   return state;
 }
 
@@ -50,9 +63,33 @@ export function letterCellAt(
 }
 
 /**
- * Hücreye dokunma: hücre seçilir, aktif kelime belirlenir.
- * Aynı hücreye tekrar dokunulursa (iki kelimenin kesişimindeyse)
- * diğer kelimeye geçilir.
+ * Hücrenin kelime içindeki sırası = o kelimenin sorusuna olan uzaklığı:
+ * soru hücresi her zaman kelimenin ilk harfinin hemen yanındadır, yani
+ * k'ıncı harfin soruya uzaklığı k+1'dir. Hücre kelimede yoksa -1.
+ */
+function distanceToClue(s: GameState, ci: number, r: number, c: number): number {
+  return s.grid.cluePlacements[ci].findIndex((p) => p.row === r && p.col === c);
+}
+
+/** Hücreden geçen kelimeler içinde sorusu en yakın olanı */
+function nearestClue(s: GameState, cell: LetterCell): number {
+  let best = cell.clueIndexes[0];
+  let bestDist = Infinity;
+  for (const ci of cell.clueIndexes) {
+    const d = distanceToClue(s, ci, cell.row, cell.col);
+    if (d >= 0 && d < bestDist) {
+      bestDist = d;
+      best = ci;
+    }
+  }
+  return best;
+}
+
+/**
+ * Hücreye dokunma: hücre seçilir ve yazma yönü, hücreye EN YAKIN soruya
+ * kilitlenir — kesişen iki kelimeden sorusu daha yakın olan aktif olur,
+ * böylece dokunulan kutunun hangi soruya ait olduğu tahmin gerektirmez.
+ * Aynı hücreye tekrar dokunulursa (kesişimdeyse) diğer kelimeye geçilir.
  */
 export function selectCell(s: GameState, r: number, c: number): void {
   const cell = letterCellAt(s, r, c);
@@ -63,13 +100,24 @@ export function selectCell(s: GameState, r: number, c: number): void {
   s.selCol = c;
 
   const clues = cell.clueIndexes;
-  if (s.activeClue !== null && clues.includes(s.activeClue) && sameCell) {
+  if (sameCell && s.activeClue !== null && clues.includes(s.activeClue)) {
     // aynı hücrede tekrar dokunuş: sıradaki kelimeye geç
     const i = clues.indexOf(s.activeClue);
     s.activeClue = clues[(i + 1) % clues.length];
-  } else if (s.activeClue === null || !clues.includes(s.activeClue)) {
-    s.activeClue = clues[0];
+  } else {
+    s.activeClue = nearestClue(s, cell);
   }
+}
+
+/**
+ * İmleci aktif kelimenin içinde taşır (cevap panelindeki harf kutuları için).
+ * selectCell'den farkı: yönü değiştirmez, kesişen kelimeye atlamaz.
+ */
+export function moveCursorInActiveClue(s: GameState, r: number, c: number): void {
+  if (s.activeClue === null) return;
+  if (distanceToClue(s, s.activeClue, r, c) < 0) return;
+  s.selRow = r;
+  s.selCol = c;
 }
 
 /** Aktif kelime içinde seçili hücrenin sırasını döndürür */
@@ -151,6 +199,7 @@ export function revealLetter(s: GameState): void {
 function finishIfSolved(s: GameState): void {
   if (isSolved(s)) {
     s.completed = true;
+    if (s.practice) return;
     clearProgress(s.puzzle.id);
     recordCompletion(s.puzzle.id);
   } else {
@@ -168,6 +217,7 @@ export function isSolved(s: GameState): boolean {
 }
 
 function saveProgress(s: GameState): void {
+  if (s.practice) return;
   try {
     localStorage.setItem(
       STORAGE_PREFIX + s.puzzle.id,
