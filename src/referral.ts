@@ -22,15 +22,7 @@
 // sessizce no-op döner — ads.ts/billing.ts ile aynı kod deyimi.
 
 import { grantJokers } from "./economy.ts";
-
-const FIREBASE_CONFIG = {
-  apiKey: "AIzaSyDAYdtc5t_-rUgLFg-_Y30cvFpwqWSuC8c",
-  authDomain: "cengel-bulmaca-c504d.firebaseapp.com",
-  projectId: "cengel-bulmaca-c504d",
-  storageBucket: "cengel-bulmaca-c504d.firebasestorage.app",
-  messagingSenderId: "211808649907",
-  appId: "1:211808649907:web:f75b8c07a446d8e8c4e6c6",
-};
+import { ensureUid, firebaseSdk, isFirebaseConfigured } from "./firebase-app.ts";
 
 const REFERRAL_REWARD = 3;
 const SYNCED_KEY = "cengel-referral-synced";
@@ -41,10 +33,6 @@ type FirestoreModules = typeof import("firebase/firestore");
 let db: import("firebase/firestore").Firestore | null = null;
 let fs: FirestoreModules | null = null;
 let readyPromise: Promise<string | null> | null = null;
-
-function isConfigured(): boolean {
-  return Boolean(FIREBASE_CONFIG.apiKey && FIREBASE_CONFIG.projectId);
-}
 
 /** URL'deki ?ref=<uid> parametresini bir kereye mahsus okuyup temizler. */
 function captureIncomingRef(): string | null {
@@ -62,33 +50,30 @@ function captureIncomingRef(): string | null {
 }
 
 /**
- * Firebase'i başlatır, anonim oturum açar ve (ilk kez oluşturuluyorsa)
- * oyuncu belgesini davet sahibiyle birlikte yazar. Kendi uid'sini
- * döndürür; yapılandırma yoksa/hata olursa null döner.
+ * Oyuncu kimliğini alır ve (ilk kez oluşturuluyorsa) oyuncu belgesini davet
+ * sahibiyle birlikte yazar. Kendi uid'sini döndürür; yapılandırma yoksa/hata
+ * olursa null döner.
+ *
+ * Firebase uygulaması ve anonim oturum artık firebase-app.ts'te paylaşılıyor:
+ * bulut kaydı (cloud-save.ts) da aynı kimliği kullanıyor ve initializeApp()
+ * ikinci kez çağrılırsa Firebase "app/duplicate-app" hatası verirdi.
  */
 async function ensureReady(): Promise<string | null> {
-  if (!isConfigured()) return null;
+  if (!isFirebaseConfigured()) return null;
   readyPromise ??= (async () => {
     try {
-      const [{ initializeApp }, authMod, firestoreMod] = await Promise.all([
-        import("firebase/app"),
-        import("firebase/auth"),
-        import("firebase/firestore"),
-      ]);
-      fs = firestoreMod;
-      const app = initializeApp(FIREBASE_CONFIG);
-      const auth = authMod.getAuth(app);
-      db = firestoreMod.getFirestore(app);
-
-      const cred = await authMod.signInAnonymously(auth);
-      const uid = cred.user.uid;
+      const uid = await ensureUid();
+      const sdk = await firebaseSdk();
+      if (!uid || !sdk) return null;
+      fs = sdk.fs;
+      db = sdk.db;
 
       const ref = captureIncomingRef();
-      const playerRef = firestoreMod.doc(db, "players", uid);
-      const snap = await firestoreMod.getDoc(playerRef);
+      const playerRef = sdk.fs.doc(db, "players", uid);
+      const snap = await sdk.fs.getDoc(playerRef);
       if (!snap.exists()) {
-        await firestoreMod.setDoc(playerRef, {
-          createdAt: firestoreMod.serverTimestamp(),
+        await sdk.fs.setDoc(playerRef, {
+          createdAt: sdk.fs.serverTimestamp(),
           referredBy: ref && ref !== uid ? ref : null,
           firstPuzzleRewardClaimed: false,
           jokerBalanceCloud: 0,

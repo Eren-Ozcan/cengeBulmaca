@@ -1,11 +1,11 @@
 // @vitest-environment jsdom
 //
-// FIREBASE_CONFIG artık gerçek proje bilgilerini içeriyor (bkz. referral.ts),
-// bu yüzden Firebase modülleri burada mock'lanır — testler gerçek ağa hiç
-// gitmez ve prod Firestore'da veri oluşturmaz. signInAnonymously başarısız
-// olacak şekilde mock'landığı için ensureReady() her durumda null döner ve
-// tüm dışa açık fonksiyonların bu hata karşısında sessizce no-op kaldığı
-// doğrulanır.
+// FIREBASE_CONFIG artık gerçek proje bilgilerini içeriyor (bkz.
+// firebase-app.ts), bu yüzden Firebase modülleri burada mock'lanır — testler
+// gerçek ağa hiç gitmez ve prod Firestore'da veri oluşturmaz. Kalıcı oturum
+// yokmuş (onAuthStateChanged null verir) ve signInAnonymously başarısızmış
+// gibi davranılır; böylece ensureReady() her durumda null döner ve tüm dışa
+// açık fonksiyonların bu hata karşısında sessizce no-op kaldığı doğrulanır.
 
 import { describe, expect, it, vi } from "vitest";
 
@@ -14,6 +14,12 @@ vi.mock("firebase/app", () => ({
 }));
 vi.mock("firebase/auth", () => ({
   getAuth: vi.fn(() => ({})),
+  // firebase-app.ts önce kalıcı oturumun geri yüklenmesini bekler; mock
+  // "oturum yok" der ve akış anonim girişe düşer.
+  onAuthStateChanged: vi.fn((_auth: unknown, next: (u: unknown) => void) => {
+    next(null);
+    return () => {};
+  }),
   signInAnonymously: vi.fn(() => Promise.reject(new Error("network unavailable in test"))),
 }));
 vi.mock("firebase/firestore", () => ({
