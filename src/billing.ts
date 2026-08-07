@@ -29,14 +29,50 @@ export interface JokerPack {
   popular?: boolean;
 }
 
-/** UI'da gösterilen fiyat etiketleri — Play Console'daki güncel fiyatlarla
- * eşleşecek şekilde elle senkron tutulur. */
+/**
+ * Mağazaya ulaşılamadığında gösterilecek YEDEK fiyat etiketleri. Gerçek fiyat
+ * loadStorePrices() ile mağazadan çekilir ve oyuncunun ülkesine/para birimine
+ * göre gelir (₺, €, ₹ — Play ne diyorsa). Buradaki değerler yalnızca web/dev
+ * ortamında ve mağaza cevap vermediğinde görünür.
+ */
 export const JOKER_PACKS: JokerPack[] = [
-  { id: "jokers_5", count: 5, priceLabel: "₺19,99" },
-  { id: "jokers_10", count: 10, priceLabel: "₺34,99" },
-  { id: "jokers_20", count: 20, priceLabel: "₺59,99", popular: true },
-  { id: "jokers_50", count: 50, priceLabel: "₺119,99" },
+  { id: "jokers_5", count: 5, priceLabel: "$1.99" },
+  { id: "jokers_10", count: 10, priceLabel: "$3.99" },
+  { id: "jokers_20", count: 20, priceLabel: "$6.99", popular: true },
+  { id: "jokers_50", count: 50, priceLabel: "$12.99" },
 ];
+
+/** productId -> mağazanın verdiği yerelleştirilmiş fiyat metni */
+const storePrices: Record<string, string> = {};
+
+/**
+ * Bir ürünün gösterilecek fiyatı: mağazadan geldiyse o, yoksa yedek etiket.
+ * Böylece fiyat alanı hiçbir zaman boş kalmaz.
+ */
+export function priceLabelFor(productId: string, fallback: string): string {
+  return storePrices[productId] ?? fallback;
+}
+
+/**
+ * Mağazadan yerelleştirilmiş fiyatları çeker. Sessizce başarısız olur —
+ * fiyat çekilemezse yedek etiketler kalır ve mağaza yine de açılır.
+ * Aynı ürünler için tekrar çağrılması zararsızdır.
+ */
+export async function loadStorePrices(): Promise<void> {
+  if (!(await ensureConfigured())) return;
+  try {
+    const ids = [...JOKER_PACKS.map((p) => p.id), REMOVE_ADS_PRODUCT_ID];
+    const { products } = await Purchases.getProducts({
+      productIdentifiers: ids,
+      type: PRODUCT_CATEGORY.NON_SUBSCRIPTION,
+    });
+    for (const p of products) {
+      if (p.priceString) storePrices[p.identifier] = p.priceString;
+    }
+  } catch {
+    /* yedek etiketler kalır */
+  }
+}
 
 let configured = false;
 
@@ -80,8 +116,9 @@ export async function purchaseJokerPack(packId: string): Promise<number> {
 
 // ---------- reklamları kaldır (tek seferlik, tüketilmeyen ürün) ----------
 
-const REMOVE_ADS_PRODUCT_ID = "remove_ads";
-export const REMOVE_ADS_PRICE_LABEL = "₺29,99";
+export const REMOVE_ADS_PRODUCT_ID = "remove_ads";
+/** Yedek etiket — gerçek fiyat için bkz. loadStorePrices / priceLabelFor. */
+export const REMOVE_ADS_PRICE_LABEL = "$2.99";
 
 const ADS_REMOVED_KEY = "cengel-ads-removed";
 

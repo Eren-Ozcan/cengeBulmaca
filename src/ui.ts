@@ -34,9 +34,12 @@ import { CAT_UNLOCK_REWARD, grantJokers, jokerBalance, spendJoker } from "./econ
 import {
   adsRemoved,
   JOKER_PACKS,
+  loadStorePrices,
+  priceLabelFor,
   purchaseJokerPack,
   purchaseRemoveAds,
   REMOVE_ADS_PRICE_LABEL,
+  REMOVE_ADS_PRODUCT_ID,
 } from "./billing.ts";
 import { musicEnabled, toggleMusic } from "./music.ts";
 import { currentTheme, toggleTheme } from "./theme.ts";
@@ -157,6 +160,8 @@ export class App {
    * atılmayı önler.
    */
   private exitArmedUntil = 0;
+  /** Mağaza fiyatları bir kez çekildi mi (bkz. renderShop) */
+  private storePricesLoaded = false;
 
   constructor(root: HTMLElement, puzzles: PuzzleDef[], options: AppOptions = {}) {
     this.root = root;
@@ -821,7 +826,11 @@ export class App {
         ),
       );
       removeAdsCard.appendChild(removeAdsInfo);
-      const removeAdsBtn = el("button", "invite-btn", REMOVE_ADS_PRICE_LABEL);
+      const removeAdsBtn = el(
+        "button",
+        "invite-btn",
+        priceLabelFor(REMOVE_ADS_PRODUCT_ID, REMOVE_ADS_PRICE_LABEL),
+      );
       removeAdsBtn.addEventListener("click", () => void this.buyRemoveAds(removeAdsCard));
       removeAdsCard.appendChild(removeAdsBtn);
       wrap.appendChild(removeAdsCard);
@@ -834,7 +843,9 @@ export class App {
       if (pack.popular) card.appendChild(el("div", "shop-pack-badge", "Popüler"));
       card.appendChild(el("div", "shop-pack-icon", "🃏"));
       card.appendChild(el("div", "shop-pack-count", `${pack.count} Joker`));
-      card.appendChild(el("div", "shop-pack-price", pack.priceLabel));
+      card.appendChild(
+        el("div", "shop-pack-price", priceLabelFor(pack.id, pack.priceLabel)),
+      );
       card.addEventListener("click", () => void this.buyJokerPack(pack.id, card));
       grid.appendChild(card);
     });
@@ -842,6 +853,16 @@ export class App {
 
     this.root.appendChild(wrap);
     this.root.appendChild(this.renderBottomNav("shop"));
+
+    // Fiyatlar oyuncunun kendi para biriminde olmalı. Mağaza cevabı BEKLENMEZ —
+    // ekran yedek etiketlerle hemen açılır, fiyatlar gelince kullanıcı hâlâ
+    // mağazadaysa bir kez tazelenir.
+    if (!this.storePricesLoaded) {
+      void loadStorePrices().then(() => {
+        this.storePricesLoaded = true;
+        if (this.screen === "shop") this.renderShop();
+      });
+    }
   }
 
   private async buyJokerPack(packId: string, card: HTMLElement): Promise<void> {
