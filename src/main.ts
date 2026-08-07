@@ -27,4 +27,27 @@ const root = document.querySelector<HTMLDivElement>("#app")!;
 void initCloudSave(root);
 const app = new App(root, puzzles);
 app.attachPhysicalKeyboard();
+attachAndroidBackButton(app);
 app.start();
+
+/**
+ * Android geri tuşunu uygulama içi gezinmeye bağlar.
+ *
+ * Bir dinleyici KAYDEDİLMEDİĞİ sürece Capacitor geri tuşunu doğrudan
+ * uygulamayı kapatmaya çevirir — oyuncu bulmacanın ortasındayken bile.
+ * Karar mantığı App.handleBack()'te; burada yalnızca eklentiye bağlanıyor.
+ *
+ * Eklenti yoksa (tarayıcıda çalışırken) import başarısız olur ve sessizce
+ * geçilir — ads.ts/billing.ts'teki "eklenti yoksa no-op" deyiminin aynısı.
+ */
+function attachAndroidBackButton(instance: App): void {
+  void import("@capacitor/app")
+    .then(({ App: CapApp }) => {
+      void CapApp.addListener("backButton", () => {
+        if (instance.handleBack()) void CapApp.exitApp();
+      });
+    })
+    .catch(() => {
+      /* tarayıcıda geri tuşu diye bir şey yok */
+    });
+}
