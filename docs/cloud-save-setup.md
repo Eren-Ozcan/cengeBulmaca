@@ -63,6 +63,28 @@ The ad-free entitlement is stripped from the payload and re-derived locally. Oth
 sharing a save would hand out the paid version; `src/cloud-save.test.ts` asserts a
 tampered document cannot unlock it.
 
+## When the conflict chooser is skipped
+
+A cloud document ahead of the local `rev` while the local save is dirty is *not* enough
+to ask the player to pick a side: a fresh install is dirty the moment the game paints a
+screen (the starting joker balance is written on first read, the intro and the tutorial
+stamp their "seen" flags). Asking then shows a two-column chooser with one side empty,
+and a player who picks that side loses a real save.
+
+So the branch also consults `hasPlayerProgress()` (exported from `src/cloud-save.ts`,
+unit-tested), which reads the *substance* of the save rather than the dirty flag:
+puzzle progress keys, a stats entry, a joker balance that differs from `START_JOKERS`,
+a used daily hint, or a claimed referral reward. Settings (theme/sound/music), the
+`jokers-init` marker and the story/epilogue/tutorial "seen" stamps deliberately do not
+count — they change without the player earning anything, and counting them would bring
+back the empty chooser this exists to prevent. Anything unreadable or unrecognised
+counts as progress: a wrong "has progress" only falls back to the chooser, a wrong "no
+progress" silently discards the player's game.
+
+Both entry points benefit, because both go through `handleSyncResult()` in
+`src/cloud-ui.ts`: the startup sync and the re-sync after the player links a Google
+account.
+
 ## Privacy policy
 
 Cloud save uploads progress to Google servers under a per-player identifier. `PRIVACY.md`
@@ -85,13 +107,45 @@ Verified, in this order, on a debug build with a real Google account:
   correct: the local save was an untouched default, so the code restored directly
   instead of asking. That is the fast path reefy's roadmap still lists as a to-do.
 
-Not proven:
+## What the two-emulator run proved (2026-08-08)
 
-- **Cross-device restore.** Everything ran on one emulator, so "cloud → this device"
-  was always the same device.
+Two Android 14 emulators, the same Google account, real Firestore:
+
+- **The widened predicate holds on a device.** Device B was a clean install whose only
+  actions were skipping the story screen and the 10-step tutorial. Linking restored A's
+  state directly (2 solved, 1/15 cats, the same cat destination) with **no** chooser —
+  which is exactly what the `*-seen` stamps being excluded from `hasPlayerProgress()`
+  buys. Had they counted, the run would have shown a chooser with an empty side.
+- **A mid-session restore survives the reload.** Choosing "use the cloud one" on A
+  applied the download and reloaded without losing data — the class of bug that cost
+  reefy five fish does not occur here.
+- **Device B → device A works, but only after a timeout fix.** Typing a real answer on
+  B (ŞEMSİYE) and cold-starting A left A empty across several attempts. The sync logic
+  was not at fault: `syncCloudSave()` wrapped the whole identity chain in a 3 s budget,
+  and in this app that chain includes three **dynamic** Firebase imports (app + auth +
+  firestore) before IndexedDB session restore even begins. Overrunning made
+  `withTimeout` return null and the sync go silently `disabled` — no restore, no
+  chooser, no error — and the startup sync runs once per session, so the miss was
+  permanent for that launch. `AUTH_TIMEOUT_MS` is now 15 s. The old 3 s was justified as
+  "don't block startup on a bad network", but startup was never blocked: `main.ts`
+  calls `void initCloudSave(root)` and nothing awaits it. With the fix, A picked up
+  ŞEMSİYE on the next cold start.
+
+Still not proven:
+
+- **Two devices live at once.** Both directions work with the other device idle; the
+  rev race when both write inside the same window was not exercised.
+- **The joker/hint/referral half of the predicate, on a device.** The two-emulator run
+  above exercised the `*-seen` exclusions, which is the half that mattered. The joker
+  balance, used hints and referral rewards are covered in `src/cloud-save.test.ts` but
+  were not the deciding signal in any device run.
+- **The toast before the post-restore reload.** A restore now shows a short toast and
+  reloads ~1.4 s later instead of reloading immediately, so the player is not dropped
+  into what looks like a crash. Only reasoned about, not watched on a device.
 - **Entitlement stripping, in production.** `src/cloud-save.test.ts` asserts that a
   tampered document cannot set `cengel-ads-removed`, and the allowlist makes it
   structurally impossible, but the emulator account never owned the purchase, so the
   guarantee was not exercised against live data.
-- **The conflict chooser with two real, differing saves.** The restore path was
-  exercised; the "both sides changed" path was not.
+- ~~The conflict chooser with two real, differing saves.~~ Done in the 2026-08-08 run:
+  linking on A found a cloud save from an earlier session and showed both columns
+  filled; nothing was merged, and picking the cloud side applied it cleanly.
