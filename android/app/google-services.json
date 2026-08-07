@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "211808649907",
+    "project_id": "cengel-bulmaca-c504d",
+    "storage_bucket": "cengel-bulmaca-c504d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211808649907:android:0a7212791f71fce3c4e6c6",
+        "android_client_info": {
+          "package_name": "com.cengelbulmaca.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211808649907-7r30untabu9rs74dkb5moj2l5f025oc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cengelbulmaca.app",
+            "certificate_hash": "ff7467995cfe8adea37d146857d49cf8195d61fe"
+          }
+        },
+        {
+          "client_id": "211808649907-urg45g6cfokf7pntmn0kbqvffvmrg5hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cengelbulmaca.app",
+            "certificate_hash": "c9690f212a158af84a3babcc3780615ca04e4673"
+          }
+        },
+        {
+          "client_id": "211808649907-kk0b9485fmcf0mnqonbokpjq6t5gadif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAJX9A9KrjEmGYJ1wjaSK5nyc1tCMcOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211808649907-kk0b9485fmcf0mnqonbokpjq6t5gadif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
