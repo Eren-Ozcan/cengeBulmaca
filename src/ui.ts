@@ -138,8 +138,6 @@ export class App {
   private tutorialStep: number | null = null;
   /** Rehber bitince çalışacak dönüş işlevi */
   private tutorialDone: (() => void) | null = null;
-  /** Bu bulmacada "son 4 kelime kala" reklamı zaten gösterildi mi (bulmaca başına en fazla bir kez) */
-  private nearCompletionAdShown = false;
   /**
    * O an çizili olan üst-seviye ekran. Yalnızca Android geri tuşunun nereye
    * döneceğini bilmesi için tutuluyor (bkz. handleBack); alt gezinme çubuğunun
@@ -967,7 +965,6 @@ export class App {
     }
     this.state = newGame(p);
     this.tutorialStep = null;
-    this.nearCompletionAdShown = false;
     this.clueFontCache.clear();
     // kaldığı ipucu/hücre kayıttan geldiyse onu korur; yoksa (ör. ilk açılış)
     // oyuncu hemen yazmaya başlayabilsin diye ilk boş soruyu seçer
@@ -1020,26 +1017,6 @@ export class App {
   }
 
   /**
-   * Bulmacada tam olarak 4 kelime çözülmeden kalınca (bulmaca başına en fazla bir kez)
-   * bir geçiş reklamı dener. Çok az sorulu bulmacalarda (≤4 soru) anlamsız olacağından
-   * atlanır. "Her 3 bulmacada bir" tamamlanış-sonrası kuralının yerini alır.
-   */
-  private maybeShowNearCompletionAd(): void {
-    const s = this.state;
-    if (!s || s.practice || s.completed || this.nearCompletionAdShown) return;
-    const total = s.puzzle.clues.length;
-    if (total <= 4) return;
-    let remaining = 0;
-    for (let i = 0; i < total; i++) {
-      if (!this.isWordCorrect(i)) remaining++;
-    }
-    if (remaining === 4) {
-      this.nearCompletionAdShown = true;
-      void maybeShowInterstitial();
-    }
-  }
-
-  /**
    * Bir hamleyi çalıştırır, bulmaca bu hamleyle tamamlandıysa
    * kutlama efektini tetikler ve ekranı tazeler.
    */
@@ -1054,8 +1031,6 @@ export class App {
       hapticWin();
       this.registerCatUnlock(alreadySolved);
       if (wasFirstEverSolve) void claimFirstPuzzleReferralReward();
-    } else {
-      this.maybeShowNearCompletionAd();
     }
     this.renderGame();
   }
@@ -1109,7 +1084,6 @@ export class App {
     } else if (prevClue !== null && this.isWordCorrect(prevClue)) {
       playCorrect();
       this.flashClue = prevClue;
-      this.maybeShowNearCompletionAd();
       const next = this.findClueWithEmptyCell(prevClue + 1);
       if (next !== null) this.activateClue(next);
     }
@@ -1714,6 +1688,20 @@ export class App {
     return kb;
   }
 
+  /**
+   * Kutlama ekranından (showCompleted) çıkış düğmelerinin ortak davranışı:
+   * geçiş reklamını dener, sonra hedef ekrana geçer. Reklam bilerek kutlama
+   * (konfeti/ödül) oyuncuya zaten TAM gösterildikten SONRA, oyuncu ekrandan
+   * ayrılırken tetiklenir — AdMob'un "aktif oynanış sırasında ya da
+   * öncesinde/sonrasında değil, doğal mola noktasında" kuralına uymak için.
+   * Rehber (practice) modunda showCompleted zaten hiç çağrılmaz, ama burada
+   * da bilerek korunuyor: yanlışlıkla rehberde reklam gösterilmesin.
+   */
+  private leaveCompletedScreen(next: () => void): void {
+    if (!this.state?.practice) void maybeShowInterstitial();
+    next();
+  }
+
   private showCompleted(): void {
     const cat = this.justUnlockedCat;
     const journeyCompleted = this.journeyJustCompleted;
@@ -1771,12 +1759,14 @@ export class App {
       const epilogueBtn = el("button", "modal-btn modal-share", "Hikayenin sonu");
       epilogueBtn.addEventListener("click", () => {
         overlay.remove();
-        this.renderEpilogue(() => this.renderHome());
+        this.leaveCompletedScreen(() => this.renderEpilogue(() => this.renderHome()));
       });
       modal.appendChild(epilogueBtn);
     } else if (cat) {
       const catsBtn = el("button", "modal-btn modal-share", "Kedi Dostlarım'ı gör");
-      catsBtn.addEventListener("click", () => this.renderCollection());
+      catsBtn.addEventListener("click", () =>
+        this.leaveCompletedScreen(() => this.renderCollection()),
+      );
       modal.appendChild(catsBtn);
     }
     const shareBtn = el("button", "modal-btn modal-share", "Sonucu paylaş");
@@ -1784,8 +1774,10 @@ export class App {
     modal.appendChild(shareBtn);
     const btn = el("button", "modal-btn", "Ana menüye dön");
     btn.addEventListener("click", () => {
-      this.state = null;
-      this.renderHome();
+      this.leaveCompletedScreen(() => {
+        this.state = null;
+        this.renderHome();
+      });
     });
     modal.appendChild(btn);
     overlay.appendChild(modal);
