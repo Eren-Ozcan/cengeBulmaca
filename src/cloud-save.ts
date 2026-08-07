@@ -52,7 +52,18 @@ const REV_KEY = "cengel-cloud-rev";
 const FINGERPRINT_KEY = "cengel-cloud-fp";
 
 const UPLOAD_THROTTLE_MS = 60_000; // Firestore günlük yazma kotasını koru (Spark: 20K/gün)
-const AUTH_TIMEOUT_MS = 3_000; // kötü ağda açılışı kilitleme
+// ensureUid() soğuk açılışta üç dinamik import (firebase/app + auth + firestore)
+// yapar, initializeApp'i çalıştırır ve Auth'un kalıcı oturumu IndexedDB'den geri
+// yüklemesini bekler (bkz. firebase-app.ts waitForRestoredUser). Emülatör/düşük
+// donanımlı cihazda bu zincir birkaç saniye sürebilir.
+//
+// Buradaki süre CÖMERT tutulmalı: eski 3 sn'lik değerin gerekçesi "kötü ağda
+// açılışı kilitleme"ydi, ama açılış zaten kilitlenMİYOR — initCloudSave
+// main.ts:27'de `void` ile çağrılıyor ve arayüz onu hiç beklemiyor. Buna
+// karşılık zaman aşımının bedeli ağır: syncCloudSave sessizce "disabled"
+// döner, açılış senkronu OTURUM BOYUNCA BİR KEZ çalıştığı için de bir daha
+// denenmez — oyuncu ne çakışma ekranı ne de geri yükleme görür.
+const AUTH_TIMEOUT_MS = 15_000;
 const FETCH_TIMEOUT_MS = 4_000;
 // setDoc() çevrimdışıyken ÇÖZÜLMEZ: Firestore yazmayı yerel kuyruğa alır ve
 // sözü sunucu onaylayana kadar askıda tutar. Zaman aşımı olmadan upload()
