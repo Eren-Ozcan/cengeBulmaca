@@ -70,10 +70,34 @@ function handleSyncResult(root: HTMLElement, result: CloudSyncResult): void {
   if (result === "conflict") {
     showConflict(root);
   } else if (result === "restored") {
-    window.location.reload();
+    // Geri yükleme her iki çağrı yerinde de ekran çizildikten SONRA döner
+    // (açılış senkronu bilerek bloklamıyor, hesap bağlama zaten oyun
+    // ortasında). Habersiz bir yeniden yükleme oyuncuya çökme gibi görünürdü:
+    // önce ne olduğunu söyle, sonra yenile.
+    reloadAfterRestore(root);
   } else if (result === "needs-update") {
     toast(root, "Bulut kaydın daha yeni bir sürümle oluşturulmuş. Uygulamayı güncelle.");
   }
+}
+
+/** Toast'ın okunmasına yetecek kadar; dosya başındaki yeniden yükleme notuna bak. */
+const RESTORE_RELOAD_MS = 1_400;
+
+/**
+ * Buluttan gelen kayıt uygulandıktan sonra sayfayı yeniler. Kayıt zaten
+ * localStorage'a yazıldı; yenileme yalnızca ekrandaki eski değerleri
+ * tazelemek için.
+ *
+ * Bu gecikme sırasında oyuncu oynamaya devam edebilir ve ekrandaki bulmacanın
+ * bellekteki durumu HÂLÂ ESKİ kayda ait. Yazmasına izin verilseydi yeni gelen
+ * ilerlemeyi ezer, sonra da (bu fonksiyonun tetiklediği yenileme "pagehide"
+ * ürettiği için) diğer cihazın bulut kaydının üstüne yüklenirdi. Bu yüzden
+ * geri yükleme anından itibaren hem bayat yerel yazma hem bulut yazması
+ * dondurulur — bkz. cloud-save.ts `frozen`.
+ */
+function reloadAfterRestore(root: HTMLElement): void {
+  toast(root, "Buluttaki ilerlemen getirildi, oyun yenileniyor…");
+  window.setTimeout(() => window.location.reload(), RESTORE_RELOAD_MS);
 }
 
 /**

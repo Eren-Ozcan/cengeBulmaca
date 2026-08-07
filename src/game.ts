@@ -1,3 +1,4 @@
+import { isSaveFrozen } from "./cloud-save.ts";
 import { buildGrid, trUpper } from "./puzzle.ts";
 import { recordCompletion } from "./stats.ts";
 import type { Grid, LetterCell, PuzzleDef } from "./types.ts";
@@ -294,6 +295,11 @@ export function isSolved(s: GameState): boolean {
 
 function saveProgress(s: GameState): void {
   if (s.practice) return;
+  // Buluttan yeni bir kayıt indirildiyse (sayfa yenilenene kadar) yazma:
+  // `s.entries` bulmaca AÇILIRKEN okunmuştu, yani indirilen ilerlemeden
+  // önceki oyuna ait. Tek bir tuş bile o bayat diziyi yeni kaydın üstüne
+  // yazar ve ardından buluta yüklenirdi (bkz. cloud-save.ts isSaveFrozen).
+  if (isSaveFrozen()) return;
   try {
     localStorage.setItem(
       STORAGE_PREFIX + s.puzzle.id,
