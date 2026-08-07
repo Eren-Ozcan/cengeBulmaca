@@ -2,6 +2,7 @@ import { beforeEach, describe, expect, it } from "vitest";
 import {
   backspace,
   checkEntries,
+  isCellLocked,
   isSolved,
   moveCursorInActiveClue,
   newGame,
@@ -145,6 +146,65 @@ describe("typeLetter", () => {
     typeLetter(s, "T");
     expect(isSolved(s)).toBe(true);
     expect(s.completed).toBe(true);
+  });
+});
+
+describe("çözülmüş kelimenin harfleri kilitlenir", () => {
+  /** BAL'ı doğru tamamlar; kesişen (1,1)='A' artık kilitlidir */
+  function solveBal(s: ReturnType<typeof newGame>): void {
+    selectCell(s, 1, 0);
+    typeLetter(s, "B");
+    typeLetter(s, "A");
+    typeLetter(s, "L");
+  }
+
+  it("kilitli hücreye yazılamaz, harf sonraki boş kutuya düşer", () => {
+    const s = newGame(tiny);
+    solveBal(s);
+    expect(isCellLocked(s, 1, 1)).toBe(true);
+
+    // AT'a geç: imleç kilitli 'A' üzerindeyken yazılan harf (2,1)'e gider
+    selectCell(s, 1, 1);
+    expect(s.activeClue).toBe(1);
+    typeLetter(s, "T");
+    expect(s.entries[1 * 3 + 1]).toBe("A"); // kilitli harf bozulmadı
+    expect(s.entries[2 * 3 + 1]).toBe("T");
+  });
+
+  it("imleç yazdıktan sonra kilitli hücreleri atlar", () => {
+    const s = newGame(tiny);
+    // önce AT'ı çöz: (1,1) ve (2,1) doğru → ikisi de kilitli
+    selectCell(s, 2, 1);
+    typeLetter(s, "T");
+    selectCell(s, 1, 1);
+    typeLetter(s, "A");
+    expect(isCellLocked(s, 2, 1)).toBe(true);
+
+    // BAL'ı yaz: B'den sonra imleç kilitli (1,1)'i atlayıp (1,2)'ye gider
+    selectCell(s, 1, 0);
+    expect(s.activeClue).toBe(0);
+    typeLetter(s, "B");
+    expect(s.selRow).toBe(1);
+    expect(s.selCol).toBe(2);
+  });
+
+  it("kilitli harf silinmez, serbest harfler silinmeye devam eder", () => {
+    const s = newGame(tiny);
+    solveBal(s);
+
+    // AT aktifken imleç kilitli 'A' üzerinde: yazılan harf (2,1)'e düşer
+    selectCell(s, 1, 1);
+    typeLetter(s, "X");
+    expect(s.entries[2 * 3 + 1]).toBe("X");
+
+    // serbest hücre normal silinir
+    backspace(s);
+    expect(s.entries[2 * 3 + 1]).toBe("");
+
+    // imleç kilitli hücredeyken silme kilitli harfe dokunmaz
+    selectCell(s, 1, 1);
+    backspace(s);
+    expect(s.entries[1 * 3 + 1]).toBe("A");
   });
 });
 

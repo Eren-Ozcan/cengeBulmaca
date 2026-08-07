@@ -187,11 +187,18 @@ describe("ipucu, joker ve reklam", () => {
     newApp(root, [PUZZLE_A]).start();
     openPuzzleCard(root, 0);
 
+    // üç ücretsiz ipucu BAL'ı tamamlar
     for (let i = 0; i < 3; i++) {
       clickWithText(root, ".action-btn", `İpucu (${3 - i})`);
     }
 
-    // ücretsiz hak bitti, sıradaki 5 joker devreye girer
+    // BAL bitti: açılacak harf kalmadığı için joker harcanmaz
+    clickWithText(root, ".action-btn", "🃏 İpucu (5)");
+    expect(root.querySelector(".toast")?.textContent).toContain("açılacak harf kalmadı");
+    expect(storage.getItem("cengel-jokers")).toBe("5");
+
+    // AT'a geçince ücretsiz hak bittiği için joker devreye girer
+    clickNth(root, ".letter-cell", 3); // (2,1): sadece AT'ta
     clickWithText(root, ".action-btn", "🃏 İpucu (5)");
     expect(storage.getItem("cengel-jokers")).toBe("4");
   });
@@ -307,10 +314,10 @@ describe("zorunlu ilk açılış rehberi (tutorial)", () => {
     typeWord(root, "KEDİ");
     clickWithText(root, ".modal-btn", "Devam");
     tapCell(root, 1, 3); // kesişen D kutusu → DAL'a kilitlenir
-    typeWord(root, "DAL");
+    typeWord(root, "AL"); // D kilitli: imleç atlar, kalan iki harf yazılır
     clickWithText(root, ".modal-btn", "Anladım");
     tapCell(root, 2, 0); // SAAT sorusu
-    typeWord(root, "SAAT");
+    typeWord(root, "SAT"); // kesişen A kilitli
     clickWithText(root, ".modal-btn", "Oynamaya başla");
   }
 

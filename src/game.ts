@@ -127,41 +127,95 @@ function activePos(s: GameState): number {
   return cells.findIndex((p) => p.row === s.selRow && p.col === s.selCol);
 }
 
-/** Harf girer, imleci kelime içinde ilerletir */
+/** Kelimenin tüm harfleri doğru girilmiş mi */
+export function isWordSolved(s: GameState, ci: number): boolean {
+  return s.grid.cluePlacements[ci].every((p) => {
+    const i = cellIdx(s, p.row, p.col);
+    const cell = s.grid.cells[i];
+    return cell.kind === "letter" && s.entries[i] === cell.solution;
+  });
+}
+
+/**
+ * Doğru tamamlanmış bir kelimenin harfi mi? Bu hücreler kilitlidir: üzerine
+ * yazılamaz, silinemez — imleç onları atlar. Kilit hep kelime bazlıdır,
+ * tek tek doğru harfler değil; yanlış bir kelimede tesadüfen doğru duran
+ * harf oyuncuyu kilitlemesin diye.
+ */
+export function isCellLocked(s: GameState, r: number, c: number): boolean {
+  const cell = letterCellAt(s, r, c);
+  if (!cell) return false;
+  return cell.clueIndexes.some((ci) => isWordSolved(s, ci));
+}
+
+/**
+ * Aktif kelimede verilen sıradan başlayarak (dahil) yönü boyunca ilk
+ * kilitsiz hücrenin sırası; yoksa -1.
+ */
+function nextEditablePos(s: GameState, from: number, dir: 1 | -1): number {
+  if (s.activeClue === null) return -1;
+  const cells = s.grid.cluePlacements[s.activeClue];
+  for (let p = from; p >= 0 && p < cells.length; p += dir) {
+    if (!isCellLocked(s, cells[p].row, cells[p].col)) return p;
+  }
+  return -1;
+}
+
+/** İmleci aktif kelimenin verilen sırasındaki hücreye taşır */
+function moveToPos(s: GameState, pos: number): void {
+  const cell = s.grid.cluePlacements[s.activeClue!][pos];
+  s.selRow = cell.row;
+  s.selCol = cell.col;
+}
+
+/**
+ * Harf girer, imleci kelime içindeki bir sonraki YAZILABİLİR hücreye
+ * ilerletir. Kilitli hücrenin üzerine yazılmaz; imleç öne doğru ilk boş
+ * hücreye kayar ve harf oraya düşer.
+ */
 export function typeLetter(s: GameState, letter: string): void {
   if (s.selRow === null || s.selCol === null || s.completed) return;
+
+  let pos = activePos(s);
+  if (isCellLocked(s, s.selRow, s.selCol)) {
+    if (pos < 0) return;
+    pos = nextEditablePos(s, pos, 1);
+    if (pos < 0) return; // kelimede yazılabilir hücre kalmadı
+    moveToPos(s, pos);
+  }
+
   const ch = trUpper(letter);
-  const i = cellIdx(s, s.selRow, s.selCol);
+  const i = cellIdx(s, s.selRow!, s.selCol!);
   s.entries[i] = ch;
   s.wrongCells.delete(i);
 
-  // kelime içinde bir sonraki hücreye geç
-  const pos = activePos(s);
+  // kelime içinde bir sonraki yazılabilir hücreye geç (bu harfle kelime
+  // tamamlandıysa hepsi kilitlenir ve imleç yerinde kalır)
   if (pos >= 0) {
-    const cells = s.grid.cluePlacements[s.activeClue!];
-    if (pos + 1 < cells.length) {
-      s.selRow = cells[pos + 1].row;
-      s.selCol = cells[pos + 1].col;
-    }
+    const next = nextEditablePos(s, pos + 1, 1);
+    if (next >= 0) moveToPos(s, next);
   }
 
   finishIfSolved(s);
 }
 
-/** Silme: hücre doluysa temizler, boşsa bir geri gidip temizler */
+/**
+ * Silme: hücre yazılabilir ve doluysa temizler; boş ya da kilitliyse
+ * kelimede geriye doğru ilk yazılabilir hücreye gidip onu temizler.
+ */
 export function backspace(s: GameState): void {
   if (s.selRow === null || s.selCol === null || s.completed) return;
   const i = cellIdx(s, s.selRow, s.selCol);
-  if (s.entries[i] !== "") {
+  const locked = isCellLocked(s, s.selRow, s.selCol);
+  if (!locked && s.entries[i] !== "") {
     s.entries[i] = "";
     s.wrongCells.delete(i);
   } else {
     const pos = activePos(s);
-    if (pos > 0) {
-      const cells = s.grid.cluePlacements[s.activeClue!];
-      s.selRow = cells[pos - 1].row;
-      s.selCol = cells[pos - 1].col;
-      const j = cellIdx(s, s.selRow, s.selCol);
+    const prev = pos > 0 ? nextEditablePos(s, pos - 1, -1) : -1;
+    if (prev >= 0) {
+      moveToPos(s, prev);
+      const j = cellIdx(s, s.selRow!, s.selCol!);
       s.entries[j] = "";
       s.wrongCells.delete(j);
     }
@@ -184,15 +238,37 @@ export function checkEntries(s: GameState): number {
   return wrong;
 }
 
-/** Seçili hücrenin doğru harfini açar */
-export function revealLetter(s: GameState): void {
-  if (s.selRow === null || s.selCol === null || s.completed) return;
-  const cell = letterCellAt(s, s.selRow, s.selCol);
-  if (!cell) return;
-  const i = cellIdx(s, s.selRow, s.selCol);
-  s.entries[i] = cell.solution;
+/**
+ * Seçili hücrenin doğru harfini açar. Hücre zaten doğruysa (ör. kilitli bir
+ * kesişim harfinin üzerindeyken) ipucu boşa gitmesin diye aktif kelimedeki
+ * ilk eksik/yanlış hücre açılır. Gerçekten bir harf açıldıysa true döner.
+ */
+export function revealLetter(s: GameState): boolean {
+  if (s.selRow === null || s.selCol === null || s.completed) return false;
+  let target = letterCellAt(s, s.selRow, s.selCol);
+  if (target && s.entries[cellIdx(s, target.row, target.col)] === target.solution) {
+    target = firstUnsolvedCell(s);
+  }
+  if (!target) return false;
+  const i = cellIdx(s, target.row, target.col);
+  s.entries[i] = target.solution;
   s.wrongCells.delete(i);
+  s.selRow = target.row;
+  s.selCol = target.col;
   finishIfSolved(s);
+  return true;
+}
+
+/** Aktif kelimede henüz doğru olmayan ilk hücre */
+function firstUnsolvedCell(s: GameState): LetterCell | null {
+  if (s.activeClue === null) return null;
+  for (const p of s.grid.cluePlacements[s.activeClue]) {
+    const cell = s.grid.cells[cellIdx(s, p.row, p.col)];
+    if (cell.kind === "letter" && s.entries[cellIdx(s, p.row, p.col)] !== cell.solution) {
+      return cell;
+    }
+  }
+  return null;
 }
 
 /** Çözüm tamamlandıysa oyunu bitirir, seriyi işler; değilse ilerlemeyi kaydeder. */

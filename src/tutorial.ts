@@ -8,7 +8,7 @@
 // Rehber bulmacası "practice" modunda oynanır: ne ilerleme kaydedilir ne de
 // istatistiklere/kedi ödüllerine işlenir (bkz. game.ts GameState.practice).
 
-import type { GameState } from "./game.ts";
+import { isWordSolved, type GameState } from "./game.ts";
 import type { PuzzleDef } from "./types.ts";
 
 const KEY = "cengel-tutorial-seen";
@@ -84,15 +84,6 @@ export interface TutorialStep {
   done?: (s: GameState) => boolean;
 }
 
-/** Bir kelimenin tüm harfleri doğru mu */
-function wordSolved(s: GameState, ci: number): boolean {
-  return s.grid.cluePlacements[ci].every((p) => {
-    const i = p.row * s.grid.cols + p.col;
-    const cell = s.grid.cells[i];
-    return cell.kind === "letter" && s.entries[i] === cell.solution;
-  });
-}
-
 export const TUTORIAL_STEPS: TutorialStep[] = [
   {
     text:
@@ -111,12 +102,13 @@ export const TUTORIAL_STEPS: TutorialStep[] = [
     text:
       "Soru aşağıdaki panelde büyük büyük yazıyor, altındaki kutular da " +
       "cevabın kaç harf olduğunu söylüyor. Cevap KEDİ — klavyeden yaz.",
-    done: (s) => wordSolved(s, KEDI),
+    done: (s) => isWordSolved(s, KEDI),
   },
   {
     text:
-      "Süper! Doğru tamamlanan kelime yeşile döner ve öyle kalır. " +
-      "Yanlış yazarsan da sorun yok, üstüne tekrar yazabilirsin.",
+      "Süper! Doğru tamamlanan kelime yeşile döner ve kilitlenir — o " +
+      "harflerin üstüne artık yazılamaz, imleç onları kendiliğinden atlar. " +
+      "Yanlış yazdıklarını ise istediğin kadar değiştirebilirsin.",
     cta: "Devam",
   },
   {
@@ -130,9 +122,9 @@ export const TUTORIAL_STEPS: TutorialStep[] = [
   {
     text:
       "Gördün mü? Panel artık aşağı inen soruyu gösteriyor, yazdıkça da " +
-      "aşağı ilerleyeceksin. Cevap DAL — kesişen D zaten yerinde, yine de " +
-      "baştan yazabilirsin.",
-    done: (s) => wordSolved(s, DAL),
+      "aşağı ilerleyeceksin. Cevap DAL — kesişen D kilitli olduğu için imleç " +
+      "onu atlar; sana kalan iki harf var: A ve L.",
+    done: (s) => isWordSolved(s, DAL),
   },
   {
     text:
@@ -149,9 +141,9 @@ export const TUTORIAL_STEPS: TutorialStep[] = [
   },
   {
     text:
-      "Cevap SAAT — bir harfi kesişmeden hazır geldi bile. " +
-      "Yaz ve bulmacayı bitir!",
-    done: (s) => wordSolved(s, SAAT),
+      "Cevap SAAT — üçüncü harfi kesişmeden hazır geldi ve kilitli. " +
+      "Kalan S, A, T'yi yaz, bulmaca bitsin!",
+    done: (s) => isWordSolved(s, SAAT),
   },
   {
     text:
