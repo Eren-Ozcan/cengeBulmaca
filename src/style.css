@@ -634,6 +634,23 @@ button {
   background: var(--accent-soft);
 }
 
+/* Rehberden çıkış. Kontrol/İpucu'yu bastırmasın diye kasten sessiz — çerçevesiz
+   ve soluk — ama her adımda görünür durur, çünkü rehberin tek çıkış kapısı bu. */
+.tutorial-skip {
+  background: none;
+  border: none;
+  box-shadow: none;
+  margin-right: 6px;
+  padding: 9px 6px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--muted);
+}
+
+.tutorial-skip:active {
+  color: var(--text);
+}
+
 /* ---------- cevap paneli ---------- */
 
 .panel {
@@ -825,6 +842,12 @@ button {
   border-radius: 2px;
   background: var(--wrong);
   opacity: 0.85;
+}
+
+/* kilitli (doğru tamamlanmış) hücrede imleç çizgisi gösterilmez: oraya
+   yazılamıyor, imleç bir sonraki boş kutuya atlıyor */
+.letter-cell.word-done.selected::after {
+  display: none;
 }
 
 /* doğru tamamlanan kelimeler kalıcı yeşil kalır */

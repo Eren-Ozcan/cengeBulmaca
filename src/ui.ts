@@ -1,6 +1,7 @@
 import {
   backspace,
   checkEntries,
+  isWordSolved,
   moveCursorInActiveClue,
   newGame,
   revealLetter,
@@ -77,6 +78,7 @@ import {
   type TutorialStep,
 } from "./tutorial.ts";
 import { claimFirstPuzzleReferralReward, shareInvite } from "./referral.ts";
+import { cloudSettingsRow } from "./cloud-ui.ts";
 
 // Ok ikonları: klasik çengel bulmaca okları (SVG, currentColor)
 const ARROW_SVG: Record<ArrowDir, string> = {
@@ -135,6 +137,26 @@ export class App {
   private tutorialDone: (() => void) | null = null;
   /** Bu bulmacada "son 4 kelime kala" reklamı zaten gösterildi mi (bulmaca başına en fazla bir kez) */
   private nearCompletionAdShown = false;
+  /**
+   * O an çizili olan üst-seviye ekran. Yalnızca Android geri tuşunun nereye
+   * döneceğini bilmesi için tutuluyor (bkz. handleBack); alt gezinme çubuğunun
+   * "aktif" sekmesinden okunamıyor, çünkü bölüm listesi de kendini "home"
+   * sekmesi olarak işaretliyor.
+   */
+  private screen:
+    | "home"
+    | "chapter"
+    | "cats"
+    | "map"
+    | "shop"
+    | "settings"
+    | "game" = "home";
+  /**
+   * Ana sayfada geri tuşuna basıldığında "çıkmak için tekrar bas" uyarısının
+   * geçerli olduğu ana kadar (epoch ms). Kazara tek dokunuşla oyundan
+   * atılmayı önler.
+   */
+  private exitArmedUntil = 0;
 
   constructor(root: HTMLElement, puzzles: PuzzleDef[], options: AppOptions = {}) {
     this.root = root;
@@ -313,6 +335,7 @@ export class App {
   // ---------- ana menü ----------
 
   private renderHome(): void {
+    this.screen = "home";
     this.root.innerHTML = "";
     const home = el("div", "home");
 
@@ -524,6 +547,7 @@ export class App {
 
   /** Bir bölümdeki bulmacaları (mevcut kart tasarımıyla) listeler. */
   private renderChapter(chapterIndex: number): void {
+    this.screen = "chapter";
     this.root.innerHTML = "";
     const wrap = el("div", "home");
 
@@ -591,6 +615,7 @@ export class App {
   // ---------- kedi koleksiyonu ----------
 
   private renderCollection(): void {
+    this.screen = "cats";
     this.root.innerHTML = "";
     const wrap = el("div", "home cats-screen");
 
@@ -649,6 +674,7 @@ export class App {
    * durumu renkle belli olur. Harita stilize edilmiştir, coğrafi olarak
    * kesin değildir; dokununca bölge adı ve durumu görünür. */
   private renderMap(): void {
+    this.screen = "map";
     this.root.innerHTML = "";
     const wrap = el("div", "home map-screen");
 
@@ -729,6 +755,7 @@ export class App {
   // ---------- mağaza ----------
 
   private renderShop(): void {
+    this.screen = "shop";
     this.root.innerHTML = "";
     const wrap = el("div", "home shop-screen");
 
@@ -845,6 +872,7 @@ export class App {
   // ---------- ayarlar ----------
 
   private renderSettings(): void {
+    this.screen = "settings";
     this.root.innerHTML = "";
     const wrap = el("div", "home settings-screen");
 
@@ -872,6 +900,9 @@ export class App {
       }),
     );
     wrap.appendChild(list);
+
+    // Bulut kaydı satırı; tüm mantık cloud-ui.ts'te (bkz. o dosyanın başı).
+    wrap.appendChild(cloudSettingsRow(this.root));
 
     const storyBtn = el("button", "puzzle-card");
     const storyInfo = el("div", "puzzle-info");
@@ -964,14 +995,7 @@ export class App {
 
   /** Kelimenin tüm hücreleri doğru harfle dolu mu? */
   private isWordCorrect(ci: number): boolean {
-    const s = this.state!;
-    return s.grid.cluePlacements[ci].every((p) => {
-      const cell = s.grid.cells[p.row * s.grid.cols + p.col];
-      return (
-        cell.kind === "letter" &&
-        s.entries[p.row * s.grid.cols + p.col] === cell.solution
-      );
-    });
+    return isWordSolved(this.state!, ci);
   }
 
   /**
@@ -1075,6 +1099,7 @@ export class App {
 
   private renderGame(): void {
     const s = this.state!;
+    this.screen = "game";
     this.root.innerHTML = "";
 
     const wrap = el("div", "game");
@@ -1120,15 +1145,23 @@ export class App {
         : jokers > 0
           ? "Bir joker harcayarak seçili hücrenin harfini aç"
           : "Ücretsiz ipucu ve joker bitti — reklam izleyerek bir ipucu daha aç";
+    // ipucu ancak gerçekten bir harf açtıysa ücretlendirilir: seçili hücre
+    // zaten doğruysa (ör. kilitli kesişim harfi) hak/joker yanmaz
+    const tryReveal = (charge: () => void): void => {
+      let revealed = false;
+      this.withWinCheck(() => {
+        revealed = revealLetter(s);
+        if (revealed) charge(); // ücret, ekran tazelenmeden önce düşülür
+      });
+      if (!revealed) toast(this.root, "Bu soruda açılacak harf kalmadı");
+    };
     revealBtn.addEventListener("click", () => {
       if (freeHints > 0) {
-        consumeFreeHint();
-        this.withWinCheck(() => revealLetter(s));
+        tryReveal(consumeFreeHint);
         return;
       }
       if (jokers > 0) {
-        spendJoker();
-        this.withWinCheck(() => revealLetter(s));
+        tryReveal(spendJoker);
         return;
       }
       (revealBtn as HTMLButtonElement).disabled = true;
@@ -1138,7 +1171,7 @@ export class App {
         .then((earned) => {
           if (this.state !== s) return; // oyuncu bu sırada başka yere geçti
           if (earned) {
-            this.withWinCheck(() => revealLetter(s));
+            tryReveal(() => {});
           } else {
             this.renderGame();
             toast(this.root, "Reklam tamamlanmadı, ipucu açılmadı");
@@ -1172,8 +1205,8 @@ export class App {
 
   /**
    * Rehberi başlatır: mini bulmaca "practice" modunda kurulur (kayıt ve
-   * istatistik dokunulmaz), oyuncu adımları tamamlayana kadar ekrandan
-   * çıkış yoktur.
+   * istatistik dokunulmaz). Üst bardaki "Geç" dışında çıkış yoktur, böylece
+   * oyuncu yanlışlıkla yarıda bırakmaz.
    */
   private startTutorial(done: () => void): void {
     this.state = newGame(TUTORIAL_PUZZLE, { practice: true });
@@ -1222,9 +1255,19 @@ export class App {
     this.root.innerHTML = "";
     const wrap = el("div", "game tutorial-game");
 
-    // üst bar: geri butonu yok — rehber bitmeden çıkılmaz
     const bar = el("div", "topbar");
     bar.appendChild(el("div", "topbar-title", "Nasıl oynanır?"));
+    // Rehberin çıkış kapısı. Olmadığı sürece rehber, ilk açılışta aşılamayan
+    // bir duvardı: Android geri tuşu uygulamadan atıyor ve "görüldü" işareti
+    // yalnızca rehber TAMAMLANINCA yazıldığı için, çıkan oyuncu her açılışta
+    // yeniden 1. adımdan başlıyordu. Atlamak zararsız, çünkü rehber
+    // Ayarlar → "Nasıl oynanır?" ile istendiği zaman tekrar oynanabiliyor.
+    const skipBtn = el("button", "tutorial-skip", "Geç");
+    skipBtn.addEventListener("click", () => {
+      this.finishTutorial();
+      toast(this.root, "Rehberi Ayarlar → Nasıl oynanır? ile tekrar açabilirsin");
+    });
+    bar.appendChild(skipBtn);
     const actions = el("div", "topbar-actions");
     const checkBtn = el("button", "action-btn", "Kontrol");
     checkBtn.addEventListener("click", () => {
@@ -1768,6 +1811,42 @@ export class App {
         e.preventDefault();
       }
     });
+  }
+
+  /**
+   * Android geri tuşu/hareketi.
+   *
+   * Bu davranış eskiden hiç yoktu: geri tuşunu yakalayan eklenti kurulu
+   * olmadığı için oyuncu NEREDE olursa olsun — bulmacanın ortasında, mağazada,
+   * ayarlarda — geri yapınca uygulamadan tamamen çıkıyordu.
+   *
+   * Öncelik sırası, en içteki katmandan dışa doğru:
+   *   1. Açık bir modal varsa yalnızca onu kapat.
+   *   2. Rehber oynanıyorsa hiçbir şey yapma (rehberin kendi "Geç"i var).
+   *   3. Ana sayfa dışındaki her ekrandan ana sayfaya dön.
+   *   4. Ana sayfada: kazara çıkışı önlemek için iki kez basılmasını iste.
+   *
+   * @returns uygulamadan çıkılması gerekiyorsa true
+   */
+  handleBack(): boolean {
+    const overlays = this.root.querySelectorAll(".overlay");
+    if (overlays.length > 0) {
+      const top = overlays[overlays.length - 1];
+      // Rehberin anlatım modalı bilerek bloklayıcıdır — adımın atlanmasına
+      // izin vermemek için geri tuşuyla da kapatılmaz.
+      if (!top.classList.contains("tut-overlay")) top.remove();
+      return false;
+    }
+    if (this.tutorialStep !== null) return false;
+    if (this.screen !== "home") {
+      this.renderHome();
+      return false;
+    }
+    const now = Date.now();
+    if (now < this.exitArmedUntil) return true;
+    this.exitArmedUntil = now + 2000;
+    toast(this.root, "Çıkmak için tekrar geri tuşuna bas");
+    return false;
   }
 }
 
