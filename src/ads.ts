@@ -17,18 +17,26 @@ import { adsRemoved } from "./billing.ts";
 const REWARDED_AD_ID = "ca-app-pub-9709993577664180/1978523543";
 const INTERSTITIAL_AD_ID = "ca-app-pub-9709993577664180/6923728460";
 
+// İki geçiş reklamı arka arkaya gösterilemez (AdMob "disallowed interstitial
+// implementations" kuralı). localStorage'a yazılır ki soğuk başlatma (uygulamayı
+// kapatıp açma) bu korumayı sıfırlamasın — yalnızca bellekte tutulsaydı oyuncu
+// her yeniden açılışta "temiz" bir reklam hakkı kazanmış olurdu.
+const INTERSTITIAL_COOLDOWN_MS = 5 * 60 * 1000;
+const LAST_INTERSTITIAL_KEY = "cengeBulmaca.ads.lastInterstitial";
+
 let initialized = false;
 
-async function ensureInitialized(): Promise<boolean> {
-  if (!Capacitor.isNativePlatform()) return false;
-  if (initialized) return true;
-  try {
-    await AdMob.initialize();
-    initialized = true;
-    return true;
-  } catch {
-    return false;
-  }
+/**
+ * Son gösterilen geçiş reklamının epoch ms'i. Kayıt bozuksa ya da cihaz saati
+ * geriye alındıysa (değer şu andan ileride görünüyorsa) 0 döner: reklamı
+ * sonsuza dek kilitlemek yerine cooldown'u "hiç gösterilmemiş" say — güvenli
+ * taraf, oyuncuyu süresiz reklamsız bırakmak değil, kuralın amacını (arka
+ * arkaya gösterim yok) korumaktır.
+ */
+function lastInterstitialAt(): number {
+  const raw = Number(localStorage.getItem(LAST_INTERSTITIAL_KEY) ?? "0");
+  if (!Number.isFinite(raw) || raw < 0 || raw > Date.now()) return 0;
+  return raw;
 }
 
 /**
@@ -38,24 +46,43 @@ async function ensureInitialized(): Promise<boolean> {
  * ekranı DEĞİL — reklam SDK'larının fiilen uyacağı gerçek rıza sinyalini
  * (IAB TCF) bu üretir; özel bir ekran bunu üretmez ve gerçek uyum sağlamaz.
  * Bölge dışı kullanıcıda ya da kampanya tanımlı değilse sessizce hiçbir şey
- * göstermez (NOT_REQUIRED).
+ * göstermez (NOT_REQUIRED). Sıra önemli: AdMob.initialize()'dan ÖNCE
+ * çalışmalı — reklam SDK'sı rıza belli olmadan başlatılıp reklam isteyemez.
+ * Dönüş değeri (canRequestAds), reklam isteğinin gerçekten yapılabilir
+ * olup olmadığının tek doğru kaynağıdır.
  */
-async function ensureConsent(): Promise<void> {
+async function ensureConsent(): Promise<boolean> {
   try {
-    const info = await AdMob.requestConsentInfo();
+    let info = await AdMob.requestConsentInfo();
     if (info.status === AdmobConsentStatus.REQUIRED && info.isConsentFormAvailable) {
-      await AdMob.showConsentForm();
+      info = await AdMob.showConsentForm();
     }
+    return info.canRequestAds;
   } catch {
-    // rıza bilgisi alınamazsa (ağ yok, kampanya tanımsız vb.) reklamlar
-    // yine de kişiselleştirilmemiş modda çalışmaya devam edebilir
+    // rıza bilgisi alınamazsa (ağ yok, kampanya tanımsız vb.) güvenli taraf:
+    // reklam isteme — oyunun kendisi bundan asla etkilenmez, sadece reklamsız
+    // devam eder
+    return false;
+  }
+}
+
+async function ensureInitialized(): Promise<boolean> {
+  if (!Capacitor.isNativePlatform()) return false;
+  if (initialized) return true;
+  const canRequestAds = await ensureConsent();
+  if (!canRequestAds) return false;
+  try {
+    await AdMob.initialize({});
+    initialized = true;
+    return true;
+  } catch {
+    return false;
   }
 }
 
 /** Uygulama açılışında bir kere çağrılır; web'de sessizce hiçbir şey yapmaz. */
 export async function initAds(): Promise<void> {
-  if (!(await ensureInitialized())) return;
-  await ensureConsent();
+  await ensureInitialized();
 }
 
 /**
@@ -102,9 +129,13 @@ export async function showRewardedHintAd(): Promise<boolean> {
 }
 
 /**
- * Geçiş reklamını hazırlayıp gösterir. Ödül döndürmez; bulmacada son 4 soru
- * kalınca (ui.ts: maybeShowNearCompletionAd, bulmaca başına en fazla bir kez)
- * çağrılan tamamen isteğe bağlı bir gelir kanalıdır. Hata/web ortamında
+ * Geçiş reklamını hazırlayıp gösterir. Ödül döndürmez; bulmaca TAMAMLANIP
+ * kutlama ekranı oyuncuya gösterildikten SONRA, oyuncu o ekrandan çıkarken
+ * çağrılan tamamen isteğe bağlı bir gelir kanalıdır (bkz. ui.ts:
+ * leaveCompletedScreen). Bilerek bulmaca ORTASINDA değil: AdMob'un "disallowed
+ * interstitial implementations" kuralı, oyuncu aktif oynarken ya da
+ * uygulama açılış/kapanışında geçiş reklamı göstermeyi yasaklıyor; tek izinli
+ * an, bir görevin/bölümün bittiği doğal mola noktasıdır. Hata/web ortamında
  * sessizce yok sayılır. Kullanıcı "reklamları kaldır" ürününü satın aldıysa
  * hiç gösterilmez — ödüllü reklam (joker kazanma) bu kısıtlamadan
  * etkilenmez, çünkü kullanıcının kendi isteğiyle bir karşılık için izlediği
@@ -112,10 +143,13 @@ export async function showRewardedHintAd(): Promise<boolean> {
  */
 export async function maybeShowInterstitial(): Promise<void> {
   if (adsRemoved()) return;
+  // İki geçiş reklamı arka arkaya gösterilemez (bkz. INTERSTITIAL_COOLDOWN_MS).
+  if (Date.now() - lastInterstitialAt() < INTERSTITIAL_COOLDOWN_MS) return;
   if (!(await ensureInitialized())) return;
   try {
     await AdMob.prepareInterstitial({ adId: INTERSTITIAL_AD_ID });
     await AdMob.showInterstitial();
+    localStorage.setItem(LAST_INTERSTITIAL_KEY, String(Date.now()));
   } catch {
     // reklam yüklenemediyse oyun akışını bozmadan devam
   }
