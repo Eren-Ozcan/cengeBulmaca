@@ -27,7 +27,7 @@ import {
   toggleSound,
 } from "./sound.ts";
 import { hapticKey, hapticWin, hapticWrong } from "./haptics.ts";
-import { maybeShowInterstitial, shouldShowInterstitial, showRewardedHintAd } from "./ads.ts";
+import { maybeShowInterstitial, showRewardedHintAd } from "./ads.ts";
 import { consumeFreeHint, freeHintsRemainingToday } from "./hints.ts";
 import { CAT_UNLOCK_REWARD, grantJokers, jokerBalance, spendJoker } from "./economy.ts";
 import {
@@ -133,6 +133,8 @@ export class App {
   private tutorialStep: number | null = null;
   /** Rehber bitince çalışacak dönüş işlevi */
   private tutorialDone: (() => void) | null = null;
+  /** Bu bulmacada "son 4 kelime kala" reklamı zaten gösterildi mi (bulmaca başına en fazla bir kez) */
+  private nearCompletionAdShown = false;
 
   constructor(root: HTMLElement, puzzles: PuzzleDef[], options: AppOptions = {}) {
     this.root = root;
@@ -913,6 +915,7 @@ export class App {
     }
     this.state = newGame(p);
     this.tutorialStep = null;
+    this.nearCompletionAdShown = false;
     this.clueFontCache.clear();
     // kaldığı ipucu/hücre kayıttan geldiyse onu korur; yoksa (ör. ilk açılış)
     // oyuncu hemen yazmaya başlayabilsin diye ilk boş soruyu seçer
@@ -972,6 +975,26 @@ export class App {
   }
 
   /**
+   * Bulmacada tam olarak 4 kelime çözülmeden kalınca (bulmaca başına en fazla bir kez)
+   * bir geçiş reklamı dener. Çok az sorulu bulmacalarda (≤4 soru) anlamsız olacağından
+   * atlanır. "Her 3 bulmacada bir" tamamlanış-sonrası kuralının yerini alır.
+   */
+  private maybeShowNearCompletionAd(): void {
+    const s = this.state;
+    if (!s || s.practice || s.completed || this.nearCompletionAdShown) return;
+    const total = s.puzzle.clues.length;
+    if (total <= 4) return;
+    let remaining = 0;
+    for (let i = 0; i < total; i++) {
+      if (!this.isWordCorrect(i)) remaining++;
+    }
+    if (remaining === 4) {
+      this.nearCompletionAdShown = true;
+      void maybeShowInterstitial();
+    }
+  }
+
+  /**
    * Bir hamleyi çalıştırır, bulmaca bu hamleyle tamamlandıysa
    * kutlama efektini tetikler ve ekranı tazeler.
    */
@@ -986,6 +1009,8 @@ export class App {
       hapticWin();
       this.registerCatUnlock(alreadySolved);
       if (wasFirstEverSolve) void claimFirstPuzzleReferralReward();
+    } else {
+      this.maybeShowNearCompletionAd();
     }
     this.renderGame();
   }
@@ -1039,6 +1064,7 @@ export class App {
     } else if (prevClue !== null && this.isWordCorrect(prevClue)) {
       playCorrect();
       this.flashClue = prevClue;
+      this.maybeShowNearCompletionAd();
       const next = this.findClueWithEmptyCell(prevClue + 1);
       if (next !== null) this.activateClue(next);
     }
@@ -1700,8 +1726,6 @@ export class App {
     modal.appendChild(btn);
     overlay.appendChild(modal);
     this.root.appendChild(overlay);
-
-    if (shouldShowInterstitial()) void maybeShowInterstitial();
   }
 
   /** Sonucu sistem paylaşım menüsüyle, yoksa panoya kopyalayarak paylaşır. */

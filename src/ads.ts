@@ -102,12 +102,13 @@ export async function showRewardedHintAd(): Promise<boolean> {
 }
 
 /**
- * Geçiş reklamını hazırlayıp gösterir. Ödül döndürmez; bulmaca bitince
- * ara sıra (frekans sınırlamasıyla) çağrılan tamamen isteğe bağlı bir
- * gelir kanalıdır. Hata/web ortamında sessizce yok sayılır. Kullanıcı
- * "reklamları kaldır" ürününü satın aldıysa hiç gösterilmez — ödüllü
- * reklam (joker kazanma) bu kısıtlamadan etkilenmez, çünkü kullanıcının
- * kendi isteğiyle bir karşılık için izlediği bir reklamdır.
+ * Geçiş reklamını hazırlayıp gösterir. Ödül döndürmez; bulmacada son 4 soru
+ * kalınca (ui.ts: maybeShowNearCompletionAd, bulmaca başına en fazla bir kez)
+ * çağrılan tamamen isteğe bağlı bir gelir kanalıdır. Hata/web ortamında
+ * sessizce yok sayılır. Kullanıcı "reklamları kaldır" ürününü satın aldıysa
+ * hiç gösterilmez — ödüllü reklam (joker kazanma) bu kısıtlamadan
+ * etkilenmez, çünkü kullanıcının kendi isteğiyle bir karşılık için izlediği
+ * bir reklamdır.
  */
 export async function maybeShowInterstitial(): Promise<void> {
   if (adsRemoved()) return;
@@ -117,24 +118,5 @@ export async function maybeShowInterstitial(): Promise<void> {
     await AdMob.showInterstitial();
   } catch {
     // reklam yüklenemediyse oyun akışını bozmadan devam
-  }
-}
-
-const COMPLETIONS_KEY = "cengel-completions-count";
-const INTERSTITIAL_EVERY = 3;
-
-/**
- * Her bulmaca tamamlanışında bir kez çağrılır. İlk kazanımı atlayıp
- * her INTERSTITIAL_EVERY tamamlanışta bir geçiş reklamı gösterilmesi
- * gerekip gerekmediğini söyler (kullanıcıyı yormamak için frekans
- * sınırlaması).
- */
-export function shouldShowInterstitial(): boolean {
-  try {
-    const n = Number(localStorage.getItem(COMPLETIONS_KEY) ?? "0") + 1;
-    localStorage.setItem(COMPLETIONS_KEY, String(n));
-    return n % INTERSTITIAL_EVERY === 0;
-  } catch {
-    return false;
   }
 }
