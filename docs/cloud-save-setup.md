@@ -19,9 +19,20 @@ next game, and so nobody undoes a step without knowing what it was for.
 2. **Google sign-in provider enabled**, with the project's public-facing name set to
    `Cengel Bulmaca` and the support email to `yilkgamesstudio@gmail.com` — both appear
    on the consent screen the player sees. Anonymous was already on (referrals).
-3. **SHA-1 fingerprints added**: the debug key and the upload key. The **Play app
-   signing key is still missing** (Play Console → Setup → App integrity) — Google
-   sign-in fails silently in a Play-distributed build without it.
+3. **SHA-1 fingerprints added** — all three, so `google-services.json` now carries
+   three Android OAuth clients:
+   - debug key — emulator and local debug builds
+   - upload key (`android/cengelbulmaca.keystore`) — local release builds
+   - **Play app signing key** — what players actually get. Play re-signs the uploaded
+     AAB with Google's own key, so a store build carries neither of the other two
+     certificates. Without this entry Google sign-in fails *only* in the store build,
+     and silently. Found at Play Console → Google Play ile korunanlar → Uygulama
+     imzalama → "Klasik anahtar" → SHA-1 (**not** the "Kuantum sonrası kriptografi
+     anahtarı" column next to it, which is a different certificate).
+
+   Note: the app signing key was rotated on 2026-07-24 and the previous key is still
+   listed. The install base was 0% at rotation time, so the old fingerprint was not
+   added; if an old tester install ever fails to sign in, that is the reason.
 4. **Security rules published** from `firestore.rules`. The monotonic `rev` guarantee
    lives in these rules, not in the client — a stale device overwriting newer progress
    is prevented server-side or not at all. Re-publish after any edit:
