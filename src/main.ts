@@ -8,6 +8,7 @@ import { initAds } from "./ads.ts";
 import { initReferral } from "./referral.ts";
 import { ensureMusicStarted } from "./music.ts";
 import { restoreAdsRemoved } from "./billing.ts";
+import { initCloudSave } from "./cloud-ui.ts";
 
 initTheme();
 void initAds();
@@ -20,6 +21,10 @@ document.addEventListener("pointerdown", () => ensureMusicStarted(), { once: tru
 // yükler; geri kalanı arka planda (bkz. warmPuzzles) indirilir.
 await warmPuzzles(dailyIndex(puzzles.length));
 const root = document.querySelector<HTMLDivElement>("#app")!;
+// Bulut kaydı senkronu açılışı BEKLETMEZ (kötü ağda 7 saniyeye kadar
+// sürebilir); splash ve oyun normal akışında ilerler, cevap gelince gerekiyorsa
+// araya girer (bkz. cloud-ui.ts).
+void initCloudSave(root);
 const app = new App(root, puzzles);
 app.attachPhysicalKeyboard();
 app.start();
