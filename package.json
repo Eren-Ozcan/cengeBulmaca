@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "@capacitor-community/admob": "^8.0.0",
+    "@capacitor-firebase/authentication": "^8.3.0",
     "@capacitor/android": "^8.4.2",
     "@capacitor/core": "^8.4.2",
     "@fontsource-variable/nunito": "^5.2.7",
