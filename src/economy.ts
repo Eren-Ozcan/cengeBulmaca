@@ -7,7 +7,8 @@
 const BALANCE_KEY = "cengel-jokers";
 const INIT_KEY = "cengel-jokers-init";
 
-const START_JOKERS = 5;
+/** Oyuncunun hiç oynamadan sahip olduğu bakiye (bkz. cloud-save.ts hasPlayerProgress). */
+export const START_JOKERS = 5;
 /** Her yeni bekçi kedi açıldığında verilen ödül. */
 export const CAT_UNLOCK_REWARD = 2;
 
