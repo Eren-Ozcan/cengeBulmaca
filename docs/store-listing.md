@@ -49,13 +49,29 @@ bir reklam izleyerek bir ipucu daha kazanın
 
 💾 Otomatik kayıt — kaldığınız yerden devam edin
 
+☁️ Bulut yedeği — ilerlemeniz otomatik yedeklenir, telefonunuzu değiştirseniz
+bile kaybolmaz
+
 🌙 Açık/koyu tema — sistem tercihinize uyum sağlar
 
-🔌 Hesap gerekmez — kayıt olmadan, kişisel bilgi vermeden oynayın
+🔌 Kayıt gerekmez — hesap açmadan, şifre belirlemeden oynayın; yedeğinizi yeni
+cihaza taşımak isterseniz Google hesabınızı bağlamak size kalmış
 
 Türkçe kelime dağarcığınızı geliştirmek, zihninizi zinde tutmak ve keyifli
 vakit geçirmek için ideal.
 ```
+
+> ⚠️ **This text was corrected on 2026-08-08 and the Play Console listing must be
+> updated to match — the copy in the console is still the old one.** The removed
+> line claimed *"Hesap gerekmez — kayıt olmadan, **kişisel bilgi vermeden**
+> oynayın"* ("no account needed — play without registering, without giving any
+> personal information"). Cloud save creates an anonymous player ID on first launch
+> and optional Google linking hands us an email address and display name, so that
+> claim became misleading the moment cloud save shipped. A store listing that
+> contradicts the Data Safety form is a policy problem, not just a wording one.
+> The replacement keeps the true part (no registration, no password) and states the
+> linking as the player's choice, plus a cloud-backup bullet that is now a genuine
+> selling point.
 
 ## Category
 
