@@ -116,11 +116,21 @@ Console:
   optional Google linking, invite records and purchases. The studio-wide policy
   at <https://yilkgames.com/privacy-policy/> was updated to match. ✅
 
-### Still to declare for cloud save (Play Console → Data safety)
+### Cloud save additions to Data safety — ✅ declared 2026-08-08
 
-The form currently claims the app collects advertising data only. Cloud save
-makes that answer wrong — progress and an account identifier now leave the
-device. The additions:
+The form had claimed the app collects advertising data only, which cloud save made
+wrong. Everything below is now entered in Play Console. Two notes from doing it:
+
+- Declaring `OAuth` under account creation makes Play require a **mandatory account
+  deletion URL** on the store listing, and the privacy policy does not qualify — it must
+  name the app, show the steps prominently, and state what is deleted, what is kept and
+  for how long. <https://yilkgames.com/account-deletion/> was written for exactly this;
+  `#data-only` is the second URL, for deleting data without deleting the account.
+- The anonymous player ID belongs under **Personal info → User IDs**, not Device IDs:
+  Play scopes device identifiers to a device or browser, and a Firebase auth UID is an
+  account identifier. Only the advertising ID goes under Device or other IDs.
+
+What was declared:
 
 - **App activity → Other user-generated content or App info and performance**:
   the save payload (puzzle progress, statistics, jokers, cat collection,
