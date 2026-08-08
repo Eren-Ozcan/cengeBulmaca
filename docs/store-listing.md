@@ -93,7 +93,33 @@ Console:
 - **App content → Ads**: "My app contains ads" = Yes. ✅
 - **Data safety form**: Location (approximate) and Device or other IDs,
   purpose = Advertising or marketing; marked as collected + shared, transfer
-  encrypted. ✅
+  encrypted. ✅ — **but this answers the ad half only.** It was filled in before
+  cloud save existed and does not declare it yet; see below. ⚠️
+- **Privacy policy**: `PRIVACY.md` (published copy: `docs/index.md` on GitHub
+  Pages) rewritten on 2026-08-08 to cover the anonymous player ID, cloud save,
+  optional Google linking, invite records and purchases. The studio-wide policy
+  at <https://yilkgames.com/privacy-policy/> was updated to match. ✅
+
+### Still to declare for cloud save (Play Console → Data safety)
+
+The form currently claims the app collects advertising data only. Cloud save
+makes that answer wrong — progress and an account identifier now leave the
+device. The additions:
+
+- **App activity → Other user-generated content or App info and performance**:
+  the save payload (puzzle progress, statistics, jokers, cat collection,
+  settings). Collected = Yes, shared = No, transfer encrypted, **not** required
+  to use the app? — it is not optional today, so answer "Data collection is
+  required".
+- **Personal info → Email address and Name**: only when the player links a
+  Google account. Collected = Yes, optional (a player who never links is never
+  asked), purpose = Account management, shared = No.
+- **Device or other IDs**: already declared for ads; the anonymous Firebase UID
+  falls under the same category, purpose = App functionality (in addition to
+  the existing Advertising purpose).
+- **Data deletion**: the form asks whether users can request deletion. Answer
+  Yes and give the contact address from `PRIVACY.md` — there is no in-app
+  delete button today.
 - **Content rating questionnaire**: completed, came out as General/All ages
   (PEGI 3 / Everyone) across all authorities. ✅
 - **Target audience**: set to ages 13-15, 16-17, and 18+. ✅

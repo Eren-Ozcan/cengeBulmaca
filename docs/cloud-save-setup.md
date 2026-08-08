@@ -87,8 +87,23 @@ account.
 
 ## Privacy policy
 
-Cloud save uploads progress to Google servers under a per-player identifier. `PRIVACY.md`
-and the Play Console Data Safety form must say so before the feature ships.
+Cloud save uploads progress to Google servers under a per-player identifier, and the
+identity is created *automatically* — the anonymous sign-in happens on first launch,
+before the player has chosen anything. Nothing about that is optional from the player's
+side, so the policy has to state it rather than describe cloud save as a feature they
+opt into.
+
+Done on 2026-08-08: `PRIVACY.md` and its published copy `docs/index.md` were rewritten
+(the old text claimed the app "sends no data to its own servers" and that progress "is
+kept only on your device" — both false since cloud save landed), and the studio-wide
+policy at <https://yilkgames.com/privacy-policy/> was updated to match. Reefy, which had
+no policy file at all, got one.
+
+**Still open: the Play Console Data Safety form.** It was answered when the app only
+served ads, so it declares advertising data and nothing else. The exact additions are
+listed under "Still to declare for cloud save" in `docs/store-listing.md`. This is a
+console action, not a code change, and it blocks a production release the same way the
+policy text did.
 
 ## What the emulator run proved (2026-08-07)
 
