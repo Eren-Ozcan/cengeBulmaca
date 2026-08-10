@@ -5,14 +5,14 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Elektrik direnç birimi",
+      "text": "Georg Ohm'dan gelen birim",
       "answer": "OM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sarı, kokulu yaz meyvesi",
+      "text": "Yazın sofraları süsleyen kokulu meyve",
       "answer": "KAVUN",
       "row": 0,
       "col": 3,
@@ -26,42 +26,42 @@
       "arrow": "right"
     },
     {
-      "text": "Tanrıtanımaz kimse",
+      "text": "Tanrı fikrini reddeden kişi",
       "answer": "ATE",
       "row": 2,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Gümüş balığı",
+      "text": "Küçük, sürü halinde yaşayan balık türü",
       "answer": "ATERİNA",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cilt bakım maddesi",
+      "text": "Yumuşak, yağlı bakım ürünü",
       "answer": "KREM",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gezinti teknesi",
+      "text": "Lüks gezinti gemisi",
       "answer": "YAT",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Görüntü yansıtan sırlı cam",
+      "text": "Kendini gördüğümüz sırlı cam",
       "answer": "AYNA",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kızıl renkli değerli ağaç",
+      "text": "Mobilyacılıkta kullanılan kızıl kerestelik ağaç",
       "answer": "MAUN",
       "row": 6,
       "col": 3,
@@ -75,7 +75,7 @@
       "arrow": "right"
     },
     {
-      "text": "'İşte' anlamında bir ünlem",
+      "text": "Anlama, hatırlama ünlemi",
       "answer": "HA",
       "row": 7,
       "col": 5,
@@ -89,7 +89,7 @@
       "arrow": "right"
     },
     {
-      "text": "Yankı",
+      "text": "Sesin geri dönmesi",
       "answer": "EKO",
       "row": 8,
       "col": 0,
@@ -103,21 +103,21 @@
       "arrow": "right"
     },
     {
-      "text": "Japon çiçek düzenleme sanatı",
+      "text": "Geleneksel Japon çiçek sanatı",
       "answer": "İKEBANA",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Delik açma aracı",
+      "text": "Dönerek delik açan alet",
       "answer": "MATKAP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Birden sonra gelen sayı",
+      "text": "Çiftin ilk sayısı",
       "answer": "İKİ",
       "row": 7,
       "col": 1,
@@ -138,14 +138,14 @@
       "arrow": "down"
     },
     {
-      "text": "Dört kenarı eşit dörtgen",
+      "text": "Dört açısı da dik olan eşkenar dörtgen",
       "answer": "KARE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bir nota",
+      "text": "Gam dizisinde ikinci nota",
       "answer": "RE",
       "row": 6,
       "col": 3,
@@ -159,35 +159,35 @@
       "arrow": "down"
     },
     {
-      "text": "Eski dilde su",
+      "text": "Farsça kökenli 'su' sözcüğü",
       "answer": "AB",
       "row": 8,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kedisiyle ünlü ilimiz",
+      "text": "Gözleri farklı renkte kedisiyle bilinen ilimiz",
       "answer": "VAN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bir seslenme sözü",
+      "text": "Vurgu bildiren ünlem",
       "answer": "YA",
       "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bir nota",
+      "text": "Sol'den sonraki nota",
       "answer": "LA",
       "row": 8,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Japon halk türküsü",
+      "text": "Geleneksel Japon ezgisi",
       "answer": "UTA",
       "row": 0,
       "col": 6,
@@ -201,21 +201,21 @@
       "arrow": "down"
     },
     {
-      "text": "Zamanın çok kısa parçası",
+      "text": "Saniyenin küçük bir bölümü",
       "answer": "AN",
       "row": 8,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bir soru sözcüğü",
+      "text": "Merak bildiren soru sözcüğü",
       "answer": "NE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sarı ötücü kafes kuşu",
+      "text": "Güzel sesiyle bilinen kafes kuşu",
       "answer": "KANARYA",
       "row": 3,
       "col": 7,

@@ -5,28 +5,28 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Üstü kapalı anlatma",
+      "text": "Dolaylı anlatım",
       "answer": "İMA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Halk dilinde ağabey",
+      "text": "Büyük erkek kardeş (halk ağzı)",
       "answer": "AKA",
       "row": 0,
       "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "İri yapılı orman hayvanı",
+      "text": "Pençeli, kalın postlu orman hayvanı",
       "answer": "AYI",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ekşimsi, sulu yaz meyvesi",
+      "text": "Sarı veya mor renkli çekirdekli meyve",
       "answer": "ERİK",
       "row": 2,
       "col": 4,
@@ -54,21 +54,21 @@
       "arrow": "right"
     },
     {
-      "text": "İri taneli bezelye",
+      "text": "Bezelyeye benzer bir bitki",
       "answer": "ARAKA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zamanın çok kısa parçası",
+      "text": "Çabucak geçen zaman dilimi",
       "answer": "AN",
       "row": 5,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kırmızı renk",
+      "text": "Kızıl renk",
       "answer": "AL",
       "row": 6,
       "col": 0,
@@ -82,7 +82,7 @@
       "arrow": "right"
     },
     {
-      "text": "İlkel benlik",
+      "text": "Bilinçaltındaki dürtüler bütünü",
       "answer": "İD",
       "row": 6,
       "col": 7,
@@ -96,21 +96,21 @@
       "arrow": "down-right"
     },
     {
-      "text": "Radyum'un simgesi",
+      "text": "Radyum için kullanılan kimyasal simge",
       "answer": "RA",
       "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Bazı Arap ülkelerinin para birimi (Ürdün, Irak vb.)",
+      "text": "Ürdün ve Irak'ın para birimi",
       "answer": "DİNAR",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Basit su taşıtı",
+      "text": "İlkel, düz su aracı",
       "answer": "SAL",
       "row": 9,
       "col": 5,
@@ -131,21 +131,21 @@
       "arrow": "right"
     },
     {
-      "text": "Binek hayvanı",
+      "text": "Süvarinin bindiği hayvan",
       "answer": "AT",
       "row": 11,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Rusça'da 'evet'",
+      "text": "Rusçadaki olumlu yanıt",
       "answer": "DA",
       "row": 8,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Doğal yer altı boşluğu, in",
+      "text": "Yer altındaki doğal oyuk",
       "answer": "MAĞARA",
       "row": 0,
       "col": 1,
@@ -166,7 +166,7 @@
       "arrow": "down"
     },
     {
-      "text": "Evin dışa taşan bölümü",
+      "text": "Dışarı açılan küçük teras",
       "answer": "BALKON",
       "row": 3,
       "col": 2,
@@ -180,7 +180,7 @@
       "arrow": "down"
     },
     {
-      "text": "Latife",
+      "text": "Eğlence için yapılan takılma",
       "answer": "ŞAKA",
       "row": 7,
       "col": 3,
@@ -194,21 +194,21 @@
       "arrow": "down"
     },
     {
-      "text": "Nâzım Hikmet'in soyadı",
+      "text": "'Nâzım Hikmet ...' soyadı",
       "answer": "RAN",
       "row": 8,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İnatçılığıyla bilinen evcil hayvan",
+      "text": "Boynuzlu, inatçı evcil hayvan",
       "answer": "KEÇİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kale duvarı, hisar duvarı",
+      "text": "Şehri çevreleyen savunma duvarı",
       "answer": "SUR",
       "row": 5,
       "col": 5,
@@ -222,42 +222,42 @@
       "arrow": "down"
     },
     {
-      "text": "Boğa güreşi alanı",
+      "text": "Amfitiyatro benzeri alan",
       "answer": "ARENA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Baş kaldıran",
+      "text": "Otoriteye karşı gelen",
       "answer": "ASİ",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Duyuru",
+      "text": "Kamuya açık bildiri",
       "answer": "İLAN",
       "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İki şey arasındaki boşluk",
+      "text": "Boşluk, mesafe",
       "answer": "ARA",
       "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Beyaz, kara karşıtı",
+      "text": "Temiz, lekesiz renk",
       "answer": "AK",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Hak ve hukuka uygunluk",
+      "text": "Terazi simgesiyle anılan kavram",
       "answer": "ADALET",
       "row": 5,
       "col": 8,

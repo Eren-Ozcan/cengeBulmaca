@@ -5,7 +5,7 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Bir nota",
+      "text": "Do'ya dönmeden önceki son nota",
       "answer": "Sİ",
       "row": 1,
       "col": 1,
@@ -26,7 +26,7 @@
       "arrow": "right"
     },
     {
-      "text": "Sodyum'un simgesi",
+      "text": "Kimyada Sodyum'un simgesi",
       "answer": "NA",
       "row": 4,
       "col": 0,
@@ -54,7 +54,7 @@
       "arrow": "right"
     },
     {
-      "text": "Dilin algıladığı duyum",
+      "text": "Damağın algıladığı lezzet",
       "answer": "TAT",
       "row": 6,
       "col": 0,
@@ -68,7 +68,7 @@
       "arrow": "right"
     },
     {
-      "text": "Belirli gün",
+      "text": "Takvimdeki belirli bir gün",
       "answer": "TARİH",
       "row": 6,
       "col": 0,
@@ -82,7 +82,7 @@
       "arrow": "right"
     },
     {
-      "text": "Anne",
+      "text": "Yavrusunu doğuran dişi",
       "answer": "ANA",
       "row": 8,
       "col": 1,
@@ -96,7 +96,7 @@
       "arrow": "right"
     },
     {
-      "text": "Konut, hane",
+      "text": "İnsanların barındığı yapı",
       "answer": "EV",
       "row": 8,
       "col": 0,
@@ -124,14 +124,14 @@
       "arrow": "right"
     },
     {
-      "text": "Tanrıtanımaz kimse",
+      "text": "Tanrı fikrini reddeden kişi",
       "answer": "ATE",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hamuru kabartan madde",
+      "text": "Ekmek hamurunu kabartan mikroorganizma",
       "answer": "MAYA",
       "row": 11,
       "col": 3,
@@ -145,7 +145,7 @@
       "arrow": "down"
     },
     {
-      "text": "Elektrik güç birimi",
+      "text": "Enerji harcama hızı birimi",
       "answer": "VAT",
       "row": 8,
       "col": 1,
@@ -159,7 +159,7 @@
       "arrow": "down"
     },
     {
-      "text": "Selenyum'un simgesi",
+      "text": "Selenyum'un kimyasal simgesi",
       "answer": "SE",
       "row": 9,
       "col": 2,
@@ -173,28 +173,28 @@
       "arrow": "down"
     },
     {
-      "text": "Yunanistan'ın başkenti",
+      "text": "Ege'nin karşı kıyısındaki başkent",
       "answer": "ATİNA",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Rusça'da 'evet'",
+      "text": "Rusçada olumlama sözü",
       "answer": "DA",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Maçı yöneten kimse",
+      "text": "Düdükle maçı yöneten kişi",
       "answer": "HAKEM",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yeni karşıtı",
+      "text": "Zamanı geçmiş, kullanılmış",
       "answer": "ESKİ",
       "row": 2,
       "col": 5,
@@ -215,21 +215,21 @@
       "arrow": "down"
     },
     {
-      "text": "Seslenme ünlemi",
+      "text": "Dikkat çekme ünlemi",
       "answer": "EY",
       "row": 9,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Günlük haber yayını",
+      "text": "Her gün basılan haber yaprağı",
       "answer": "GAZETE",
       "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Eski Mısır'ın güneş tanrısı",
+      "text": "Firavunların taptığı güneş tanrısı",
       "answer": "RA",
       "row": 9,
       "col": 7,

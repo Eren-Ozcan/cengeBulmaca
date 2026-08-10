@@ -5,14 +5,14 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Adaletin gerektirdiği şey",
+      "text": "Emeğin karşılığı olan şey",
       "answer": "HAK",
       "row": 1,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Belirli gün",
+      "text": "Takvimdeki belirli bir gün",
       "answer": "TARİH",
       "row": 1,
       "col": 1,
@@ -47,21 +47,21 @@
       "arrow": "right"
     },
     {
-      "text": "Sırbistan'ın başkenti",
+      "text": "Balkanlar'daki bir başkent",
       "answer": "BELGRAD",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Helyum'un simgesi",
+      "text": "Element tablosunda Helyum'un simgesi",
       "answer": "HE",
       "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Tespih başlığı",
+      "text": "Tespihin baş kısmı",
       "answer": "İMAME",
       "row": 6,
       "col": 0,
@@ -82,49 +82,49 @@
       "arrow": "right"
     },
     {
-      "text": "Bir nota",
+      "text": "Sol'den sonraki nota",
       "answer": "LA",
       "row": 8,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "İddia, tez",
+      "text": "Öne sürülen görüş",
       "answer": "SAV",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şehrin bir bölgesi, mahalle çevresi",
+      "text": "Kentin bir kesimi",
       "answer": "SEMT",
       "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Birinci, en önce olan",
+      "text": "Başlangıçtaki, evvelki",
       "answer": "İLK",
       "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Beyaz, kara karşıtı",
+      "text": "Pak, temiz anlamında da kullanılan renk",
       "answer": "AK",
       "row": 10,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Nikel'in simgesi",
+      "text": "Element tablosunda Nikel'in simgesi",
       "answer": "Nİ",
       "row": 10,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Kesme aracı, diş diş bıçak",
+      "text": "Odun kesmede kullanılan dişli araç",
       "answer": "TESTERE",
       "row": 11,
       "col": 0,
@@ -138,14 +138,14 @@
       "arrow": "down"
     },
     {
-      "text": "En sert değerli taş",
+      "text": "Doğadaki en sert mineral",
       "answer": "ELMAS",
       "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bir soru sözcüğü",
+      "text": "Cevap isteyen soru kelimesi",
       "answer": "NE",
       "row": 10,
       "col": 1,
@@ -166,84 +166,84 @@
       "arrow": "down"
     },
     {
-      "text": "Kurum, duman lekesi",
+      "text": "Dumanın bıraktığı kara leke",
       "answer": "İS",
       "row": 10,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Radyum'un simgesi",
+      "text": "Element tablosunda Radyum'un simgesi",
       "answer": "RA",
       "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gökyüzünün rengi",
+      "text": "Denizin ve gökyüzünün rengi",
       "answer": "MAVİ",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bazı Arap ülkelerinin para birimi (Ürdün, Irak vb.)",
+      "text": "Kuveyt ve Irak gibi ülkelerin para birimi",
       "answer": "DİNAR",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İlave, ulama",
+      "text": "Kelimenin sonuna gelen parça",
       "answer": "EK",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İlenme, yakınma ünlemi",
+      "text": "Hayıflanma sözü",
       "answer": "AH",
       "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ordu mensubu",
+      "text": "Silah altındaki kişi",
       "answer": "ASKER",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yer altından çıkarılan cevher",
+      "text": "İşlenerek metale dönüşen cevher",
       "answer": "MADEN",
       "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dünya, evren",
+      "text": "Eski dilde dünya, cihan",
       "answer": "ACUN",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kırmızı ya da yeşil sulu meyve",
+      "text": "Adem ile Havva kıssasında geçen meyve",
       "answer": "ELMA",
       "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Dokuma ürünü",
+      "text": "İplikten dokunan malzeme",
       "answer": "KUMAŞ",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Delik açma aracı",
+      "text": "Duvara delik açmakta kullanılan alet",
       "answer": "MATKAP",
       "row": 6,
       "col": 8,

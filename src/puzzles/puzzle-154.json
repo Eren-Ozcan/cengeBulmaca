@@ -5,7 +5,7 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Topu takım arkadaşına aktarma",
+      "text": "Futbolda topu arkadaşa gönderme",
       "answer": "PAS",
       "row": 1,
       "col": 0,
@@ -26,14 +26,14 @@
       "arrow": "right"
     },
     {
-      "text": "Mektuba yapıştırılan değerli kâğıt",
+      "text": "Zarfa yapıştırılan ücret kağıdı",
       "answer": "PUL",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kendini beğendirme cilvesi",
+      "text": "Kırıtma, cilvelenme",
       "answer": "NAZ",
       "row": 3,
       "col": 4,
@@ -47,7 +47,7 @@
       "arrow": "down-right"
     },
     {
-      "text": "İlave, ulama",
+      "text": "Ekleme, katma",
       "answer": "EK",
       "row": 4,
       "col": 3,
@@ -68,84 +68,84 @@
       "arrow": "right"
     },
     {
-      "text": "Bir nota",
+      "text": "Si'den önceki nota",
       "answer": "LA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cilt bakım maddesi",
+      "text": "Yumuşak, yağlı bakım ürünü",
       "answer": "KREM",
       "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yemin",
+      "text": "Kutsal bir şey üzerine söz verme",
       "answer": "ANT",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Zaman aralığı, müddet",
+      "text": "Bir işin başı ile sonu arasındaki zaman",
       "answer": "SÜRE",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Berilyum'un simgesi",
+      "text": "Element tablosunda Berilyum'un simgesi",
       "answer": "BE",
       "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Japon halk türküsü",
+      "text": "Japon şiiri, türküsü",
       "answer": "UTA",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Taşkın su",
+      "text": "Aşırı yağışın oluşturduğu taşkın",
       "answer": "SEL",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sevinç, keyif",
+      "text": "İçe doğan mutluluk hâli",
       "answer": "NEŞE",
       "row": 11,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Lityum'un simgesi",
+      "text": "Element tablosunda Lityum'un simgesi",
       "answer": "Lİ",
       "row": 6,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Beyaz yapraklı kır çiçeği",
+      "text": "Ortası sarı, yaprakları beyaz kır çiçeği",
       "answer": "PAPATYA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yaşamın kaynağı sıvı",
+      "text": "Hayatın vazgeçilmez sıvısı",
       "answer": "SU",
       "row": 8,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Akıl",
+      "text": "Düşünme, muhakeme yetisi",
       "answer": "US",
       "row": 2,
       "col": 2,
@@ -159,28 +159,28 @@
       "arrow": "down"
     },
     {
-      "text": "Basit su taşıtı",
+      "text": "Kütüklerden yapılma su taşıtı",
       "answer": "SAL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Türkiye'nin başkenti",
+      "text": "Cumhuriyetin başkenti",
       "answer": "ANKARA",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Osmanlı'nın İstanbul'dan önceki başkenti",
+      "text": "Trakya'daki tarihi başkentimiz",
       "answer": "EDİRNE",
       "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Parklardaki oturma sırası",
+      "text": "Parkta oturmak için konan sıra",
       "answer": "BANK",
       "row": 0,
       "col": 5,
@@ -208,21 +208,21 @@
       "arrow": "down"
     },
     {
-      "text": "Dörtten sonra gelen sayı",
+      "text": "Elin parmak sayısı",
       "answer": "BEŞ",
       "row": 8,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çayıyla ünlü Karadeniz ilimiz",
+      "text": "Doğu Karadeniz'in yeşil ilimiz",
       "answer": "RİZE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Atın boyun kılları",
+      "text": "Atın ense kısmındaki uzun kıllar",
       "answer": "YELE",
       "row": 7,
       "col": 7,

@@ -5,21 +5,21 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kötü karşıtı",
+      "text": "Olumlu, hayırlı",
       "answer": "İYİ",
       "row": 1,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Güneş doğmadan önceki alacakaranlık",
+      "text": "Sabahın ilk ışıkları",
       "answer": "TAN",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üye",
+      "text": "Dernek veya kurum üyesi",
       "answer": "AZA",
       "row": 3,
       "col": 2,
@@ -33,28 +33,28 @@
       "arrow": "right"
     },
     {
-      "text": "Benzer, denk",
+      "text": "Aynı değerde olan",
       "answer": "EŞ",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Fırında pişen tatlı çörek",
+      "text": "Doğum günlerinde kesilen tatlı",
       "answer": "KEK",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Üstü kapalı anlatma",
+      "text": "Açık söylemeden belirtme",
       "answer": "İMA",
       "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yayla atılan ince silah",
+      "text": "Sivri uçlu fırlatma silahı",
       "answer": "OK",
       "row": 6,
       "col": 5,
@@ -68,7 +68,7 @@
       "arrow": "right"
     },
     {
-      "text": "Yetki simgesi değnek",
+      "text": "Otorite simgesi baston",
       "answer": "ASA",
       "row": 7,
       "col": 4,
@@ -89,7 +89,7 @@
       "arrow": "down-right"
     },
     {
-      "text": "Soluk",
+      "text": "Ciğerlere çekilen hava",
       "answer": "NEFES",
       "row": 9,
       "col": 0,
@@ -103,7 +103,7 @@
       "arrow": "right"
     },
     {
-      "text": "Kum falı",
+      "text": "Eski bir fal çeşidi",
       "answer": "REMİL",
       "row": 11,
       "col": 2,
@@ -117,7 +117,7 @@
       "arrow": "down"
     },
     {
-      "text": "Yemek, çorba",
+      "text": "Pişmiş sıvı yemek",
       "answer": "AŞ",
       "row": 3,
       "col": 1,
@@ -131,7 +131,7 @@
       "arrow": "down"
     },
     {
-      "text": "Kurum, duman lekesi",
+      "text": "Dumanın bıraktığı kara leke",
       "answer": "İS",
       "row": 5,
       "col": 2,
@@ -145,56 +145,56 @@
       "arrow": "down"
     },
     {
-      "text": "Ayak direme",
+      "text": "Diretme, ısrar",
       "answer": "İNAT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tohum ekme makinesi",
+      "text": "Tarlaya tohum saçan tarım aleti",
       "answer": "MİBZER",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Anlama ve kavrama yetisi",
+      "text": "Öğrenme ve kavrama yetisi",
       "answer": "ZEKA",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Selenyum'un simgesi",
+      "text": "Periyodik tablodaki Selenyum'un simgesi",
       "answer": "SE",
       "row": 9,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tespih başlığı",
+      "text": "Tespihin baş kısmı",
       "answer": "İMAME",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kaba, kalın yün kumaş",
+      "text": "Eskiden kaftan yapımında kullanılan kumaş",
       "answer": "ABA",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kareli kumaş",
+      "text": "İskoç desenli kumaş",
       "answer": "EKOSE",
       "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Nikel'in simgesi",
+      "text": "Nikel için kullanılan kimyasal simge",
       "answer": "Nİ",
       "row": 9,
       "col": 6,
@@ -208,14 +208,14 @@
       "arrow": "down"
     },
     {
-      "text": "Beyaz yağış",
+      "text": "Kış mevsiminin beyaz yağışı",
       "answer": "KAR",
       "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kırmızı renk",
+      "text": "Kızıl renk",
       "answer": "AL",
       "row": 9,
       "col": 7,

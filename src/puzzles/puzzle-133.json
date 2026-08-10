@@ -5,7 +5,7 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Konut, hane",
+      "text": "İnsanların barındığı yapı",
       "answer": "EV",
       "row": 0,
       "col": 0,
@@ -19,21 +19,21 @@
       "arrow": "right"
     },
     {
-      "text": "Enerji ölçü birimi",
+      "text": "Gıdaların enerji değeri birimi",
       "answer": "KALORİ",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bir nota",
+      "text": "Gam dizisinin ilk notası",
       "answer": "DO",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kasapta satılan besin",
+      "text": "Hayvansal besin maddesi",
       "answer": "ET",
       "row": 3,
       "col": 3,
@@ -47,14 +47,14 @@
       "arrow": "down-right"
     },
     {
-      "text": "Avcının kısmeti",
+      "text": "Avlanan hayvan",
       "answer": "AV",
       "row": 4,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Yüz metrekarelik alan ölçüsü",
+      "text": "Alan ölçü birimi (100 m²)",
       "answer": "AR",
       "row": 5,
       "col": 4,
@@ -68,56 +68,56 @@
       "arrow": "right"
     },
     {
-      "text": "Gözlerin kapanıp dinlenme durumu",
+      "text": "Bedenin dinlendiği bilinç kaybı hâli",
       "answer": "UYKU",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İsim",
+      "text": "Bir şeyi tanımlayan sözcük",
       "answer": "AD",
       "row": 7,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kırsalda büyük toprak sahibi",
+      "text": "Köyde geniş arazi sahibi kişi",
       "answer": "AĞA",
       "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sesli yayın aracı",
+      "text": "Dalga yoluyla ses yayını yapan araç",
       "answer": "RADYO",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zamanın çok kısa parçası",
+      "text": "Lahza, dem",
       "answer": "AN",
       "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Yunanistan'ın başkenti",
+      "text": "Akropolis'in bulunduğu şehir",
       "answer": "ATİNA",
       "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Seslenme ünlemi",
+      "text": "Seslenirken kullanılan ünlem",
       "answer": "EY",
       "row": 0,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Bir nota",
+      "text": "Gam dizisinde ikinci nota",
       "answer": "RE",
       "row": 8,
       "col": 0,
@@ -138,14 +138,14 @@
       "arrow": "down"
     },
     {
-      "text": "Elde tutulan üstünlük; ceviz",
+      "text": "Son anda kullanılmak üzere saklanan avantaj",
       "answer": "KOZ",
       "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dünya'nın uydusu",
+      "text": "Gece gökyüzünde parlayan uydumuz",
       "answer": "AY",
       "row": 5,
       "col": 2,
@@ -166,7 +166,7 @@
       "arrow": "down"
     },
     {
-      "text": "Büyük taş kütlesi",
+      "text": "Sert, büyük taş parçası",
       "answer": "KAYA",
       "row": 6,
       "col": 3,
@@ -180,14 +180,14 @@
       "arrow": "down"
     },
     {
-      "text": "Altın'ın simgesi",
+      "text": "Altın'ın kimyasal simgesi",
       "answer": "AU",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yeşil, küçük bitki",
+      "text": "Çayırı kaplayan bitki",
       "answer": "OT",
       "row": 8,
       "col": 4,
@@ -229,7 +229,7 @@
       "arrow": "down"
     },
     {
-      "text": "Kebabıyla ünlü ilimiz",
+      "text": "Çukurova'nın büyük şehri",
       "answer": "ADANA",
       "row": 5,
       "col": 7,

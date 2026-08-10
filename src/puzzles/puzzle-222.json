@@ -5,7 +5,7 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Üye",
+      "text": "Bir kurulun üyesi (eski dilde)",
       "answer": "AZA",
       "row": 0,
       "col": 0,
@@ -19,7 +19,7 @@
       "arrow": "right"
     },
     {
-      "text": "Birden sonra gelen sayı",
+      "text": "Bir fazlası olan sayı",
       "answer": "İKİ",
       "row": 2,
       "col": 2,
@@ -40,14 +40,14 @@
       "arrow": "down-right"
     },
     {
-      "text": "Bir bağlaç",
+      "text": "Beraberlik bildiren bağlaç",
       "answer": "İLE",
       "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Haber sunucusu",
+      "text": "Televizyonda haberleri okuyan kişi",
       "answer": "SPİKER",
       "row": 4,
       "col": 2,
@@ -68,70 +68,70 @@
       "arrow": "right"
     },
     {
-      "text": "Batı Anadolu yiğidi",
+      "text": "Ege bölgesinin geleneksel yiğidi",
       "answer": "EFE",
       "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bir soru sözcüğü",
+      "text": "'Ne oldu?' daki soru kelimesi",
       "answer": "NE",
       "row": 6,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Dış karşıtı, dahil",
+      "text": "Merkezdeki, dahili",
       "answer": "İÇ",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalay'ın simgesi",
+      "text": "Kalay'ın kimyasal simgesi",
       "answer": "SN",
       "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kripton'un simgesi",
+      "text": "Periyodik tablodaki Kripton'un simgesi",
       "answer": "KR",
       "row": 7,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Hatay'dan geçen ırmak",
+      "text": "Suriye'den Türkiye'ye akan nehir",
       "answer": "ASİ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hareketi sağlayan doku",
+      "text": "Vücudu hareket ettiren doku",
       "answer": "KAS",
       "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Nikel'in simgesi",
+      "text": "Kimyada Nikel'in simgesi",
       "answer": "Nİ",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yayla atılan ince silah",
+      "text": "Sivri uçlu fırlatma silahı",
       "answer": "OK",
       "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Küçük akarsu",
+      "text": "Yağmur sularının biriktiği yatak",
       "answer": "DERE",
       "row": 9,
       "col": 0,
@@ -152,14 +152,14 @@
       "arrow": "right"
     },
     {
-      "text": "Bir nota",
+      "text": "Do'dan sonraki nota",
       "answer": "RE",
       "row": 11,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Pul kanatlı renkli böcek",
+      "text": "Renkli kanatlarıyla uçan böcek",
       "answer": "KELEBEK",
       "row": 11,
       "col": 0,
@@ -187,28 +187,28 @@
       "arrow": "down"
     },
     {
-      "text": "İnatçılığıyla bilinen evcil hayvan",
+      "text": "Boynuzlu, inatçı evcil hayvan",
       "answer": "KEÇİ",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Oyuncunun canlandırdığı kişi",
+      "text": "Oyuncuya verilen karakter",
       "answer": "ROL",
       "row": 9,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Katıksız, arı",
+      "text": "İçinde yabancı madde bulunmayan",
       "answer": "SAF",
       "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sevinç, keyif",
+      "text": "İçe doğan mutluluk hâli",
       "answer": "NEŞE",
       "row": 8,
       "col": 3,
@@ -236,21 +236,21 @@
       "arrow": "down"
     },
     {
-      "text": "Sodyum'un simgesi",
+      "text": "Periyodik tablodaki Sodyum'un simgesi",
       "answer": "NA",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kraliçe",
+      "text": "Bir ülkenin kadın hükümdarı",
       "answer": "ECE",
       "row": 9,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tarladaki tahıl",
+      "text": "Tarlada yetişen tahıl bitkisi",
       "answer": "EKİN",
       "row": 2,
       "col": 6,
@@ -264,14 +264,14 @@
       "arrow": "down"
     },
     {
-      "text": "Dağın alt bölümü",
+      "text": "Dağın ovaya değdiği alt kısmı",
       "answer": "ETEK",
       "row": 3,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Pislik, is",
+      "text": "Temizlenmesi gereken pislik",
       "answer": "KİR",
       "row": 8,
       "col": 7,
@@ -285,7 +285,7 @@
       "arrow": "down"
     },
     {
-      "text": "Radyum'un simgesi",
+      "text": "Radyum için kullanılan kimyasal simge",
       "answer": "RA",
       "row": 6,
       "col": 8,

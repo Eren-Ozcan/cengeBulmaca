@@ -5,14 +5,14 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Yetki simgesi değnek",
+      "text": "Otorite simgesi baston",
       "answer": "ASA",
       "row": 1,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Lantan'ın simgesi",
+      "text": "Periyodik tablodaki Lantan'ın simgesi",
       "answer": "LA",
       "row": 0,
       "col": 7,
@@ -33,7 +33,7 @@
       "arrow": "right"
     },
     {
-      "text": "Yürürken atılan hareket",
+      "text": "Yürüyüşte bir ayak hareketi",
       "answer": "ADIM",
       "row": 3,
       "col": 0,
@@ -47,14 +47,14 @@
       "arrow": "right"
     },
     {
-      "text": "Üstü kapalı anlatma",
+      "text": "Açık söylemeden belirtme",
       "answer": "İMA",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Boru sesi",
+      "text": "Düdük sesi",
       "answer": "Tİ",
       "row": 4,
       "col": 3,
@@ -68,42 +68,42 @@
       "arrow": "right"
     },
     {
-      "text": "Platin'in simgesi",
+      "text": "Kimyada Platin'in simgesi",
       "answer": "PT",
       "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Nikel'in simgesi",
+      "text": "Element tablosunda Nikel'in simgesi",
       "answer": "Nİ",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Tanrıtanımaz kimse",
+      "text": "İnançsız kimse",
       "answer": "ATE",
       "row": 6,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Aralıksız, seyrek karşıtı",
+      "text": "Sıklıkla tekrarlanan, seyrek olmayan",
       "answer": "SIK",
       "row": 6,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Doğuma yardım eden sağlıkçı",
+      "text": "Loğusaya yardım eden kadın",
       "answer": "EBE",
       "row": 7,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Demir'in simgesi",
+      "text": "Kimyada Demir'in simgesi",
       "answer": "FE",
       "row": 7,
       "col": 0,
@@ -117,28 +117,28 @@
       "arrow": "right"
     },
     {
-      "text": "Eski Mısır'ın güneş tanrısı",
+      "text": "Firavunların taptığı güneş tanrısı",
       "answer": "RA",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kebabıyla ünlü ilimiz",
+      "text": "Çukurova'nın büyük şehri",
       "answer": "ADANA",
       "row": 9,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Altın'ın simgesi",
+      "text": "Altın için kullanılan kimyasal simge",
       "answer": "AU",
       "row": 9,
       "col": 7,
       "arrow": "down-right"
     },
     {
-      "text": "Yankı",
+      "text": "Sesin geri dönmesi",
       "answer": "EKO",
       "row": 10,
       "col": 0,
@@ -152,21 +152,21 @@
       "arrow": "right"
     },
     {
-      "text": "Kesilmiş ağaç levha",
+      "text": "Marangozun işlediği malzeme",
       "answer": "TAHTA",
       "row": 12,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bir nota",
+      "text": "Gam dizisinin dördüncü notası",
       "answer": "FA",
       "row": 7,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Karı kocadan her biri",
+      "text": "Evli çiftin bireylerinden biri",
       "answer": "EŞ",
       "row": 10,
       "col": 0,
@@ -180,63 +180,63 @@
       "arrow": "down"
     },
     {
-      "text": "Selenyum'un simgesi",
+      "text": "Selenyum için kullanılan kimyasal simge",
       "answer": "SE",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Beyaz, kara karşıtı",
+      "text": "Karın zıddı renk",
       "answer": "AK",
       "row": 9,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ağacın kolu",
+      "text": "Üzerinde yaprak taşıyan ağaç uzantısı",
       "answer": "DAL",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bir nota",
+      "text": "Gam dizisinin ilk notası",
       "answer": "DO",
       "row": 9,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İri yapılı orman hayvanı",
+      "text": "Pençeli, kalın postlu orman hayvanı",
       "answer": "AYI",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Türkiye'nin başkenti",
+      "text": "Anıtkabir'in bulunduğu şehir",
       "answer": "ANKARA",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Şehrin bir bölgesi, mahalle çevresi",
+      "text": "Kentin bir kesimi",
       "answer": "SEMT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Güzel sanatların her biri",
+      "text": "Yaratıcı beceri dalı",
       "answer": "SANAT",
       "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Zamanın çok kısa parçası",
+      "text": "Bir bakışta geçen süre",
       "answer": "AN",
       "row": 0,
       "col": 5,
@@ -250,14 +250,14 @@
       "arrow": "down"
     },
     {
-      "text": "Kasapta satılan besin",
+      "text": "Hayvansal besin maddesi",
       "answer": "ET",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Karışık renkli, benekli",
+      "text": "Alaca, benekli renk",
       "answer": "ALA",
       "row": 9,
       "col": 5,
@@ -271,28 +271,28 @@
       "arrow": "down"
     },
     {
-      "text": "Yemek konan çukur kap",
+      "text": "Sofrada yemek konan kap",
       "answer": "TABAK",
       "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İlenme, yakınma ünlemi",
+      "text": "Hayıflanma sözü",
       "answer": "AH",
       "row": 10,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Göze takılan mercek",
+      "text": "Gözlük yerine kullanılan ince mercek",
       "answer": "LENS",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Cilt, deri",
+      "text": "İnsan derisi",
       "answer": "TEN",
       "row": 5,
       "col": 7,
@@ -313,14 +313,14 @@
       "arrow": "down"
     },
     {
-      "text": "Bir nota",
+      "text": "Do'dan sonra gelen nota",
       "answer": "RE",
       "row": 4,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Ceylan",
+      "text": "Şiirde güzelliğe benzetilen hayvan",
       "answer": "AHU",
       "row": 7,
       "col": 8,

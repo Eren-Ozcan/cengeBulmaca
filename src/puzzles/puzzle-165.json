@@ -5,7 +5,7 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Bir soru sözcüğü",
+      "text": "'Ne yapıyorsun?' daki soru sözü",
       "answer": "NE",
       "row": 0,
       "col": 0,
@@ -19,21 +19,21 @@
       "arrow": "right"
     },
     {
-      "text": "Erkek insan, kişi",
+      "text": "Bir kimse, şahıs",
       "answer": "ADAM",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bir nota",
+      "text": "Gam dizisinde üçüncü nota",
       "answer": "Mİ",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bir işaret sıfatı",
+      "text": "'Bu' ve 'o' ile birlikte kullanılan işaret sözü",
       "answer": "ŞU",
       "row": 3,
       "col": 6,
@@ -47,35 +47,35 @@
       "arrow": "down-right"
     },
     {
-      "text": "Cilt, deri",
+      "text": "Vücudu kaplayan yüzey",
       "answer": "TEN",
       "row": 4,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "İsviçre'nin başkenti",
+      "text": "İsviçre'nin idari başkenti",
       "answer": "BERN",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Beyaz, kara karşıtı",
+      "text": "Temiz, lekesiz renk",
       "answer": "AK",
       "row": 5,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Deriden salgılanan sıvı",
+      "text": "Egzersizde deriden gelen sıvı",
       "answer": "TER",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Enerji",
+      "text": "İş yapabilme gücü (öz Türkçe)",
       "answer": "ERKE",
       "row": 6,
       "col": 3,
@@ -89,7 +89,7 @@
       "arrow": "right"
     },
     {
-      "text": "Avrupa Birliği'nin ortak para birimi",
+      "text": "AB ülkelerinde kullanılan ortak para",
       "answer": "AVRO",
       "row": 7,
       "col": 4,
@@ -103,21 +103,21 @@
       "arrow": "down-right"
     },
     {
-      "text": "Fitilli aydınlatma aracı",
+      "text": "Erimiş yağdan yapılan aydınlatma aracı",
       "answer": "MUM",
       "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "İtalya'nın başkenti",
+      "text": "Kolezyum'un bulunduğu şehir",
       "answer": "ROMA",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tantal'ın simgesi",
+      "text": "Kimyada Tantal'ın simgesi",
       "answer": "TA",
       "row": 10,
       "col": 6,
@@ -138,7 +138,7 @@
       "arrow": "right"
     },
     {
-      "text": "Nikel'in simgesi",
+      "text": "Nikel için kullanılan kimyasal simge",
       "answer": "Nİ",
       "row": 0,
       "col": 0,
@@ -159,21 +159,21 @@
       "arrow": "down"
     },
     {
-      "text": "Otlak",
+      "text": "Hayvanların otladığı alan",
       "answer": "MERA",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gözleri görmeyen",
+      "text": "Görme engelli kişi (eski dilde)",
       "answer": "AMA",
       "row": 8,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kanın dolaştığı kanal",
+      "text": "Kanı taşıyan kanal",
       "answer": "DAMAR",
       "row": 0,
       "col": 3,
@@ -187,21 +187,21 @@
       "arrow": "down"
     },
     {
-      "text": "Osmanlı'nın İstanbul'dan önceki başkenti",
+      "text": "Trakya'daki tarihi başkentimiz",
       "answer": "EDİRNE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sodyum'un simgesi",
+      "text": "Element tablosunda Sodyum'un simgesi",
       "answer": "NA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eski Mısır'ın güneş tanrısı",
+      "text": "Mısır mitolojisinde güneş tanrısı",
       "answer": "RA",
       "row": 5,
       "col": 5,
@@ -236,7 +236,7 @@
       "arrow": "down"
     },
     {
-      "text": "Japon halk türküsü",
+      "text": "Japon şiiri, türküsü",
       "answer": "UTA",
       "row": 8,
       "col": 7,
@@ -250,7 +250,7 @@
       "arrow": "down"
     },
     {
-      "text": "Ağaçlarla kaplı geniş alan",
+      "text": "Sık ağaçlarla kaplı doğal alan",
       "answer": "ORMAN",
       "row": 6,
       "col": 8,

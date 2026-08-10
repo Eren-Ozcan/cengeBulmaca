@@ -5,35 +5,35 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Evin bölmelerinden her biri",
+      "text": "Yatak veya oturma amaçlı ev bölmesi",
       "answer": "ODA",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Vilayet",
+      "text": "Yönetim birimi, valilik bölgesi",
       "answer": "İL",
       "row": 0,
       "col": 6,
       "arrow": "down-right"
     },
     {
-      "text": "Namaza çağrı",
+      "text": "Müezzinin okuduğu çağrı",
       "answer": "EZAN",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bir nota",
+      "text": "Gam dizisinin son notası",
       "answer": "Sİ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Düş, imge",
+      "text": "Zihinde canlandırılan şey",
       "answer": "HAYAL",
       "row": 3,
       "col": 2,
@@ -54,7 +54,7 @@
       "arrow": "right"
     },
     {
-      "text": "Helyum'un simgesi",
+      "text": "Kimyada Helyum'un simgesi",
       "answer": "HE",
       "row": 5,
       "col": 6,
@@ -68,7 +68,7 @@
       "arrow": "down-right"
     },
     {
-      "text": "Eksiksiz",
+      "text": "Hiçbir şeyi noksan olmayan",
       "answer": "TAM",
       "row": 6,
       "col": 5,
@@ -89,21 +89,21 @@
       "arrow": "right"
     },
     {
-      "text": "Eski Mısır'ın güneş tanrısı",
+      "text": "Antik Mısır tanrılarından biri",
       "answer": "RA",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kedisiyle ünlü ilimiz",
+      "text": "Doğu Anadolu'daki büyük gölün ilimiz",
       "answer": "VAN",
       "row": 8,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Yüksek yer kabartısı",
+      "text": "Yerkabuğunun yükseldiği kısım",
       "answer": "DAĞ",
       "row": 8,
       "col": 0,
@@ -117,7 +117,7 @@
       "arrow": "right"
     },
     {
-      "text": "Kişi, şahıs (eski dilde)",
+      "text": "Eski dilde kişi, kimse",
       "answer": "ZAT",
       "row": 10,
       "col": 0,
@@ -145,7 +145,7 @@
       "arrow": "right"
     },
     {
-      "text": "Öç alma isteği",
+      "text": "Unutulmayan öfke",
       "answer": "KİN",
       "row": 1,
       "col": 1,
@@ -159,7 +159,7 @@
       "arrow": "down"
     },
     {
-      "text": "Hediye",
+      "text": "Sevgi göstergesi olarak verilen şey",
       "answer": "ARMAĞAN",
       "row": 4,
       "col": 2,
@@ -173,28 +173,28 @@
       "arrow": "down"
     },
     {
-      "text": "Üye",
+      "text": "Dernek veya kurum üyesi",
       "answer": "AZA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Zamanın çok kısa parçası",
+      "text": "Çabucak geçen zaman dilimi",
       "answer": "AN",
       "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mızraplı telli çalgı",
+      "text": "Klasik müziğin telli çalgısı",
       "answer": "UD",
       "row": 8,
       "col": 3,
       "arrow": "right-down"
     },
     {
-      "text": "Altının saflık derecesi",
+      "text": "Altının saflık ölçüsü",
       "answer": "AYAR",
       "row": 1,
       "col": 5,
@@ -208,7 +208,7 @@
       "arrow": "down"
     },
     {
-      "text": "Ayak direme",
+      "text": "Direngenlik, dediğinden dönmeme",
       "answer": "İNAT",
       "row": 0,
       "col": 6,
@@ -229,21 +229,21 @@
       "arrow": "down"
     },
     {
-      "text": "Bir seslenme sözü",
+      "text": "Hitapta kullanılan seslenme sözü",
       "answer": "YA",
       "row": 9,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yaylı bir çalgı",
+      "text": "Yayla çalınan telli çalgı",
       "answer": "KEMAN",
       "row": 3,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Binek hayvanı",
+      "text": "Süvarinin bindiği hayvan",
       "answer": "AT",
       "row": 9,
       "col": 8,

@@ -12,7 +12,7 @@
       "arrow": "right"
     },
     {
-      "text": "Müzik sesi işareti",
+      "text": "Müzikte sesi gösteren işaret",
       "answer": "NOTA",
       "row": 0,
       "col": 5,
@@ -33,7 +33,7 @@
       "arrow": "down-right"
     },
     {
-      "text": "Bir bağlaç",
+      "text": "'İle' anlamında bağlaç",
       "answer": "VE",
       "row": 3,
       "col": 6,
@@ -61,14 +61,14 @@
       "arrow": "right"
     },
     {
-      "text": "Nikel'in simgesi",
+      "text": "Kimyada Nikel'in simgesi",
       "answer": "Nİ",
       "row": 5,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "İnternet sayfası",
+      "text": "Web üzerinde yayın yapan sayfa",
       "answer": "SİTE",
       "row": 5,
       "col": 3,
@@ -82,14 +82,14 @@
       "arrow": "down-right"
     },
     {
-      "text": "Zamanın çok kısa parçası",
+      "text": "Göz açıp kapayana kadarki süre",
       "answer": "AN",
       "row": 6,
       "col": 7,
       "arrow": "down-right"
     },
     {
-      "text": "Mektuba yapıştırılan değerli kâğıt",
+      "text": "Zarfa yapıştırılan ücret kağıdı",
       "answer": "PUL",
       "row": 8,
       "col": 0,
@@ -110,7 +110,7 @@
       "arrow": "down-right"
     },
     {
-      "text": "Üzerinde iş görülen mobilya",
+      "text": "Üstünde yazı yazılan mobilya",
       "answer": "MASA",
       "row": 9,
       "col": 3,
@@ -124,28 +124,28 @@
       "arrow": "right"
     },
     {
-      "text": "Bin gram",
+      "text": "Ağırlık birimi (1000 gram)",
       "answer": "KİLO",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Bir soru sözcüğü",
+      "text": "'Ne oldu?' daki soru kelimesi",
       "answer": "NE",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kırmızı renk",
+      "text": "Kırmızıya çalan renk",
       "answer": "AL",
       "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Seslenme ünlemi",
+      "text": "Dikkat çekme ünlemi",
       "answer": "EY",
       "row": 11,
       "col": 6,
@@ -159,28 +159,28 @@
       "arrow": "right"
     },
     {
-      "text": "Dede, cet",
+      "text": "Büyük dede, ecdat",
       "answer": "ATA",
       "row": 12,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Hareketi sağlayan doku",
+      "text": "Kasılıp gevşeyen doku",
       "answer": "KAS",
       "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Haber sunucusu",
+      "text": "Televizyonda haberleri okuyan kişi",
       "answer": "SPİKER",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ceylan",
+      "text": "Şiirde güzelliğe benzetilen hayvan",
       "answer": "AHU",
       "row": 2,
       "col": 2,
@@ -194,7 +194,7 @@
       "arrow": "down"
     },
     {
-      "text": "Gökyüzünün rengi",
+      "text": "Soğuk renklerden biri",
       "answer": "MAVİ",
       "row": 0,
       "col": 3,
@@ -215,70 +215,70 @@
       "arrow": "down"
     },
     {
-      "text": "Yarışma bölümü",
+      "text": "Elemenin bir aşaması",
       "answer": "TUR",
       "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yaban hayvanı barınağı",
+      "text": "Hayvanların yer altındaki yuvası",
       "answer": "İN",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Lantan'ın simgesi",
+      "text": "Lantan için kullanılan kimyasal simge",
       "answer": "LA",
       "row": 10,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Büyükanne",
+      "text": "Torun sahibi yaşlı kadın",
       "answer": "NİNE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yemek konan çukur kap",
+      "text": "Sofrada yemek konan kap",
       "answer": "TABAK",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dokuzdan sonra gelen sayı",
+      "text": "Dokuzu izleyen sayı",
       "answer": "ON",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hatay'dan geçen ırmak",
+      "text": "Antakya'dan geçen ırmak",
       "answer": "ASİ",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Odanın üst yüzeyi",
+      "text": "Zeminin karşıtı olan üst yüzey",
       "answer": "TAVAN",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Hak ve hukuka uygunluk",
+      "text": "Terazi simgesiyle anılan kavram",
       "answer": "ADALET",
       "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Osmanlı'nın İstanbul'dan önceki başkenti",
+      "text": "Selimiye Camii'nin bulunduğu şehir",
       "answer": "EDİRNE",
       "row": 2,
       "col": 8,

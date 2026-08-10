@@ -5,14 +5,14 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Kobalt'ın simgesi",
+      "text": "Periyodik tablodaki Kobalt'ın simgesi",
       "answer": "CO",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yanma olayı, od",
+      "text": "Odunu kor haline getiren olay",
       "answer": "ATEŞ",
       "row": 0,
       "col": 3,
@@ -26,28 +26,28 @@
       "arrow": "right"
     },
     {
-      "text": "İçine bir şey konan nesne",
+      "text": "Sıvı veya katı madde konulan nesne",
       "answer": "KAP",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Pul kanatlı renkli böcek",
+      "text": "Renkli kanatlarıyla uçan böcek",
       "answer": "KELEBEK",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yaprakları katmerli kış sebzesi",
+      "text": "Yeşil yapraklı kış sebzesi",
       "answer": "LAHANA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Demir'in simgesi",
+      "text": "Demir'in kimyasal simgesi",
       "answer": "FE",
       "row": 7,
       "col": 0,
@@ -61,7 +61,7 @@
       "arrow": "right"
     },
     {
-      "text": "Kripton'un simgesi",
+      "text": "Kripton için kullanılan kimyasal simge",
       "answer": "KR",
       "row": 9,
       "col": 0,
@@ -75,21 +75,21 @@
       "arrow": "right"
     },
     {
-      "text": "Kurum, duman lekesi",
+      "text": "Bacadan çıkan siyah kalıntı",
       "answer": "İS",
       "row": 2,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Elektrik direnç birimi",
+      "text": "Direnç ölçü birimi",
       "answer": "OM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kolsuz giysi",
+      "text": "Gömlek üzerine giyilen kolsuz giysi",
       "answer": "YELEK",
       "row": 4,
       "col": 1,
@@ -110,14 +110,14 @@
       "arrow": "down"
     },
     {
-      "text": "Dört yanı suyla çevrili kara",
+      "text": "Denizle çevrili kara parçası",
       "answer": "ADA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Üstün zekâ",
+      "text": "Olağanüstü yetenek",
       "answer": "DEHA",
       "row": 4,
       "col": 3,
@@ -138,21 +138,21 @@
       "arrow": "down"
     },
     {
-      "text": "Raketle oynanan spor",
+      "text": "Fileden topu geçirerek oynanan spor",
       "answer": "TENİS",
       "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İyileşme, sağlığa kavuşma",
+      "text": "Hastalıktan kurtulma",
       "answer": "ŞİFA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İlçe",
+      "text": "İlin bağlı olduğu idari alt birim",
       "answer": "KAZA",
       "row": 5,
       "col": 6,

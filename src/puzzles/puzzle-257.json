@@ -5,21 +5,21 @@
   "cols": 9,
   "clues": [
     {
-      "text": "İlave, ulama",
+      "text": "Dilbilgisinde kelimeye eklenen parça",
       "answer": "EK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Avusturya'nın başkenti",
+      "text": "Mozart'ın şehri, Avusturya başkenti",
       "answer": "VİYANA",
       "row": 0,
       "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Bağışlama",
+      "text": "Cezayı kaldırma",
       "answer": "AF",
       "row": 2,
       "col": 0,
@@ -33,28 +33,28 @@
       "arrow": "right"
     },
     {
-      "text": "İri yapılı orman hayvanı",
+      "text": "Pençeli, kalın postlu orman hayvanı",
       "answer": "AYI",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dilin algıladığı duyum",
+      "text": "Yiyeceklerin ağızda bıraktığı duyum",
       "answer": "TAT",
       "row": 3,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Otomobil",
+      "text": "Karayolunda kullanılan taşıt",
       "answer": "ARABA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İri taneli bezelye",
+      "text": "Bir bakliyat türü",
       "answer": "ARAKA",
       "row": 5,
       "col": 3,
@@ -68,42 +68,42 @@
       "arrow": "down-right"
     },
     {
-      "text": "Notada durak işareti",
+      "text": "Notada sessizlik simgesi",
       "answer": "ES",
       "row": 6,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Rusça'da 'evet'",
+      "text": "Rusların 'evet' demesi",
       "answer": "DA",
       "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Boru sesi",
+      "text": "Zurna sesini anlatan hece",
       "answer": "Tİ",
       "row": 7,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Bir nota",
+      "text": "Do-re-mi dizisinin başlangıcı",
       "answer": "DO",
       "row": 7,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Galyum'un simgesi",
+      "text": "Galyum için kullanılan kimyasal simge",
       "answer": "GA",
       "row": 7,
       "col": 5,
       "arrow": "down-right"
     },
     {
-      "text": "Bir nota",
+      "text": "Gam dizisinde üçüncü nota",
       "answer": "Mİ",
       "row": 8,
       "col": 0,
@@ -117,28 +117,28 @@
       "arrow": "down-right"
     },
     {
-      "text": "Havsız ince dokuma yaygı",
+      "text": "El tezgahında dokunan yaygı",
       "answer": "KİLİM",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tantal'ın simgesi",
+      "text": "Kimyada Tantal'ın simgesi",
       "answer": "TA",
       "row": 10,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Tartı aleti",
+      "text": "Ağırlık ölçen alet",
       "answer": "TERAZİ",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İskambilde birli",
+      "text": "İskambilde birli kağıt",
       "answer": "AS",
       "row": 11,
       "col": 6,
@@ -166,14 +166,14 @@
       "arrow": "down"
     },
     {
-      "text": "Büyük taş kütlesi",
+      "text": "Dağın sert taş bloğu",
       "answer": "KAYA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bitkilerdeki sivri çıkıntı",
+      "text": "Gülde bulunan sivri çıkıntı",
       "answer": "DİKEN",
       "row": 7,
       "col": 1,
@@ -194,7 +194,7 @@
       "arrow": "down"
     },
     {
-      "text": "İsim",
+      "text": "Kişiye verilen isim",
       "answer": "AD",
       "row": 5,
       "col": 3,
@@ -215,14 +215,14 @@
       "arrow": "down"
     },
     {
-      "text": "Çayıyla ünlü Karadeniz ilimiz",
+      "text": "Doğu Karadeniz'in yeşil ilimiz",
       "answer": "RİZE",
       "row": 8,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir seslenme sözü",
+      "text": "Seçenek bildiren bağlaç",
       "answer": "YA",
       "row": 0,
       "col": 5,
@@ -257,35 +257,35 @@
       "arrow": "down"
     },
     {
-      "text": "Soru kâğıdıyla yapılan araştırma",
+      "text": "Görüş toplamak için hazırlanan soru formu",
       "answer": "ANKET",
       "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Girişken, çevik",
+      "text": "İnisiyatif alan, atılgan",
       "answer": "ATAK",
       "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İlgili, ilişkin",
+      "text": "Bir şeyin malı olan",
       "answer": "AİT",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Turnusolu kızartan kimyasal madde",
+      "text": "Turnusol kağıdını kırmızıya boyayan madde",
       "answer": "ASİT",
       "row": 4,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Yetki simgesi değnek",
+      "text": "Otorite simgesi baston",
       "answer": "ASA",
       "row": 9,
       "col": 8,

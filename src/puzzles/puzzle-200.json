@@ -5,21 +5,21 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Katıksız, arı",
+      "text": "İçinde yabancı madde bulunmayan",
       "answer": "SAF",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Soru kâğıdıyla yapılan araştırma",
+      "text": "Görüş toplamak için hazırlanan soru formu",
       "answer": "ANKET",
       "row": 1,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yayla atılan ince silah",
+      "text": "Yay ile fırlatılan silah",
       "answer": "OK",
       "row": 2,
       "col": 2,
@@ -33,7 +33,7 @@
       "arrow": "right"
     },
     {
-      "text": "Yapma, etme (eski dilde)",
+      "text": "Eski dilde yapma, gerçekleştirme",
       "answer": "İKA",
       "row": 3,
       "col": 1,
@@ -75,14 +75,14 @@
       "arrow": "down-right"
     },
     {
-      "text": "Anadolu kökenli Ortodoks Hristiyan",
+      "text": "İstanbul'da yaşayan Ortodoks azınlık",
       "answer": "RUM",
       "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Dede, cet",
+      "text": "Soyun geldiği kişi",
       "answer": "ATA",
       "row": 7,
       "col": 5,
@@ -96,7 +96,7 @@
       "arrow": "right"
     },
     {
-      "text": "İlenme, yakınma ünlemi",
+      "text": "Iztırap ünlemi",
       "answer": "AH",
       "row": 8,
       "col": 6,
@@ -110,14 +110,14 @@
       "arrow": "down-right"
     },
     {
-      "text": "Bir nota",
+      "text": "Do'ya dönmeden önceki nota",
       "answer": "Sİ",
       "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bir bağlaç",
+      "text": "'İle' anlamında bağlaç",
       "answer": "VE",
       "row": 10,
       "col": 0,
@@ -131,7 +131,7 @@
       "arrow": "right"
     },
     {
-      "text": "Yapının en üst örtüsü",
+      "text": "Binayı yağmurdan koruyan üst örtü",
       "answer": "ÇATI",
       "row": 10,
       "col": 0,
@@ -145,7 +145,7 @@
       "arrow": "right"
     },
     {
-      "text": "Yılın on ikide biri",
+      "text": "Otuz güne yakın süren zaman birimi",
       "answer": "AY",
       "row": 0,
       "col": 1,
@@ -166,21 +166,21 @@
       "arrow": "down"
     },
     {
-      "text": "Bolluk",
+      "text": "Ürünün çok olması",
       "answer": "BEREKET",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kıtalar arası büyük deniz",
+      "text": "Kıtaları ayıran engin su kütlesi",
       "answer": "OKYANUS",
       "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Halk dilinde ağabey",
+      "text": "Saygıyla anılan büyük erkek kardeş",
       "answer": "AKA",
       "row": 0,
       "col": 4,
@@ -194,14 +194,14 @@
       "arrow": "down"
     },
     {
-      "text": "Yassı, mayalı ekmek",
+      "text": "Fırında pişen yassı ekmek türü",
       "answer": "PİDE",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çalışkanlığıyla bilinen böcek",
+      "text": "Koloni halinde yaşayan çalışkan böcek",
       "answer": "KARINCA",
       "row": 0,
       "col": 6,
@@ -215,7 +215,7 @@
       "arrow": "down"
     },
     {
-      "text": "Dağın alt bölümü",
+      "text": "Dağın ovaya değdiği alt kısmı",
       "answer": "ETEK",
       "row": 0,
       "col": 7,
@@ -229,21 +229,21 @@
       "arrow": "down"
     },
     {
-      "text": "Bir soru sözcüğü",
+      "text": "'Nedir' sorusunun kısası",
       "answer": "NE",
       "row": 9,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Cilt, deri",
+      "text": "Vücudu kaplayan yüzey",
       "answer": "TEN",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Kilit açan araç",
+      "text": "Kilide uyan metal parça",
       "answer": "ANAHTAR",
       "row": 4,
       "col": 8,

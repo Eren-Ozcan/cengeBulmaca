@@ -5,7 +5,7 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Vücudu kaplayan örtü",
+      "text": "Bedeni saran doku",
       "answer": "DERİ",
       "row": 0,
       "col": 0,
@@ -19,49 +19,49 @@
       "arrow": "right"
     },
     {
-      "text": "Para saklanan çelik dolap",
+      "text": "Değerli eşyaların saklandığı çelik dolap",
       "answer": "KASA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Baş kaldıran",
+      "text": "İtaat etmeyen, isyankar",
       "answer": "ASİ",
       "row": 2,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Geniş, verimli düzlük",
+      "text": "Tarıma elverişli düzlük alan",
       "answer": "OVA",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Üst karşıtı",
+      "text": "Aşağıda olan",
       "answer": "ALT",
       "row": 3,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "'İşte' anlamında bir ünlem",
+      "text": "Anlama, hatırlama ünlemi",
       "answer": "HA",
       "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Japon halk türküsü",
+      "text": "Japon şiiri, türküsü",
       "answer": "UTA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Salamurada bekletilmiş sebze",
+      "text": "Sirke ve tuzda bekletilen sebze",
       "answer": "TURŞU",
       "row": 5,
       "col": 3,
@@ -82,14 +82,14 @@
       "arrow": "right"
     },
     {
-      "text": "Temel, esas",
+      "text": "Temel niteliğinde olan",
       "answer": "ANA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cıva'nın simgesi",
+      "text": "Cıva için kullanılan kimyasal simge",
       "answer": "HG",
       "row": 7,
       "col": 3,
@@ -103,7 +103,7 @@
       "arrow": "right"
     },
     {
-      "text": "Tanrıtanımaz kimse",
+      "text": "Dine inanmayan kişi",
       "answer": "ATE",
       "row": 7,
       "col": 6,
@@ -117,7 +117,7 @@
       "arrow": "right"
     },
     {
-      "text": "Avrupa'yı Asya'dan ayıran dağ sırası",
+      "text": "İki kıtayı ayıran Rusya'daki dağlar",
       "answer": "URAL",
       "row": 9,
       "col": 0,
@@ -138,21 +138,21 @@
       "arrow": "right"
     },
     {
-      "text": "Sarıya çalan göz rengi",
+      "text": "Yeşile ve sarıya çalan göz rengi",
       "answer": "ELA",
       "row": 11,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Tespih başlığı",
+      "text": "Tespihin baş kısmı",
       "answer": "İMAME",
       "row": 11,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yoğun su buharı bulutu",
+      "text": "Görüşü azaltan nem bulutu",
       "answer": "SİS",
       "row": 12,
       "col": 5,
@@ -166,21 +166,21 @@
       "arrow": "down"
     },
     {
-      "text": "Yunanistan'ın başkenti",
+      "text": "Ege'deki antik Yunan başkenti",
       "answer": "ATİNA",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Anadolu kökenli Ortodoks Hristiyan",
+      "text": "İstanbul'da yaşayan Ortodoks azınlık",
       "answer": "RUM",
       "row": 9,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Radyum'un simgesi",
+      "text": "Element tablosunda Radyum'un simgesi",
       "answer": "RA",
       "row": 0,
       "col": 2,
@@ -194,14 +194,14 @@
       "arrow": "down"
     },
     {
-      "text": "Türkiye'nin başkenti",
+      "text": "İç Anadolu'daki başkentimiz",
       "answer": "ANKARA",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Urfa yöresine özgü acı biber",
+      "text": "Urfa mutfağının acı baharatı",
       "answer": "İSOT",
       "row": 0,
       "col": 3,
@@ -215,21 +215,21 @@
       "arrow": "down"
     },
     {
-      "text": "Avcının kısmeti",
+      "text": "Avcının peşinde koştuğu şey",
       "answer": "AV",
       "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kesilmiş ağaç levha",
+      "text": "Ağaçtan biçilmiş levha",
       "answer": "TAHTA",
       "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir soru sözcüğü",
+      "text": "Merak bildiren soru sözcüğü",
       "answer": "NE",
       "row": 10,
       "col": 4,
@@ -243,21 +243,21 @@
       "arrow": "down"
     },
     {
-      "text": "Sodyum'un simgesi",
+      "text": "Sodyum'un kimyasal simgesi",
       "answer": "NA",
       "row": 8,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bir nota",
+      "text": "Mi ile Sol arasındaki nota",
       "answer": "FA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Arka, geri",
+      "text": "Ön karşıtı yön",
       "answer": "ART",
       "row": 3,
       "col": 6,
@@ -271,28 +271,28 @@
       "arrow": "down"
     },
     {
-      "text": "Notada durak işareti",
+      "text": "Notada sessizlik simgesi",
       "answer": "ES",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bir işaret sıfatı",
+      "text": "Biraz uzaktaki şeyi gösteren sıfat",
       "answer": "ŞU",
       "row": 4,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Lityum'un simgesi",
+      "text": "Lityum'un kimyasal simgesi",
       "answer": "Lİ",
       "row": 10,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bir nota",
+      "text": "La'dan sonra gelen nota",
       "answer": "Sİ",
       "row": 0,
       "col": 8,
@@ -306,7 +306,7 @@
       "arrow": "down"
     },
     {
-      "text": "En sert değerli taş",
+      "text": "Doğadaki en sert mineral",
       "answer": "ELMAS",
       "row": 7,
       "col": 8,

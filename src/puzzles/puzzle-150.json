@@ -5,14 +5,14 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Bir seslenme sözü",
+      "text": "Seçenek bildiren bağlaç",
       "answer": "YA",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sayı, tane",
+      "text": "Miktar bildiren sözcük",
       "answer": "ADET",
       "row": 0,
       "col": 5,
@@ -33,14 +33,14 @@
       "arrow": "right"
     },
     {
-      "text": "Ateş (eski dilde)",
+      "text": "Yanma olayının eski adı",
       "answer": "OD",
       "row": 2,
       "col": 6,
       "arrow": "down-right"
     },
     {
-      "text": "İlave, ulama",
+      "text": "Fazladan eklenen kısım",
       "answer": "EK",
       "row": 3,
       "col": 0,
@@ -61,21 +61,21 @@
       "arrow": "right"
     },
     {
-      "text": "Nikel'in simgesi",
+      "text": "Nikel için kullanılan kimyasal simge",
       "answer": "Nİ",
       "row": 5,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Yassı, mayalı ekmek",
+      "text": "Fırında pişen yassı ekmek türü",
       "answer": "PİDE",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Küçük metal kap",
+      "text": "Su içmede kullanılan küçük kap",
       "answer": "TAS",
       "row": 6,
       "col": 4,
@@ -89,7 +89,7 @@
       "arrow": "right"
     },
     {
-      "text": "Kanatlı kutsal varlık",
+      "text": "Nurdan yaratıldığına inanılan varlık",
       "answer": "MELEK",
       "row": 7,
       "col": 0,
@@ -110,14 +110,14 @@
       "arrow": "right"
     },
     {
-      "text": "Ayak direme",
+      "text": "Direngenlik, dediğinden dönmeme",
       "answer": "İNAT",
       "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "İnternet sayfası",
+      "text": "Web üzerinde yayın yapan sayfa",
       "answer": "SİTE",
       "row": 9,
       "col": 0,
@@ -159,14 +159,14 @@
       "arrow": "down"
     },
     {
-      "text": "Yılın onuncu ayı",
+      "text": "Eylül'den sonraki ay",
       "answer": "EKİM",
       "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ok atma aracı",
+      "text": "Gerilip bırakılarak ok fırlatılan araç",
       "answer": "YAY",
       "row": 0,
       "col": 2,
@@ -201,28 +201,28 @@
       "arrow": "down"
     },
     {
-      "text": "Beyaz, kara karşıtı",
+      "text": "Temiz, lekesiz renk",
       "answer": "AK",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Satrançta bir taş",
+      "text": "Satranç taşlarından biri, L şeklinde hareket eder",
       "answer": "AT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yemin",
+      "text": "Söz verme, ahit",
       "answer": "ANT",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Birinci, en önce olan",
+      "text": "Sırada en başta olan",
       "answer": "İLK",
       "row": 8,
       "col": 5,
@@ -236,7 +236,7 @@
       "arrow": "down"
     },
     {
-      "text": "Yunanistan'ın başkenti",
+      "text": "Parthenon Tapınağı'nın kenti",
       "answer": "ATİNA",
       "row": 5,
       "col": 6,
@@ -250,21 +250,21 @@
       "arrow": "down"
     },
     {
-      "text": "Gökyüzünün rengi",
+      "text": "Denizin ve gökyüzünün rengi",
       "answer": "MAVİ",
       "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Tantal'ın simgesi",
+      "text": "Kimyada Tantal'ın simgesi",
       "answer": "TA",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Lityum'un simgesi",
+      "text": "Element tablosunda Lityum'un simgesi",
       "answer": "Lİ",
       "row": 3,
       "col": 8,

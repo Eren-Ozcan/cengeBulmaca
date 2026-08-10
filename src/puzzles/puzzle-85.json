@@ -5,14 +5,14 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Yılın on ikide biri",
+      "text": "Otuz güne yakın süren zaman birimi",
       "answer": "AY",
       "row": 0,
       "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Notada durak işareti",
+      "text": "Müzikte susma işareti",
       "answer": "ES",
       "row": 1,
       "col": 5,
@@ -26,21 +26,21 @@
       "arrow": "down-right"
     },
     {
-      "text": "Yüz metrekarelik alan ölçüsü",
+      "text": "Alan ölçü birimi (100 m²)",
       "answer": "AR",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Polonyum'un simgesi",
+      "text": "Polonyum için kullanılan kimyasal simge",
       "answer": "PO",
       "row": 2,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Fileyle ayrılmış sahada oynanan top sporu",
+      "text": "Elle oynanan file sporu",
       "answer": "VOLEY",
       "row": 2,
       "col": 0,
@@ -54,14 +54,14 @@
       "arrow": "right"
     },
     {
-      "text": "Hayvan besini",
+      "text": "Hayvanlara verilen besin",
       "answer": "YEM",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Güçlü sevgi, sevda",
+      "text": "Yoğun, tutkulu sevgi",
       "answer": "AŞK",
       "row": 4,
       "col": 4,
@@ -82,49 +82,49 @@
       "arrow": "down-right"
     },
     {
-      "text": "Çizgili Afrika hayvanı",
+      "text": "Siyah beyaz çizgili at benzeri hayvan",
       "answer": "ZEBRA",
       "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Mahkemelik anlaşmazlık",
+      "text": "Adalete taşınan anlaşmazlık",
       "answer": "DAVA",
       "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Çin'in başkenti",
+      "text": "Çin'in kuzeyindeki başkent",
       "answer": "PEKİN",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gezinti teknesi",
+      "text": "Lüks gezinti gemisi",
       "answer": "YAT",
       "row": 8,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Nâzım Hikmet'in soyadı",
+      "text": "'Nâzım Hikmet ...' soyadı",
       "answer": "RAN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İstem dışı kötü olay",
+      "text": "Beklenmedik talihsiz olay",
       "answer": "KAZA",
       "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "İyileşme, sağlığa kavuşma",
+      "text": "Hastalıktan kurtulma",
       "answer": "ŞİFA",
       "row": 9,
       "col": 0,
@@ -138,14 +138,14 @@
       "arrow": "right"
     },
     {
-      "text": "Geçmişi inceleyen bilim",
+      "text": "Geçmiş olayları inceleyen bilim dalı",
       "answer": "TARİH",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tantal'ın simgesi",
+      "text": "Element tablosunda Tantal'ın simgesi",
       "answer": "TA",
       "row": 11,
       "col": 6,
@@ -159,21 +159,21 @@
       "arrow": "down"
     },
     {
-      "text": "Hardal kokulu savaş gazı",
+      "text": "Hardal gazı olarak da bilinen zehirli gaz",
       "answer": "İPERİT",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bir bağlaç",
+      "text": "'Vasıtasıyla' anlamındaki edat",
       "answer": "İLE",
       "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Baş",
+      "text": "Vücudun beyni barındıran üst kısmı",
       "answer": "KAFA",
       "row": 7,
       "col": 2,
@@ -187,7 +187,7 @@
       "arrow": "down"
     },
     {
-      "text": "Bazı Arap ülkelerinin para birimi (Ürdün, Irak vb.)",
+      "text": "Kuveyt ve Irak gibi ülkelerin para birimi",
       "answer": "DİNAR",
       "row": 6,
       "col": 3,
@@ -201,21 +201,21 @@
       "arrow": "down"
     },
     {
-      "text": "Namaza çağrı",
+      "text": "Minareden okunan davet",
       "answer": "EZAN",
       "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yanan ateşin dili",
+      "text": "Ateşin yükselen dili",
       "answer": "ALEV",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yemek, çorba",
+      "text": "Sofraya konan sıcak yemek",
       "answer": "AŞ",
       "row": 2,
       "col": 6,
@@ -229,28 +229,28 @@
       "arrow": "down"
     },
     {
-      "text": "Haber sunucusu",
+      "text": "Televizyonda haberleri okuyan kişi",
       "answer": "SPİKER",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Havanın büyük bölümünü oluşturan gaz",
+      "text": "Renksiz, kokusuz atmosfer gazı",
       "answer": "AZOT",
       "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yeşil, küçük bitki",
+      "text": "Küçük, yeşil bitki türü",
       "answer": "OT",
       "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Kazakistan'ın başkenti",
+      "text": "Orta Asya'daki bir başkent",
       "answer": "ASTANA",
       "row": 5,
       "col": 8,

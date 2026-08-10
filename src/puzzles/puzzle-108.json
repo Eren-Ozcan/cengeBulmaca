@@ -5,14 +5,14 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Hayvan besini",
+      "text": "Ahırda hayvana verilen gıda",
       "answer": "YEM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Takım, kadro",
+      "text": "Birlikte çalışan grup",
       "answer": "EKİP",
       "row": 0,
       "col": 4,
@@ -33,7 +33,7 @@
       "arrow": "right"
     },
     {
-      "text": "Kanun",
+      "text": "Devletin koyduğu kural",
       "answer": "YASA",
       "row": 2,
       "col": 0,
@@ -54,28 +54,28 @@
       "arrow": "right"
     },
     {
-      "text": "Kitap kabı",
+      "text": "Kitabın sayfalarını bir arada tutan kap",
       "answer": "CİLT",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Binanın her bir bölümü",
+      "text": "Merdivenle çıkılan bina bölümü",
       "answer": "KAT",
       "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Aydınlık veren enerji",
+      "text": "Görmemizi sağlayan enerji türü",
       "answer": "IŞIK",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sapı uzun, kırmızı küçük meyve",
+      "text": "Çekirdekli, tatlı yaz meyvesi",
       "answer": "KİRAZ",
       "row": 7,
       "col": 2,
@@ -89,14 +89,14 @@
       "arrow": "down-right"
     },
     {
-      "text": "Yaşam gücü; ruh",
+      "text": "Bedeni yaşatan güç",
       "answer": "CAN",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Helyum'un simgesi",
+      "text": "Element tablosunda Helyum'un simgesi",
       "answer": "HE",
       "row": 10,
       "col": 0,
@@ -117,7 +117,7 @@
       "arrow": "down"
     },
     {
-      "text": "Gemisiyle ünlü peygamber",
+      "text": "Tufan gemisinin sahibi peygamber",
       "answer": "NUH",
       "row": 7,
       "col": 1,
@@ -138,28 +138,28 @@
       "arrow": "down"
     },
     {
-      "text": "İyileşme, sağlığa kavuşma",
+      "text": "Hastalıktan kurtulma",
       "answer": "ŞİFA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tanrı katında insan",
+      "text": "Allah'ın yarattığı insan",
       "answer": "KUL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Şehir dışı açık alan",
+      "text": "Doğal, yeşil açık alan",
       "answer": "KIR",
       "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dış karşıtı, dahil",
+      "text": "Bir şeyin ortasındaki bölüm",
       "answer": "İÇ",
       "row": 0,
       "col": 6,
@@ -180,7 +180,7 @@
       "arrow": "down"
     },
     {
-      "text": "Anlama ve kavrama yetisi",
+      "text": "Zihinsel kabiliyet",
       "answer": "ZEKA",
       "row": 6,
       "col": 7,

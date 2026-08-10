@@ -5,35 +5,35 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Tantal'ın simgesi",
+      "text": "Element tablosunda Tantal'ın simgesi",
       "answer": "TA",
       "row": 0,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Yunanistan'ın başkenti",
+      "text": "Ege'nin karşı kıyısındaki başkent",
       "answer": "ATİNA",
       "row": 1,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Taşınabilir elektrik kaynağı",
+      "text": "Cihazlara takılan enerji kaynağı",
       "answer": "PİL",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gerçek olmayan söz",
+      "text": "Aldatmak için söylenen söz",
       "answer": "YALAN",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gezinti teknesi",
+      "text": "Lüks gezinti gemisi",
       "answer": "YAT",
       "row": 3,
       "col": 0,
@@ -47,21 +47,21 @@
       "arrow": "right"
     },
     {
-      "text": "Abide",
+      "text": "Anmak için dikilen yapı",
       "answer": "ANIT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sodyum'un simgesi",
+      "text": "Sodyum için kullanılan kimyasal simge",
       "answer": "NA",
       "row": 4,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kasapta satılan besin",
+      "text": "Hayvansal besin maddesi",
       "answer": "ET",
       "row": 4,
       "col": 0,
@@ -82,14 +82,14 @@
       "arrow": "right"
     },
     {
-      "text": "Kanun",
+      "text": "Devletin koyduğu kural",
       "answer": "YASA",
       "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Burnun algıladığı duyum",
+      "text": "Burnun aldığı duyum",
       "answer": "KOKU",
       "row": 6,
       "col": 0,
@@ -103,7 +103,7 @@
       "arrow": "right"
     },
     {
-      "text": "Dizi",
+      "text": "Art arda gelen düzen",
       "answer": "SIRA",
       "row": 8,
       "col": 3,
@@ -117,35 +117,35 @@
       "arrow": "down-right"
     },
     {
-      "text": "Ceylan",
+      "text": "Şiirde güzelliğe benzetilen hayvan",
       "answer": "AHU",
       "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Alt karşıtı",
+      "text": "Yukarıda olan",
       "answer": "ÜST",
       "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Altının saflık derecesi",
+      "text": "Altının saflık ölçüsü",
       "answer": "AYAR",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Meydana gelen şey, hadise",
+      "text": "Gerçekleşen vaka",
       "answer": "OLAY",
       "row": 11,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Tanrıtanımaz kimse",
+      "text": "Tanrı fikrini reddeden kişi",
       "answer": "ATE",
       "row": 12,
       "col": 0,
@@ -173,28 +173,28 @@
       "arrow": "down"
     },
     {
-      "text": "Düz, açık yer; saha",
+      "text": "Bir etkinliğin yapıldığı saha",
       "answer": "ALAN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yılın onuncu ayı",
+      "text": "Sonbaharın ortasındaki ay",
       "answer": "EKİM",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Satrançta bir taş",
+      "text": "Satrançta şah ve vezirden farklı bir taş",
       "answer": "AT",
       "row": 10,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hekimlik bilimi",
+      "text": "Hastalıkları inceleyen bilim dalı",
       "answer": "TIP",
       "row": 2,
       "col": 3,
@@ -229,7 +229,7 @@
       "arrow": "down"
     },
     {
-      "text": "Demircilikte metalin işlenmeye elverişli kızgınlık derecesi",
+      "text": "Demirin dövülecek kızgınlık derecesi",
       "answer": "TAV",
       "row": 0,
       "col": 5,
@@ -243,56 +243,56 @@
       "arrow": "down"
     },
     {
-      "text": "Aç karşıtı, doymuş",
+      "text": "Açlığı kalmamış",
       "answer": "TOK",
       "row": 9,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Duyuru",
+      "text": "Gazeteye verilen bildirim",
       "answer": "İLAN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bitki yetiştirilen camlık",
+      "text": "Bitkilerin korunduğu cam yapı",
       "answer": "SERA",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Lityum'un simgesi",
+      "text": "Lityum için kullanılan kimyasal simge",
       "answer": "Lİ",
       "row": 10,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Emile Zola'nın bir romanı",
+      "text": "Fransız yazarın 19. yüzyıl romanı",
       "answer": "NANA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kilit açan araç",
+      "text": "Kilide uyan metal parça",
       "answer": "ANAHTAR",
       "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Anne",
+      "text": "Yavrusunu doğuran dişi",
       "answer": "ANA",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Bir seslenme sözü",
+      "text": "Vurgu bildiren ünlem",
       "answer": "YA",
       "row": 10,
       "col": 8,

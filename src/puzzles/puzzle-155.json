@@ -5,84 +5,84 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Erkek insan, kişi",
+      "text": "Yetişkin erkek",
       "answer": "ADAM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yılın onuncu ayı",
+      "text": "Sonbaharın ortasındaki ay",
       "answer": "EKİM",
       "row": 0,
       "col": 5,
       "arrow": "down-right"
     },
     {
-      "text": "Oy (eski dilde)",
+      "text": "Eski dilde seçim oyu",
       "answer": "REY",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Gözleri görmeyen",
+      "text": "Kör kimse",
       "answer": "AMA",
       "row": 2,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kemirgen küçük hayvan",
+      "text": "Peynir sevdiği düşünülen kemirgen",
       "answer": "FARE",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İddia, tez",
+      "text": "Öne sürülen görüş",
       "answer": "SAV",
       "row": 3,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kafkas kültürünün izlerini taşıyan doğu ilimiz",
+      "text": "Ani Harabeleri'nin bulunduğu ilimiz",
       "answer": "KARS",
       "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bir nota",
+      "text": "Re ile Fa arasındaki nota",
       "answer": "Mİ",
       "row": 4,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Kalsiyum'un simgesi",
+      "text": "Periyodik tablodaki Kalsiyum'un simgesi",
       "answer": "CA",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Doğuma yardım eden sağlıkçı",
+      "text": "Doğum uzmanı sağlık görevlisi",
       "answer": "EBE",
       "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Bir nota",
+      "text": "Sekizli dizinin ilk sesi",
       "answer": "DO",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tantal'ın simgesi",
+      "text": "Periyodik tablodaki Tantal'ın simgesi",
       "answer": "TA",
       "row": 6,
       "col": 2,
@@ -103,21 +103,21 @@
       "arrow": "down-right"
     },
     {
-      "text": "Fırında pişen tatlı çörek",
+      "text": "Doğum günlerinde kesilen tatlı",
       "answer": "KEK",
       "row": 8,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Japon halk türküsü",
+      "text": "Geleneksel Japon ezgisi",
       "answer": "UTA",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sicim, halat",
+      "text": "Bükülmüş ipliklerden oluşan bağ",
       "answer": "İP",
       "row": 9,
       "col": 0,
@@ -145,7 +145,7 @@
       "arrow": "down"
     },
     {
-      "text": "Kobalt'ın simgesi",
+      "text": "Element tablosunda Kobalt'ın simgesi",
       "answer": "CO",
       "row": 4,
       "col": 1,
@@ -166,7 +166,7 @@
       "arrow": "down"
     },
     {
-      "text": "Elektrik güç birimi",
+      "text": "Enerji harcama hızı birimi",
       "answer": "VAT",
       "row": 6,
       "col": 2,
@@ -180,14 +180,14 @@
       "arrow": "down"
     },
     {
-      "text": "Yemek konan çukur kap",
+      "text": "Sofrada yemek konan kap",
       "answer": "TABAK",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Mekân; zemin",
+      "text": "Bir şeyin bulunduğu konum",
       "answer": "YER",
       "row": 1,
       "col": 4,
@@ -201,14 +201,14 @@
       "arrow": "down"
     },
     {
-      "text": "İlenme, yakınma ünlemi",
+      "text": "Hayıflanma sözü",
       "answer": "AH",
       "row": 9,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Selenyum'un simgesi",
+      "text": "Selenyum'un kimyasal simgesi",
       "answer": "SE",
       "row": 3,
       "col": 5,
@@ -236,14 +236,14 @@
       "arrow": "down"
     },
     {
-      "text": "Yayla atılan ince silah",
+      "text": "Yay ile fırlatılan silah",
       "answer": "OK",
       "row": 9,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tespih başlığı",
+      "text": "Tespihin uç tanesi",
       "answer": "İMAME",
       "row": 0,
       "col": 7,
@@ -257,7 +257,7 @@
       "arrow": "down"
     },
     {
-      "text": "Bir nota",
+      "text": "İkinci nota",
       "answer": "RE",
       "row": 9,
       "col": 7,
@@ -271,7 +271,7 @@
       "arrow": "down"
     },
     {
-      "text": "Günleri gösteren çizelge",
+      "text": "Duvara asılan gün çizelgesi",
       "answer": "TAKVİM",
       "row": 5,
       "col": 8,

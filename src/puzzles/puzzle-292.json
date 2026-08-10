@@ -5,14 +5,14 @@
   "cols": 9,
   "clues": [
     {
-      "text": "İpek böceğinin besini olan meyve",
+      "text": "Beyazı ve karası olan küçük meyve",
       "answer": "DUT",
       "row": 0,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Dini tasvir; simge",
+      "text": "Kutsal kişiyi tasvir eden resim",
       "answer": "İKON",
       "row": 0,
       "col": 5,
@@ -26,7 +26,7 @@
       "arrow": "down-right"
     },
     {
-      "text": "Bir nota",
+      "text": "Gam dizisinde ikinci nota",
       "answer": "RE",
       "row": 2,
       "col": 2,
@@ -47,14 +47,14 @@
       "arrow": "right"
     },
     {
-      "text": "Nispet",
+      "text": "İki niceliğin karşılaştırılması",
       "answer": "ORAN",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Rütbesiz asker",
+      "text": "Askerlik yapan genç, nefer",
       "answer": "ER",
       "row": 5,
       "col": 0,
@@ -68,28 +68,28 @@
       "arrow": "right"
     },
     {
-      "text": "Tespih başlığı",
+      "text": "Tespihin uç tanesi",
       "answer": "İMAME",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Karışık renkli, benekli",
+      "text": "Alaca, benekli renk",
       "answer": "ALA",
       "row": 6,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Moldova'nın başkenti",
+      "text": "Moldova'nın en büyük şehri",
       "answer": "KİŞİNEV",
       "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Avrupa'yı Asya'dan ayıran dağ sırası",
+      "text": "İki kıtayı ayıran Rusya'daki dağlar",
       "answer": "URAL",
       "row": 7,
       "col": 0,
@@ -103,42 +103,42 @@
       "arrow": "right"
     },
     {
-      "text": "İlaç, merhem (halk dili)",
+      "text": "Derde deva olan madde (eski dilde)",
       "answer": "EM",
       "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Dört yanı suyla çevrili kara",
+      "text": "Denizle çevrili kara parçası",
       "answer": "ADA",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Para birimimiz",
+      "text": "Türkiye'nin resmi para birimi",
       "answer": "LİRA",
       "row": 10,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Tartı aleti",
+      "text": "İki kefeli tartı aracı",
       "answer": "TERAZİ",
       "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Büyük, gösterişli ev",
+      "text": "Eski dönemden kalma büyük ev",
       "answer": "KONAK",
       "row": 11,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Atın tırnağına çakılan demir",
+      "text": "Beygirin tırnağını koruyan demir",
       "answer": "NAL",
       "row": 12,
       "col": 5,
@@ -152,21 +152,21 @@
       "arrow": "down"
     },
     {
-      "text": "Sesli yayın aracı",
+      "text": "Dalga yoluyla ses yayını yapan araç",
       "answer": "RADYO",
       "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İri taneli bezelye",
+      "text": "Hayvan yemi olarak yetiştirilen bakliyat",
       "answer": "ARAKA",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Raylar üzerinde giden taşıt",
+      "text": "Demiryolunda giden taşıt",
       "answer": "TREN",
       "row": 0,
       "col": 3,
@@ -180,7 +180,7 @@
       "arrow": "down"
     },
     {
-      "text": "Tantal'ın simgesi",
+      "text": "Element tablosunda Tantal'ın simgesi",
       "answer": "TA",
       "row": 10,
       "col": 3,
@@ -194,7 +194,7 @@
       "arrow": "down"
     },
     {
-      "text": "Benzer, denk",
+      "text": "Birbirine denk olan",
       "answer": "EŞ",
       "row": 5,
       "col": 4,
@@ -208,7 +208,7 @@
       "arrow": "down"
     },
     {
-      "text": "Kocaman",
+      "text": "Cüsseli, büyük",
       "answer": "İRİ",
       "row": 2,
       "col": 5,
@@ -236,21 +236,21 @@
       "arrow": "down"
     },
     {
-      "text": "Nâzım Hikmet'in soyadı",
+      "text": "'Nâzım Hikmet ...' soyadı",
       "answer": "RAN",
       "row": 9,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yeşil, küçük bitki",
+      "text": "Çayırı kaplayan bitki",
       "answer": "OT",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kolsuz giysi",
+      "text": "Gömlek üzerine giyilen kolsuz giysi",
       "answer": "YELEK",
       "row": 3,
       "col": 7,
@@ -278,7 +278,7 @@
       "arrow": "down"
     },
     {
-      "text": "Vilayet",
+      "text": "Valinin yönettiği idari birim",
       "answer": "İL",
       "row": 10,
       "col": 8,

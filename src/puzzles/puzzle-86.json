@@ -5,14 +5,14 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Tavlada iki kat yenilgi",
+      "text": "Tavlada pul çıkaramadan yenilme",
       "answer": "MARS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İlave, ulama",
+      "text": "Ekleme, katma",
       "answer": "EK",
       "row": 2,
       "col": 2,
@@ -33,7 +33,7 @@
       "arrow": "right"
     },
     {
-      "text": "Yaban hayvanı barınağı",
+      "text": "Hayvanların yer altındaki yuvası",
       "answer": "İN",
       "row": 5,
       "col": 3,
@@ -47,28 +47,28 @@
       "arrow": "down-right"
     },
     {
-      "text": "Kırmızı renk",
+      "text": "Kızıl renk",
       "answer": "AL",
       "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yankı",
+      "text": "Dağda duyulan ses yansıması",
       "answer": "EKO",
       "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Eğlenme, dalga geçme",
+      "text": "Birini küçümseyerek gülme",
       "answer": "ALAY",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir nota",
+      "text": "La'dan sonraki nota",
       "answer": "Sİ",
       "row": 9,
       "col": 0,
@@ -96,21 +96,21 @@
       "arrow": "down"
     },
     {
-      "text": "Yemin",
+      "text": "Söz verme, ahit",
       "answer": "ANT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bir soru sözcüğü",
+      "text": "'Nedir' sorusunun kısası",
       "answer": "NE",
       "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Üstün başarılı kimse",
+      "text": "Alanında en iyi olan kişi",
       "answer": "AS",
       "row": 7,
       "col": 1,
@@ -152,14 +152,14 @@
       "arrow": "down"
     },
     {
-      "text": "İğneyle yapılan ince süs işi",
+      "text": "Tığ veya iğneyle yapılan el işi",
       "answer": "OYA",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Emile Zola'nın bir romanı",
+      "text": "Fransız yazarın 19. yüzyıl romanı",
       "answer": "NANA",
       "row": 2,
       "col": 5,

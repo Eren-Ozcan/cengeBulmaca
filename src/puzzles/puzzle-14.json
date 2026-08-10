@@ -5,7 +5,7 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Akdeniz'in turizm başkenti sayılan ilimiz",
+      "text": "Turizmiyle ünlü Akdeniz ilimiz",
       "answer": "ANTALYA",
       "row": 0,
       "col": 0,
@@ -26,7 +26,7 @@
       "arrow": "right"
     },
     {
-      "text": "Öğretim yapılan kurum",
+      "text": "Öğrencilerin eğitim gördüğü kurum",
       "answer": "OKUL",
       "row": 3,
       "col": 0,
@@ -47,7 +47,7 @@
       "arrow": "right"
     },
     {
-      "text": "Yaban hayvanı barınağı",
+      "text": "Tilki, tavşan gibi hayvanların barınağı",
       "answer": "İN",
       "row": 4,
       "col": 3,
@@ -68,7 +68,7 @@
       "arrow": "right"
     },
     {
-      "text": "Polonyum'un simgesi",
+      "text": "Kimyada Polonyum'un simgesi",
       "answer": "PO",
       "row": 6,
       "col": 6,
@@ -82,49 +82,49 @@
       "arrow": "down-right"
     },
     {
-      "text": "Saçsız",
+      "text": "Başında saç bulunmayan",
       "answer": "KEL",
       "row": 7,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "İlave, ulama",
+      "text": "Kelimenin sonuna gelen parça",
       "answer": "EK",
       "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Latife",
+      "text": "Eğlence için yapılan takılma",
       "answer": "ŞAKA",
       "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kent",
+      "text": "Nüfusu kalabalık yerleşim yeri",
       "answer": "ŞEHİR",
       "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Giysinin boyna gelen bölümü",
+      "text": "Ceketin boyun çevresindeki bölümü",
       "answer": "YAKA",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Öç alma isteği",
+      "text": "Unutulmayan öfke",
       "answer": "KİN",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Atın tırnağına çakılan demir",
+      "text": "Beygirin tırnağını koruyan demir",
       "answer": "NAL",
       "row": 11,
       "col": 0,
@@ -138,35 +138,35 @@
       "arrow": "right"
     },
     {
-      "text": "Kesme aracı, diş diş bıçak",
+      "text": "Odun kesmede kullanılan dişli araç",
       "answer": "TESTERE",
       "row": 11,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İlenme, yakınma ünlemi",
+      "text": "Hayıflanma sözü",
       "answer": "AH",
       "row": 0,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Galyum'un simgesi",
+      "text": "Periyodik tablodaki Galyum'un simgesi",
       "answer": "GA",
       "row": 6,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Müzikli sahne yapıtı",
+      "text": "Orkestra eşliğinde sahnelenen müzikli oyun",
       "answer": "OPERA",
       "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Güzel kokulu bir bitki",
+      "text": "Ferahlatıcı kokusuyla bilinen bitki",
       "answer": "NANE",
       "row": 8,
       "col": 1,
@@ -180,14 +180,14 @@
       "arrow": "down"
     },
     {
-      "text": "Germanyum'un simgesi",
+      "text": "Periyodik tablodaki Germanyum'un simgesi",
       "answer": "GE",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hareketi sağlayan doku",
+      "text": "Vücudu hareket ettiren doku",
       "answer": "KAS",
       "row": 9,
       "col": 2,
@@ -201,14 +201,14 @@
       "arrow": "down"
     },
     {
-      "text": "Hücum, hamle",
+      "text": "Sporda ileri hamle",
       "answer": "ATAK",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Üst karşıtı",
+      "text": "Aşağıda olan",
       "answer": "ALT",
       "row": 9,
       "col": 3,
@@ -222,7 +222,7 @@
       "arrow": "down"
     },
     {
-      "text": "Bir seslenme sözü",
+      "text": "Vurgu bildiren ünlem",
       "answer": "YA",
       "row": 0,
       "col": 5,
@@ -236,7 +236,7 @@
       "arrow": "down"
     },
     {
-      "text": "Tatlı beyaz madde",
+      "text": "Pancar veya kamıştan elde edilen tatlandırıcı",
       "answer": "ŞEKER",
       "row": 7,
       "col": 5,
@@ -264,21 +264,21 @@
       "arrow": "down"
     },
     {
-      "text": "Çin'in başkenti",
+      "text": "Çin'in kuzeyindeki başkent",
       "answer": "PEKİN",
       "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Dilin algıladığı duyum",
+      "text": "Damağın algıladığı lezzet",
       "answer": "TAT",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Amerika Birleşik Devletleri'nin para birimi",
+      "text": "ABD'nin resmi para birimi",
       "answer": "DOLAR",
       "row": 4,
       "col": 8,

@@ -5,14 +5,14 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Maçı yöneten kimse",
+      "text": "Kuralları uygulayan spor görevlisi",
       "answer": "HAKEM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Vilayet",
+      "text": "Valinin yönettiği idari birim",
       "answer": "İL",
       "row": 1,
       "col": 5,
@@ -26,28 +26,28 @@
       "arrow": "right"
     },
     {
-      "text": "Karışık renkli, benekli",
+      "text": "Birbirine karışık renkli",
       "answer": "ALA",
       "row": 2,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Ters, huysuz",
+      "text": "Uyumsuz, geçimsiz",
       "answer": "AKSİ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hayvan besini",
+      "text": "Hayvanlara verilen besin",
       "answer": "YEM",
       "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Doğuma yardım eden sağlıkçı",
+      "text": "Doğum uzmanı sağlık görevlisi",
       "answer": "EBE",
       "row": 4,
       "col": 0,
@@ -61,14 +61,14 @@
       "arrow": "right"
     },
     {
-      "text": "Tanrıtanımaz kimse",
+      "text": "İnançsız kimse",
       "answer": "ATE",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Verme, ödeme (eski dilde)",
+      "text": "Bir şeyi teslim etme (eski dilde)",
       "answer": "İTA",
       "row": 6,
       "col": 0,
@@ -89,7 +89,7 @@
       "arrow": "right"
     },
     {
-      "text": "Dünya'nın uydusu",
+      "text": "Dünya'nın etrafında dönen gök cismi",
       "answer": "AY",
       "row": 8,
       "col": 5,
@@ -117,28 +117,28 @@
       "arrow": "right"
     },
     {
-      "text": "Türkmenistan'ın başkenti",
+      "text": "Orta Asya'daki bir başkent",
       "answer": "AŞKABAT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bir seslenme sözü",
+      "text": "'Öyle mi?' anlamında ünlem",
       "answer": "YA",
       "row": 8,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hareketi sağlayan doku",
+      "text": "Vücudu hareket ettiren doku",
       "answer": "KAS",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Delikli, seyrek dokunmuş kumaş",
+      "text": "Nakış işlenen delikli kumaş",
       "answer": "ETAMİN",
       "row": 4,
       "col": 2,
@@ -152,7 +152,7 @@
       "arrow": "down"
     },
     {
-      "text": "Bir soru sözcüğü",
+      "text": "Cevap isteyen soru kelimesi",
       "answer": "NE",
       "row": 8,
       "col": 4,
@@ -166,7 +166,7 @@
       "arrow": "down"
     },
     {
-      "text": "Yeşil, küçük bitki",
+      "text": "Çayırı kaplayan bitki",
       "answer": "OT",
       "row": 8,
       "col": 5,
@@ -180,21 +180,21 @@
       "arrow": "down"
     },
     {
-      "text": "Taze karşıtı",
+      "text": "Eskimiş, kokmuş",
       "answer": "BAYAT",
       "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Aydınlatma aracı",
+      "text": "Işık veren elektrikli araç",
       "answer": "LAMBA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Altının saflık derecesi",
+      "text": "Altının saflık ölçüsü",
       "answer": "AYAR",
       "row": 6,
       "col": 7,

@@ -5,35 +5,35 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Öğrenme isteği",
+      "text": "Bilmek için duyulan istek",
       "answer": "MERAK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bitkinin toprak altı bölümü",
+      "text": "Bitkiyi toprağa bağlayan bölüm",
       "answer": "KÖK",
       "row": 1,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Doğal yer altı boşluğu, in",
+      "text": "Yer altındaki doğal oyuk",
       "answer": "MAĞARA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Lityum'un simgesi",
+      "text": "Periyodik tablodaki Lityum'un simgesi",
       "answer": "Lİ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çok karşıtı",
+      "text": "Yetersiz miktar",
       "answer": "AZ",
       "row": 3,
       "col": 2,
@@ -47,7 +47,7 @@
       "arrow": "right"
     },
     {
-      "text": "Bir nota",
+      "text": "Gam dizisinde ikinci nota",
       "answer": "RE",
       "row": 4,
       "col": 0,
@@ -61,7 +61,7 @@
       "arrow": "right"
     },
     {
-      "text": "Boru akışını kesen musluk",
+      "text": "Sıvı veya gaz akışını denetleyen düzenek",
       "answer": "VANA",
       "row": 5,
       "col": 1,
@@ -82,28 +82,28 @@
       "arrow": "down-right"
     },
     {
-      "text": "Giysinin boyna gelen bölümü",
+      "text": "Gömleğin boyun kısmı",
       "answer": "YAKA",
       "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Başın altına konan destek",
+      "text": "Yatarken başın altına konan yumuşak eşya",
       "answer": "YASTIK",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Boru sesi",
+      "text": "Trampet sesini taklit eden hece",
       "answer": "Tİ",
       "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kripton'un simgesi",
+      "text": "Element tablosunda Kripton'un simgesi",
       "answer": "KR",
       "row": 8,
       "col": 4,
@@ -117,14 +117,14 @@
       "arrow": "right"
     },
     {
-      "text": "Derebeyi konağı",
+      "text": "Avrupa'da soylulara ait büyük konak",
       "answer": "ŞATO",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kozadan elde edilen değerli iplik",
+      "text": "İpekböceği kozasından çıkarılan değerli lif",
       "answer": "İPEK",
       "row": 10,
       "col": 4,
@@ -138,42 +138,42 @@
       "arrow": "right"
     },
     {
-      "text": "Gökyüzünün rengi",
+      "text": "Denizin ve gökyüzünün rengi",
       "answer": "MAVİ",
       "row": 12,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Suriye'nin başkenti",
+      "text": "Ortadoğu'nun eski şehirlerinden başkent",
       "answer": "ŞAM",
       "row": 9,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Buyruk",
+      "text": "Yapılması istenen komut",
       "answer": "EMİR",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dünya'nın uydusu",
+      "text": "Dünya'nın etrafında dönen gök cismi",
       "answer": "AY",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kalsiyum'un simgesi",
+      "text": "Kalsiyum için kullanılan kimyasal simge",
       "answer": "CA",
       "row": 8,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Eski Mısır'ın güneş tanrısı",
+      "text": "Mısır mitolojisinde güneş tanrısı",
       "answer": "RA",
       "row": 0,
       "col": 2,
@@ -187,28 +187,28 @@
       "arrow": "down"
     },
     {
-      "text": "Eksiksiz",
+      "text": "Bütün, tastamam",
       "answer": "TAM",
       "row": 9,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kırsalda büyük toprak sahibi",
+      "text": "Köyde geniş arazi sahibi kişi",
       "answer": "AĞA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ters, huysuz",
+      "text": "Uyumsuz, geçimsiz",
       "answer": "AKSİ",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İğneyle yapılan ince süs işi",
+      "text": "Tığ veya iğneyle yapılan el işi",
       "answer": "OYA",
       "row": 9,
       "col": 3,
@@ -243,7 +243,7 @@
       "arrow": "down"
     },
     {
-      "text": "Sıvı ve gaz olmayan madde hâli",
+      "text": "Şekli sabit madde durumu",
       "answer": "KATI",
       "row": 0,
       "col": 6,
@@ -278,7 +278,7 @@
       "arrow": "down"
     },
     {
-      "text": "Eski dilde ayak",
+      "text": "Eskiden kullanılan 'ayak' anlamlı kelime",
       "answer": "PA",
       "row": 4,
       "col": 8,

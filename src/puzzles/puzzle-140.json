@@ -5,42 +5,42 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Kızıl renkli değerli ağaç",
+      "text": "Mobilyacılıkta kullanılan kızıl kerestelik ağaç",
       "answer": "MAUN",
       "row": 0,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "İsim",
+      "text": "Bir şeyi tanımlayan sözcük",
       "answer": "AD",
       "row": 1,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Yırtıcı iri kuş",
+      "text": "Gökyüzünün güçlü avcı kuşu",
       "answer": "KARTAL",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Selenyum'un simgesi",
+      "text": "Selenyum'un kimyasal simgesi",
       "answer": "SE",
       "row": 2,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Zamanın çok kısa parçası",
+      "text": "Saniyenin küçük bir bölümü",
       "answer": "AN",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yiğit, kahraman",
+      "text": "Savaşçı, mert kimse",
       "answer": "ALP",
       "row": 3,
       "col": 5,
@@ -54,14 +54,14 @@
       "arrow": "down-right"
     },
     {
-      "text": "Tahıl deposu",
+      "text": "Ürünlerin depolandığı büyük yapı",
       "answer": "AMBAR",
       "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yardım için toplanan para",
+      "text": "Bağış amaçlı toplanan para",
       "answer": "İANE",
       "row": 5,
       "col": 4,
@@ -89,28 +89,28 @@
       "arrow": "right"
     },
     {
-      "text": "Kobalt'ın simgesi",
+      "text": "Element tablosunda Kobalt'ın simgesi",
       "answer": "CO",
       "row": 7,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kalay'ın simgesi",
+      "text": "Element tablosunda Kalay'ın simgesi",
       "answer": "SN",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Adanan şey, nezir",
+      "text": "Tanrıya adanan şey",
       "answer": "ADAK",
       "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Elektrik direnç birimi",
+      "text": "Direnç ölçü birimi",
       "answer": "OM",
       "row": 9,
       "col": 2,
@@ -131,7 +131,7 @@
       "arrow": "right"
     },
     {
-      "text": "Lityum'un simgesi",
+      "text": "Kimyada Lityum'un simgesi",
       "answer": "Lİ",
       "row": 10,
       "col": 6,
@@ -145,14 +145,14 @@
       "arrow": "down-right"
     },
     {
-      "text": "Bakır'ın simgesi",
+      "text": "Periyodik tablodaki Bakır'ın simgesi",
       "answer": "CU",
       "row": 5,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Doğal yer altı boşluğu, in",
+      "text": "Yer altındaki doğal oyuk",
       "answer": "MAĞARA",
       "row": 0,
       "col": 1,
@@ -166,7 +166,7 @@
       "arrow": "down"
     },
     {
-      "text": "Yüz metrekarelik alan ölçüsü",
+      "text": "Alan ölçü birimi (100 m²)",
       "answer": "AR",
       "row": 0,
       "col": 2,
@@ -180,35 +180,35 @@
       "arrow": "down"
     },
     {
-      "text": "İlaç, merhem (halk dili)",
+      "text": "Derde deva olan madde (eski dilde)",
       "answer": "EM",
       "row": 9,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Japon halk türküsü",
+      "text": "Geleneksel Japon ezgisi",
       "answer": "UTA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İğneyle yapılan ince süs işi",
+      "text": "Yazma kenarlarına işlenen süsleme",
       "answer": "OYA",
       "row": 8,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Emile Zola'nın bir romanı",
+      "text": "Fransız yazarın 19. yüzyıl romanı",
       "answer": "NANA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Delikli, seyrek dokunmuş kumaş",
+      "text": "Nakış işlenen delikli kumaş",
       "answer": "ETAMİN",
       "row": 5,
       "col": 4,
@@ -222,14 +222,14 @@
       "arrow": "down"
     },
     {
-      "text": "Kaba, kalın yün kumaş",
+      "text": "Eskiden kaftan yapımında kullanılan kumaş",
       "answer": "ABA",
       "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kalsiyum'un simgesi",
+      "text": "Periyodik tablodaki Kalsiyum'un simgesi",
       "answer": "CA",
       "row": 6,
       "col": 6,
@@ -243,7 +243,7 @@
       "arrow": "down"
     },
     {
-      "text": "Öğretim yapılan kurum",
+      "text": "Öğrencilerin eğitim gördüğü kurum",
       "answer": "OKUL",
       "row": 6,
       "col": 7,

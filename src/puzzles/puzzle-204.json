@@ -5,21 +5,21 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Haber sunucusu",
+      "text": "Televizyonda haberleri okuyan kişi",
       "answer": "SPİKER",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bir bağlaç",
+      "text": "Beraberlik bildiren bağlaç",
       "answer": "İLE",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kolun tutmaya yarayan bölümü",
+      "text": "Kolun ucundaki tutma organı",
       "answer": "EL",
       "row": 2,
       "col": 0,
@@ -33,7 +33,7 @@
       "arrow": "right"
     },
     {
-      "text": "Havalandırma pervanesi",
+      "text": "Hava akımı sağlayan pervane",
       "answer": "FAN",
       "row": 4,
       "col": 1,
@@ -47,14 +47,14 @@
       "arrow": "down-right"
     },
     {
-      "text": "Eski dilde ayak",
+      "text": "Eskiden kullanılan 'ayak' anlamlı kelime",
       "answer": "PA",
       "row": 5,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Yemek, çorba",
+      "text": "Sofraya konan sıcak yemek",
       "answer": "AŞ",
       "row": 6,
       "col": 0,
@@ -68,35 +68,35 @@
       "arrow": "right"
     },
     {
-      "text": "Konut, hane",
+      "text": "Aile ocağı",
       "answer": "EV",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Millet",
+      "text": "Aynı kökenden gelen büyük topluluk",
       "answer": "ULUS",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalsiyum'un simgesi",
+      "text": "Kimyada Kalsiyum'un simgesi",
       "answer": "CA",
       "row": 8,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Pul kanatlı renkli böcek",
+      "text": "Renkli kanatlarıyla uçan böcek",
       "answer": "KELEBEK",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Aydınlık, ışık",
+      "text": "Parlak, kutsal ışık",
       "answer": "NUR",
       "row": 10,
       "col": 1,
@@ -110,7 +110,7 @@
       "arrow": "right"
     },
     {
-      "text": "Notada durak işareti",
+      "text": "Müzikte susma işareti",
       "answer": "ES",
       "row": 11,
       "col": 5,
@@ -124,28 +124,28 @@
       "arrow": "down"
     },
     {
-      "text": "Yumurta veren kümes hayvanı",
+      "text": "Kümeste beslenen, gıdaklayan hayvan",
       "answer": "TAVUK",
       "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Vilayet",
+      "text": "Ülkenin idari bölümü",
       "answer": "İL",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kumarhanede para yerine geçen madeni parça",
+      "text": "Oyun masasında para yerine kullanılan jeton",
       "answer": "FİŞ",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Göze takılan mercek",
+      "text": "Gözlük yerine kullanılan ince mercek",
       "answer": "LENS",
       "row": 7,
       "col": 2,
@@ -159,7 +159,7 @@
       "arrow": "down"
     },
     {
-      "text": "Gökyüzündeki su buharı yığını",
+      "text": "Gökyüzünde biriken su buharı kütlesi",
       "answer": "BULUT",
       "row": 6,
       "col": 3,
@@ -173,7 +173,7 @@
       "arrow": "down"
     },
     {
-      "text": "Bitki yetiştirilen camlık",
+      "text": "Bitkilerin korunduğu cam yapı",
       "answer": "SERA",
       "row": 7,
       "col": 4,
@@ -187,7 +187,7 @@
       "arrow": "down"
     },
     {
-      "text": "Yapıların ışık alan açıklığı",
+      "text": "Duvardaki ışık ve hava alan açıklık",
       "answer": "PENCERE",
       "row": 4,
       "col": 6,
@@ -201,7 +201,7 @@
       "arrow": "down"
     },
     {
-      "text": "Beyaz, kara karşıtı",
+      "text": "Temiz, lekesiz renk",
       "answer": "AK",
       "row": 7,
       "col": 7,

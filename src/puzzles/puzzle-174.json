@@ -5,14 +5,14 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Mısır'ın başkenti",
+      "text": "Piramitlere yakın Mısır başkenti",
       "answer": "KAHİRE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bir nota",
+      "text": "Notalarda dördüncü sıradaki ses",
       "answer": "FA",
       "row": 2,
       "col": 0,
@@ -26,14 +26,14 @@
       "arrow": "right"
     },
     {
-      "text": "Bir nota",
+      "text": "Si'den önceki nota",
       "answer": "LA",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yılın on ikide biri",
+      "text": "Takvimin bir dilimi",
       "answer": "AY",
       "row": 3,
       "col": 5,
@@ -54,21 +54,21 @@
       "arrow": "right"
     },
     {
-      "text": "'İşte' anlamında bir ünlem",
+      "text": "'Aa, tamam' anlamında ünlem",
       "answer": "HA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bitiş; en arkada olan",
+      "text": "En arkadaki, sonuncu",
       "answer": "SON",
       "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sodyum'un simgesi",
+      "text": "Periyodik tablodaki Sodyum'un simgesi",
       "answer": "NA",
       "row": 6,
       "col": 0,
@@ -82,14 +82,14 @@
       "arrow": "right"
     },
     {
-      "text": "Doğal yer altı boşluğu, in",
+      "text": "Yer altındaki doğal oyuk",
       "answer": "MAĞARA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kızartma kabı",
+      "text": "Ocakta kızartma yapılan kap",
       "answer": "TAVA",
       "row": 8,
       "col": 0,
@@ -103,14 +103,14 @@
       "arrow": "down-right"
     },
     {
-      "text": "Şiddetli fırtına, sert rüzgar",
+      "text": "Denizde tehlikeli sert rüzgar",
       "answer": "BORA",
       "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Düş, imge",
+      "text": "Zihinde canlandırılan şey",
       "answer": "HAYAL",
       "row": 10,
       "col": 2,
@@ -131,14 +131,14 @@
       "arrow": "right"
     },
     {
-      "text": "Bağışlama",
+      "text": "Cezayı kaldırma",
       "answer": "AF",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Güzel sanatların her biri",
+      "text": "Yaratıcı beceri dalı",
       "answer": "SANAT",
       "row": 3,
       "col": 1,
@@ -152,98 +152,98 @@
       "arrow": "down"
     },
     {
-      "text": "Yere serilen havlı dokuma",
+      "text": "Zemine serilen desenli dokuma",
       "answer": "HALI",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kırsalda büyük toprak sahibi",
+      "text": "Toprak sahibi, nüfuzlu kişi",
       "answer": "AĞA",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Halk dilinde ağabey",
+      "text": "Ağabey için kullanılan hitap",
       "answer": "AKA",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Avcının kısmeti",
+      "text": "Avlanan hayvan",
       "answer": "AV",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Helyum'un simgesi",
+      "text": "Helyum için kullanılan kimyasal simge",
       "answer": "HE",
       "row": 9,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eski Mısır'ın güneş tanrısı",
+      "text": "Antik Mısır tanrılarından biri",
       "answer": "RA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Otomobil",
+      "text": "Motorlu taşıt",
       "answer": "ARABA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İlave, ulama",
+      "text": "Dilbilgisinde kelimeye eklenen parça",
       "answer": "EK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "En büyük kıta",
+      "text": "Dünyanın en kalabalık kıtası",
       "answer": "ASYA",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İğneyle yapılan ince süs işi",
+      "text": "Yazma kenarlarına işlenen süsleme",
       "answer": "OYA",
       "row": 8,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Evin geniş oturma bölümü",
+      "text": "Misafirlerin ağırlandığı geniş oda",
       "answer": "SALON",
       "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Komşu bir ülke",
+      "text": "Farsça konuşulan komşu ülke",
       "answer": "İRAN",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Avusturya'nın başkenti",
+      "text": "Mozart'ın şehri, Avusturya başkenti",
       "answer": "VİYANA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Haftanın ikinci günü",
+      "text": "Pazartesiden sonraki gün",
       "answer": "SALI",
       "row": 7,
       "col": 7,
