@@ -1,6 +1,6 @@
 import type { ArrowDir, Cell, ClueDef, Grid, PuzzleDef } from "./types.ts";
 
-/** Türkçe kurallarına göre büyük harfe çevirir (i→İ, ı→I). */
+/** Uppercases according to Turkish rules (i→İ, ı→I). */
 export function trUpper(s: string): string {
   return s.toLocaleUpperCase("tr-TR");
 }
@@ -30,9 +30,9 @@ function startAndDelta(clue: ClueDef): {
 }
 
 /**
- * Bulmaca tanımından ızgarayı kurar ve tutarlılığı doğrular.
- * Hata varsa açıklayıcı mesajla fırlatır — bozuk bulmaca verisi
- * oyuncuya asla ulaşmamalı.
+ * Builds the grid from a puzzle definition and validates its consistency.
+ * Throws with a descriptive message on error — broken puzzle data must
+ * never reach the player.
  */
 export function buildGrid(p: PuzzleDef): Grid {
   const idx = (r: number, c: number) => r * p.cols + c;
@@ -42,7 +42,7 @@ export function buildGrid(p: PuzzleDef): Grid {
   const cluePlacements: { row: number; col: number }[][] = [];
   const errors: string[] = [];
 
-  // Blok hücreleri (sorusuz koyu kareler) yerleştir
+  // Place block cells (dark squares with no clue)
   for (const b of p.blocks ?? []) {
     cells[idx(b.row, b.col)] = {
       kind: "clue",
@@ -52,7 +52,7 @@ export function buildGrid(p: PuzzleDef): Grid {
     };
   }
 
-  // Önce tüm ipucu hücrelerini yerleştir
+  // First place all clue cells
   p.clues.forEach((clue, ci) => {
     if (clue.row < 0 || clue.row >= p.rows || clue.col < 0 || clue.col >= p.cols) {
       errors.push(`İpucu ${ci} (${clue.text}): hücre ızgara dışında`);
@@ -83,12 +83,12 @@ export function buildGrid(p: PuzzleDef): Grid {
     }
   });
 
-  // Sonra cevap harflerini yerleştir
+  // Then place the answer letters
   p.clues.forEach((clue, ci) => {
     const answer = trUpper(clue.answer);
     const { startRow, startCol, dRow, dCol } = startAndDelta(clue);
     const placement: { row: number; col: number }[] = [];
-    const letters = [...answer]; // Türkçe karakterler için code point bazlı
+    const letters = [...answer]; // code-point based, for Turkish characters
 
     for (let i = 0; i < letters.length; i++) {
       const r = startRow + dRow * i;
@@ -127,7 +127,7 @@ export function buildGrid(p: PuzzleDef): Grid {
     cluePlacements[ci] = placement;
   });
 
-  // Boş hücre kalmamalı
+  // There must be no empty cells left
   for (let r = 0; r < p.rows; r++) {
     for (let c = 0; c < p.cols; c++) {
       if (!cells[idx(r, c)]) {

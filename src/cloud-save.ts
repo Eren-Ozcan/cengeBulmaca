@@ -1,82 +1,89 @@
-// Bulut kaydı (Firestore) — `saves/{uid}` altında tek doküman.
+// Cloud save (Firestore) — a single document under `saves/{uid}`.
 //
-// Tasarım kararları ve gerekçeleri (reefy'deki uygulamayla aynı; orada gerçek
-// bir hesapla uçtan uca doğrulandı):
+// Design decisions and rationale (same approach used in reefy; verified there
+// end-to-end with a real account):
 //
-// * Cihaz saatine GÜVENİLMEZ. "Son yazan kazanır" mantığı, saati ileri alınmış
-//   bir cihazda kalıcı veri kaybına yol açar (o cihaz sonsuza dek "daha yeni"
-//   görünür). Bunun yerine monotonik `rev` sayacı kullanılır ve geriye gitmesi
-//   firestore.rules düzeyinde yasaklanır; `updatedAt` yalnızca kullanıcıya
-//   gösterilmek içindir ve sunucu damgasıdır.
+// * The DEVICE CLOCK IS NOT TRUSTED. A "last writer wins" approach causes
+//   permanent data loss on a device whose clock is set ahead (that device
+//   would forever look "newer"). Instead a monotonic `rev` counter is used,
+//   and going backwards is forbidden at the firestore.rules level;
+//   `updatedAt` is only for display to the user and is a server timestamp.
 //
-// * ÇAKIŞMADA OTOMATİK BİRLEŞTİRME YAPILMAZ. İki ilerlemeyi birleştirmek
-//   (jokerleri topla? çözülenleri birleştir?) ekonomiyi bozar ve istismara
-//   açıktır. Çakışma tespit edilince yerel kayıt korunur, buluta HİÇ YAZILMAZ
-//   ve karar oyuncuya bırakılır (bkz. cloud-ui.ts çakışma ekranı).
+// * NO AUTOMATIC MERGING ON CONFLICT. Merging two progress states (add up the
+//   jokers? merge the solved puzzles?) breaks the economy and is exploitable.
+//   When a conflict is detected the local save is kept, NOTHING is written to
+//   the cloud, and the decision is left to the player (see the cloud-ui.ts
+//   conflict screen).
 //
-// * AMA AYNI OYUN İKİ KEZ SORULMAZ. `rev` sayaçları yalnızca "kim daha sonra
-//   yazdı"yı bilir, "ne yazdı"yı bilmez; iki taraf da aynı oyunu taşırken
-//   sayaçlar ayrışabilir. Oyuncuya birbirinin aynı iki sütun gösterip seçim
-//   yaptırmak hata olur — hangisini seçerse seçsin aynı oyunu alır, üstelik
-//   bir daha diyaloğa güvenmez (reefy'de gerçek iki cihazda yaşandı). Bu yüzden
-//   sormadan önce iki kaydın oyuncu açısından eşdeğer olup olmadığına bakılır
-//   (bkz. sameProgress).
+// * BUT THE SAME GAME IS NEVER ASKED ABOUT TWICE. `rev` counters only know
+//   "who wrote later," not "what was written"; while both sides carry the
+//   same game forward the counters can drift apart. Showing the player two
+//   columns that are identical and making them choose would be a mistake —
+//   whichever one they pick, they get the same game, and they stop trusting
+//   the dialog afterward (this actually happened on two real devices in
+//   reefy). So before asking, we check whether the two saves are equivalent
+//   from the player's point of view (see sameProgress).
 //
-// * ENTITLEMENT (satın alma hakkı) BULUTTAN GELMEZ. "cengel-ads-removed"
-//   yüklenirken payload'dan çıkarılır, indirilirken yerel/mağaza değeri
-//   korunur (bkz. billing.ts restoreAdsRemoved). Aksi halde bir kaydı
-//   paylaşmak bedava reklamsız sürüm dağıtmak olurdu.
+// * ENTITLEMENTS (purchase rights) DO NOT COME FROM THE CLOUD. "cengel-ads-removed"
+//   is stripped from the payload on upload, and the local/store value is kept
+//   on download (see billing.ts restoreAdsRemoved). Otherwise sharing a save
+//   would be equivalent to handing out a free ad-free version.
 //
-// * Hangi anahtarların senkronlanacağı ALLOWLIST ile belirlenir, blocklist ile
-//   değil. Yarın eklenecek yeni bir "cengel-" anahtarı sessizce buluta sızmaz;
-//   bilinçli olarak listeye eklenmesi gerekir.
+// * Which keys get synced is decided by an ALLOWLIST, not a blocklist. A new
+//   "cengel-" key added tomorrow won't silently leak to the cloud; it has to
+//   be added to the list deliberately.
 //
-// * Ağ yoksa, yapılandırma eksikse veya bir şey ters giderse her fonksiyon
-//   sessizce no-op olur; oyun akışı asla bozulmaz (ads.ts/billing.ts deyimi).
+// * If there's no network, configuration is missing, or something goes wrong,
+//   every function silently becomes a no-op; the game flow is never broken
+//   (the same convention used in ads.ts/billing.ts).
 //
-// BİLİNEN SINIR (reefy'de de kabul edildi): jokerler gerçek parayla da
-// alınabilen bir kaynak. Sunucu tarafı doğrulama (Cloud Functions) olmadan,
-// çevrimdışı harcayıp çakışmada "bulut" tarafını seçen bir oyuncu jokerlerini
-// geri alabilir. Spark planında sunucu tarafı doğrulama yok; bu vektör
-// bilinçli olarak kabul edildi ve buradaki hiçbir kontrol onu kapatmaz.
+// KNOWN LIMITATION (also accepted in reefy): jokers are a resource that can
+// also be bought with real money. Without server-side validation (Cloud
+// Functions), a player could spend jokers offline, then pick the "cloud" side
+// in a conflict and get those jokers back. There is no server-side validation
+// on the Spark plan; this vector was consciously accepted and nothing here
+// closes it off.
 
 import { START_JOKERS } from "./economy.ts";
 import { ensureUid, firebaseSdk } from "./firebase-app.ts";
 import { dayString } from "./stats.ts";
 
-/** Bu istemcinin yazdığı payload biçiminin sürümü. */
+/** Version of the payload format this client writes. */
 export const CLOUD_SCHEMA_VERSION = 1;
 
 const REV_KEY = "cengel-cloud-rev";
-/** Son senkronlanan payload'ın parmak izi; "yerelde değişiklik var mı"yı bundan türetiriz. */
+/** Fingerprint of the last synced payload; used to derive "is there a local change". */
 const FINGERPRINT_KEY = "cengel-cloud-fp";
 
-const UPLOAD_THROTTLE_MS = 60_000; // Firestore günlük yazma kotasını koru (Spark: 20K/gün)
-// ensureUid() soğuk açılışta üç dinamik import (firebase/app + auth + firestore)
-// yapar, initializeApp'i çalıştırır ve Auth'un kalıcı oturumu IndexedDB'den geri
-// yüklemesini bekler (bkz. firebase-app.ts waitForRestoredUser). Emülatör/düşük
-// donanımlı cihazda bu zincir birkaç saniye sürebilir.
+const UPLOAD_THROTTLE_MS = 60_000; // Protect the Firestore daily write quota (Spark: 20K/day)
+// ensureUid() performs three dynamic imports on cold start (firebase/app +
+// auth + firestore), runs initializeApp, and waits for Auth to restore the
+// persisted session from IndexedDB (see firebase-app.ts waitForRestoredUser).
+// On an emulator or low-end device this chain can take several seconds.
 //
-// Buradaki süre CÖMERT tutulmalı: eski 3 sn'lik değerin gerekçesi "kötü ağda
-// açılışı kilitleme"ydi, ama açılış zaten kilitlenMİYOR — initCloudSave
-// main.ts:27'de `void` ile çağrılıyor ve arayüz onu hiç beklemiyor. Buna
-// karşılık zaman aşımının bedeli ağır: syncCloudSave sessizce "disabled"
-// döner, açılış senkronu OTURUM BOYUNCA BİR KEZ çalıştığı için de bir daha
-// denenmez — oyuncu ne çakışma ekranı ne de geri yükleme görür.
+// The duration here must be GENEROUS: the old 3s value was justified by "don't
+// block startup on a bad network," but startup is NOT actually blocked —
+// initCloudSave is called with `void` at main.ts:27 and the UI never awaits
+// it. On the other hand, the cost of timing out is severe: syncCloudSave
+// silently returns "disabled," and since the startup sync only runs ONCE PER
+// SESSION it is never retried — the player sees neither a conflict screen nor
+// a restore.
 const AUTH_TIMEOUT_MS = 15_000;
 const FETCH_TIMEOUT_MS = 4_000;
-// setDoc() çevrimdışıyken ÇÖZÜLMEZ: Firestore yazmayı yerel kuyruğa alır ve
-// sözü sunucu onaylayana kadar askıda tutar. Zaman aşımı olmadan upload()
-// içindeki finally hiç çalışmaz, `uploading` kilitli kalır ve bulut kaydı
-// oturum boyunca tamamen ölür — bu yüzden yazma da sınırlandırılıyor.
+// setDoc() does NOT resolve while offline: Firestore queues the write locally
+// and keeps the promise pending until the server acknowledges it. Without a
+// timeout, the finally block inside upload() would never run, `uploading`
+// would stay locked, and cloud save would be completely dead for the rest of
+// the session — that's why writes are also bounded.
 const WRITE_TIMEOUT_MS = 8_000;
-const MAX_PAYLOAD_BYTES = 400_000; // firestore.rules'daki tavanla aynı
+const MAX_PAYLOAD_BYTES = 400_000; // same ceiling as in firestore.rules
 
 /**
- * Senkronlanan sabit anahtarlar (ALLOWLIST).
- * "cengel-ads-removed" bilerek YOK — bkz. dosya başındaki ENTITLEMENT notu.
- * "cengel-cloud-rev"/"cengel-cloud-fp" de yok: onlar cihaza ait defter
- * kayıtları, oyuncu ilerlemesi değil.
+ * Fixed set of synced keys (ALLOWLIST).
+ * "cengel-ads-removed" is deliberately NOT included — see the ENTITLEMENT
+ * note at the top of the file.
+ * "cengel-cloud-rev"/"cengel-cloud-fp" aren't either: those are per-device
+ * bookkeeping records, not player progress.
  */
 const SYNCED_KEYS = [
   "cengel-jokers",
@@ -88,46 +95,48 @@ const SYNCED_KEYS = [
   "cengel-theme",
   "cengel-sound",
   "cengel-music",
-  // Davet ödüllerinden bulutta biriken jokerin ne kadarının yerele işlendiği.
-  // Senkronlanmazsa yeni cihazda aynı ödül ikinci kez verilirdi (bkz. referral.ts).
+  // How much of the joker amount accumulated in the cloud from referral
+  // rewards has been applied locally. If not synced, the same reward would
+  // be granted a second time on a new device (see referral.ts).
   "cengel-referral-synced",
 ] as const;
 
-/** Bulmaca başına bir anahtar: "cengel-progress-<puzzleId>". */
+/** One key per puzzle: "cengel-progress-<puzzleId>". */
 const PROGRESS_PREFIX = "cengel-progress-";
-/** Gün başına bir anahtar: "cengel-hints-<YYYY-MM-DD>" (bkz. hints.ts). */
+/** One key per day: "cengel-hints-<YYYY-MM-DD>" (see hints.ts). */
 const HINTS_PREFIX = "cengel-hints-";
 
 /**
- * Tarihli ipucu anahtarlarından kaç günlüğü taşınır.
+ * How many days' worth of dated hint keys get carried over.
  *
- * hints.ts yalnızca BUGÜNÜN anahtarını okur, eskiler ölü yüktür ve budanmazsa
- * doküman her gün biraz daha şişerek sonsuza kadar büyür. Tek gün taşımak
- * yeterli görünse de cihazlar farklı saat dilimlerinde olabilir (ya da oyuncu
- * seyahat eder): bir cihazın "bugün"ü diğerinde dün/yarın olabilir. Bir
- * haftalık pencere bu kaymayı fazlasıyla karşılar ve doküman katkısını ~100
- * bayta sabitler.
+ * hints.ts only ever reads TODAY's key, so old ones are dead weight and, if
+ * not pruned, the document would keep growing a little larger every day
+ * forever. Carrying just a single day might seem sufficient, but devices can
+ * be in different time zones (or the player travels): one device's "today"
+ * can be another device's yesterday/tomorrow. A one-week window comfortably
+ * covers that drift while keeping the document's contribution pinned to
+ * roughly 100 bytes.
  */
 const HINTS_HISTORY_DAYS = 7;
 
 export type CloudSyncResult =
-  | "disabled" // yapılandırma yok / ağ yok / zaman aşımı — sessizce yerel devam
-  | "in-sync" // yerel en az bulut kadar güncel
-  | "uploaded" // bulutta kayıt yoktu, yerel yüklendi
-  | "restored" // buluttan indirildi ve uygulandı
-  | "conflict" // iki taraf da ilerlemiş — yerel korundu, bulut dokunulmadı
-  | "needs-update"; // buluttaki şema bu istemciden yeni
+  | "disabled" // no configuration / no network / timeout — silently continue locally
+  | "in-sync" // local is at least as up to date as the cloud
+  | "uploaded" // there was no cloud record yet, local was uploaded
+  | "restored" // downloaded from the cloud and applied
+  | "conflict" // both sides have progressed — local was kept, cloud untouched
+  | "needs-update"; // the cloud schema is newer than this client
 
-/** Çakışma ekranının payload'ı açmadan gösterebildiği özet. */
+/** Summary the conflict screen can show without opening up the payload. */
 export interface CloudSummary {
   streak: number;
   solved: number;
   jokers: number;
-  /** Sunucu damgası (ms). Cihaz saatinden bağımsızdır; 0 = bilinmiyor. */
+  /** Server timestamp (ms). Independent of the device clock; 0 = unknown. */
   updatedAtMs: number;
 }
 
-/** Kaydın taşınabilir hali: localStorage anahtarı → ham değer. */
+/** Portable form of a save: localStorage key → raw value. */
 export type SaveMap = Record<string, string>;
 
 function withTimeout<T>(p: Promise<T>, ms: number): Promise<T | null> {
@@ -140,9 +149,9 @@ function withTimeout<T>(p: Promise<T>, ms: number): Promise<T | null> {
   ]).finally(() => clearTimeout(timer));
 }
 
-// ---------- yerel kaydın toplanması ----------
+// ---------- collecting the local save ----------
 
-/** Son HINTS_HISTORY_DAYS gün (+ saat dilimi kayması için bir gün ileri). */
+/** The last HINTS_HISTORY_DAYS days (+ one extra day ahead for time zone drift). */
 function liveHintKeys(): Set<string> {
   const keys = new Set<string>();
   const d = new Date();
@@ -154,14 +163,14 @@ function liveHintKeys(): Set<string> {
   return keys;
 }
 
-/** Bu anahtar buluta taşınır mı? Hem yükleme hem indirme aynı kapıdan geçer. */
+/** Does this key get carried to the cloud? Both upload and download go through the same gate. */
 function isSyncedKey(key: string, hintKeys: Set<string>): boolean {
   if ((SYNCED_KEYS as readonly string[]).includes(key)) return true;
   if (key.startsWith(HINTS_PREFIX)) return hintKeys.has(key);
   return key.startsWith(PROGRESS_PREFIX);
 }
 
-/** Yereldeki senkronlanabilir anahtarlar; parmak izi sabit kalsın diye sıralı. */
+/** Syncable keys present locally; sorted so the fingerprint stays stable. */
 function syncedLocalKeys(): string[] {
   const hintKeys = liveHintKeys();
   const out: string[] = [];
@@ -177,9 +186,10 @@ function syncedLocalKeys(): string[] {
 }
 
 /**
- * Bu cihazdaki kaydın buluta gidecek hali. Senkron sınırının tek tanımı
- * burasıdır (testler de bu sınırı buradan doğrular): allowlist dışındaki hiçbir
- * anahtar — özellikle "cengel-ads-removed" — asla içine giremez.
+ * The form of this device's save that goes to the cloud. This is the single
+ * definition of the sync boundary (tests also verify this boundary from
+ * here): no key outside the allowlist — especially not "cengel-ads-removed" —
+ * can ever get in.
  */
 export function collectSyncedSave(): SaveMap {
   const map: SaveMap = {};
@@ -191,81 +201,88 @@ export function collectSyncedSave(): SaveMap {
 }
 
 /**
- * Sayaç anahtarı hiç ilerlememiş mi? Okunamayan bir değer (bozuk kayıt) ASLA
- * "sıfır" sayılmaz: hasPlayerProgress'te şüphe her zaman ilerleme lehine
- * yorumlanır.
+ * Has a counter key never progressed at all? An unreadable value (corrupted
+ * record) is NEVER treated as "zero": in hasPlayerProgress any doubt is
+ * always resolved in favor of there being progress.
  */
 function isUntouchedCounter(v: string | undefined): boolean {
   if (v === undefined || v === "") return true;
-  return Number(v) === 0; // NaN === 0 yanlış → bozuk değer ilerleme sayılır
+  return Number(v) === 0; // NaN === 0 is false → a corrupted value counts as progress
 }
 
 /**
- * Oyuncu bu cihazda gerçekten bir şey KAZANMIŞ mı? Kazanmamışsa (yeni kurulum,
- * ya da hesabı yeni bağlamış bir oyuncu) çakışma sorulmadan bulut geri yüklenir
- * — aksi halde oyuncuya bir tarafı bomboş olan anlamsız bir "hangisini
- * tutayım?" ekranı çıkar ve yanlış tarafı seçip gerçek ilerlemesini kaybetme
- * riskiyle baş başa kalır (reefy'de yaşandı).
+ * Has the player actually EARNED something on this device? If not (a fresh
+ * install, or a player who just linked their account), the cloud save is
+ * restored without asking about a conflict — otherwise the player would be
+ * shown a meaningless "which one do you want to keep?" screen where one side
+ * is completely empty, risking picking the wrong side and losing their real
+ * progress (this happened in reefy).
  *
- * TEMKİNLİ TARAF NERESİ: yanlışlıkla "ilerleme var" demek en fazla bugünkü
- * davranışa, yani seçim ekranına düşürür — zararsız. Yanlışlıkla "ilerleme
- * yok" demek oyuncunun oyununu SESSİZCE siler. Bu yüzden karar SIFIR
- * bilgisinden değil, ilerlemenin varlığından türetilir ve şüphede olan her
- * durum (bozuk/okunamayan değer, tanımadığımız içerik) ilerleme sayılır.
+ * WHERE THE CAUTIOUS SIDE LIES: incorrectly saying "there is progress" at
+ * worst falls back to today's behavior, i.e. the choice screen — harmless.
+ * Incorrectly saying "there is no progress" SILENTLY DELETES the player's
+ * game. So the decision is derived from the presence of progress, not from
+ * zero-knowledge, and every case of doubt (corrupted/unreadable value,
+ * content we don't recognize) counts as progress.
  *
- * Ölçüt, "kirli mi?" parmak izi ya da varsayılan bir nesneyle karşılaştırma
- * DEĞİL, kaydın İÇERİĞİDİR. Oyuncu hiçbir şey yapmadan da kendiliğinden
- * değişen anahtarlar bilerek dışarıda bırakıldı:
- *  - "cengel-theme"/"cengel-sound"/"cengel-music": ayar tercihleri, kazanım değil.
- *  - "cengel-jokers-init": bakiye ilk okunduğunda (ana ekran çizilirken)
- *    kendiliğinden yazılır; oyuncunun hiçbir hamlesi yoktur.
- *  - "cengel-story-seen"/"cengel-epilogue-seen"/"cengel-tutorial-seen": açılışta
- *    KENDİLİĞİNDEN gösterilen ekranların "bir daha gösterme" damgaları. Oyunu
- *    bir kez açıp rehberi geçmek bunları yazar; oyuncunun kaydında kazanılmış
- *    bir karşılığı yoktur (rehber "practice" modunda oynanır: ne ilerleme ne
- *    istatistik yazar — bkz. tutorial.ts). Bunlar ilerleme sayılsaydı düzeltmek
- *    istediğimiz senaryo — oyunu bir kez açmış oyuncunun hesabını bağlaması —
- *    hâlâ boş taraflı seçim ekranı gösterirdi.
+ * The criterion is the CONTENT of the save, NOT a "is it dirty?" fingerprint
+ * or a comparison against some default object. Keys that can change on their
+ * own without the player doing anything are deliberately excluded:
+ *  - "cengel-theme"/"cengel-sound"/"cengel-music": settings preferences, not
+ *    an achievement.
+ *  - "cengel-jokers-init": written automatically the first time the balance
+ *    is read (while the home screen is being drawn); there's no player action
+ *    involved.
+ *  - "cengel-story-seen"/"cengel-epilogue-seen"/"cengel-tutorial-seen":
+ *    "don't show again" stamps for screens shown AUTOMATICALLY on startup.
+ *    Opening the game once and getting past the tutorial writes these; they
+ *    have no earned counterpart in the player's save (the tutorial is played
+ *    in "practice" mode: it writes neither progress nor stats — see
+ *    tutorial.ts). If these counted as progress, the exact scenario we're
+ *    trying to fix — a player who has only opened the game once linking their
+ *    account — would still show a choice screen with one empty side.
  */
 export function hasPlayerProgress(save: SaveMap): boolean {
   for (const [k, v] of Object.entries(save)) {
-    // Bulmaca ilerlemesi yalnızca oyuncu harf yazınca kaydedilir (bkz. game.ts
-    // saveProgress; rehber bulmacası hariç tutulur), yani varlığı tek başına
-    // gerçek bir hamledir.
+    // Puzzle progress is only saved once the player types a letter (see
+    // game.ts saveProgress; the tutorial puzzle is excluded), so its mere
+    // presence is a real move on its own.
     if (k.startsWith(PROGRESS_PREFIX)) return true;
-    // İpucu anahtarı yalnızca hak KULLANILINCA yazılır.
+    // A hint key is only written once a hint is actually USED.
     if (k.startsWith(HINTS_PREFIX) && !isUntouchedCounter(v)) return true;
   }
 
-  // İstatistik kaydı yalnızca bir bulmaca tamamlanınca yazılır (bkz. stats.ts
-  // recordCompletion), dolayısıyla varlığı en az bir çözüm demektir.
+  // The stats record is only written once a puzzle is completed (see
+  // stats.ts recordCompletion), so its presence means at least one solve.
   if ((save["cengel-stats"] ?? "") !== "") return true;
 
-  // Başlangıç bakiyesinden SAPMA ilerlemedir: harcandıysa da (ipucu),
-  // kazanıldıysa da (kedi ödülü, reklam, davet, satın alma).
+  // Any DEVIATION from the starting balance is progress: whether spent
+  // (hints) or earned (cat reward, ad, referral, purchase).
   const jokers = save["cengel-jokers"];
   if (jokers !== undefined && Number(jokers) !== START_JOKERS) return true;
 
-  // Davet ödülünden bulutta biriken jokerin işlenmiş kısmı: sıfırdan büyükse
-  // gerçekten bir ödül alınmış demektir.
+  // The processed portion of jokers accumulated in the cloud from a referral
+  // reward: if it's above zero, a reward was genuinely received.
   if (!isUntouchedCounter(save["cengel-referral-synced"])) return true;
 
   return false;
 }
 
 /**
- * Kaydın oyuncuya karşılık GELMEYEN anahtarları. İki kaydın "aynı oyun" olup
- * olmadığına bakarken dışarıda bırakılırlar, çünkü oyuncu hiçbir şey yapmadan
- * da (ya da oyunla ilgisi olmayan bir sebeple) ayrışabilirler:
- *  - "cengel-jokers-init": bakiye ilk okunduğunda kendiliğinden yazılır.
- *  - "*-seen" damgaları: açılışta gösterilen ekranların "bir daha gösterme"
- *    işaretleri; bir cihazda basılmış olması diğerinde ilerleme farkı demek
- *    değildir.
- *  - tema/ses/müzik: CİHAZA ait tercihler. Oyuncunun bu cihazda temayı
- *    değiştirmiş olması, iki cihazdaki oyunu farklı yapmaz.
- * Liste hasPlayerProgress'in bilerek yok saydığı sinyallerle aynıdır: orada
- * "bu tek başına ilerleme değil" denen şey, burada da "bu tek başına fark
- * değil"dir.
+ * Keys in a save that do NOT correspond to the player. They're excluded when
+ * checking whether two saves are "the same game," because they can drift
+ * apart without the player doing anything (or for reasons unrelated to the
+ * game):
+ *  - "cengel-jokers-init": written automatically the first time the balance
+ *    is read.
+ *  - "*-seen" stamps: "don't show again" markers for screens shown on
+ *    startup; having been shown on one device doesn't mean the progress
+ *    differs on another.
+ *  - theme/sound/music: PER-DEVICE preferences. The player changing the
+ *    theme on this device doesn't make the game on two devices different.
+ * This list matches the signals hasPlayerProgress deliberately ignores:
+ * whatever is said there to be "not progress on its own" is also said here
+ * to be "not a difference on its own."
  */
 const INCIDENTAL_KEYS: readonly string[] = [
   "cengel-jokers-init",
@@ -278,26 +295,28 @@ const INCIDENTAL_KEYS: readonly string[] = [
 ];
 
 /**
- * İlerleme kaydının oyuncuya görünen kısmı: yazılmış harfler. İmleç konumu
- * (selRow/selCol/activeClue) oyuncu sadece bulmacada GEZİNİRKEN de değişir ve
- * iki kaydın aynı oyun olup olmadığı sorusunda hiçbir şey ifade etmez.
+ * The player-visible part of a progress record: the letters that were
+ * entered. The cursor position (selRow/selCol/activeClue) also changes just
+ * from the player NAVIGATING the puzzle, and says nothing about whether two
+ * saves are the same game.
  *
- * Çözemediğimiz bir kayıtta ham metne düşülür: anlamadığımız bir şeye "aynı"
- * demek yerine tam eşitlik ararız (bkz. sameProgress'in temkin yönü).
+ * A record we can't parse falls back to the raw text: rather than calling
+ * something we don't understand "the same," we require exact equality (see
+ * the cautious side of sameProgress).
  */
 function progressLetters(raw: string): string {
   try {
     const parsed = JSON.parse(raw);
-    // eski kayıt biçimi düz harf dizisiydi (bkz. game.ts loadProgress)
+    // the old record format was a plain array of letters (see game.ts loadProgress)
     const entries = Array.isArray(parsed) ? parsed : parsed?.entries;
     if (Array.isArray(entries)) return JSON.stringify(entries);
   } catch {
-    /* bozuk kayıt: ham metne düş */
+    /* corrupted record: fall back to raw text */
   }
   return raw;
 }
 
-/** Kaydın karşılaştırılabilir hali: gürültü atılır, ilerleme sadeleştirilir. */
+/** Comparable form of a save: noise dropped, progress normalized. */
 function comparable(save: SaveMap): SaveMap {
   const out: SaveMap = {};
   for (const [k, v] of Object.entries(save)) {
@@ -308,20 +327,23 @@ function comparable(save: SaveMap): SaveMap {
 }
 
 /**
- * İki kayıt oyuncu açısından AYNI oyun mu?
+ * Are two saves the SAME game from the player's point of view?
  *
- * NEDEN GEREKLİ: `rev` yalnızca sıra bilgisidir. Bir cihaz buluttan geri
- * yükleyip aynı oyunu taşımaya başladıktan sonra diğer cihaz yazmaya devam
- * ederse sayaçlar ayrışır ve çakışma dalına düşülür — oysa ortada seçilecek iki
- * ilerleme yoktur. Ayrıca "kirli mi?" sorusunun cevabı olan parmak izi CİHAZA
- * ait bir defter kaydıdır: resetForNewAccount onu siler, zaman aşımına uğrayan
- * (ama sunucuya düşen) bir yükleme onu bayat bırakır. Her iki durumda da kayıt
- * bulutla birebir aynıyken "kirli" görünür.
+ * WHY THIS IS NEEDED: `rev` is purely ordering information. If one device
+ * restores from the cloud and continues carrying the same game forward while
+ * the other device keeps writing, the counters diverge and we fall into the
+ * conflict branch — even though there aren't actually two progress states to
+ * choose between. Also, the fingerprint that answers "is it dirty?" is a
+ * PER-DEVICE bookkeeping record: resetForNewAccount clears it, and an upload
+ * that times out (but still lands on the server) leaves it stale. In both
+ * cases the save looks "dirty" even though it's byte-for-byte identical to
+ * the cloud.
  *
- * TEMKİNLİ TARAF NERESİ: yanlışlıkla "farklı" demek en fazla bugünkü davranışa,
- * yani seçim ekranına düşürür — zararsız. Yanlışlıkla "aynı" demek bir tarafın
- * ilerlemesini sorulmadan gözden çıkarır. Bu yüzden eşitlik ARANIR: tanımadığımız
- * ya da çözemediğimiz her şeyde tam metin eşitliği istenir, şüphede false döner.
+ * WHERE THE CAUTIOUS SIDE LIES: incorrectly saying "different" at worst falls
+ * back to today's behavior, i.e. the choice screen — harmless. Incorrectly
+ * saying "same" discards one side's progress without asking. So equality is
+ * REQUIRED to be proven: anything we don't recognize or can't parse requires
+ * exact text equality, and doubt resolves to false.
  */
 export function sameProgress(a: SaveMap, b: SaveMap): boolean {
   const left = comparable(a);
@@ -344,7 +366,7 @@ function summarize(map: SaveMap, updatedAtMs = 0): CloudSummary {
       if (Array.isArray(s.solved)) solved = s.solved.length;
     }
   } catch {
-    /* bozuk istatistik: 0 göster */
+    /* corrupted stats: show 0 */
   }
   const jokers = Number(map["cengel-jokers"] ?? "0");
   return {
@@ -355,12 +377,12 @@ function summarize(map: SaveMap, updatedAtMs = 0): CloudSummary {
   };
 }
 
-/** Bu cihazdaki kaydın özeti — çakışma ekranının "Bu cihaz" tarafı. */
+/** Summary of this device's save — the "This device" side of the conflict screen. */
 export function localSummary(): CloudSummary {
   return summarize(collectSyncedSave());
 }
 
-// ---------- defter kayıtları (rev / parmak izi) ----------
+// ---------- bookkeeping records (rev / fingerprint) ----------
 
 function readRev(): number {
   try {
@@ -375,15 +397,16 @@ function writeRev(v: number): void {
   try {
     localStorage.setItem(REV_KEY, String(v));
   } catch {
-    /* depolama engelli — bulut kaydı devre dışı kalır, oyun etkilenmez */
+    /* storage blocked — cloud save is disabled, the game is unaffected */
   }
 }
 
 /**
- * Payload'ın parmak izi. Yerelde değişiklik olup olmadığını buradan anlıyoruz;
- * böylece kaydı yazan ~8 modülün (game/stats/economy/theme/…) hiçbirine
- * dokunmadan "kirli mi?" sorusuna cevap verebiliyoruz. Uzunluk + djb2 birlikte
- * kullanılır: tek başına 32 bitlik özet çakışırsa bir yükleme atlanabilirdi.
+ * Fingerprint of the payload. This is how we tell whether there's a local
+ * change, letting us answer "is it dirty?" without touching any of the ~8
+ * modules that write to the save (game/stats/economy/theme/…). Length + djb2
+ * are used together: relying on a 32-bit digest alone could collide and skip
+ * an upload.
  */
 function fingerprint(payload: string): string {
   let h = 5381;
@@ -395,7 +418,7 @@ function markSynced(payload: string): void {
   try {
     localStorage.setItem(FINGERPRINT_KEY, fingerprint(payload));
   } catch {
-    /* yok sayılır */
+    /* ignored */
   }
 }
 
@@ -407,58 +430,61 @@ function isDirty(payload: string): boolean {
   }
 }
 
-// ---------- senkron durumu ----------
+// ---------- sync state ----------
 
 let lastUpload = 0;
 let uploading = false;
-/** Çakışma çözülene dek yazmalar durur; buluttaki sürüm yedek olarak korunur. */
+/** Writes stop until the conflict is resolved; the cloud version is preserved as a backup. */
 let blocked = false;
 /**
- * Buluttan gelen kayıt uygulandıktan SONRA sayfa yenilenene kadar sürer
- * (bkz. applyCloud, cloud-ui.ts reloadAfterRestore).
+ * Stays true from when a cloud record is applied UNTIL the page reloads
+ * (see applyCloud, cloud-ui.ts reloadAfterRestore).
  *
- * NEDEN VAR: applyCloud localStorage'ı yerinde değiştirir, ama ekranda ve
- * BELLEKTE hâlâ geri yüklemeden önceki oyun duruyor. Bu aralıkta bellekteki
- * bayat durumdan diske yazan tek yer game.ts'in ilerleme kaydıdır:
- * GameState.entries bulmaca açılırken (yani geri yüklemeden ÖNCE) okunmuştu ve
- * tek bir tuşa basmak o dizinin TAMAMINI yeni gelen ilerlemenin üstüne yazar.
- * Kalan yazarlar (stats/economy/tema/damgalar) diski oku-değiştir-yaz yaptığı
- * için taze veriyle çalışır, bayat bir anlık görüntü taşımaz.
+ * WHY THIS EXISTS: applyCloud modifies localStorage in place, but the screen
+ * and MEMORY still hold the pre-restore game state. During this window, the
+ * only place that writes from stale in-memory state to disk is game.ts's
+ * progress save: GameState.entries was read when the puzzle was opened
+ * (i.e. BEFORE the restore), and pressing a single key overwrites the ENTIRE
+ * array on top of the newly arrived progress. The remaining writers
+ * (stats/economy/theme/stamps) do a read-modify-write against disk, so they
+ * work with fresh data and don't carry a stale snapshot.
  *
- * Asıl kayıp yerelde de değil: location.reload() "pagehide" tetikler,
- * flushCloudSave() çalışır ve bu melez kayıt DİĞER CİHAZIN bulut kaydının
- * üstüne yüklenir. Bu yüzden bayat yerel yazma da (bkz. isSaveFrozen) buluta
- * yazma da donduruluyor. Yenilemeden sonra modül durumu sıfırdan başlar.
+ * The real risk isn't even local: location.reload() triggers "pagehide,"
+ * flushCloudSave() runs, and this hybrid save would get uploaded on top of
+ * the OTHER DEVICE's cloud save. That's why both stale local writes (see
+ * isSaveFrozen) and cloud writes are frozen. After the reload, module state
+ * starts fresh.
  */
 let frozen = false;
 let pendingCloud: { rev: number; map: SaveMap; summary: CloudSummary } | null = null;
 
 /**
- * Bellekteki (bayat) durumdan diske yazmak şu an yasak mı? game.ts'in ilerleme
- * kaydı buna bakar; yukarıdaki `frozen` notuna bak.
+ * Is writing from the (stale) in-memory state to disk currently forbidden?
+ * game.ts's progress save checks this; see the `frozen` note above.
  */
 export function isSaveFrozen(): boolean {
   return frozen;
 }
 
-/** Çözülmemiş bir çakışma varsa buluttaki kaydın özeti. */
+/** Summary of the cloud save if there's an unresolved conflict. */
 export function conflictSummary(): CloudSummary | null {
   return blocked ? (pendingCloud?.summary ?? null) : null;
 }
 
 /**
- * Oturum başka bir hesaba geçtiğinde çağrılır. rev sayacı CİHAZDA tutulur ve
- * eski hesaba aitti; yeni hesap için anlamsızdır. Sıfırlanmazsa yerel sayaç
- * buluttakinden büyük görünüp "yerel güncel" sanılabilir ve diğer hesabın
- * ilerlemesi sessizce ezilirdi. Sıfırlayıp parmak izini silince bir sonraki
- * sync() iki tarafı da görür ve gerekirse kullanıcıya seçtirir.
+ * Called when the session switches to a different account. The rev counter
+ * is kept PER DEVICE and belonged to the old account; it's meaningless for
+ * the new one. If not reset, the local counter could look larger than the
+ * cloud's and be mistaken for "local is up to date," silently overwriting the
+ * other account's progress. Resetting it and clearing the fingerprint means
+ * the next sync() sees both sides and lets the user choose if needed.
  */
 export function resetForNewAccount(): void {
   writeRev(0);
   try {
     localStorage.removeItem(FINGERPRINT_KEY);
   } catch {
-    /* yok sayılır */
+    /* ignored */
   }
   blocked = false;
   frozen = false;
@@ -475,12 +501,12 @@ async function saveDoc() {
 }
 
 /**
- * Sayısal olması beklenen anahtarlar: economy.ts/hints.ts/referral.ts bu
- * değerleri doğrudan Number(...)'a verir. Bozuk/kurcalanmış bir doküman
- * NaN sızdırırsa Math.max(0, NaN) da NaN döner — spendJoker()'daki
- * `n <= 0` koruması (NaN <= 0 === false) sessizce devre dışı kalır ve
- * bakiye sınırsız harcanabilir hale gelir. Bu yüzden bulut kaynaklı
- * değerler localStorage'a yazılmadan ÖNCE doğrulanır.
+ * Keys expected to hold numbers: economy.ts/hints.ts/referral.ts pass these
+ * values straight into Number(...). If a corrupted/tampered document leaks a
+ * NaN, Math.max(0, NaN) also returns NaN — the `n <= 0` guard in
+ * spendJoker() (where NaN <= 0 is false) silently stops working and the
+ * balance can be spent without limit. That's why cloud-sourced values are
+ * validated BEFORE being written to localStorage.
  */
 function isValidNumericValue(v: string): boolean {
   const n = Number(v);
@@ -492,13 +518,13 @@ function isNumericKey(key: string): boolean {
 }
 
 /**
- * Buluttan gelen payload'ı doğrular. Yerel kaydın geçtiği kapıdan geçer:
- * yalnızca allowlist'teki anahtarlar, yalnızca string değerler. Böylece
- * kurcalanmış bir doküman ne "cengel-ads-removed" yazabilir ne de tanımadığımız
- * bir anahtarı localStorage'a sokabilir. Sayısal anahtarlarda ayrıca değerin
- * gerçekten geçerli, negatif olmayan bir sayı olduğu doğrulanır (bkz.
- * isNumericKey) — aksi halde anahtar tümden atlanır, payload'ın geri kalanı
- * yine de uygulanır.
+ * Validates a payload coming from the cloud. It goes through the same gate as
+ * the local save: only allowlisted keys, only string values. This way a
+ * tampered document can neither write "cengel-ads-removed" nor smuggle an
+ * unrecognized key into localStorage. For numeric keys it additionally
+ * verifies that the value is genuinely a valid, non-negative number (see
+ * isNumericKey) — otherwise that key is skipped entirely while the rest of
+ * the payload is still applied.
  */
 export function parseCloudPayload(payload: string): SaveMap | null {
   let raw: unknown;
@@ -520,10 +546,9 @@ export function parseCloudPayload(payload: string): SaveMap | null {
 }
 
 /**
- * Buluttaki kaydı yerele uygular. "Bulut kazanır" demek birleştirme YAPMAMAK
- * demektir: önce senkronlanan yerel anahtarlar silinir, sonra buluttakiler
- * yazılır. Aksi halde yerelde kalan bir bulmaca ilerlemesi iki kaydın melezi
- * bir duruma yol açardı.
+ * Applies the cloud save to local. "Cloud wins" means NOT merging: first the
+ * synced local keys are deleted, then the cloud ones are written. Otherwise a
+ * puzzle progress left over locally would produce a hybrid of the two saves.
  */
 function applyCloud(rev: number, map: SaveMap): boolean {
   try {
@@ -535,8 +560,8 @@ function applyCloud(rev: number, map: SaveMap): boolean {
   writeRev(rev);
   markSynced(serialize(collectSyncedSave()));
   blocked = false;
-  // Yenilemeye kadar hem bayat yerel yazma hem bulut yazması durur; gerekçe
-  // `frozen` bildiriminde.
+  // Both stale local writes and cloud writes stop until the reload; see the
+  // `frozen` declaration for the rationale.
   frozen = true;
   pendingCloud = null;
   return true;
@@ -546,7 +571,7 @@ function serialize(map: SaveMap): string {
   return JSON.stringify(map);
 }
 
-/** Gerçek UTF-8 bayt uzunluğu (bkz. yukarısı — `.length` bunu vermez). */
+/** Actual UTF-8 byte length (see above — `.length` doesn't give this). */
 function utf8ByteLength(s: string): number {
   return new TextEncoder().encode(s).length;
 }
@@ -554,9 +579,9 @@ function utf8ByteLength(s: string): number {
 async function upload(): Promise<boolean> {
   if (blocked || frozen || uploading) return false;
   uploading = true;
-  // Kısıtlamayı denemenin BAŞINDA güncelle: aksi halde çevrimdışıyken her
-  // başarısız deneme kısıtlamayı sıfır bırakır ve periyodik kontrol bir
-  // yeniden deneme fırtınasına dönüşür.
+  // Update the throttle at the START of the attempt: otherwise, while
+  // offline, every failed attempt would leave the throttle at zero and the
+  // periodic check would turn into a retry storm.
   lastUpload = Date.now();
 
   try {
@@ -565,12 +590,13 @@ async function upload(): Promise<boolean> {
 
     const map = collectSyncedSave();
     const payload = serialize(map);
-    // Doküman tavanını aşan kayıt (olmamalı: 300 bulmaca tamamen dolu bile
-    // ~200 KB) sessizce atlanır; yerel kayıt sağlam kalır. `payload.length`
-    // UTF-16 KOD BİRİMİ sayar, firestore.rules'daki tavan ise UTF-8 BAYT
-    // sayar — Türkçe karakterler (ç/ğ/ı/ö/ş/ü) UTF-8'de 2 bayt ama burada 1
-    // birim; uzunluk bazlı bir kontrol tavana yakın kayıtlarda sunucunun
-    // reddedeceği bir yazmayı "güvenli" sanıp göndermeye devam ederdi.
+    // A save exceeding the document ceiling (shouldn't happen: even 300
+    // fully completed puzzles is ~200 KB) is silently skipped; the local save
+    // stays intact. `payload.length` counts UTF-16 CODE UNITS, while the
+    // ceiling in firestore.rules counts UTF-8 BYTES — Turkish characters
+    // (ç/ğ/ı/ö/ş/ü) are 2 bytes in UTF-8 but 1 unit here; a length-based check
+    // would keep thinking a write near the ceiling was "safe" and send one
+    // the server would actually reject.
     if (utf8ByteLength(payload) > MAX_PAYLOAD_BYTES) return false;
 
     const nextRev = readRev() + 1;
@@ -582,40 +608,44 @@ async function upload(): Promise<boolean> {
           schemaVersion: CLOUD_SCHEMA_VERSION,
           rev: nextRev,
           updatedAt: sdk.fs.serverTimestamp(),
-          // Yalnızca Firestore konsolunda kaydı gözle ayırt edebilmek için;
-          // uygulama özetleri her zaman payload'dan hesaplar (bkz. summarize).
+          // Only so the record can be visually distinguished in the Firestore
+          // console; the app always computes summaries from the payload (see
+          // summarize).
           summary: summarize(map),
         })
         .then(
           () => "ok" as const,
-          // Sunucu isteği GÖRDÜ ve geri çevirdi (kural reddi ya da ağ hatası):
-          // zaman aşımından ayrı tutulmalı, bkz. aşağısı.
+          // The server SAW the request and rejected it (rule denial or
+          // network error): must be kept separate from a timeout, see below.
           () => "rejected" as const,
         ),
       WRITE_TIMEOUT_MS,
     );
 
-    // Zaman aşımı (null) ile REDDEDİLME ("rejected") aynı şey DEĞİLDİR:
+    // A timeout (null) is NOT the same thing as a REJECTION ("rejected"):
     //
-    //  - Zaman aşımı: Firestore yazmayı kuyruğa almış olabilir ve sonradan
-    //    sunucuya düşebilir. O halde aynı rev'i tekrar denemek kural tarafından
-    //    reddedilir (rev artmalı) ve senkron kalıcı olarak takılırdı — bu yüzden
-    //    sayaç ilerletilir. Sayaç ucuz, ilerletmek güvenli.
+    //  - Timeout: Firestore may have queued the write and it could still land
+    //    on the server later. Retrying the same rev would then be rejected by
+    //    the rule (rev must increase) and sync would get permanently stuck —
+    //    that's why the counter is advanced anyway. The counter is cheap;
+    //    advancing it is safe.
     //
-    //  - Reddedilme: yazma sunucuya KESİNLİKLE düşmedi. Burada sayacı
-    //    ilerletmek ölümcüldür: başarısız her deneme yerel rev'i bir artırır,
-    //    sayaç birkaç denemede buluttakini GEÇER ve syncCloudSave bir daha
-    //    `cloudRev <= readRev()` dalına düşerek "in-sync" der. Cihaz diğer
-    //    cihazın kaydını bir daha hiç indirmez, üstelik ilk fırsatta bayat
-    //    kaydını onun üstüne yazar — sessiz veri kaybı. Bu yüzden reddedilen
-    //    yazmada sayaca DOKUNULMAZ; bir sonraki deneme aynı rev'i tekrar dener.
+    //  - Rejection: the write DEFINITELY did not land on the server.
+    //    Advancing the counter here would be fatal: every failed attempt
+    //    would bump the local rev by one, the counter would SURPASS the
+    //    cloud's within a few attempts, and syncCloudSave would forever fall
+    //    into the `cloudRev <= readRev()` branch and say "in-sync." The
+    //    device would never download the other device's save again, and
+    //    worse, would overwrite it with its own stale save at the first
+    //    opportunity — silent data loss. That's why a rejected write does NOT
+    //    touch the counter; the next attempt retries the same rev.
     if (written !== "rejected") writeRev(nextRev);
-    if (written !== "ok") return false; // parmak izi güncellenmez → sonra tekrar denenir
+    if (written !== "ok") return false; // fingerprint not updated → retried later
 
     markSynced(payload);
     return true;
   } catch {
-    // Kural reddi (bayat rev) ya da ağ hatası: parmak izi korunur, tekrar denenir.
+    // Rule denial (stale rev) or network error: fingerprint is preserved, retried later.
     return false;
   } finally {
     uploading = false;
@@ -623,8 +653,8 @@ async function upload(): Promise<boolean> {
 }
 
 /**
- * Açılışta bir kez çağrılır: buluttaki kaydı yerelle karşılaştırır ve gerekirse
- * localStorage'ı yerinde günceller.
+ * Called once on startup: compares the cloud save with the local one and, if
+ * needed, updates localStorage in place.
  */
 export async function syncCloudSave(): Promise<CloudSyncResult> {
   const target = await saveDoc();
@@ -647,8 +677,8 @@ export async function syncCloudSave(): Promise<CloudSyncResult> {
   const cloudRev = typeof data.rev === "number" ? data.rev : 0;
   const cloudSchema = typeof data.schemaVersion === "number" ? data.schemaVersion : 0;
 
-  // Daha yeni bir istemcinin yazdığı kayıt: tanımadığımız alanları eleyip
-  // veriyi bozacağımız için hiç dokunma.
+  // A record written by a newer client: don't touch it at all, since we'd
+  // strip fields we don't recognize and corrupt the data.
   if (cloudSchema > CLOUD_SCHEMA_VERSION) return "needs-update";
   if (typeof data.payload !== "string") return "disabled";
 
@@ -658,7 +688,7 @@ export async function syncCloudSave(): Promise<CloudSyncResult> {
   const localSave = collectSyncedSave();
   const dirty = isDirty(serialize(localSave));
 
-  // Yerel en az bulut kadar güncel — normal durum.
+  // Local is at least as up to date as the cloud — the normal case.
   if (cloudRev <= readRev()) {
     if (dirty) void upload();
     return "in-sync";
@@ -667,24 +697,27 @@ export async function syncCloudSave(): Promise<CloudSyncResult> {
   const updatedAtMs =
     typeof data.updatedAt?.toMillis === "function" ? data.updatedAt.toMillis() : 0;
 
-  // Bulut ilerideyken yerelde de gönderilmemiş değişiklik varsa gerçek çakışma:
-  // karar oyuncunundur, buluta yazma. Tek istisna, yerelde kaybedilecek bir
-  // kazanım OLMAMASI (yeni kurulum, ya da oyunu açıp hemen hesabını bağlamış
-  // oyuncu): "kirli" olmak tek başına ilerleme demek değildir, o yüzden bir
-  // tarafı boş bir seçim ekranı göstermek yerine bulut doğrudan getirilir.
+  // Cloud is ahead and local also has unsent changes: a genuine conflict —
+  // the decision belongs to the player, don't write to the cloud. The one
+  // exception is when there's NO earned progress that would be lost locally
+  // (a fresh install, or a player who opened the game and immediately linked
+  // their account): being "dirty" alone isn't progress, so instead of showing
+  // a choice screen with one empty side, the cloud is fetched directly.
   if (dirty && hasPlayerProgress(localSave)) {
-    // İki taraf oyuncu açısından AYNI oyunu taşıyorsa sormak yanlış olur:
-    // hangisi seçilirse seçilsin sonuç aynı, ama oyuncu bir daha bu diyaloğa
-    // güvenmez. Sessizce çözülür — ve buluttaki `rev` benimsenerek döngü
-    // kırılır, yoksa diğer cihaz her yazdığında aynı ekran geri gelirdi.
+    // If both sides are carrying the SAME game from the player's point of
+    // view, asking would be wrong: whichever one is picked, the result is the
+    // same, but the player stops trusting this dialog afterward. Resolve it
+    // silently — adopting the cloud's `rev` breaks the loop, otherwise the
+    // same screen would come back every time the other device writes.
     //
-    // Bulut YEREL ÜZERİNE UYGULANMAZ (applyCloud çağrılmaz): iki taraf zaten
-    // eşdeğer olduğu için indirmenin bir kazancı yok, buna karşılık yerelde
-    // gerçekten daha yeni bir şey kalmışsa onu ezme riski var. Yerel olduğu
-    // gibi durur ve normal "kirli" yolundan buluta taşınır.
+    // The cloud is NOT applied on top of local (applyCloud isn't called):
+    // since both sides are already equivalent, downloading gains nothing,
+    // while there's a risk of overwriting something genuinely newer left
+    // locally. Local stays as-is and takes the normal "dirty" path to the
+    // cloud.
     if (sameProgress(localSave, cloudMap)) {
       writeRev(cloudRev);
-      void upload(); // rev cloudRev+1 olur: kural (rev artmalı) sağlanır
+      void upload(); // rev becomes cloudRev+1: satisfies the rule (rev must increase)
       return "in-sync";
     }
 
@@ -700,7 +733,7 @@ export async function syncCloudSave(): Promise<CloudSyncResult> {
   return applyCloud(cloudRev, cloudMap) ? "restored" : "disabled";
 }
 
-/** Çakışmayı "bu cihaz kazansın" diye çözer. */
+/** Resolves the conflict in favor of "this device wins." */
 export async function resolveKeepLocal(): Promise<void> {
   if (pendingCloud) writeRev(pendingCloud.rev);
   blocked = false;
@@ -708,20 +741,20 @@ export async function resolveKeepLocal(): Promise<void> {
   await upload();
 }
 
-/** Çakışmayı "buluttaki kazansın" diye çözer. */
+/** Resolves the conflict in favor of "the cloud wins." */
 export function resolveKeepCloud(): boolean {
   if (!pendingCloud) return false;
   return applyCloud(pendingCloud.rev, pendingCloud.map);
 }
 
-/** Kısıtlı (throttle'lı) yükleme — sık çağrılarda kota yakmaz. */
+/** Throttled upload — won't burn through the quota on frequent calls. */
 export function maybeUploadCloudSave(): void {
   if (Date.now() - lastUpload < UPLOAD_THROTTLE_MS) return;
   if (!isDirty(serialize(collectSyncedSave()))) return;
   void upload();
 }
 
-/** Anında yükleme — uygulama arka plana alınırken/kritik anlarda. */
+/** Immediate upload — used when the app is backgrounded / at critical moments. */
 export function flushCloudSave(): void {
   if (!isDirty(serialize(collectSyncedSave()))) return;
   void upload();

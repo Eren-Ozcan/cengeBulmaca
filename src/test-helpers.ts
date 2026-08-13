@@ -1,5 +1,5 @@
-// Test yardımcıları: Node ortamında tarayıcı localStorage'ının yerine geçen
-// bellek içi depo. game.ts ve stats.ts testleri bunu globale takar.
+// Test helpers: an in-memory store that substitutes for browser localStorage
+// in a Node environment. game.ts and stats.ts tests attach this globally.
 
 export class MemoryStorage implements Storage {
   private map = new Map<string, string>();
@@ -29,7 +29,7 @@ export class MemoryStorage implements Storage {
   }
 }
 
-/** Testler için globalThis.localStorage'ı bellek içi depoyla değiştirir. */
+/** Replaces globalThis.localStorage with an in-memory store, for tests. */
 export function installMemoryStorage(): MemoryStorage {
   const storage = new MemoryStorage();
   (globalThis as { localStorage: Storage }).localStorage = storage;

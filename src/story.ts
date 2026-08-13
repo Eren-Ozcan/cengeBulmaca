@@ -1,5 +1,5 @@
-// Açılış hikayesi: Duman'ın Anadolu yolculuğu. Bir kez gösterilir,
-// istenirse koleksiyon ekranından tekrar okunabilir.
+// Intro story: Duman's journey across Anatolia. Shown once,
+// can be read again from the collection screen if desired.
 
 const KEY = "cengel-story-seen";
 const EPILOGUE_KEY = "cengel-epilogue-seen";
@@ -44,7 +44,7 @@ export function markStorySeen(): void {
   try {
     localStorage.setItem(KEY, "1");
   } catch {
-    // depolama yoksa bir sonraki açılışta tekrar gösterilir
+    // if storage is unavailable, it will be shown again on the next launch
   }
 }
 
@@ -60,6 +60,6 @@ export function markEpilogueSeen(): void {
   try {
     localStorage.setItem(EPILOGUE_KEY, "1");
   } catch {
-    // depolama yoksa bir sonraki açılışta tekrar gösterilir
+    // if storage is unavailable, it will be shown again on the next launch
   }
 }

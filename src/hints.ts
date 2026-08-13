@@ -1,6 +1,6 @@
-// Günlük ücretsiz ipucu hakkı. Hak bitince oyuncu reklam izleyerek
-// (bkz. src/ads.ts) bir ipucu daha açabilir — ücretsiz hak sınırsız
-// reklamla uzatılabilir, sadece günlük "bedava" kısım sınırlı.
+// Daily free hint allowance. Once it runs out, the player can watch an ad
+// (see src/ads.ts) to unlock one more hint — the allowance can be extended
+// with unlimited ads, only the daily "free" portion is limited.
 
 import { dayString } from "./stats.ts";
 
@@ -10,7 +10,7 @@ function todayKey(): string {
   return `cengel-hints-${dayString()}`;
 }
 
-/** Bugün kalan ücretsiz ipucu sayısı. */
+/** Number of free hints remaining today. */
 export function freeHintsRemainingToday(): number {
   try {
     const used = Number(localStorage.getItem(todayKey()) ?? "0");
@@ -20,12 +20,12 @@ export function freeHintsRemainingToday(): number {
   }
 }
 
-/** Bugünkü ücretsiz ipucu haklarından birini kullanır. */
+/** Uses up one of today's free hint allowances. */
 export function consumeFreeHint(): void {
   try {
     const used = Number(localStorage.getItem(todayKey()) ?? "0");
     localStorage.setItem(todayKey(), String(used + 1));
   } catch {
-    // depolama yoksa hak takibi oturumla sınırlı kalır
+    // if storage is unavailable, tracking the allowance is limited to this session
   }
 }

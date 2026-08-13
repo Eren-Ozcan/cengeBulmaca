@@ -1,6 +1,6 @@
-// Web Audio ile üretilen kısa ses efektleri.
-// Ses dosyası kullanılmaz: osilatörle sentezlenir, paket boyutu artmaz.
-// Tercih localStorage'da saklanır; ses kapalıyken AudioContext hiç açılmaz.
+// Short sound effects generated with Web Audio.
+// No audio files are used: they're synthesized with an oscillator, so bundle size doesn't grow.
+// The preference is stored in localStorage; when sound is off, AudioContext is never opened.
 
 const KEY = "cengel-sound";
 
@@ -14,13 +14,13 @@ export function soundEnabled(): boolean {
   }
 }
 
-/** Sesi açıp kapatır; yeni durumu döndürür. */
+/** Toggles sound on/off; returns the new state. */
 export function toggleSound(): boolean {
   const on = !soundEnabled();
   try {
     localStorage.setItem(KEY, on ? "on" : "off");
   } catch {
-    // depolama yoksa tercih oturumla sınırlı kalır
+    // if storage is unavailable, the preference is limited to this session
   }
   return on;
 }
@@ -57,29 +57,29 @@ function tone(
   osc.stop(t + dur);
 }
 
-/** Klavye tuşuna basış */
+/** Key press on the keyboard */
 export function playKey(): void {
   tone(640, 0.05, "square", 0.03);
 }
 
-/** Kontrolde yanlış harf bulundu */
+/** Wrong letter found during check */
 export function playWrong(): void {
   tone(190, 0.18, "sawtooth", 0.05);
 }
 
-/** Kontrolde her şey doğru */
+/** Everything correct during check */
 export function playCorrect(): void {
   tone(760, 0.1, "sine", 0.05);
   tone(1010, 0.12, "sine", 0.05, 0.09);
 }
 
-/** Bulmaca tamamlandı: kısa zafer arpeji */
+/** Puzzle completed: short victory arpeggio */
 export function playWin(): void {
   const notes = [523.25, 659.25, 783.99, 1046.5];
   notes.forEach((f, i) => tone(f, 0.2, "sine", 0.06, i * 0.11));
 }
 
-/** Yeni bekçi kedi açıldı: kısa, yükselip alçalan bir "miyav" */
+/** New guardian cat unlocked: a short "meow" that rises then falls */
 export function playCatUnlock(): void {
   const ac = audio();
   if (!ac) return;

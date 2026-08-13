@@ -3,7 +3,7 @@ import { buildGrid, trUpper } from "./puzzle.ts";
 import { allPuzzles as puzzles } from "./puzzles/all.ts";
 import type { PuzzleDef } from "./types.ts";
 
-// 3x3 asgari geçerli bulmaca: bir yatay, bir dikey soru, (1,1)'de kesişim.
+// Minimal valid 3x3 puzzle: one across clue, one down clue, intersecting at (1,1).
 //   [S1][S2][■ ]
 //   [B ][A ][L ]
 //   [■ ][T ][■ ]
@@ -88,7 +88,7 @@ describe("yayınlanan bulmacalar", () => {
     "%s oyun motorundan geçer",
     (_id, p) => {
       const grid = buildGrid(p);
-      // her ipucunun en az 2 harflik yerleşimi olmalı
+      // every clue must have a placement of at least 2 letters
       for (const placement of grid.cluePlacements) {
         expect(placement.length).toBeGreaterThanOrEqual(2);
       }
