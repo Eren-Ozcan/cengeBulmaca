@@ -197,6 +197,19 @@ describe("buluttan gelen payload'ın doğrulanması", () => {
     expect(Object.keys(map!)).toEqual([`cengel-hints-${dayString()}`]);
   });
 
+  it("cengel-jokers sayısal değilse NaN sızmaz, anahtar tümden elenir", () => {
+    const map = parseCloudPayload(
+      JSON.stringify({ "cengel-jokers": "yamuk-deger", "cengel-theme": "modern" }),
+    );
+    expect(map!["cengel-jokers"]).toBeUndefined();
+    expect(map!["cengel-theme"]).toBe("modern");
+  });
+
+  it("cengel-jokers negatifse elenir, geçerliyse kalır", () => {
+    expect(parseCloudPayload(JSON.stringify({ "cengel-jokers": "-5" }))!["cengel-jokers"]).toBeUndefined();
+    expect(parseCloudPayload(JSON.stringify({ "cengel-jokers": "5" }))!["cengel-jokers"]).toBe("5");
+  });
+
   it("bozuk ya da beklenmedik biçimdeki payload'da null döner (yerel kayıt korunur)", () => {
     expect(parseCloudPayload("{bozuk json")).toBeNull();
     expect(parseCloudPayload("[1,2,3]")).toBeNull();

@@ -475,10 +475,30 @@ async function saveDoc() {
 }
 
 /**
+ * Sayısal olması beklenen anahtarlar: economy.ts/hints.ts/referral.ts bu
+ * değerleri doğrudan Number(...)'a verir. Bozuk/kurcalanmış bir doküman
+ * NaN sızdırırsa Math.max(0, NaN) da NaN döner — spendJoker()'daki
+ * `n <= 0` koruması (NaN <= 0 === false) sessizce devre dışı kalır ve
+ * bakiye sınırsız harcanabilir hale gelir. Bu yüzden bulut kaynaklı
+ * değerler localStorage'a yazılmadan ÖNCE doğrulanır.
+ */
+function isValidNumericValue(v: string): boolean {
+  const n = Number(v);
+  return Number.isFinite(n) && n >= 0;
+}
+
+function isNumericKey(key: string): boolean {
+  return key === "cengel-jokers" || key === "cengel-referral-synced" || key.startsWith(HINTS_PREFIX);
+}
+
+/**
  * Buluttan gelen payload'ı doğrular. Yerel kaydın geçtiği kapıdan geçer:
  * yalnızca allowlist'teki anahtarlar, yalnızca string değerler. Böylece
  * kurcalanmış bir doküman ne "cengel-ads-removed" yazabilir ne de tanımadığımız
- * bir anahtarı localStorage'a sokabilir.
+ * bir anahtarı localStorage'a sokabilir. Sayısal anahtarlarda ayrıca değerin
+ * gerçekten geçerli, negatif olmayan bir sayı olduğu doğrulanır (bkz.
+ * isNumericKey) — aksi halde anahtar tümden atlanır, payload'ın geri kalanı
+ * yine de uygulanır.
  */
 export function parseCloudPayload(payload: string): SaveMap | null {
   let raw: unknown;
@@ -493,6 +513,7 @@ export function parseCloudPayload(payload: string): SaveMap | null {
   for (const [k, v] of Object.entries(raw as Record<string, unknown>)) {
     if (typeof v !== "string") continue;
     if (!isSyncedKey(k, hintKeys)) continue;
+    if (isNumericKey(k) && !isValidNumericValue(v)) continue;
     map[k] = v;
   }
   return map;
