@@ -18,8 +18,15 @@ void restoreAdsRemoved();
 // kullanıcı jestinden sonra başlayabilir; ilk dokunuşta bir kez tetiklenir.
 document.addEventListener("pointerdown", () => ensureMusicStarted(), { once: true });
 // İlk ekran anlık açılsın diye ilk bulmacaları (+ günün bulmacasını) hemen
-// yükler; geri kalanı arka planda (bkz. warmPuzzles) indirilir.
-await warmPuzzles(dailyIndex(puzzles.length));
+// yükler; geri kalanı arka planda (bkz. warmPuzzles) indirilir. Ağ hatası
+// burada uygulamanın tamamını YUTMAMALI: try/catch olmadan reddeden bir
+// top-level await modülü çökertir ve App hiç kurulmaz (bkz. ensureLoaded —
+// tek tek bulmaca açılışında zaten kendi hata payı var).
+try {
+  await warmPuzzles(dailyIndex(puzzles.length));
+} catch {
+  /* eager yükleme başarısız: yer tutucularla devam, ensureLoaded tek tek dener */
+}
 const root = document.querySelector<HTMLDivElement>("#app")!;
 // Bulut kaydı senkronu açılışı BEKLETMEZ (kötü ağda 7 saniyeye kadar
 // sürebilir); splash ve oyun normal akışında ilerler, cevap gelince gerekiyorsa
