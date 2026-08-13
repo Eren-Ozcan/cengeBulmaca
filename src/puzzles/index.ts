@@ -52,6 +52,11 @@ function fill(p: PuzzleDef): Promise<void> {
     job = fileLoaders[file]().then((full) => {
       Object.assign(p, full);
     });
+    // Reddedilen sözü önbellekte BIRAKMA: aksi halde bir kerelik ağ
+    // hatası (flaky bağlantı) bu bulmacayı uygulama yeniden başlatılana
+    // kadar kalıcı olarak açılamaz yapardı — `if (!job)` her seferinde
+    // false kalır, yeniden deneme hiç tetiklenmez.
+    job.catch(() => pending.delete(p.id));
     pending.set(p.id, job);
   }
   return job;

@@ -960,7 +960,12 @@ export class App {
     if (!isLoaded(p)) {
       // İçerik henüz arka planda indirilmedi (bkz. puzzles/index.ts
       // warmPuzzles); indirilince aynı bulmacayı tekrar açmayı dener.
-      void ensureLoaded(p).then(() => this.openPuzzle(p));
+      // Reddedilirse (ağ hatası) dokunuş sessizce hiçbir şey yapmasın diye
+      // oyuncuya haber verilir; puzzles/index.ts fill() artık başarısız
+      // sözü önbellekte tutmuyor, bir sonraki dokunuş yeniden dener.
+      void ensureLoaded(p)
+        .then(() => this.openPuzzle(p))
+        .catch(() => toast(this.root, "Bulmaca indirilemedi, bağlantını kontrol edip tekrar dene"));
       return;
     }
     this.state = newGame(p);
