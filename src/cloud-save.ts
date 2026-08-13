@@ -546,6 +546,11 @@ function serialize(map: SaveMap): string {
   return JSON.stringify(map);
 }
 
+/** Gerçek UTF-8 bayt uzunluğu (bkz. yukarısı — `.length` bunu vermez). */
+function utf8ByteLength(s: string): number {
+  return new TextEncoder().encode(s).length;
+}
+
 async function upload(): Promise<boolean> {
   if (blocked || frozen || uploading) return false;
   uploading = true;
@@ -561,8 +566,12 @@ async function upload(): Promise<boolean> {
     const map = collectSyncedSave();
     const payload = serialize(map);
     // Doküman tavanını aşan kayıt (olmamalı: 300 bulmaca tamamen dolu bile
-    // ~200 KB) sessizce atlanır; yerel kayıt sağlam kalır.
-    if (payload.length > MAX_PAYLOAD_BYTES) return false;
+    // ~200 KB) sessizce atlanır; yerel kayıt sağlam kalır. `payload.length`
+    // UTF-16 KOD BİRİMİ sayar, firestore.rules'daki tavan ise UTF-8 BAYT
+    // sayar — Türkçe karakterler (ç/ğ/ı/ö/ş/ü) UTF-8'de 2 bayt ama burada 1
+    // birim; uzunluk bazlı bir kontrol tavana yakın kayıtlarda sunucunun
+    // reddedeceği bir yazmayı "güvenli" sanıp göndermeye devam ederdi.
+    if (utf8ByteLength(payload) > MAX_PAYLOAD_BYTES) return false;
 
     const nextRev = readRev() + 1;
     const { sdk, ref } = target;
