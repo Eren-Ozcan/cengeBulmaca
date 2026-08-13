@@ -17,6 +17,14 @@ import { adsRemoved } from "./billing.ts";
 const REWARDED_AD_ID = "ca-app-pub-9709993577664180/1978523543";
 const INTERSTITIAL_AD_ID = "ca-app-pub-9709993577664180/6923728460";
 
+// showRewardedHintAd()'ın sözü YALNIZCA Rewarded/Dismissed/FailedToShow
+// eklenti olaylarından biriyle çözülür; hiçbiri garanti değildir (uygulama
+// reklam ortasında arka plana alınırsa ya da eklenti olayı hiç yayınlamazsa
+// söz sonsuza dek asılı kalır). Çağıran taraf (ui.ts) düğmeyi bu söz
+// çözülene kadar devre dışı bırakır — zaman aşımı olmadan düğme oturum
+// boyunca kilitli kalırdı.
+const REWARD_AD_TIMEOUT_MS = 60_000;
+
 // İki geçiş reklamı arka arkaya gösterilemez (AdMob "disallowed interstitial
 // implementations" kuralı). localStorage'a yazılır ki soğuk başlatma (uygulamayı
 // kapatıp açma) bu korumayı sıfırlamasın — yalnızca bellekte tutulsaydı oyuncu
@@ -110,9 +118,12 @@ export async function showRewardedHintAd(): Promise<boolean> {
     const finish = (value: boolean) => {
       if (settled) return;
       settled = true;
+      clearTimeout(timer);
       resolve(value);
       Promise.all(handles.map((h) => h.remove())).catch(() => {});
     };
+
+    const timer = setTimeout(() => finish(false), REWARD_AD_TIMEOUT_MS);
 
     Promise.all([
       AdMob.addListener(RewardAdPluginEvents.Rewarded, () => {
