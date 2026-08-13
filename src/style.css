@@ -1736,7 +1736,11 @@ button {
   border-color: var(--gold);
 }
 
-.shop-pack-card.shop-pack-pending {
+/* ui.ts buyRemoveAds() bu sınıfı "invite-card remove-ads-card" üstüne ekler
+   (shop-pack-card DEĞİL) — bileşik seçici olsaydı o kartta hiç eşleşmez,
+   satın alma sürerken düğme tıklanabilir kalır ve hızlı çift dokunuş iki eş
+   zamanlı satın alma isteği tetikleyebilirdi. */
+.shop-pack-pending {
   opacity: 0.55;
   pointer-events: none;
 }
