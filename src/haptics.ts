@@ -1,26 +1,26 @@
-// Haptik (titreşim) geri bildirimi.
-// navigator.vibrate desteklenmeyen platformlarda (iOS Safari, masaüstü)
-// sessizce hiçbir şey yapmaz; oyun akışını asla bozmaz.
+// Haptic (vibration) feedback.
+// On platforms that don't support navigator.vibrate (iOS Safari, desktop)
+// this silently does nothing; it never disrupts the game flow.
 
 function vibrate(pattern: number | number[]): void {
   try {
     navigator.vibrate?.(pattern);
   } catch {
-    // izin/destek yoksa yok sayılır
+    // ignored if not permitted/supported
   }
 }
 
-/** Klavye tuşuna basış: hissedilir ama rahatsız etmeyen tık */
+/** Keyboard key press: a noticeable but unobtrusive tick */
 export function hapticKey(): void {
   vibrate(10);
 }
 
-/** Kontrolde yanlış harf: çift uyarı */
+/** Wrong letter on check: double buzz */
 export function hapticWrong(): void {
   vibrate([35, 45, 35]);
 }
 
-/** Bulmaca tamamlandı: kutlama deseni */
+/** Puzzle completed: celebration pattern */
 export function hapticWin(): void {
   vibrate([45, 60, 45, 60, 130]);
 }

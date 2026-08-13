@@ -1,14 +1,14 @@
-// Günlük seri (streak) ve çözüm istatistikleri.
-// Kural: her gün en az bir bulmaca tamamlanırsa seri devam eder;
-// bir gün atlanırsa sıfırlanır. Popüler günlük bulmaca oyunlarındaki
-// (Wordle vb.) alışkanlık modeli.
+// Daily streak and solve statistics.
+// Rule: the streak continues as long as at least one puzzle is completed
+// each day; skipping a day resets it. The same habit-forming model used by
+// popular daily puzzle games (Wordle etc.).
 
 export interface Stats {
-  /** Son tamamlama günü, "YYYY-MM-DD" (yerel saat) */
+  /** Day of last completion, "YYYY-MM-DD" (local time) */
   lastDay: string | null;
-  /** Ardışık gün sayısı */
+  /** Number of consecutive days */
   streak: number;
-  /** Tamamlanan bulmaca id'leri */
+  /** IDs of completed puzzles */
   solved: string[];
 }
 
@@ -41,7 +41,7 @@ export function loadStats(): Stats {
       }
     }
   } catch {
-    // bozuk kayıt yok sayılır
+    // corrupt save is ignored
   }
   return { lastDay: null, streak: 0, solved: [] };
 }
@@ -50,16 +50,16 @@ function saveStats(s: Stats): void {
   try {
     localStorage.setItem(KEY, JSON.stringify(s));
   } catch {
-    // depolama yoksa sessizce geç
+    // silently skip if storage is unavailable
   }
 }
 
-/** Bulmaca tamamlandığında çağrılır; güncel seriyi döndürür. */
+/** Called when a puzzle is completed; returns the updated stats. */
 export function recordCompletion(puzzleId: string): Stats {
   const s = loadStats();
   const today = dayString();
   if (s.lastDay === today) {
-    // bugün zaten oynandı, seri değişmez
+    // already played today, streak unchanged
   } else if (s.lastDay === yesterdayString()) {
     s.streak += 1;
     s.lastDay = today;
@@ -72,7 +72,7 @@ export function recordCompletion(puzzleId: string): Stats {
   return s;
 }
 
-/** Gösterilecek seri: dün ya da bugün oynanmadıysa seri kopmuştur. */
+/** Streak to display: broken if the player didn't play yesterday or today. */
 export function currentStreak(): number {
   const s = loadStats();
   if (s.lastDay === dayString() || s.lastDay === yesterdayString()) {
@@ -81,7 +81,7 @@ export function currentStreak(): number {
   return 0;
 }
 
-/** Bugün en az bir bulmaca tamamlandı mı? */
+/** Was at least one puzzle completed today? */
 export function playedToday(): boolean {
   return loadStats().lastDay === dayString();
 }
@@ -90,12 +90,12 @@ export function isSolvedPuzzle(id: string): boolean {
   return loadStats().solved.includes(id);
 }
 
-/** Tamamlanan farklı bulmaca sayısı (kedi açılım eşikleri buna bakar). */
+/** Number of distinct puzzles completed (cat-unlock thresholds check this). */
 export function solvedCount(): number {
   return loadStats().solved.length;
 }
 
-/** Günün bulmacası: tarihe göre deterministik seçim. */
+/** Daily puzzle: deterministic selection based on the date. */
 export function dailyIndex(count: number, d: Date = new Date()): number {
   const s = dayString(d);
   let h = 0;

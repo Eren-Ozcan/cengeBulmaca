@@ -1,20 +1,21 @@
-// Bulut kaydının kullanıcıya dokunan tarafı: açılış senkronu, çakışma seçimi
-// ve Ayarlar'daki "Hesabı bağla" satırı.
+// The player-facing side of cloud save: startup sync, conflict resolution,
+// and the "Link account" row in Settings.
 //
-// Ayrı bir modül olmasının sebebi ui.ts'e (1800+ satır) mümkün olduğunca az
-// dokunmak: ui.ts'ten tek çağrı yapılır, tüm mantık burada durur.
+// This is a separate module to touch ui.ts (1800+ lines) as little as
+// possible: ui.ts makes a single call, all the logic lives here.
 //
-// GERİ YÜKLEMEDEN SONRA SAYFA YENİDEN YÜKLENİR. Çengel Bulmaca'nın durumu tek
-// bir bellek içi nesnede değil, ~13 localStorage anahtarında ve onları TEMBEL
-// okuyan sekiz ayrı modülde (stats/economy/theme/sound/music/story/tutorial/
-// game) yaşıyor. Ekran çizildikten sonra bu anahtarları değiştirmek arayüzü
-// eski değerlerle bırakırdı; yeniden yükleme her modülün kaydı baştan
-// okumasını garanti eden tek ucuz yol. Yeniden yükleme sonrası kayıt bulutla
-// aynı olduğu için döngüye girmez.
+// THE PAGE RELOADS AFTER A RESTORE. Çengel Bulmaca's state doesn't live in a
+// single in-memory object — it lives across ~13 localStorage keys, LAZILY
+// read by eight separate modules (stats/economy/theme/sound/music/story/
+// tutorial/game). Changing these keys after the screen has already rendered
+// would leave the UI showing stale values; reloading is the one cheap way to
+// guarantee every module re-reads its save data from scratch. After the
+// reload the save matches the cloud, so it doesn't loop.
 //
-// Senkron açılışı BLOKLAMAZ: splash/oyun normal akışında ilerler, bulut cevabı
-// geldiğinde gerekiyorsa araya girer. Kötü bir ağda oyuncu 7 saniye boş ekrana
-// bakmasın diye bilinçli bir tercih.
+// Sync does NOT block startup: the splash/game proceed through their normal
+// flow, and the cloud response steps in afterward if needed. A deliberate
+// choice so the player isn't staring at a blank screen for 7 seconds on a
+// bad network.
 
 import {
   isAccountLinkingAvailable,
@@ -36,7 +37,7 @@ import {
 } from "./cloud-save.ts";
 import { resetForNewAccount as resetReferralForNewAccount } from "./referral.ts";
 
-/** Kirli kayıt kontrolü; gerçek yazma cloud-save.ts'teki kısıtlamaya tabidir. */
+/** Dirty-save check interval; the actual write is subject to the throttling in cloud-save.ts. */
 const UPLOAD_CHECK_MS = 30_000;
 
 let autoUploadInstalled = false;
@@ -58,8 +59,8 @@ function toast(root: HTMLElement, msg: string): void {
 }
 
 /**
- * Açılışta bir kez çağrılır (bkz. main.ts). Yapılandırma yoksa hiçbir şey
- * yapmaz; hata durumunda da sessizce yerel oyuna devam edilir.
+ * Called once at startup (see main.ts). Does nothing if not configured;
+ * on error, also silently falls back to the local game.
  */
 export async function initCloudSave(root: HTMLElement): Promise<void> {
   if (!isFirebaseConfigured()) return;
@@ -71,30 +72,32 @@ function handleSyncResult(root: HTMLElement, result: CloudSyncResult): void {
   if (result === "conflict") {
     showConflict(root);
   } else if (result === "restored") {
-    // Geri yükleme her iki çağrı yerinde de ekran çizildikten SONRA döner
-    // (açılış senkronu bilerek bloklamıyor, hesap bağlama zaten oyun
-    // ortasında). Habersiz bir yeniden yükleme oyuncuya çökme gibi görünürdü:
-    // önce ne olduğunu söyle, sonra yenile.
+    // At both call sites the restore resolves AFTER the screen has already
+    // rendered (startup sync deliberately doesn't block, and linking an
+    // account happens mid-game anyway). An unannounced reload would look
+    // like a crash to the player: tell them what happened first, then
+    // reload.
     reloadAfterRestore(root);
   } else if (result === "needs-update") {
     toast(root, "Bulut kaydın daha yeni bir sürümle oluşturulmuş. Uygulamayı güncelle.");
   }
 }
 
-/** Toast'ın okunmasına yetecek kadar; dosya başındaki yeniden yükleme notuna bak. */
+/** Long enough for the toast to be read; see the reload note at the top of the file. */
 const RESTORE_RELOAD_MS = 1_400;
 
 /**
- * Buluttan gelen kayıt uygulandıktan sonra sayfayı yeniler. Kayıt zaten
- * localStorage'a yazıldı; yenileme yalnızca ekrandaki eski değerleri
- * tazelemek için.
+ * Reloads the page after the save fetched from the cloud has been applied.
+ * The save is already written to localStorage; the reload is only to
+ * refresh the stale values still shown on screen.
  *
- * Bu gecikme sırasında oyuncu oynamaya devam edebilir ve ekrandaki bulmacanın
- * bellekteki durumu HÂLÂ ESKİ kayda ait. Yazmasına izin verilseydi yeni gelen
- * ilerlemeyi ezer, sonra da (bu fonksiyonun tetiklediği yenileme "pagehide"
- * ürettiği için) diğer cihazın bulut kaydının üstüne yüklenirdi. Bu yüzden
- * geri yükleme anından itibaren hem bayat yerel yazma hem bulut yazması
- * dondurulur — bkz. cloud-save.ts `frozen`.
+ * During this delay the player could keep playing, and the puzzle's
+ * in-memory state on screen would STILL belong to the old save. If writes
+ * were allowed, they'd overwrite the newly arrived progress, and then (since
+ * the reload this function triggers fires "pagehide") get uploaded on top of
+ * the other device's cloud save. That's why, from the moment of restore
+ * onward, both the stale local write and the cloud write are frozen — see
+ * `frozen` in cloud-save.ts.
  */
 function reloadAfterRestore(root: HTMLElement): void {
   toast(root, "Buluttaki ilerlemen getirildi, oyun yenileniyor…");
@@ -102,10 +105,12 @@ function reloadAfterRestore(root: HTMLElement): void {
 }
 
 /**
- * Yerel değişiklikleri buluta taşıyan iki tetikleyici:
- *  - düzenli kontrol: oyuncu uzun süre oynarken ilerleme bulutta da dursun
- *  - uygulama arka plana alınınca ZORUNLU yazma: mobilde WebView bundan sonra
- *    dondurulabilir ya da süreç öldürülebilir; kısıtlamayı atlamak şart.
+ * Two triggers that push local changes to the cloud:
+ *  - a periodic check: keeps progress in the cloud too while the player is
+ *    on a long session
+ *  - a FORCED write when the app is backgrounded: on mobile the WebView may
+ *    be frozen or the process killed right after this, so bypassing the
+ *    throttle is required.
  */
 function installAutoUpload(): void {
   if (autoUploadInstalled) return;
@@ -114,11 +119,11 @@ function installAutoUpload(): void {
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "hidden") flushCloudSave();
   });
-  // iOS/WebView'de sekme kapanışında visibilitychange her zaman gelmez.
+  // On iOS/WebView, visibilitychange doesn't always fire when the tab closes.
   window.addEventListener("pagehide", () => flushCloudSave());
 }
 
-// ---------- çakışma ekranı ----------
+// ---------- conflict screen ----------
 
 function relativeTime(ms: number): string {
   if (!ms) return "zamanı bilinmiyor";
@@ -136,9 +141,10 @@ function summaryLine(s: CloudSummary): string {
 }
 
 /**
- * İki ilerleme arasında seçim yaptırır. Kod kendi karar VERMEZ ve otomatik
- * birleştirme yapmaz (bkz. cloud-save.ts başındaki gerekçe); seçilmeyen taraf
- * olduğu yerde durmaya devam eder, hiçbir şey silinmez.
+ * Lets the player choose between two sets of progress. The code does NOT
+ * decide on its own and does not auto-merge (see the rationale at the top of
+ * cloud-save.ts); whichever side isn't chosen stays exactly where it is,
+ * nothing is deleted.
  */
 function showConflict(root: HTMLElement): void {
   const cloud = conflictSummary();
@@ -178,25 +184,27 @@ function showConflict(root: HTMLElement): void {
   modal.appendChild(localBtn);
 
   overlay.appendChild(modal);
-  // Arka plana dokunarak kapatılamaz: seçim yapılmadan yazma serbest bırakılmaz.
+  // Can't be dismissed by tapping the backdrop: writes stay locked until a
+  // choice is made.
   //
-  // `root`A DEĞİL `document.body`YE eklenir: ui.ts'teki her renderHome/
-  // renderCollection/... ekran geçişi `root.innerHTML = ""` yapar (App
-  // tam yeniden çizim modeli). Senkron cevabı oyuncu çoktan gezinmeye
-  // başladıktan SONRA gelebilir (açılış senkronu bilerek bloklamıyor);
-  // overlay root'a eklenseydi bir sonraki ekran çizimi onu sessizce silerdi
-  // ama cloud-save.ts'teki `blocked` bayrağı temizlenmeden kalırdı — oyuncu
-  // seçim yapma şansı bulamadan bulut senkronu oturum boyunca kilitlenirdi.
-  // body seviyesinde kalmak overlay'in App'in çizim döngüsünden bağımsız,
-  // yalnızca butona basılınca kapanmasını garanti eder.
+  // Appended to `document.body`, NOT to `root`: every screen transition in
+  // ui.ts (renderHome/renderCollection/...) does `root.innerHTML = ""` (App's
+  // full re-render model). The sync response can arrive AFTER the player has
+  // already started navigating (startup sync deliberately doesn't block); if
+  // the overlay were appended to root, the next screen render would silently
+  // wipe it out while the `blocked` flag in cloud-save.ts stayed uncleared —
+  // locking cloud sync for the rest of the session before the player ever
+  // got a chance to choose. Staying at the body level guarantees the overlay
+  // is independent of App's render loop and only closes when its button is
+  // pressed.
   document.body.appendChild(overlay);
 }
 
-// ---------- ayarlar satırı ----------
+// ---------- settings row ----------
 
 /**
- * Ayarlar ekranına eklenen "Hesabı bağla" satırı. ui.ts'in tek yapması gereken
- * bunu listeye eklemek.
+ * The "Link account" row added to the Settings screen. All ui.ts needs to
+ * do is add this to the list.
  */
 export function cloudSettingsRow(root: HTMLElement): HTMLElement {
   const card = el("button", "puzzle-card");
@@ -238,11 +246,12 @@ async function onLinkClick(root: HTMLElement, refresh: () => void): Promise<void
   refresh();
 
   if (res.switched) {
-    // Başka bir hesaba geçildi: cihazdaki rev sayacı ve parmak izi eski hesaba
-    // aitti, artık anlamsız. Sıfırlayıp senkronu baştan çalıştırınca buluttaki
-    // ilerleme ya doğrudan gelir ya da oyuncuya seçtirilir. referral.ts'in
-    // kendi uid önbelleği de aynı sebeple sıfırlanmalı, yoksa davet ödülleri
-    // oturumun geri kalanında eski hesaba yazılmaya devam eder.
+    // Switched to a different account: the device's rev counter and
+    // fingerprint belonged to the old account and are now meaningless.
+    // Resetting them and re-running sync either brings in the cloud
+    // progress directly or lets the player choose. referral.ts's own uid
+    // cache must be reset for the same reason, otherwise referral rewards
+    // keep getting written to the old account for the rest of the session.
     resetCloudSaveForNewAccount();
     resetReferralForNewAccount();
   }

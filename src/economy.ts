@@ -1,15 +1,15 @@
-// Joker (destek ipucu) ekonomisi. Günlük ücretsiz ipucu (bkz. hints.ts) ve
-// reklam izleyerek kazanılan ipucunun (bkz. ads.ts) ÜSTÜNE eklenen kalıcı
-// bir bakiye: oyuncu birkaç joker ile başlar, bekçi kedi açtıkça ödül
-// olarak joker kazanır, isterse Mağaza'dan gerçek parayla joker paketi
-// satın alır (bkz. billing.ts).
+// Joker (support hint) economy. A persistent balance layered ON TOP OF the
+// daily free hint (see hints.ts) and the hint earned by watching an ad (see
+// ads.ts): the player starts with a few jokers, earns more as a reward for
+// unlocking guardian cats, and can optionally buy joker packs with real
+// money from the Shop (see billing.ts).
 
 const BALANCE_KEY = "cengel-jokers";
 const INIT_KEY = "cengel-jokers-init";
 
-/** Oyuncunun hiç oynamadan sahip olduğu bakiye (bkz. cloud-save.ts hasPlayerProgress). */
+/** Balance the player has before playing at all (see cloud-save.ts hasPlayerProgress). */
 export const START_JOKERS = 5;
-/** Her yeni bekçi kedi açıldığında verilen ödül. */
+/** Reward granted each time a new guardian cat is unlocked. */
 export const CAT_UNLOCK_REWARD = 2;
 
 function readBalance(): number {
@@ -24,11 +24,11 @@ function writeBalance(n: number): void {
   try {
     localStorage.setItem(BALANCE_KEY, String(Math.max(0, n)));
   } catch {
-    // depolama yoksa bakiye oturumla sınırlı kalır
+    // if storage is unavailable, the balance stays limited to this session
   }
 }
 
-/** Güncel joker bakiyesi. İlk çağrıda oyuncuya başlangıç jokerini verir. */
+/** Current joker balance. Grants the player their starting jokers on first call. */
 export function jokerBalance(): number {
   try {
     if (localStorage.getItem(INIT_KEY) !== "1") {
@@ -42,7 +42,7 @@ export function jokerBalance(): number {
   return readBalance();
 }
 
-/** Bir joker harcar; bakiye yetersizse false döner ve bakiye değişmez. */
+/** Spends one joker; returns false and leaves the balance unchanged if insufficient. */
 export function spendJoker(): boolean {
   const n = jokerBalance();
   if (n <= 0) return false;
@@ -50,7 +50,7 @@ export function spendJoker(): boolean {
   return true;
 }
 
-/** Bakiyeye joker ekler (ödül veya satın alma); yeni bakiyeyi döndürür. */
+/** Adds jokers to the balance (reward or purchase); returns the new balance. */
 export function grantJokers(amount: number): number {
   const n = jokerBalance() + Math.max(0, Math.floor(amount));
   writeBalance(n);

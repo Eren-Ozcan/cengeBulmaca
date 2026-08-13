@@ -1,12 +1,13 @@
-// Oyun ilk kez açıldığında bir kereye mahsus oynanan rehber.
+// One-time tutorial played the first time the game is launched.
 //
-// Anlatmak yerine oynatır: oyuncu küçük ama gerçek bir çengel bulmacayı
-// (3 kelime, 11 harf) Duman'ın adım adım yönlendirmesiyle çözer. Bu sırada
-// soru hücreleri/oklar, cevap paneli, yazma, kesişen kelimeler ve yön
-// kilidi, Kontrol/İpucu araçları ve yolculuğun amacı tanıtılır.
+// It teaches by playing rather than explaining: the player solves a small
+// but real crossword (3 words, 11 letters) with Duman guiding them step by
+// step. Along the way it introduces clue cells/arrows, the answer panel,
+// typing, intersecting words and direction locking, the Check/Hint tools,
+// and the goal of the journey.
 //
-// Rehber bulmacası "practice" modunda oynanır: ne ilerleme kaydedilir ne de
-// istatistiklere/kedi ödüllerine işlenir (bkz. game.ts GameState.practice).
+// The tutorial puzzle is played in "practice" mode: neither progress nor
+// stats/cat rewards are recorded (see game.ts GameState.practice).
 
 import { isWordSolved, type GameState } from "./game.ts";
 import type { PuzzleDef } from "./types.ts";
@@ -25,20 +26,21 @@ export function markTutorialSeen(): void {
   try {
     localStorage.setItem(KEY, "1");
   } catch {
-    // depolama yoksa bir sonraki açılışta tekrar gösterilir
+    // if storage is unavailable, it's shown again on the next launch
   }
 }
 
 /**
- * Rehberin mini bulmacası (4x5):
+ * The tutorial's mini puzzle (4x5):
  *
  *   [■ ][■ ][■ ][S3↓][■ ]
  *   [S1→][K ][E ][D  ][İ ]
  *   [S2→][S ][A ][A  ][T ]
  *   [■ ][■ ][■ ][L  ][■ ]
  *
- * KEDİ ile DAL (1,3)'te, DAL ile SAAT (2,3)'te kesişir; ikinci kesişim
- * "kutu en yakın soruya kilitlenir" kuralını göstermek için kullanılır.
+ * KEDİ (cat) intersects DAL (branch) at (1,3), and DAL intersects SAAT
+ * (clock) at (2,3); the second intersection is used to demonstrate the
+ * "the cell locks to the nearest clue" rule.
  */
 export const TUTORIAL_PUZZLE: PuzzleDef = {
   id: "tutorial",
@@ -62,25 +64,25 @@ export const TUTORIAL_PUZZLE: PuzzleDef = {
   ],
 };
 
-/** Rehber bulmacasındaki kelimelerin ipucu indeksleri */
+/** Clue indexes of the words in the tutorial puzzle */
 const KEDI = 0;
 const DAL = 1;
 const SAAT = 2;
 
 export interface TutorialStep {
-  /** Duman'ın bu adımda söyledikleri */
+  /** What Duman says at this step */
   text: string;
-  /** Dolu ise adım bu butonla geçilir; boşsa oyuncunun hamlesi beklenir */
+  /** If set, the step is advanced with this button; if empty, waits for the player's move */
   cta?: string;
   /**
-   * Işıldayarak dokunulacak yeri gösteren hücre. Bu adımda klavye kapalıdır
-   * (tek beklenen hamle dokunuş), bu yüzden yazdırma her zaman ayrı bir
-   * adımda gelir.
+   * The cell shown glowing as the spot to tap. The keyboard is disabled
+   * during this step (the only expected move is a tap), so typing always
+   * comes as a separate step.
    */
   target?: { row: number; col: number };
-  /** Modalda Kontrol/İpucu butonlarının örneği gösterilsin mi */
+  /** Whether to show a sample of the Check/Hint buttons in the modal */
   highlightTools?: boolean;
-  /** Hamle bekleyen adımlarda tamamlanma koşulu */
+  /** Completion condition for steps waiting on a move */
   done?: (s: GameState) => boolean;
 }
 

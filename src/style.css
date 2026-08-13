@@ -106,7 +106,7 @@ button {
   margin: 0 auto;
 }
 
-/* ---------- ana menü ---------- */
+/* ---------- home menu ---------- */
 
 .home {
   flex: 1;
@@ -220,7 +220,7 @@ button {
   font-size: 1rem;
 }
 
-/* Duman karşılaması */
+/* Duman's greeting */
 
 .duman-greet {
   display: flex;
@@ -265,12 +265,12 @@ button {
   overflow: hidden;
 }
 
-/* günün bulmacası */
+/* daily puzzle */
 
 .daily-card {
   position: relative;
   overflow: hidden;
-  /* overflow:hidden flex içinde min-height'i sıfırlar; kart ezilmesin */
+  /* overflow:hidden resets min-height inside flex; keeps the card from being squashed */
   flex-shrink: 0;
   display: flex;
   align-items: center;
@@ -285,7 +285,7 @@ button {
   transition: transform 0.12s ease;
 }
 
-/* hero süslemeleri: ışık huzmesi ve dönük mini ızgara deseni */
+/* hero decorations: light beam and a rotated mini grid pattern */
 .daily-card::before {
   content: "";
   position: absolute;
@@ -358,7 +358,7 @@ button {
   color: var(--ok);
 }
 
-/* istatistikler */
+/* stats */
 
 .stat-row {
   display: grid;
@@ -405,7 +405,7 @@ button {
   font-weight: 600;
 }
 
-/* bulmaca listesi */
+/* puzzle list */
 
 .section-title {
   font-size: 1.1rem;
@@ -561,9 +561,9 @@ button {
   background: linear-gradient(90deg, var(--hero-a), var(--hero-b));
 }
 
-/* .daily-card zaten mor gradyanlı olduğundan üstündeki ilerleme çubuğu
-   varsayılan (aynı gradyan) renklerle görünmez olur; beyaz tonlarla
-   kart zeminden ayrışsın diye üzerine yazılır */
+/* .daily-card already has a purple gradient, so a progress bar on top of it
+   would be invisible with the default (same gradient) colors; overridden
+   with white tones so it stands out against the card background */
 .daily-progress {
   background: rgba(255, 255, 255, 0.28);
   max-width: 220px;
@@ -573,7 +573,7 @@ button {
   background: #fff;
 }
 
-/* ---------- oyun ekranı ---------- */
+/* ---------- game screen ---------- */
 
 .game {
   flex: 1;
@@ -634,8 +634,9 @@ button {
   background: var(--accent-soft);
 }
 
-/* Rehberden çıkış. Kontrol/İpucu'yu bastırmasın diye kasten sessiz — çerçevesiz
-   ve soluk — ama her adımda görünür durur, çünkü rehberin tek çıkış kapısı bu. */
+/* Exit from the tutorial. Deliberately quiet — borderless and faded — so it
+   doesn't upstage Check/Hint, but it stays visible on every step since it's
+   the tutorial's only exit door. */
 .tutorial-skip {
   background: none;
   border: none;
@@ -651,11 +652,11 @@ button {
   color: var(--text);
 }
 
-/* ---------- cevap paneli ---------- */
+/* ---------- answer panel ---------- */
 
 .panel {
-  /* ızgara artık kendi kalan alanını dolduruyor (.grid-wrap flex: 1),
-     bu yüzden panel hemen altında sabit küçük bir boşlukla oturur */
+  /* the grid now fills its own remaining space (.grid-wrap flex: 1),
+     so the panel sits right below it with a small fixed gap */
   margin: 10px 12px 0;
   padding: 10px 8px 12px;
   background: linear-gradient(120deg, var(--hero-a), var(--hero-b));
@@ -763,12 +764,12 @@ button {
   text-decoration: line-through;
 }
 
-/* ---------- ızgara ---------- */
+/* ---------- grid ---------- */
 
-/* .grid'in gerçekte ne kadar dikey alanı olduğunu (topbar/panel/klavye
-   yüksekliği cihaza ve içeriğe göre değiştiği için) sabit bir sayıyla
-   tahmin etmek yerine, kalan flex alanının tamamını bu sarmalayıcıya
-   verip ızgarayı içine ortalıyoruz. */
+/* Instead of guessing how much vertical space .grid actually has with a
+   fixed number (topbar/panel/keyboard height varies by device and content),
+   we give this wrapper the entire remaining flex space and center the grid
+   inside it. */
 .grid-wrap {
   flex: 1;
   min-height: 0;
@@ -778,13 +779,12 @@ button {
   padding: 0 12px;
 }
 
-/* Bitişik hücreler, ince çizgiler: basılı bulmaca görünümü.
-   Her .cell'in aspect-ratio:1 olması, satır yüksekliğinin sütun genişliğini
-   otomatik takip ettiği anlamına gelir — yani ızgaranın toplam yüksekliği
-   genişliğinden türer. Bu yüzden tek yapılması gereken, .grid-wrap'teki
-   gerçek boş alana (hem genişlik hem yükseklik) göre doğru genişliği
-   JS'te hesaplayıp vermek (bkz. App.sizeGrid); max-width burada sadece
-   güvenlik payı. */
+/* Adjacent cells, thin lines: the look of a printed crossword.
+   Every .cell having aspect-ratio:1 means row height automatically follows
+   column width — so the grid's total height derives from its width. That
+   means the only thing that needs to happen is computing the right width in
+   JS based on the actual free space (both width and height) in .grid-wrap
+   (see App.sizeGrid); max-width here is just a safety margin. */
 .grid {
   display: grid;
   grid-template-columns: repeat(var(--cols), 1fr);
@@ -810,9 +810,9 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* cqw: .grid'in kendi genişliğinin yüzdesi, viewport'un değil —
-     ızgara artık dikey alana göre büyüyebildiği için harf boyutu da
-     gerçek hücre boyutunu takip etsin diye vw yerine bunu kullanıyoruz. */
+  /* cqw: a percentage of .grid's own width, not the viewport's —
+     since the grid can now grow based on vertical space, we use this
+     instead of vw so the letter size tracks the actual cell size. */
   font-size: clamp(16px, 9cqw, 38px);
   font-weight: 900;
   cursor: pointer;
@@ -830,7 +830,7 @@ button {
   z-index: 1;
 }
 
-/* seçili hücrede imleci andıran kısa çizgi */
+/* short line resembling a cursor in the selected cell */
 .letter-cell.selected::after {
   content: "";
   position: absolute;
@@ -844,13 +844,13 @@ button {
   opacity: 0.85;
 }
 
-/* kilitli (doğru tamamlanmış) hücrede imleç çizgisi gösterilmez: oraya
-   yazılamıyor, imleç bir sonraki boş kutuya atlıyor */
+/* the cursor line isn't shown on a locked (correctly completed) cell:
+   it can't be typed into, the cursor skips ahead to the next empty cell */
 .letter-cell.word-done.selected::after {
   display: none;
 }
 
-/* doğru tamamlanan kelimeler kalıcı yeşil kalır */
+/* correctly completed words stay permanently green */
 .letter-cell.word-done {
   background: color-mix(in srgb, var(--ok) 15%, var(--tile));
   color: color-mix(in srgb, var(--ok) 80%, var(--ink));
@@ -931,7 +931,7 @@ button {
 }
 
 .clue-part {
-  /* yükseklik içeriğe göre paylaşılır: uzun soru daha çok yer alır */
+  /* height is distributed based on content: a longer clue takes up more space */
   flex: 1 1 auto;
   display: flex;
   align-items: center;
@@ -939,7 +939,7 @@ button {
   position: relative;
   padding: 1px 3px;
   min-height: 0;
-  /* punto sığdırma sonrası olası kalıntı taşmayı hücre içinde tut */
+  /* keep any residual overflow after font fitting contained within the cell */
   overflow: hidden;
 }
 
@@ -959,8 +959,8 @@ button {
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 5;
-  /* kelimeler bölünmez; sığmayan kelime alt satıra iner,
-     punto sığdırıcı en uzun kelimeye göre küçültür */
+  /* words aren't split; a word that doesn't fit wraps to the next line,
+     and the font-fitting logic shrinks based on the longest word */
   overflow-wrap: normal;
   word-break: keep-all;
   font-weight: 600;
@@ -978,8 +978,8 @@ button {
   font-size: clamp(6.5px, 3.4cqw, 15px);
 }
 
-/* Ok, sorunun değil cevabın ilk hücresinde durur: girdiği kenarda,
-   köşede küçük bir işaret (basılı çengel bulmaca düzeni). */
+/* The arrow sits on the answer's first cell, not the clue's: a small mark
+   in the corner, on the edge it enters from (classic crossword layout). */
 .cell-arrow {
   position: absolute;
   width: clamp(8px, 2.2vw, 11px);
@@ -1001,28 +1001,28 @@ button {
   display: block;
 }
 
-/* soldan giren düz ok */
+/* straight arrow entering from the left */
 .cell-arrow.arrow-right {
   left: 2px;
   top: 50%;
   transform: translateY(-50%);
 }
 
-/* üstten giren düz ok */
+/* straight arrow entering from the top */
 .cell-arrow.arrow-down {
   top: 2px;
   left: 50%;
   transform: translateX(-50%);
 }
 
-/* dirsekli oklar sol üst köşeye oturur */
+/* elbow arrows sit in the top-left corner */
 .cell-arrow.arrow-right-down,
 .cell-arrow.arrow-down-right {
   left: 2px;
   top: 2px;
 }
 
-/* ---------- klavye ---------- */
+/* ---------- keyboard ---------- */
 
 .keyboard {
   padding: 8px 4px calc(10px + env(safe-area-inset-bottom));
@@ -1065,7 +1065,7 @@ button {
   color: var(--accent);
 }
 
-/* ---------- bildirim & modal ---------- */
+/* ---------- toast & modal ---------- */
 
 .toast {
   position: fixed;
@@ -1136,8 +1136,9 @@ button {
   padding: 30px 34px;
   text-align: center;
   max-width: 320px;
-  /* alçak ekranda (ör. yatay tutuş) taşan modalın butonu erişilemez
-     kalmasın: kart ekrana sığar, içerik gerekirse kendi içinde kayar */
+  /* on a short screen (e.g. landscape orientation), keep an overflowing
+     modal's button from becoming unreachable: the card fits on screen and
+     its content scrolls internally if needed */
   max-height: calc(100vh - 24px);
   overflow-y: auto;
   display: flex;
@@ -1184,7 +1185,7 @@ button {
   font-size: 0.95rem;
 }
 
-/* tamamlama modalında "sıradaki kediye N bulmaca kaldı" satırı */
+/* the "N puzzles until the next cat" line in the completion modal */
 .modal-cat-next {
   display: flex;
   align-items: center;
@@ -1222,7 +1223,7 @@ button {
   margin-top: 4px;
 }
 
-/* ---------- kedi avatarları (genel) ---------- */
+/* ---------- cat avatars (general) ---------- */
 
 .cat-avatar-wrap {
   color: var(--ink-soft);
@@ -1242,7 +1243,7 @@ button {
   display: block;
 }
 
-/* ---------- kedi idle animasyonu (detay modalı) ---------- */
+/* ---------- cat idle animation (detail modal) ---------- */
 
 @keyframes cat-idle-breathe {
   0%,
@@ -1275,7 +1276,7 @@ button {
   height: 162px;
 }
 
-/* ---------- açılış hikayesi ---------- */
+/* ---------- opening story ---------- */
 
 .intro-screen {
   align-items: center;
@@ -1315,7 +1316,7 @@ button {
   margin-top: 16px;
 }
 
-/* ---------- kapanış hikayesi (tüm kediler toplanınca) ---------- */
+/* ---------- closing story (once all cats are collected) ---------- */
 
 .epilogue-family {
   display: flex;
@@ -1333,7 +1334,7 @@ button {
   filter: drop-shadow(0 10px 22px rgba(28, 25, 38, 0.18));
 }
 
-/* ---------- kedi koleksiyonu teaser (ana menü) ---------- */
+/* ---------- cat collection teaser (home menu) ---------- */
 
 .cats-teaser {
   display: flex;
@@ -1385,9 +1386,9 @@ button {
   margin-top: 2px;
 }
 
-/* ---------- kedi rozeti (bulmaca kartı) ---------- */
+/* ---------- cat badge (puzzle card) ---------- */
 
-/* ---------- kedi koleksiyonu ekranı ---------- */
+/* ---------- cat collection screen ---------- */
 
 .cats-screen {
   gap: 14px;
@@ -1455,7 +1456,7 @@ button {
   color: var(--accent);
 }
 
-/* ---------- Anadolu haritası ---------- */
+/* ---------- Anatolia map ---------- */
 
 .map-screen {
   gap: 14px;
@@ -1527,7 +1528,7 @@ button {
   opacity: 0.55;
 }
 
-/* ---------- kedi açılma kutlaması (bulmaca bitince) ---------- */
+/* ---------- cat unlock celebration (on puzzle completion) ---------- */
 
 .cat-reveal-tag {
   font-size: 0.72rem;
@@ -1564,7 +1565,7 @@ button {
   color: var(--gold);
 }
 
-/* ---------- alt gezinme çubuğu ---------- */
+/* ---------- bottom nav bar ---------- */
 
 .bottom-nav {
   flex-shrink: 0;
@@ -1603,7 +1604,7 @@ button {
   font-weight: 800;
 }
 
-/* ---------- joker rozeti (üst bar) ---------- */
+/* ---------- joker badge (top bar) ---------- */
 
 .joker-pill {
   display: flex;
@@ -1636,7 +1637,7 @@ button {
   font-weight: 800;
 }
 
-/* ---------- mağaza ekranı ---------- */
+/* ---------- shop screen ---------- */
 
 .shop-screen {
   gap: 14px;
@@ -1736,10 +1737,11 @@ button {
   border-color: var(--gold);
 }
 
-/* ui.ts buyRemoveAds() bu sınıfı "invite-card remove-ads-card" üstüne ekler
-   (shop-pack-card DEĞİL) — bileşik seçici olsaydı o kartta hiç eşleşmez,
-   satın alma sürerken düğme tıklanabilir kalır ve hızlı çift dokunuş iki eş
-   zamanlı satın alma isteği tetikleyebilirdi. */
+/* ui.ts buyRemoveAds() adds this class on top of "invite-card remove-ads-card"
+   (NOT shop-pack-card) — if this were a compound selector it would never
+   match that card, the button would stay clickable while the purchase is in
+   progress, and a fast double-tap could trigger two concurrent purchase
+   requests. */
 .shop-pack-pending {
   opacity: 0.55;
   pointer-events: none;
@@ -1777,7 +1779,7 @@ button {
   padding: 5px 14px;
 }
 
-/* ---------- ayarlar ekranı ---------- */
+/* ---------- settings screen ---------- */
 
 .settings-screen {
   gap: 14px;
@@ -1826,7 +1828,7 @@ button {
   background: color-mix(in srgb, var(--ok) 16%, transparent);
 }
 
-/* ---------- açılış ekranı (splash) ---------- */
+/* ---------- splash screen ---------- */
 
 .splash-screen {
   flex: 1;
@@ -1883,7 +1885,7 @@ button {
   opacity: 0.85;
 }
 
-/* ---------- rehber kartı (tutorial) ---------- */
+/* ---------- tutorial coach card ---------- */
 
 .tutorial-coach {
   display: flex;
@@ -1916,7 +1918,7 @@ button {
   font-weight: 600;
 }
 
-/* alçak ekranda rehber modalı kısalsın: kocaman avatar yerini metne bırakır */
+/* shorten the tutorial modal on a short screen: the big avatar makes room for the text */
 @media (max-height: 620px) {
   .tut-modal {
     padding: 18px 22px;
@@ -1928,7 +1930,7 @@ button {
   }
 }
 
-/* rehberde "buraya dokun" hedefi: nabız gibi atan altın halka */
+/* the tutorial's "tap here" target: a pulsing gold ring */
 .tut-target {
   position: relative;
   z-index: 2;
@@ -1949,7 +1951,7 @@ button {
   }
 }
 
-/* rehber ekranında ızgara ve balon aynı anda sığsın diye biraz daralt */
+/* narrow this a bit so the grid and the bubble both fit on the tutorial screen at once */
 .tutorial-game .tutorial-coach {
   margin-bottom: 2px;
 }
@@ -1958,7 +1960,7 @@ button {
   font-size: 0.8rem;
 }
 
-/* anlatım adımının bloklayıcı modalı */
+/* the blocking modal for a narration step */
 .tut-modal .cat-avatar-wrap {
   margin: 0 auto 6px;
 }
@@ -1978,10 +1980,10 @@ button {
   margin-bottom: 6px;
 }
 
-/* ---------- Gazete (klasik) tema ----------
-   Basılı gazete bulmacası görünümü: kağıt zemin, beyaz hücreler,
-   ince koyu çizgiler, gri soru hücreleri, serif tipografi, kırmızı vurgu.
-   Karanlık mod tercihinden bağımsız olarak hep "kağıt" kalır. */
+/* ---------- Newspaper (classic) theme ----------
+   The look of a printed newspaper crossword: paper background, white cells,
+   thin dark lines, gray clue cells, serif typography, red accent.
+   Always stays "paper", independent of the dark mode preference. */
 
 :root[data-theme="gazete"] {
   --bg: #f1ede1;
@@ -2037,7 +2039,7 @@ button {
   color: #17150e;
 }
 
-/* ızgara: bitişik hücreler, ince koyu çizgiler, köşesiz */
+/* grid: adjacent cells, thin dark lines, no rounded corners */
 :root[data-theme="gazete"] .grid {
   gap: 1px;
   padding: 2px;
@@ -2096,7 +2098,7 @@ button {
   opacity: 1;
 }
 
-/* klavye ve butonlar: düz, mürekkep çizgili */
+/* keyboard and buttons: flat, with ink-like outlines */
 :root[data-theme="gazete"] .kb-key {
   border-radius: 5px;
   border: 1px solid #c9c5b6;

@@ -83,7 +83,7 @@ import {
 import { claimFirstPuzzleReferralReward, shareInvite } from "./referral.ts";
 import { cloudSettingsRow } from "./cloud-ui.ts";
 
-// Ok ikonları: klasik çengel bulmaca okları (SVG, currentColor)
+// Arrow icons: classic crossword-style arrows (SVG, currentColor)
 const ARROW_SVG: Record<ArrowDir, string> = {
   right: `<svg viewBox="0 0 10 10"><path d="M2.5 1.5 L8 5 L2.5 8.5 Z"/></svg>`,
   down: `<svg viewBox="0 0 10 10"><path d="M1.5 2.5 L5 8 L8.5 2.5 Z"/></svg>`,
@@ -106,14 +106,14 @@ const SPLASH_FLAVORS = [
 const SPLASH_DURATION_MS = 1700;
 const SPLASH_FLAVOR_INTERVAL_MS = 500;
 
-/** Bulmaca listesi bu boyutta bölümlere ayrılır (ör. 1-25, 26-50, ...) —
- * yüzlerce bulmaca olduğunda ana ekranda tek uzun bir liste yerine kısa
- * bir bölüm listesi gösterilir, oyuncu her seferinde kaldığı yere kadar
- * kaydırmak zorunda kalmaz. */
+/** The puzzle list is split into chapters of this size (e.g. 1-25, 26-50, ...) —
+ * with hundreds of puzzles, the home screen shows a short chapter list
+ * instead of one long list, so the player doesn't have to scroll all the
+ * way to where they left off every time. */
 const CHAPTER_SIZE = 25;
 
 export interface AppOptions {
-  /** Testlerde zaman aşımına dayalı açılış ekranını atlamak için. */
+  /** Skips the timeout-based splash screen in tests. */
   skipSplash?: boolean;
 }
 
@@ -122,27 +122,27 @@ export class App {
   private puzzles: PuzzleDef[];
   private options: AppOptions;
   private state: GameState | null = null;
-  /** Son harf girilen hücre; bir sonraki çizimde pop animasyonu alır */
+  /** Last cell where a letter was entered; gets a pop animation on the next render */
   private popIdx: number | null = null;
-  /** Az önce doğru tamamlanan kelime; hücreleri yeşil parlar */
+  /** Word just completed correctly; its cells flash green */
   private flashClue: number | null = null;
-  /** Hücreye sığdırılmış soru puntoları; anahtar "hücre:ipucu" */
+  /** Clue font sizes fitted to their cells; key is "cell:clue" */
   private clueFontCache = new Map<string, string>();
-  /** Önbelleğin geçerli olduğu ızgara genişliği */
+  /** Grid width the cache is valid for */
   private clueFontWidth = 0;
-  /** Bu hamleyle yeni açılan kedi varsa, kutlama ekranında gösterilir */
+  /** Cat just unlocked by this move, if any; shown on the celebration screen */
   private justUnlockedCat: CatDef | null = null;
-  /** Bu hamleyle son bekçi kedi de açılıp yolculuk tamamlandıysa true */
+  /** True if this move unlocked the last guardian cat and completed the journey */
   private journeyJustCompleted = false;
-  /** Rehber oynanıyorsa aktif adımın indeksi, aksi halde null */
+  /** Index of the active tutorial step if the tutorial is running, otherwise null */
   private tutorialStep: number | null = null;
-  /** Rehber bitince çalışacak dönüş işlevi */
+  /** Callback to run when the tutorial finishes */
   private tutorialDone: (() => void) | null = null;
   /**
-   * O an çizili olan üst-seviye ekran. Yalnızca Android geri tuşunun nereye
-   * döneceğini bilmesi için tutuluyor (bkz. handleBack); alt gezinme çubuğunun
-   * "aktif" sekmesinden okunamıyor, çünkü bölüm listesi de kendini "home"
-   * sekmesi olarak işaretliyor.
+   * The currently rendered top-level screen. Kept only so the Android back
+   * button knows where to return to (see handleBack); it can't be read from
+   * the bottom nav's "active" tab, because the chapter list also marks
+   * itself as the "home" tab.
    */
   private screen:
     | "home"
@@ -153,12 +153,12 @@ export class App {
     | "settings"
     | "game" = "home";
   /**
-   * Ana sayfada geri tuşuna basıldığında "çıkmak için tekrar bas" uyarısının
-   * geçerli olduğu ana kadar (epoch ms). Kazara tek dokunuşla oyundan
-   * atılmayı önler.
+   * Epoch ms until which the "press back again to exit" warning is armed
+   * when the back button is pressed on the home screen. Prevents accidentally
+   * exiting the game with a single tap.
    */
   private exitArmedUntil = 0;
-  /** Mağaza fiyatları bir kez çekildi mi (bkz. renderShop) */
+  /** Whether store prices have been fetched once (see renderShop) */
   private storePricesLoaded = false;
 
   constructor(root: HTMLElement, puzzles: PuzzleDef[], options: AppOptions = {}) {
@@ -168,8 +168,8 @@ export class App {
   }
 
   start(): void {
-    // web fontu sonradan yüklenince veya pencere boyutu değişince
-    // ölçüler kayar; puntoları yeniden sığdır
+    // Measurements shift once the web font loads later or the window is
+    // resized; refit the font sizes
     document.fonts?.ready.then(() => this.refitClueTexts());
     window.addEventListener("resize", () => this.refitClueTexts());
 
@@ -188,18 +188,18 @@ export class App {
   }
 
   /**
-   * Hikayeden sonraki ilk durak: oyunu ilk kez açan oyuncu önce rehberi
-   * oynar (bir kereye mahsus, atlanamaz), sonrakiler doğrudan ana menüye
-   * girer.
+   * First stop after the story: a player opening the game for the first time
+   * plays the tutorial first (one-time, cannot be skipped), everyone else
+   * goes straight to the home menu.
    */
   private enterAfterStory(): void {
     if (tutorialSeen()) this.renderHome();
     else this.startTutorial(() => this.renderHome());
   }
 
-  // ---------- açılış ekranı (splash) ----------
+  // ---------- splash screen ----------
 
-  /** Kısa, sabit süreli marka açılışı; gerçek SDK başlatmalarıyla (initAds vb.) paralel gösterilir. */
+  /** Short, fixed-duration brand splash; shown in parallel with real SDK initializations (initAds etc.). */
   private renderSplash(done: () => void): void {
     this.root.innerHTML = "";
     const wrap = el("div", "splash-screen");
@@ -239,9 +239,9 @@ export class App {
     }, SPLASH_DURATION_MS);
   }
 
-  // ---------- açılış hikayesi ----------
+  // ---------- opening story ----------
 
-  /** Duman'ın hikayesini tam ekran anlatır; devam edince returnTo çalışır. */
+  /** Tells Duman's story full-screen; calls returnTo when the player continues. */
   private renderIntro(returnTo: () => void): void {
     this.root.innerHTML = "";
     const wrap = el("div", "home intro-screen");
@@ -267,7 +267,7 @@ export class App {
     this.root.appendChild(wrap);
   }
 
-  /** Tüm bekçi kediler toplanınca gösterilen kapanış hikayesi; devam edince returnTo çalışır. */
+  /** Closing story shown once all guardian cats are collected; calls returnTo when the player continues. */
   private renderEpilogue(returnTo: () => void): void {
     this.root.innerHTML = "";
     const wrap = el("div", "home intro-screen epilogue-screen");
@@ -300,9 +300,9 @@ export class App {
     this.root.appendChild(wrap);
   }
 
-  // ---------- alt gezinme & joker rozeti ----------
+  // ---------- bottom nav & joker badge ----------
 
-  /** 4 üst-seviye sekme arasında gezinme çubuğu; oyun/harita/hikaye ekranlarında gösterilmez. */
+  /** Nav bar between the 4 top-level tabs; not shown on the game/map/story screens. */
   private renderBottomNav(active: "home" | "cats" | "shop" | "settings"): HTMLElement {
     const nav = el("nav", "bottom-nav");
     const tabs: { key: typeof active; icon: string; label: string; go: () => void }[] = [
@@ -324,7 +324,7 @@ export class App {
     return nav;
   }
 
-  /** Joker bakiyesini gösteren rozet; her üst-seviye ekranda görünür, dokununca Mağaza açılır. */
+  /** Badge showing the joker balance; visible on every top-level screen, opens the Shop on tap. */
   private jokerPill(): HTMLElement {
     const pill = el("button", "joker-pill");
     pill.appendChild(el("span", "joker-pill-icon", "🃏"));
@@ -335,14 +335,14 @@ export class App {
     return pill;
   }
 
-  // ---------- ana menü ----------
+  // ---------- home menu ----------
 
   private renderHome(): void {
     this.screen = "home";
     this.root.innerHTML = "";
     const home = el("div", "home");
 
-    // üst bar: logo + joker rozeti + seri rozeti
+    // top bar: logo + joker badge + streak badge
     const top = el("div", "home-top");
     const brand = el("div", "brand");
     brand.appendChild(el("span", "brand-mark", "Ç"));
@@ -370,7 +370,7 @@ export class App {
     top.appendChild(right);
     home.appendChild(top);
 
-    // Duman karşılaması: saatlik selamlama + yolculuk durumu
+    // Duman's greeting: time-of-day salutation + journey status
     const solvedForGreet = solvedCount();
     const greet = el("button", "duman-greet");
     const greetAvatar = el("div", "cat-avatar-wrap duman-greet-avatar");
@@ -392,7 +392,7 @@ export class App {
     greet.addEventListener("click", () => this.renderCollection());
     home.appendChild(greet);
 
-    // günün bulmacası kartı
+    // daily puzzle card
     const di = dailyIndex(this.puzzles.length);
     const daily = this.puzzles[di];
     const dailyDone = isSolvedPuzzle(daily.id);
@@ -437,14 +437,14 @@ export class App {
     hero.addEventListener("click", () => this.openPuzzle(daily));
     home.appendChild(hero);
 
-    // istatistik satırı
+    // stats row
     const stats = loadStats();
     const statRow = el("div", "stat-row");
     statRow.appendChild(statCard("🔥", String(streak), "Günlük seri"));
     statRow.appendChild(statCard("✅", String(stats.solved.length), "Çözülen"));
     home.appendChild(statRow);
 
-    // kedi koleksiyonu teaser kartı
+    // cat collection teaser card
     const solved = solvedForGreet;
     const collected = CATS.filter((c) => catUnlocked(c, solved)).length;
     const catsCard = el("button", "cats-teaser");
@@ -471,7 +471,7 @@ export class App {
     catsCard.addEventListener("click", () => this.renderCollection());
     home.appendChild(catsCard);
 
-    // bulmaca bölümleri
+    // puzzle chapters
     home.appendChild(el("div", "section-title", "Bulmacalar"));
     const chapterList = el("div", "puzzle-list");
     const chapterCount = Math.ceil(this.puzzles.length / CHAPTER_SIZE);
@@ -528,27 +528,28 @@ export class App {
     this.root.appendChild(this.renderBottomNav("home"));
   }
 
-  /** Çözülmemiş ilk bulmacanın global indeksi (hepsi çözüldüyse puzzles.length). */
+  /** Global index of the first unsolved puzzle (puzzles.length if all are solved). */
   private firstUnsolvedIndex(): number {
     const idx = this.puzzles.findIndex((p) => !isSolvedPuzzle(p.id));
     return idx === -1 ? this.puzzles.length : idx;
   }
 
   /**
-   * Bulmacalar sırayla açılır: bir önceki çözülmeden bu bulmaca oynanamaz.
-   * Günün Bulmacası kartı (renderHome) bu kısıtlamadan bilerek muaf tutulur.
+   * Puzzles unlock sequentially: this puzzle can't be played until the
+   * previous one is solved. The Daily Puzzle card (renderHome) is
+   * deliberately exempt from this restriction.
    */
   private isLocked(globalIndex: number): boolean {
     return globalIndex > this.firstUnsolvedIndex();
   }
 
-  /** Henüz tamamlanmamış bulmacası olan ilk bölümün indeksi (hepsi bittiyse son bölüm). */
+  /** Index of the first chapter that still has an unsolved puzzle (last chapter if all are done). */
   private nextChapterIndex(): number {
     const idx = Math.min(this.firstUnsolvedIndex(), this.puzzles.length - 1);
     return Math.floor(idx / CHAPTER_SIZE);
   }
 
-  /** Bir bölümdeki bulmacaları (mevcut kart tasarımıyla) listeler. */
+  /** Lists the puzzles in a chapter (using the existing card design). */
   private renderChapter(chapterIndex: number): void {
     this.screen = "chapter";
     this.root.innerHTML = "";
@@ -615,7 +616,7 @@ export class App {
     this.root.appendChild(this.renderBottomNav("home"));
   }
 
-  // ---------- kedi koleksiyonu ----------
+  // ---------- cat collection ----------
 
   private renderCollection(): void {
     this.screen = "cats";
@@ -672,10 +673,10 @@ export class App {
     this.root.appendChild(this.renderBottomNav("cats"));
   }
 
-  /** Duman'ın Anadolu'daki yolculuğunu bir haritada gösterir: her bölge
-   * bekçi kedinin yaklaşık konumunda bir pim olarak durur, açık/kilitli
-   * durumu renkle belli olur. Harita stilize edilmiştir, coğrafi olarak
-   * kesin değildir; dokununca bölge adı ve durumu görünür. */
+  /** Shows Duman's journey across Anatolia on a map: each region's guardian
+   * cat sits as a pin at its approximate location, colored by
+   * unlocked/locked status. The map is stylized, not geographically
+   * precise; tapping a pin shows the region name and status. */
   private renderMap(): void {
     this.screen = "map";
     this.root.innerHTML = "";
@@ -755,7 +756,7 @@ export class App {
     this.root.appendChild(overlay);
   }
 
-  // ---------- mağaza ----------
+  // ---------- shop ----------
 
   private renderShop(): void {
     this.screen = "shop";
@@ -852,9 +853,9 @@ export class App {
     this.root.appendChild(wrap);
     this.root.appendChild(this.renderBottomNav("shop"));
 
-    // Fiyatlar oyuncunun kendi para biriminde olmalı. Mağaza cevabı BEKLENMEZ —
-    // ekran yedek etiketlerle hemen açılır, fiyatlar gelince kullanıcı hâlâ
-    // mağazadaysa bir kez tazelenir.
+    // Prices should be in the player's own currency. The store response is
+    // NOT awaited — the screen opens immediately with fallback labels, and
+    // refreshes once when prices arrive if the user is still in the shop.
     if (!this.storePricesLoaded) {
       void loadStorePrices().then(() => {
         this.storePricesLoaded = true;
@@ -888,7 +889,7 @@ export class App {
     }
   }
 
-  // ---------- ayarlar ----------
+  // ---------- settings ----------
 
   private renderSettings(): void {
     this.screen = "settings";
@@ -920,7 +921,7 @@ export class App {
     );
     wrap.appendChild(list);
 
-    // Bulut kaydı satırı; tüm mantık cloud-ui.ts'te (bkz. o dosyanın başı).
+    // Cloud save row; all logic lives in cloud-ui.ts (see the top of that file).
     wrap.appendChild(cloudSettingsRow(this.root));
 
     const storyBtn = el("button", "puzzle-card");
@@ -958,11 +959,11 @@ export class App {
 
   private openPuzzle(p: PuzzleDef): void {
     if (!isLoaded(p)) {
-      // İçerik henüz arka planda indirilmedi (bkz. puzzles/index.ts
-      // warmPuzzles); indirilince aynı bulmacayı tekrar açmayı dener.
-      // Reddedilirse (ağ hatası) dokunuş sessizce hiçbir şey yapmasın diye
-      // oyuncuya haber verilir; puzzles/index.ts fill() artık başarısız
-      // sözü önbellekte tutmuyor, bir sonraki dokunuş yeniden dener.
+      // Content hasn't been downloaded in the background yet (see
+      // puzzles/index.ts warmPuzzles); retries opening the same puzzle once
+      // it's downloaded. If it's rejected (network error) the player is
+      // notified so the tap doesn't silently do nothing; puzzles/index.ts
+      // fill() no longer caches the failed promise, so the next tap retries.
       void ensureLoaded(p)
         .then(() => this.openPuzzle(p))
         .catch(() => toast(this.root, "Bulmaca indirilemedi, bağlantını kontrol edip tekrar dene"));
@@ -971,8 +972,9 @@ export class App {
     this.state = newGame(p);
     this.tutorialStep = null;
     this.clueFontCache.clear();
-    // kaldığı ipucu/hücre kayıttan geldiyse onu korur; yoksa (ör. ilk açılış)
-    // oyuncu hemen yazmaya başlayabilsin diye ilk boş soruyu seçer
+    // Keeps the resumed clue/cell if it came from saved progress; otherwise
+    // (e.g. first open) selects the first empty clue so the player can start
+    // typing right away
     if (!this.state.completed && this.state.activeClue === null) {
       const first = this.findClueWithEmptyCell(0);
       this.activateClue(first ?? 0);
@@ -980,7 +982,7 @@ export class App {
     this.renderGame();
   }
 
-  /** İpucunu aktifleştirir, imleci kelimenin ilk boş hücresine koyar */
+  /** Activates the clue, placing the cursor on the word's first empty cell */
   private activateClue(ci: number): void {
     const s = this.state!;
     s.activeClue = ci;
@@ -993,7 +995,7 @@ export class App {
     s.selCol = target.col;
   }
 
-  /** from'dan başlayarak (kendisi dahil) boş hücresi olan ilk ipucu */
+  /** First clue (starting from and including `from`) that has an empty cell */
   private findClueWithEmptyCell(from: number): number | null {
     const s = this.state!;
     const n = s.puzzle.clues.length;
@@ -1007,7 +1009,7 @@ export class App {
     return null;
   }
 
-  /** Aktif ipucundan ileri/geri sıradaki ipucuya geçer */
+  /** Moves from the active clue to the next/previous clue */
   private stepClue(dir: 1 | -1): void {
     const s = this.state!;
     const n = s.puzzle.clues.length;
@@ -1016,18 +1018,18 @@ export class App {
     this.refresh();
   }
 
-  /** Kelimenin tüm hücreleri doğru harfle dolu mu? */
+  /** Are all of the word's cells filled with the correct letter? */
   private isWordCorrect(ci: number): boolean {
     return isWordSolved(this.state!, ci);
   }
 
   /**
-   * Bir hamleyi çalıştırır, bulmaca bu hamleyle tamamlandıysa kutlama
-   * efektini tetikler ve ekranı tazeler. Tamamlanmadıysa (ör. handleType'ın
-   * kelime-doğru-oldu flash'ı gibi) `onNotCompleted` çağrılır — win/kayıp
-   * dalları TEK yerde tutulur ki ileride bu sıraya (ödül/kedi/referral)
-   * eklenecek bir değişiklik iki kopyadan birine uygulanıp diğerinde
-   * unutulmasın.
+   * Runs a move; if the puzzle got completed by this move, triggers the
+   * celebration effect and refreshes the screen. If it wasn't completed
+   * (e.g. handleType's word-correct flash), calls `onNotCompleted` —
+   * the win/no-win branches are kept in ONE place so a future change to
+   * this sequence (reward/cat/referral) doesn't get applied to one copy
+   * and forgotten in the other.
    */
   private withWinCheck(action: () => void, onNotCompleted?: () => void): void {
     const s = this.state!;
@@ -1047,9 +1049,9 @@ export class App {
   }
 
   /**
-   * Bu tamamlamayla yeni bir kedi eşiği aşıldıysa kutlamayı ve yolculuğun
-   * bitip bitmediğini kaydeder. Daha önce çözülmüş bir bulmacayı tekrar
-   * çözmek sayacı artırmadığı için kedi açmaz.
+   * Records the celebration and whether the journey is complete if this
+   * completion crossed a new cat threshold. Re-solving an already-solved
+   * puzzle doesn't increment the counter, so it doesn't unlock a cat.
    */
   private registerCatUnlock(alreadySolved: boolean): void {
     const solved = solvedCount();
@@ -1065,16 +1067,16 @@ export class App {
   }
 
   /**
-   * Harf girişi: kelime bu harfle doğru tamamlandıysa kısa bir
-   * yeşil parlamayla kutlar ve sıradaki boş soruya geçer.
+   * Letter input: if this letter completes the word correctly, celebrates
+   * with a brief green flash and moves to the next empty clue.
    */
   private handleType(key: string): void {
     const s = this.state!;
     this.markPop();
     const prevClue = s.activeClue;
     if (s.practice) {
-      // rehber: kutlama/kedi/ödül akışı yok, sıradaki soruya da rehber
-      // kendi adımıyla geçirir
+      // tutorial: no celebration/cat/reward flow, and the tutorial advances
+      // to the next clue through its own step logic
       typeLetter(s, key);
       if (prevClue !== null && this.isWordCorrect(prevClue)) {
         playCorrect();
@@ -1096,7 +1098,7 @@ export class App {
     );
   }
 
-  // ---------- oyun ekranı ----------
+  // ---------- game screen ----------
 
   private renderGame(): void {
     const s = this.state!;
@@ -1146,13 +1148,14 @@ export class App {
         : jokers > 0
           ? "Bir joker harcayarak seçili hücrenin harfini aç"
           : "Ücretsiz ipucu ve joker bitti — reklam izleyerek bir ipucu daha aç";
-    // ipucu ancak gerçekten bir harf açtıysa ücretlendirilir: seçili hücre
-    // zaten doğruysa (ör. kilitli kesişim harfi) hak/joker yanmaz
+    // a hint is only charged if it actually revealed a letter: if the
+    // selected cell is already correct (e.g. a locked intersection letter),
+    // no free hint/joker is spent
     const tryReveal = (charge: () => void): void => {
       let revealed = false;
       this.withWinCheck(() => {
         revealed = revealLetter(s);
-        if (revealed) charge(); // ücret, ekran tazelenmeden önce düşülür
+        if (revealed) charge(); // charge is deducted before the screen refreshes
       });
       if (!revealed) toast(this.root, "Bu soruda açılacak harf kalmadı");
     };
@@ -1170,7 +1173,7 @@ export class App {
       showRewardedHintAd()
         .catch(() => false)
         .then((earned) => {
-          if (this.state !== s) return; // oyuncu bu sırada başka yere geçti
+          if (this.state !== s) return; // player navigated away in the meantime
           if (earned) {
             tryReveal(() => {});
           } else {
@@ -1202,12 +1205,13 @@ export class App {
     if (s.completed) this.showCompleted();
   }
 
-  // ---------- rehber (tutorial) ----------
+  // ---------- tutorial ----------
 
   /**
-   * Rehberi başlatır: mini bulmaca "practice" modunda kurulur (kayıt ve
-   * istatistik dokunulmaz). Üst bardaki "Geç" dışında çıkış yoktur, böylece
-   * oyuncu yanlışlıkla yarıda bırakmaz.
+   * Starts the tutorial: the mini puzzle is set up in "practice" mode (save
+   * data and stats are untouched). There's no exit other than the "Skip"
+   * button in the top bar, so the player can't accidentally abandon it
+   * halfway.
    */
   private startTutorial(done: () => void): void {
     this.state = newGame(TUTORIAL_PUZZLE, { practice: true });
@@ -1217,7 +1221,7 @@ export class App {
     this.renderTutorial();
   }
 
-  /** Rehberi kalıcı olarak biter sayar ve çağırana döner. */
+  /** Permanently marks the tutorial as finished and returns to the caller. */
   private finishTutorial(): void {
     const done = this.tutorialDone ?? (() => this.renderHome());
     markTutorialSeen();
@@ -1228,13 +1232,13 @@ export class App {
     done();
   }
 
-  /** Aktif ekranı (oyun ya da rehber) yeniden çizer. */
+  /** Re-renders the active screen (game or tutorial). */
   private refresh(): void {
     if (this.tutorialStep !== null) this.renderTutorial();
     else this.renderGame();
   }
 
-  /** Koşulu sağlanmış adımları geçer; rehberin ilerlemesi buradan yürür. */
+  /** Skips past steps whose condition is met; this is how the tutorial advances. */
   private advanceTutorial(): void {
     const s = this.state!;
     while (this.tutorialStep! < TUTORIAL_STEPS.length) {
@@ -1258,11 +1262,12 @@ export class App {
 
     const bar = el("div", "topbar");
     bar.appendChild(el("div", "topbar-title", "Nasıl oynanır?"));
-    // Rehberin çıkış kapısı. Olmadığı sürece rehber, ilk açılışta aşılamayan
-    // bir duvardı: Android geri tuşu uygulamadan atıyor ve "görüldü" işareti
-    // yalnızca rehber TAMAMLANINCA yazıldığı için, çıkan oyuncu her açılışta
-    // yeniden 1. adımdan başlıyordu. Atlamak zararsız, çünkü rehber
-    // Ayarlar → "Nasıl oynanır?" ile istendiği zaman tekrar oynanabiliyor.
+    // The tutorial's exit door. Without it, the tutorial was an
+    // impassable wall on first launch: the Android back button kicked the
+    // player out of the app, and since the "seen" flag is only written once
+    // the tutorial is COMPLETED, a player who left would restart from step 1
+    // every time. Skipping is harmless because the tutorial can be replayed
+    // anytime via Settings → "How to play?".
     const skipBtn = el("button", "tutorial-skip", "Geç");
     skipBtn.addEventListener("click", () => {
       this.finishTutorial();
@@ -1284,7 +1289,7 @@ export class App {
         wrong === 0 ? "Dolu hücrelerin hepsi doğru!" : `${wrong} yanlış harf işaretlendi`,
       );
     });
-    // rehberde ipucu bedava: ne günlük hak ne joker harcanır
+    // hints are free in the tutorial: neither the daily allowance nor a joker is spent
     const revealBtn = el("button", "action-btn", "İpucu");
     revealBtn.addEventListener("click", () => {
       revealLetter(s);
@@ -1296,8 +1301,8 @@ export class App {
     bar.appendChild(actions);
     wrap.appendChild(bar);
 
-    // hamle bekleyen adımlarda yönerge tahtanın üstünde durur; anlatım
-    // adımlarında ise bloklayıcı modal olarak gelir (aşağıda)
+    // in steps waiting for a move, the instruction sits above the board;
+    // in narration steps it comes as a blocking modal instead (below)
     if (!step.cta) wrap.appendChild(this.tutorialCoach(step.text));
 
     const gridWrap = el("div", "grid-wrap");
@@ -1313,7 +1318,7 @@ export class App {
     if (step.cta) this.showTutorialModal(step);
   }
 
-  /** Duman'ın yönerge balonu (hamle beklenen adımlarda tahtanın üstünde). */
+  /** Duman's instruction bubble (above the board, in steps waiting for a move). */
   private tutorialCoach(text: string): HTMLElement {
     const coach = el("div", "tutorial-coach");
     const avatar = el("div", "cat-avatar-wrap cat-avatar-mini");
@@ -1326,8 +1331,9 @@ export class App {
   }
 
   /**
-   * Anlatım adımı: tahtayı karartıp tüm dokunuşları kesen modal. Devam
-   * butonuna basılmadan oyuna dönülemez.
+   * Narration step: a modal that dims the board and blocks all input.
+   * The player can't return to the game without pressing the continue
+   * button.
    */
   private showTutorialModal(step: TutorialStep): void {
     const overlay = el("div", "overlay tut-overlay");
@@ -1344,8 +1350,8 @@ export class App {
     );
     modal.appendChild(el("p", "modal-text", step.text));
     if (step.highlightTools) {
-      // modal tahtayı karartıyor; anlatılan iki araç örnek olarak burada
-      // gösterilir
+      // the modal dims the board; the two tools being explained are shown
+      // here as an example
       const demo = el("div", "tut-tool-demo");
       demo.appendChild(el("span", "action-btn", "Kontrol"));
       demo.appendChild(el("span", "action-btn", "İpucu"));
@@ -1363,14 +1369,15 @@ export class App {
   }
 
   /**
-   * Rehberdeki hamle süzgeci: adımın istediği dışındaki dokunuşlar (başka
-   * kutuya geçme, soru değiştirme…) yok sayılır ve oyuncu nazikçe hedefe
-   * yönlendirilir. Rehberi "zorunlu" yapan kısım burası.
+   * The tutorial's move filter: any input other than what the step
+   * requires (switching cells, changing clues…) is ignored, and the player
+   * is gently redirected to the target. This is what makes the tutorial
+   * "mandatory".
    */
   private tutorialBlocks(kind: "cell" | "key", row?: number, col?: number): boolean {
     if (this.tutorialStep === null) return false;
     const step = TUTORIAL_STEPS[this.tutorialStep];
-    if (!step || step.cta) return true; // modal adımı: tahta kapalı
+    if (!step || step.cta) return true; // narration step: board is closed
     if (kind === "key") {
       if (!step.target) return false;
       toast(this.root, "Önce ışıldayan yere dokun 🐾");
@@ -1386,12 +1393,12 @@ export class App {
   }
 
   /**
-   * .grid-wrap'in gerçekte sahip olduğu boş alana (klavye/panel/topbar
-   * çıkarıldıktan sonra kalan gerçek genişlik+yükseklik) göre ızgaranın
-   * genişliğini hesaplar. Her hücre aspect-ratio:1 olduğundan yükseklik
-   * genişlikten otomatik türer; bu yüzden tek değişken doğru genişliği
-   * bulmak. Sabit bir "boşluk payı" tahmin etmek yerine gerçek ölçümü
-   * kullandığından cihaz/duruma göre kutular olabildiğince büyür.
+   * Computes the grid's width based on the actual free space .grid-wrap has
+   * (the real width+height left over after the keyboard/panel/topbar).
+   * Since every cell has aspect-ratio:1, height derives automatically from
+   * width, so the only variable is finding the right width. Using a real
+   * measurement instead of estimating a fixed "margin" lets the cells grow
+   * as large as possible depending on the device/situation.
    */
   private sizeGrid(): void {
     const s = this.state;
@@ -1408,10 +1415,10 @@ export class App {
   }
 
   /**
-   * Soru yazılarını hücrelerine sığana kadar küçültür. Hücredeki tüm
-   * sorular aynı puntoyu kullanır; parçaların yüksekliği içeriğe göre
-   * dağıldığından uzun soru kendine daha çok yer açar. Sonuç puntolar
-   * önbelleğe alınır; sonraki çizimlerde ölçüm tekrarlanmaz.
+   * Shrinks clue text until it fits its cell. All clues in a cell use the
+   * same font size; since part heights are distributed based on content, a
+   * longer clue claims more space for itself. The resulting font sizes are
+   * cached, so the measurement isn't repeated on later renders.
    */
   private fitClueTexts(): void {
     const grid = this.root.querySelector<HTMLElement>(".grid");
@@ -1432,10 +1439,10 @@ export class App {
         keys.push(key);
         if (!this.clueFontCache.has(key)) allCached = false;
       }
-      // önbellekteki puntolar çizim sırasında uygulandı; yeniden ölçme
+      // cached font sizes were already applied during render; skip remeasuring
       if (texts.length === 0 || allCached) continue;
 
-      // ekran genişliği değişmişse kalıntı sabit puntoları sıfırla
+      // reset any leftover fixed font sizes if the screen width changed
       for (const t of texts) t.style.fontSize = "";
       const overflows = () =>
         texts.some((t) => {
@@ -1456,11 +1463,11 @@ export class App {
       const apply = (size: number) => {
         for (const t of texts) t.style.fontSize = `${size}px`;
       };
-      // Kutu büyükse CSS'teki (küçük ekran varsayımıyla ayarlanmış) başlangıç
-      // puntosu boşuna küçük kalabiliyordu — bu yüzden hep sabit, yeterince
-      // büyük bir tavandan başlayıp sığana kadar küçültüyoruz. Böylece ızgara
-      // büyüdükçe soru yazısı da gerçekten büyüyor, sadece küçük kutularda
-      // küçülüyor.
+      // If the cell is large, the CSS starting font size (tuned assuming a
+      // small screen) could end up needlessly small — so we always start
+      // from a fixed, sufficiently large ceiling and shrink until it fits.
+      // This way clue text actually grows as the grid grows, and only
+      // shrinks on small cells.
       let size = 22;
       apply(size);
       while (size > 5 && overflows()) {
@@ -1471,7 +1478,7 @@ export class App {
     }
   }
 
-  /** Pencere boyutu değişince ızgara genişliğini ve soru puntolarını tazeler */
+  /** Refreshes the grid width and clue font sizes when the window is resized */
   private refitClueTexts(): void {
     this.sizeGrid();
     this.clueFontCache.clear();
@@ -1498,7 +1505,7 @@ export class App {
       }
     }
 
-    // her cevabın başlangıç hücresi: ok oraya çizilir (klasik görünüm)
+    // each answer's starting cell: the arrow is drawn there (classic look)
     const starts = new Map<number, number[]>();
     s.puzzle.clues.forEach((_, ci) => {
       const p = s.grid.cluePlacements[ci][0];
@@ -1506,13 +1513,13 @@ export class App {
       starts.set(idx, [...(starts.get(idx) ?? []), ci]);
     });
 
-    // rehberdeki adımın "buraya dokun" hedefi
+    // the current tutorial step's "tap here" target
     const target =
       this.tutorialStep !== null
         ? TUTORIAL_STEPS[this.tutorialStep]?.target
         : undefined;
 
-    // doğru tamamlanmış kelimelerin hücreleri kalıcı yeşil görünür
+    // cells of correctly completed words stay permanently green
     const doneCells = new Set<number>();
     s.puzzle.clues.forEach((_, ci) => {
       if (!this.isWordCorrect(ci)) return;
@@ -1564,14 +1571,14 @@ export class App {
         if (s.wrongCells.has(i)) div.classList.add("wrong");
         if (s.completed) {
           div.classList.add("won");
-          // sol üstten sağ alta yayılan kutlama dalgası
+          // celebration wave spreading from top-left to bottom-right
           div.style.animationDelay = `${(cell.row + cell.col) * 45}ms`;
         }
         if (this.popIdx === i && s.entries[i] !== "") div.classList.add("pop-in");
         if (flashCells.has(i) && !s.completed) div.classList.add("word-flash");
         if (doneCells.has(i) && !s.completed) div.classList.add("word-done");
         div.appendChild(el("span", "cell-letter", s.entries[i]));
-        // bu hücreden başlayan cevapların okları (köşede, klasik görünüm)
+        // arrows for answers starting at this cell (in the corner, classic look)
         for (const ci of starts.get(i) ?? []) {
           const arrow = el("span", `cell-arrow arrow-${s.puzzle.clues[ci].arrow}`);
           if (s.activeClue === ci) arrow.classList.add("arrow-active");
@@ -1592,8 +1599,9 @@ export class App {
   }
 
   /**
-   * Cevap paneli: aktif sorunun metni büyük puntoyla, altında kelimenin
-   * harf kutuları. Izgaradaki küçük yazıya bakmadan çözmeyi sağlar.
+   * Answer panel: the active clue's text in large type, with the word's
+   * letter boxes below it. Lets the player solve without staring at the
+   * small text on the grid.
    */
   private renderPanel(): HTMLElement {
     const s = this.state!;
@@ -1641,8 +1649,8 @@ export class App {
           slot.classList.add("slot-current");
         }
         if (s.wrongCells.has(i)) slot.classList.add("slot-wrong");
-        // panel kutuları hep aktif kelimenin içindedir: dokunuş imleci
-        // taşır, yönü değiştirmez
+        // panel slots are always within the active word: tapping moves
+        // the cursor, it doesn't change direction
         slot.addEventListener("click", () => {
           moveCursorInActiveClue(s, p.row, p.col);
           this.refresh();
@@ -1655,7 +1663,7 @@ export class App {
     return panel;
   }
 
-  /** Seçili hücrenin ızgara indeksini pop animasyonu için işaretler */
+  /** Marks the selected cell's grid index for the pop animation */
   private markPop(): void {
     const s = this.state;
     if (s && s.selRow !== null && s.selCol !== null) {
@@ -1695,13 +1703,15 @@ export class App {
   }
 
   /**
-   * Kutlama ekranından (showCompleted) çıkış düğmelerinin ortak davranışı:
-   * geçiş reklamını dener, sonra hedef ekrana geçer. Reklam bilerek kutlama
-   * (konfeti/ödül) oyuncuya zaten TAM gösterildikten SONRA, oyuncu ekrandan
-   * ayrılırken tetiklenir — AdMob'un "aktif oynanış sırasında ya da
-   * öncesinde/sonrasında değil, doğal mola noktasında" kuralına uymak için.
-   * Rehber (practice) modunda showCompleted zaten hiç çağrılmaz, ama burada
-   * da bilerek korunuyor: yanlışlıkla rehberde reklam gösterilmesin.
+   * Shared behavior for the exit buttons on the celebration screen
+   * (showCompleted): tries an interstitial ad, then navigates to the target
+   * screen. The ad is deliberately triggered AFTER the celebration
+   * (confetti/reward) has already been FULLY shown to the player, as they're
+   * leaving the screen — to follow AdMob's rule of showing ads "at a
+   * natural break point, not during or immediately around active gameplay".
+   * showCompleted is never called in tutorial (practice) mode anyway, but
+   * the guard is kept here deliberately too, so an ad never accidentally
+   * shows during the tutorial.
    */
   private leaveCompletedScreen(next: () => void): void {
     if (!this.state?.practice) void maybeShowInterstitial();
@@ -1790,7 +1800,7 @@ export class App {
     this.root.appendChild(overlay);
   }
 
-  /** Sonucu sistem paylaşım menüsüyle, yoksa panoya kopyalayarak paylaşır. */
+  /** Shares the result via the system share menu, or copies it to the clipboard as a fallback. */
   private async shareResult(): Promise<void> {
     const s = this.state;
     if (!s) return;
@@ -1810,11 +1820,11 @@ export class App {
       await navigator.clipboard.writeText(text);
       toast(this.root, "Sonuç panoya kopyalandı");
     } catch {
-      // kullanıcı paylaşımı iptal ettiyse sessizce dön
+      // silently return if the user canceled the share
     }
   }
 
-  /** Fiziksel klavye desteği (masaüstü testleri için) */
+  /** Physical keyboard support (for desktop testing) */
   attachPhysicalKeyboard(): void {
     window.addEventListener("keydown", (e) => {
       const s = this.state;
@@ -1833,26 +1843,26 @@ export class App {
   }
 
   /**
-   * Android geri tuşu/hareketi.
+   * Android back button/gesture.
    *
-   * Bu davranış eskiden hiç yoktu: geri tuşunu yakalayan eklenti kurulu
-   * olmadığı için oyuncu NEREDE olursa olsun — bulmacanın ortasında, mağazada,
-   * ayarlarda — geri yapınca uygulamadan tamamen çıkıyordu.
+   * This behavior didn't exist before: since no plugin was installed to
+   * intercept the back button, the player exited the app entirely on back
+   * no matter WHERE they were — mid-puzzle, in the shop, in settings.
    *
-   * Öncelik sırası, en içteki katmandan dışa doğru:
-   *   1. Açık bir modal varsa yalnızca onu kapat.
-   *   2. Rehber oynanıyorsa hiçbir şey yapma (rehberin kendi "Geç"i var).
-   *   3. Ana sayfa dışındaki her ekrandan ana sayfaya dön.
-   *   4. Ana sayfada: kazara çıkışı önlemek için iki kez basılmasını iste.
+   * Priority order, from the innermost layer outward:
+   *   1. If a modal is open, close only that.
+   *   2. If the tutorial is running, do nothing (it has its own "Skip").
+   *   3. From any screen other than home, return to home.
+   *   4. On the home screen: require pressing twice to prevent accidental exit.
    *
-   * @returns uygulamadan çıkılması gerekiyorsa true
+   * @returns true if the app should be exited
    */
   handleBack(): boolean {
     const overlays = this.root.querySelectorAll(".overlay");
     if (overlays.length > 0) {
       const top = overlays[overlays.length - 1];
-      // Rehberin anlatım modalı bilerek bloklayıcıdır — adımın atlanmasına
-      // izin vermemek için geri tuşuyla da kapatılmaz.
+      // The tutorial's narration modal is deliberately blocking — it can't
+      // be closed with the back button either, so a step can't be skipped.
       if (!top.classList.contains("tut-overlay")) top.remove();
       return false;
     }
@@ -1908,7 +1918,7 @@ function capitalizeTr(s: string): string {
   return s.charAt(0).toLocaleUpperCase("tr-TR") + s.slice(1);
 }
 
-/** Saate göre Türkçe selamlama (ana menüdeki Duman karşılamasında kullanılır). */
+/** Time-of-day greeting, in Turkish (used in Duman's greeting on the home menu). */
 function timeGreeting(): string {
   const h = new Date().getHours();
   if (h >= 5 && h < 11) return "Günaydın";
