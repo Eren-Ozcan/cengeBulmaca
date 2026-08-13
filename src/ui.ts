@@ -1022,10 +1022,14 @@ export class App {
   }
 
   /**
-   * Bir hamleyi çalıştırır, bulmaca bu hamleyle tamamlandıysa
-   * kutlama efektini tetikler ve ekranı tazeler.
+   * Bir hamleyi çalıştırır, bulmaca bu hamleyle tamamlandıysa kutlama
+   * efektini tetikler ve ekranı tazeler. Tamamlanmadıysa (ör. handleType'ın
+   * kelime-doğru-oldu flash'ı gibi) `onNotCompleted` çağrılır — win/kayıp
+   * dalları TEK yerde tutulur ki ileride bu sıraya (ödül/kedi/referral)
+   * eklenecek bir değişiklik iki kopyadan birine uygulanıp diğerinde
+   * unutulmasın.
    */
-  private withWinCheck(action: () => void): void {
+  private withWinCheck(action: () => void, onNotCompleted?: () => void): void {
     const s = this.state!;
     const wasCompleted = s.completed;
     const alreadySolved = isSolvedPuzzle(s.puzzle.id);
@@ -1036,6 +1040,8 @@ export class App {
       hapticWin();
       this.registerCatUnlock(alreadySolved);
       if (wasFirstEverSolve) void claimFirstPuzzleReferralReward();
+    } else {
+      onNotCompleted?.();
     }
     this.renderGame();
   }
@@ -1077,22 +1083,17 @@ export class App {
       this.refresh();
       return;
     }
-    const wasCompleted = s.completed;
-    const alreadySolved = isSolvedPuzzle(s.puzzle.id);
-    const wasFirstEverSolve = solvedCount() === 0;
-    typeLetter(s, key);
-    if (!wasCompleted && s.completed) {
-      playWin();
-      hapticWin();
-      this.registerCatUnlock(alreadySolved);
-      if (wasFirstEverSolve) void claimFirstPuzzleReferralReward();
-    } else if (prevClue !== null && this.isWordCorrect(prevClue)) {
-      playCorrect();
-      this.flashClue = prevClue;
-      const next = this.findClueWithEmptyCell(prevClue + 1);
-      if (next !== null) this.activateClue(next);
-    }
-    this.renderGame();
+    this.withWinCheck(
+      () => typeLetter(s, key),
+      () => {
+        if (prevClue !== null && this.isWordCorrect(prevClue)) {
+          playCorrect();
+          this.flashClue = prevClue;
+          const next = this.findClueWithEmptyCell(prevClue + 1);
+          if (next !== null) this.activateClue(next);
+        }
+      },
+    );
   }
 
   // ---------- oyun ekranı ----------
