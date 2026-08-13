@@ -1,6 +1,6 @@
 import { isSaveFrozen } from "./cloud-save.ts";
 import { buildGrid, trUpper } from "./puzzle.ts";
-import { recordCompletion } from "./stats.ts";
+import { isSolvedPuzzle, recordCompletion } from "./stats.ts";
 import type { Grid, LetterCell, PuzzleDef } from "./types.ts";
 
 export interface GameState {
@@ -47,8 +47,27 @@ export function newGame(
   if (!state.practice) {
     loadProgress(state);
     state.completed = isSolved(state);
+    // finishIfSolved harf kaydını tamamlanınca SİLER (depolamayı şişirmesin
+    // diye, bkz. clearProgress) — ama oyuncu çözülmüş bir bulmacayı listeden
+    // tekrar açtığında entries boş gelir ve grid sanki hiç çözülmemiş gibi
+    // bomboş açılır (bkz. ui.ts renderChapter — solved bulmacalar da
+    // openPuzzle çağırır, özel bir dal yok). Saklı ilerlemeye gerek yok:
+    // çözüm zaten istemcide (crossword verisinde) bilinir, stats.ts'e göre
+    // çözülmüşse harfler doğrudan grid'in kendi çözümünden doldurulur.
+    if (!state.completed && isSolvedPuzzle(puzzle.id)) {
+      fillWithSolution(state);
+      state.completed = true;
+    }
   }
   return state;
+}
+
+/** Tüm harf hücrelerini kendi çözümüyle doldurur (bkz. newGame). */
+function fillWithSolution(s: GameState): void {
+  for (const cell of s.grid.cells) {
+    if (cell.kind !== "letter") continue;
+    s.entries[cellIdx(s, cell.row, cell.col)] = cell.solution;
+  }
 }
 
 const cellIdx = (s: GameState, r: number, c: number) => r * s.grid.cols + c;

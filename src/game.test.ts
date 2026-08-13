@@ -273,4 +273,23 @@ describe("ilerleme kaydı", () => {
     typeLetter(s, "T");
     expect(storage.getItem("cengel-progress-test-game")).toBeNull();
   });
+
+  it("çözülmüş bulmaca tekrar açılınca bomboş değil, çözümüyle gelir", () => {
+    const s1 = newGame(tiny);
+    selectCell(s1, 1, 0);
+    typeLetter(s1, "B");
+    typeLetter(s1, "A");
+    typeLetter(s1, "L");
+    selectCell(s1, 2, 1);
+    typeLetter(s1, "T");
+    expect(storage.getItem("cengel-progress-test-game")).toBeNull();
+
+    const s2 = newGame(tiny);
+    expect(s2.completed).toBe(true);
+    expect(isSolved(s2)).toBe(true);
+    expect(s2.entries[1 * 3 + 0]).toBe("B");
+    expect(s2.entries[1 * 3 + 1]).toBe("A");
+    expect(s2.entries[1 * 3 + 2]).toBe("L");
+    expect(s2.entries[2 * 3 + 1]).toBe("T");
+  });
 });
