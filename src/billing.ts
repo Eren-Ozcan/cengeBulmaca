@@ -1,21 +1,22 @@
-// Google Play Billing üzerinden gerçek para karşılığı joker paketi ve
-// "reklamları kaldır" satın alma işlemleri. RevenueCat
-// (@revenuecat/purchases-capacitor) kullanılıyor — native Play Billing
-// kütüphanesinin versiyon takibini RevenueCat üstlenir, bu dosya ince bir
-// sarmalayıcıdır.
+// Real-money joker pack and "remove ads" purchases via Google Play
+// Billing. Uses RevenueCat (@revenuecat/purchases-capacitor) — RevenueCat
+// handles version tracking for the native Play Billing library, this file
+// is a thin wrapper around it.
 //
-// Yayın altyapısı tamamlandı: RevenueCat projesi + Android app
-// configuration + Public SDK Key aşağıda, Play Console'da JOKER_PACKS ve
-// REMOVE_ADS_PRODUCT_ID id'leriyle birebir aynı ürünler tanımlandı,
-// RevenueCat dashboard'unda Play Store app'ine bağlandı, satın alma
-// doğrulaması için servis hesabı kuruldu. Kalan tek adım: imzalı bir
-// build'i en az Internal Testing track'ine yüklemek — Play Billing sandbox
-// satın alımları imzasız/debug build'lerde çalışmaz.
+// Release infrastructure is complete: the RevenueCat project + Android app
+// configuration + Public SDK Key are set up below, the exact same products
+// as the JOKER_PACKS and REMOVE_ADS_PRODUCT_ID ids are defined in Play
+// Console, connected to the Play Store app in the RevenueCat dashboard,
+// and a service account for purchase verification has been set up. The
+// only remaining step: uploading a signed build to at least the Internal
+// Testing track — Play Billing sandbox purchases don't work in
+// unsigned/debug builds.
 //
-// API anahtarı boşken ya da web/dev ortamındayken (Capacitor.isNativePlatform()
-// false) satın alma gerçek ödeme almadan anında simüle edilir — ads.ts'in
-// rewarded reklamı native-only yapıp web'de no-op etmesiyle aynı kod deyimi;
-// bu sayede Mağaza ekranı mağaza bağlantısı olmadan da uçtan uca test edilebilir.
+// When the API key is empty, or on web/dev (Capacitor.isNativePlatform()
+// is false), a purchase is instantly simulated without taking real
+// payment — the same convention as ads.ts making the rewarded ad
+// native-only and a no-op on web; this lets the Store screen be tested
+// end-to-end without a store connection.
 
 import { Capacitor } from "@capacitor/core";
 import { PRODUCT_CATEGORY, Purchases } from "@revenuecat/purchases-capacitor";
@@ -30,10 +31,10 @@ export interface JokerPack {
 }
 
 /**
- * Mağazaya ulaşılamadığında gösterilecek YEDEK fiyat etiketleri. Gerçek fiyat
- * loadStorePrices() ile mağazadan çekilir ve oyuncunun ülkesine/para birimine
- * göre gelir (₺, €, ₹ — Play ne diyorsa). Buradaki değerler yalnızca web/dev
- * ortamında ve mağaza cevap vermediğinde görünür.
+ * FALLBACK price labels shown when the store can't be reached. The real
+ * price is fetched from the store via loadStorePrices() and comes in the
+ * player's country/currency (₺, €, ₹ — whatever Play says). The values
+ * here are only shown on web/dev, and when the store doesn't respond.
  */
 export const JOKER_PACKS: JokerPack[] = [
   { id: "jokers_5", count: 5, priceLabel: "$1.99" },
@@ -42,21 +43,21 @@ export const JOKER_PACKS: JokerPack[] = [
   { id: "jokers_50", count: 50, priceLabel: "$12.99" },
 ];
 
-/** productId -> mağazanın verdiği yerelleştirilmiş fiyat metni */
+/** productId -> localized price text supplied by the store */
 const storePrices: Record<string, string> = {};
 
 /**
- * Bir ürünün gösterilecek fiyatı: mağazadan geldiyse o, yoksa yedek etiket.
- * Böylece fiyat alanı hiçbir zaman boş kalmaz.
+ * The price to display for a product: the one from the store if available,
+ * otherwise the fallback label. This way the price field is never left blank.
  */
 export function priceLabelFor(productId: string, fallback: string): string {
   return storePrices[productId] ?? fallback;
 }
 
 /**
- * Mağazadan yerelleştirilmiş fiyatları çeker. Sessizce başarısız olur —
- * fiyat çekilemezse yedek etiketler kalır ve mağaza yine de açılır.
- * Aynı ürünler için tekrar çağrılması zararsızdır.
+ * Fetches localized prices from the store. Fails silently — if prices
+ * can't be fetched, the fallback labels remain and the store still opens.
+ * Safe to call again for the same products.
  */
 export async function loadStorePrices(): Promise<void> {
   if (!(await ensureConfigured())) return;
@@ -70,7 +71,7 @@ export async function loadStorePrices(): Promise<void> {
       if (p.priceString) storePrices[p.identifier] = p.priceString;
     }
   } catch {
-    /* yedek etiketler kalır */
+    /* the fallback labels remain */
   }
 }
 
@@ -89,10 +90,10 @@ async function ensureConfigured(): Promise<boolean> {
 }
 
 /**
- * Bir joker paketi satın alır. Başarılıysa paketteki joker sayısını,
- * iptal/hata durumunda 0 döner. Mağaza bağlı değilken (web/dev ortamı ya da
- * API anahtarı eksikken) satın alma gerçek ödeme almadan anında simüle
- * edilir.
+ * Purchases a joker pack. Returns the number of jokers in the pack on
+ * success, or 0 on cancel/error. When the store isn't connected (web/dev
+ * environment or a missing API key), the purchase is instantly simulated
+ * without taking real payment.
  */
 export async function purchaseJokerPack(packId: string): Promise<number> {
   const pack = JOKER_PACKS.find((p) => p.id === packId);
@@ -114,15 +115,15 @@ export async function purchaseJokerPack(packId: string): Promise<number> {
   }
 }
 
-// ---------- reklamları kaldır (tek seferlik, tüketilmeyen ürün) ----------
+// ---------- remove ads (one-time, non-consumable product) ----------
 
 export const REMOVE_ADS_PRODUCT_ID = "remove_ads";
-/** Yedek etiket — gerçek fiyat için bkz. loadStorePrices / priceLabelFor. */
+/** Fallback label — see loadStorePrices / priceLabelFor for the real price. */
 export const REMOVE_ADS_PRICE_LABEL = "$2.99";
 
 const ADS_REMOVED_KEY = "cengel-ads-removed";
 
-/** Kullanıcı "reklamları kaldır" ürününü daha önce satın aldı mı? */
+/** Has the user already purchased the "remove ads" product? */
 export function adsRemoved(): boolean {
   try {
     return localStorage.getItem(ADS_REMOVED_KEY) === "1";
@@ -135,15 +136,15 @@ function setAdsRemoved(removed: boolean): void {
   try {
     localStorage.setItem(ADS_REMOVED_KEY, removed ? "1" : "0");
   } catch {
-    // depolama yoksa tercih oturumla sınırlı kalır
+    // if storage is unavailable, the preference is limited to this session
   }
 }
 
 /**
- * "Reklamları kaldır" ürününü satın alır. Başarılıysa true döner ve durum
- * kalıcı olarak saklanır (bkz. adsRemoved). Mağaza bağlı değilken (web/dev
- * ortamı ya da API anahtarı eksikken) satın alma gerçek ödeme almadan
- * anında simüle edilir.
+ * Purchases the "remove ads" product. Returns true on success and the
+ * state is stored persistently (see adsRemoved). When the store isn't
+ * connected (web/dev environment or a missing API key), the purchase is
+ * instantly simulated without taking real payment.
  */
 export async function purchaseRemoveAds(): Promise<boolean> {
   if (!(await ensureConfigured())) {
@@ -167,12 +168,11 @@ export async function purchaseRemoveAds(): Promise<boolean> {
 }
 
 /**
- * Uygulama açılışında bir kere çağrılır. Daha önce yapılmış "reklamları
- * kaldır" satın almasını mağaza geçmişinden kontrol edip yerel durumu
- * senkronize eder — yeniden yükleme sonrası ya da RevenueCat'in anonim
- * kullanıcı kimliği değiştiğinde yerel bayrak sıfırlanmış olabileceği için
- * gerekli. Web/dev ortamında ya da bağlantı yoksa sessizce hiçbir şey
- * yapmaz.
+ * Called once on app startup. Checks the store purchase history for a
+ * previous "remove ads" purchase and syncs the local state — needed
+ * because the local flag can end up reset, e.g. after a reinstall or when
+ * RevenueCat's anonymous user identity changes. Silently does nothing on
+ * web/dev or when there's no connection.
  */
 export async function restoreAdsRemoved(): Promise<void> {
   if (!(await ensureConfigured())) return;
@@ -182,6 +182,6 @@ export async function restoreAdsRemoved(): Promise<void> {
       setAdsRemoved(true);
     }
   } catch {
-    // bağlantı yoksa yerel durum korunur, bir sonraki açılışta tekrar denenir
+    // if there's no connection, the local state is preserved and retried on the next launch
   }
 }

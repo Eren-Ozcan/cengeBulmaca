@@ -1,10 +1,10 @@
 import type { PuzzleDef } from "../types.ts";
 
-// Testler için: 300 bulmacanın TAMAMINI (clues/blocks dahil) senkron/eager
-// yükler. Sadece test dosyalarından import edilir (puzzle.test.ts,
-// cats.test.ts) — production kodu (main.ts/ui.ts) bunun yerine
-// puzzles/index.ts'teki lazy `puzzles` dizisini kullanır, bu yüzden bu
-// dosya production bundle'ına dahil olmaz.
+// For tests: loads ALL 300 puzzles (including clues/blocks) synchronously
+// and eagerly. Only imported from test files (puzzle.test.ts, cats.test.ts)
+// — production code (main.ts/ui.ts) uses the lazy `puzzles` array in
+// puzzles/index.ts instead, so this file isn't included in the production
+// bundle.
 const modules = import.meta.glob("./puzzle-*.json", {
   eager: true,
   import: "default",

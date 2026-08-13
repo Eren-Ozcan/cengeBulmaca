@@ -1,23 +1,24 @@
-// Kedi teması: bulmaca çözdükçe "bekçi kediler" koleksiyona katılır.
-// Hikaye: Duman, İstanbul sokaklarından çıkıp Anadolu'nun bekçi kedilerini
-// arıyor. Her kedi bir bölgeyi ve o bölgenin kısa bir bilgisini taşıyor.
+// Cat theme: as the player solves puzzles, "guardian cats" join the
+// collection. Story: Duman sets out from the streets of Istanbul in search
+// of Anatolia's guardian cats. Each cat represents a region and carries a
+// short bit of lore about it.
 //
-// Açılım modeli: her kedi, toplam çözülen (farklı) bulmaca sayısı kendi
-// eşiğine (unlockAt) ulaşınca açılır. Eşikler uzun bir yolculuk kuracak
-// şekilde seyrek: son kedi 60. bulmacada açılır — günde bir bulmaca çözen
-// bir oyuncu için yaklaşık iki aylık bir macera.
+// Unlock model: each cat unlocks once the total number of (distinct)
+// solved puzzles reaches its own threshold (unlockAt). The thresholds are
+// spaced out to build a long journey: the last cat unlocks at puzzle 60 —
+// roughly a two-month adventure for a player solving one puzzle a day.
 
 export interface CatDef {
-  /** Bu kedinin açılması için gereken toplam çözülmüş bulmaca sayısı */
+  /** Total number of solved puzzles required to unlock this cat */
   unlockAt: number;
   name: string;
   region: string;
   breed: string;
-  /** Koleksiyon ekranında görünen kısa hikaye/bilgi notu */
+  /** Short lore/info note shown on the collection screen */
   lore: string;
 }
 
-/** Hikayenin anlatıcısı ve oyuncunun rehberi; koleksiyona dahil değil. */
+/** The story's narrator and the player's guide; not part of the collection. */
 export const DUMAN: CatDef = {
   unlockAt: 0,
   name: "Duman",
@@ -167,10 +168,10 @@ export const CATS: CatDef[] = [
   },
 ];
 
-/** Bölge adlarının yönelme hâli ("-a/-e doğru" cümleleri için). Türkçe ünlü
- * uyumu/yardımcı ünsüz kuralları genel bir algoritmayla üretilmedi — sabit
- * bölge listesi küçük olduğu için elle, hatasız bir tablo tutmak daha
- * güvenli. */
+/** Dative case of region names (for "toward -a/-e" sentences). Turkish vowel
+ * harmony / helper consonant rules aren't produced by a general algorithm
+ * — since the fixed region list is small, keeping a hand-written, error-free
+ * table is safer. */
 const REGION_DATIVE: Record<string, string> = {
   İstanbul: "İstanbul'a",
   Van: "Van'a",
@@ -194,22 +195,22 @@ export function regionDative(region: string): string {
   return REGION_DATIVE[region] ?? `${region}'a`;
 }
 
-/** solved kadar bulmaca çözmüş bir oyuncuda bu kedi açık mı? */
+/** Is this cat unlocked for a player who has solved `solved` puzzles? */
 export function catUnlocked(cat: CatDef, solved: number): boolean {
   return solved >= cat.unlockAt;
 }
 
-/** Tam bu çözüm sayısında açılan kedi (yoksa undefined). */
+/** The cat that unlocks at exactly this solve count (undefined if none). */
 export function catUnlockedAt(solved: number): CatDef | undefined {
   return CATS.find((c) => c.unlockAt === solved);
 }
 
-/** Sıradaki kilitli kedi (hepsi açıksa undefined). */
+/** The next locked cat (undefined if all are unlocked). */
 export function nextLockedCat(solved: number): CatDef | undefined {
   return CATS.find((c) => c.unlockAt > solved);
 }
 
-/** Tüm bekçi kediler toplandı mı? */
+/** Have all guardian cats been collected? */
 export function allCatsUnlocked(solved: number): boolean {
   return CATS.every((c) => catUnlocked(c, solved));
 }

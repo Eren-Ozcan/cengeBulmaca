@@ -15,7 +15,7 @@ import type { PuzzleDef } from "./types.ts";
 
 const storage = installMemoryStorage();
 
-// puzzle.test.ts'teki 3x3 fikstürün aynısı:
+// same 3x3 fixture as in puzzle.test.ts:
 //   [S1][S2][■ ]
 //   [B ][A ][L ]
 //   [■ ][T ][■ ]
@@ -48,8 +48,8 @@ describe("selectCell", () => {
 
   it("kesişimde yön, sorusu en yakın olan kelimeye kilitlenir", () => {
     const s = newGame(tiny);
-    // (1,1) hem BAL'ın 2. harfi (sorusuna uzaklık 2) hem AT'ın 1. harfi
-    // (uzaklık 1) — yakın olan AT kazanır
+    // (1,1) is both BAL's 2nd letter (distance 2 from its clue) and AT's
+    // 1st letter (distance 1) — the nearer one, AT, wins
     selectCell(s, 1, 1);
     expect(s.activeClue).toBe(1);
   });
@@ -58,7 +58,7 @@ describe("selectCell", () => {
     const s = newGame(tiny);
     selectCell(s, 1, 0); // BAL
     expect(s.activeClue).toBe(0);
-    selectCell(s, 1, 1); // kesişim: AT'ın sorusu daha yakın
+    selectCell(s, 1, 1); // intersection: AT's clue is nearer
     expect(s.activeClue).toBe(1);
   });
 
@@ -81,7 +81,7 @@ describe("moveCursorInActiveClue", () => {
   it("imleci taşır ama aktif kelimeyi değiştirmez", () => {
     const s = newGame(tiny);
     selectCell(s, 1, 0); // BAL
-    moveCursorInActiveClue(s, 1, 1); // kesişim, ama yön değişmemeli
+    moveCursorInActiveClue(s, 1, 1); // intersection, but direction shouldn't change
     expect(s.selCol).toBe(1);
     expect(s.activeClue).toBe(0);
   });
@@ -89,7 +89,7 @@ describe("moveCursorInActiveClue", () => {
   it("aktif kelimenin dışındaki hücreyi yok sayar", () => {
     const s = newGame(tiny);
     selectCell(s, 1, 0); // BAL
-    moveCursorInActiveClue(s, 2, 1); // sadece AT'ta
+    moveCursorInActiveClue(s, 2, 1); // only part of AT
     expect(s.selRow).toBe(1);
     expect(s.selCol).toBe(0);
   });
@@ -150,7 +150,7 @@ describe("typeLetter", () => {
 });
 
 describe("çözülmüş kelimenin harfleri kilitlenir", () => {
-  /** BAL'ı doğru tamamlar; kesişen (1,1)='A' artık kilitlidir */
+  /** Completes BAL correctly; the intersecting (1,1)='A' is now locked */
   function solveBal(s: ReturnType<typeof newGame>): void {
     selectCell(s, 1, 0);
     typeLetter(s, "B");
@@ -163,24 +163,24 @@ describe("çözülmüş kelimenin harfleri kilitlenir", () => {
     solveBal(s);
     expect(isCellLocked(s, 1, 1)).toBe(true);
 
-    // AT'a geç: imleç kilitli 'A' üzerindeyken yazılan harf (2,1)'e gider
+    // switch to AT: with the cursor on the locked 'A', the typed letter goes to (2,1)
     selectCell(s, 1, 1);
     expect(s.activeClue).toBe(1);
     typeLetter(s, "T");
-    expect(s.entries[1 * 3 + 1]).toBe("A"); // kilitli harf bozulmadı
+    expect(s.entries[1 * 3 + 1]).toBe("A"); // the locked letter wasn't touched
     expect(s.entries[2 * 3 + 1]).toBe("T");
   });
 
   it("imleç yazdıktan sonra kilitli hücreleri atlar", () => {
     const s = newGame(tiny);
-    // önce AT'ı çöz: (1,1) ve (2,1) doğru → ikisi de kilitli
+    // solve AT first: (1,1) and (2,1) correct -> both locked
     selectCell(s, 2, 1);
     typeLetter(s, "T");
     selectCell(s, 1, 1);
     typeLetter(s, "A");
     expect(isCellLocked(s, 2, 1)).toBe(true);
 
-    // BAL'ı yaz: B'den sonra imleç kilitli (1,1)'i atlayıp (1,2)'ye gider
+    // type BAL: after B, the cursor skips the locked (1,1) and goes to (1,2)
     selectCell(s, 1, 0);
     expect(s.activeClue).toBe(0);
     typeLetter(s, "B");
@@ -192,16 +192,16 @@ describe("çözülmüş kelimenin harfleri kilitlenir", () => {
     const s = newGame(tiny);
     solveBal(s);
 
-    // AT aktifken imleç kilitli 'A' üzerinde: yazılan harf (2,1)'e düşer
+    // with AT active and the cursor on the locked 'A': the typed letter goes to (2,1)
     selectCell(s, 1, 1);
     typeLetter(s, "X");
     expect(s.entries[2 * 3 + 1]).toBe("X");
 
-    // serbest hücre normal silinir
+    // a free cell is deleted normally
     backspace(s);
     expect(s.entries[2 * 3 + 1]).toBe("");
 
-    // imleç kilitli hücredeyken silme kilitli harfe dokunmaz
+    // with the cursor on the locked cell, backspace doesn't touch the locked letter
     selectCell(s, 1, 1);
     backspace(s);
     expect(s.entries[1 * 3 + 1]).toBe("A");
@@ -212,7 +212,7 @@ describe("backspace", () => {
   it("dolu hücreyi temizler", () => {
     const s = newGame(tiny);
     selectCell(s, 1, 0);
-    typeLetter(s, "B"); // imleç (1,1)'e geçti
+    typeLetter(s, "B"); // cursor moved to (1,1)
     selectCell(s, 1, 0);
     backspace(s);
     expect(s.entries[1 * 3 + 0]).toBe("");
@@ -221,7 +221,7 @@ describe("backspace", () => {
   it("boş hücrede bir geri gidip temizler", () => {
     const s = newGame(tiny);
     selectCell(s, 1, 0);
-    typeLetter(s, "B"); // imleç (1,1), orası boş
+    typeLetter(s, "B"); // cursor at (1,1), which is empty
     backspace(s);
     expect(s.selCol).toBe(0);
     expect(s.entries[1 * 3 + 0]).toBe("");

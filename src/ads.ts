@@ -1,14 +1,14 @@
-// AdMob reklam entegrasyonu (@capacitor-community/admob).
+// AdMob ad integration (@capacitor-community/admob).
 //
-// Gerçek AdMob hesabı: yilkgamesstudio@gmail.com (uygulama: Çengel Bulmaca,
-// App ID ca-app-pub-9709993577664180~3994312791). Yayına çıkmadan önce
-// kalan adım: AdMob hesabında "Privacy & messaging" bölümünden bir GDPR
-// mesaj (UMP) kampanyası oluştur — aşağıdaki requestConsentInfo/showConsentForm
-// çağrıları o kampanyayı render eder; kampanya yoksa AB/AEA dışı
-// kullanıcılarda olduğu gibi NOT_REQUIRED döner ve hiçbir şey göstermez.
+// Real AdMob account: yilkgamesstudio@gmail.com (app: Çengel Bulmaca,
+// App ID ca-app-pub-9709993577664180~3994312791). Remaining step before
+// launch: create a GDPR message (UMP) campaign in the AdMob account's
+// "Privacy & messaging" section — the requestConsentInfo/showConsentForm
+// calls below render that campaign; without a campaign it returns
+// NOT_REQUIRED and shows nothing, same as for users outside the EU/EEA.
 //
-// Sadece native platformda (Android/iOS) çalışır; web/dev ortamında tüm
-// fonksiyonlar sessizce no-op döner, oyun akışını asla bozmaz.
+// Only runs on native platforms (Android/iOS); on web/dev all functions
+// silently no-op and never break the game flow.
 
 import { Capacitor, type PluginListenerHandle } from "@capacitor/core";
 import { AdMob, AdmobConsentStatus, RewardAdPluginEvents } from "@capacitor-community/admob";
@@ -17,29 +17,30 @@ import { adsRemoved } from "./billing.ts";
 const REWARDED_AD_ID = "ca-app-pub-9709993577664180/1978523543";
 const INTERSTITIAL_AD_ID = "ca-app-pub-9709993577664180/6923728460";
 
-// showRewardedHintAd()'ın sözü YALNIZCA Rewarded/Dismissed/FailedToShow
-// eklenti olaylarından biriyle çözülür; hiçbiri garanti değildir (uygulama
-// reklam ortasında arka plana alınırsa ya da eklenti olayı hiç yayınlamazsa
-// söz sonsuza dek asılı kalır). Çağıran taraf (ui.ts) düğmeyi bu söz
-// çözülene kadar devre dışı bırakır — zaman aşımı olmadan düğme oturum
-// boyunca kilitli kalırdı.
+// showRewardedHintAd()'s promise is resolved ONLY by one of the
+// Rewarded/Dismissed/FailedToShow plugin events; none of them is guaranteed
+// (if the app is backgrounded mid-ad, or the plugin never emits an event,
+// the promise would hang forever). The caller (ui.ts) disables the button
+// until this promise resolves — without a timeout the button would stay
+// locked for the rest of the session.
 const REWARD_AD_TIMEOUT_MS = 60_000;
 
-// İki geçiş reklamı arka arkaya gösterilemez (AdMob "disallowed interstitial
-// implementations" kuralı). localStorage'a yazılır ki soğuk başlatma (uygulamayı
-// kapatıp açma) bu korumayı sıfırlamasın — yalnızca bellekte tutulsaydı oyuncu
-// her yeniden açılışta "temiz" bir reklam hakkı kazanmış olurdu.
+// Two interstitial ads can't be shown back-to-back (AdMob's "disallowed
+// interstitial implementations" rule). Written to localStorage so a cold
+// start (closing and reopening the app) doesn't reset this guard — if it
+// were kept only in memory, the player would get a "clean" ad slot on
+// every relaunch.
 const INTERSTITIAL_COOLDOWN_MS = 5 * 60 * 1000;
 const LAST_INTERSTITIAL_KEY = "cengeBulmaca.ads.lastInterstitial";
 
 let initialized = false;
 
 /**
- * Son gösterilen geçiş reklamının epoch ms'i. Kayıt bozuksa ya da cihaz saati
- * geriye alındıysa (değer şu andan ileride görünüyorsa) 0 döner: reklamı
- * sonsuza dek kilitlemek yerine cooldown'u "hiç gösterilmemiş" say — güvenli
- * taraf, oyuncuyu süresiz reklamsız bırakmak değil, kuralın amacını (arka
- * arkaya gösterim yok) korumaktır.
+ * Epoch ms of the last shown interstitial ad. Returns 0 if the stored value
+ * is corrupt or the device clock was set back (the value appears to be in
+ * the future): treat the cooldown as "never shown" instead of locking the
+ * ad out forever — the safe side here is preserving the rule's intent (no
+ * back-to-back shows), not permanently denying the player ads.
  */
 function lastInterstitialAt(): number {
   const raw = Number(localStorage.getItem(LAST_INTERSTITIAL_KEY) ?? "0");
@@ -48,16 +49,17 @@ function lastInterstitialAt(): number {
 }
 
 /**
- * Google'ın gerçek UMP (User Messaging Platform) akışını çalıştırır: AB/AEA
- * bölgesindeki kullanıcılar için gerekiyorsa Google'ın kendi render ettiği
- * GDPR rıza formunu gösterir. Kendi elle yazdığımız bir "kabul ediyorum"
- * ekranı DEĞİL — reklam SDK'larının fiilen uyacağı gerçek rıza sinyalini
- * (IAB TCF) bu üretir; özel bir ekran bunu üretmez ve gerçek uyum sağlamaz.
- * Bölge dışı kullanıcıda ya da kampanya tanımlı değilse sessizce hiçbir şey
- * göstermez (NOT_REQUIRED). Sıra önemli: AdMob.initialize()'dan ÖNCE
- * çalışmalı — reklam SDK'sı rıza belli olmadan başlatılıp reklam isteyemez.
- * Dönüş değeri (canRequestAds), reklam isteğinin gerçekten yapılabilir
- * olup olmadığının tek doğru kaynağıdır.
+ * Runs Google's actual UMP (User Messaging Platform) flow: shows the
+ * Google-rendered GDPR consent form when required, for users in the
+ * EU/EEA region. This is NOT a hand-rolled "I agree" screen — it produces
+ * the real consent signal (IAB TCF) that ad SDKs actually honor; a custom
+ * screen would not produce that and would not provide real compliance.
+ * For users outside the region, or when no campaign is configured, it
+ * silently shows nothing (NOT_REQUIRED). Order matters: this must run
+ * BEFORE AdMob.initialize() — the ad SDK must not be initialized and
+ * request ads before consent is known. The return value (canRequestAds)
+ * is the single source of truth for whether ad requests are actually
+ * allowed.
  */
 async function ensureConsent(): Promise<boolean> {
   try {
@@ -67,9 +69,9 @@ async function ensureConsent(): Promise<boolean> {
     }
     return info.canRequestAds;
   } catch {
-    // rıza bilgisi alınamazsa (ağ yok, kampanya tanımsız vb.) güvenli taraf:
-    // reklam isteme — oyunun kendisi bundan asla etkilenmez, sadece reklamsız
-    // devam eder
+    // If consent info can't be obtained (no network, campaign not
+    // configured, etc.), the safe side is not to request ads — the game
+    // itself is never affected by this, it just continues without ads
     return false;
   }
 }
@@ -88,19 +90,19 @@ async function ensureInitialized(): Promise<boolean> {
   }
 }
 
-/** Uygulama açılışında bir kere çağrılır; web'de sessizce hiçbir şey yapmaz. */
+/** Called once on app startup; silently does nothing on web. */
 export async function initAds(): Promise<void> {
   await ensureInitialized();
 }
 
 /**
- * Ödüllü reklamı hazırlayıp gösterir. Kullanıcı reklamı sonuna kadar
- * izleyip ödülü kazanırsa true döner; erken kapatırsa, reklam
- * yüklenemezse ya da web/dev ortamındaysak false döner. "Dismissed"
- * olayı her iki durumda da (ödüllü/ödülsüz kapanış) tetiklendiği için
- * sonucu o olay üzerinden çözüyoruz — showRewardVideoAd()'ın kendi
- * promise'i yalnızca ödül kazanılırsa çözülür, erken kapanışta hiç
- * çözülmeyip akışı asılı bırakabilir.
+ * Prepares and shows the rewarded ad. Returns true if the user watches the
+ * ad to completion and earns the reward; returns false if they close it
+ * early, the ad fails to load, or we're on web/dev. The "Dismissed" event
+ * fires in both cases (rewarded or not), so we resolve the result through
+ * that event — showRewardVideoAd()'s own promise only resolves when the
+ * reward is actually earned, and would never resolve (leaving the flow
+ * hanging) on an early close.
  */
 export async function showRewardedHintAd(): Promise<boolean> {
   try {
@@ -134,27 +136,27 @@ export async function showRewardedHintAd(): Promise<boolean> {
     ]).then((added) => handles.push(...added));
 
     AdMob.showRewardVideoAd().catch(() => {
-      // Dismissed/FailedToShow olayı sonucu zaten çözecek.
+      // The Dismissed/FailedToShow event will already resolve the result.
     });
   });
 }
 
 /**
- * Geçiş reklamını hazırlayıp gösterir. Ödül döndürmez; bulmaca TAMAMLANIP
- * kutlama ekranı oyuncuya gösterildikten SONRA, oyuncu o ekrandan çıkarken
- * çağrılan tamamen isteğe bağlı bir gelir kanalıdır (bkz. ui.ts:
- * leaveCompletedScreen). Bilerek bulmaca ORTASINDA değil: AdMob'un "disallowed
- * interstitial implementations" kuralı, oyuncu aktif oynarken ya da
- * uygulama açılış/kapanışında geçiş reklamı göstermeyi yasaklıyor; tek izinli
- * an, bir görevin/bölümün bittiği doğal mola noktasıdır. Hata/web ortamında
- * sessizce yok sayılır. Kullanıcı "reklamları kaldır" ürününü satın aldıysa
- * hiç gösterilmez — ödüllü reklam (joker kazanma) bu kısıtlamadan
- * etkilenmez, çünkü kullanıcının kendi isteğiyle bir karşılık için izlediği
- * bir reklamdır.
+ * Prepares and shows the interstitial ad. Does not return a reward; it's a
+ * purely optional revenue channel called AFTER the puzzle is COMPLETED and
+ * the celebration screen has been shown to the player, as they leave that
+ * screen (see ui.ts: leaveCompletedScreen). Deliberately not shown IN THE
+ * MIDDLE of a puzzle: AdMob's "disallowed interstitial implementations"
+ * rule forbids showing interstitials while the player is actively playing,
+ * or on app open/close; the only permitted moment is a natural break point
+ * where a task/level has just ended. Silently ignored on error/web. Never
+ * shown if the user purchased the "remove ads" product — the rewarded ad
+ * (earning a hint) is not affected by this restriction, since it's an ad
+ * the user chooses to watch in exchange for something.
  */
 export async function maybeShowInterstitial(): Promise<void> {
   if (adsRemoved()) return;
-  // İki geçiş reklamı arka arkaya gösterilemez (bkz. INTERSTITIAL_COOLDOWN_MS).
+  // Two interstitial ads can't be shown back-to-back (see INTERSTITIAL_COOLDOWN_MS).
   if (Date.now() - lastInterstitialAt() < INTERSTITIAL_COOLDOWN_MS) return;
   if (!(await ensureInitialized())) return;
   try {
@@ -162,6 +164,6 @@ export async function maybeShowInterstitial(): Promise<void> {
     await AdMob.showInterstitial();
     localStorage.setItem(LAST_INTERSTITIAL_KEY, String(Date.now()));
   } catch {
-    // reklam yüklenemediyse oyun akışını bozmadan devam
+    // If the ad fails to load, continue without breaking the game flow
   }
 }

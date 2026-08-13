@@ -14,23 +14,24 @@ initTheme();
 void initAds();
 void initReferral();
 void restoreAdsRemoved();
-// Tarayıcı/WebView autoplay politikası gereği müzik ancak gerçek bir
-// kullanıcı jestinden sonra başlayabilir; ilk dokunuşta bir kez tetiklenir.
+// Due to the browser/WebView autoplay policy, music can only start after a
+// genuine user gesture; triggered once on the first tap.
 document.addEventListener("pointerdown", () => ensureMusicStarted(), { once: true });
-// İlk ekran anlık açılsın diye ilk bulmacaları (+ günün bulmacasını) hemen
-// yükler; geri kalanı arka planda (bkz. warmPuzzles) indirilir. Ağ hatası
-// burada uygulamanın tamamını YUTMAMALI: try/catch olmadan reddeden bir
-// top-level await modülü çökertir ve App hiç kurulmaz (bkz. ensureLoaded —
-// tek tek bulmaca açılışında zaten kendi hata payı var).
+// Loads the first puzzles (+ the puzzle of the day) right away so the
+// initial screen appears instantly; the rest is downloaded in the
+// background (see warmPuzzles). A network error here must NOT swallow the
+// whole app: a top-level await that rejects without a try/catch crashes
+// the module and App never gets set up (see ensureLoaded — opening an
+// individual puzzle already has its own error handling).
 try {
   await warmPuzzles(dailyIndex(puzzles.length));
 } catch {
-  /* eager yükleme başarısız: yer tutucularla devam, ensureLoaded tek tek dener */
+  /* eager load failed: continue with placeholders, ensureLoaded retries individually */
 }
 const root = document.querySelector<HTMLDivElement>("#app")!;
-// Bulut kaydı senkronu açılışı BEKLETMEZ (kötü ağda 7 saniyeye kadar
-// sürebilir); splash ve oyun normal akışında ilerler, cevap gelince gerekiyorsa
-// araya girer (bkz. cloud-ui.ts).
+// Cloud save sync does NOT block startup (can take up to 7 seconds on a
+// bad network); the splash and game proceed on their normal flow, and it
+// steps in afterward if needed once the response arrives (see cloud-ui.ts).
 void initCloudSave(root);
 const app = new App(root, puzzles);
 app.attachPhysicalKeyboard();
@@ -38,14 +39,15 @@ attachAndroidBackButton(app);
 app.start();
 
 /**
- * Android geri tuşunu uygulama içi gezinmeye bağlar.
+ * Wires the Android back button to in-app navigation.
  *
- * Bir dinleyici KAYDEDİLMEDİĞİ sürece Capacitor geri tuşunu doğrudan
- * uygulamayı kapatmaya çevirir — oyuncu bulmacanın ortasındayken bile.
- * Karar mantığı App.handleBack()'te; burada yalnızca eklentiye bağlanıyor.
+ * As long as no listener is REGISTERED, Capacitor turns the back button
+ * directly into closing the app — even while the player is mid-puzzle. The
+ * decision logic lives in App.handleBack(); this only wires up the plugin.
  *
- * Eklenti yoksa (tarayıcıda çalışırken) import başarısız olur ve sessizce
- * geçilir — ads.ts/billing.ts'teki "eklenti yoksa no-op" deyiminin aynısı.
+ * If the plugin isn't available (running in a browser), the import fails
+ * and is silently skipped — the same "no plugin, no-op" convention used in
+ * ads.ts/billing.ts.
  */
 function attachAndroidBackButton(instance: App): void {
   void import("@capacitor/app")
@@ -55,6 +57,6 @@ function attachAndroidBackButton(instance: App): void {
       });
     })
     .catch(() => {
-      /* tarayıcıda geri tuşu diye bir şey yok */
+      /* there's no such thing as a back button in a browser */
     });
 }

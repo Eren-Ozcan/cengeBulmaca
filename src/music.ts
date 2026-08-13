@@ -1,10 +1,11 @@
-// Arka plan müziği. sound.ts'in aksine (osilatörle sentezlenen kısa efektler)
-// gerçek bir ses dosyası çalar: public/music/anadolu-loop.ogg — CC0 lisanslı,
-// "Feel Good Island Loop" (Brandon Morris, OpenGameArt.org), atıf gerekmez.
+// Background music. Unlike sound.ts (short effects synthesized with an
+// oscillator), this plays an actual audio file: public/music/anadolu-loop.ogg
+// — CC0 licensed, "Feel Good Island Loop" (Brandon Morris, OpenGameArt.org),
+// no attribution required.
 //
-// Tarayıcı/WebView autoplay politikası gereği bir <audio> öğesi kullanıcı
-// jesti olmadan çalmaya başlayamaz; bkz. main.ts'teki tek seferlik
-// "ilk dokunuşta başlat" dinleyicisi. Tercih localStorage'da tutulur.
+// Due to the browser/WebView autoplay policy, an <audio> element can't
+// start playing without a user gesture; see the one-time "start on first
+// tap" listener in main.ts. The preference is kept in localStorage.
 
 const KEY = "cengel-music";
 const TRACK_URL = "/music/anadolu-loop.ogg";
@@ -21,7 +22,7 @@ export function musicEnabled(): boolean {
   }
 }
 
-/** Audio öğesini tembel oluşturur; Audio global'i yoksa (ör. testte) null döner. */
+/** Lazily creates the audio element; returns null if the Audio global doesn't exist (e.g. in tests). */
 function ensureAudio(): HTMLAudioElement | null {
   if (audio || audioTried) return audio;
   audioTried = true;
@@ -41,7 +42,7 @@ function safePlay(a: HTMLAudioElement): void {
     const p = a.play();
     if (p && typeof p.catch === "function") p.catch(() => {});
   } catch {
-    // autoplay engellendi ya da ortam play()'i desteklemiyor
+    // autoplay was blocked, or the environment doesn't support play()
   }
 }
 
@@ -49,17 +50,17 @@ function safePause(a: HTMLAudioElement): void {
   try {
     a.pause();
   } catch {
-    // ortam pause()'ı desteklemiyor (ör. test ortamı)
+    // the environment doesn't support pause() (e.g. the test environment)
   }
 }
 
-/** Müziği açıp kapatır; yeni durumu döndürür. Zaten oluşturulmuşsa anında durur/devam eder. */
+/** Toggles music on/off; returns the new state. If already created, stops/resumes immediately. */
 export function toggleMusic(): boolean {
   const on = !musicEnabled();
   try {
     localStorage.setItem(KEY, on ? "on" : "off");
   } catch {
-    // depolama yoksa tercih oturumla sınırlı kalır
+    // if storage is unavailable, the preference is limited to this session
   }
   const a = ensureAudio();
   if (a) {
@@ -70,9 +71,9 @@ export function toggleMusic(): boolean {
 }
 
 /**
- * Gerçek bir kullanıcı jestinin (tıklama/dokunma) içinden çağrılmalı —
- * tarayıcı/WebView autoplay kısıtlaması yüzünden aksi halde sessizce
- * reddedilir. Müzik tercihi kapalıysa hiçbir şey yapmaz.
+ * Must be called from within a genuine user gesture (click/tap) — otherwise
+ * it's silently rejected due to the browser/WebView autoplay restriction.
+ * Does nothing if the music preference is off.
  */
 export function ensureMusicStarted(): void {
   if (!musicEnabled()) return;

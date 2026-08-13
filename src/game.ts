@@ -6,22 +6,22 @@ import type { Grid, LetterCell, PuzzleDef } from "./types.ts";
 export interface GameState {
   puzzle: PuzzleDef;
   grid: Grid;
-  /** Oyuncunun girdiği harfler; index = row * cols + col, boşsa "" */
+  /** Letters entered by the player; index = row * cols + col, "" if empty */
   entries: string[];
-  /** Seçili harf hücresi (yoksa null) */
+  /** Selected letter cell (null if none) */
   selRow: number | null;
   selCol: number | null;
-  /** Seçili ipucu indeksi (aktif kelime) */
+  /** Selected clue index (active word) */
   activeClue: number | null;
-  /** Kontrol sonucu yanlış işaretlenen hücreler */
+  /** Cells marked wrong by the check result */
   wrongCells: Set<number>;
   completed: boolean;
-  /** Rehber (tutorial) oyunu: ilerleme kaydedilmez, istatistiğe işlenmez */
+  /** Tutorial (guide) game: progress isn't saved, isn't recorded in stats */
   practice: boolean;
 }
 
 export interface NewGameOptions {
-  /** Rehber oyunu: kayıt/istatistik dokunulmaz (bkz. GameState.practice) */
+  /** Tutorial game: save/stats are untouched (see GameState.practice) */
   practice?: boolean;
 }
 
@@ -47,13 +47,14 @@ export function newGame(
   if (!state.practice) {
     loadProgress(state);
     state.completed = isSolved(state);
-    // finishIfSolved harf kaydını tamamlanınca SİLER (depolamayı şişirmesin
-    // diye, bkz. clearProgress) — ama oyuncu çözülmüş bir bulmacayı listeden
-    // tekrar açtığında entries boş gelir ve grid sanki hiç çözülmemiş gibi
-    // bomboş açılır (bkz. ui.ts renderChapter — solved bulmacalar da
-    // openPuzzle çağırır, özel bir dal yok). Saklı ilerlemeye gerek yok:
-    // çözüm zaten istemcide (crossword verisinde) bilinir, stats.ts'e göre
-    // çözülmüşse harfler doğrudan grid'in kendi çözümünden doldurulur.
+    // finishIfSolved DELETES the letter save once completed (so it doesn't
+    // bloat storage, see clearProgress) — but when the player reopens a
+    // solved puzzle from the list, entries comes back empty and the grid
+    // would render blank, as if never solved (see ui.ts renderChapter —
+    // solved puzzles also call openPuzzle, there's no special branch). No
+    // stored progress is needed: the solution is already known client-side
+    // (in the crossword data), so if stats.ts says it's solved, the letters
+    // are filled directly from the grid's own solution.
     if (!state.completed && isSolvedPuzzle(puzzle.id)) {
       fillWithSolution(state);
       state.completed = true;
@@ -62,7 +63,7 @@ export function newGame(
   return state;
 }
 
-/** Tüm harf hücrelerini kendi çözümüyle doldurur (bkz. newGame). */
+/** Fills all letter cells with their own solution (see newGame). */
 function fillWithSolution(s: GameState): void {
   for (const cell of s.grid.cells) {
     if (cell.kind !== "letter") continue;
@@ -83,15 +84,16 @@ export function letterCellAt(
 }
 
 /**
- * Hücrenin kelime içindeki sırası = o kelimenin sorusuna olan uzaklığı:
- * soru hücresi her zaman kelimenin ilk harfinin hemen yanındadır, yani
- * k'ıncı harfin soruya uzaklığı k+1'dir. Hücre kelimede yoksa -1.
+ * A cell's position within a word = its distance from that word's clue
+ * cell: the clue cell is always immediately next to the word's first
+ * letter, so the k-th letter's distance from the clue is k+1. -1 if the
+ * cell isn't part of the word.
  */
 function distanceToClue(s: GameState, ci: number, r: number, c: number): number {
   return s.grid.cluePlacements[ci].findIndex((p) => p.row === r && p.col === c);
 }
 
-/** Hücreden geçen kelimeler içinde sorusu en yakın olanı */
+/** Among the words passing through this cell, the one whose clue is nearest */
 function nearestClue(s: GameState, cell: LetterCell): number {
   let best = cell.clueIndexes[0];
   let bestDist = Infinity;
@@ -106,10 +108,11 @@ function nearestClue(s: GameState, cell: LetterCell): number {
 }
 
 /**
- * Hücreye dokunma: hücre seçilir ve yazma yönü, hücreye EN YAKIN soruya
- * kilitlenir — kesişen iki kelimeden sorusu daha yakın olan aktif olur,
- * böylece dokunulan kutunun hangi soruya ait olduğu tahmin gerektirmez.
- * Aynı hücreye tekrar dokunulursa (kesişimdeyse) diğer kelimeye geçilir.
+ * Tapping a cell: the cell is selected and the writing direction locks to
+ * the clue NEAREST to the cell — of the two intersecting words, the one
+ * whose clue is closer becomes active, so which clue the tapped box
+ * belongs to never needs guessing. Tapping the same cell again (if it's an
+ * intersection) switches to the other word.
  */
 export function selectCell(s: GameState, r: number, c: number): void {
   const cell = letterCellAt(s, r, c);
@@ -121,7 +124,7 @@ export function selectCell(s: GameState, r: number, c: number): void {
 
   const clues = cell.clueIndexes;
   if (sameCell && s.activeClue !== null && clues.includes(s.activeClue)) {
-    // aynı hücrede tekrar dokunuş: sıradaki kelimeye geç
+    // tapping the same cell again: switch to the next word
     const i = clues.indexOf(s.activeClue);
     s.activeClue = clues[(i + 1) % clues.length];
   } else {
@@ -130,8 +133,9 @@ export function selectCell(s: GameState, r: number, c: number): void {
 }
 
 /**
- * İmleci aktif kelimenin içinde taşır (cevap panelindeki harf kutuları için).
- * selectCell'den farkı: yönü değiştirmez, kesişen kelimeye atlamaz.
+ * Moves the cursor within the active word (for the letter boxes in the
+ * answer panel). Difference from selectCell: doesn't change direction,
+ * doesn't jump to an intersecting word.
  */
 export function moveCursorInActiveClue(s: GameState, r: number, c: number): void {
   if (s.activeClue === null) return;
@@ -140,14 +144,14 @@ export function moveCursorInActiveClue(s: GameState, r: number, c: number): void
   s.selCol = c;
 }
 
-/** Aktif kelime içinde seçili hücrenin sırasını döndürür */
+/** Returns the position of the selected cell within the active word */
 function activePos(s: GameState): number {
   if (s.activeClue === null || s.selRow === null) return -1;
   const cells = s.grid.cluePlacements[s.activeClue];
   return cells.findIndex((p) => p.row === s.selRow && p.col === s.selCol);
 }
 
-/** Kelimenin tüm harfleri doğru girilmiş mi */
+/** Whether every letter of the word has been entered correctly */
 export function isWordSolved(s: GameState, ci: number): boolean {
   return s.grid.cluePlacements[ci].every((p) => {
     const i = cellIdx(s, p.row, p.col);
@@ -157,10 +161,11 @@ export function isWordSolved(s: GameState, ci: number): boolean {
 }
 
 /**
- * Doğru tamamlanmış bir kelimenin harfi mi? Bu hücreler kilitlidir: üzerine
- * yazılamaz, silinemez — imleç onları atlar. Kilit hep kelime bazlıdır,
- * tek tek doğru harfler değil; yanlış bir kelimede tesadüfen doğru duran
- * harf oyuncuyu kilitlemesin diye.
+ * Is this a letter of a correctly completed word? These cells are locked:
+ * can't be overwritten or deleted — the cursor skips them. Locking is
+ * always per-word, never per individual correct letter, so a letter that
+ * happens to be correct within an otherwise wrong word doesn't lock the
+ * player out.
  */
 export function isCellLocked(s: GameState, r: number, c: number): boolean {
   const cell = letterCellAt(s, r, c);
@@ -169,8 +174,8 @@ export function isCellLocked(s: GameState, r: number, c: number): boolean {
 }
 
 /**
- * Aktif kelimede verilen sıradan başlayarak (dahil) yönü boyunca ilk
- * kilitsiz hücrenin sırası; yoksa -1.
+ * Position of the first unlocked cell in the active word, starting from
+ * (and including) the given position, along the given direction; -1 if none.
  */
 function nextEditablePos(s: GameState, from: number, dir: 1 | -1): number {
   if (s.activeClue === null) return -1;
@@ -181,7 +186,7 @@ function nextEditablePos(s: GameState, from: number, dir: 1 | -1): number {
   return -1;
 }
 
-/** İmleci aktif kelimenin verilen sırasındaki hücreye taşır */
+/** Moves the cursor to the cell at the given position in the active word */
 function moveToPos(s: GameState, pos: number): void {
   const cell = s.grid.cluePlacements[s.activeClue!][pos];
   s.selRow = cell.row;
@@ -189,9 +194,9 @@ function moveToPos(s: GameState, pos: number): void {
 }
 
 /**
- * Harf girer, imleci kelime içindeki bir sonraki YAZILABİLİR hücreye
- * ilerletir. Kilitli hücrenin üzerine yazılmaz; imleç öne doğru ilk boş
- * hücreye kayar ve harf oraya düşer.
+ * Enters a letter, advances the cursor to the next WRITABLE cell in the
+ * word. Never overwrites a locked cell; the cursor moves forward to the
+ * first open cell and the letter goes there instead.
  */
 export function typeLetter(s: GameState, letter: string): void {
   if (s.selRow === null || s.selCol === null || s.completed) return;
@@ -200,7 +205,7 @@ export function typeLetter(s: GameState, letter: string): void {
   if (isCellLocked(s, s.selRow, s.selCol)) {
     if (pos < 0) return;
     pos = nextEditablePos(s, pos, 1);
-    if (pos < 0) return; // kelimede yazılabilir hücre kalmadı
+    if (pos < 0) return; // no writable cell left in the word
     moveToPos(s, pos);
   }
 
@@ -209,8 +214,8 @@ export function typeLetter(s: GameState, letter: string): void {
   s.entries[i] = ch;
   s.wrongCells.delete(i);
 
-  // kelime içinde bir sonraki yazılabilir hücreye geç (bu harfle kelime
-  // tamamlandıysa hepsi kilitlenir ve imleç yerinde kalır)
+  // move to the next writable cell in the word (if this letter completed
+  // the word, all its cells lock and the cursor stays put)
   if (pos >= 0) {
     const next = nextEditablePos(s, pos + 1, 1);
     if (next >= 0) moveToPos(s, next);
@@ -220,8 +225,9 @@ export function typeLetter(s: GameState, letter: string): void {
 }
 
 /**
- * Silme: hücre yazılabilir ve doluysa temizler; boş ya da kilitliyse
- * kelimede geriye doğru ilk yazılabilir hücreye gidip onu temizler.
+ * Backspace: clears the cell if it's writable and filled; if it's empty or
+ * locked, moves backward within the word to the first writable cell and
+ * clears that instead.
  */
 export function backspace(s: GameState): void {
   if (s.selRow === null || s.selCol === null || s.completed) return;
@@ -243,7 +249,7 @@ export function backspace(s: GameState): void {
   saveProgress(s);
 }
 
-/** Dolu hücreleri kontrol eder, yanlışları işaretler. Yanlış sayısını döndürür. */
+/** Checks filled cells, marks the wrong ones. Returns the count of wrong entries. */
 export function checkEntries(s: GameState): number {
   s.wrongCells.clear();
   let wrong = 0;
@@ -259,9 +265,10 @@ export function checkEntries(s: GameState): number {
 }
 
 /**
- * Seçili hücrenin doğru harfini açar. Hücre zaten doğruysa (ör. kilitli bir
- * kesişim harfinin üzerindeyken) ipucu boşa gitmesin diye aktif kelimedeki
- * ilk eksik/yanlış hücre açılır. Gerçekten bir harf açıldıysa true döner.
+ * Reveals the correct letter for the selected cell. If the cell is already
+ * correct (e.g. sitting on a locked intersection letter), the first
+ * missing/wrong cell in the active word is revealed instead, so the hint
+ * isn't wasted. Returns true if a letter was actually revealed.
  */
 export function revealLetter(s: GameState): boolean {
   if (s.selRow === null || s.selCol === null || s.completed) return false;
@@ -279,7 +286,7 @@ export function revealLetter(s: GameState): boolean {
   return true;
 }
 
-/** Aktif kelimede henüz doğru olmayan ilk hücre */
+/** The first cell in the active word that isn't correct yet */
 function firstUnsolvedCell(s: GameState): LetterCell | null {
   if (s.activeClue === null) return null;
   for (const p of s.grid.cluePlacements[s.activeClue]) {
@@ -291,7 +298,7 @@ function firstUnsolvedCell(s: GameState): LetterCell | null {
   return null;
 }
 
-/** Çözüm tamamlandıysa oyunu bitirir, seriyi işler; değilse ilerlemeyi kaydeder. */
+/** Ends the game and records the streak if solved; otherwise saves progress. */
 function finishIfSolved(s: GameState): void {
   if (isSolved(s)) {
     s.completed = true;
@@ -314,10 +321,12 @@ export function isSolved(s: GameState): boolean {
 
 function saveProgress(s: GameState): void {
   if (s.practice) return;
-  // Buluttan yeni bir kayıt indirildiyse (sayfa yenilenene kadar) yazma:
-  // `s.entries` bulmaca AÇILIRKEN okunmuştu, yani indirilen ilerlemeden
-  // önceki oyuna ait. Tek bir tuş bile o bayat diziyi yeni kaydın üstüne
-  // yazar ve ardından buluta yüklenirdi (bkz. cloud-save.ts isSaveFrozen).
+  // If a new save was just downloaded from the cloud (until the page
+  // reloads), don't write: `s.entries` was read when the puzzle was
+  // OPENED, i.e. it belongs to the game state before the downloaded
+  // progress. Even a single keystroke would overwrite that stale array on
+  // top of the new save, and it would then get uploaded to the cloud (see
+  // cloud-save.ts isSaveFrozen).
   if (isSaveFrozen()) return;
   try {
     localStorage.setItem(
@@ -330,7 +339,7 @@ function saveProgress(s: GameState): void {
       }),
     );
   } catch {
-    // depolama kullanılamıyorsa oyun kayıtsız devam eder
+    // if storage is unavailable, the game continues without saving
   }
 }
 
@@ -339,7 +348,7 @@ function loadProgress(s: GameState): void {
     const raw = localStorage.getItem(STORAGE_PREFIX + s.puzzle.id);
     if (!raw) return;
     const saved = JSON.parse(raw);
-    // eski kayıt biçimi: düz harf dizisi (imleç konumu yok)
+    // old save format: plain letter array (no cursor position)
     if (Array.isArray(saved)) {
       if (saved.length === s.entries.length) {
         s.entries = saved.map((x) => (typeof x === "string" ? x : ""));
@@ -352,9 +361,10 @@ function loadProgress(s: GameState): void {
         typeof x === "string" ? x : "",
       );
     }
-    // kaldığı hücreyi/kelimeyi de geri getir; oyuncu her seferinde ilk boş
-    // hücreden değil, en son bıraktığı yerden devam eder. İkisi birden
-    // geçerliyse uygulanır, aksi halde ilk-boş-hücre varsayılanına düşülür.
+    // also restore the cell/word where the player left off; they resume
+    // from where they last stopped instead of the first empty cell every
+    // time. Applied only if both are valid, otherwise falls back to the
+    // first-empty-cell default.
     if (
       typeof saved.selRow === "number" &&
       typeof saved.selCol === "number" &&
@@ -368,7 +378,7 @@ function loadProgress(s: GameState): void {
       s.activeClue = saved.activeClue;
     }
   } catch {
-    // bozuk kayıt yok sayılır
+    // a corrupt save is ignored
   }
 }
 
@@ -376,20 +386,20 @@ function clearProgress(id: string): void {
   try {
     localStorage.removeItem(STORAGE_PREFIX + id);
   } catch {
-    // yok sayılır
+    // ignored
   }
 }
 
 /**
- * Kayıtlı ilerleme oranı (0-1): dolu harf hücresi / toplam harf hücresi.
- * Ana menüdeki ilerleme çubukları için; kayıt yoksa 0.
+ * Saved progress ratio (0-1): filled letter cells / total letter cells.
+ * For the progress bars in the main menu; 0 if there's no save.
  */
 export function savedProgress(puzzle: PuzzleDef): number {
   try {
     const raw = localStorage.getItem(STORAGE_PREFIX + puzzle.id);
     if (!raw) return 0;
     const parsed = JSON.parse(raw);
-    // eski biçim: düz dizi. yeni biçim: { entries, selRow, selCol, activeClue }
+    // old format: plain array. new format: { entries, selRow, selCol, activeClue }
     const entries = Array.isArray(parsed) ? parsed : parsed?.entries;
     if (!Array.isArray(entries)) return 0;
     const grid = buildGrid(puzzle);

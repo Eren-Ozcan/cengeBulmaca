@@ -1,25 +1,25 @@
-// Çengel bulmaca veri modeli.
+// Çengel bulmaca (hooked crossword) data model.
 //
-// Izgara iki tür hücreden oluşur:
-//  - İpucu hücresi: soru metnini ve cevabın yönünü gösteren oku içerir.
-//  - Harf hücresi: çözümün bir harfini taşır.
+// The grid consists of two kinds of cells:
+//  - Clue cell: contains the clue text and the arrow showing the answer's direction.
+//  - Letter cell: carries one letter of the solution.
 //
-// Ok türleri (ipucu hücresine göre cevabın başlangıcı ve yönü):
-//  - "right":      cevap ipucunun sağındaki hücreden başlar, sağa gider
-//  - "down":       cevap ipucunun altındaki hücreden başlar, aşağı gider
-//  - "right-down": cevap ipucunun sağındaki hücreden başlar, aşağı gider
-//  - "down-right": cevap ipucunun altındaki hücreden başlar, sağa gider
+// Arrow types (the answer's starting point and direction relative to the clue cell):
+//  - "right":      the answer starts in the cell to the right of the clue, goes right
+//  - "down":       the answer starts in the cell below the clue, goes down
+//  - "right-down": the answer starts in the cell to the right of the clue, goes down
+//  - "down-right": the answer starts in the cell below the clue, goes right
 
 export type ArrowDir = "right" | "down" | "right-down" | "down-right";
 
 export interface ClueDef {
-  /** Soru metni (hücre içinde gösterilir) */
+  /** Clue text (shown inside the cell) */
   text: string;
-  /** Cevap, Türkçe büyük harf (İ, I, Ğ, Ü, Ş, Ö, Ç dahil) */
+  /** Answer, uppercase Turkish (including İ, I, Ğ, Ü, Ş, Ö, Ç) */
   answer: string;
-  /** İpucu hücresinin satırı (0 tabanlı) */
+  /** Row of the clue cell (0-based) */
   row: number;
-  /** İpucu hücresinin sütunu (0 tabanlı) */
+  /** Column of the clue cell (0-based) */
   col: number;
   arrow: ArrowDir;
 }
@@ -32,16 +32,17 @@ export interface PuzzleDef {
   rows: number;
   cols: number;
   clues: ClueDef[];
-  /** Soru barındırmayan koyu (blok) hücreler */
+  /** Dark (block) cells that don't hold a clue */
   blocks?: { row: number; col: number }[];
-  /** Zorluk etiketi; verilmezse listede gösterilmez */
+  /** Difficulty label; not shown in the list if omitted */
   difficulty?: Difficulty;
-  /** Oyuncuya gösterilme sırası (kolaydan zora doğru kademeli zorluk için).
-   * Verilmezse dosya adındaki numara kullanılır — bkz. puzzles/index.ts. */
+  /** Order the puzzle is shown to the player in (for gradual easy-to-hard
+   * difficulty progression). If omitted, the number in the file name is
+   * used — see puzzles/index.ts. */
   order?: number;
 }
 
-/** Cevabın yerleştiği hücreler: başlangıç konumu ve ilerleme yönü */
+/** Cells the answer occupies: starting position and direction of travel */
 export interface Placement {
   startRow: number;
   startCol: number;
@@ -53,9 +54,9 @@ export interface LetterCell {
   kind: "letter";
   row: number;
   col: number;
-  /** Çözüm harfi */
+  /** Solution letter */
   solution: string;
-  /** Bu hücreden geçen ipuçlarının indeksleri (puzzle.clues içinde) */
+  /** Indexes of the clues that pass through this cell (into puzzle.clues) */
   clueIndexes: number[];
 }
 
@@ -63,7 +64,7 @@ export interface ClueCell {
   kind: "clue";
   row: number;
   col: number;
-  /** Bu hücrede duran ipuçlarının indeksleri (en fazla 2) */
+  /** Indexes of the clues sitting in this cell (at most 2) */
   clueIndexes: number[];
 }
 
@@ -74,6 +75,6 @@ export interface Grid {
   cols: number;
   /** rows*cols; index = row * cols + col */
   cells: Cell[];
-  /** Her ipucu için hesaplanmış harf hücresi konumları */
+  /** Computed letter cell positions for each clue */
   cluePlacements: { row: number; col: number }[][];
 }
