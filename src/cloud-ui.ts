@@ -178,7 +178,17 @@ function showConflict(root: HTMLElement): void {
 
   overlay.appendChild(modal);
   // Arka plana dokunarak kapatılamaz: seçim yapılmadan yazma serbest bırakılmaz.
-  root.appendChild(overlay);
+  //
+  // `root`A DEĞİL `document.body`YE eklenir: ui.ts'teki her renderHome/
+  // renderCollection/... ekran geçişi `root.innerHTML = ""` yapar (App
+  // tam yeniden çizim modeli). Senkron cevabı oyuncu çoktan gezinmeye
+  // başladıktan SONRA gelebilir (açılış senkronu bilerek bloklamıyor);
+  // overlay root'a eklenseydi bir sonraki ekran çizimi onu sessizce silerdi
+  // ama cloud-save.ts'teki `blocked` bayrağı temizlenmeden kalırdı — oyuncu
+  // seçim yapma şansı bulamadan bulut senkronu oturum boyunca kilitlenirdi.
+  // body seviyesinde kalmak overlay'in App'in çizim döngüsünden bağımsız,
+  // yalnızca butona basılınca kapanmasını garanti eder.
+  document.body.appendChild(overlay);
 }
 
 // ---------- ayarlar satırı ----------
