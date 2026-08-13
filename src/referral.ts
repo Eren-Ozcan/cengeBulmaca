@@ -87,6 +87,22 @@ async function ensureReady(): Promise<string | null> {
   return readyPromise;
 }
 
+/**
+ * Oturum başka bir hesaba geçtiğinde çağrılır (bkz. cloud-save.ts
+ * resetForNewAccount — aynı olay, iki modülün ayrı belleği). `readyPromise`
+ * modül düzeyinde bir kez belleğe alınır (yukarıdaki ensureReady) ve
+ * sıfırlanmazsa hesap değişse bile eski hesabın uid'ini döndürmeye devam
+ * ederdi: getInviteLink/syncCloudJokers/claimFirstPuzzleReferralReward
+ * oturumun geri kalanında sessizce eski hesabın `players/{eskiUid}`
+ * belgesini okuyup yazardı, yeni bağlanan hesap davet ödüllerini hiç
+ * göremezdi.
+ */
+export function resetForNewAccount(): void {
+  readyPromise = null;
+  db = null;
+  fs = null;
+}
+
 /** Uygulama açılışında bir kere çağrılır; web/dev ya da yapılandırmasız ortamda no-op. */
 export async function initReferral(): Promise<void> {
   const uid = await ensureReady();

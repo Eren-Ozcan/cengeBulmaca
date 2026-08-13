@@ -27,13 +27,14 @@ import {
   flushCloudSave,
   localSummary,
   maybeUploadCloudSave,
-  resetForNewAccount,
+  resetForNewAccount as resetCloudSaveForNewAccount,
   resolveKeepCloud,
   resolveKeepLocal,
   syncCloudSave,
   type CloudSummary,
   type CloudSyncResult,
 } from "./cloud-save.ts";
+import { resetForNewAccount as resetReferralForNewAccount } from "./referral.ts";
 
 /** Kirli kayıt kontrolü; gerçek yazma cloud-save.ts'teki kısıtlamaya tabidir. */
 const UPLOAD_CHECK_MS = 30_000;
@@ -239,8 +240,11 @@ async function onLinkClick(root: HTMLElement, refresh: () => void): Promise<void
   if (res.switched) {
     // Başka bir hesaba geçildi: cihazdaki rev sayacı ve parmak izi eski hesaba
     // aitti, artık anlamsız. Sıfırlayıp senkronu baştan çalıştırınca buluttaki
-    // ilerleme ya doğrudan gelir ya da oyuncuya seçtirilir.
-    resetForNewAccount();
+    // ilerleme ya doğrudan gelir ya da oyuncuya seçtirilir. referral.ts'in
+    // kendi uid önbelleği de aynı sebeple sıfırlanmalı, yoksa davet ödülleri
+    // oturumun geri kalanında eski hesaba yazılmaya devam eder.
+    resetCloudSaveForNewAccount();
+    resetReferralForNewAccount();
   }
   handleSyncResult(root, await syncCloudSave());
 }
