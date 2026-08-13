@@ -1,10 +1,10 @@
 // @vitest-environment jsdom
 //
-// App sınıfını gerçek bir DOM üzerinde, kullanıcı gibi (ekran klavyesine
-// tıklayarak, kartlara/pimlere dokunarak) sürüp render edilen sonucu
-// doğrulayan uçtan uca stil testler. Alt katmanlar (game.ts, stats.ts,
-// cats.ts) kendi birim testlerinde ayrıca doğrulanıyor; burada amaç bu
-// parçaların ui.ts içinde doğru bağlandığını görmek.
+// End-to-end style tests that drive the App class on a real DOM like a user
+// would (clicking the on-screen keyboard, tapping cards/pins) and verify the
+// rendered result. Lower layers (game.ts, stats.ts, cats.ts) are separately
+// verified in their own unit tests; the goal here is to see that these
+// pieces are wired up correctly inside ui.ts.
 
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import { App } from "./ui.ts";
@@ -14,7 +14,7 @@ import type { PuzzleDef } from "./types.ts";
 
 const storage = installMemoryStorage();
 
-// game.test.ts / puzzle.test.ts'teki 3x3 fikstürün aynısı:
+// Same 3x3 fixture as in game.test.ts / puzzle.test.ts:
 //   [S1][S2][■ ]
 //   [B ][A ][L ]
 //   [■ ][T ][■ ]
@@ -40,7 +40,7 @@ function freshRoot(): HTMLElement {
   return document.getElementById("app")!;
 }
 
-/** Testlerde zaman aşımına dayalı açılış ekranını atlayarak App kurar. */
+/** Sets up App in tests while skipping the timeout-based splash screen. */
 function newApp(root: HTMLElement, puzzles: PuzzleDef[]): App {
   return new App(root, puzzles, { skipSplash: true });
 }
@@ -59,19 +59,19 @@ function clickWithText(root: HTMLElement, selector: string, text: string): void 
   el.click();
 }
 
-/** Ekran klavyesine tıklayarak bir kelime yazar (aktif soruya). */
+/** Types a word by clicking the on-screen keyboard (into the active clue). */
 function typeWord(root: HTMLElement, word: string): void {
   for (const ch of word) clickWithText(root, ".kb-key", ch);
 }
 
-/** Açık bir bulmacayı ekran klavyesiyle uçtan uca çözer. */
+/** Solves an open puzzle end-to-end using the on-screen keyboard. */
 function solveTinyPuzzle(root: HTMLElement): void {
   typeWord(root, "BAL");
   typeWord(root, "AT");
 }
 
-/** Ana menüden bölüme girip içindeki n'inci bulmacayı açar (testlerde
- * kullanılan az sayıda bulmaca hep ilk bölüme sığar). */
+/** From the main menu, enters the chapter and opens the nth puzzle inside it
+ * (the small number of puzzles used in tests always fits in the first chapter). */
 function openPuzzleCard(root: HTMLElement, index = 0): void {
   clickNth(root, ".chapter-card", 0);
   clickNth(root, ".puzzle-card", index);
@@ -79,8 +79,8 @@ function openPuzzleCard(root: HTMLElement, index = 0): void {
 
 beforeEach(() => {
   storage.clear();
-  // rehber testleri dışında her senaryo oyunu "rehberi görmüş" oyuncuyla
-  // başlatır; aksi halde ilk açılış rehbere düşer
+  // Outside of the tutorial tests, every scenario starts the game as a
+  // player who has "seen the tutorial"; otherwise the first launch falls into the tutorial
   storage.setItem("cengel-tutorial-seen", "1");
 });
 
@@ -147,7 +147,7 @@ describe("bulmaca çözme akışı", () => {
     openPuzzleCard(root, 1);
     solveTinyPuzzle(root);
 
-    // CATS[0] (Pamuk) unlockAt: 2 — bu ikinci farklı çözümle tam eşleşir
+    // CATS[0] (Pamuk) unlockAt: 2 — this matches exactly on this second, distinct solve
     const modal = root.querySelector(".modal")!;
     expect(modal.querySelector(".cat-reveal-tag")).toBeTruthy();
     expect(modal.querySelector(".modal-title")!.textContent).toBe(CATS[0].name);
@@ -187,18 +187,18 @@ describe("ipucu, joker ve reklam", () => {
     newApp(root, [PUZZLE_A]).start();
     openPuzzleCard(root, 0);
 
-    // üç ücretsiz ipucu BAL'ı tamamlar
+    // three free hints complete BAL
     for (let i = 0; i < 3; i++) {
       clickWithText(root, ".action-btn", `İpucu (${3 - i})`);
     }
 
-    // BAL bitti: açılacak harf kalmadığı için joker harcanmaz
+    // BAL is done: no jokers are spent since there are no more letters to reveal
     clickWithText(root, ".action-btn", "🃏 İpucu (5)");
     expect(root.querySelector(".toast")?.textContent).toContain("açılacak harf kalmadı");
     expect(storage.getItem("cengel-jokers")).toBe("5");
 
-    // AT'a geçince ücretsiz hak bittiği için joker devreye girer
-    clickNth(root, ".letter-cell", 3); // (2,1): sadece AT'ta
+    // Switching to AT, the free allowance is exhausted so jokers kick in
+    clickNth(root, ".letter-cell", 3); // (2,1): only in AT
     clickWithText(root, ".action-btn", "🃏 İpucu (5)");
     expect(storage.getItem("cengel-jokers")).toBe("4");
   });
@@ -299,7 +299,7 @@ describe("açılış ekranı (splash)", () => {
 });
 
 describe("zorunlu ilk açılış rehberi (tutorial)", () => {
-  /** Rehber ızgarasındaki (r,c) hücresine dokunur (soru hücresi de olabilir) */
+  /** Taps the (r,c) cell in the tutorial grid (can also be a clue cell) */
   function tapCell(root: HTMLElement, r: number, c: number): void {
     const cells = root.querySelectorAll<HTMLElement>(".grid > .cell");
     const cell = cells[r * 5 + c];
@@ -307,17 +307,17 @@ describe("zorunlu ilk açılış rehberi (tutorial)", () => {
     (cell.querySelector<HTMLElement>(".clue-part") ?? cell).click();
   }
 
-  /** Rehberi baştan sona, tarif edilen hamleleri yaparak oynar */
+  /** Plays the tutorial from start to finish, performing the prescribed moves */
   function playTutorial(root: HTMLElement): void {
     clickWithText(root, ".modal-btn", "Hadi başlayalım");
-    tapCell(root, 1, 0); // KEDİ sorusu
+    tapCell(root, 1, 0); // KEDİ clue
     typeWord(root, "KEDİ");
     clickWithText(root, ".modal-btn", "Devam");
-    tapCell(root, 1, 3); // kesişen D kutusu → DAL'a kilitlenir
-    typeWord(root, "AL"); // D kilitli: imleç atlar, kalan iki harf yazılır
+    tapCell(root, 1, 3); // intersecting D cell → locks onto DAL
+    typeWord(root, "AL"); // D locked: cursor skips over it, remaining two letters are typed
     clickWithText(root, ".modal-btn", "Anladım");
-    tapCell(root, 2, 0); // SAAT sorusu
-    typeWord(root, "SAT"); // kesişen A kilitli
+    tapCell(root, 2, 0); // SAAT clue
+    typeWord(root, "SAT"); // intersecting A is locked
     clickWithText(root, ".modal-btn", "Oynamaya başla");
   }
 
@@ -335,7 +335,7 @@ describe("zorunlu ilk açılış rehberi (tutorial)", () => {
     expect(root.querySelector(".tutorial-game")).toBeFalsy();
     expect(root.querySelector(".home")).toBeTruthy();
     expect(storage.getItem("cengel-tutorial-seen")).toBe("1");
-    // rehber bulmacası ne ilerleme ne istatistik bırakır
+    // the tutorial puzzle leaves neither progress nor stats behind
     expect(storage.getItem("cengel-progress-tutorial")).toBeNull();
     expect(storage.getItem("cengel-stats")).toBeNull();
   });
@@ -346,23 +346,23 @@ describe("zorunlu ilk açılış rehberi (tutorial)", () => {
     const root = freshRoot();
     newApp(root, [PUZZLE_A]).start();
 
-    // anlatım adımı bloklayıcı modal ile gelir: tahtada klavye yok sayılır
+    // the narration step comes with a blocking modal: the keyboard on the board is ignored
     expect(root.querySelector(".tut-modal")).toBeTruthy();
     clickWithText(root, ".kb-key", "K");
     expect(root.querySelector(".tut-modal")).toBeTruthy();
 
     clickWithText(root, ".modal-btn", "Hadi başlayalım");
 
-    // "soruya dokun" adımı: yanlış hücreye dokunuş ve klavye çalışmaz
+    // the "tap the clue" step: tapping the wrong cell and the keyboard don't work
     tapCell(root, 2, 0);
     expect(root.querySelector(".toast")?.textContent).toContain("Işıldayan kutuya dokun");
     clickWithText(root, ".kb-key", "K");
     expect(root.querySelector(".toast")?.textContent).toContain("Önce ışıldayan yere dokun");
 
     tapCell(root, 1, 0);
-    expect(root.querySelectorAll(".tut-target").length).toBe(0); // yazma adımı
+    expect(root.querySelectorAll(".tut-target").length).toBe(0); // typing step
     typeWord(root, "KEDİ");
-    expect(root.querySelector(".tut-modal")).toBeTruthy(); // sıradaki anlatım
+    expect(root.querySelector(".tut-modal")).toBeTruthy(); // next narration step
   });
 
   it("daha önce oynandıysa açılışta tekrar gelmez, Ayarlar'dan tekrar oynanabilir", () => {

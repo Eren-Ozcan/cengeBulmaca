@@ -23,8 +23,8 @@ describe("kedi açılım eşikleri", () => {
   });
 
   it("son kedi 60. çözümde açılır (2 aylık hedef); bulmaca havuzu daha büyük olabilir", () => {
-    // Havuz (puzzles.length) rotasyon çeşitliliği için büyütülebilir; kedi
-    // yolculuğu bundan bağımsız, sabit bir çözüm sayısında tamamlanır.
+    // The pool (puzzles.length) can be grown for rotation variety; the cat
+    // journey is independent of that and completes at a fixed solve count.
     expect(CATS[CATS.length - 1].unlockAt).toBe(60);
     expect(puzzles.length).toBeGreaterThanOrEqual(CATS[CATS.length - 1].unlockAt);
   });

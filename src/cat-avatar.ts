@@ -1,9 +1,9 @@
 import type { CatDef } from "./cats.ts";
 
-// Kilitli (henüz açılmamış) kediler ortak, jenerik bir siluet + pati izi
-// ikonuyla gösterilir (kimlik ifşa etmez). Açılan kediler public/cats/
-// altındaki gerçek portre görselleriyle (bkz. tools/process-cat-images.mjs)
-// gösterilir.
+// Locked (not-yet-unlocked) cats are shown with a shared, generic silhouette
+// + paw-print icon (doesn't reveal identity). Unlocked cats are shown with
+// their real portrait images under public/cats/ (see
+// tools/process-cat-images.mjs).
 
 const EAR_L = `M18 38 L29 6 L46 34 Z`;
 const EAR_R = `M82 38 L71 6 L54 34 Z`;
@@ -44,7 +44,7 @@ function lockedHeadMarkup(): string {
   <ellipse cx="64" cy="50" rx="3.6" ry="4.6" fill="currentColor" opacity="0.4"/>`;
 }
 
-/** Küçük/orta kedi ikonu: açıksa gerçek portre görseli, kilitliyse jenerik siluet. */
+/** Small/medium cat icon: real portrait image if unlocked, generic silhouette if locked. */
 export function catAvatar(cat: CatDef, locked = false): string {
   if (locked) {
     return `
@@ -54,7 +54,7 @@ export function catAvatar(cat: CatDef, locked = false): string {
   return catImgTag(cat);
 }
 
-/** Büyük/detay görünümü için kedi görseli; açıksa gerçek portre, kilitliyse siluet. */
+/** Cat image for the large/detail view; real portrait if unlocked, silhouette if locked. */
 export function catFullBody(cat: CatDef, locked = false): string {
   if (locked) {
     return `

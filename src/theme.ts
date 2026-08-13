@@ -1,8 +1,8 @@
-// Görsel tema seçimi.
-//  - "modern": renkli, degrade, yuvarlak hatlı varsayılan görünüm
-//  - "gazete": klasik basılı gazete bulmacası görünümü (beyaz hücreler,
-//    ince koyu çizgiler, serif tipografi)
-// Tercih localStorage'da tutulur; tema <html data-theme="..."> ile uygulanır.
+// Visual theme selection.
+//  - "modern": the default look — colorful, gradients, rounded edges
+//  - "gazete": classic printed newspaper puzzle look (white cells, thin dark
+//    lines, serif typography)
+// The preference is kept in localStorage; the theme is applied via <html data-theme="...">.
 
 export type Theme = "modern" | "gazete";
 
@@ -21,18 +21,18 @@ export function applyTheme(theme: Theme): void {
   try {
     localStorage.setItem(KEY, theme);
   } catch {
-    // depolama yoksa tercih oturumla sınırlı kalır
+    // if storage is unavailable, the preference stays limited to this session
   }
 }
 
-/** Temalar arasında geçiş yapar; yeni temayı döndürür. */
+/** Switches between themes; returns the new theme. */
 export function toggleTheme(): Theme {
   const next: Theme = currentTheme() === "gazete" ? "modern" : "gazete";
   applyTheme(next);
   return next;
 }
 
-/** Uygulama açılışında kayıtlı temayı uygular (kaydetmeden). */
+/** Applies the saved theme at app startup (without persisting it). */
 export function initTheme(): void {
   document.documentElement.dataset.theme = currentTheme();
 }

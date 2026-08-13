@@ -1,25 +1,25 @@
-// Bulut kaydının senkron SINIRI: hangi localStorage anahtarı buluta gider,
-// buluttan gelen bir doküman yerele neyi yazabilir, ve çakışmada oyuncuya
-// sorulur mu sorulmaz mı.
+// The sync BOUNDARY of cloud save: which localStorage key goes to the cloud,
+// what an incoming cloud document is allowed to write locally, and whether
+// the player gets asked on conflict or not.
 //
-// Gerçek ağa hiç çıkılmaz. Saf fonksiyonlar (collectSyncedSave /
-// parseCloudPayload / localSummary / hasPlayerProgress) doğrudan sınanır;
-// syncCloudSave için Firebase modülleri mock'lanır ve bellek içi sahte bir
-// "bulut dokümanı" kullanılır (referral.test.ts ile aynı deyim).
+// No real network call is ever made. Pure functions (collectSyncedSave /
+// parseCloudPayload / localSummary / hasPlayerProgress) are tested directly;
+// for syncCloudSave the Firebase modules are mocked and an in-memory fake
+// "cloud document" is used (same pattern as referral.test.ts).
 //
-// Buradaki iddiaların üçü güvenlik/veri kaybı iddiasıdır ve sessizce
-// bozulabilirler: entitlement'ın buluta sızmaması, buluttan gelen verinin
-// allowlist dışına yazamaması, ve hasPlayerProgress'in ilerlemesi olan bir
-// kaydı asla "bakir" sayMAMASI — sonuncusu yanlış giderse oyuncunun oyunu
-// sorulmadan silinir.
+// Three of the assertions here are security/data-loss assertions that can
+// break silently: entitlements must not leak into the cloud, data coming
+// from the cloud must not write outside the allowlist, and hasPlayerProgress
+// must NEVER treat a save with real progress as "untouched" — if the last one
+// goes wrong, the player's game gets wiped without asking.
 
 import { beforeEach, describe, expect, it, vi } from "vitest";
 
-// Sahte bulut dokümanı; mock fabrikaları hoist edildiği için vi.hoisted ile
-// kurulur. `doc` null ise "bulutta kayıt yok" demektir.
+// Fake cloud document; set up with vi.hoisted since mock factories are
+// hoisted. `doc` being null means "no save in the cloud".
 const cloud = vi.hoisted(() => ({ doc: null as Record<string, unknown> | null }));
 
-/** Sunucu damgası: cihaz saatinden bağımsız olduğu için sabit bir değer yeter. */
+/** Server timestamp: a fixed value is enough since it's independent of device clock. */
 const CLOUD_STAMP_MS = 1_700_000_000_000;
 
 vi.mock("firebase/app", () => ({
@@ -27,16 +27,16 @@ vi.mock("firebase/app", () => ({
 }));
 vi.mock("firebase/auth", () => ({
   getAuth: vi.fn(() => ({})),
-  // firebase-app.ts önce kalıcı oturumun geri yüklenmesini bekler; burada
-  // referral.test.ts'in aksine oturum VARMIŞ gibi davranılır, çünkü sınanan
-  // şey senkron akışının kendisi.
+  // firebase-app.ts first waits for the persistent session to be restored;
+  // unlike referral.test.ts, here the session is made to behave as if it
+  // EXISTS, because what's under test is the sync flow itself.
   //
-  // Bildirim ASENKRON verilmeli: gerçek Firebase gözlemciyi hiçbir zaman
-  // onAuthStateChanged'in içinden senkron çağırmaz ve firebase-app.ts buna
-  // güvenerek geri çağrının içinde `unsubscribe`a dokunur. Senkron çağıran bir
-  // mock o değişkeni TDZ'de yakalar, ReferenceError fırlatır ve ensureUid
-  // sessizce null döner — yani mock'un kendisi "bağlantı yok" senaryosuna
-  // dönüşür ve akış hiç sınanmamış olur.
+  // The notification must be ASYNCHRONOUS: the real Firebase observer never
+  // calls onAuthStateChanged synchronously, and firebase-app.ts relies on
+  // that by touching `unsubscribe` inside the callback. A mock that calls
+  // synchronously catches that variable in the TDZ, throws a ReferenceError,
+  // and ensureUid silently returns null — meaning the mock itself turns into
+  // the "no connection" scenario and the flow never actually gets tested.
   onAuthStateChanged: vi.fn((_auth: unknown, next: (u: unknown) => void) => {
     queueMicrotask(() => next({ uid: "test-uid" }));
     return () => {};
@@ -53,7 +53,7 @@ vi.mock("firebase/firestore", () => ({
     }),
   ),
   setDoc: vi.fn((_ref: unknown, data: Record<string, unknown>) => {
-    // Gerçek Firestore gibi: serverTimestamp() sentinel'i sunucuda çözülür.
+    // Like real Firestore: the serverTimestamp() sentinel is resolved server-side.
     cloud.doc = { ...data, updatedAt: { toMillis: () => CLOUD_STAMP_MS } };
     return Promise.resolve();
   }),
@@ -101,7 +101,7 @@ describe("buluta gönderilen kayıt (allowlist)", () => {
 
     const map = collectSyncedSave();
 
-    // Taşınsaydı bir kaydı paylaşmak bedava reklamsız sürüm dağıtmak olurdu.
+    // If this were carried over, sharing one save would hand out a free ad-free version.
     expect(map["cengel-ads-removed"]).toBeUndefined();
     expect(map["cengel-jokers"]).toBe("12");
   });
@@ -142,7 +142,7 @@ describe("buluta gönderilen kayıt (allowlist)", () => {
 
     expect(map[`cengel-hints-${dayString()}`]).toBe("2");
     expect(map[`cengel-hints-${daysAgo(3)}`]).toBe("3");
-    // Budanmasaydı doküman her gün biraz daha şişerek sonsuza kadar büyürdü.
+    // If not pruned, the document would grow slightly every day, forever.
     expect(map[`cengel-hints-${daysAgo(30)}`]).toBeUndefined();
     expect(map["cengel-hints-2024-01-01"]).toBeUndefined();
   });
@@ -154,8 +154,8 @@ describe("buluta gönderilen kayıt (allowlist)", () => {
     storage.setItem("cengel-progress-a", "1");
     const first = JSON.stringify(collectSyncedSave());
 
-    // Aynı veriyi farklı ekleme sırasıyla kur: parmak izi (dolayısıyla
-    // "yerelde değişiklik var mı") sıralamaya duyarlı olmamalı.
+    // Set up the same data with a different insertion order: the fingerprint
+    // (and thus "is there a local change") must not be order-sensitive.
     storage = installMemoryStorage();
     storage.setItem("cengel-progress-a", "1");
     storage.setItem("cengel-jokers", "5");
@@ -219,15 +219,16 @@ describe("buluttan gelen payload'ın doğrulanması", () => {
 });
 
 // ---------------------------------------------------------------------------
-// hasPlayerProgress — çakışma ekranını atlayan hızlı yolun BEKÇİSİ.
+// hasPlayerProgress — the GUARD for the fast path that skips the conflict screen.
 //
-// Her dal ayrı ayrı sınanır. "true" dalları eksikse gerçek ilerlemesi olan bir
-// oyuncunun kaydı sorulmadan silinir; "false" dalları (bilerek yok sayılan
-// sinyaller) sınanmazsa biri sonradan iyi niyetle listeye bir ayar/damga ekler
-// ve düzeltilen hata — bir tarafı bomboş seçim ekranı — geri gelir.
+// Each branch is tested separately. If a "true" branch is missing, a player
+// with real progress gets their save wiped without being asked; if a "false"
+// branch (deliberately ignored signals) isn't tested, someone might later add
+// a setting/flag to the list with good intentions, and the bug that was fixed
+// — a conflict screen with one blank side — comes back.
 // ---------------------------------------------------------------------------
 
-/** Oyunu bir kez açan HER oyuncuda, hiçbir hamle yapılmadan oluşan kayıt. */
+/** The save state that forms for EVERY player who opens the game once, without making a single move. */
 function untouchedInstall(): void {
   storage.setItem("cengel-jokers-init", "1");
   storage.setItem("cengel-jokers", String(START_JOKERS));
@@ -256,9 +257,9 @@ describe("ilerleme sayılan sinyaller (çakışmada oyuncuya sorulur)", () => {
 
   it("yarım kalmış bulmaca — ilerleme anahtarının VARLIĞI yeter", () => {
     untouchedInstall();
-    // game.ts bu anahtarı yalnızca oyuncu harf yazınca/silince yazar (rehber
-    // bulmacası "practice" modunda olduğu için hiç yazmaz), dolayısıyla
-    // varlığı tek başına gerçek bir hamledir — içeriğini ayrıca yorumlamayız.
+    // game.ts only writes this key when the player types/deletes a letter
+    // (the tutorial puzzle never writes it, since it runs in "practice" mode),
+    // so its mere presence is itself a real move — we don't interpret its content further.
     storage.setItem("cengel-progress-p1", '{"entries":["K","E"]}');
     expect(hasPlayerProgress(collectSyncedSave())).toBe(true);
   });
@@ -301,8 +302,8 @@ describe("bilerek yok sayılan sinyaller (tek başına ilerleme DEĞİL)", () =>
 
   it("el değmemiş kurulum — oyunu açıp hiç oynamamak", () => {
     untouchedInstall();
-    // Buradaki tek bir "true" bile oyuncuya bir tarafı bomboş seçim ekranı
-    // gösterirdi; düzeltilen hata tam olarak budur.
+    // Even a single "true" here would show the player a conflict screen with
+    // one blank side; that is exactly the bug that was fixed.
     expect(hasPlayerProgress(collectSyncedSave())).toBe(false);
   });
 
@@ -325,8 +326,8 @@ describe("bilerek yok sayılan sinyaller (tek başına ilerleme DEĞİL)", () =>
   });
 
   it("başlangıç jokerinin verildiğini işaretleyen 'jokers-init' damgası", () => {
-    // Bakiye ilk okunduğunda (ana ekran çizilirken) kendiliğinden yazılır;
-    // oyuncunun hiçbir hamlesi yoktur.
+    // Written automatically the first time the balance is read (while the
+    // home screen renders); the player made no move at all.
     storage.setItem("cengel-jokers-init", "1");
     storage.setItem("cengel-jokers", String(START_JOKERS));
     expect(hasPlayerProgress(collectSyncedSave())).toBe(false);
@@ -338,7 +339,7 @@ describe("bilerek yok sayılan sinyaller (tek başına ilerleme DEĞİL)", () =>
   });
 
   it("açılış hikayesinin 'görüldü' damgası", () => {
-    // Hikaye açılışta KENDİLİĞİNDEN gösterilir; kapatmak bir kazanım değildir.
+    // The story intro is shown AUTOMATICALLY at launch; dismissing it isn't an achievement.
     storage.setItem("cengel-story-seen", "1");
     expect(hasPlayerProgress(collectSyncedSave())).toBe(false);
   });
@@ -349,9 +350,10 @@ describe("bilerek yok sayılan sinyaller (tek başına ilerleme DEĞİL)", () =>
   });
 
   it("rehberin 'görüldü' damgası", () => {
-    // Rehber "practice" modunda oynanır: ne ilerleme ne istatistik yazar, ve
-    // damga "Geç"e basınca da düşer. İlerleme sayılsaydı oyunu bir kez açmış
-    // oyuncunun hesap bağlaması hâlâ boş taraflı seçim ekranı gösterirdi.
+    // The tutorial is played in "practice" mode: it writes neither progress
+    // nor stats, and the flag is also set when pressing "Skip". If this
+    // counted as progress, a player who just opened the game once would still
+    // get a conflict screen with a blank side when linking an account.
     storage.setItem("cengel-tutorial-seen", "1");
     expect(hasPlayerProgress(collectSyncedSave())).toBe(false);
   });
@@ -369,10 +371,10 @@ describe("bilerek yok sayılan sinyaller (tek başına ilerleme DEĞİL)", () =>
   });
 
   it("reklamsız sürüm hakkı — kayıtta değil, mağazadan gelir", () => {
-    // Entitlement senkronlanmaz (bkz. allowlist testleri): satın alma yapmış
-    // bir oyuncunun TEMİZ kurulumunda bu hak mağazadan geri gelir, kaydından
-    // değil. İlerleme sayılsaydı, o oyuncu her yeni cihazda gereksiz yere
-    // seçim ekranıyla karşılaşırdı.
+    // Entitlements aren't synced (see allowlist tests): on a CLEAN install for
+    // a player who purchased, this right comes back from the store, not from
+    // the save. If it counted as progress, that player would unnecessarily
+    // hit a conflict screen on every new device.
     storage.setItem("cengel-ads-removed", "1");
     untouchedInstall();
     expect(hasPlayerProgress(collectSyncedSave())).toBe(false);
@@ -381,7 +383,7 @@ describe("bilerek yok sayılan sinyaller (tek başına ilerleme DEĞİL)", () =>
   it("pencere dışında kalmış bayat ipucu anahtarı (kayda hiç girmez)", () => {
     untouchedInstall();
     storage.setItem(`cengel-hints-${daysAgo(30)}`, "3");
-    // collectSyncedSave onu zaten budar; predicate de görmez.
+    // collectSyncedSave already prunes it; the predicate never sees it either.
     expect(collectSyncedSave()[`cengel-hints-${daysAgo(30)}`]).toBeUndefined();
     expect(hasPlayerProgress(collectSyncedSave())).toBe(false);
   });
@@ -393,8 +395,8 @@ describe("hasPlayerProgress sınır durumları", () => {
   });
 
   it("allowlist dışı anahtarlar hiç dikkate alınmaz", () => {
-    // Elle kurulmuş map: gerçek akışta buraya asla gelemezler, ama predicate
-    // tek başına da bu anahtarlara bakmamalı.
+    // Manually constructed map: these keys could never arrive here in the
+    // real flow, but the predicate on its own must still not look at them.
     const map: SaveMap = {
       "cengel-ads-removed": "1",
       "cengel-cloud-rev": "42",
@@ -444,10 +446,10 @@ describe("hasPlayerProgress sınır durumları", () => {
 });
 
 // ---------------------------------------------------------------------------
-// Senkron akışı — sahte Firestore dokümanı üzerinden uçtan uca.
+// Sync flow — end-to-end through a fake Firestore document.
 // ---------------------------------------------------------------------------
 
-/** Buluta hazır bir doküman koyar (başka bir cihazın yazdığı kayıt gibi). */
+/** Puts a ready-made document in the cloud (as if written by another device). */
 function seedCloud(save: SaveMap, rev: number, schemaVersion = CLOUD_SCHEMA_VERSION): void {
   cloud.doc = {
     payload: JSON.stringify(save),
@@ -458,7 +460,7 @@ function seedCloud(save: SaveMap, rev: number, schemaVersion = CLOUD_SCHEMA_VERS
   };
 }
 
-/** Ateşle-unut yüklemelerin (void upload()) oturması için bir makro-görev bekle. */
+/** Wait one macrotask so fire-and-forget uploads (void upload()) can settle. */
 function settle(): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, 0));
 }
@@ -472,7 +474,7 @@ const OTHER_DEVICE_SAVE: SaveMap = {
 describe("senkron akışı (sahte Firestore)", () => {
   beforeEach(() => {
     cloud.doc = null;
-    // Modül içi durum (blocked/pendingCloud/rev) testler arasında taşınmasın.
+    // Prevent internal module state (blocked/pendingCloud/rev) from carrying over between tests.
     resetForNewAccount();
   });
 
@@ -493,12 +495,12 @@ describe("senkron akışı (sahte Firestore)", () => {
     seedCloud(OTHER_DEVICE_SAVE, 4);
 
     expect(await syncCloudSave()).toBe("in-sync");
-    // Yerel kayıt olduğu gibi durmalı: bayat bulut yereli EZEMEZ.
+    // The local save must stay as-is: a stale cloud must NOT overwrite the local one.
     expect(storage.getItem("cengel-progress-p1")).toBe('{"entries":["A"]}');
     expect(storage.getItem("cengel-progress-p4")).toBeNull();
 
     await settle();
-    expect(cloud.doc!.rev).toBe(10); // yerel değişiklik buluta taşındı
+    expect(cloud.doc!.rev).toBe(10); // local change was pushed to the cloud
   });
 
   it("bulut ilerideyken YEREL BAKİRSE sormadan geri yükler (hızlı yol)", async () => {
@@ -509,7 +511,7 @@ describe("senkron akışı (sahte Firestore)", () => {
     expect(storage.getItem("cengel-progress-p4")).toBe('{"entries":["Z"]}');
     expect(storage.getItem("cengel-jokers")).toBe("11");
     expect(storage.getItem("cengel-cloud-rev")).toBe("9");
-    // Sorulmadığı için çakışma durumu hiç açılmamalı.
+    // Since nothing was asked, no conflict state should ever be opened.
     expect(conflictSummary()).toBeNull();
   });
 
@@ -519,12 +521,12 @@ describe("senkron akışı (sahte Firestore)", () => {
     seedCloud(OTHER_DEVICE_SAVE, 9);
 
     expect(await syncCloudSave()).toBe("conflict");
-    // Yerel kayıt korunur, buluttaki hiç uygulanmaz: karar oyuncunun.
+    // The local save is preserved, the cloud one is never applied: the decision belongs to the player.
     expect(storage.getItem("cengel-progress-p1")).toBe('{"entries":["A"]}');
     expect(storage.getItem("cengel-progress-p4")).toBeNull();
     expect(storage.getItem("cengel-cloud-rev")).toBe("0");
 
-    // Çakışma ekranının göstereceği özet buluttan gelir.
+    // The summary that the conflict screen shows comes from the cloud.
     expect(conflictSummary()).toEqual({
       streak: 9,
       solved: 3,
@@ -533,12 +535,12 @@ describe("senkron akışı (sahte Firestore)", () => {
     });
 
     await settle();
-    expect(cloud.doc!.rev).toBe(9); // buluta HİÇ yazılmadı
+    expect(cloud.doc!.rev).toBe(9); // NOTHING was ever written to the cloud
   });
 
   it("yerelde ilerleme olsa da GÖNDERİLMEMİŞ değişiklik yoksa çakışma sorulmaz", async () => {
-    // İki koşul birlikte gerekir: bulut ileride VE yerelde kirli ilerleme.
-    // Burada yerel kayıt bulutla senkron; başka bir cihaz sonra yazmış.
+    // Two conditions are needed together: cloud ahead AND local dirty progress.
+    // Here the local save is in sync with the cloud; another device wrote later.
     untouchedInstall();
     storage.setItem("cengel-progress-p1", '{"entries":["A"]}');
     expect(await syncCloudSave()).toBe("uploaded");
@@ -560,11 +562,11 @@ describe("senkron akışı (sahte Firestore)", () => {
     expect(storage.getItem("cengel-progress-p4")).toBeNull();
 
     await settle();
-    expect(cloud.doc!.rev).toBe(9); // tanımadığımız biçimin üstüne yazılmaz
+    expect(cloud.doc!.rev).toBe(9); // we don't overwrite a format we don't recognize
   });
 
   it("hızlı yolda da kurcalanmış bir doküman reklamsız sürümü AÇAMAZ", async () => {
-    untouchedInstall(); // yerel bakir → hızlı yol çalışacak
+    untouchedInstall(); // local is untouched → fast path will run
     seedCloud({ ...OTHER_DEVICE_SAVE, "cengel-ads-removed": "1" }, 9);
 
     expect(await syncCloudSave()).toBe("restored");
@@ -572,7 +574,7 @@ describe("senkron akışı (sahte Firestore)", () => {
   });
 
   it("hızlı yolda geri yükleme, cihazdaki satın alma hakkını SİLMEZ", async () => {
-    storage.setItem("cengel-ads-removed", "1"); // mağazadan gelen gerçek hak
+    storage.setItem("cengel-ads-removed", "1"); // real entitlement coming from the store
     untouchedInstall();
     seedCloud(OTHER_DEVICE_SAVE, 9);
 
@@ -596,15 +598,15 @@ describe("senkron akışı (sahte Firestore)", () => {
 });
 
 // ---------------------------------------------------------------------------
-// sameProgress — "iki taraf aynı oyun mu?" sorusunun bekçisi.
+// sameProgress — the guard for "are both sides the same game?".
 //
-// Bu predicate çakışma ekranını ATLATIR: "true" dediğinde oyuncuya hiç
-// sorulmaz. Yanlış "true" bir tarafın ilerlemesini sessizce gözden çıkarır,
-// yanlış "false" ise en fazla bugünkü seçim ekranına düşürür — testler bu
-// asimetriyi korumak için yazıldı.
+// This predicate BYPASSES the conflict screen: when it says "true", the
+// player is never asked. A false "true" silently discards one side's
+// progress, while a false "false" at worst falls back to today's conflict
+// screen — the tests are written to preserve this asymmetry.
 // ---------------------------------------------------------------------------
 
-/** İçeriği aynı, imleci farklı iki ilerleme kaydı (bkz. game.ts saveProgress). */
+/** Two progress saves with identical content but different cursor position (see game.ts saveProgress). */
 function progressAt(entries: string[], selRow: number, selCol: number): string {
   return JSON.stringify({ entries, selRow, selCol, activeClue: 0 });
 }
@@ -621,8 +623,8 @@ describe("sameProgress — iki kayıt aynı oyunu mu taşıyor", () => {
   });
 
   it("yalnızca imleç konumu farklıysa aynıdır", () => {
-    // Oyuncu bulmacada sadece GEZİNİRSE de bu alanlar değişir; iki cihazın
-    // aynı oyunu taşıyıp taşımadığıyla ilgisi yoktur.
+    // These fields also change when the player merely NAVIGATES in the
+    // puzzle; they're unrelated to whether two devices carry the same game.
     const moved = { ...base, "cengel-progress-p4": progressAt(["A", "B", ""], 2, 2) };
     expect(sameProgress(base, moved)).toBe(true);
   });
@@ -677,7 +679,7 @@ describe("sameProgress — iki kayıt aynı oyunu mu taşıyor", () => {
   });
 
   it("çözemediğimiz bir ilerleme kaydında TAM metin eşitliği aranır", () => {
-    // Şüphede "aynı" demek yerine sormaya düşülür.
+    // When in doubt, fall back to asking instead of saying "same".
     const a = { ...base, "cengel-progress-p4": "{bozuk json" };
     const b = { ...base, "cengel-progress-p4": "{bozuk json " };
     expect(sameProgress(a, a)).toBe(true);
@@ -691,13 +693,13 @@ describe("sameProgress — iki kayıt aynı oyunu mu taşıyor", () => {
 });
 
 describe("aynı oyunu taşıyan iki taraf (çakışma ekranı gösterilmez)", () => {
-  /** OTHER_DEVICE_SAVE ile aynı oyunu taşıyan, ama kendi tercihleri olan cihaz. */
+  /** A device carrying the same game as OTHER_DEVICE_SAVE, but with its own preferences. */
   function sameGameLocally(): void {
-    untouchedInstall(); // tema/ses/damgalar + jokers-init: hepsi "gürültü"
+    untouchedInstall(); // theme/sound/flags + jokers-init: all "noise"
     storage.setItem("cengel-jokers", "11");
     storage.setItem("cengel-stats", OTHER_DEVICE_SAVE["cengel-stats"]);
     storage.setItem("cengel-progress-p4", OTHER_DEVICE_SAVE["cengel-progress-p4"]);
-    storage.setItem("cengel-theme", "gazete"); // bu cihazda tema değiştirilmiş
+    storage.setItem("cengel-theme", "gazete"); // theme was changed on this device
   }
 
   beforeEach(() => {
@@ -708,12 +710,12 @@ describe("aynı oyunu taşıyan iki taraf (çakışma ekranı gösterilmez)", ()
   it("bulut ilerideyken bile SORMADAN çözülür ve yerel kayda dokunulmaz", async () => {
     sameGameLocally();
     seedCloud(OTHER_DEVICE_SAVE, 9);
-    // Ön koşullar: eski kod burada mutlaka çakışma sorardı.
+    // Precondition: the old code would definitely ask about a conflict here.
     expect(hasPlayerProgress(collectSyncedSave())).toBe(true);
 
     expect(await syncCloudSave()).toBe("in-sync");
     expect(conflictSummary()).toBeNull();
-    // Bulut UYGULANMAZ: yerelde gerçekten daha yeni bir şey kalmışsa ezilmesin.
+    // The cloud is NOT applied: if something genuinely newer remains locally, it must not be overwritten.
     expect(storage.getItem("cengel-theme")).toBe("gazete");
     expect(storage.getItem("cengel-progress-p4")).toBe(OTHER_DEVICE_SAVE["cengel-progress-p4"]);
   });
@@ -724,7 +726,7 @@ describe("aynı oyunu taşıyan iki taraf (çakışma ekranı gösterilmez)", ()
 
     await syncCloudSave();
     await settle();
-    // rev 9'un üstüne yazıldı: bir sonraki senkronda bulut artık ileride değil.
+    // rev 9 was overwritten: on the next sync the cloud is no longer ahead.
     expect(storage.getItem("cengel-cloud-rev")).toBe("10");
     expect(cloud.doc!.rev).toBe(10);
 
@@ -748,19 +750,19 @@ describe("aynı oyunu taşıyan iki taraf (çakışma ekranı gösterilmez)", ()
 
   it("GERÇEK bir fark varsa yine oyuncuya sorulur (hızlı çıkış kaçış deliği değil)", async () => {
     sameGameLocally();
-    storage.setItem("cengel-progress-p9", '{"entries":["Q"]}'); // bu cihazda fazladan ilerleme
+    storage.setItem("cengel-progress-p9", '{"entries":["Q"]}'); // extra progress on this device
     seedCloud(OTHER_DEVICE_SAVE, 9);
 
     expect(await syncCloudSave()).toBe("conflict");
     expect(conflictSummary()).not.toBeNull();
 
     await settle();
-    expect(cloud.doc!.rev).toBe(9); // buluta hâlâ hiç yazılmadı
+    expect(cloud.doc!.rev).toBe(9); // still nothing written to the cloud
   });
 
   it("yalnızca joker bakiyesi farklıysa da sorulur", async () => {
     sameGameLocally();
-    storage.setItem("cengel-jokers", "12"); // bulutta 11
+    storage.setItem("cengel-jokers", "12"); // 11 in the cloud
     seedCloud(OTHER_DEVICE_SAVE, 9);
 
     expect(await syncCloudSave()).toBe("conflict");
@@ -768,16 +770,17 @@ describe("aynı oyunu taşıyan iki taraf (çakışma ekranı gösterilmez)", ()
 });
 
 // ---------------------------------------------------------------------------
-// Geri yükleme sonrası DONDURMA.
+// FREEZE after restore.
 //
-// applyCloud localStorage'ı yerinde değiştirir ama bellekteki oyun hâlâ eski
-// kayda aittir ve sayfa ancak ~1,4 sn sonra yenilenir. O aralıkta bellekten
-// yazılan tek şey game.ts'in ilerleme kaydıdır; yazabilseydi yeni gelen
-// ilerlemeyi ezer ve yenilemenin tetiklediği "pagehide" → flushCloudSave ile
-// DİĞER CİHAZIN bulut kaydının üstüne yüklenirdi.
+// applyCloud modifies localStorage in place, but the in-memory game still
+// belongs to the old save, and the page only reloads after ~1.4s. In that
+// window the only thing written from memory is game.ts's progress save; if it
+// could write, it would overwrite the newly arrived progress, and the
+// "pagehide" triggered by the reload → flushCloudSave would then upload over
+// the OTHER DEVICE's cloud save.
 // ---------------------------------------------------------------------------
 
-/** game.test.ts'teki 3x3 fikstürün aynısı; test kendi kendine yetsin diye burada. */
+/** Same 3x3 fixture as in game.test.ts; kept here so the test is self-contained. */
 const tinyPuzzle: PuzzleDef = {
   id: "test-game",
   title: "Test",
@@ -825,8 +828,9 @@ describe("geri yükleme sonrası dondurma", () => {
   });
 
   it("dondurulmuşken bellekteki BAYAT oyun yeni ilerlemenin üstüne yazamaz", async () => {
-    // Gerçek akış: açılış senkronu ekranı BEKLETMEZ, oyuncu bu sırada bir
-    // bulmaca açar. s.entries geri yüklemeden ÖNCEKİ kayda (burada: boş) ait.
+    // Real flow: the startup sync does NOT block the screen, and the player
+    // opens a puzzle during that time. s.entries belongs to the save from
+    // BEFORE the restore (here: empty).
     untouchedInstall();
     const s = newGame(tinyPuzzle);
     seedCloud({ ...OTHER_DEVICE_SAVE, "cengel-progress-test-game": CLOUD_PROGRESS }, 9);
@@ -834,15 +838,15 @@ describe("geri yükleme sonrası dondurma", () => {
     expect(await syncCloudSave()).toBe("restored");
     expect(storage.getItem("cengel-progress-test-game")).toBe(CLOUD_PROGRESS);
 
-    // Tek bir tuş: eskiden `s.entries` dizisinin TAMAMINI diske yazar, buluttan
-    // yeni gelen ilerlemeyi silerdi.
+    // A single keystroke: this used to write the ENTIRE `s.entries` array to
+    // disk, wiping out the progress that just arrived from the cloud.
     selectCell(s, 1, 0);
     typeLetter(s, "K");
     expect(storage.getItem("cengel-progress-test-game")).toBe(CLOUD_PROGRESS);
   });
 
   it("dondurulmamışken aynı tuş ilerlemeyi normal şekilde kaydeder", () => {
-    // Yukarıdaki testin anlamlı olduğunun kanıtı: yazma yolu gerçekten çalışıyor.
+    // Proof that the test above is meaningful: the write path really does work.
     untouchedInstall();
     const s = newGame(tinyPuzzle);
     selectCell(s, 1, 0);
@@ -855,9 +859,10 @@ describe("geri yükleme sonrası dondurma", () => {
     seedCloud(OTHER_DEVICE_SAVE, 9);
     expect(await syncCloudSave()).toBe("restored");
 
-    // Yenilemeye kadar geçen sürede kayıt yine de kirlenirse (ör. oyuncunun
-    // bir ayarı değiştirmesi) buluta taşınmamalı: buluttaki, DİĞER cihazın
-    // kaydıdır ve bu cihazın ekranı hâlâ eski oyunu gösteriyor.
+    // If the save gets dirtied during the time before the reload (e.g. the
+    // player changes a setting), it must not be pushed to the cloud: the
+    // cloud save belongs to the OTHER device, and this device's screen still
+    // shows the old game.
     storage.setItem("cengel-theme", "gazete");
     flushCloudSave();
     maybeUploadCloudSave();

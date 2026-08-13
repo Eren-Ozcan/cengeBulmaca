@@ -1,5 +1,5 @@
-// Sadece tercih (açık/kapalı) mantığı test edilir — sound.ts'te olduğu gibi
-// gerçek ses çalma node/jsdom ortamında anlamlı şekilde test edilemez.
+// Only the preference (on/off) logic is tested — as with sound.ts, actual
+// audio playback can't be meaningfully tested in the node/jsdom environment.
 
 import { beforeEach, describe, expect, it } from "vitest";
 import { musicEnabled, toggleMusic } from "./music.ts";
