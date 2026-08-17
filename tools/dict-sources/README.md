@@ -4,7 +4,16 @@ Working files for expanding `tools/dictionary.mjs` (zero-duplicate-clue
 project, started 2026-08-15). Not used at runtime — reference material for
 hand-reviewing new dictionary entries across sessions.
 
-## 5letter-tdk-candidates.tsv
+## 5letter-tdk-candidates.tsv — DONE (2026-08-17)
+
+All 3696 lines have been hand-reviewed; 1557 new 5-letter words were
+added to `dictionary.mjs` (751 -> 2308 total). No further action needed
+on this file for the 5-letter category — it's kept only as a provenance
+record. The next dictionary-expansion work should pull a fresh candidate
+list for a different word length (2/3/4/6/7 letters) using the same
+`extract5.mjs`-style script pattern (see git history for the extraction
+scripts if they're needed again — they were run from the scratchpad and
+not committed, only the output TSV was).
 
 Tab-separated `WORD\tözellik-kısaltmaları\tTDK-tanımı`, one line per
 candidate. Sourced from TDK's *Güncel Türkçe Sözlük* (12th edition,
