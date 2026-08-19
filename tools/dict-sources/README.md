@@ -95,10 +95,18 @@ Amaç: 300 bulmacada aynı ipucu metninin tekrarlanmaması. Bu oturumda yapılan
 tekrar: len2 6, len3 14, len4 6, len5 7, len6 7, len7 7. Başlangıçta tek bir
 metin 50 kez tekrarlanıyordu.
 
-**Kaldığımız yer:** 3 harfli 434 kelimenin 306'sı hâlâ 1-2 ipuçlu. Sıradaki iş,
-bu 306 kelimeye (EKO, AKA, ATU, HAR, İKA, İTA, LAM, RAN, UTA, BRE, ECE, ERG,
-FES, FON, GAR ... ile başlayan liste) elden 3-5'er ipucu yazmak. Her partiden
-sonra şu üç kontrol çalıştırılmalı: farklı cevaplarda aynı ipucu metni (0
-olmalı), 4 kelimeden uzun ipucu (0 olmalı), tekrar eden cevap (0 olmalı).
-Sonrasında `node tools/regenerate-all.mjs`, `npm run puzzles:manifest` ve
-`npx vitest run`.
+## 2026-08-20 — 3 harfli katman tamamlandı
+
+3 harfli 434 kelimenin tümü artık en az 3 (çoğu 4) ipuçlu; 305 kelimeye elden
+ipucu yazıldı. Kontroller için `node tools/check-dictionary.mjs` eklendi: farklı
+cevaplarda aynı ipucu metni, 4 kelimeden uzun ipucu ve tekrar eden cevap sayar,
+üçü de 0 değilse sıfırdan farklı çıkışla biter.
+
+Yeniden üretim sonrası ölçüm (300 bulmaca, 8100 soru): 5021 farklı ipucu metni
+(önce 4304). Uzunluğa göre en çok tekrar: len2 4, len3 7, len4 8, len5 7,
+len6 7, len7 7.
+
+**Kaldığımız yer:** sıradaki iş 4 harfli katman — orada da 1-2 ipuçlu kelimeleri
+çıkarıp 3-5'er ipucuna tamamlamak. Her partiden sonra
+`node tools/check-dictionary.mjs`, ardından `node tools/regenerate-all.mjs`,
+`npm run puzzles:manifest` ve `npx vitest run`.
