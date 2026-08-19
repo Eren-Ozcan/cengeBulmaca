@@ -5,174 +5,158 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Dondurma kabı",
-      "answer": "KUP",
+      "text": "Tören",
+      "answer": "MERASİM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aydınlık, ışık",
-      "answer": "NUR",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kolun üst eklemi",
-      "answer": "OMUZ",
+      "text": "Derme çatma yapı",
+      "answer": "BARAKA",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Güzel, sevimli",
-      "answer": "HOŞ",
+      "text": "Osmanlı yönetim birimi",
+      "answer": "EYALET",
       "row": 3,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Anıtsal kapı",
-      "answer": "TAK",
+      "text": "İnce karşıtı",
+      "answer": "KABA",
       "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hızlı yol",
-      "answer": "OTOYOL",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Otlak",
-      "answer": "MERA",
-      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Deniz generali",
-      "answer": "AMİRAL",
-      "row": 7,
+      "text": "Ok aracı",
+      "answer": "YAY",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kafkas sazı",
+      "answer": "TAR",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Küçük boru",
+      "answer": "ZIVANA",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hesap kertiği",
-      "answer": "ÇETELE",
+      "text": "Halk dilinde çocuk",
+      "answer": "ÇAĞA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eski dilde çivi",
+      "answer": "MIH",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Rüzgâr",
-      "answer": "YEL",
+      "text": "Ayak direyen",
+      "answer": "İNATÇI",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çevrilen oyuncak",
-      "answer": "TOPAÇ",
-      "row": 3,
+      "text": "Oyunda kovalayan",
+      "answer": "EBE",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yağlı merhem",
-      "answer": "POMAT",
+      "text": "Maksimum",
+      "answer": "AZAMİ",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tren yolu",
+      "answer": "RAY",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Halk nefeslisi",
-      "answer": "MEY",
-      "row": 6,
+      "text": "Yığılmış küme",
+      "answer": "YIĞIN",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Alt kurul",
-      "answer": "KOMİTE",
-      "row": 3,
+      "text": "Kamış içkisi",
+      "answer": "ARAK",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gemisiyle ünlü peygamber",
-      "answer": "NUH",
+      "text": "Çöl yeşilliği",
+      "answer": "VAHA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeşillik karışımı",
+      "answer": "SALATA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yöresel",
-      "answer": "YEREL",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yunan rakısı",
-      "answer": "UZO",
+      "text": "Çiçek düzenleme",
+      "answer": "İKEBANA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ağız yoluyla",
-      "answer": "ORAL",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Çağlayan",
-      "answer": "ŞELALE",
-      "row": 2,
+      "text": "Asker su kabı",
+      "answer": "MATARA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
-      "row": 0,
-      "col": 1
+      "row": 7,
+      "col": 4
     },
     {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
+      "row": 7,
       "col": 6
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 8,
+      "col": 4
     },
     {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
+      "row": 8,
       "col": 5
     },
     {
-      "row": 9,
+      "row": 8,
       "col": 6
     }
   ],

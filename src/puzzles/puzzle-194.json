@@ -5,191 +5,205 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Sert siyah ağaç",
-      "answer": "ABANOZ",
+      "text": "Taş kırıntısı",
+      "answer": "KUM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Etrafı su ile çevrili",
-      "answer": "ADA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Divan şiirinde ceylan",
-      "answer": "AHU",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kan alma",
-      "answer": "HACAMAT",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Saha, meydan",
-      "answer": "ALAN",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yarışma çekişmesi",
-      "answer": "REKABET",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Güç birimi",
-      "answer": "VAT",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Renkli, benekli",
-      "answer": "ALA",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yiyecek odası",
-      "answer": "KİLER",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hizmetli",
-      "answer": "HADEME",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Elçilik",
-      "answer": "SEFARET",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kolsuz üstlük",
-      "answer": "PELERİN",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kesilen pay",
-      "answer": "KESİNTİ",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çeşni tozları",
-      "answer": "BAHARAT",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Saf içki",
-      "answer": "SEK",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hak, hukuk",
-      "answer": "ADALET",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Özellikle, bilhassa",
-      "answer": "HELE",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Odun baltası",
-      "answer": "NACAK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tel bölme",
-      "answer": "KAFES",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Temel, esas",
-      "answer": "ANA",
-      "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yönetime dair",
-      "answer": "İDARİ",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Pahalılaşma",
-      "answer": "ZAM",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bale sanatçısı",
-      "answer": "BALERİN",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Öyle mi sözü",
-      "answer": "HA",
+      "text": "Bebeği doğurtan",
+      "answer": "EBE",
       "row": 1,
-      "col": 6,
-      "arrow": "down"
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Ayrıştırılamayan madde",
-      "answer": "ELEMENT",
+      "text": "Süs oyuğu",
+      "answer": "NİŞ",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Karşıdakilere seslenme",
+      "answer": "SİZ",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Akılla ilgili",
+      "answer": "AKLİ",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Buzsuz içilen",
+      "answer": "SEK",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eskiden sandığa atılan",
+      "answer": "REY",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Tavan lambası",
+      "answer": "AVİZE",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Namludaki oluk",
+      "answer": "YİV",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İstihbarat teşkilatı",
+      "answer": "MİT",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Adla ilgili",
+      "answer": "ADSAL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Duvar lambası",
+      "answer": "APLİK",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gözleri görmeyen",
+      "answer": "AMA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Geniş hol",
+      "answer": "SOFA",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Evlenmiş olan",
+      "answer": "EVLİ",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kapı basamağı",
+      "answer": "EŞİK",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Taç çizgisi dışı",
+      "answer": "AUT",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ekmeğin hammaddesi",
+      "answer": "UN",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Şeffaf",
+      "answer": "SAYDAM",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Diş dokusu",
+      "answer": "MİNE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İskambilde sinek",
+      "answer": "İSPATİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çoban çalgısı",
+      "answer": "KAVAL",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ortaokul sonrası",
+      "answer": "LİSE",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kılıç sporu",
+      "answer": "ESKRİM",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Taşıma kabı",
+      "answer": "KOVA",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kol takısı",
+      "answer": "BİLEZİK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Saha dışı",
-      "answer": "AUT",
+      "text": "Net karşıtı",
+      "answer": "FLU",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İşkence",
+      "answer": "EZİYET",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Zırhlı kule",
-      "answer": "TARET",
-      "row": 4,
+      "text": "Mensup, bağlı",
+      "answer": "AİT",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     }
@@ -197,23 +211,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 3
     },
     {
       "row": 0,
-      "col": 6
+      "col": 4
+    },
+    {
+      "row": 1,
+      "col": 3
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 7,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 0
+      "col": 7
     },
     {
       "row": 10,
-      "col": 7
+      "col": 1
     }
   ],
   "difficulty": "orta",

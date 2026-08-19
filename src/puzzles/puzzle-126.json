@@ -5,121 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Padişah oğlu",
-      "answer": "ŞEHZADE",
+      "text": "Dağ karşıtı yer şekli",
+      "answer": "OVA",
       "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çek başkenti",
+      "answer": "PRAG",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zemin, arka plan",
-      "answer": "FON",
+      "text": "Kebabın malzemesi",
+      "answer": "ET",
       "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Özgü, mahsus",
+      "answer": "HAS",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Olağanüstü",
+      "answer": "HARİKA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sağ veya sol",
+      "answer": "YAN",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Övgü şiiri",
-      "answer": "KASİDE",
-      "row": 3,
+      "text": "Gemide oda",
+      "answer": "KAMARA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Saydam kıvam maddesi",
+      "answer": "JELATİN",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Olta ipi",
+      "answer": "MİSİNA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kesme aracı",
+      "answer": "MAKAS",
+      "row": 9,
       "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mikstür",
-      "answer": "KARIŞIM",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Harp",
-      "answer": "SAVAŞ",
-      "row": 6,
-      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eli işe yatkın",
-      "answer": "HAMARAT",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Maharet",
-      "answer": "BECERİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Veraset",
-      "answer": "KALITIM",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Köyden büyük yer",
-      "answer": "KASABA",
+      "text": "Maç yöneticisi",
+      "answer": "HAKEM",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yanık şeker",
-      "answer": "KARAMEL",
-      "row": 2,
+      "text": "Alan; oyun yeri",
+      "answer": "SAHA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Duvar sıvayan",
-      "answer": "SIVACI",
-      "row": 3,
+      "text": "Bilgin kimse",
+      "answer": "ALİM",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Haydarpaşa'daki yapı",
+      "answer": "GAR",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Cezanın kaldırılması",
-      "answer": "AF",
-      "row": 0,
+      "text": "Çalışma mobilyası",
+      "answer": "MASA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalça siniri",
+      "answer": "SİYATİK",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Belirti, jest",
-      "answer": "İŞARET",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Re'den önceki nota",
-      "answer": "DO",
+      "text": "En yaygın bağlaç",
+      "answer": "VE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İçeri karşıtı",
-      "answer": "DIŞARI",
+      "text": "Gemi omurgası",
+      "answer": "KARİNA",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ekvator uzaklığı",
-      "answer": "ENLEM",
+      "text": "Fırlat, savur",
+      "answer": "AT",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Küçük ekip",
-      "answer": "TİM",
-      "row": 6,
+      "text": "Tropik meyve",
+      "answer": "ANANAS",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     }
@@ -127,26 +148,30 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
       "col": 3
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
+      "row": 1,
       "col": 1
     },
     {
       "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 0
     }
   ],

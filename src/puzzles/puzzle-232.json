@@ -5,240 +5,219 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Küçük çocuk",
-      "answer": "SABİ",
+      "text": "Deniz girintisi",
+      "answer": "KOY",
       "row": 0,
-      "col": 5,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dernek, topluluk",
-      "answer": "CEMİYET",
+      "text": "Gündelikçi işçi",
+      "answer": "AMELE",
+      "row": 1,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ürün",
+      "answer": "MAHSUL",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çevre bilimi",
-      "answer": "EKOLOJİ",
+      "text": "Denizden elde edilen",
+      "answer": "TUZ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Süreç adımı",
+      "answer": "AŞAMA",
       "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gözaltında olan",
+      "answer": "TUTUKLU",
+      "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yetkili kimse",
-      "answer": "VEKİL",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Lenf organı",
-      "answer": "DALAK",
-      "row": 5,
+      "text": "Fenalık",
+      "answer": "KÖTÜLÜK",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gemisiyle ünlü peygamber",
-      "answer": "NUH",
-      "row": 5,
+      "text": "Giysi küçük gelince",
+      "answer": "DAR",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İğrenme ünlemi",
-      "answer": "PÖF",
-      "row": 5,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Alım satım",
-      "answer": "TİCARET",
+      "text": "Azerbaycan'ın telli çalgısı",
+      "answer": "TAR",
       "row": 7,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Rezillik",
-      "answer": "REZALET",
+      "text": "Tekne kaptanı",
+      "answer": "REİS",
       "row": 8,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Halk dörtlüğü",
-      "answer": "MANİ",
+      "text": "Sesin çarpıp gelmesi",
+      "answer": "EKO",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Genel kural",
+      "answer": "DÜSTUR",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Eski dilde ödeme",
-      "answer": "İTA",
+      "text": "Üçüncü ay",
+      "answer": "MART",
       "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bina bölümü",
-      "answer": "KAT",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yakarış, niyaz",
-      "answer": "DUA",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kanun",
-      "answer": "YASA",
-      "row": 11,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Toplama işareti",
-      "answer": "ARTI",
+      "text": "Lamba siperi",
+      "answer": "ABAJUR",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Netice",
+      "answer": "SONUÇ",
       "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mısır'dan geçen ırmak",
-      "answer": "NİL",
-      "row": 12,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Ülke hükümdarı",
-      "answer": "KRAL",
+      "text": "Kolun üst eklemi",
+      "answer": "OMUZ",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ağaçtan silkelenen",
-      "answer": "DUT",
+      "text": "Küçük deniz kabuklusu",
+      "answer": "KARİDES",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "En sıcak mevsim",
+      "answer": "YAZ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gelenek, âdet",
+      "answer": "TÖRE",
       "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yivli eleman",
-      "answer": "VİDA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Mücevher",
-      "answer": "CEVAHİR",
-      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dolaşma",
-      "answer": "TUR",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tek satıcılık",
-      "answer": "TEKEL",
-      "row": 0,
+      "text": "Beyaz meyveli ağaç",
+      "answer": "DUT",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Namaz topluluğu",
-      "answer": "CEMAAT",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kahve türü",
-      "answer": "MOKA",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Organ, uzuv",
-      "answer": "AZA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Aşınmış yazı",
-      "answer": "SİLİK",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Nâzım Hikmet'in soyadı",
-      "answer": "RAN",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Şaşkınlık sözü",
-      "answer": "AYOL",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Gagası keseli kuş",
-      "answer": "PELİKAN",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Açık kahverengi",
-      "answer": "BEJ",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Uzak taraf",
-      "answer": "ÖTE",
-      "row": 5,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Baş kaldıran",
-      "answer": "ASİ",
-      "row": 9,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Suçunu söyleme",
-      "answer": "İTİRAF",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Bütünsel, toplam",
-      "answer": "TOTAL",
+      "text": "Vücut alıştırması",
+      "answer": "İDMAN",
       "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Piskopos değneği",
+      "answer": "ASA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Koku maddesi",
+      "answer": "TÜTSÜ",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İşaret sözcüğü",
+      "answer": "BU",
+      "row": 10,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kekre kış meyvesi",
+      "answer": "MUŞMULA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sert vuruş",
+      "answer": "SMAÇ",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bal rengi göz",
+      "answer": "ELA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Rahim kazıma",
+      "answer": "KÜRETAJ",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Taşınmaz mal",
+      "answer": "MÜLK",
+      "row": 2,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaş karşıtı",
+      "answer": "KURU",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kişi resmi",
+      "answer": "PORTRE",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -246,31 +225,55 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 3
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 1,
-      "col": 1
-    },
-    {
-      "row": 4,
       "col": 7
     },
     {
-      "row": 8,
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 8
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 8
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {
       "row": 10,
-      "col": 4
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 2
+    },
+    {
+      "row": 11,
+      "col": 0
+    },
+    {
+      "row": 12,
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 7
     }
   ],
   "difficulty": "kolay",

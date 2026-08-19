@@ -5,219 +5,198 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Alaka",
-      "answer": "İLGİ",
+      "text": "İstanbul'un eski adı",
+      "answer": "ASİTANE",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Dede, cet",
-      "answer": "ATA",
+      "text": "Önceki gün",
+      "answer": "ARİFE",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlı görevlisi",
-      "answer": "VEZİR",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sıradan halk",
-      "answer": "AVAM",
-      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İğneyle yapılan koruma",
-      "answer": "AŞI",
+      "text": "Gümrük deposu",
+      "answer": "ANTREPO",
       "row": 3,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Maç bölümü",
-      "answer": "SET",
+      "text": "Kemerli geçit",
+      "answer": "TAK",
       "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kendi, asıl",
-      "answer": "ÖZ",
+      "text": "Ayının kışladığı",
+      "answer": "İN",
       "row": 4,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Uzak köşe",
-      "answer": "ÜCRA",
+      "text": "Sayıların ilki",
+      "answer": "BİR",
       "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Onurluk",
-      "answer": "PLAKET",
-      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gürültü, seda",
-      "answer": "SES",
+      "text": "Siyahla beyaz arası",
+      "answer": "GRİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüzdeki koyu nokta",
+      "answer": "BEN",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zaman aracı",
+      "answer": "SAAT",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Düzeltme",
+      "answer": "REFORM",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Uçsuz geniş",
+      "answer": "ENGİN",
+      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bile, üstelik",
-      "answer": "HATTA",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Oy (eski dilde)",
-      "answer": "REY",
+      "text": "Vatan",
+      "answer": "YURT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Fars ülkesi",
-      "answer": "İRAN",
+      "text": "Soyun büyüğü",
+      "answer": "ATA",
       "row": 9,
-      "col": 3,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Muamma",
-      "answer": "BİLMECE",
+      "text": "Koyun-keçi",
+      "answer": "DAVAR",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Baba karşıtı",
-      "answer": "ANA",
-      "row": 11,
+      "text": "Yırtıcı masal yaratığı",
+      "answer": "CANAVAR",
+      "row": 10,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Uzun yol kamyonu",
-      "answer": "TIR",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kara sevda",
-      "answer": "AŞK",
-      "row": 2,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Bulgaristan parası",
-      "answer": "LEV",
+      "text": "Fasıla",
+      "answer": "ARA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Boşa gitme",
-      "answer": "HEBA",
-      "row": 7,
+      "text": "Diz üstü şort",
+      "answer": "BERMUDA",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gerçek, esas",
-      "answer": "ASIL",
-      "row": 2,
+      "text": "Gemi dibi",
+      "answer": "SİNTİNE",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İbadet töreni",
-      "answer": "AYİN",
-      "row": 7,
+      "text": "Memleketimden İnsan Manzaraları şairi",
+      "answer": "RAN",
+      "row": 8,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hız değişimi",
-      "answer": "İVME",
+      "text": "Oruç açma",
+      "answer": "İFTAR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Alt görevli",
-      "answer": "AST",
+      "text": "Dinî görüş",
+      "answer": "FETVA",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bırakıp gitme",
+      "answer": "TERK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "En arkadaki",
+      "answer": "SON",
       "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sol'den sonraki nota",
-      "answer": "LA",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Harcama",
-      "answer": "TÜKETİM",
-      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Organ, uzuv",
-      "answer": "AZA",
-      "row": 0,
-      "col": 5,
+      "text": "Avcının kısmeti",
+      "answer": "AV",
+      "row": 9,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yüreklilik",
-      "answer": "CESARET",
+      "text": "Boğaz çalkalama",
+      "answer": "GARGARA",
       "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Pamuklu spor giysi",
-      "answer": "TİŞÖRT",
-      "row": 0,
+      "text": "Mısır anıtı",
+      "answer": "PİRAMİT",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tatlı karşıtı",
-      "answer": "ACI",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Makinedeki bozukluk",
-      "answer": "ARIZA",
+      "text": "Sert kauçuk",
+      "answer": "EBONİT",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İnceltici kimyasal",
-      "answer": "TİNER",
-      "row": 6,
+      "text": "Kabuklu güz meyvesi",
+      "answer": "NAR",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -225,23 +204,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 5,
-      "col": 1
-    },
-    {
-      "row": 7,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 6
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "zor",

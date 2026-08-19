@@ -5,191 +5,177 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Keseli memeli",
-      "answer": "KOALA",
-      "row": 1,
+      "text": "Gök ada",
+      "answer": "GALAKSİ",
+      "row": 0,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Çamaşır tutturucu",
-      "answer": "MANDAL",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Birdenbire",
-      "answer": "ANSIZIN",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kurul üyesi",
-      "answer": "AZA",
-      "row": 3,
+      "text": "Övgü şiiri",
+      "answer": "KASİDE",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zola romanı",
-      "answer": "NANA",
+      "text": "Şölen",
+      "answer": "ZİYAFET",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ücretsiz yemekevi",
+      "answer": "AŞEVİ",
       "row": 4,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Teminat",
-      "answer": "GARANTİ",
+      "text": "Doymuş kimse",
+      "answer": "TOK",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yol birleşimi",
-      "answer": "ÇAT",
+      "text": "Kolun ucu",
+      "answer": "EL",
+      "row": 5,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Bitki camlığı",
+      "answer": "SERA",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "On iki ay",
-      "answer": "YIL",
+      "text": "Ecdat",
+      "answer": "ATA",
       "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Eski dilde ödeme",
-      "answer": "İTA",
+      "text": "Kaynak gösterme",
+      "answer": "ATIF",
       "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kara parçası",
-      "answer": "ADA",
-      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Hayâ, sıkılma",
-      "answer": "AR",
+      "text": "Ortada olmayan bölüm",
+      "answer": "YAN",
       "row": 7,
-      "col": 6,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Taşlı masa oyunu",
-      "answer": "DOMİNO",
+      "text": "Kebap çubuğu",
+      "answer": "ŞİŞ",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Işık çizgisi",
+      "answer": "IŞIN",
       "row": 9,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Lisan",
-      "answer": "DİL",
+      "text": "Eleme aracı",
+      "answer": "ELEK",
       "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kahverengi benek",
-      "answer": "ÇİL",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kale deliği",
-      "answer": "MAZGAL",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeter bulma",
-      "answer": "KANAAT",
-      "row": 0,
       "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Günlük haber yayını",
+      "answer": "GAZETE",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sıradan, kalitesiz",
+      "text": "Bayağı, düşük",
       "answer": "ADİ",
       "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Baş kaldıran",
+      "answer": "ASİ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ağırlık birimi",
-      "answer": "ONS",
+      "text": "Nispet",
+      "answer": "ORAN",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hak etme",
+      "answer": "LİYAKAT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çok sevilen",
-      "answer": "İDOL",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Namına, hesabına",
-      "answer": "ADINA",
+      "text": "Ad ortağı",
+      "answer": "ADAŞ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eksiksiz",
-      "answer": "TAM",
+      "text": "Parlayan, ışıldayan",
+      "answer": "IŞIL",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Katlı İtalyan makarnası",
-      "answer": "LAZANYA",
+      "text": "Terazi gözü",
+      "answer": "KEFE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ortadaki bölüm",
-      "answer": "İÇ",
-      "row": 8,
+      "text": "Herkesçe bilinen",
+      "answer": "AFİŞE",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İktibas",
-      "answer": "ALINTI",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ansızın, beklenmedik",
-      "answer": "ANİ",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ulaşmış, kavuşmuş",
-      "answer": "NAİL",
+      "text": "Olumlu yanıt",
+      "answer": "EVET",
       "row": 2,
-      "col": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sahnedeki kişilik",
-      "answer": "ROL",
+      "text": "Giyimi düzgün",
+      "answer": "ŞIK",
       "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Devrim ayaklanması",
+      "answer": "İHTİLAL",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -201,31 +187,35 @@
     },
     {
       "row": 0,
-      "col": 1
+      "col": 6
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
+      "row": 4,
       "col": 0
     },
     {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 7,
-      "col": 0
+      "row": 5,
+      "col": 4
     },
     {
       "row": 8,
-      "col": 0
+      "col": 7
     },
     {
       "row": 9,
       "col": 0
+    },
+    {
+      "row": 9,
+      "col": 2
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "kolay",

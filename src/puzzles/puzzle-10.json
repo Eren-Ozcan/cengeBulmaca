@@ -5,191 +5,240 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Geviş getiren midesi",
-      "answer": "İŞKEMBE",
+      "text": "Şifre, simge",
+      "answer": "KOD",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Uzun, dar tahta",
+      "answer": "LATA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hükümdar sopası",
+      "answer": "ASA",
       "row": 1,
-      "col": 0,
-      "arrow": "right"
+      "col": 6,
+      "arrow": "down-right"
     },
     {
-      "text": "İskambilde koz",
-      "answer": "ATU",
+      "text": "Tasa, kaygı",
+      "answer": "GAM",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kötü, alçak, soysuz",
-      "answer": "HABİS",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Olağanüstü",
-      "answer": "HARİKA",
-      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kısa fıkra",
-      "answer": "ANEKDOT",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Akım geçiren",
-      "answer": "İLETKEN",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Temiz, saf",
-      "answer": "ARI",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yapı arazisi",
-      "answer": "ARSA",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Aynı doğumlu",
-      "answer": "İKİZ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Enerji ölçü birimi",
-      "answer": "KALORİ",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Toprak altı yumrusu",
-      "answer": "PATATES",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Fırsat",
-      "answer": "PUNT",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Gayret",
-      "answer": "ÇABA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Yok etme",
-      "answer": "İMHA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kocaman",
-      "answer": "İRİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yılın son ayı",
-      "answer": "ARALIK",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bakanlar kurulu",
-      "answer": "KABİNE",
-      "row": 0,
+      "text": "Taşıma",
+      "answer": "NAKİL",
+      "row": 3,
       "col": 3,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Eski dilde yapma",
-      "answer": "İKA",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Fiyat kâğıdı",
-      "answer": "ETİKET",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kişi, şahıs",
-      "answer": "ZAT",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Patlıcanlı fırın yemeği",
-      "answer": "MUSAKKA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Nişastalı bulamaç",
-      "answer": "LAPA",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kokulu yeşillik",
-      "answer": "DEREOTU",
+      "text": "Fakire verilen",
+      "answer": "SADAKA",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yeşil sapılı sebze",
+      "answer": "PIRASA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çağdaş",
+      "answer": "MODERN",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Deri sıvısı",
+      "answer": "TER",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Soluk",
+      "answer": "NEFES",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Var karşıtı",
+      "answer": "YOK",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce kılıç",
+      "answer": "MEÇ",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sahici",
+      "answer": "HAKİKİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Giriş holü",
+      "answer": "LOBİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İngiliz uzunluk birimi",
+      "answer": "İNÇ",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Onuncu ay",
+      "answer": "EKİM",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Rumen parası",
+      "answer": "LEU",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yetke",
+      "answer": "OTORİTE",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Muhtemel",
+      "answer": "OLASI",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Osmanlı yönetim birimi",
+      "answer": "EYALET",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kan kanalı",
+      "answer": "DAMAR",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Süslü sanat üslubu",
+      "answer": "ROKOKO",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ev üstü",
+      "answer": "DAM",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gurur",
+      "answer": "KİBİR",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Rakıya koku veren",
+      "answer": "ANASON",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bazıları",
+      "answer": "KİMİ",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüksek bilim kurumu",
+      "answer": "AKADEMİ",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ağırlık birimi",
-      "answer": "ONS",
-      "row": 4,
+      "text": "Batı Anadolu yiğidi",
+      "answer": "EFE",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Beraberlik edatı",
+      "answer": "İLE",
+      "row": 9,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Baş kaldıran",
+      "answer": "ASİ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Görsel duyum",
-      "answer": "RENK",
-      "row": 8,
+      "text": "Çam sakızı",
+      "answer": "REÇİNE",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Hükümdar koltuğu",
-      "answer": "TAHT",
+      "text": "Nişan yüzüğü",
+      "answer": "ALYANS",
       "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Gol pası",
-      "answer": "ASİST",
-      "row": 6,
+      "text": "Kaba örtü",
+      "answer": "ÇUL",
+      "row": 9,
       "col": 8,
       "arrow": "down"
     }
@@ -197,87 +246,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 11,
-      "col": 1
-    },
-    {
-      "row": 11,
-      "col": 2
-    },
-    {
-      "row": 11,
       "col": 3
     },
     {
-      "row": 12,
-      "col": 1
-    },
-    {
-      "row": 12,
-      "col": 2
-    },
-    {
-      "row": 12,
-      "col": 3
-    },
-    {
-      "row": 12,
+      "row": 0,
       "col": 4
     },
     {
-      "row": 12,
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
-      "row": 12,
+      "row": 0,
       "col": 8
+    },
+    {
+      "row": 1,
+      "col": 3
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 8
+    },
+    {
+      "row": 12,
+      "col": 7
     }
   ],
   "difficulty": "zor",

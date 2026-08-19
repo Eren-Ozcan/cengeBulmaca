@@ -5,212 +5,191 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Tuzlanmış torik",
-      "answer": "LAKERDA",
-      "row": 1,
+      "text": "Takma ad",
+      "answer": "MAHLAS",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Sonradan çıkan",
-      "answer": "ARIZİ",
+      "text": "Tayin",
+      "answer": "ATAMA",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kahverengi kömür",
-      "answer": "LİNYİT",
-      "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gereksiz bağırma",
-      "answer": "YAYGARA",
-      "row": 4,
+      "text": "Tropik yeşil meyve",
+      "answer": "AVOKADO",
+      "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kapı çerçevesi",
-      "answer": "SÖVE",
+      "text": "İbadet",
+      "answer": "AMEL",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kafa",
+      "answer": "BAŞ",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çabuk unutan",
-      "answer": "UNUTKAN",
+      "text": "Japon türküsü",
+      "answer": "UTA",
+      "row": 5,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Güldürücü, gülünç",
+      "answer": "KOMİK",
       "row": 6,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Temizlik parçası",
-      "answer": "BEZ",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
+      "text": "Zabıt",
+      "answer": "TUTANAK",
+      "row": 6,
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Yardım sözü",
-      "answer": "AMAN",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Çizgi",
-      "answer": "HAT",
+      "text": "Vuruş sesi",
+      "answer": "ŞAK",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Boyun bölümü",
-      "answer": "YAKA",
+      "text": "Kayma ayakkabısı",
+      "answer": "PATEN",
       "row": 8,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kayıp",
-      "answer": "YİTİK",
+      "text": "Ağırbaşlılık",
+      "answer": "VAKAR",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kısacık süre",
-      "answer": "AN",
+      "text": "Leyli",
+      "answer": "YATILI",
       "row": 9,
-      "col": 6,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Kalın karton",
-      "answer": "MUKAVVA",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Eğer",
-      "answer": "ŞAYET",
+      "text": "Hayvan bakımı",
+      "answer": "TIMAR",
       "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yumuşak ses",
-      "answer": "LAP",
+      "text": "Donuk yüzey",
+      "answer": "MAT",
       "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Oda üstü",
+      "answer": "TAVAN",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ordu görevlisi",
-      "answer": "SUBAY",
+      "text": "Dava vekili",
+      "answer": "AVUKAT",
       "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Namus, onur",
-      "answer": "AR",
-      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İdare",
-      "answer": "YÖNETİM",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Rehber",
-      "answer": "KILAVUZ",
+      "text": "İnce ekmek",
+      "answer": "LAVAŞ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Güreş bitişi",
-      "answer": "TUŞ",
+      "text": "Zor bulunan",
+      "answer": "KIT",
       "row": 8,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İşkence",
-      "answer": "EZİYET",
+      "text": "Madde parçacığı",
+      "answer": "ATOM",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde yapma",
-      "answer": "İKA",
-      "row": 8,
+      "text": "Örtülü, kapanmış",
+      "answer": "KAPALI",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Boks alanı",
-      "answer": "RİNG",
+      "text": "Japon içkisi",
+      "answer": "SAKE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tekerlekli tahta",
-      "answer": "KAYKAY",
+      "text": "Tamirat",
+      "answer": "ONARIM",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yasa yapma",
-      "answer": "YASAMA",
-      "row": 2,
+      "text": "Bilgi",
+      "answer": "MALUMAT",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "En yaygın bağlaç",
-      "answer": "VE",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sırada son",
-      "answer": "AHİR",
+      "text": "Sevinçli, neşeli",
+      "answer": "ŞAD",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Boksta yıkılış",
-      "answer": "NAKAVT",
-      "row": 5,
+      "text": "Küçük lokma",
+      "answer": "TİKE",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Denk, eş",
-      "answer": "TAY",
+      "text": "Ateş yakılan yer",
+      "answer": "OCAK",
       "row": 2,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Zola romanı",
-      "answer": "NANA",
-      "row": 6,
+      "text": "Deftere yazılan",
+      "answer": "NOT",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -218,7 +197,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
     },
     {
       "row": 0,
@@ -233,24 +216,40 @@
       "col": 8
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 2,
+      "col": 1
     },
     {
       "row": 4,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
+      "row": 4,
       "col": 1
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
+      "row": 11,
+      "col": 0
     },
     {
       "row": 11,

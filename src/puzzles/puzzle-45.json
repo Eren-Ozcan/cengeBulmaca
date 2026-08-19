@@ -5,177 +5,191 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Gazete yazısı",
-      "answer": "MAKALE",
+      "text": "Eski kadın mantosu",
+      "answer": "FERACE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güç, takat",
-      "answer": "MECAL",
+      "text": "Karadeniz yaylısı",
+      "answer": "KEMENÇE",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ayak tabanı cezası",
-      "answer": "FALAKA",
-      "row": 2,
+      "text": "Rezalet olayı",
+      "answer": "SKANDAL",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hortumlu hayvan",
+      "answer": "FİL",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Peygamber",
-      "answer": "NEBİ",
+      "text": "Akış hızı",
+      "answer": "DEBİ",
       "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Görüntü alıcısı",
+      "answer": "KAMERA",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yol kenarı şeridi",
-      "answer": "BANKET",
-      "row": 5,
+      "text": "Menekşe rengi",
+      "answer": "MOR",
+      "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Hitap ünlemi",
-      "answer": "BRE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Açık kestane rengi",
-      "answer": "ALA",
-      "row": 6,
-      "col": 4,
+      "text": "Mal paylaşımı",
+      "answer": "ZEKAT",
+      "row": 7,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Hızlı tren",
-      "answer": "EKSPRES",
+      "text": "Ofis",
+      "answer": "BÜRO",
       "row": 7,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Otomobil",
-      "answer": "ARABA",
+      "text": "Uzaktaki yer",
+      "answer": "ORA",
       "row": 8,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Gurur",
-      "answer": "KİBİR",
+      "text": "Söz dalaşı",
+      "answer": "POLEMİK",
       "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Üye",
-      "answer": "AZA",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük ses",
-      "answer": "PIT",
-      "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Suriye'nin başkenti",
-      "answer": "ŞAM",
-      "row": 11,
-      "col": 4,
+      "text": "Zararı giderme",
+      "answer": "TELAFİ",
+      "row": 10,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yardım sözü",
-      "answer": "AMAN",
+      "text": "Dünya'nın uydusu",
+      "answer": "AY",
+      "row": 9,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Noksan",
+      "answer": "EKSİK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yönetmenlik işi",
-      "answer": "REJİ",
-      "row": 5,
+      "text": "Kare yüzlü cisim",
+      "answer": "KÜP",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Renkli kanatlı böcek",
-      "answer": "KELEBEK",
+      "text": "Tanıtım",
+      "answer": "REKLAM",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Merak sözü",
-      "answer": "ACABA",
+      "text": "İzlenecek yol",
+      "answer": "ROTA",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kör",
+      "answer": "AMA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bedensel özürlü",
-      "answer": "SAKAT",
-      "row": 6,
+      "text": "Anıt mezar",
+      "answer": "MOZOLE",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ama",
-      "answer": "LAKİN",
+      "text": "Pres",
+      "answer": "CENDERE",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Fiş yuvası",
-      "answer": "PRİZ",
-      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
       "text": "Bal rengi göz",
       "answer": "ELA",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Seyrek görülen",
+      "answer": "ENDER",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çoban köpeği",
-      "answer": "KARABAŞ",
-      "row": 4,
+      "text": "Bilinç kaybı",
+      "answer": "KOMA",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Mevlevi büyüğü",
-      "answer": "ÇELEBİ",
-      "row": 3,
+      "text": "Gayret",
+      "answer": "ÇABA",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yozlaşmış, bozulmuş, dejenere",
-      "answer": "YOZ",
+      "text": "Anlayışlı, sezgili",
+      "answer": "ARİF",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Aklını yitirmiş",
+      "answer": "DELİ",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Dizayn",
-      "answer": "TASARIM",
-      "row": 4,
+      "text": "Arkasından gitme",
+      "answer": "TAKİP",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -186,31 +200,27 @@
       "col": 6
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 5,
+      "col": 7
     },
     {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 8,
+      "row": 6,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
+      "row": 11,
       "col": 1
     },
     {
-      "row": 10,
+      "row": 11,
+      "col": 3
+    },
+    {
+      "row": 11,
+      "col": 5
+    },
+    {
+      "row": 11,
       "col": 6
     }
   ],

@@ -5,156 +5,191 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Sahici",
-      "answer": "HAKİKİ",
+      "text": "Takım, kadro",
+      "answer": "EKİP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kalın tahta",
-      "answer": "KALAS",
-      "row": 2,
-      "col": 2,
+      "text": "Yer kırığı",
+      "answer": "FAY",
+      "row": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "İstanbul'un eski adı",
-      "answer": "ASİTANE",
-      "row": 3,
+      "text": "Güzel gözlü hayvan",
+      "answer": "AHU",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Korku ünlemi",
-      "answer": "ABO",
-      "row": 3,
+      "text": "Yetki değneği",
+      "answer": "ASA",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Zarar verme",
+      "answer": "İHLAL",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Saf, şaşkın",
-      "answer": "AVAL",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Gümrük deposu",
-      "answer": "ANTREPO",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Cezanın kaldırılması",
-      "answer": "AF",
-      "row": 6,
+      "text": "Sağduyu",
+      "answer": "US",
+      "row": 3,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Devrilme",
-      "answer": "ALABORA",
+      "text": "Doğu ilimiz",
+      "answer": "VAN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Etrafı su ile çevrili",
+      "answer": "ADA",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Bas perde",
+      "answer": "PES",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Cilt maddesi",
+      "answer": "KREM",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sporla gelişen doku",
+      "answer": "KAS",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir yerde oturma",
+      "answer": "İKAMET",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yaramaz çocuk",
-      "answer": "AFACAN",
+      "text": "Saf, bön",
+      "answer": "AVANAK",
       "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Eski değerli eşya",
-      "answer": "ANTİKA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Yat limanı",
+      "answer": "MARİNA",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Yarı değerli taş",
-      "answer": "AKİK",
+      "text": "Onurluk",
+      "answer": "PLAKET",
       "row": 10,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ata, dede",
-      "answer": "AĞABABA",
+      "text": "Kahve satan",
+      "answer": "KAHVECİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "En arkadaki",
-      "answer": "SON",
-      "row": 2,
+      "text": "Gönülden bağlılık",
+      "answer": "İHLAS",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Uzun, dar tahta",
-      "answer": "LATA",
+      "text": "Çadır yeri",
+      "answer": "KAMP",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Üçten önceki sayı",
-      "answer": "İKİ",
+      "text": "Başarı sayısı",
+      "answer": "PUAN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yol hareketliliği",
-      "answer": "TRAFİK",
+      "text": "Çoban çalgısı",
+      "answer": "KAVAL",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gemide oda",
+      "answer": "KAMARA",
       "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tren",
-      "answer": "KATAR",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kalıcı, ölümsüz",
-      "answer": "BAKİ",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ekleme, ulama",
-      "answer": "İLAVE",
+      "text": "Gamın dördüncüsü",
+      "answer": "FA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ateş yakılan yer",
-      "answer": "OCAK",
-      "row": 6,
+      "text": "Zehirli element",
+      "answer": "ARSENİK",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sermaye",
-      "answer": "ANAPARA",
-      "row": 1,
+      "text": "Sakin, huzurlu, rahat",
+      "answer": "ASUDE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Şeffaf ambalaj",
-      "answer": "SELOFAN",
-      "row": 1,
+      "text": "Adet",
+      "answer": "TANE",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yasa yapma",
+      "answer": "YASAMA",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Bina bölümü",
+      "answer": "KAT",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -162,43 +197,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 0
+      "col": 4
     },
     {
       "row": 6,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 8,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
       "col": 0
     },
     {
       "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
+      "col": 0
     }
   ],
   "difficulty": "orta",

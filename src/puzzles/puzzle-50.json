@@ -5,141 +5,141 @@
   "cols": 7,
   "clues": [
     {
-      "text": "İri kırmızı çiçek",
-      "answer": "ŞAKAYIK",
+      "text": "İstinat noktası",
+      "answer": "DAYANAK",
       "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Osmanlıcada çeşit",
+      "answer": "NEV",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayal",
+      "answer": "İMGE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yükümlülük dışı",
+      "answer": "MUAF",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Din bilgini",
+      "answer": "MOLLA",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Saygı sözü",
+      "answer": "CENAP",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sabunla çıkan",
+      "answer": "KİR",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
       "text": "Satrançta kral",
       "answer": "ŞAH",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Gökyüzünün rengi",
-      "answer": "MAVİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çay ilimiz",
-      "answer": "RİZE",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ara bozuculuk",
-      "answer": "FESAT",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Fetheden kimse",
-      "answer": "FATİH",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zodyakın ilk burcu",
-      "answer": "KOÇ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Futbol kümesi",
-      "answer": "LİG",
       "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ani tehlike",
-      "answer": "BADİRE",
+      "text": "Söyleme yeteneği",
+      "answer": "NATIKA",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kötü, fena",
-      "answer": "KEM",
+      "text": "Parlak olmayan",
+      "answer": "MAT",
       "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Tabur-tugay arası",
-      "answer": "ALAY",
+      "text": "Üzüm bitkisi",
+      "answer": "ASMA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Aşırı korku",
-      "answer": "FOBİ",
+      "text": "Üstün, kaliteli",
+      "answer": "CİNS",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Görünüm, kılık",
-      "answer": "FAÇA",
+      "text": "Otlak",
+      "answer": "MERA",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Oymak, kabile",
-      "answer": "AŞİRET",
+      "text": "Dağ lalesi",
+      "answer": "ANEMON",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Seslenme sözü",
-      "answer": "YA",
+      "text": "Sorgu sözü",
+      "answer": "NE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ter kabarcığı",
-      "answer": "İSİLİK",
+      "text": "Nakliyat",
+      "answer": "ULAŞIM",
       "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çöktürme sesi",
-      "answer": "IH",
+      "text": "Vurulan hayvan",
+      "answer": "AV",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Saklanan tahıl",
-      "answer": "ZAHİRE",
+      "text": "Güney Amerika devesi",
+      "answer": "ALPAKA",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Evcil hayvan",
-      "answer": "PET",
+      "text": "Borcu ödeme",
+      "answer": "İFA",
       "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ağız demiri",
-      "answer": "GEM",
+      "text": "Çizgi",
+      "answer": "HAT",
       "row": 6,
       "col": 6,
       "arrow": "down"

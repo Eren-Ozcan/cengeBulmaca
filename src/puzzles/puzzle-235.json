@@ -5,226 +5,191 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Hükümdar sopası",
-      "answer": "ASA",
+      "text": "Merak sözü",
+      "answer": "ACABA",
       "row": 1,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Asla",
-      "answer": "HİÇ",
-      "row": 1,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Önder",
-      "answer": "LİDER",
+      "text": "Hristiyan bayramı",
+      "answer": "YORTU",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gamın altıncısı",
-      "answer": "LA",
-      "row": 2,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "İnandırma, kandırma",
-      "answer": "İKNA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yiğit, kahraman",
-      "answer": "ALP",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kazıma süslemesi",
-      "answer": "OYMA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Do'dan sonraki nota",
-      "answer": "RE",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kızılımsı sarı",
-      "answer": "ALA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bile, üstelik",
-      "answer": "HATTA",
-      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bağ, münasebet",
-      "answer": "İLİŞKİ",
+      "text": "Çantadaki kozmetik",
+      "answer": "RUJ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yarışan kimse",
+      "answer": "RAKİP",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Devre arası",
+      "answer": "ARA",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Tayin",
+      "answer": "ATAMA",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Şayet",
+      "answer": "EĞER",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ağırlıkça eşit",
+      "answer": "DENK",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Duyarlı",
-      "answer": "HASSAS",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Beyaz kır çiçeği",
-      "answer": "PAPATYA",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Anlam çevirisi",
-      "answer": "MEAL",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hitap ünlemi",
-      "answer": "BRE",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hatıra",
-      "answer": "ANI",
-      "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Doğum günü tatlısı",
-      "answer": "KEK",
-      "row": 10,
+      "text": "Mutedil iklim",
+      "answer": "ILIMAN",
+      "row": 7,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "İslam bilginleri",
-      "answer": "ULEMA",
-      "row": 11,
+      "text": "Aptalca davranan",
+      "answer": "APTAL",
+      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İçkiye düşkün",
-      "answer": "ALKOLİK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bebeği doğurtan",
-      "answer": "EBE",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İşaret",
-      "answer": "SİNYAL",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dinlenme alanı",
-      "answer": "PARK",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Erkek insan, kişi",
-      "answer": "ADAM",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İş verme",
-      "answer": "İHALE",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tahtadan yapılan",
-      "answer": "AHŞAP",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaşlı bilge",
-      "answer": "AKSAKAL",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sanatçı, oyuncu",
-      "answer": "ARTİST",
-      "row": 2,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Hangi şey",
-      "answer": "NE",
+      "text": "Çarşı sokağı",
+      "answer": "ARASTA",
       "row": 9,
-      "col": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İyilikbilmez",
+      "answer": "NANKÖR",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuşpalazı",
+      "answer": "DİFTERİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sığır yavrusu",
+      "answer": "BUZAĞI",
+      "row": 1,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hastalık, dert",
-      "answer": "İLLET",
-      "row": 0,
-      "col": 7,
+      "text": "Ansızın, beklenmedik",
+      "answer": "ANİ",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Telle haber",
+      "answer": "TELGRAF",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sokan böcek",
+      "answer": "ARI",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemin",
+      "answer": "ANT",
+      "row": 8,
+      "col": 3,
       "arrow": "down"
     },
     {
       "text": "Fark, tefrik",
       "answer": "AYRIM",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapma yüz",
+      "answer": "MASKE",
       "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Boyun kürkü",
+      "answer": "BOA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Uyarlayıcı parça",
+      "answer": "ADAPTÖR",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ön karşıtı",
+      "answer": "ARKA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek parça giysi",
+      "answer": "ENTARİ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Arnavutluk'un başkenti",
+      "answer": "TİRAN",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Daire genişliği",
-      "answer": "ÇAP",
+      "text": "Şampiyonluk ödülü",
+      "answer": "KUPA",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Yapı arazisi",
-      "answer": "ARSA",
-      "row": 4,
+      "text": "Eski savaş gemisi",
+      "answer": "KALYON",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -236,35 +201,51 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 1
     },
     {
       "row": 0,
-      "col": 5
+      "col": 2
     },
     {
       "row": 0,
-      "col": 6
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
-      "col": 4
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 4,
+      "col": 0
     },
     {
       "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
       "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 8
+      "col": 7
     },
     {
       "row": 10,
-      "col": 8
+      "col": 7
+    },
+    {
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "kolay",

@@ -5,198 +5,198 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Küp biçimli",
-      "answer": "KÜBİK",
+      "text": "Keseli memeli",
+      "answer": "KOALA",
       "row": 0,
-      "col": 0,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Otomobil",
-      "answer": "ARABA",
+      "text": "Kokulu sıvı",
+      "answer": "ESANS",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mukavemet",
-      "answer": "DİRENÇ",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğum yardımcısı",
-      "answer": "EBE",
-      "row": 3,
+      "text": "Alçalan yol",
+      "answer": "İNİŞ",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Alaka",
-      "answer": "İLGİ",
+      "text": "Birliktelik bağlacı",
+      "answer": "İLE",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ön karşıtı",
+      "answer": "ARKA",
       "row": 4,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cihaz",
-      "answer": "AYGIT",
+      "text": "Karı veya koca",
+      "answer": "EŞ",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Toparlak",
+      "answer": "TOMBUL",
       "row": 5,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çalgılı meyhane",
-      "answer": "TAVERNA",
+      "text": "İlk Yunan harfi",
+      "answer": "ALFA",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tokat sesi",
+      "answer": "ŞAK",
       "row": 6,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Satış belgesi",
-      "answer": "FATURA",
-      "row": 6,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kurutulmuş meyve",
-      "answer": "KAK",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Beyaz meyveli ağaç",
-      "answer": "DUT",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Eskiden zengin",
-      "answer": "BAY",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaşam kaynağı",
-      "answer": "SU",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Et yiyen",
-      "answer": "ETOBUR",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Mizaç, tabiat",
-      "answer": "HUY",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gizli yer",
-      "answer": "ZULA",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Çamur toprak",
-      "answer": "BATAK",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Divan şiirinde şarap",
-      "answer": "BADE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Selçuklu lalası",
-      "answer": "ATABEY",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Cüsseli",
-      "answer": "İRİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dava vekili",
-      "answer": "AVUKAT",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Meslek yolu",
-      "answer": "KARİYER",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yozlaşmış, bozulmuş, dejenere",
-      "answer": "YOZ",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sırbistan'ın başkenti",
-      "answer": "BELGRAD",
-      "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yakın işaret zamiri",
-      "answer": "BU",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyük ateş",
-      "answer": "YANGIN",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İzlenen yol",
-      "answer": "USUL",
+      "text": "Ekin aracı",
+      "answer": "ORAK",
       "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ateş çöpü",
+      "answer": "KİBRİT",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İkinci ad",
+      "answer": "LAKAP",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Fakat, lakin",
+      "answer": "AMA",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Pudra için ponpon",
+      "answer": "PUF",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Denk, eş",
+      "answer": "TAY",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kötü",
+      "answer": "FENA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Zehirli böcek",
+      "answer": "AKREP",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yunan dansı",
+      "answer": "SİRTAKİ",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Boyun atkısı",
+      "answer": "KAŞKOL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanıltıcı gösterme",
+      "answer": "BLÖF",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yarım yirmi",
+      "answer": "ON",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sivri dipli testi",
+      "answer": "AMFORA",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İsyankâr",
+      "answer": "ASİ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yol engeli",
+      "answer": "BARİKAT",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bükreş'in para birimi",
+      "answer": "LEU",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Benekli kedi",
-      "answer": "ÇİTA",
+      "text": "Tayin",
+      "answer": "ATAMA",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Birlikte olma",
+      "answer": "EŞLİK",
       "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Para yüzü",
-      "answer": "TURA",
-      "row": 7,
+      "text": "Bölünen miktar",
+      "answer": "PAY",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     }
@@ -204,11 +204,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
-      "col": 5
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 0,
@@ -216,10 +220,6 @@
     },
     {
       "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
       "col": 0
     },
     {
@@ -229,6 +229,14 @@
     {
       "row": 9,
       "col": 0
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 2
     }
   ],
   "difficulty": "zor",

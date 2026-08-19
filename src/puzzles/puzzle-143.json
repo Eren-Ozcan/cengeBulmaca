@@ -5,170 +5,163 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Hoş karşıtı",
-      "answer": "NAHOŞ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ünlüler haberleri",
-      "answer": "MAGAZİN",
+      "text": "Güdülen erek",
+      "answer": "MAKSAT",
       "row": 1,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Özet",
-      "answer": "HÜLASA",
+      "text": "Özlem",
+      "answer": "HASRET",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski değerli eşya",
+      "answer": "ANTİKA",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kutbu kaplayan",
-      "answer": "BUZ",
+      "text": "Yiyecek stoku",
+      "answer": "ERZAK",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kabartma maddesi",
-      "answer": "MAYA",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sayıların ilki",
-      "answer": "BİR",
+      "text": "En yüksek rütbe",
+      "answer": "MAREŞAL",
       "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yanan odunun közü",
+      "answer": "HAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kırmızı taneli meyve",
+      "answer": "NAR",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eksiksiz",
+      "answer": "TAM",
+      "row": 6,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çirkin, acayip",
+      "answer": "UCUBE",
+      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Korku ünlemi",
-      "answer": "ABO",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sert çarpma",
-      "answer": "DARBE",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hakikat",
-      "answer": "GERÇEK",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Teli olan",
-      "answer": "TELLİ",
+      "text": "Açık oturum",
+      "answer": "PANEL",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bilmece",
-      "answer": "MUAMMA",
+      "text": "Kelime oyunu",
+      "answer": "CİNAS",
       "row": 10,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Güzel gözlü hayvan",
-      "answer": "AHU",
+      "text": "Çürüyüp boşalmış",
+      "answer": "KOF",
+      "row": 7,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Ekin dövme",
+      "answer": "HARMAN",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sayı, tane",
-      "answer": "ADET",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sonbahar",
-      "answer": "GÜZ",
-      "row": 1,
+      "text": "Görünüm",
+      "answer": "MANZARA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Maaş çizelgesi",
-      "answer": "BAREM",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "At demiri",
-      "answer": "NAL",
+      "text": "İç kumaş",
+      "answer": "ASTAR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Borcu olan",
-      "answer": "BORÇLU",
-      "row": 4,
+      "text": "Hindistan parası",
+      "answer": "RUPİ",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Maksimum",
-      "answer": "AZAMİ",
+      "text": "İngiliz sopalı oyunu",
+      "answer": "KRİKET",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sıkıntılı durum",
-      "answer": "BELA",
-      "row": 6,
+      "text": "Sevgili, yakın",
+      "answer": "CAN",
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Küçük kale",
-      "answer": "HİSAR",
+      "text": "Saf içki",
+      "answer": "SEK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Onuncu ay",
-      "answer": "EKİM",
+      "text": "Avrupa nehri",
+      "answer": "TUNA",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tasdik",
-      "answer": "ONAY",
+      "text": "Tayin",
+      "answer": "ATAMA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bağışıklık kazandıran",
-      "answer": "AŞI",
-      "row": 3,
-      "col": 7,
+      "text": "Gereksiz, yersiz",
+      "answer": "ABES",
+      "row": 6,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Düz geniş arazi",
-      "answer": "OVA",
-      "row": 7,
+      "text": "Mikroskop camı",
+      "answer": "LAMEL",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -184,43 +177,35 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 7
     },
     {
-      "row": 0,
-      "col": 7
+      "row": 1,
+      "col": 0
     },
     {
       "row": 2,
       "col": 7
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 3,
+      "col": 7
     },
     {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 6
+      "row": 4,
+      "col": 5
     },
     {
       "row": 8,
-      "col": 6
+      "col": 1
     },
     {
       "row": 9,
-      "col": 6
+      "col": 1
     },
     {
       "row": 10,
-      "col": 0
+      "col": 7
     }
   ],
   "difficulty": "orta",

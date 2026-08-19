@@ -5,233 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Top cismi",
-      "answer": "KÜRE",
+      "text": "Eski dilde mutlu",
+      "answer": "ŞAD",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yenilik düşkünlüğü",
-      "answer": "MODA",
+      "text": "Eğer",
+      "answer": "ŞAYET",
       "row": 0,
-      "col": 5,
+      "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "İş süresi",
-      "answer": "MESAİ",
+      "text": "Elde etme",
+      "answer": "TEMİN",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şebeke, internet",
-      "answer": "AĞ",
+      "text": "Eski Mısır tanrısı",
+      "answer": "RA",
       "row": 2,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Türkiye'nin başkenti",
-      "answer": "ANKARA",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
+      "text": "Para saçan",
+      "answer": "HOVARDA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Yağmur suyu deposu",
-      "answer": "SARNIÇ",
+      "text": "Halk dörtlüğü",
+      "answer": "MANİ",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yöntem, usul",
-      "answer": "YOL",
+      "text": "Din büyüğü öyküsü",
+      "answer": "MENKIBE",
       "row": 5,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Örtülü, kapanmış",
-      "answer": "KAPALI",
+      "text": "Mazeret",
+      "answer": "ÖZÜR",
       "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Değiş tokuş",
-      "answer": "TAKAS",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Aç karşıtı",
-      "answer": "TOK",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kiraya verilen",
-      "answer": "KİRALIK",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İnsan yapısı",
-      "answer": "BİNA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üretim işlemi",
-      "answer": "İMAL",
-      "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Ölünün yeri",
-      "answer": "KABİR",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Soru sözcüğü",
-      "answer": "NE",
-      "row": 10,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Belli, aşikâr",
-      "answer": "AYAN",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kâğıtta üstün renk",
-      "answer": "ATU",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Ocağa kömür atan",
-      "answer": "ATEŞÇİ",
-      "row": 11,
+      "text": "Romanya'nın başkenti",
+      "answer": "BÜKREŞ",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Okuma bilmeyen",
-      "answer": "ÜMMİ",
+      "text": "Bilet satan büro",
+      "answer": "ACENTE",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Katı, sert",
+      "answer": "PEK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bir denizimiz",
+      "answer": "EGE",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Dilin aldığı",
+      "answer": "TAT",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yetkin, uzman",
+      "answer": "EHİL",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Dilek",
+      "answer": "TEMENNİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çatı barı",
+      "answer": "RUF",
+      "row": 12,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Madde parçacığı",
+      "answer": "ATOM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gerçek",
-      "answer": "HAKİKAT",
+      "text": "Yün kazak",
+      "answer": "SÜVETER",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Mi'den önceki nota",
-      "answer": "RE",
+      "text": "Sürme, kesilmeme, bitmeme",
+      "answer": "DEVAM",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dolaylı anlatım",
-      "answer": "KİNAYE",
-      "row": 6,
+      "text": "Amme",
+      "answer": "KAMU",
+      "row": 8,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Temel öz",
-      "answer": "ESAS",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çoban köpeği",
-      "answer": "KARABAŞ",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Temel kanun",
-      "answer": "ANAYASA",
+      "text": "Yön değiştirme",
+      "answer": "MANEVRA",
       "row": 1,
-      "col": 4,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İngiliz uzunluk birimi",
-      "answer": "İNÇ",
+      "text": "Deri gerili çember",
+      "answer": "TEF",
       "row": 9,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sevimli",
+      "answer": "ŞİRİN",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hastalık etkeni",
-      "answer": "MİKROP",
+      "text": "Bir kız adı",
+      "answer": "ECE",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Şili boyunca uzanan sıradağ",
+      "answer": "AND",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Mitolojik çalgı",
-      "answer": "LİR",
-      "row": 7,
+      "text": "Diyagonal",
+      "answer": "KÖŞEGEN",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İfade",
-      "answer": "ANLATIM",
+      "text": "Yeme organı",
+      "answer": "AĞIZ",
       "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kuraklık tahılı",
-      "answer": "DARI",
+      "text": "Irmak",
+      "answer": "NEHİR",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek kişi",
+      "answer": "ER",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Restoran",
-      "answer": "LOKANTA",
-      "row": 5,
+      "text": "Baş, göğüs heykeli",
+      "answer": "BÜST",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ağacı bol yer",
-      "answer": "AĞAÇLIK",
+      "text": "Akaryakıt gemisi",
+      "answer": "TANKER",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Rumen parası",
-      "answer": "LEU",
-      "row": 8,
+      "text": "Ev, arsa",
+      "answer": "EMLAK",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -239,7 +232,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 3
     },
     {
       "row": 0,
@@ -247,27 +240,35 @@
     },
     {
       "row": 3,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 0
+      "col": 7
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 5,
+      "row": 6,
       "col": 2
     },
     {
-      "row": 12,
-      "col": 6
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 11,
+      "col": 7
     },
     {
       "row": 12,
-      "col": 8
+      "col": 4
+    },
+    {
+      "row": 12,
+      "col": 5
+    },
+    {
+      "row": 12,
+      "col": 7
     }
   ],
   "difficulty": "zor",

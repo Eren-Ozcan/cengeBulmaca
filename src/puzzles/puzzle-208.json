@@ -5,170 +5,177 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Alışılmış, alışılan",
-      "answer": "MUNİS",
+      "text": "Soyluluk unvanı",
+      "answer": "KONT",
       "row": 1,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bir nota (do,re,mi,fa,sol...)",
-      "answer": "SOL",
-      "row": 1,
+      "text": "Toynağa çakılan",
+      "answer": "NAL",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ut sanatçısı",
+      "answer": "UDİ",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Benekli kedi",
+      "answer": "ÇİTA",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İnatçı hayvan",
-      "answer": "KEÇİ",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "'-diğine göre' bağlacı",
-      "answer": "MADEM",
+      "text": "Beklenmedik darbe",
+      "answer": "ŞOK",
       "row": 3,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Tez canlı",
-      "answer": "ACELECİ",
+      "text": "Tavaya konan",
+      "answer": "YAĞ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hainlik",
-      "answer": "İHANET",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
+      "text": "Torik öncesi balık",
+      "answer": "PALAMUT",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Aşağı bölüm",
-      "answer": "ALT",
+      "text": "Saha, mıntıka",
+      "answer": "ZON",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ayrılık sözü",
-      "answer": "ELVEDA",
+      "text": "Bir şeyin sonucu",
+      "answer": "SON",
       "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Vur kaç savaşçısı",
-      "answer": "GERİLLA",
-      "row": 8,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "On iki ay",
-      "answer": "YIL",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yok olan",
-      "answer": "ZAİL",
-      "row": 9,
+      "text": "Danışma kurulu",
+      "answer": "ŞURA",
+      "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Üçgenleme noktası",
-      "answer": "NİRENGİ",
+      "text": "Dilimli et",
+      "answer": "SALAM",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Akım elemanı",
+      "answer": "DİYOT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Büyük askerî birlik",
+      "answer": "KOLORDU",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Evin bölmesi",
-      "answer": "ODA",
+      "text": "Yalvarma, yakarma",
+      "answer": "NİYAZ",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gönül vermiş",
-      "answer": "ALGIN",
-      "row": 5,
+      "text": "Zirve",
+      "answer": "PİK",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Naz yapan",
-      "answer": "CİLVELİ",
-      "row": 3,
+      "text": "Ürün listesi",
+      "answer": "KATALOG",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Osmanlı bandosu",
-      "answer": "MEHTER",
-      "row": 2,
+      "text": "Olumsuz yanıt",
+      "answer": "YO",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıradan",
+      "answer": "OLAĞAN",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bilgiçlik taslayan",
-      "answer": "UKALA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Mısra",
-      "answer": "DİZE",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sebep",
-      "answer": "NEDEN",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Saha, meydan",
-      "answer": "ALAN",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Meşrubat",
-      "answer": "İÇECEK",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Karşılaşmalar kümesi",
-      "answer": "LİG",
+      "text": "Fa'dan sonraki nota",
+      "answer": "SOL",
       "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Derebeyi konağı",
+      "answer": "ŞATO",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Piyanodaki dil",
+      "answer": "TUŞ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İzlenen yol",
+      "answer": "USUL",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Akademik son aşama",
+      "answer": "DOKTORA",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Susamlı çörek",
-      "answer": "SİMİT",
+      "text": "İstemsiz hareket",
+      "answer": "TİK",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İl yöneticisi",
-      "answer": "VALİ",
-      "row": 6,
+      "text": "Silah ucu",
+      "answer": "NAMLU",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -184,19 +191,35 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 4
     },
     {
       "row": 0,
-      "col": 3
+      "col": 6
     },
     {
-      "row": 3,
+      "row": 1,
       "col": 0
     },
     {
-      "row": 5,
+      "row": 4,
+      "col": 4
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 7,
       "col": 0
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "kolay",

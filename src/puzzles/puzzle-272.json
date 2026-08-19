@@ -5,252 +5,256 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Anlama yetisi",
-      "answer": "ZEKA",
+      "text": "Yazık ünlemi",
+      "answer": "VAH",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kesik",
-      "answer": "KESİ",
+      "text": "Ekşi baharat",
+      "answer": "SUMAK",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Zarif, modern",
-      "answer": "ŞIK",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kaynak gösterme",
-      "answer": "ATIF",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İpek böceği yuvası",
-      "answer": "KOZA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Otlak",
-      "answer": "MERA",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Meyveli pasta",
-      "answer": "TART",
-      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Sevinçli, neşeli",
+      "text": "Romanya'da geçen para",
+      "answer": "LEU",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Süs köpeği",
+      "answer": "FİNO",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Gönlü hoş",
       "answer": "ŞAD",
-      "row": 5,
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yurt",
-      "answer": "VATAN",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Gemisiyle ünlü peygamber",
-      "answer": "NUH",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İzlenecek yol",
-      "answer": "ROTA",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tenis aracı",
-      "answer": "RAKET",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kadın masajcı",
-      "answer": "MASÖZ",
-      "row": 8,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üzüm yeri",
-      "answer": "BAĞ",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dikkatli, özenli",
-      "answer": "TİTİZ",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Mülkiyet belgesi",
-      "answer": "TAPU",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hatırat, andaç",
-      "answer": "ANI",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Üzüm içkisi",
-      "answer": "ŞARAP",
-      "row": 12,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Spor giysisi",
-      "answer": "EŞOFMAN",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Satrançta yenilgi",
-      "answer": "MAT",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Dişi çocuk",
-      "answer": "KIZ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sabit",
-      "answer": "DURAĞAN",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yerel ağızda abi",
-      "answer": "AKA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Metal kızgınlığı",
-      "answer": "TAV",
+      "text": "Kan kanalı",
+      "answer": "DAMAR",
       "row": 3,
-      "col": 4,
-      "arrow": "down"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Fotoğraf düzeltmesi",
-      "answer": "RÖTUŞ",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Keskin bıçak",
-      "answer": "KAMA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeryüzü toprağı",
-      "answer": "ARAZİ",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Uçucu sıvı",
-      "answer": "ETER",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Aç karşıtı",
-      "answer": "TOK",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Azerbaycan'ın telli çalgısı",
-      "answer": "TAR",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Gövdenin arka yüzü",
-      "answer": "SIRT",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Gümüş balığı",
-      "answer": "ATERİNA",
-      "row": 5,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Borcu ödeme",
-      "answer": "İFA",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Ayak direme",
-      "answer": "İNAT",
+      "text": "İyiden iyiye",
+      "answer": "ENİKONU",
       "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dip ağı",
+      "answer": "TROL",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuşku, sanma",
+      "answer": "ZAN",
+      "row": 5,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Hükümdar sopası",
+      "answer": "ASA",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayal",
+      "answer": "İMGE",
+      "row": 6,
+      "col": 2,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tanrı öyküsü",
+      "answer": "MİT",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çocukları korkutan",
+      "answer": "ÖCÜ",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yardım, destek",
+      "answer": "HİMMET",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dişi geyik",
+      "answer": "MARAL",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kulübe kayıtlı kişi",
+      "answer": "ÜYE",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Beddua, kargış",
+      "answer": "LANET",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Canı yanma sesi",
+      "answer": "UF",
+      "row": 11,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Çarpma beresi",
+      "answer": "EZİK",
+      "row": 12,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Açık kestane rengi",
+      "answer": "ALA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İş verme",
+      "answer": "İHALE",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ziyan olma",
+      "answer": "HEDER",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Karşı çıkma",
+      "answer": "İTİRAZ",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kural, ölçüt",
+      "answer": "NORM",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk dörtlüğü",
+      "answer": "MANİ",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Konuşma organı",
+      "answer": "DİL",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yakalı üst giysi",
+      "answer": "GÖMLEK",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Normalden küçük",
+      "answer": "UFAK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Tahttaki kadın",
+      "answer": "ECE",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sarı çiçekli ağaç",
+      "answer": "MİMOZA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Gömleği düzelten",
+      "answer": "ÜTÜ",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tropik meyve",
+      "answer": "ANANAS",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Beğenmeme haykırışı",
+      "answer": "YUH",
+      "row": 9,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Sığınak",
+      "answer": "KORUNAK",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Zıplama sesi",
-      "answer": "ZIP",
-      "row": 9,
+      "text": "Yönetici",
+      "answer": "ŞEF",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 3
+    },
     {
       "row": 0,
       "col": 4
@@ -260,24 +264,32 @@
       "col": 0
     },
     {
-      "row": 4,
-      "col": 2
+      "row": 6,
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 3
+      "row": 6,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 7
     },
     {
       "row": 8,
-      "col": 0
+      "col": 7
     },
     {
       "row": 12,
-      "col": 0
+      "col": 5
     },
     {
       "row": 12,
-      "col": 1
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "orta",
