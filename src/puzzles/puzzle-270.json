@@ -5,261 +5,233 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Bir şeyi tanımlayan sözcük",
-      "answer": "AD",
+      "text": "Yanıt",
+      "answer": "CEVAP",
       "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kuşaktan kuşağa aktarılan olağanüstü anlatı",
-      "answer": "EFSANE",
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
+      "row": 1,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Minik çocuk",
+      "answer": "BEBE",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Taşkın su",
+      "answer": "SEL",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Sanatçı, oyuncu",
+      "answer": "ARTİST",
+      "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Şekerle kaynatılmış meyve tatlısı",
-      "answer": "REÇEL",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Müzikte susma işareti",
-      "answer": "ES",
-      "row": 3,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Lantan'ın simgesi",
-      "answer": "LA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üzerinde gözleme pişirilen düz metal",
-      "answer": "SAC",
+      "text": "File sporu",
+      "answer": "VOLEY",
       "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Mezuniyet töreninde havaya atılan başlık",
+      "text": "İç giysi",
+      "answer": "FANİLA",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Belli, aşikâr",
+      "answer": "AYAN",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mezuniyet başlığı",
       "answer": "KEP",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Fransız yazarın 19. yüzyıl romanı",
-      "answer": "NANA",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Açlığı kalmamış",
-      "answer": "TOK",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kuşaktan kuşağa aktarılan efsane",
-      "answer": "MİT",
       "row": 6,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Anlama, hatırlama ünlemi",
-      "answer": "HA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Avcının kısmeti",
-      "answer": "AV",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 7,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayvan besini",
-      "answer": "YEM",
-      "row": 7,
+      "text": "Tutsaklık",
+      "answer": "ESARET",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Vücudun üst organı",
-      "answer": "BAŞ",
+      "text": "Piyasaya sürme",
+      "answer": "ARZ",
       "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "La'dan sonraki nota",
-      "answer": "Sİ",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Açık, geniş yer",
-      "answer": "ALAN",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Nam, tanınmışlık",
-      "answer": "ŞAN",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Elektrik akımını taşıyan ince iplik",
-      "answer": "TEL",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İki kelimeyi birleştiren bağlaç",
-      "answer": "VE",
-      "row": 11,
+      "text": "Piskopos değneği",
+      "answer": "ASA",
+      "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Saçı düzeltmeye yarayan diş diş araç",
-      "answer": "TARAK",
+      "text": "Renkli, benekli",
+      "answer": "ALA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yunanistan'ın başkenti",
+      "answer": "ATİNA",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kılıç sporu",
+      "answer": "ESKRİM",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Japon türküsü",
+      "answer": "UTA",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Numara levhası",
+      "answer": "PLAKA",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Süsleme sanatı",
+      "answer": "EBRU",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sayılarla yapılan işlem",
-      "answer": "HESAP",
-      "row": 6,
+      "text": "Soyluluk",
+      "answer": "ASALET",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İşlemecilikte kullanılan seyrek dokuma kumaş",
-      "answer": "ETAMİN",
-      "row": 4,
+      "text": "En yaygın bağlaç",
+      "answer": "VE",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Zamanında olmayan, gecikmiş",
-      "answer": "GEÇ",
+      "text": "Gece uçan memeli",
+      "answer": "YARASA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalın yün kumaş",
+      "answer": "ABA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Polonyum'un kimyasal simgesi",
-      "answer": "PO",
+      "text": "Zorunlu ibadet",
+      "answer": "FARZ",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Püsküllü eski başlık",
-      "answer": "FES",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuşun uçma organı",
-      "answer": "KANAT",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yelesiyle bilinen büyük kedigil",
-      "answer": "ASLAN",
+      "text": "Dönen kanat",
+      "answer": "PERVANE",
       "row": 0,
-      "col": 5,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bulgaristan'ın euroya geçmeden önceki para birimi",
-      "answer": "LEV",
+      "text": "Üçgen çalgı",
+      "answer": "ARP",
       "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağırlık ölçüsü",
+      "answer": "TON",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Rusçada olumlama sözü",
-      "answer": "DA",
+      "text": "Ara süresi",
+      "answer": "TATİL",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ter kabarcığı",
+      "answer": "İSİLİK",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Işığı geçiren kırılgan madde",
-      "answer": "CAM",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sahne dansı sanatı",
-      "answer": "BALE",
+      "text": "Kimse, tip, yüz",
+      "answer": "SİMA",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bir soru sözcüğü",
-      "answer": "NE",
-      "row": 1,
+      "text": "Sorun",
+      "answer": "MESELE",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Mart'tan sonraki ay",
-      "answer": "NİSAN",
-      "row": 4,
+      "text": "Tarla sınırı",
+      "answer": "AN",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kulağın algıladığı titreşim",
-      "answer": "SES",
+      "text": "Temel donanım",
+      "answer": "ALTYAPI",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Odunu kor haline getiren olay",
-      "answer": "ATEŞ",
-      "row": 4,
+      "text": "Kurul üyesi",
+      "answer": "AZA",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
@@ -267,63 +239,27 @@
   "blocks": [
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 3,
       "col": 0
     },
     {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 2
-    },
-    {
-      "row": 6,
+      "row": 4,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 3
+      "row": 4,
+      "col": 2
     },
     {
-      "row": 9,
-      "col": 8
+      "row": 5,
+      "col": 0
     },
     {
       "row": 10,
       "col": 7
-    },
-    {
-      "row": 10,
-      "col": 8
-    },
-    {
-      "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 2
-    },
-    {
-      "row": 11,
-      "col": 3
-    },
-    {
-      "row": 11,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 8
     }
   ],
   "difficulty": "zor",

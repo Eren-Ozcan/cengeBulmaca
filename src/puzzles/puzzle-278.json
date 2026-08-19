@@ -5,177 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "İskambilde en güçlü kağıt takımı",
-      "answer": "ATU",
+      "text": "Balık organı",
+      "answer": "YÜZGEÇ",
       "row": 1,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "22 veya 14 ile ifade edilen altın değeri",
-      "answer": "AYAR",
+      "text": "Dinen uygun",
+      "answer": "CAİZ",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Radyum'un simgesi",
-      "answer": "RA",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Çin'in kuzeyindeki başkent",
-      "answer": "PEKİN",
-      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bir topluluğun önderi",
-      "answer": "BAŞ",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Düdük sesi",
-      "answer": "Tİ",
-      "row": 6,
+      "text": "Kişi resmi",
+      "answer": "PORTRE",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Domates ezmesi",
-      "answer": "SALÇA",
-      "row": 6,
+      "text": "Alt birim",
+      "answer": "ŞUBE",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Haya, utanç duygusu",
-      "answer": "AR",
+      "text": "Birinci, öncü",
+      "answer": "İLK",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İnekten sağılan",
+      "answer": "SÜT",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İyileşme",
+      "answer": "ŞİFA",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Omurga kemiği",
+      "answer": "OMUR",
       "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Cıva için kullanılan kimyasal simge",
-      "answer": "HG",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çayıyla ünlü Karadeniz ilimiz",
-      "answer": "RİZE",
-      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 8,
+      "text": "Büyü",
+      "answer": "SİHİR",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dokuzu izleyen sayı",
-      "answer": "ON",
-      "row": 9,
+      "text": "Zaman parçası",
+      "answer": "AN",
+      "row": 8,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Çocuğun annesi",
-      "answer": "ANA",
-      "row": 10,
+      "text": "Yapı alanı",
+      "answer": "ŞANTİYE",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Geleneksel Japon ezgisi",
-      "answer": "UTA",
+      "text": "Sağlıklı, güçlü",
+      "answer": "DİNÇ",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Maç bölümü",
+      "answer": "SET",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Marangozun işlediği malzeme",
-      "answer": "TAHTA",
-      "row": 5,
+      "text": "Numaralı eser",
+      "answer": "OPUS",
+      "row": 2,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Kızartılmış hamur",
+      "answer": "PİŞİ",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bilgisiyle tanınan kişi",
-      "answer": "BİLGİN",
-      "row": 4,
+      "text": "Top mermisi",
+      "answer": "OBÜS",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Farsça kökenli eski 'ayak' sözcüğü",
-      "answer": "PA",
-      "row": 3,
+      "text": "Hükümdar unvanı",
+      "answer": "HAN",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İş parası",
+      "answer": "ÜCRET",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 8,
+      "text": "İngiliz uzunluk birimi",
+      "answer": "İNÇ",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Isı ve ışık veren yanma olayı",
-      "answer": "ATEŞ",
-      "row": 1,
+      "text": "Kişi, şahıs",
+      "answer": "ZAT",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İki nokta arasındaki mesafe",
-      "answer": "ARA",
-      "row": 6,
+      "text": "Kısa pantolon",
+      "answer": "ŞORT",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dünya'nın uydusu",
-      "answer": "AY",
+      "text": "Teşebbüs",
+      "answer": "GİRİŞİM",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Takvimdeki belirli bir gün",
-      "answer": "TARİH",
+      "text": "Bacadaki siyahlık",
+      "answer": "İS",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Öncesizlik",
+      "answer": "EZEL",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Atmosferin yaklaşık %78'ini oluşturan gaz",
-      "answer": "AZOT",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sanayi, endüstri",
-      "answer": "URAN",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Gösteri ve yarış alanı",
-      "answer": "ARENA",
+      "text": "Bekleme bölümü",
+      "answer": "FUAYE",
       "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tahta üflemeli çalgı",
+      "answer": "KLARNET",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -195,75 +202,19 @@
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
+      "col": 7
     },
     {
       "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 1
-    },
-    {
-      "row": 1,
-      "col": 2
-    },
-    {
-      "row": 1,
-      "col": 3
-    },
-    {
-      "row": 2,
       "col": 0
     },
     {
       "row": 2,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 1
-    },
-    {
-      "row": 3,
-      "col": 2
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 1
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 5
+      "col": 7
     },
     {
       "row": 6,
-      "col": 3
-    },
-    {
-      "row": 6,
-      "col": 5
+      "col": 0
     }
   ],
   "difficulty": "orta",

@@ -5,268 +5,247 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Yüzeyi taneli kırmızı yaz meyvesi",
-      "answer": "ÇİLEK",
-      "row": 0,
+      "text": "Pek, çok",
+      "answer": "GAYET",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Ağabey için kullanılan hitap",
-      "answer": "AKA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kokpitte uçağı yöneten kişi",
-      "answer": "PİLOT",
+      "text": "Yıkanma yeri",
+      "answer": "HAMAM",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Satranç taşlarından biri, L şeklinde hareket eder",
-      "answer": "AT",
-      "row": 2,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağırlık ölçen alet",
-      "answer": "TERAZİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Helyum'un kimyasal simgesi",
-      "answer": "HE",
-      "row": 3,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Antik Mısır tanrılarından biri",
-      "answer": "RA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "La'dan sonra gelen nota",
-      "answer": "Sİ",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Do-re-mi'nin son hecesi",
-      "answer": "Mİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İyileşmesi gereken doku hasarı",
-      "answer": "YARA",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Terazi simgesiyle anılan kavram",
-      "answer": "ADALET",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sobada yakılan ağaç parçası",
-      "answer": "ODUN",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayat arkadaşı",
-      "answer": "EŞ",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Fırında pişen tatlı hamur işi",
-      "answer": "KEK",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kebabıyla ünlü ilimiz",
-      "answer": "ADANA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eski dilde su",
-      "answer": "AB",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Soluk",
-      "answer": "NEFES",
-      "row": 10,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Derde deva olan madde (eski dilde)",
-      "answer": "EM",
+      "text": "Petekten çıkan",
+      "answer": "BAL",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Anlatan söz",
+      "answer": "İBARE",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Onurluk",
+      "answer": "PLAKET",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ceylan",
+      "answer": "AHU",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yerel ağızda abi",
+      "answer": "AKA",
+      "row": 5,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yiğit derviş",
+      "answer": "ALPEREN",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Köz, ateş",
+      "answer": "KOR",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Köyün ileri geleni",
+      "answer": "AĞA",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sorun çözme yolu",
+      "answer": "ÇARE",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Çizgili etiket",
+      "answer": "BARKOD",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sevinçli, neşeli",
+      "answer": "ŞAD",
+      "row": 9,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kraliçe",
+      "answer": "ECE",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Zor karşıtı",
+      "answer": "KOLAY",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yaşça büyük kız kardeş",
-      "answer": "ABLA",
+      "text": "Rus hükümdarı",
+      "answer": "ÇAR",
       "row": 11,
-      "col": 2,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Germanyum'un simgesi",
-      "answer": "GE",
+      "text": "Üst uzuv",
+      "answer": "KOL",
       "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hardal gazı olarak da bilinen zehirli gaz",
-      "answer": "İPERİT",
-      "row": 0,
+      "text": "Kavrama yeteneği",
+      "answer": "ZEKİ",
+      "row": 12,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek koyun",
+      "answer": "KOÇ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Kara parçası",
+      "answer": "ADA",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bir şeyi tanımlayan sözcük",
-      "answer": "AD",
-      "row": 7,
+      "text": "Ani sarsıntı",
+      "answer": "ŞOK",
+      "row": 9,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Magnezyum'un kimyasal simgesi",
-      "answer": "MG",
-      "row": 10,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Cebimizdeki paranın adı",
-      "answer": "LİRA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Iztırap ünlemi",
-      "answer": "AH",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Fındık rengi göz",
-      "answer": "ELA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İşlenerek metale dönüşen cevher",
-      "answer": "MADEN",
+      "text": "Duvar karışımı",
+      "answer": "HARÇ",
       "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Telefon sözü",
+      "answer": "ALO",
+      "row": 9,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Zarfa yapıştırılan",
+      "answer": "PUL",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İpekböceğinin kendini sardığı yuva",
-      "answer": "KOZA",
+      "text": "Gezgin derviş",
+      "answer": "ABDAL",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yetkin, uzman",
+      "answer": "EHİL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tacikistan'ın başkenti",
-      "answer": "DUŞANBE",
+      "text": "Emek kazancı",
+      "answer": "PARA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
+      "text": "Tütün rengi",
+      "answer": "TABA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Şayet",
+      "answer": "EĞER",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İplik sarılan",
+      "answer": "MAKARA",
       "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir şeyin sağı veya solu",
-      "answer": "YAN",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Başka ülkeden kişi",
-      "answer": "EL",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Basit su taşıtı",
-      "answer": "SAL",
-      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Baş",
-      "answer": "KAFA",
-      "row": 7,
+      "text": "Dövülmüş yün",
+      "answer": "KEÇE",
+      "row": 8,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Mısır'ın başkenti",
-      "answer": "KAHİRE",
+      "text": "Arap yazısı işareti",
+      "answer": "HAREKE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Loğusaya yardım eden kadın",
-      "answer": "EBE",
-      "row": 7,
+      "text": "Ateş yakılan yer",
+      "answer": "OCAK",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Allah'ın varlığını kabul etmeyen kimse",
-      "answer": "ATE",
-      "row": 0,
+      "text": "Yanıcı gaz",
+      "answer": "METAN",
+      "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "İnisiyatif alan, atılgan",
-      "answer": "ATAK",
-      "row": 4,
+      "text": "Vücut örtüsü",
+      "answer": "DERİ",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
@@ -274,51 +253,47 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
     },
     {
-      "row": 5,
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
-      "row": 6,
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 4,
       "col": 0
     },
     {
       "row": 7,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 8
-    },
-    {
-      "row": 11,
       "col": 7
     },
     {
-      "row": 11,
+      "row": 7,
       "col": 8
     },
     {
-      "row": 12,
-      "col": 3
-    },
-    {
-      "row": 12,
-      "col": 5
-    },
-    {
-      "row": 12,
-      "col": 6
-    },
-    {
-      "row": 12,
-      "col": 7
-    },
-    {
-      "row": 12,
-      "col": 8
+      "row": 10,
+      "col": 4
     }
   ],
   "difficulty": "zor",

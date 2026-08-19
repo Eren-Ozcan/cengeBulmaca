@@ -5,254 +5,219 @@
   "cols": 9,
   "clues": [
     {
-      "text": "'Ne yapıyorsun?' daki soru sözü",
-      "answer": "NE",
+      "text": "Aşırı tutkun",
+      "answer": "FANATİK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Büyük tuzlu su kütlesi",
-      "answer": "DENİZ",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir kimse, şahıs",
-      "answer": "ADAM",
+      "text": "Takılarak konuşan",
+      "answer": "KEKEME",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gam dizisinde üçüncü nota",
-      "answer": "Mİ",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "'Bu' ve 'o' ile birlikte kullanılan işaret sözü",
-      "answer": "ŞU",
-      "row": 3,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Yapı tasarımcısı",
-      "answer": "MİMAR",
-      "row": 3,
+      "text": "Ses telleri yeri",
+      "answer": "GIRTLAK",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Vücudu kaplayan yüzey",
-      "answer": "TEN",
+      "text": "Anlam çevirisi",
+      "answer": "MEAL",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "On beşerli spor",
+      "answer": "RAGBİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sıcaklık derecesi",
+      "answer": "ISI",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İstemsiz kasılma",
+      "answer": "KRAMP",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Üst karşıtı",
+      "answer": "ALT",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sızlanma sesi",
+      "answer": "AH",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Hatıra",
+      "answer": "ANI",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Oruç açma",
+      "answer": "İFTAR",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Mor süs taşı",
+      "answer": "AMETİST",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mahluk",
+      "answer": "YARATIK",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boks alanı",
+      "answer": "RİNG",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zıplama sesi",
+      "answer": "ZIP",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yük hareketi",
+      "answer": "AKIM",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Endüstri",
+      "answer": "SANAYİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hangi yer",
+      "answer": "NERE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Mutedil iklim",
+      "answer": "ILIMAN",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Baharat satıcısı",
+      "answer": "AKTAR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İş birimi",
+      "answer": "ERG",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hamam görevlisi",
+      "answer": "TELLAK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde ödeme",
+      "answer": "İTA",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalem içi",
+      "answer": "GRAFİT",
       "row": 4,
       "col": 5,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "İsviçre'nin idari başkenti",
-      "answer": "BERN",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Temiz, lekesiz renk",
-      "answer": "AK",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Egzersizde deriden gelen sıvı",
-      "answer": "TER",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İş yapabilme gücü (öz Türkçe)",
-      "answer": "ERKE",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Eşya konulan yatay levha",
-      "answer": "RAF",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "AB ülkelerinde kullanılan ortak para",
-      "answer": "AVRO",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Dört kenarı eşit dörtgen",
-      "answer": "KARE",
-      "row": 8,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Erimiş yağdan yapılan aydınlatma aracı",
-      "answer": "MUM",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kolezyum'un bulunduğu şehir",
-      "answer": "ROMA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kimyada Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 10,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Yemek yemede kullanılan çatallı araç",
-      "answer": "ÇATAL",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zamanın çok kısa parçası",
-      "answer": "AN",
-      "row": 11,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Nikel için kullanılan kimyasal simge",
-      "answer": "Nİ",
+      "text": "Tatlı çörek",
+      "answer": "KEK",
       "row": 0,
-      "col": 0,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Acı ya da tatlı bir sebze",
-      "answer": "BİBER",
-      "row": 2,
-      "col": 1,
+      "text": "Talihsiz",
+      "answer": "BAHTSIZ",
+      "row": 4,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Zodyakın ilk burcu",
-      "answer": "KOÇ",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvanların otladığı alan",
-      "answer": "MERA",
+      "text": "Tutturucu çubuk",
+      "answer": "PİM",
       "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Görme engelli kişi (eski dilde)",
-      "answer": "AMA",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kanı taşıyan kanal",
-      "answer": "DAMAR",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Anadolu'dan doğup Basra Körfezi'ne dökülen büyük nehir",
-      "answer": "FIRAT",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Trakya'daki tarihi başkentimiz",
-      "answer": "EDİRNE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Mısır mitolojisinde güneş tanrısı",
-      "answer": "RA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kolun tutmaya yarayan bölümü",
-      "answer": "EL",
-      "row": 10,
-      "col": 4,
-      "arrow": "right-down"
-    },
-    {
-      "text": "İşaret, belirti",
-      "answer": "İM",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Günleri gösteren çizelge",
-      "answer": "TAKVİM",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tatlı beyaz madde",
-      "answer": "ŞEKER",
-      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Japon şiiri, türküsü",
-      "answer": "UTA",
-      "row": 8,
+      "text": "Boyun örtüsü",
+      "answer": "ATKI",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Attila'nın hükümdarı olduğu tarihi Türk topluluğu",
-      "answer": "HUN",
-      "row": 1,
+      "text": "Topu aktarma",
+      "answer": "PAS",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Sık ağaçlarla kaplı doğal alan",
-      "answer": "ORMAN",
-      "row": 6,
+      "text": "Kanat sesi",
+      "answer": "PIR",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -260,39 +225,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 7
     },
     {
-      "row": 0,
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 4,
       "col": 8
     },
     {
-      "row": 3,
-      "col": 5
-    },
-    {
-      "row": 5,
+      "row": 9,
       "col": 8
     },
     {
-      "row": 8,
-      "col": 0
+      "row": 10,
+      "col": 8
     },
     {
-      "row": 8,
+      "row": 11,
       "col": 4
-    },
-    {
-      "row": 8,
-      "col": 5
     }
   ],
   "difficulty": "zor",

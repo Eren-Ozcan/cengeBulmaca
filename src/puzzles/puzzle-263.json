@@ -5,191 +5,170 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Açılıp kapanan yağmur koruyucusu",
-      "answer": "ŞEMSİYE",
+      "text": "Çek başkenti",
+      "answer": "PRAG",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kimyada Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 2,
-      "col": 0,
+      "text": "Kervansaray benzeri",
+      "answer": "HAN",
+      "row": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Merdivenle çıkılan bina bölümü",
-      "answer": "KAT",
+      "text": "Yeryüzü toprağı",
+      "answer": "ARAZİ",
       "row": 2,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İşaret, belirti",
-      "answer": "İM",
+      "text": "Şaşkın, bilemeyen",
+      "answer": "AFAL",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Arnavutluk'un en büyük şehri",
-      "answer": "TİRAN",
+      "text": "Ev üstü",
+      "answer": "DAM",
       "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İtaat etmeyen, isyankar",
-      "answer": "ASİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kör kimse",
-      "answer": "AMA",
-      "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Tilki, tavşan gibi hayvanların barınağı",
-      "answer": "İN",
-      "row": 5,
-      "col": 5,
+      "text": "Takılarak konuşan",
+      "answer": "KEKEME",
+      "row": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Selimiye Camii'nin bulunduğu şehir",
-      "answer": "EDİRNE",
+      "text": "Para işleri görevlisi",
+      "answer": "MUTEMET",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tutsaklık",
+      "answer": "ESARET",
       "row": 6,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Temizlenmesi gereken pislik",
-      "answer": "KİR",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yüzüklerde kullanılan yarı değerli bir taş",
-      "answer": "AKİK",
-      "row": 7,
+      "text": "Alt görevli",
+      "answer": "AST",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Paris'ten geçen ünlü nehir (... Nehri)",
-      "answer": "SEN",
+      "text": "Vasıf",
+      "answer": "NİTELİK",
       "row": 8,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hardal kokulu savaş gazı",
-      "answer": "İPERİT",
+      "text": "İktisat",
+      "answer": "EKONOMİ",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Buğdayın öğütülmüş hali",
-      "answer": "UN",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Doğadaki en sert mineral",
-      "answer": "ELMAS",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Unutulmayan öfke",
-      "answer": "KİN",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Birlikte çalışan grup",
-      "answer": "EKİP",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Boru sesi",
-      "answer": "Tİ",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gülde bulunan sivri çıkıntı",
-      "answer": "DİKEN",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çiftin ilk sayısı",
-      "answer": "İKİ",
-      "row": 0,
+      "text": "Zemin sıvası",
+      "answer": "ŞAP",
+      "row": 10,
       "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Çatı barı",
+      "answer": "RUF",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "En küçük sayma sayısı",
-      "answer": "BİR",
+      "text": "Destek noktası",
+      "answer": "MESNET",
       "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yankı bilimi",
+      "answer": "AKUSTİK",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kuru peksimet",
+      "answer": "GALETA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Un gibi ufalanmış",
+      "answer": "TOZ",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İstemeye istemeye",
+      "answer": "KERHEN",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İyileşmesi gereken doku hasarı",
-      "answer": "YARA",
+      "text": "Hizmetli",
+      "answer": "HADEME",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yer seviyesindeki bulut tabakası",
-      "answer": "SİS",
+      "text": "Yarı karanlık",
+      "answer": "LOŞ",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Nakış işlenen delikli kumaş",
-      "answer": "ETAMİN",
+      "text": "Ululuk",
+      "answer": "AZAMET",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kasabın sattığı gıda",
-      "answer": "ET",
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Güzel kokulu bir bitki",
-      "answer": "NANE",
-      "row": 2,
+      "text": "İyilik, lütuf",
+      "answer": "NİMET",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Takım, kadro",
+      "answer": "EKİP",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -197,47 +176,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 2
     },
     {
       "row": 0,
-      "col": 7
+      "col": 4
     },
     {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 5,
+      "row": 4,
       "col": 0
     },
     {
-      "row": 6,
+      "row": 10,
       "col": 0
-    },
-    {
-      "row": 7,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 7
     },
     {
       "row": 10,
       "col": 2
-    },
-    {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
     }
   ],
   "difficulty": "orta",

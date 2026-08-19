@@ -5,282 +5,233 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Şehir içi yeşil dinlenme alanı",
-      "answer": "PARK",
+      "text": "Gagası keseli kuş",
+      "answer": "PELİKAN",
       "row": 1,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kraliçe",
-      "answer": "ECE",
-      "row": 0,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Verimlilik, feyz",
-      "answer": "BEREKET",
+      "text": "Aralık sözü",
+      "answer": "İLA",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kamıştan üflemeli çalgı",
-      "answer": "NEY",
-      "row": 3,
-      "col": 2,
+      "text": "Göz rengi",
+      "answer": "ELA",
+      "row": 2,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Selenyum'un kimyasal simgesi",
-      "answer": "SE",
-      "row": 3,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Denizle çevrili kara parçası",
-      "answer": "ADA",
-      "row": 3,
+      "text": "İçilen bitki",
+      "answer": "ÇAY",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Adaletin gerektirdiği şey",
-      "answer": "HAK",
+      "text": "Orta saha oyuncusu",
+      "answer": "HAF",
+      "row": 3,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ecdat",
+      "answer": "ATA",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ansızın, beklenmedik",
+      "answer": "ANİ",
       "row": 4,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kıtanın batısındaki uzun dağ silsilesi",
-      "answer": "AND",
+      "text": "Rakıya koku veren",
+      "answer": "ANASON",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kilo vermek için uygulanan beslenme düzeni",
-      "answer": "DİYET",
+      "text": "Ses ayarı",
+      "answer": "AKORT",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Oyunda kovalayan",
+      "answer": "EBE",
       "row": 6,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kuş vücudunu örten yapı",
-      "answer": "TÜY",
+      "text": "Yedi gün",
+      "answer": "HAFTA",
       "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Nefesli çalgı sesini taklit eden hece",
-      "answer": "Tİ",
+      "text": "Ekmekli çorba",
+      "answer": "PAPARA",
       "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ata atla",
+      "answer": "BİN",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Alt birim",
+      "answer": "ŞUBE",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yeryüzü toprağı",
+      "answer": "ARAZİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Benzer, denk",
+      "answer": "EŞ",
+      "row": 10,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Söz verme, ahit",
-      "answer": "ANT",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Beygirin tırnağını koruyan demir",
-      "answer": "NAL",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Fırında pişen tatlı hamur işi",
-      "answer": "KEK",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kısaca yazılan hatırlatma",
-      "answer": "NOT",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Görme engelli kişi (eski dilde)",
-      "answer": "AMA",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Erkek insan, kişi",
-      "answer": "ADAM",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Gösteri ve yarış alanı",
-      "answer": "ARENA",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Geniş, verimli düzlük",
-      "answer": "OVA",
+      "text": "İçki dağıtıcı",
+      "answer": "SAKİ",
       "row": 11,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kaşların üstündeki yüz kısmı",
-      "answer": "ALIN",
+      "text": "Havadaki akışkan",
+      "answer": "GAZ",
       "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Baş derisini kaplayan kıllar",
-      "answer": "SAÇ",
+      "text": "Teknik hile",
+      "answer": "TRÜK",
       "row": 12,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Evin bölmelerinden her biri",
-      "answer": "ODA",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İç Anadolu'daki başkentimiz",
-      "answer": "ANKARA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Şiir dilinde kullanılan eski su sözü",
-      "answer": "AB",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yavrusunu doğuran dişi",
-      "answer": "ANA",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yapının taşıyıcı alt bölümü",
-      "answer": "TEMEL",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İsviçre'den Kuzey Denizi'ne akan nehir",
-      "answer": "REN",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir konudaki kişisel düşünce",
-      "answer": "KANI",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Cilt bakım maddesi",
-      "answer": "KREM",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bugünden önceki gün",
-      "answer": "DÜN",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Lahza, dem",
-      "answer": "AN",
-      "row": 10,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Dikkat çekme ünlemi",
-      "answer": "EY",
-      "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tuna kıyısındaki başkent",
-      "answer": "VİYANA",
+      "text": "Leş yiyen kuş",
+      "answer": "AKBABA",
       "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tuşlu telli çalgı",
+      "answer": "PİYANO",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tarikat kurucusu",
+      "answer": "PİR",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Beş parmaklı organ",
+      "answer": "EL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kurutulmuş çorbalık",
+      "answer": "TARHANA",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sol'den sonraki nota",
+      "answer": "LA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İç kumaş",
+      "answer": "ASTAR",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Faşizm yanlısı",
+      "answer": "FAŞİST",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sona getirilen parça",
-      "answer": "EK",
+      "text": "Geleceği bildirme",
+      "answer": "KEHANET",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İstanbul'a sisli havalar getiren rüzgar",
-      "answer": "LODOS",
-      "row": 7,
+      "text": "Yüz ölçümü birimi",
+      "answer": "AR",
+      "row": 10,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Gözü peklik",
-      "answer": "CESARET",
+      "text": "Saha, meydan",
+      "answer": "ALAN",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ocakta kızartma yapılan kap",
-      "answer": "TAVA",
-      "row": 8,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kadınların giydiği belden aşağı kıyafet",
-      "answer": "ETEK",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Çeşit, tür",
-      "answer": "TİP",
+      "text": "Izgara ocağı",
+      "answer": "BARBEKÜ",
       "row": 5,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Boşuna",
+      "answer": "NAFİLE",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "İki takım arasındaki karşılaşma",
-      "answer": "MAÇ",
-      "row": 9,
+      "text": "Kapı basamağı",
+      "answer": "EŞİK",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
@@ -299,20 +250,36 @@
       "col": 5
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 0
     },
     {
       "row": 4,
-      "col": 3
+      "col": 0
     },
     {
-      "row": 5,
+      "row": 7,
+      "col": 8
+    },
+    {
+      "row": 8,
       "col": 6
     },
     {
-      "row": 6,
+      "row": 11,
       "col": 0
+    },
+    {
+      "row": 11,
+      "col": 1
+    },
+    {
+      "row": 11,
+      "col": 2
+    },
+    {
+      "row": 11,
+      "col": 3
     }
   ],
   "difficulty": "orta",

@@ -5,254 +5,240 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Magnezyum'un simgesi",
-      "answer": "MG",
+      "text": "Bacak ucu",
+      "answer": "AYAK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ağustos-Eylül arası burç",
-      "answer": "BAŞAK",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
+      "text": "Hayali canavar",
+      "answer": "ÖCÜ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
     },
     {
-      "text": "İşlemecilikte kullanılan seyrek dokuma kumaş",
-      "answer": "ETAMİN",
+      "text": "Hayalî düzen",
+      "answer": "ÜTOPYA",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Altmış saniye",
+      "answer": "DAKİKA",
+      "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kripton için kullanılan kimyasal simge",
-      "answer": "KR",
+      "text": "Yaptırım",
+      "answer": "CEZA",
       "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ölçü aletlerindeki gösterge çubuğu",
-      "answer": "İBRE",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ani ve sert esen rüzgar",
-      "answer": "BORA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Dört kenarı eşit dörtgen",
-      "answer": "KARE",
-      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Trenin üzerinde gittiği çelik yol",
-      "answer": "RAY",
+      "text": "Bağ meyvesi",
+      "answer": "ÜZÜM",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Onarım parçası",
+      "answer": "YAMA",
       "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Davulla birlikte çalınan üflemeli çalgı",
-      "answer": "ZURNA",
-      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
+      "text": "Zırhlı taşıt",
+      "answer": "TANK",
       "row": 6,
-      "col": 6,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Havadaki su buharı oranı",
-      "answer": "NEM",
-      "row": 6,
+      "text": "Kazılmış çukur",
+      "answer": "HENDEK",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İş yeri binası",
+      "answer": "HAN",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Havanın yer değiştirmesi",
-      "answer": "YEL",
-      "row": 7,
-      "col": 5,
+      "text": "Boşluk, aralık",
+      "answer": "ARA",
+      "row": 8,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Hayır için verilen para (eski dilde)",
-      "answer": "İANE",
-      "row": 8,
+      "text": "Muhteva",
+      "answer": "İÇERİK",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Reçinesiyle bilinen ağaç",
+      "answer": "ÇAM",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Onay damgası",
+      "answer": "VİZE",
+      "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yer sarsıntısı",
-      "answer": "DEPREM",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Karın zıddı renk",
-      "answer": "AK",
-      "row": 9,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Gözleri görmeyen",
-      "answer": "AMA",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Eylül'den sonraki ay",
-      "answer": "EKİM",
+      "text": "İntiba",
+      "answer": "İZLENİM",
       "row": 11,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Altın'ın simgesi",
-      "answer": "AU",
-      "row": 11,
-      "col": 6,
+      "text": "Dede, cet",
+      "answer": "ATA",
+      "row": 12,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Korkusuzluk, yiğitlik",
-      "answer": "CESARET",
-      "row": 11,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Alacakaranlık",
+      "answer": "TAN",
+      "row": 12,
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Galyum'un simgesi",
-      "answer": "GA",
+      "text": "Satıh",
+      "answer": "YÜZEY",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kağıt üzerine basılan günlük yayın",
-      "answer": "GAZETE",
-      "row": 3,
+      "text": "Duvar karışımı",
+      "answer": "HARÇ",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Rumca konuşan Ortodoks vatandaş",
-      "answer": "RUM",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Notada sessizlik simgesi",
-      "answer": "ES",
-      "row": 10,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Saç sakal tıraşı yapan kişi",
-      "answer": "BERBER",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvan yemi olarak yetiştirilen bakliyat",
-      "answer": "ARAKA",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dört nala koşan hayvan",
+      "text": "Binek hayvanı",
       "answer": "AT",
       "row": 0,
-      "col": 4,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 5,
-      "col": 4,
+      "text": "Doğrusu, esasen",
+      "answer": "ZATEN",
+      "row": 3,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Üstten gelen talimat",
-      "answer": "EMİR",
+      "text": "Birine özgü",
+      "answer": "AİT",
+      "row": 9,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Nüfuzlu kimse",
+      "answer": "KODAMAN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "El yazısı",
+      "answer": "İMZA",
       "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Farsça ayak",
+      "answer": "PA",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dizeler kaleme alan sanatçı",
-      "answer": "ŞAİR",
+      "text": "Hatıra kitapçığı",
+      "answer": "ANDAÇ",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hikâye",
+      "answer": "ÖYKÜ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
-      "row": 7,
+      "text": "Tahta sedir",
+      "answer": "KEREVET",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ürünlerin depolandığı büyük yapı",
-      "answer": "AMBAR",
+      "text": "Dinen uygun",
+      "answer": "CAİZ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Vurgu bildiren ünlem",
-      "answer": "YA",
+      "text": "Gemi omurgası",
+      "answer": "KARİNA",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Pislik, is",
-      "answer": "KİR",
-      "row": 0,
+      "text": "Toprak kap",
+      "answer": "KÜP",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Gösteri ve yarış alanı",
-      "answer": "ARENA",
-      "row": 4,
+      "text": "Verilen özgürlük",
+      "answer": "İZİN",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Merak bildiren soru sözcüğü",
-      "answer": "NE",
+      "text": "Saydam madde",
+      "answer": "CAM",
       "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Gömlek üzerine giyilen kolsuz giysi",
-      "answer": "YELEK",
-      "row": 4,
+      "text": "İhtişam",
+      "answer": "GÖRKEM",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -260,47 +246,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 0,
       "col": 8
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
-    },
-    {
-      "row": 10,
+      "row": 5,
       "col": 6
     },
     {
-      "row": 10,
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
       "col": 7
     },
     {
-      "row": 10,
-      "col": 8
+      "row": 7,
+      "col": 7
     },
     {
-      "row": 12,
-      "col": 7
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 0
     },
     {
       "row": 12,

@@ -5,310 +5,240 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Bir kimse, şahıs",
-      "answer": "ADAM",
+      "text": "Uyum, düzen, armoni",
+      "answer": "AHENK",
       "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çay demleme kabı",
+      "answer": "SEMAVER",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Konuşma vurgusu",
+      "answer": "AKSAN",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Portakal çiçeği kokan ilimiz",
-      "answer": "ADANA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Acı, üzüntü bildiren ünlem",
-      "answer": "AH",
-      "row": 2,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "İki kelimeyi birleştiren bağlaç",
-      "answer": "VE",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yatak veya oturma amaçlı ev bölmesi",
-      "answer": "ODA",
+      "text": "Çeşit, tür",
+      "answer": "TİP",
       "row": 3,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Doğu Avrupa'daki küçük ülkenin başkenti",
-      "answer": "KİŞİNEV",
+      "text": "Analık",
+      "answer": "ANNELİK",
       "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Berilyum'un kimyasal simgesi",
-      "answer": "BE",
-      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kelimenin sonuna gelen parça",
-      "answer": "EK",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 5,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Üç zamanlı bir dans",
-      "answer": "VALS",
-      "row": 5,
+      "text": "Üstün, seçkin",
+      "answer": "KLAS",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bağlamada kullanılan kalın sicim",
-      "answer": "İP",
+      "text": "Ölüm vakti",
+      "answer": "ECEL",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yetenek",
+      "answer": "YETİ",
       "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Lahza, dem",
-      "answer": "AN",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Dilin algıladığı duyum",
-      "answer": "TAT",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Ay ve günleri gösteren çizelge",
-      "answer": "TAKVİM",
-      "row": 7,
+      "text": "Kramp",
+      "answer": "SPAZM",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kimyada Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 8,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Nüfusu kalabalık yerleşim yeri",
-      "answer": "ŞEHİR",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İç Anadolu'daki başkentimiz",
-      "answer": "ANKARA",
-      "row": 9,
-      "col": 1,
+      "text": "Dans, yarış",
+      "answer": "PİST",
+      "row": 7,
+      "col": 5,
       "arrow": "down-right"
     },
     {
-      "text": "Mozart'ın şehri, Avusturya başkenti",
-      "answer": "VİYANA",
+      "text": "Mübalağa",
+      "answer": "ABARTI",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Taht mirasçısı",
+      "answer": "VELİAHT",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Açıkgöz",
+      "answer": "KURNAZ",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bir şeyin geçtiğini gösteren işaret",
-      "answer": "İZ",
+      "text": "Öyle mi sözü",
+      "answer": "HA",
       "row": 11,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Küçük metal kap",
-      "answer": "TAS",
+      "text": "Sınav puanı",
+      "answer": "NOT",
       "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İnatçılığıyla bilinen evcil hayvan",
-      "answer": "KEÇİ",
+      "text": "Asla",
+      "answer": "HİÇ",
       "row": 12,
-      "col": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Bakır'ın simgesi",
-      "answer": "CU",
-      "row": 2,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Boru sesi",
-      "answer": "Tİ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Rusça onay sözcüğü",
-      "answer": "DA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Evin çatısındaki duman çıkış borusu",
-      "answer": "BACA",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İlgili, ilişkin",
-      "answer": "AİT",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kişiye verilen isim",
-      "answer": "AD",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Başında saç bulunmayan",
-      "answer": "KEL",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Mevlevi kültürüyle bilinen Orta Anadolu ilimiz",
-      "answer": "KONYA",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Soğuk renklerden biri",
-      "answer": "MAVİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Öne sürülen görüş",
+      "text": "İddia, tez",
       "answer": "SAV",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kasılıp gevşeyen doku",
-      "answer": "KAS",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sevinç, keyif",
-      "answer": "NEŞE",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Madalya",
-      "answer": "NİŞAN",
       "row": 6,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce dövülmüş et",
+      "answer": "ESKALOP",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hamurun malzemesi",
+      "answer": "UN",
+      "row": 10,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Süre, sıra",
+      "answer": "ESNA",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "AB para birimi",
+      "answer": "AVRO",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Göz açtırmayan",
+      "answer": "AMANSIZ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Set, baraj",
+      "answer": "BENT",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ev, aile",
+      "answer": "HANE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Birden sonra gelen sayı",
-      "answer": "İKİ",
+      "text": "Renkli, benekli",
+      "answer": "ALA",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Aile ocağı",
+      "answer": "EV",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Romanya parası",
+      "answer": "LEY",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Araştırma dürtüsü",
-      "answer": "MERAK",
+      "text": "Fiş yuvası",
+      "answer": "PRİZ",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dokuzu izleyen sayı",
-      "answer": "ON",
-      "row": 2,
+      "text": "Sonuç",
+      "answer": "NETİCE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Platin'in simgesi",
-      "answer": "PT",
-      "row": 5,
+      "text": "Eski dilde ödeme",
+      "answer": "İTA",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "'Aa, tamam' anlamında ünlem",
-      "answer": "HA",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Birim, tane",
-      "answer": "ADET",
-      "row": 1,
+      "text": "İngiliz sopalı oyunu",
+      "answer": "KRİKET",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Suriye'den Türkiye'ye akan nehir",
-      "answer": "ASİ",
-      "row": 6,
+      "text": "Sağlığa dair",
+      "answer": "SIHHİ",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Merkezdeki, dahili",
-      "answer": "İÇ",
-      "row": 10,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Atmosferi oluşturan gaz karışımı",
-      "answer": "HAVA",
-      "row": 1,
+      "text": "Kaldırma makinesi",
+      "answer": "LİFT",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Hava grubundan bir burç",
-      "answer": "TERAZİ",
-      "row": 6,
+      "text": "Hükümdar başlığı",
+      "answer": "TAÇ",
+      "row": 9,
       "col": 8,
       "arrow": "down"
     }
@@ -316,19 +246,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
+      "col": 2
     },
     {
       "row": 0,
@@ -336,15 +258,27 @@
     },
     {
       "row": 1,
-      "col": 5
+      "col": 0
     },
     {
       "row": 1,
-      "col": 6
+      "col": 8
     },
     {
-      "row": 3,
+      "row": 2,
+      "col": 8
+    },
+    {
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 8,
       "col": 1
+    },
+    {
+      "row": 12,
+      "col": 4
     }
   ],
   "difficulty": "kolay",

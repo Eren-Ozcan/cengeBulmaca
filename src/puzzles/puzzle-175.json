@@ -5,247 +5,191 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Yer altındaki doğal oyuk",
-      "answer": "MAĞARA",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
+      "text": "Ateş çöpü",
+      "answer": "KİBRİT",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Bir şeyin malı olan",
-      "answer": "AİT",
+      "text": "Yükümlülük dışı",
+      "answer": "MUAF",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dönemsel giyim eğilimi",
-      "answer": "MODA",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
+      "text": "Deprem hattı",
+      "answer": "FAY",
+      "row": 1,
+      "col": 6,
+      "arrow": "down-right"
     },
     {
-      "text": "Hayvanların yer altındaki yuvası",
-      "answer": "İN",
+      "text": "Altı yüzlü küp",
+      "answer": "ZAR",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Vücutta kanın dolaştığı yol",
-      "answer": "DAMAR",
+      "text": "Saf, şaşkın",
+      "answer": "AVAL",
       "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yapı yapılacak arazi",
-      "answer": "ARSA",
+      "text": "Aydınlık, ışık",
+      "answer": "NUR",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çocuğun annesi",
-      "answer": "ANA",
+      "text": "Kısa anlatım",
+      "answer": "İCAZ",
       "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Acı, üzüntü bildiren ünlem",
-      "answer": "AH",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Direnç ölçü birimi",
-      "answer": "OM",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Pak, temiz anlamında da kullanılan renk",
-      "answer": "AK",
-      "row": 5,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Kafkasya'daki bir başkent",
-      "answer": "TİFLİS",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "'Öyle mi?' anlamında ünlem",
-      "answer": "YA",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Lahza, dem",
-      "answer": "AN",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Düğmenin içinden geçtiği delik",
-      "answer": "İLİK",
-      "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Çizgili, kareli dokuma",
-      "answer": "EKOSE",
-      "row": 9,
-      "col": 3,
+      "text": "Yapı alanı",
+      "answer": "ŞANTİYE",
+      "row": 5,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Demirin dövülecek kızgınlık derecesi",
-      "answer": "TAV",
-      "row": 9,
+      "text": "Züğürt",
+      "answer": "FUKARA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Altmış saniye",
+      "answer": "DAKİKA",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eski dönemden kalma büyük ev",
-      "answer": "KONAK",
+      "text": "Alım satım ortamı",
+      "answer": "PİYASA",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Değerli kırmızı taş",
+      "answer": "LAL",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Çalım, gösteriş",
+      "answer": "AFİ",
       "row": 10,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "İçi gazla dolu uçan küre",
-      "answer": "BALON",
-      "row": 11,
+      "text": "Leş yiyen memeli",
+      "answer": "SIRTLAN",
+      "row": 10,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kapıyı açmaya yarayan metal araç",
-      "answer": "ANAHTAR",
-      "row": 1,
+      "text": "Dinî inanç",
+      "answer": "İMAN",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şiir dilinde kullanılan eski su sözü",
-      "answer": "AB",
-      "row": 9,
+      "text": "Değişik",
+      "answer": "FARKLI",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
+      "text": "Kırışmış",
+      "answer": "BURUŞUK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Geniş, verimli düzlük",
-      "answer": "OVA",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Satrançta bir taş",
-      "answer": "AT",
+      "text": "Mısır güneş tanrısı",
+      "answer": "RA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bulgaristan'ın başkenti",
-      "answer": "SOFYA",
+      "text": "Yarışan kimse",
+      "answer": "RAKİP",
       "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sıvının en küçük parçası",
-      "answer": "DAMLA",
+      "text": "Borcu ödeme",
+      "answer": "İFA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Para türü",
+      "answer": "NAKİT",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Renkli cam bezeme",
+      "answer": "VİTRAY",
       "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yankı",
-      "answer": "EKO",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Gözleri görmeyen",
-      "answer": "AMA",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kutsal kişiyi tasvir eden resim",
-      "answer": "İKON",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yedi tepe üzerine kurulu başkent",
-      "answer": "ROMA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Evin geniş oturma bölümü",
-      "answer": "SALON",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Portakal çiçeği kokan ilimiz",
-      "answer": "ADANA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Mart'tan sonraki ay",
-      "answer": "NİSAN",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvan yemi olarak yetiştirilen bakliyat",
-      "answer": "ARAKA",
+      "text": "Üzücü olay",
+      "answer": "FACİA",
       "row": 1,
-      "col": 8,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Fırında pişen tatlı hamur işi",
-      "answer": "KEK",
+      "text": "Saha, meydan",
+      "answer": "ALAN",
       "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tabur-tugay arası",
+      "answer": "ALAY",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Katıksız, arı",
+      "answer": "SAF",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük sarı meyve",
+      "answer": "ZERDALİ",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     }
@@ -253,15 +197,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 5
     },
     {
       "row": 0,
-      "col": 1
+      "col": 6
     },
     {
       "row": 0,
-      "col": 4
+      "col": 7
     },
     {
       "row": 0,
@@ -269,23 +213,47 @@
     },
     {
       "row": 1,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 2
+      "col": 8
     },
     {
       "row": 5,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 7
     },
     {
       "row": 8,
       "col": 0
     },
     {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 3
+    },
+    {
+      "row": 10,
+      "col": 2
+    },
+    {
+      "row": 10,
+      "col": 3
+    },
+    {
+      "row": 10,
+      "col": 4
+    },
+    {
       "row": 11,
-      "col": 6
+      "col": 7
     },
     {
       "row": 11,

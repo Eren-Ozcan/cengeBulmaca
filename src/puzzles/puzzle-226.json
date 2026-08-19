@@ -5,148 +5,134 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Yayla çalınan telli çalgı",
-      "answer": "KEMAN",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
+      "text": "Hak etme",
+      "answer": "LİYAKAT",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Sık ağaçlarla kaplı doğal alan",
-      "answer": "ORMAN",
+      "text": "Elem",
+      "answer": "KEDER",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Belirli bir noktanın ilerisi, karşı taraf",
-      "answer": "ÖTE",
+      "text": "Onlu sistem",
+      "answer": "ONDALIK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hiçbir şeyi noksan olmayan",
-      "answer": "TAM",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir işe harcanan güç",
-      "answer": "EMEK",
+      "text": "Ev halkı",
+      "answer": "AİLE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Müzik eşliğinde ritmik hareket",
-      "answer": "DANS",
+      "text": "İmrenme duygusu",
+      "answer": "GIPTA",
       "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kendine özgü nitelikteki örnek",
-      "answer": "TİP",
-      "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Parlak, kutsal ışık",
-      "answer": "NUR",
+      "text": "Topluluk mensubu",
+      "answer": "ÜYE",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Az karşıtı",
+      "answer": "ÇOK",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Dizin",
+      "answer": "ENDEKS",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kobalt için kullanılan kimyasal simge",
-      "answer": "CO",
-      "row": 6,
-      "col": 5,
-      "arrow": "down-right"
+      "text": "Olumsuz yanıt",
+      "answer": "YO",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Düğünlerin üflemeli çalgısı",
-      "answer": "ZURNA",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çıtır, sulu bir kış meyvesi",
-      "answer": "ELMA",
+      "text": "Alçak basınç fırtınası",
+      "answer": "SİKLON",
       "row": 9,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gecelemek için tutulan işletme",
-      "answer": "OTEL",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tufan kıssasının peygamberi",
-      "answer": "NUH",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Cilde sürülen bakım maddesi",
-      "answer": "KREM",
+      "text": "İnandırma, kandırma",
+      "answer": "İKNA",
       "row": 0,
-      "col": 2,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gezinti amaçlı dolaşma",
-      "answer": "TUR",
+      "text": "Umutsuz karamsarlık",
+      "answer": "YEİS",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yedi kenarlı",
+      "answer": "YEDİGEN",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Şifa veren madde",
-      "answer": "EM",
+      "text": "Ada sakini",
+      "answer": "ADALI",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Osmanlı'nın İstanbul'dan önceki başkenti",
-      "answer": "EDİRNE",
-      "row": 3,
+      "text": "Kadar, değin",
+      "answer": "DEK",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dönerek delik açan alet",
-      "answer": "MATKAP",
+      "text": "Bilek demiri",
+      "answer": "KELEPÇE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kırmızıya çalan renk",
-      "answer": "AL",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Asıl, esas olan",
-      "answer": "ANA",
+      "text": "Sokan böcek",
+      "answer": "ARI",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Rusya'nın başkenti",
-      "answer": "MOSKOVA",
+      "text": "Parmak terliği",
+      "answer": "TOKYO",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Korna",
+      "answer": "KLAKSON",
       "row": 2,
       "col": 6,
       "arrow": "down"
@@ -155,39 +141,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 5
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 6,
+      "row": 8,
       "col": 0
     },
     {
       "row": 8,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 0
+      "col": 2
     }
   ],
   "difficulty": "kolay",

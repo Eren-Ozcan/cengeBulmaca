@@ -5,163 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Kıtalar arası büyük deniz",
-      "answer": "OKYANUS",
+      "text": "Feylesof",
+      "answer": "FİLOZOF",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İskambilde koz",
-      "answer": "ATU",
+      "text": "Sağın karşıtı",
+      "answer": "SOL",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Antik Mısır tanrılarından biri",
-      "answer": "RA",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ayrılırken söylenen elveda sözü",
-      "answer": "VEDA",
-      "row": 3,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Motorlu taşıt",
-      "answer": "ARABA",
-      "row": 5,
+      "text": "Dokuma ürünü",
+      "answer": "KUMAŞ",
+      "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İnek yavrusu",
-      "answer": "DANA",
+      "text": "Siyah",
+      "answer": "KARA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Masal yaratığı",
+      "answer": "DEV",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bir şeyin sonucu",
+      "answer": "SON",
       "row": 5,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Sınırlı, kıt",
-      "answer": "AZ",
+      "text": "Hazır mal",
+      "answer": "STOK",
       "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Gemilerin yanaştığı yer",
-      "answer": "İSKELE",
-      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ateşin rengi",
-      "answer": "AL",
+      "text": "Kavisli kılıç",
+      "answer": "PALA",
       "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İş görmeye yarayan araç",
-      "answer": "ALET",
-      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Konut, hane",
-      "answer": "EV",
+      "text": "Yönetme",
+      "answer": "İDARE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boksta yıkılış",
+      "answer": "NAKAVT",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eski dilde alev, ateş",
-      "answer": "OD",
+      "text": "Kurum lekesi",
+      "answer": "İS",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Aynı evi paylaşan yakın topluluk",
-      "answer": "AİLE",
-      "row": 5,
+      "text": "İyi kesen",
+      "answer": "KESKİN",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hitapta kullanılan seslenme sözü",
-      "answer": "YA",
+      "text": "İşveren direnişi",
+      "answer": "LOKAVT",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Müzik eşliğinde ritmik hareket",
-      "answer": "DANS",
-      "row": 3,
+      "text": "Rusça 'evet'",
+      "answer": "DA",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tahılla karışık ekilen bir bakliyat",
-      "answer": "ARAKA",
-      "row": 3,
+      "text": "Onay, izin, tasdik",
+      "answer": "OLUR",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kabuğu sert, taneli kış meyvesi",
-      "answer": "NAR",
-      "row": 0,
+      "text": "Donuk, mat",
+      "answer": "OPAK",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gülünç duruma düşen",
+      "answer": "MASKARA",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yeşile ve sarıya çalan göz rengi",
-      "answer": "ELA",
+      "text": "Yazma kenarındaki",
+      "answer": "OYA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bulgaristan parası",
+      "answer": "LEV",
       "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Japon şiiri, türküsü",
-      "answer": "UTA",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Parmak ucunda yapılan dans sanatı",
-      "answer": "BALE",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaşamın kaynağı sıvı",
-      "answer": "SU",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Her gün basılan haber yaprağı",
-      "answer": "GAZETE",
-      "row": 3,
+      "text": "Şu kadar çok",
+      "answer": "ŞUNCA",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -169,23 +148,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 4,
       "col": 4
     },
     {
-      "row": 9,
-      "col": 3
+      "row": 0,
+      "col": 6
     },
     {
-      "row": 9,
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 4,
       "col": 5
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
     }
   ],
   "difficulty": "zor",

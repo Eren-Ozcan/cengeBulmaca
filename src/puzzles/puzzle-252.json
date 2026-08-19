@@ -5,268 +5,247 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Çaba, uğraş",
-      "answer": "EMEK",
+      "text": "Mensup, bağlı",
+      "answer": "AİT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bahar müjdecisi bir çiçek",
-      "answer": "LALE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Portakal çiçeği kokan ilimiz",
-      "answer": "ADANA",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yay ile fırlatılan silah",
-      "answer": "OK",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kolezyum'un bulunduğu şehir",
-      "answer": "ROMA",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Fındık rengi göz",
-      "answer": "ELA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Renksiz, kokusuz içecek",
-      "answer": "SU",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Şair Nâzım Hikmet'in aile adı",
-      "answer": "RAN",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Rusça onay sözcüğü",
-      "answer": "DA",
-      "row": 6,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Düş, imge",
-      "answer": "HAYAL",
-      "row": 6,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kazakistan'ın yeni başkenti",
-      "answer": "ASTANA",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İç Anadolu'daki başkentimiz",
-      "answer": "ANKARA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir şeyin geçtiğini gösteren işaret",
-      "answer": "İZ",
-      "row": 8,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Protein kaynağı gıda",
-      "answer": "ET",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dağdan küçük yükselti",
-      "answer": "TEPE",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Vilayet",
-      "answer": "İL",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Fırında pişen tatlı çörek",
-      "answer": "KEK",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Miktar bildiren sözcük",
-      "answer": "ADET",
-      "row": 11,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Selamlaşırken el ele tutuşma",
-      "answer": "TOKA",
-      "row": 12,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sınırlı, kıt",
-      "answer": "AZ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Postayla gönderilen yazılı ileti",
-      "answer": "MEKTUP",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir bakışta geçen süre",
-      "answer": "AN",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İlkel benlik",
-      "answer": "İD",
-      "row": 10,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Vapurun yanaştığı kıyı yapısı",
-      "answer": "İSKELE",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dört açısı da dik olan eşkenar dörtgen",
-      "answer": "KARE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dilin algıladığı duyum",
-      "answer": "TAT",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gökten yağan buz taneleri",
-      "answer": "DOLU",
+      "text": "Erkek insan, kişi",
+      "answer": "ADAM",
       "row": 1,
       "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Seyrek karşıtı",
+      "answer": "SIK",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Asla",
+      "answer": "HİÇ",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Beyin salgı bezi",
+      "answer": "HİPOFİZ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şaka",
+      "answer": "LATİFE",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sandığa atılan",
+      "answer": "OY",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Dokuzdan sonraki sayı",
+      "answer": "ON",
+      "row": 5,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Öç isteği",
+      "answer": "KİN",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yakışıksız davranış",
+      "answer": "HALT",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Dönme hareketi",
+      "answer": "TAKLA",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Zirve",
+      "answer": "PİK",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Öge",
+      "answer": "UNSUR",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Adaletli paylaştırma",
+      "answer": "KIST",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir çift",
+      "answer": "İKİ",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Saf, temiz",
+      "answer": "HALİS",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çalışma mobilyası",
+      "answer": "MASA",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Borcu ödeme",
+      "answer": "İFA",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Mezuniyet başlığı",
+      "answer": "KEP",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tatlı çörek",
+      "answer": "KEK",
+      "row": 12,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ter kabarcığı",
+      "answer": "İSİLİK",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sıcaklık bildiren eski söz",
-      "answer": "HAR",
+      "text": "Yerine koyma",
+      "answer": "İKAME",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hekimlik bilimi",
+      "answer": "TIP",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Köklü değişiklik",
+      "answer": "İNKILAP",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dikey destek",
+      "answer": "KOLON",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Su buharı",
+      "answer": "SİS",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Deprem hattı",
+      "answer": "FAY",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Esir",
+      "answer": "TUTSAK",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "And Dağları'nın yük hayvanı",
-      "answer": "LAMA",
+      "text": "Yemin, ant",
+      "answer": "AHİT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yaratıcı beceri dalı",
-      "answer": "SANAT",
+      "text": "Eski konaklama yapısı",
+      "answer": "HAN",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Anne",
-      "answer": "ANA",
+      "text": "Sıra bütünü",
+      "answer": "DİZİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Vurgu bildiren ünlem",
-      "answer": "YA",
-      "row": 6,
+      "text": "Terslik",
+      "answer": "AKSİLİK",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sesin geri dönmesi",
-      "answer": "EKO",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Lantan'ın simgesi",
-      "answer": "LA",
+      "text": "Kapıyı arala",
+      "answer": "AÇ",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Denizle çevrili kara parçası",
-      "answer": "ADA",
-      "row": 4,
+      "text": "Tavuk yumurtlağı",
+      "answer": "FOLLUK",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kozadan elde edilen değerli iplik",
-      "answer": "İPEK",
-      "row": 8,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Beygirin tırnağını koruyan demir",
-      "answer": "NAL",
-      "row": 4,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Anlama ve kavrama yetisi",
-      "answer": "ZEKA",
-      "row": 8,
+      "text": "Tek parça giysi",
+      "answer": "ENTARİ",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     }
@@ -274,7 +253,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 3
     },
     {
       "row": 0,
@@ -289,44 +268,32 @@
       "col": 8
     },
     {
-      "row": 3,
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
       "col": 7
     },
     {
-      "row": 3,
+      "row": 10,
       "col": 8
     },
     {
-      "row": 4,
-      "col": 6
+      "row": 12,
+      "col": 7
     },
     {
-      "row": 5,
-      "col": 2
-    },
-    {
-      "row": 5,
-      "col": 3
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 3
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 3
-    },
-    {
-      "row": 11,
-      "col": 4
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "zor",

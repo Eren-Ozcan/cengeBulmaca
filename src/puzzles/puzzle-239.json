@@ -5,247 +5,177 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Büyük boyutlu",
-      "answer": "İRİ",
+      "text": "Dargınlık tohumu",
+      "answer": "NİFAK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sayı, tane",
-      "answer": "ADET",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Derde deva olan madde (eski dilde)",
-      "answer": "EM",
+      "text": "Destek direği",
+      "answer": "PAYANDA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tahtaya çakılan sivri metal parça",
-      "answer": "ÇİVİ",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Dikkat çekme ünlemi",
-      "answer": "EY",
+      "text": "İş süresi",
+      "answer": "MESAİ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sürat",
-      "answer": "HIZ",
+      "text": "Mesai",
+      "answer": "İŞ",
       "row": 3,
-      "col": 2,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Galyum için kullanılan kimyasal simge",
-      "answer": "GA",
+      "text": "Kanın rengi",
+      "answer": "KIRMIZI",
       "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Basılı sayfalardan oluşan yapıt",
-      "answer": "KİTAP",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Saygıyla anılan büyük erkek kardeş",
-      "answer": "AKA",
-      "row": 5,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Güney Amerika'nın yük hayvanı",
-      "answer": "LAMA",
+      "text": "Yapay tatlandırıcı",
+      "answer": "SAKARİN",
       "row": 6,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zehirli kuyruklu böcek",
-      "answer": "AKREP",
+      "text": "Casus",
+      "answer": "AJAN",
       "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Birini küçümseyerek gülme",
-      "answer": "ALAY",
+      "text": "Duyurmama",
+      "answer": "ÖRTBAS",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Alaca, benekli renk",
-      "answer": "ALA",
-      "row": 8,
-      "col": 4,
+      "text": "Enerji paketi",
+      "answer": "KUANTUM",
+      "row": 9,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Fazladan eklenen kısım",
-      "answer": "EK",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir ülkede yaşayanların tümü",
-      "answer": "HALK",
-      "row": 9,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çikolatanın ham maddesi",
-      "answer": "KAKAO",
+      "text": "Özlenen memleket",
+      "answer": "SILA",
       "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kimyada Baryum'un simgesi",
-      "answer": "BA",
-      "row": 11,
-      "col": 5,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Balıkçının kullandığı örgü",
-      "answer": "AĞ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Oy (eski dilde)",
-      "answer": "REY",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Us, zihin",
-      "answer": "AKIL",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Anlama, hatırlama ünlemi",
-      "answer": "HA",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Nişan, alamet",
-      "answer": "İM",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ani saldırı",
-      "answer": "ATAK",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Adaletin gerektirdiği şey",
-      "answer": "HAK",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yılın on ikide biri",
-      "answer": "AY",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İki doğrunun kesişmesiyle oluşan ölçü",
+      "text": "İki ışının kesişimi",
       "answer": "AÇI",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tanrı hizmetkârı",
+      "answer": "KUL",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Koza ipliği",
+      "answer": "İPEK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gösteri çadırı",
+      "answer": "SİRK",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ara, aralık",
+      "answer": "FASILA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bronz",
+      "answer": "TUNÇ",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Saflık derecesi",
+      "answer": "AYAR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce karşıtı",
+      "answer": "KABA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yerine geçen",
+      "answer": "KAİM",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Başlangıçtaki, evvelki",
-      "answer": "İLK",
-      "row": 4,
+      "text": "Haber kuruluşu",
+      "answer": "AJANS",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yankı",
-      "answer": "EKO",
+      "text": "Kaş boyası",
+      "answer": "RASTIK",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Gem kayışı",
+      "answer": "DİZGİN",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüce, büyük",
+      "answer": "ULU",
       "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Uyluk ile baldırı birleştiren eklem",
-      "answer": "DİZ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Saç bakımında kullanılan araç",
-      "answer": "TARAK",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İnsanların barındığı yapı",
-      "answer": "EV",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Preparatın üstüne konan ince cam",
-      "answer": "LAMEL",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kendine özgü nitelikteki örnek",
-      "answer": "TİP",
-      "row": 0,
+      "text": "Bağışıklık kazandıran",
+      "answer": "AŞI",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ortası sarı, yaprakları beyaz kır çiçeği",
-      "answer": "PAPATYA",
-      "row": 4,
+      "text": "Üretim işlemi",
+      "answer": "İMAL",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -253,23 +183,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
       "col": 5
     },
     {
-      "row": 10,
+      "row": 0,
       "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
     }
   ],
   "difficulty": "orta",

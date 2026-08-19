@@ -5,260 +5,218 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Aç karşıtı, doymuş",
-      "answer": "TOK",
+      "text": "Hayali canavar",
+      "answer": "ÖCÜ",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Direngenlik, dediğinden dönmeme",
-      "answer": "İNAT",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde seçim oyu",
-      "answer": "REY",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Müzik sesi işareti",
-      "answer": "NOTA",
-      "row": 2,
-      "col": 4,
+      "text": "Dokuma aracı",
+      "answer": "MEKİK",
+      "row": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Baryum'un simgesi",
-      "answer": "BA",
+      "text": "Arazi girintisi",
+      "answer": "ENGEBE",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ansızın, beklenmedik",
+      "answer": "ANİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hindistan başkenti",
+      "answer": "DELHİ",
       "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gelir taşınmazı",
+      "answer": "AKAR",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tarla sınırı",
+      "answer": "AN",
+      "row": 4,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Sağaltma",
+      "answer": "TEDAVİ",
+      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Çift karşıtı",
-      "answer": "TEK",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Borç senedi",
-      "answer": "BONO",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Vücudun dış örtüsü",
-      "answer": "CİLT",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Birden sonra gelen sayı",
-      "answer": "İKİ",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "'Bu' ve 'o' ile birlikte kullanılan işaret sözü",
-      "answer": "ŞU",
+      "text": "Parazit",
+      "answer": "ASALAK",
       "row": 6,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İnce taneli taş kırıntıları",
-      "answer": "KUM",
+      "text": "Yunan rakısı",
+      "answer": "UZO",
       "row": 6,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Pak, temiz anlamında da kullanılan renk",
-      "answer": "AK",
-      "row": 7,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Birim, tane",
-      "answer": "ADET",
+      "text": "Hayvan koltuğu",
+      "answer": "EYER",
       "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Sitem bildiren seslenme",
-      "answer": "BRE",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Askeri birlik türü",
-      "answer": "TABUR",
+      "text": "Topluluk mensubu",
+      "answer": "ÜYE",
       "row": 8,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İlave, ulama",
-      "answer": "EK",
+      "text": "Bilgin kimse",
+      "answer": "ALİM",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Katmerli sebze",
+      "answer": "LAHANA",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Görme engelli kişi (eski dilde)",
-      "answer": "AMA",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kalay'ın simgesi",
-      "answer": "SN",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kuşun uçma organı",
-      "answer": "KANAT",
+      "text": "Tapınma",
+      "answer": "İBADET",
       "row": 10,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Etrafı suyla kaplı toprak",
-      "answer": "ADA",
+      "text": "Cilalı deri",
+      "answer": "LAKE",
       "row": 11,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ocakta kızartma yapılan kap",
-      "answer": "TAVA",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Deriden salgılanan sıvı",
-      "answer": "TER",
+      "text": "Saygı sözü",
+      "answer": "CENAP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sirk oyunlarının yapıldığı alan",
-      "answer": "ARENA",
+      "text": "Saç lülesi",
+      "answer": "ZÜLÜF",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sandığa atılan tercih",
-      "answer": "OY",
+      "text": "Tek, eşsiz",
+      "answer": "ÜNİK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kırgızistan'ın başkenti",
-      "answer": "BİŞKEK",
+      "text": "El işi süsleme",
+      "answer": "OYA",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Soyun büyüğü",
+      "answer": "ATA",
       "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Aşçılarıyla ünlü ilimiz",
-      "answer": "BOLU",
-      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kutsal bir şey üzerine söz verme",
-      "answer": "ANT",
+      "text": "Yetkin, uzman",
+      "answer": "EHİL",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski din okulu",
+      "answer": "MEDRESE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalın yün kumaş",
+      "answer": "ABA",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Oyunda kovalayan",
+      "answer": "EBE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İstinat noktası",
+      "answer": "DAYANAK",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Saçsız",
+      "answer": "KEL",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bayağı, olağan",
+      "answer": "ALELADE",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İsa'nın öğrencisi",
+      "answer": "HAVARİ",
       "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hücum, hamle",
-      "answer": "ATAK",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tilki, tavşan gibi hayvanların barınağı",
-      "answer": "İN",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kızın ya da kız kardeşin kocası",
-      "answer": "DAMAT",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Öğrenciye verilen değerlendirme puanı",
-      "answer": "NOT",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Geleneksel Japon çiçek sanatı",
-      "answer": "İKEBANA",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tanrı fikrini reddeden kişi",
-      "answer": "ATE",
-      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Eşya saklamada kullanılan kapaklı kap",
-      "answer": "KUTU",
-      "row": 4,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Avlanan hayvan",
-      "answer": "AV",
-      "row": 9,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Duvara asılan gün çizelgesi",
-      "answer": "TAKVİM",
+      "text": "Muayene yeri",
+      "answer": "KLİNİK",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Gemi veya uçağın izlediği yol",
-      "answer": "ROTA",
+      "text": "Söylence, efsane",
+      "answer": "MİT",
       "row": 7,
       "col": 8,
       "arrow": "down"
@@ -267,31 +225,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 3
     },
     {
       "row": 0,
-      "col": 4
+      "col": 7
     },
     {
-      "row": 3,
+      "row": 5,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
+      "row": 9,
+      "col": 7
     },
     {
       "row": 10,
-      "col": 2
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 7
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "zor",

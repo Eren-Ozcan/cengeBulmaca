@@ -5,156 +5,135 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Türkmenistan'ın başkenti",
-      "answer": "AŞKABAT",
+      "text": "Dondurma kabı",
+      "answer": "KUP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Torun sahibi yaşlı erkek",
-      "answer": "DEDE",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Rusçada olumlama sözü",
-      "answer": "DA",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Lahza, dem",
-      "answer": "AN",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Avrupa'yı sarsan eski Türk devleti",
-      "answer": "HUN",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Dilek için verilen söz",
-      "answer": "ADAK",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "'İka etmek' fiilinin kökü",
-      "answer": "İKA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Başarısıyla öne çıkan kimse",
-      "answer": "AS",
-      "row": 6,
+      "text": "Aydınlık, ışık",
+      "answer": "NUR",
+      "row": 1,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çizgili, kareli dokuma",
-      "answer": "EKOSE",
+      "text": "Kolun üst eklemi",
+      "answer": "OMUZ",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Güzel, sevimli",
+      "answer": "HOŞ",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Anıtsal kapı",
+      "answer": "TAK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hızlı yol",
+      "answer": "OTOYOL",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Otlak",
+      "answer": "MERA",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Deniz generali",
+      "answer": "AMİRAL",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Boru sesi",
-      "answer": "Tİ",
+      "text": "Hesap kertiği",
+      "answer": "ÇETELE",
       "row": 8,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalay'ın simgesi",
-      "answer": "SN",
+      "text": "Rüzgâr",
+      "answer": "YEL",
       "row": 9,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "'Bu' ve 'o' ile birlikte kullanılan işaret sözü",
-      "answer": "ŞU",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Maçı yöneten kimse",
-      "answer": "HAKEM",
+      "text": "Çevrilen oyuncak",
+      "answer": "TOPAÇ",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ağzın kenarındaki hareketli et kısmı",
-      "answer": "DUDAK",
-      "row": 2,
+      "text": "Yağlı merhem",
+      "answer": "POMAT",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çukurova'nın büyük şehri",
-      "answer": "ADANA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir ağırlık birimi (28,35 gram)",
-      "answer": "ONS",
+      "text": "Halk nefeslisi",
+      "answer": "MEY",
       "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Alt kurul",
+      "answer": "KOMİTE",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Berilyum'un kimyasal simgesi",
-      "answer": "BE",
+      "text": "Gemisiyle ünlü peygamber",
+      "answer": "NUH",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kasılıp gevşeyen doku",
-      "answer": "KAS",
+      "text": "Yöresel",
+      "answer": "YEREL",
       "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir kimse, şahıs",
-      "answer": "ADAM",
+      "text": "Yunan rakısı",
+      "answer": "UZO",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Suyu tutan yapay engel",
-      "answer": "SET",
-      "row": 5,
+      "text": "Ağız yoluyla",
+      "answer": "ORAL",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Raketle oynanan spor",
-      "answer": "TENİS",
-      "row": 0,
+      "text": "Çağlayan",
+      "answer": "ŞELALE",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -162,7 +141,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 2,
@@ -174,27 +161,11 @@
     },
     {
       "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 9,
       "col": 0
     },
     {
       "row": 9,
-      "col": 1
+      "col": 0
     },
     {
       "row": 9,

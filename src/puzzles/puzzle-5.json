@@ -5,191 +5,121 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Do-re-mi dizisinin ilk notası",
-      "answer": "DO",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sahne dansı sanatı",
-      "answer": "BALE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pençeleriyle avlanan büyük kuş",
-      "answer": "KARTAL",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Merak bildiren soru sözcüğü",
-      "answer": "NE",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Saniyenin küçük bir bölümü",
-      "answer": "AN",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Lantan'ın simgesi",
-      "answer": "LA",
-      "row": 3,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Japonların çiçek aranjmanı sanatı",
-      "answer": "İKEBANA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir askeri birlik",
-      "answer": "ALAY",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ekşi kiraz",
-      "answer": "VİŞNE",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Karın zıddı renk",
-      "answer": "AK",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayat arkadaşı",
-      "answer": "EŞ",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaban hayvanı barınağı",
-      "answer": "İN",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kozdaki üstün kağıt",
-      "answer": "ATU",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sıralama bildiren bağlaç",
-      "answer": "VE",
-      "row": 6,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Sivri uçlu fırlatma silahı",
-      "answer": "OK",
+      "text": "Takma ad",
+      "answer": "MAHLAS",
       "row": 0,
       "col": 1,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Ters, huysuz",
-      "answer": "AKSİ",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğuran, büyüten kadın",
-      "answer": "ANNE",
+      "text": "Benekli kedi",
+      "answer": "ÇİTA",
       "row": 1,
-      "col": 2,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Nam, tanınmışlık",
-      "answer": "ŞAN",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir seslenme ünlemi",
-      "answer": "BRE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Parkta oturmak için konan sıra",
-      "answer": "BANK",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Satrançta bir taş",
-      "answer": "AT",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlı döneminde çok sevilen çiçek",
-      "answer": "LALE",
+      "text": "Nağme",
+      "answer": "TERANE",
       "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tenis aracı",
+      "answer": "RAKET",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kırmızı, tatlı meyve",
+      "answer": "KİRAZ",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hükümdar ailesi",
+      "answer": "HANEDAN",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Davul takımı",
+      "answer": "BATERİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Engelleme, yasak",
+      "answer": "MEN",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ürün niteliği",
+      "answer": "KALİTE",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Söylence, efsane",
+      "answer": "MİT",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dış tabaka",
+      "answer": "KABUK",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gümüş balığı",
+      "answer": "ATERİNA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıcaklık",
+      "answer": "HARARET",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüksek bilim kurumu",
+      "answer": "AKADEMİ",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yaprakları katmerli kış sebzesi",
-      "answer": "LAHANA",
-      "row": 0,
+      "text": "Gözetim",
+      "answer": "NEZARET",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Protein kaynağı gıda",
-      "answer": "ET",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yabancı, ecnebi (eski dilde)",
-      "answer": "EL",
+      "text": "Yumuşak deri",
+      "answer": "SÜET",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dünya'nın uydusu",
-      "answer": "AY",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Biraz uzaktaki şeyi gösteren sıfat",
-      "answer": "ŞU",
-      "row": 7,
+      "text": "Büyükanne",
+      "answer": "NİNE",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -197,15 +127,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 3,
       "col": 0
     },
     {
-      "row": 3,
-      "col": 6
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
     }
   ],
   "difficulty": "kolay",

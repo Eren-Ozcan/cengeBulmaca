@@ -5,170 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Noktalarla bakılan bir fal türü",
-      "answer": "REMİL",
+      "text": "Akla uygun",
+      "answer": "MAKUL",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uçmaya yarayan organ",
-      "answer": "KANAT",
+      "text": "Muhtemel",
+      "answer": "OLASI",
       "row": 2,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Elde tutularak yazılan araç",
-      "answer": "KALEM",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Element tablosunda Kalsiyum'un simgesi",
-      "answer": "CA",
+      "text": "Sıra sayısı",
+      "answer": "NUMARA",
       "row": 3,
-      "col": 5,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Solungaçlı su hayvanı",
-      "answer": "BALIK",
+      "text": "İş birimi",
+      "answer": "ERG",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Göz rengi",
+      "answer": "ELA",
       "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Atın tırnağına çakılan demir",
-      "answer": "NAL",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Dört tekerlekli taşıt",
-      "answer": "ARABA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sesin geri dönmesi",
-      "answer": "EKO",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kör kimse",
-      "answer": "AMA",
-      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Büyük dede, ecdat",
-      "answer": "ATA",
-      "row": 9,
+      "text": "Erkek cins",
+      "answer": "ERİL",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cilve, naz",
-      "answer": "EDA",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Hükümdarların taşıdığı değnek",
-      "answer": "ASA",
-      "row": 9,
+      "text": "Ana hatlar",
+      "answer": "ÖZET",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eğlenme, dalga geçme",
-      "answer": "ALAY",
+      "text": "Yerine koyma",
+      "answer": "İKAME",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yenilikten yana",
+      "answer": "İLERİCİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kamış içkisi",
+      "answer": "ARAK",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Aykırılık bağlacı",
+      "answer": "FAKAT",
       "row": 10,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Namaza çağrı",
-      "answer": "EZAN",
+      "text": "Rezillik",
+      "answer": "REZALET",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyük toplantı",
+      "answer": "KONGRE",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Mal karşılığı mal alma",
-      "answer": "TAKAS",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Varılacak hedefe giden yol",
-      "answer": "ROTA",
-      "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Japon çiçek düzenleme sanatı",
-      "answer": "İKEBANA",
+      "text": "Yüce, büyük",
+      "answer": "ULU",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Güney Amerika'nın yük hayvanı",
-      "answer": "LAMA",
+      "text": "Suçunu söyleme",
+      "answer": "İTİRAF",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Mikroskop camı",
+      "answer": "LAMEL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eskiden kaftan yapımında kullanılan kumaş",
-      "answer": "ABA",
-      "row": 5,
+      "text": "Kullanım ücreti",
+      "answer": "KİRA",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Preparatın üstüne konan ince cam",
-      "answer": "LAMEL",
+      "text": "Su taşıtı",
+      "answer": "SAL",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kasık-taban arası",
+      "answer": "BACAK",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Biberin verdiği yakıcı tat",
-      "answer": "ACI",
-      "row": 1,
+      "text": "Dizi",
+      "answer": "SIRA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Etrafı suyla kaplı toprak",
-      "answer": "ADA",
-      "row": 7,
+      "text": "Şeffaf mineral",
+      "answer": "MİKA",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Günleri gösteren çizelge",
-      "answer": "TAKVİM",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Takvimin bir dilimi",
-      "answer": "AY",
-      "row": 8,
+      "text": "Batı Anadolu yiğidi",
+      "answer": "EFE",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -176,15 +162,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
       "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
     },
     {
       "row": 0,
@@ -192,31 +174,35 @@
     },
     {
       "row": 1,
-      "col": 5
+      "col": 7
     },
     {
-      "row": 4,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 2
+      "row": 2,
+      "col": 7
     },
     {
       "row": 5,
       "col": 6
     },
     {
-      "row": 6,
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 6
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 0
     }
   ],
   "difficulty": "kolay",

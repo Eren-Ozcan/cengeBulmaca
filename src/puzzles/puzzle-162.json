@@ -5,274 +5,232 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Hastalığı iyileştiren madde",
-      "answer": "İLAÇ",
+      "text": "Top cismi",
+      "answer": "KÜRE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kan pompalayan organ, yürek",
-      "answer": "KALP",
+      "text": "Yenilik düşkünlüğü",
+      "answer": "MODA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İş süresi",
+      "answer": "MESAİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Şebeke, internet",
+      "answer": "AĞ",
+      "row": 2,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Türkiye'nin başkenti",
+      "answer": "ANKARA",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yağmur suyu deposu",
+      "answer": "SARNIÇ",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yöntem, usul",
+      "answer": "YOL",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Örtülü, kapanmış",
+      "answer": "KAPALI",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Değiş tokuş",
+      "answer": "TAKAS",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aç karşıtı",
+      "answer": "TOK",
+      "row": 7,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Kiraya verilen",
+      "answer": "KİRALIK",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnsan yapısı",
+      "answer": "BİNA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Üretim işlemi",
+      "answer": "İMAL",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ölünün yeri",
+      "answer": "KABİR",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Soru sözcüğü",
+      "answer": "NE",
+      "row": 10,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Belli, aşikâr",
+      "answer": "AYAN",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kâğıtta üstün renk",
+      "answer": "ATU",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ocağa kömür atan",
+      "answer": "ATEŞÇİ",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Okuma bilmeyen",
+      "answer": "ÜMMİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gerçek",
+      "answer": "HAKİKAT",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Mi'den önceki nota",
+      "answer": "RE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dolaylı anlatım",
+      "answer": "KİNAYE",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Temel öz",
+      "answer": "ESAS",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çoban köpeği",
+      "answer": "KARABAŞ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
       "row": 1,
       "col": 4,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Müezzinin okuduğu çağrı",
-      "answer": "EZAN",
+      "text": "İngiliz uzunluk birimi",
+      "answer": "İNÇ",
+      "row": 9,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hastalık etkeni",
+      "answer": "MİKROP",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Mitolojik çalgı",
+      "answer": "LİR",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İfade",
+      "answer": "ANLATIM",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Öğrenciye verilen değerlendirme puanı",
-      "answer": "NOT",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Düşünme, muhakeme yetisi",
-      "answer": "US",
-      "row": 3,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sol'den sonraki nota",
-      "answer": "LA",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Üzerinde yaprak taşıyan ağaç uzantısı",
-      "answer": "DAL",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Şiir dilinde kullanılan eski su sözü",
-      "answer": "AB",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dede, cet",
-      "answer": "ATA",
-      "row": 6,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Giysinin boyna gelen bölümü",
-      "answer": "YAKA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Fitilli aydınlatma aracı",
-      "answer": "MUM",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Babanın kız kardeşi olan akraba",
-      "answer": "HALA",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Onama, kabul etme",
-      "answer": "RIZA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İnce bacaklı, ürkek hayvan",
-      "answer": "AHU",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Firavunların taptığı güneş tanrısı",
-      "answer": "RA",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yabancı kimse",
-      "answer": "EL",
-      "row": 10,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Geometride iki ışının kesişmesiyle oluşan şekil",
-      "answer": "AÇI",
-      "row": 10,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Pençeli, kalın postlu orman hayvanı",
-      "answer": "AYI",
-      "row": 11,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Solunumla alınan hava",
-      "answer": "NEFES",
-      "row": 12,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Göz bebeğine yerleştirilen mercek",
-      "answer": "LENS",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Altının saflık ölçüsü",
-      "answer": "AYAR",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yılın on ikide biri",
-      "answer": "AY",
-      "row": 10,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Renksiz, kokusuz atmosfer gazı",
-      "answer": "AZOT",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Balık tutan ya da satan kimse",
-      "answer": "BALIKÇI",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dişleriyle yemek delen sofra aracı",
-      "answer": "ÇATAL",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Uzun boyunlu, iri beyaz kümes hayvanı",
-      "answer": "KAZ",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sodyum için kullanılan kimyasal simge",
-      "answer": "NA",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüz metrekarelik alan ölçüsü",
-      "answer": "AR",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Farsça kökenli eski 'ayak' sözcüğü",
-      "answer": "PA",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dine inanmayan kişi",
-      "answer": "ATE",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıvının en küçük parçası",
-      "answer": "DAMLA",
-      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Suçu bağışlama",
-      "answer": "AF",
-      "row": 10,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Romanya'da kullanılan para birimi",
-      "answer": "LEU",
+      "text": "Kuraklık tahılı",
+      "answer": "DARI",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İskambilde en güçlü kağıt takımı",
-      "answer": "ATU",
-      "row": 4,
+      "text": "Restoran",
+      "answer": "LOKANTA",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Helyum'un simgesi",
-      "answer": "HE",
-      "row": 8,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Mikroskop altına konan ince cam",
-      "answer": "LAM",
-      "row": 4,
+      "text": "Ağacı bol yer",
+      "answer": "AĞAÇLIK",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Millet",
-      "answer": "ULUS",
+      "text": "Rumen parası",
+      "answer": "LEU",
       "row": 8,
       "col": 8,
       "arrow": "down"
@@ -285,43 +243,31 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
-      "row": 0,
-      "col": 8
+      "row": 3,
+      "col": 0
     },
     {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 8
+      "row": 4,
+      "col": 0
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 4
+      "row": 5,
+      "col": 2
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 12,
+      "col": 6
     },
     {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 7
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "zor",

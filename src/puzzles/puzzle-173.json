@@ -5,184 +5,177 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Dumanın bıraktığı kara leke",
-      "answer": "İS",
+      "text": "Kahvaltının içeceği",
+      "answer": "SÜT",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Kuşun uçma organı",
-      "answer": "KANAT",
+      "text": "Yeşil ot örtüsü",
+      "answer": "ÇİM",
       "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İki şey arasındaki boşluk",
-      "answer": "ARA",
-      "row": 2,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Konut, hane",
-      "answer": "EV",
-      "row": 2,
+      "text": "Geri çevirme",
+      "answer": "RET",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Küçük akarsu",
-      "answer": "DERE",
+      "text": "Sindirim organı",
+      "answer": "MİDE",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Pertavsız",
+      "answer": "BÜYÜTEÇ",
       "row": 3,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Desenli, havsız yer yaygısı",
-      "answer": "KİLİM",
-      "row": 4,
+      "text": "Dinen izinli",
+      "answer": "HELAL",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Suçu bağışlama",
-      "answer": "AF",
+      "text": "Süs sarkıtı",
+      "answer": "PÜSKÜL",
       "row": 5,
-      "col": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kozadan elde edilen değerli iplik",
-      "answer": "İPEK",
+      "text": "Sürgün",
+      "answer": "İSHAL",
       "row": 6,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kimyada Berilyum'un simgesi",
-      "answer": "BE",
-      "row": 6,
+      "text": "Kızılımsı sarı",
+      "answer": "ALA",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kelimenin sonuna gelen parça",
-      "answer": "EK",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Alan ölçü birimi (100 m²)",
-      "answer": "AR",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Kripton'un simgesi",
-      "answer": "KR",
+      "text": "Ezilmiş yiyecek",
+      "answer": "PÜRE",
       "row": 8,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bir ülkenin kadın hükümdarı",
-      "answer": "ECE",
-      "row": 8,
-      "col": 4,
+      "text": "Üstün, seçkin",
+      "answer": "KLAS",
+      "row": 9,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kobalt'ın simgesi",
-      "answer": "CO",
-      "row": 8,
+      "text": "Çizgi çizme aracı",
+      "answer": "CETVEL",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eşya saklamada kullanılan kapaklı kap",
-      "answer": "KUTU",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Birine karşı duyulan derin bağlılık",
-      "answer": "SEVGİ",
+      "text": "Neden",
+      "answer": "SEBEP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yay ile fırlatılan silah",
-      "answer": "OK",
-      "row": 8,
+      "text": "Prensip",
+      "answer": "İLKE",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 4,
+      "text": "Ütülenmiş olan",
+      "answer": "ÜTÜLÜ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yazılımcının yazdığı komut dizisi",
-      "answer": "KOD",
-      "row": 0,
-      "col": 3,
+      "text": "Yalnızca, sadece; mutlak",
+      "answer": "SALT",
+      "row": 6,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hardal gazı olarak da bilinen zehirli gaz",
-      "answer": "İPERİT",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sofraların vazgeçilmez unlu besini",
-      "answer": "EKMEK",
+      "text": "Karalar bağlama",
+      "answer": "YAS",
       "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sürek eğlencesi",
+      "answer": "AV",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Taşınmaz mal",
+      "answer": "MÜLK",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kırmızı taneli bir meyve",
-      "answer": "NAR",
+      "text": "İrin birikintisi",
+      "answer": "APSE",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bahçe engeli",
+      "answer": "ÇİT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sirk oyunlarının yapıldığı alan",
-      "answer": "ARENA",
+      "text": "Üç parçalı",
+      "answer": "ÜÇLÜ",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "En iyisi",
+      "answer": "İDEAL",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Biberin verdiği yakıcı tat",
-      "answer": "ACI",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Tantal'ın simgesi",
-      "answer": "TA",
+      "text": "İnce kılıç",
+      "answer": "MEÇ",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Peynir sevdiği düşünülen kemirgen",
-      "answer": "FARE",
-      "row": 4,
+      "text": "Ortak emek",
+      "answer": "İMECE",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -190,51 +183,47 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 3
     },
     {
       "row": 0,
       "col": 4
     },
     {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
       "row": 4,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 2
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
       "col": 7
     },
     {
-      "row": 10,
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 3
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
       "col": 5
     },
     {
-      "row": 10,
+      "row": 9,
       "col": 6
     },
     {
       "row": 10,
-      "col": 7
+      "col": 6
     }
   ],
   "difficulty": "orta",

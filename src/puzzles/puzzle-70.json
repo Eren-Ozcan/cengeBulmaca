@@ -5,240 +5,205 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Denizde tehlikeli sert rüzgar",
-      "answer": "BORA",
+      "text": "Bağışlanma dileme",
+      "answer": "ŞEFAAT",
       "row": 1,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Cüsseli, büyük",
-      "answer": "İRİ",
-      "row": 0,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Öğrencinin çantasındaki yazı aracı",
-      "answer": "KALEM",
+      "text": "Beyaz etli balık",
+      "answer": "LEVREK",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Örülerek yapılmış avlanma aracı",
-      "answer": "AĞ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bedeni saran doku",
-      "answer": "DERİ",
+      "text": "Öğrenmek isteyen",
+      "answer": "MERAKLI",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bakanlık görevlisi",
+      "answer": "BAKAN",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Babanın kız kardeşi olan akraba",
-      "answer": "HALA",
+      "text": "Çeşit, cins",
+      "answer": "TÜR",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Element tablosunda Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Büyümüş sığır yavrusu",
-      "answer": "DANA",
-      "row": 6,
+      "text": "Olgunlaşmamış meyve",
+      "answer": "HAM",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Selenyum için kullanılan kimyasal simge",
-      "answer": "SE",
-      "row": 7,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Değiş tokuş",
-      "answer": "TAKAS",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Birinci, en önce olan",
-      "answer": "İLK",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Burnun aldığı duyum",
-      "answer": "KOKU",
-      "row": 9,
+      "text": "Beğenmeme haykırışı",
+      "answer": "YUH",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mikroskopta kullanılan cam",
-      "answer": "LAM",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kullanım karşılığı ödenen para",
-      "answer": "KİRA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Anne veya babanın annesi",
-      "answer": "NİNE",
-      "row": 10,
+      "text": "Yığın",
+      "answer": "KÜME",
+      "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Ateş yakılan yer",
-      "answer": "OCAK",
+      "text": "Kağıt huni",
+      "answer": "KÜLAH",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gamın altıncısı",
+      "answer": "LA",
+      "row": 7,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Fakire verilen",
+      "answer": "SADAKA",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek gece kıyafeti",
+      "answer": "SMOKİN",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Üretim işlemi",
+      "answer": "İMAL",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hatıra",
+      "answer": "ANI",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Bireşim",
+      "answer": "SENTEZ",
       "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Irak'ın başkenti",
-      "answer": "BAĞDAT",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüzüklerde kullanılan yarı değerli bir taş",
-      "answer": "AKİK",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarıya çalan göz rengi",
-      "answer": "ELA",
+      "text": "Küçük karşıtı",
+      "answer": "BÜYÜK",
       "row": 3,
-      "col": 2,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Alevsiz, için için yanan ateş parçası",
-      "answer": "KOR",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Fasıla",
-      "answer": "ARA",
+      "text": "Yeşil salata",
+      "answer": "MARUL",
       "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eleme aracı",
+      "answer": "ELEK",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tropik bir ağacın çekirdeğinden elde edilen madde",
-      "answer": "KAKAO",
+      "text": "Duyarlı",
+      "answer": "HASSAS",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Geniş, açık",
+      "answer": "FERAH",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Güçlü atılım",
+      "answer": "HAMLE",
       "row": 6,
-      "col": 3,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Uyumsuz, geçimsiz",
-      "answer": "AKSİ",
+      "text": "Saf, bön",
+      "answer": "AVANAK",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaşamın kaynağı sıvı",
-      "answer": "SU",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Satrançta şah ve vezirden farklı bir taş",
-      "answer": "AT",
-      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Katıksız, saf",
-      "answer": "HAS",
+      "text": "Gamın ilk notası",
+      "answer": "DO",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Akıtma oluğu",
+      "answer": "ARK",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Görüşme",
+      "answer": "MÜLAKAT",
       "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sodyum için kullanılan kimyasal simge",
-      "answer": "NA",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Hastalığı iyileştiren madde",
-      "answer": "İLAÇ",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kemiğin içindeki doku",
-      "answer": "İLİK",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Orta Avrupa'nın büyük nehri",
-      "answer": "REN",
+      "text": "Sazın çalınan yeri",
+      "answer": "TEL",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yelesiyle bilinen büyük kedigil",
-      "answer": "ASLAN",
+      "text": "Enerji çeviren düzenek",
+      "answer": "MAKİNE",
       "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
-      "row": 0,
+      "text": "Dönülen yön",
+      "answer": "KIBLE",
+      "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Sofraların vazgeçilmez unlu besini",
-      "answer": "EKMEK",
-      "row": 6,
+      "text": "Ekin sapı",
+      "answer": "ANIZ",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -250,31 +215,47 @@
     },
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 3
+      "col": 8
     },
     {
-      "row": 0,
-      "col": 5
+      "row": 1,
+      "col": 0
     },
     {
       "row": 2,
-      "col": 2
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 0
     },
     {
       "row": 4,
       "col": 7
     },
     {
-      "row": 5,
-      "col": 4
+      "row": 8,
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 6
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
     },
     {
       "row": 11,
@@ -282,7 +263,7 @@
     },
     {
       "row": 11,
-      "col": 7
+      "col": 1
     }
   ],
   "difficulty": "kolay",

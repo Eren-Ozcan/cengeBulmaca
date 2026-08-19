@@ -5,247 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Sürü halinde avlanan yabani hayvan",
-      "answer": "KURT",
+      "text": "Meraklı, hevesli",
+      "answer": "AMATÖR",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Osmanlıcada 'v' sesini veren harf",
-      "answer": "VAV",
-      "row": 0,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Beyazı ve karası olan küçük meyve",
-      "answer": "DUT",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Padişah çadırı",
-      "answer": "OTAĞ",
+      "text": "İşve, naz",
+      "answer": "EDA",
       "row": 2,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Delik açma aracı",
-      "answer": "MATKAP",
+      "text": "Saç kurutma",
+      "answer": "FÖN",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayarlanmış maç",
+      "answer": "ŞİKE",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yakını gösteren işaret zamiri",
-      "answer": "BU",
+      "text": "Göğün katı",
+      "answer": "ARŞ",
+      "row": 3,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yansıtıcı cam",
+      "answer": "AYNA",
       "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kanı taşıyan kanal",
-      "answer": "DAMAR",
+      "text": "Gol pası",
+      "answer": "ASİST",
       "row": 5,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kumaşı ısıyla düzleştiren araç",
-      "answer": "ÜTÜ",
-      "row": 5,
+      "text": "Mikroskop camı",
+      "answer": "LAMEL",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Atı sürme",
+      "answer": "DEH",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kelimenin sonuna gelen parça",
-      "answer": "EK",
-      "row": 6,
+      "text": "Fırında pişen tatlı",
+      "answer": "KEK",
+      "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İçi taneli, ekşimsi meyve",
-      "answer": "NAR",
-      "row": 7,
+      "text": "İstanbul'un eski adı",
+      "answer": "ASİTANE",
+      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çekicilik katan tavır",
-      "answer": "EDA",
-      "row": 6,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Karadeniz'den esen soğuk rüzgar",
-      "answer": "POYRAZ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Seçimde kullanılan tercih",
-      "answer": "OY",
-      "row": 8,
-      "col": 6,
+      "text": "Erdem",
+      "answer": "FAZİLET",
+      "row": 9,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Mi ile Sol arasındaki nota",
-      "answer": "FA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yabancı, ecnebi (eski dilde)",
-      "answer": "EL",
-      "row": 9,
+      "text": "Kesik",
+      "answer": "KESİ",
+      "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Karşılıklı değişim",
-      "answer": "TAKAS",
+      "text": "Yunanistan'ın başkenti",
+      "answer": "ATİNA",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gözle görülmeyen yaratık",
+      "answer": "CİN",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Renkli, benekli",
+      "answer": "ALA",
+      "row": 12,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Aralık sözü",
+      "answer": "İLA",
+      "row": 12,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Uğraşı",
+      "answer": "MEŞGALE",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ecdat",
+      "answer": "ATA",
+      "row": 9,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıradan, kalitesiz",
+      "answer": "ADİ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski kitapçı",
+      "answer": "SAHAF",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Vilayet",
+      "answer": "İL",
       "row": 10,
       "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İşlemecilikte kullanılan seyrek dokuma kumaş",
-      "answer": "ETAMİN",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "'Vasıtasıyla' anlamındaki edat",
-      "answer": "İLE",
-      "row": 12,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İnce taneli taş kırıntıları",
-      "answer": "KUM",
-      "row": 0,
-      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Karadeniz'de bir Trabzon ilçesi",
-      "answer": "OF",
+      "text": "Paylaştırma",
+      "answer": "TAKSİM",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Buhar banyosu",
+      "answer": "SAUNA",
       "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Japon şiiri, türküsü",
-      "answer": "UTA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Üzerinde yaşadığımız gezegen",
-      "answer": "DÜNYA",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüz metrekarelik alan ölçüsü",
-      "answer": "AR",
-      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Elektrik akımını taşıyan ince iplik",
-      "answer": "TEL",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Karnı doymuş olan",
-      "answer": "TOK",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Otlak",
-      "answer": "MERA",
+      "text": "Yediden sonraki sayı",
+      "answer": "SEKİZ",
       "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dine inanmayan kişi",
-      "answer": "ATE",
-      "row": 9,
-      "col": 4,
+      "text": "Biçimli vücutlu",
+      "answer": "ATLETİK",
+      "row": 3,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yemeğin içine konduğu porselen kap",
-      "answer": "TABAK",
+      "text": "Yer kırığı",
+      "answer": "FAY",
       "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Öğrenme ve kavrama yetisi",
-      "answer": "ZEKA",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Deniz yolcu taşıtı",
-      "answer": "VAPUR",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Güney Amerika'nın yük hayvanı",
-      "answer": "LAMA",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Örülmüş avlanma gereci",
-      "answer": "AĞ",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Sekizli dizinin ilk sesi",
-      "answer": "DO",
+      "text": "Kaleyi koruyan",
+      "answer": "KALECİ",
       "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İnceleme parçası",
+      "answer": "ÖRNEK",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "La'dan sonra gelen nota",
-      "answer": "Sİ",
-      "row": 9,
+      "text": "Kuşak",
+      "answer": "NESİL",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Adet belirten rakam kümesi",
-      "answer": "SAYI",
-      "row": 5,
+      "text": "Yapı kurma",
+      "answer": "İNŞA",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağ tabaka",
+      "answer": "RETİNA",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -253,11 +232,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
@@ -265,79 +240,39 @@
     },
     {
       "row": 0,
-      "col": 8
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 8
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 8
+      "col": 4
     },
     {
       "row": 4,
       "col": 0
-    },
-    {
-      "row": 4,
-      "col": 1
-    },
-    {
-      "row": 4,
-      "col": 3
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 8
     },
     {
       "row": 5,
-      "col": 7
+      "col": 6
     },
     {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
-    },
-    {
-      "row": 10,
+      "row": 5,
       "col": 8
     },
     {
-      "row": 11,
+      "row": 8,
       "col": 0
     },
     {
-      "row": 11,
-      "col": 1
-    },
-    {
-      "row": 12,
+      "row": 9,
       "col": 0
     },
     {
       "row": 12,
-      "col": 5
-    },
-    {
-      "row": 12,
-      "col": 7
-    },
-    {
-      "row": 12,
-      "col": 8
+      "col": 4
     }
   ],
   "difficulty": "orta",

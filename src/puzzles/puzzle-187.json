@@ -5,275 +5,240 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Yanardağdan çıkan erimiş kayaç",
-      "answer": "LAV",
+      "text": "Alt görevli",
+      "answer": "AST",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Henüz konuşamayan küçük çocuk",
-      "answer": "BEBEK",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
+      "text": "Kuru, sert soğuk",
+      "answer": "AYAZ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
     },
     {
-      "text": "Takımların birbiriyle yarıştığı organizasyon",
-      "answer": "LİG",
+      "text": "Tropik sarı meyve",
+      "answer": "PAPAYA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İlçe",
-      "answer": "KAZA",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Görüş, kanaat (eski dilde)",
-      "answer": "REY",
+      "text": "Asla",
+      "answer": "HİÇ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Amerika Birleşik Devletleri'nin para birimi",
-      "answer": "DOLAR",
+      "text": "Gizli bilgi",
+      "answer": "SIR",
       "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Arap alfabesinde bir harf",
-      "answer": "VAV",
+      "text": "Limon rengi",
+      "answer": "SARI",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İç giysi",
+      "answer": "FANİLA",
       "row": 4,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "İkinci tekil şahıs zamiri",
-      "answer": "SEN",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kütüklerden yapılma su taşıtı",
-      "answer": "SAL",
+      "text": "Küçük büyüteç",
+      "answer": "LUP",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Köyde geniş arazi sahibi kişi",
-      "answer": "AĞA",
-      "row": 5,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Havadaki titreşimin kulakta yarattığı duyum",
-      "answer": "SES",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İlenme, yakınma ünlemi",
-      "answer": "AH",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ağzı çevreleyen et kısmı",
-      "answer": "DUDAK",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir bakliyat türü",
-      "answer": "ARAKA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İsim",
-      "answer": "AD",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Dağda duyulan ses yansıması",
-      "answer": "EKO",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kör kimse",
-      "answer": "AMA",
-      "row": 10,
+      "text": "Daire genişliği",
+      "answer": "ÇAP",
+      "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Çabucak geçen zaman dilimi",
-      "answer": "AN",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yeşil yapraklı kış sebzesi",
-      "answer": "LAHANA",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Alanında en iyi olan kişi",
-      "answer": "AS",
-      "row": 12,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ad çekme",
-      "answer": "KURA",
-      "row": 12,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yanan ateşin dili",
-      "answer": "ALEV",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Boğa güreşi alanı",
-      "answer": "ARENA",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Avusturya'nın başkenti",
-      "answer": "VİYANA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Emeğin karşılığı olan şey",
+      "text": "Pay, hisse",
       "answer": "HAK",
       "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kısa hatırlatma",
+      "answer": "NOT",
+      "row": 7,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Gebe",
+      "answer": "HAMİLE",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Akıllı kadın",
+      "answer": "AKİLE",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Şifa, deva",
+      "answer": "EM",
+      "row": 9,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Güzel gözlü hayvan",
+      "answer": "AHU",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kokulu sıvı",
+      "answer": "ESANS",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yönlendirici belirti",
+      "answer": "İPUCU",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalem içi",
+      "answer": "GRAFİT",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sarmal",
+      "answer": "SPİRAL",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Belli, açık",
+      "answer": "ZAHİR",
+      "row": 8,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Yan atışı",
+      "answer": "TAÇ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "3/4'lük ölçüde dans edilen batı dansı",
-      "answer": "VALS",
+      "text": "Gemisiyle ünlü peygamber",
+      "answer": "NUH",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şampiyonluk ödülü",
+      "answer": "KUPA",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Osmanlı atlı askeri",
+      "answer": "SİPAHİ",
       "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gövdeden ele uzanan uzuv",
-      "answer": "KOL",
-      "row": 8,
+      "text": "Sızlanma ünlemi",
+      "answer": "UF",
+      "row": 10,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İşve, naz",
-      "answer": "EDA",
+      "text": "Esas, temel",
+      "answer": "ASAL",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaleyi koruyan",
+      "answer": "KALECİ",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Beyaz, kara karşıtı",
-      "answer": "AK",
-      "row": 10,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İskoç desenli kumaş",
-      "answer": "EKOSE",
+      "text": "Kimyada reaktif",
+      "answer": "AYIRAÇ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hayatın vazgeçilmez sıvısı",
-      "answer": "SU",
-      "row": 6,
+      "text": "Mutlu",
+      "answer": "MESUT",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ceylan",
-      "answer": "AHU",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Parmak ucunda yapılan dans sanatı",
-      "answer": "BALE",
+      "text": "Maçın devresi",
+      "answer": "YARI",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Vücutta kanın dolaştığı yol",
-      "answer": "DAMAR",
-      "row": 7,
+      "text": "Ansızın, beklenmedik",
+      "answer": "ANİ",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Minareden okunan davet",
-      "answer": "EZAN",
-      "row": 0,
+      "text": "Çiçek tozu",
+      "answer": "POLEN",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Seyhan Nehri kıyısındaki ilimiz",
-      "answer": "ADANA",
-      "row": 7,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Beyaz yağış",
-      "answer": "KAR",
+      "text": "Kağıt tutturucu",
+      "answer": "ZIMBA",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Parkta oturmak için konan sıra",
-      "answer": "BANK",
-      "row": 4,
+      "text": "Adına davranma",
+      "answer": "TEMSİL",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -288,15 +253,23 @@
       "col": 4
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 0,
+      "col": 7
     },
     {
-      "row": 5,
-      "col": 4
+      "row": 1,
+      "col": 3
     },
     {
-      "row": 5,
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 4,
       "col": 7
     },
     {
@@ -304,16 +277,20 @@
       "col": 0
     },
     {
-      "row": 9,
-      "col": 8
+      "row": 11,
+      "col": 6
     },
     {
-      "row": 10,
-      "col": 8
+      "row": 11,
+      "col": 7
     },
     {
       "row": 12,
-      "col": 8
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 7
     }
   ],
   "difficulty": "kolay",

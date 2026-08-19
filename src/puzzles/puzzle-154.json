@@ -5,226 +5,205 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Futbolda topu arkadaşa gönderme",
-      "answer": "PAS",
+      "text": "Çok büyük",
+      "answer": "DEVASA",
       "row": 1,
-      "col": 0,
-      "arrow": "right"
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Tek, yalnız",
-      "answer": "BİR",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Anne",
-      "answer": "ANA",
+      "text": "Olay, durum",
+      "answer": "VAKA",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Zarfa yapıştırılan ücret kağıdı",
-      "answer": "PUL",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırıtma, cilvelenme",
-      "answer": "NAZ",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Matem",
-      "answer": "YAS",
-      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ekleme, katma",
-      "answer": "EK",
+      "text": "Yerine getirme",
+      "answer": "İFA",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Mikroskop camı",
+      "answer": "LAMEL",
       "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Isıya dayanıklı lif",
+      "answer": "ASBEST",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Alt karşıtı",
+      "answer": "ÜST",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çayır bitkisi",
+      "answer": "OT",
+      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İsim",
-      "answer": "AD",
-      "row": 5,
-      "col": 2,
+      "text": "Sağlam, dayanıklı",
+      "answer": "PEK",
+      "row": 7,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yılın dördüncü ayı",
-      "answer": "NİSAN",
-      "row": 6,
-      "col": 2,
+      "text": "Nâzım Hikmet'in soyadı",
+      "answer": "RAN",
+      "row": 7,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
-      "row": 6,
+      "text": "Çatı örtüsü",
+      "answer": "KİREMİT",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yumuşak, yağlı bakım ürünü",
-      "answer": "KREM",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kutsal bir şey üzerine söz verme",
-      "answer": "ANT",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir işin başı ile sonu arasındaki zaman",
-      "answer": "SÜRE",
+      "text": "Çay ilimiz",
+      "answer": "RİZE",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Element tablosunda Berilyum'un simgesi",
-      "answer": "BE",
+      "text": "Fırlat, savur",
+      "answer": "AT",
       "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Japon şiiri, türküsü",
-      "answer": "UTA",
+      "text": "Vücut yapısı bilimi",
+      "answer": "ANATOMİ",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Aşırı yağışın oluşturduğu taşkın",
-      "answer": "SEL",
+      "text": "Bal rengi göz",
+      "answer": "ELA",
       "row": 10,
-      "col": 4,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "İçe doğan mutluluk hâli",
-      "answer": "NEŞE",
+      "text": "Erkek insan, kişi",
+      "answer": "ADAM",
       "row": 11,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Element tablosunda Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Ortası sarı, yaprakları beyaz kır çiçeği",
-      "answer": "PAPATYA",
-      "row": 0,
+      "text": "Yer kabartısı",
+      "answer": "DAĞ",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hayatın vazgeçilmez sıvısı",
-      "answer": "SU",
-      "row": 8,
+      "text": "Sarmal",
+      "answer": "SPİRAL",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Düşünme, muhakeme yetisi",
-      "answer": "US",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırışık gideren araç",
-      "answer": "ÜTÜ",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kütüklerden yapılma su taşıtı",
-      "answer": "SAL",
+      "text": "Doğum günü tatlısı",
+      "answer": "KEK",
       "row": 0,
-      "col": 3,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Cumhuriyetin başkenti",
-      "answer": "ANKARA",
+      "text": "Gümüş balığı",
+      "answer": "ATERİNA",
       "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Üç zamanlı dans",
+      "answer": "VALS",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Trakya'daki tarihi başkentimiz",
-      "answer": "EDİRNE",
+      "text": "Aynı biçimde",
+      "answer": "KEZA",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Korku ünlemi",
+      "answer": "ABO",
       "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Parkta oturmak için konan sıra",
-      "answer": "BANK",
-      "row": 0,
+      "text": "Satılan mal",
+      "answer": "META",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bakışım",
+      "answer": "SİMETRİ",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Su birikintisi oluşturan baraj duvarı",
-      "answer": "SET",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Selenyum'un simgesi",
-      "answer": "SE",
+      "text": "Şairce ateş",
+      "answer": "OD",
       "row": 9,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Pencerede kullanılan saydam madde",
-      "answer": "CAM",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Elin parmak sayısı",
-      "answer": "BEŞ",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğu Karadeniz'in yeşil ilimiz",
-      "answer": "RİZE",
+      "text": "Tel bölme",
+      "answer": "KAFES",
       "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tayin",
+      "answer": "ATAMA",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sarı maden",
+      "answer": "ALTIN",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Atın ense kısmındaki uzun kıllar",
-      "answer": "YELE",
-      "row": 7,
+      "text": "Küçük ekip",
+      "answer": "TİM",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     }
@@ -236,7 +215,11 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
     },
     {
       "row": 0,
@@ -244,31 +227,27 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 5
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
+      "row": 0,
       "col": 7
     },
     {
-      "row": 11,
+      "row": 1,
       "col": 0
     },
     {
-      "row": 11,
-      "col": 1
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 0
     }
   ],
   "difficulty": "kolay",

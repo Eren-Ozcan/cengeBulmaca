@@ -5,156 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Kozdaki üstün kağıt",
-      "answer": "ATU",
+      "text": "Kokulu bahçe çiçeği",
+      "answer": "ŞEBBOY",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Üzücü olay",
+      "answer": "FACİA",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Görme engelli kişi (eski dilde)",
-      "answer": "AMA",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Rütbesiz asker",
-      "answer": "ER",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Konuşma organı; lisan",
-      "answer": "DİL",
+      "text": "Cümle âlem",
+      "answer": "HERKES",
       "row": 3,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Seçimde kullanılan tercih",
-      "answer": "OY",
+      "text": "İlk Yunan harfi",
+      "answer": "ALFA",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bir şeyin geçtiğini gösteren işaret",
-      "answer": "İZ",
+      "text": "Volkanik kaya",
+      "answer": "BAZALT",
       "row": 4,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Görme organı",
+      "answer": "GÖZ",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gemi yapım ve onarım yeri",
-      "answer": "DOK",
-      "row": 5,
-      "col": 2,
+      "text": "Yok karşıtı",
+      "answer": "VAR",
+      "row": 6,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yerine getirme",
-      "answer": "İFA",
-      "row": 6,
+      "text": "Somunlu vida",
+      "answer": "CIVATA",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bacadan çıkan siyah kalıntı",
-      "answer": "İS",
-      "row": 6,
+      "text": "Yeşile çalan kahverengi",
+      "answer": "ELA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Öğütülmüş tahıl",
+      "answer": "UN",
+      "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "'-la, -le' yerine kullanılan bağlaç",
-      "answer": "İLE",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Enerji ölçü birimi",
-      "answer": "KALORİ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir şeyi belirten iz",
-      "answer": "İM",
+      "text": "Sevinç, memnunluk",
+      "answer": "KIVANÇ",
       "row": 9,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kripton için kullanılan kimyasal simge",
-      "answer": "KR",
-      "row": 7,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Eylül sonunda başlayan burç",
-      "answer": "TERAZİ",
+      "text": "Satrançta kral",
+      "answer": "ŞAH",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gemi topluluğu",
-      "answer": "FİLO",
-      "row": 5,
+      "text": "Omurgasız hayvan",
+      "answer": "BÖCEK",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kraliçe",
+      "answer": "ECE",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Duvarlarla ayrılmış ev bölümü",
-      "answer": "ODA",
-      "row": 3,
+      "text": "Şiddetli, tehlikeli",
+      "answer": "AZILI",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Azıcık",
+      "answer": "BİRAZ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dalga yoluyla ses yayını yapan araç",
-      "answer": "RADYO",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyük boyutlu",
-      "answer": "İRİ",
+      "text": "Arap harfi",
+      "answer": "VAV",
       "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Şerbetli yufka tatlısı",
+      "answer": "BAKLAVA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 1,
+      "text": "Açık mor",
+      "answer": "EFLATUN",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Havsız ince dokuma yaygı",
-      "answer": "KİLİM",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Futbolda gol çizgisinin gerisi",
-      "answer": "KALE",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Selenyum'un kimyasal simgesi",
-      "answer": "SE",
-      "row": 5,
+      "text": "Şah mat oyunu",
+      "answer": "SATRANÇ",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -162,43 +148,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 0
     },
     {
       "row": 0,
       "col": 5
     },
     {
-      "row": 1,
-      "col": 3
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 3,
-      "col": 2
-    },
-    {
-      "row": 7,
-      "col": 1
-    },
-    {
-      "row": 8,
+      "row": 0,
       "col": 6
     },
     {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 6
+      "row": 4,
+      "col": 0
     }
   ],
   "difficulty": "kolay",

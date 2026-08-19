@@ -5,212 +5,177 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Ümit",
-      "answer": "UMUT",
+      "text": "Baltalama",
+      "answer": "SABOTAJ",
       "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hükümdarların taşıdığı değnek",
-      "answer": "ASA",
-      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kongresiyle Kurtuluş Savaşı tarihine geçen ilimiz",
-      "answer": "SİVAS",
-      "row": 3,
-      "col": 2,
+      "text": "Osmanlı unvanı",
+      "answer": "BEY",
+      "row": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Mal karşılığı mal alma",
-      "answer": "TAKAS",
+      "text": "Eğe kemikleri",
+      "answer": "KABURGA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çelişkisiz",
+      "answer": "TUTARLI",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Besinlerdeki enerji ölçüsü",
-      "answer": "KALORİ",
+      "text": "Toynağa çakılan",
+      "answer": "NAL",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sabahın ilk ışıkları",
-      "answer": "TAN",
+      "text": "Kocaman",
+      "answer": "İRİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Dağın alt bölümü",
+      "answer": "ETEK",
       "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Fars ülkesi",
+      "answer": "İRAN",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tutkulu bağlılık",
+      "answer": "AŞK",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tütün rengi",
+      "answer": "TABA",
+      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gemisiyle ünlü peygamber",
-      "answer": "NUH",
-      "row": 6,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kişiye verilen isim",
-      "answer": "AD",
-      "row": 7,
-      "col": 5,
+      "text": "Erkek kardeş",
+      "answer": "BİRADER",
+      "row": 9,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kıskaçlı kabuklu deniz hayvanı",
-      "answer": "YENGEÇ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir şeyi belirten iz",
-      "answer": "İM",
-      "row": 8,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Periyodik tablodaki Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çizgili Afrika hayvanı",
-      "answer": "ZEBRA",
+      "text": "Yeryüzü toprağı",
+      "answer": "ARAZİ",
       "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "La'dan sonraki nota",
-      "answer": "Sİ",
+      "text": "Sağlıklı olma",
+      "answer": "AFİYET",
       "row": 11,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bir şeyin malı olan",
-      "answer": "AİT",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yere değen uzuv",
-      "answer": "AYAK",
-      "row": 1,
+      "text": "Durgunluk, sükûnet",
+      "answer": "SÜKUN",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ciğerlere çekilen hava",
-      "answer": "NEFES",
+      "text": "Resmî 'bu'",
+      "answer": "İŞBU",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Zihinsel güç",
-      "answer": "US",
-      "row": 0,
+      "text": "Babaya dayalı düzen",
+      "answer": "ATAERKİ",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sarı, kokulu yaz meyvesi",
-      "answer": "KAVUN",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Olağanüstü halk anlatısı",
-      "answer": "MASAL",
-      "row": 0,
+      "text": "Ağaç aracı",
+      "answer": "BALTA",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Cıva'nın simgesi",
-      "answer": "HG",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Urfa yöresine özgü acı biber",
-      "answer": "İSOT",
-      "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Batı Anadolu yiğidi",
-      "answer": "EFE",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Demircilikte metalin işlenmeye elverişli kızgınlık derecesi",
-      "answer": "TAV",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Mısır mitolojisinde güneş tanrısı",
-      "answer": "RA",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Baryum'un kimyasal simgesi",
-      "answer": "BA",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 2,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyük boyutlu",
-      "answer": "İRİ",
+      "text": "Kitaplık bölmesi",
+      "answer": "RAF",
       "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok yiyen",
+      "answer": "OBUR",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek parça giysi",
+      "answer": "ENTARİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ev ayakkabısı",
+      "answer": "TERLİK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Göreve talip",
+      "answer": "ADAY",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Damızlık at",
+      "answer": "AYGIR",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kolay kızan, hırçın",
-      "answer": "AKSİ",
-      "row": 0,
-      "col": 7,
+      "text": "Hamur parçası",
+      "answer": "BEZE",
+      "row": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Düğünde gelinle evlenen erkek",
-      "answer": "DAMAT",
-      "row": 6,
+      "text": "Sigara artığı",
+      "answer": "İZMARİT",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -222,26 +187,22 @@
     },
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
-      "col": 4
+      "col": 3
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 1,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 5,
+      "row": 2,
       "col": 7
     },
     {
@@ -249,16 +210,16 @@
       "col": 0
     },
     {
-      "row": 9,
-      "col": 2
+      "row": 6,
+      "col": 6
     },
     {
-      "row": 9,
-      "col": 3
+      "row": 10,
+      "col": 0
     },
     {
       "row": 11,
-      "col": 3
+      "col": 0
     }
   ],
   "difficulty": "zor",

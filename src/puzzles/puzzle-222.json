@@ -5,296 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Bir kurulun üyesi (eski dilde)",
-      "answer": "AZA",
+      "text": "Kaba saba kimse",
+      "answer": "AYI",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yankı",
-      "answer": "EKO",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir fazlası olan sayı",
-      "answer": "İKİ",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İlaç, merhem (halk dili)",
-      "answer": "EM",
-      "row": 1,
-      "col": 7,
+      "text": "Ağırlık birimi",
+      "answer": "ONS",
+      "row": 0,
+      "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Doğuma yardım eden sağlıkçı",
-      "answer": "EBE",
+      "text": "Hayvan barınağı",
+      "answer": "AHIR",
       "row": 2,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Beraberlik bildiren bağlaç",
-      "answer": "İLE",
+      "text": "Kör",
+      "answer": "AMA",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Mutluluk",
+      "answer": "SAADET",
       "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Televizyonda haberleri okuyan kişi",
-      "answer": "SPİKER",
-      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Latife",
-      "answer": "ŞAKA",
+      "text": "Bölge",
+      "answer": "MINTIKA",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Aldırış etme",
+      "answer": "UMUR",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Söylence, efsanevi anlatı",
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Biberin verdiği",
+      "answer": "ACI",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gümüş element",
+      "answer": "NİKEL",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Söylence, efsane",
       "answer": "MİT",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ege bölgesinin geleneksel yiğidi",
-      "answer": "EFE",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "'Ne oldu?' daki soru kelimesi",
-      "answer": "NE",
-      "row": 6,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Merkezdeki, dahili",
-      "answer": "İÇ",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kalay'ın kimyasal simgesi",
-      "answer": "SN",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Kripton'un simgesi",
-      "answer": "KR",
-      "row": 7,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Suriye'den Türkiye'ye akan nehir",
-      "answer": "ASİ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Vücudu hareket ettiren doku",
-      "answer": "KAS",
+      "text": "Renk dizisi",
+      "answer": "TAYF",
       "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Nikel'in simgesi",
-      "answer": "Nİ",
+      "text": "Para gönderme",
+      "answer": "HAVALE",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sivri uçlu fırlatma silahı",
-      "answer": "OK",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yağmur sularının biriktiği yatak",
-      "answer": "DERE",
+      "text": "Özgür",
+      "answer": "HÜR",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Arap alfabesinin ilk harfi",
-      "answer": "ELİF",
+      "text": "Araç yakıtı",
+      "answer": "MAZOT",
       "row": 10,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yarı karanlık",
-      "answer": "LOŞ",
+      "text": "Anlatan söz",
+      "answer": "İBARE",
       "row": 11,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Do'dan sonraki nota",
-      "answer": "RE",
-      "row": 11,
-      "col": 6,
+      "text": "Su geçirmez mont",
+      "answer": "ANORAK",
+      "row": 12,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Renkli kanatlarıyla uçan böcek",
-      "answer": "KELEBEK",
-      "row": 11,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir işaret sıfatı",
-      "answer": "ŞU",
-      "row": 4,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Çizgili Afrika hayvanı",
-      "answer": "ZEBRA",
+      "text": "Tereyağı türü",
+      "answer": "YAĞ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gemilerin yanaştığı yer",
-      "answer": "İSKELE",
-      "row": 6,
+      "text": "Tırnak bakımı",
+      "answer": "MANİKÜR",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Boynuzlu, inatçı evcil hayvan",
-      "answer": "KEÇİ",
-      "row": 4,
+      "text": "Deveyi çöktürme ünlemi",
+      "answer": "IH",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Oyuncuya verilen karakter",
-      "answer": "ROL",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İçinde yabancı madde bulunmayan",
-      "answer": "SAF",
+      "text": "Buluş yapan",
+      "answer": "MUCİT",
       "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Diş izi",
+      "answer": "ISIRIK",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İçe doğan mutluluk hâli",
-      "answer": "NEŞE",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Takım, kadro",
-      "answer": "EKİP",
+      "text": "Nispet",
+      "answer": "ORAN",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yeni karşıtı",
-      "answer": "ESKİ",
-      "row": 5,
+      "text": "Delikli kumaş",
+      "answer": "ETAMİN",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Havsız ince dokuma yaygı",
-      "answer": "KİLİM",
-      "row": 0,
+      "text": "Dede, cet",
+      "answer": "ATA",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Sodyum'un simgesi",
-      "answer": "NA",
+      "text": "Musluklu yıkama yeri",
+      "answer": "LAVABO",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bir ülkenin kadın hükümdarı",
-      "answer": "ECE",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tarlada yetişen tahıl bitkisi",
-      "answer": "EKİN",
-      "row": 2,
+      "text": "Bağlı, vefalı",
+      "answer": "SADIK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bir nota (do,re,mi,fa,sol...)",
-      "answer": "SOL",
+      "text": "Kitap yazan",
+      "answer": "YAZAR",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dağın ovaya değdiği alt kısmı",
-      "answer": "ETEK",
-      "row": 3,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Temizlenmesi gereken pislik",
-      "answer": "KİR",
-      "row": 8,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Menekşe rengi",
-      "answer": "MOR",
+      "text": "Bulunulan yer",
+      "answer": "MEKAN",
       "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Bitki örtüsü",
+      "answer": "FLORA",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun, dar tahta",
+      "answer": "LATA",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Radyum için kullanılan kimyasal simge",
-      "answer": "RA",
-      "row": 6,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Demir'in simgesi",
-      "answer": "FE",
-      "row": 9,
+      "text": "Belden aşağı giysi",
+      "answer": "ETEK",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
@@ -302,39 +232,51 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 3
     },
     {
       "row": 0,
-      "col": 6
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 0,
-      "col": 8
+      "row": 3,
+      "col": 0
     },
     {
       "row": 5,
       "col": 8
     },
     {
-      "row": 11,
-      "col": 4
+      "row": 6,
+      "col": 6
     },
     {
-      "row": 12,
-      "col": 7
-    },
-    {
-      "row": 12,
+      "row": 6,
       "col": 8
+    },
+    {
+      "row": 7,
+      "col": 8
+    },
+    {
+      "row": 11,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 2
+    },
+    {
+      "row": 12,
+      "col": 0
+    },
+    {
+      "row": 12,
+      "col": 1
     }
   ],
   "difficulty": "zor",

@@ -5,240 +5,205 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Parthenon Tapınağı'nın kenti",
-      "answer": "ATİNA",
+      "text": "Gelirli mülk",
+      "answer": "İRAT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İskambilde birli kağıt",
-      "answer": "AS",
-      "row": 0,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Göğüs kafesindeki kan pompalayan organ",
-      "answer": "KALP",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Anlama, hatırlama ünlemi",
-      "answer": "HA",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kötü karşıtı",
-      "answer": "İYİ",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Rusların 'evet' demesi",
-      "answer": "DA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bilgisayar programının yazıldığı metin",
-      "answer": "KOD",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Magnezyum'un kimyasal simgesi",
-      "answer": "MG",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağlama edatı",
-      "answer": "VE",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Düşünme, muhakeme yetisi",
-      "answer": "US",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kocaman",
-      "answer": "İRİ",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Nikel'in kimyasal simgesi",
-      "answer": "Nİ",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kör kimse",
-      "answer": "AMA",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Depolanan yiyecek malzemesi",
-      "answer": "ERZAK",
-      "row": 8,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İyileşme, sağlığa kavuşma",
-      "answer": "ŞİFA",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gam dizisinde üçüncü nota",
-      "answer": "Mİ",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bacaları yuva olarak seçen göçmen kuş",
-      "answer": "LEYLEK",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kişneyen binek hayvanı",
-      "answer": "AT",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Karadeniz mutfağının vazgeçilmez küçük balığı",
-      "answer": "HAMSİ",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski dilde yapma, gerçekleştirme",
-      "answer": "İKA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Do'dan sonraki nota",
-      "answer": "RE",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ülkenin idari bölümü",
-      "answer": "İL",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Zeybek oynayan yiğit",
-      "answer": "EFE",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırmızıya çalan renk",
-      "answer": "AL",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tarıma elverişli düzlük alan",
-      "answer": "OVA",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tekerleklerin üzerinde kaydığı demir yol",
-      "answer": "RAY",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Fırında pişen yassı ekmek türü",
-      "answer": "PİDE",
+      "text": "Patlama sesi",
+      "answer": "GÜM",
       "row": 1,
-      "col": 5,
-      "arrow": "down"
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Kendini beğendirme cilvesi",
-      "answer": "NAZ",
+      "text": "Hatırat, andaç",
+      "answer": "ANI",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski dilde ödeme",
+      "answer": "İTA",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Atlama şemsiyesi",
+      "answer": "PARAŞÜT",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Oyun aracı",
+      "answer": "TOP",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gövdenin ortası",
+      "answer": "BEL",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Nakleden kimse",
+      "answer": "RAVİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Zarar tehlikesi",
+      "answer": "RİSK",
       "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kişi, şahıs",
+      "answer": "ZAT",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Japon türküsü",
+      "answer": "UTA",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Alkollü içki",
+      "answer": "ALKOL",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çaygillerden süs çiçeği",
+      "answer": "KAMELYA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Özen",
+      "answer": "İTİNA",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilinç durumu",
+      "answer": "TRANS",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sonuç yazısı",
+      "answer": "RAPOR",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Anma, söyleme",
+      "answer": "ZİKİR",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sermaye",
+      "answer": "ANAPARA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Soyun büyüğü",
+      "answer": "ATA",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun yol kamyonu",
+      "answer": "TIR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Besin ögesi",
+      "answer": "VİTAMİN",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Okyanus derinliği",
+      "answer": "ABİS",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Göz merceği",
+      "answer": "LENS",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilet penceresi",
+      "answer": "GİŞE",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tespihin uç tanesi",
-      "answer": "İMAME",
+      "text": "Oyuncak figür",
+      "answer": "KUKLA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ütülenmiş olan",
+      "answer": "ÜTÜLÜ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Deneyimsiz, acemi",
+      "answer": "TOY",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Televizyonda haberleri okuyan kişi",
-      "answer": "SPİKER",
+      "text": "Satrançta yenilgi",
+      "answer": "MAT",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yüzük taşı olarak kullanılan mineral",
-      "answer": "AKİK",
-      "row": 7,
+      "text": "Ayak tabanı cezası",
+      "answer": "FALAKA",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -246,47 +211,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 3
+      "col": 4
     },
     {
       "row": 4,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 5,
-      "col": 6
+      "row": 6,
+      "col": 0
     },
     {
       "row": 8,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
+      "row": 10,
+      "col": 6
     },
     {
       "row": 11,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 11,
+      "col": 6
     }
   ],
   "difficulty": "zor",

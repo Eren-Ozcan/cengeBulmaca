@@ -5,247 +5,212 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Sırbistan'ın başkenti",
-      "answer": "BELGRAD",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Düdük sesi",
-      "answer": "Tİ",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Radyum'un simgesi",
-      "answer": "RA",
-      "row": 2,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Anlama ve kavrama yetisi",
-      "answer": "ZEKA",
-      "row": 2,
+      "text": "Damla sesi",
+      "answer": "ŞIP",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bir kimse, şahıs",
-      "answer": "ADAM",
+      "text": "Hava üfleyici",
+      "answer": "KÖRÜK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Japon şiiri",
+      "answer": "UTA",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bağımsız, özgür",
+      "answer": "SERBEST",
       "row": 3,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kozalaklı, iğne yapraklı ağaç",
-      "answer": "ÇAM",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Isınma aracı",
-      "answer": "SOBA",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ruhsal dengesi bozulmuş kimse",
-      "answer": "DELİ",
-      "row": 4,
+      "text": "Sırt kemiği",
+      "answer": "OMURGA",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Satranç taşlarından biri, L şeklinde hareket eder",
-      "answer": "AT",
-      "row": 5,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Göz bebeğine yerleştirilen mercek",
-      "answer": "LENS",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mektup taşıma hizmeti",
-      "answer": "POSTA",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sandığa atılan tercih",
-      "answer": "OY",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mısır'dan geçen ırmak",
-      "answer": "NİL",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Askerlik yapan genç, nefer",
-      "answer": "ER",
-      "row": 8,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayvan yemi olarak yetiştirilen bakliyat",
-      "answer": "ARAKA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İskambilde birli",
+      "text": "Başarılı kimse",
       "answer": "AS",
+      "row": 4,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Çabuk satma",
+      "answer": "ALSAT",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ey anlamında",
+      "answer": "YA",
+      "row": 5,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "İğne süsü",
+      "answer": "OYA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Termik",
+      "answer": "ISIL",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Harita kitabı",
+      "answer": "ATLAS",
+      "row": 6,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Birlik, bölüm",
+      "answer": "ÜNİTE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İç karşıtı",
+      "answer": "DIŞ",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Süslü hayal",
+      "answer": "FANTEZİ",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Priz ucu",
+      "answer": "FİŞ",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ege sofralarının vazgeçilmez meyvesi",
-      "answer": "ZEYTİN",
+      "text": "İslam'ın beşinci şartı",
+      "answer": "HAC",
       "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Başıboş",
+      "answer": "AVARE",
+      "row": 11,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gizli patlayıcı",
+      "answer": "MAYIN",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yön bulma aracı",
+      "answer": "PUSULA",
+      "row": 0,
       "col": 2,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Karın zıddı renk",
-      "answer": "AK",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
+      "text": "Açığa çıkarma",
+      "answer": "İFŞA",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
     },
     {
-      "text": "Hatay'dan geçen ırmak",
-      "answer": "ASİ",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Şekerle kaynatılmış meyve tatlısı",
-      "answer": "REÇEL",
+      "text": "Arka yüz",
+      "answer": "TERS",
       "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Devletin koyduğu kural",
-      "answer": "YASA",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Surlarla çevrili yapı",
-      "answer": "KALE",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Nakış işlenen delikli kumaş",
-      "answer": "ETAMİN",
-      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kendini beğendirme cilvesi",
-      "answer": "NAZ",
-      "row": 7,
+      "text": "Dede, cet",
+      "answer": "ATA",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Lityum'un kimyasal simgesi",
-      "answer": "Lİ",
+      "text": "Kara kuş",
+      "answer": "KARGA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Radyo veya TV'de metin okuyan kişi",
-      "answer": "SPİKER",
+      "text": "Kalabalıksız, ıssız",
+      "answer": "TENHA",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Temelsiz inanç",
+      "answer": "BATIL",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Azerbaycan'ın telli çalgısı",
+      "answer": "TAR",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yalnızca",
+      "answer": "SADECE",
       "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yetki simgesi değnek",
-      "answer": "ASA",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Vuku bulan durum",
-      "answer": "OLAY",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sekizli dizinin ilk sesi",
-      "answer": "DO",
-      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Dört tekerlekli taşıt",
-      "answer": "ARABA",
-      "row": 0,
+      "text": "Sayılmayacak kadar",
+      "answer": "SAYISIZ",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kortta raketle oynanan spor",
-      "answer": "TENİS",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kızın ya da kız kardeşin kocası",
-      "answer": "DAMAT",
+      "text": "Mukaddes",
+      "answer": "KUTSAL",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Utanma duygusu",
-      "answer": "AR",
-      "row": 6,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 9,
+      "text": "Kebap çubuğu",
+      "answer": "ŞİŞ",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -253,15 +218,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 2
+      "col": 3
     },
     {
       "row": 0,
@@ -272,20 +233,32 @@
       "col": 6
     },
     {
-      "row": 1,
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
-      "row": 6,
+      "row": 2,
       "col": 6
     },
     {
-      "row": 7,
-      "col": 2
+      "row": 10,
+      "col": 7
     },
     {
       "row": 11,
-      "col": 3
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 7
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "zor",

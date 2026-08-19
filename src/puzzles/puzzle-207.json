@@ -5,254 +5,205 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Sırbistan'ın başkenti",
-      "answer": "BELGRAD",
+      "text": "Küçük yolcu taşıtı",
+      "answer": "MİNİBÜS",
       "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kalsiyum'un simgesi",
-      "answer": "CA",
-      "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Do'ya dönmeden önceki son nota",
-      "answer": "Sİ",
+      "text": "Kan pompası",
+      "answer": "KALP",
       "row": 2,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Denizde yük ve yolcu taşıyan araç",
-      "answer": "GEMİ",
+      "text": "Şans bahsi",
+      "answer": "BANKO",
       "row": 3,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Valinin yönettiği idari birim",
-      "answer": "İL",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kripton için kullanılan kimyasal simge",
-      "answer": "KR",
+      "text": "Otomobil",
+      "answer": "ARABA",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
+      "text": "Geçmiş gün",
+      "answer": "DÜN",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "İlk ay",
+      "answer": "OCAK",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Karın zıddı renk",
-      "answer": "AK",
+      "text": "Akdeniz sıcak rüzgârı",
+      "answer": "SİROKO",
       "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Do'dan sonra gelen nota",
-      "answer": "RE",
-      "row": 6,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Isınma aracı",
-      "answer": "SOBA",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Devletin koyduğu kural",
-      "answer": "YASA",
-      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Denizde tehlikeli sert rüzgar",
-      "answer": "BORA",
-      "row": 8,
+      "text": "Vaka, hadise",
+      "answer": "OLAY",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tuzsuz peynir",
+      "answer": "LOR",
+      "row": 7,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir yerde oturma",
+      "answer": "İKAMET",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Adem ile Havva kıssasında geçen meyve",
-      "answer": "ELMA",
+      "text": "Dağ karşıtı yer şekli",
+      "answer": "OVA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Telefon sözü",
+      "answer": "ALO",
       "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Torun sahibi yaşlı kadın",
-      "answer": "NİNE",
+      "text": "Sevinç, memnunluk",
+      "answer": "KIVANÇ",
       "row": 10,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Pislik, is",
-      "answer": "KİR",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Uzun boyunlu, iri beyaz kümes hayvanı",
-      "answer": "KAZ",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Duvarlarla ayrılmış ev bölümü",
-      "answer": "ODA",
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
       "row": 11,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Fırında pişen tatlı çörek",
-      "answer": "KEK",
-      "row": 12,
+      "text": "Satrançta bir taş",
+      "answer": "FİL",
+      "row": 11,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Türk hükümdarı",
+      "answer": "HAKAN",
+      "row": 12,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Süt veren büyükbaş hayvan",
-      "answer": "İNEK",
-      "row": 12,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kişiye verilen isim",
-      "answer": "AD",
-      "row": 5,
-      "col": 0,
+      "text": "Süslü sanat üslubu",
+      "answer": "ROKOKO",
+      "row": 3,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Siyah ile beyaz arası renk",
-      "answer": "GRİ",
+      "text": "İnce çelik levha",
+      "answer": "SAC",
       "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski dönemden kalma büyük ev",
-      "answer": "KONAK",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir ülkenin kadın hükümdarı",
-      "answer": "ECE",
-      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tanrı ve kahramanları konu alan anlatı",
-      "answer": "MİT",
-      "row": 4,
+      "text": "Erimiş kayaç",
+      "answer": "LAV",
+      "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çayıyla ünlü Karadeniz ilimiz",
-      "answer": "RİZE",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Işık veren elektrikli araç",
-      "answer": "LAMBA",
-      "row": 0,
+      "text": "Merdiven bölümü",
+      "answer": "BASAMAK",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bir nesnenin kenar tarafı",
-      "answer": "YAN",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Üstünde yazı yazılan mobilya",
-      "answer": "MASA",
-      "row": 4,
+      "text": "Kalan, artan",
+      "answer": "BAKİYE",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Karı kocadan her biri",
-      "answer": "EŞ",
-      "row": 9,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İskoç desenli kumaş",
-      "answer": "EKOSE",
-      "row": 4,
+      "text": "Eski dilde yapma",
+      "answer": "İKA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "pH değeri 7'nin altında olan madde",
-      "answer": "ASİT",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Evin dışa taşan bölümü",
-      "answer": "BALKON",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Konuşma organı; lisan",
-      "answer": "DİL",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Mola, dinlenme süresi",
-      "answer": "ARA",
-      "row": 4,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Sindirim organı, karın boşluğundaki kese",
-      "answer": "MİDE",
-      "row": 8,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Saç bakımında kullanılan araç",
-      "answer": "TARAK",
+      "text": "Metal kızgınlığı",
+      "answer": "TAV",
       "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Denetim şeridi",
+      "answer": "BANDROL",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Dinden bağımsız",
+      "answer": "LAİK",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İdeal",
+      "answer": "ÜLKÜ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Ferahlatıcı esans",
+      "answer": "KOLONYA",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Destekleyici",
+      "answer": "SPONSOR",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak Doğu ülkesi",
+      "answer": "ÇİN",
+      "row": 9,
       "col": 8,
       "arrow": "down"
     }
@@ -268,19 +219,19 @@
     },
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 8
-    },
-    {
       "row": 1,
-      "col": 8
+      "col": 0
     },
     {
       "row": 2,
@@ -288,35 +239,47 @@
     },
     {
       "row": 2,
-      "col": 4
+      "col": 1
     },
     {
       "row": 2,
-      "col": 8
-    },
-    {
-      "row": 3,
-      "col": 8
-    },
-    {
-      "row": 4,
-      "col": 8
+      "col": 3
     },
     {
       "row": 5,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 8
+      "col": 5
     },
     {
       "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 8
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
       "col": 1
     },
     {
       "row": 11,
+      "col": 1
+    },
+    {
+      "row": 11,
+      "col": 2
+    },
+    {
+      "row": 11,
       "col": 3
+    },
+    {
+      "row": 11,
+      "col": 4
     }
   ],
   "difficulty": "zor",

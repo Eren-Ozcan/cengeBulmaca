@@ -5,240 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Konuşma organı; lisan",
+      "text": "Süprüntü",
+      "answer": "ÇÖP",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuşların ağzı",
+      "answer": "GAGA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Tutsaklık",
+      "answer": "ESARET",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Düzeltme",
+      "answer": "REFORM",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gemi bayrağı",
+      "answer": "BANDIRA",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Emeğin karşılığı",
+      "answer": "HAK",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Çölü kaplayan",
+      "answer": "KUM",
+      "row": 6,
+      "col": 2,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Lisan",
       "answer": "DİL",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kar ve süt rengi",
-      "answer": "AK",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gelin duvağının rengi",
-      "answer": "AL",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Un elemeye yarayan araç",
-      "answer": "ELEK",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir seslenme ünlemi",
-      "answer": "BRE",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ege bölgesinin geleneksel yiğidi",
-      "answer": "EFE",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Kobalt'ın simgesi",
-      "answer": "CO",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Derde deva olan madde (eski dilde)",
-      "answer": "EM",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Çinko'nun simgesi",
-      "answer": "ZN",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Topu takım arkadaşına aktarma",
-      "answer": "PAS",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yavrusunu doğuran dişi",
-      "answer": "ANA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dişleriyle yemek delen sofra aracı",
-      "answer": "ÇATAL",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kripton'un kimyasal simgesi",
-      "answer": "KR",
-      "row": 8,
+      "text": "İskambilde koz",
+      "answer": "ATU",
+      "row": 7,
       "col": 5,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kapıda çalınan araç",
-      "answer": "ZİL",
+      "text": "Yığılma",
+      "answer": "BİRİKİM",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bilgisayar programının yazıldığı metin",
-      "answer": "KOD",
+      "text": "Kumar parası",
+      "answer": "FİŞ",
       "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İki elin parmak sayısı",
-      "answer": "ON",
-      "row": 10,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kedi düşmanı küçük hayvan",
-      "answer": "FARE",
+      "text": "Soluk karşıtı",
+      "answer": "KOYU",
       "row": 10,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Girişken, çevik",
-      "answer": "ATAK",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Açlığı kalmamış",
-      "answer": "TOK",
+      "text": "Günah bedeli",
+      "answer": "KEFARET",
       "row": 11,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Do-re-mi dizisinin ilk notası",
-      "answer": "DO",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüz metrekarelik alan ölçüsü",
-      "answer": "AR",
-      "row": 2,
+      "text": "Oyunda kovalayan",
+      "answer": "EBE",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Renksiz, kokusuz atmosfer gazı",
-      "answer": "AZOT",
+      "text": "Horoz tacı",
+      "answer": "İBİK",
       "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bir süs çiçeği",
-      "answer": "LALE",
-      "row": 0,
+      "text": "Sıkıntı, eziyet, üzüntü",
+      "answer": "CEFA",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ege'nin karşı kıyısındaki başkent",
-      "answer": "ATİNA",
+      "text": "Basmakalıp söz",
+      "answer": "KLİŞE",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Atın tırnağına çakılan demir",
-      "answer": "NAL",
-      "row": 6,
+      "text": "Bir şeyin sonucu",
+      "answer": "SON",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tanrı fikrini reddeden kişi",
-      "answer": "ATE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Işıltılı, rengarenk bir süs taşı",
-      "answer": "OPAL",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Futbolda gol çizgisinin gerisi",
-      "answer": "KALE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir binanın yatay bölümü",
-      "answer": "KAT",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Soluk",
-      "answer": "NEFES",
+      "text": "Korunma duruşu",
+      "answer": "GARD",
       "row": 1,
-      "col": 6,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Birlikte şarkı söyleyen topluluk",
-      "answer": "KORO",
+      "text": "Eski dilde yapma",
+      "answer": "İKA",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Haç biçimli darağacı",
+      "answer": "ÇARMIH",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Müzikal uyum",
+      "answer": "AKOR",
       "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Parça, unsur",
+      "answer": "ÖGE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Düdükle maçı yöneten kişi",
-      "answer": "HAKEM",
+      "text": "Geniş başlı çivi",
+      "answer": "RAPTİYE",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yarık, delik",
+      "answer": "PATLAK",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Perde ayaklı, yüzen kümes hayvanı",
-      "answer": "ÖRDEK",
-      "row": 6,
+      "text": "Ümit",
+      "answer": "UMUT",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -246,7 +190,15 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
     },
     {
       "row": 0,
@@ -254,19 +206,39 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 4
     },
     {
-      "row": 4,
-      "col": 3
+      "row": 1,
+      "col": 0
     },
     {
-      "row": 5,
+      "row": 1,
       "col": 1
     },
     {
-      "row": 7,
-      "col": 5
+      "row": 1,
+      "col": 3
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 3
     }
   ],
   "difficulty": "orta",

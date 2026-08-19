@@ -5,219 +5,177 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Nikel için kullanılan kimyasal simge",
-      "answer": "Nİ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
+      "text": "Kuşatma",
+      "answer": "ABLUKA",
       "row": 1,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Mal karşılığı mal alma",
-      "answer": "TAKAS",
+      "text": "Ansızın, beklenmedik",
+      "answer": "ANİ",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cüsseli, büyük",
-      "answer": "İRİ",
+      "text": "Dolaşma",
+      "answer": "TUR",
       "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "En az",
+      "answer": "ASGARİ",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Osmanlı unvanı",
+      "answer": "BEY",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İçte beslenen düşmanlık",
-      "answer": "KİN",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yangının parlak kısmı",
-      "answer": "ALEV",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırmızı veya beyazı olan besin",
-      "answer": "ET",
+      "text": "Canı yanma sesi",
+      "answer": "UF",
       "row": 4,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Tarladaki tahıl",
-      "answer": "EKİN",
+      "text": "Semt bölümü",
+      "answer": "MAHALLE",
       "row": 5,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kızıl gezegen",
-      "answer": "MARS",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sarı veya mor renkli çekirdekli meyve",
-      "answer": "ERİK",
-      "row": 6,
+      "text": "Yasa yapma",
+      "answer": "YASAMA",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kağıda düşülen kısa bilgi",
-      "answer": "NOT",
+      "text": "Kabuklu güz meyvesi",
+      "answer": "NAR",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Katıksız, saf",
+      "answer": "HAS",
       "row": 7,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Büyük erkek kardeş (halk ağzı)",
-      "answer": "AKA",
+      "text": "Anlatım, açıklama",
+      "answer": "İFADE",
       "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Allah'ın varlığını kabul etmeyen kimse",
-      "answer": "ATE",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağırlık birimi (1000 gram)",
-      "answer": "KİLO",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dönümün onda biri olan ölçü",
-      "answer": "AR",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kağıt üzerine basılan günlük yayın",
-      "answer": "GAZETE",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mısır mitolojisinde güneş tanrısı",
-      "answer": "RA",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tahılla karışık ekilen bir bakliyat",
-      "answer": "ARAKA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "'-la, -le' yerine kullanılan söz",
-      "answer": "İLE",
-      "row": 2,
       "col": 2,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Aynı doğumda dünyaya gelen kardeşlerden her biri",
-      "answer": "İKİZ",
-      "row": 6,
+      "text": "Tıkanmış",
+      "answer": "TIKANIK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Maksimum",
+      "answer": "AZAMİ",
+      "row": 10,
       "col": 2,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Kişneyen binek hayvanı",
-      "answer": "AT",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dilbilgisinde kelimeye eklenen parça",
-      "answer": "EK",
+      "text": "Geçici bırakılan",
+      "answer": "EMANET",
       "row": 3,
-      "col": 3,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Savunma amaçlı taş yapı",
-      "answer": "KALE",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ay ve günleri gösteren çizelge",
-      "answer": "TAKVİM",
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
       "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tekrar isteği",
+      "answer": "BİS",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Olağanüstü",
+      "answer": "HARİKA",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kilogramın binde biri",
+      "answer": "GRAM",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yeşil, küçük bitki",
-      "answer": "OT",
-      "row": 8,
+      "text": "Evre, safha",
+      "answer": "FAZ",
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çiftin ilk sayısı",
-      "answer": "İKİ",
+      "text": "Japon türküsü",
+      "answer": "UTA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Emile Zola'nın ünlü romanı",
-      "answer": "NANA",
+      "text": "Katmerli sebze",
+      "answer": "LAHANA",
       "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Güzel kokulu bir bitki",
-      "answer": "NANE",
+      "text": "Görevli topluluk",
+      "answer": "KURUL",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İzlenecek yol",
-      "answer": "ROTA",
-      "row": 5,
+      "text": "Yürüme hareketi",
+      "answer": "ADIM",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Alanında en iyi olan kişi",
-      "answer": "AS",
+      "text": "Önceki gün",
+      "answer": "ARİFE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kesme aracı, diş diş bıçak",
-      "answer": "TESTERE",
-      "row": 3,
+      "text": "Taş oturak",
+      "answer": "SEKİ",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -225,19 +183,31 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 2
+      "col": 4
     },
     {
-      "row": 5,
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
       "row": 10,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
     }
   ],
   "difficulty": "zor",

@@ -5,310 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Acı, üzüntü bildiren ünlem",
-      "answer": "AH",
+      "text": "Sentetik madde",
+      "answer": "PLASTİK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yanardağ",
-      "answer": "VOLKAN",
-      "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Emek verilerek üretilen yapıt",
-      "answer": "ESER",
+      "text": "Gösterme sözü",
+      "answer": "İŞTE",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Asıl, esas olan",
-      "answer": "ANA",
+      "text": "Ansızın, beklenmedik",
+      "answer": "ANİ",
       "row": 2,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Sıkıntı veren üzücü sorun",
-      "answer": "DERT",
+      "text": "Kurbağa yavrusu",
+      "answer": "İRİBAŞ",
       "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sürü halinde avlanan yabani hayvan",
-      "answer": "KURT",
-      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Babanın kız kardeşi",
-      "answer": "HALA",
+      "text": "İnce metal çubuk",
+      "answer": "TEL",
       "row": 4,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İsim",
-      "answer": "AD",
-      "row": 5,
-      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Belirti, emare",
-      "answer": "İZ",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Toplu konutlarda bir bina birimi",
-      "answer": "BLOK",
-      "row": 6,
+      "text": "Tek, yalnız",
+      "answer": "BİR",
+      "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Ahırda hayvana verilen gıda",
-      "answer": "YEM",
-      "row": 6,
+      "text": "Bitki bilimi",
+      "answer": "BOTANİK",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Evin bölmesi",
+      "answer": "ODA",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
-      "row": 7,
+      "text": "Güreş alanı",
+      "answer": "ARENA",
+      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gam dizisinde altıncı nota",
-      "answer": "LA",
+      "text": "Anlatan söz",
+      "answer": "İBARE",
       "row": 7,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Saç tutturma aracı",
-      "answer": "TOKA",
-      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ekmek yapımında kullanılan toz madde",
-      "answer": "UN",
-      "row": 8,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağış amaçlı toplanan para",
-      "answer": "İANE",
-      "row": 8,
+      "text": "Kül rengi",
+      "answer": "GRİ",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bir şeyin ortasındaki bölüm",
-      "answer": "İÇ",
+      "text": "Özen",
+      "answer": "İTİNA",
       "row": 8,
-      "col": 5,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Bir uzunluk ölçüsü",
-      "answer": "MİL",
+      "text": "İnce, uzun boylu",
+      "answer": "ELİF",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyük bakır kap",
+      "answer": "LENGER",
       "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kripton için kullanılan kimyasal simge",
-      "answer": "KR",
-      "row": 10,
-      "col": 6,
+      "text": "Kahverengi benek",
+      "answer": "ÇİL",
+      "row": 11,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bazı Körfez ülkelerinin para birimi",
-      "answer": "RİYAL",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Deneyimsiz, acemi",
-      "answer": "TOY",
+      "text": "Kıbrıs, Girit gibi",
+      "answer": "ADA",
       "row": 11,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Ferahlatıcı kokusuyla bilinen bitki",
-      "answer": "NANE",
+      "text": "Merhamet duygusu",
+      "answer": "ACIMA",
       "row": 12,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Rusça onay sözcüğü",
-      "answer": "DA",
-      "row": 12,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Helyum'un simgesi",
-      "answer": "HE",
+      "text": "Kaldırma makinesi",
+      "answer": "LİFT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Farsça kökenli eski 'ayak' sözcüğü",
-      "answer": "PA",
-      "row": 3,
+      "text": "Mukavemet",
+      "answer": "DİRENÇ",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İşlemecilikte kullanılan seyrek dokuma kumaş",
-      "answer": "ETAMİN",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 1,
+      "text": "Aşevinde dağıtılan",
+      "answer": "AŞ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Salataya sıkılan ekşi meyve",
-      "answer": "LİMON",
+      "text": "Kırlangıç benzeri kuş",
+      "answer": "EBABİL",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dolma kalem",
+      "answer": "STİLO",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ne olursa olsun",
+      "answer": "İLLA",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıcakta akan",
+      "answer": "TER",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Fiyat çizelgesi",
+      "answer": "TARİFE",
       "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Vurgu bildiren ünlem",
-      "answer": "YA",
-      "row": 10,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İki kelimeyi birleştiren bağlaç",
-      "answer": "VE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Uzun boyunlu, iri beyaz kümes hayvanı",
-      "answer": "KAZ",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaylı bir çalgı",
-      "answer": "KEMAN",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir ülkenin silahlı kuvvetleri",
-      "answer": "ORDU",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eski Mısır'ın güneş tanrısı",
-      "answer": "RA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "'Vasıtasıyla' anlamındaki edat",
-      "answer": "İLE",
-      "row": 9,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Askerlik yapan genç, nefer",
-      "answer": "ER",
+      "text": "Oluşan, meydana gelen",
+      "answer": "İBARET",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Berilyum'un kimyasal simgesi",
-      "answer": "BE",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Vilayet",
-      "answer": "İL",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yırtıcı iri kuş",
-      "answer": "KARTAL",
+      "text": "Bakanlar kurulu",
+      "answer": "KABİNE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kutsal bir şey üzerine söz verme",
-      "answer": "ANT",
-      "row": 0,
+      "text": "Ses dizisi",
+      "answer": "GAM",
+      "row": 9,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce, zarif",
+      "answer": "NARİN",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Gökten yağan buz taneleri",
-      "answer": "DOLU",
-      "row": 4,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Bilgisayar programının yazıldığı metin",
-      "answer": "KOD",
+      "text": "Söyleyiş biçimi",
+      "answer": "EDA",
       "row": 9,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sodyum için kullanılan kimyasal simge",
-      "answer": "NA",
+      "text": "Çocuk dilinde idrar",
+      "answer": "ÇİŞ",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Sarı ötücü kafes kuşu",
-      "answer": "KANARYA",
-      "row": 5,
+      "text": "Ölü beden",
+      "answer": "KADAVRA",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     }
@@ -316,31 +232,47 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 5
     },
     {
       "row": 0,
-      "col": 5
+      "col": 7
     },
     {
       "row": 3,
       "col": 0
     },
     {
-      "row": 3,
-      "col": 8
+      "row": 7,
+      "col": 6
     },
     {
-      "row": 4,
-      "col": 8
+      "row": 7,
+      "col": 7
     },
     {
-      "row": 5,
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 11,
       "col": 4
     },
     {
       "row": 12,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 12,
+      "col": 1
+    },
+    {
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "zor",

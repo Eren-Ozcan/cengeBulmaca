@@ -5,155 +5,127 @@
   "cols": 7,
   "clues": [
     {
-      "text": "İnce, gümüş renkli küçük balık",
-      "answer": "ATERİNA",
+      "text": "Gemi erzağı",
+      "answer": "KUMANYA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sporda ileri hamle",
-      "answer": "ATAK",
+      "text": "Şöyle böyle",
+      "answer": "EH",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Hesaplı harcayan",
+      "answer": "TUTUMLU",
       "row": 2,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sevinç, keyif",
-      "answer": "NEŞE",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaşamın kaynağı sıvı",
-      "answer": "SU",
-      "row": 3,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yakını gösteren işaret zamiri",
-      "answer": "BU",
+      "text": "Izgara et",
+      "answer": "KEBAP",
       "row": 4,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İlçenin eski adı",
-      "answer": "KAZA",
+      "text": "Mal paylaşımı",
+      "answer": "ZEKAT",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Derin sevgi",
+      "answer": "AŞK",
       "row": 5,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Atın tırnağına çakılan demir",
-      "answer": "NAL",
+      "text": "Üye",
+      "answer": "AZA",
       "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Payitahtın eski adlarından biri",
-      "answer": "ASİTANE",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Temel niteliğinde olan",
-      "answer": "ANA",
-      "row": 8,
-      "col": 0,
+      "text": "Kâinat",
+      "answer": "EVREN",
+      "row": 7,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Geniş, verimli düzlük",
-      "answer": "OVA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Şehirden küçük kırsal yerleşim",
-      "answer": "KÖY",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yumurta veren kümes hayvanı",
-      "answer": "TAVUK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Öne sürülen görüş",
-      "answer": "SAV",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kasabın sattığı gıda",
-      "answer": "ET",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Şair Nâzım Hikmet'in aile adı",
+      "text": "Nâzım Hikmet'in soyadı",
       "answer": "RAN",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Üst meclis",
+      "answer": "SENATO",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gök-yer çizgisi",
+      "answer": "UFUK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Askerlik belgesi",
+      "answer": "TEZKERE",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tuhaf şey",
+      "answer": "ACUBE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tantal'ın simgesi",
-      "answer": "TA",
+      "text": "Kedisiyle ünlü ilimiz",
+      "answer": "VAN",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Japonların çiçek aranjmanı sanatı",
-      "answer": "İKEBANA",
-      "row": 0,
+      "text": "Haşlanan hamur",
+      "answer": "MAKARNA",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "'Bu' ve 'o' ile birlikte kullanılan işaret sözü",
-      "answer": "ŞU",
-      "row": 2,
+      "text": "Serinletme aracı",
+      "answer": "YELPAZE",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Lahza, dem",
-      "answer": "AN",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İnançsız kimse",
-      "answer": "ATE",
+      "text": "Güzel gözlü hayvan",
+      "answer": "AHU",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "'Vasıtasıyla' anlamındaki edat",
-      "answer": "İLE",
+      "text": "Ritimli dans",
+      "answer": "TANGO",
       "row": 4,
       "col": 6,
       "arrow": "down"
@@ -162,19 +134,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 2
     },
     {
-      "row": 8,
+      "row": 0,
       "col": 4
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 7,
+      "col": 0
     },
     {
       "row": 8,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 5
     }
   ],
   "difficulty": "kolay",

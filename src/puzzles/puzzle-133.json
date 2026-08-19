@@ -5,233 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "İnsanların barındığı yapı",
-      "answer": "EV",
+      "text": "Temel öz",
+      "answer": "ESAS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yeni doğmuş çocuk",
-      "answer": "BEBEK",
-      "row": 1,
+      "text": "Dişi çocuk",
+      "answer": "KIZ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sahne yapıtı",
+      "answer": "OPERA",
+      "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gıdaların enerji değeri birimi",
-      "answer": "KALORİ",
-      "row": 2,
-      "col": 1,
+      "text": "İpek eşarp",
+      "answer": "FULAR",
+      "row": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gam dizisinin ilk notası",
-      "answer": "DO",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayvansal besin maddesi",
-      "answer": "ET",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Parmağa takılan halka",
-      "answer": "YÜZÜK",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Avlanan hayvan",
-      "answer": "AV",
+      "text": "Kural dışı",
+      "answer": "FAUL",
       "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Alan ölçü birimi (100 m²)",
-      "answer": "AR",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Üzüm veren bitki",
-      "answer": "ASMA",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bedenin dinlendiği bilinç kaybı hâli",
-      "answer": "UYKU",
-      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir şeyi tanımlayan sözcük",
-      "answer": "AD",
-      "row": 7,
-      "col": 5,
+      "text": "Birinci şahıs",
+      "answer": "BEN",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Amerika kedigili",
+      "answer": "JAGUAR",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Köyde geniş arazi sahibi kişi",
-      "answer": "AĞA",
-      "row": 8,
+      "text": "Toplama, birleştirme",
+      "answer": "CEM",
+      "row": 7,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Dalga yoluyla ses yayını yapan araç",
-      "answer": "RADYO",
+      "text": "Gereç",
+      "answer": "MALZEME",
+      "row": 7,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ağaçtan silkelenen",
+      "answer": "DUT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Lahza, dem",
-      "answer": "AN",
+      "text": "Bilgin kimse",
+      "answer": "ALİM",
       "row": 9,
-      "col": 5,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Akropolis'in bulunduğu şehir",
-      "answer": "ATİNA",
+      "text": "Davranış, işlem",
+      "answer": "MUAMELE",
       "row": 10,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Seslenirken kullanılan ünlem",
-      "answer": "EY",
+      "text": "Nota okuma",
+      "answer": "SOLFEJ",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Bugünden önceki gün",
-      "answer": "DÜN",
-      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Japon halk türküsü",
-      "answer": "UTA",
-      "row": 6,
+      "text": "Elektrik yokken yakılan",
+      "answer": "MUM",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Son anda kullanılmak üzere saklanan avantaj",
-      "answer": "KOZ",
+      "text": "Anne",
+      "answer": "ANA",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kâğıtta üstün renk",
+      "answer": "ATU",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dindar kimse",
+      "answer": "SOFU",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dikenli çiçek",
+      "answer": "GÜL",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Pul yapıştırılmış",
+      "answer": "PULLU",
       "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gece gökyüzünde parlayan uydumuz",
-      "answer": "AY",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Baryum'un simgesi",
-      "answer": "BA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İkiden sonra gelen sayı",
-      "answer": "ÜÇ",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sert, büyük taş parçası",
-      "answer": "KAYA",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Un elemeye yarayan araç",
-      "answer": "ELEK",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Altın'ın kimyasal simgesi",
-      "answer": "AU",
-      "row": 5,
+      "text": "Maaşa yapılan",
+      "answer": "ZAM",
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çayırı kaplayan bitki",
-      "answer": "OT",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Konçlu ayakkabı",
-      "answer": "BOT",
+      "text": "Dazlak",
+      "answer": "KEL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İskambilde birli",
-      "answer": "AS",
-      "row": 4,
+      "text": "Çabukluk",
+      "answer": "ACELE",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Rütbesiz asker",
-      "answer": "ER",
+      "text": "Komşu ülke",
+      "answer": "IRAK",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hediye",
-      "answer": "ARMAĞAN",
-      "row": 3,
+      "text": "Kum falı",
+      "answer": "REMİL",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ukrayna'nın başkenti",
-      "answer": "KİEV",
+      "text": "Doku perdesi",
+      "answer": "ZAR",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Çukurova'nın büyük şehri",
-      "answer": "ADANA",
-      "row": 5,
+      "text": "Süt organı",
+      "answer": "MEME",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -239,27 +190,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
-      "col": 2
+      "col": 4
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 5
+    },
+    {
+      "row": 4,
+      "col": 7
     },
     {
       "row": 5,
+      "col": 7
+    },
+    {
+      "row": 7,
       "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 1
     }
   ],
   "difficulty": "kolay",

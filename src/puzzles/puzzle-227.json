@@ -5,303 +5,240 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Postayla gönderilen yazılı ileti",
-      "answer": "MEKTUP",
+      "text": "Delik açma aracı",
+      "answer": "MATKAP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Lityum'un kimyasal simgesi",
-      "answer": "Lİ",
-      "row": 0,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Periyodik tablodaki Galyum'un simgesi",
-      "answer": "GA",
+      "text": "Üç zamanlı dans",
+      "answer": "VALS",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kanı taşıyan kanal",
-      "answer": "DAMAR",
+      "text": "İğneyle yapılan koruma",
+      "answer": "AŞI",
       "row": 2,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Fındık rengi göz",
-      "answer": "ELA",
+      "text": "Bilgiçlik taslayan",
+      "answer": "UKALA",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Do'ya dönmeden önceki son nota",
-      "answer": "Sİ",
+      "text": "Kumaşın genişliği",
+      "answer": "EN",
       "row": 3,
-      "col": 4,
+      "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Dağda duyulan ses yansıması",
-      "answer": "EKO",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Saniyenin küçük bir bölümü",
-      "answer": "AN",
-      "row": 3,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kazıyarak yapılan süsleme",
-      "answer": "OYMA",
+      "text": "Uzun karşıtı",
+      "answer": "KISA",
       "row": 4,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir sınıfa ait olma özelliği",
-      "answer": "TÜR",
-      "row": 5,
-      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Güneş doğmadan önceki alacakaranlık",
-      "answer": "TAN",
-      "row": 6,
-      "col": 3,
+      "text": "İngiliz uzunluk birimi",
+      "answer": "İNÇ",
+      "row": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Karın zıddı renk",
-      "answer": "AK",
-      "row": 6,
+      "text": "Emevilerin merkezi",
+      "answer": "ŞAM",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Periyodik tablodaki Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 7,
+      "text": "Kabuk baharatı",
+      "answer": "TARÇIN",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Soyun geldiği kişi",
-      "answer": "ATA",
+      "text": "Doğuş bayramı",
+      "answer": "NOEL",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Alçak",
+      "answer": "BASIK",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ortodoks kiliselerinde bulunan kutsal tasvir",
-      "answer": "İKON",
-      "row": 7,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Unutulmayan olay",
-      "answer": "ANI",
+      "text": "Alt karşıtı",
+      "answer": "ÜST",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dolma yapılan sivri veya yuvarlak sebze",
-      "answer": "BİBER",
+      "text": "Acıklı, korkunç",
+      "answer": "FECİ",
       "row": 9,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Mikroskopta kullanılan cam",
-      "answer": "LAM",
+      "text": "Su geçirmez mont",
+      "answer": "ANORAK",
       "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Gam dizisinin dördüncü notası",
-      "answer": "FA",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Portakal çiçeği kokan ilimiz",
-      "answer": "ADANA",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Takı yapımında kullanılan kırmızımsı taş",
-      "answer": "AKİK",
-      "row": 12,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Merdivenle çıkılan bina bölümü",
-      "answer": "KAT",
-      "row": 12,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İzmir'in de bulunduğu bölgemiz",
-      "answer": "EGE",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Giysinin boyna gelen bölümü",
-      "answer": "YAKA",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yerine getirme",
-      "answer": "İFA",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Öğrencinin çantasındaki yazı aracı",
-      "answer": "KALEM",
-      "row": 0,
       "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Asker su kabı",
+      "answer": "MATARA",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Az önce",
+      "answer": "HENÜZ",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İnce parçacık",
+      "answer": "TOZ",
+      "row": 12,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Dava vekili",
+      "answer": "AVUKAT",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sofrada yemek konan kap",
-      "answer": "TABAK",
+      "text": "Bükülü iplik",
+      "answer": "BÜKME",
       "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Eşya seti",
+      "answer": "TAKIM",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ağabey için kullanılan hitap",
-      "answer": "AKA",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Güzel kokulu bir bitki",
-      "answer": "NANE",
+      "text": "Hamamda kullanılan",
+      "answer": "TAS",
       "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kısacık süre",
+      "answer": "AN",
+      "row": 10,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstün, seçkin",
+      "answer": "KLAS",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Mızraplı telli çalgı",
-      "answer": "UD",
+      "text": "Toplumsal konum",
+      "answer": "STATÜ",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hiçbir zaman, kesinlikle",
+      "answer": "ASLA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Boru sesi",
-      "answer": "Tİ",
+      "text": "Hatırat, andaç",
+      "answer": "ANI",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Başkenti Bağdat olan komşu ülke",
-      "answer": "IRAK",
-      "row": 8,
+      "text": "Cilveli davranış",
+      "answer": "NAZ",
+      "row": 9,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Metaldeki oksit tabakası",
-      "answer": "PAS",
-      "row": 0,
+      "text": "Küflü peynir",
+      "answer": "ROKFOR",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tanınmışlık, nam",
-      "answer": "ÜN",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İşitme organı",
-      "answer": "KULAK",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sol'den sonraki nota",
-      "answer": "LA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Alan ölçü birimi (100 m²)",
-      "answer": "AR",
+      "text": "Kaza",
+      "answer": "İLÇE",
       "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Erler topluluğu",
+      "answer": "ERAT",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Neşeli, sevinçli",
+      "answer": "ŞEN",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İtalya'da bir nehir",
-      "answer": "PO",
-      "row": 6,
+      "text": "Kaplıca",
+      "answer": "ILICA",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Temel, esas",
-      "answer": "ANA",
-      "row": 9,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Başkenti Tahran olan komşu ülke",
-      "answer": "İRAN",
+      "text": "Kin, garaz",
+      "answer": "HINÇ",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Donuk, ışıltısız",
-      "answer": "MAT",
-      "row": 9,
+      "text": "Aynı doğumlu",
+      "answer": "İKİZ",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
@@ -309,11 +246,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 3
     },
     {
       "row": 5,
@@ -321,19 +270,23 @@
     },
     {
       "row": 6,
-      "col": 2
+      "col": 0
     },
     {
-      "row": 6,
-      "col": 8
+      "row": 7,
+      "col": 0
     },
     {
       "row": 7,
       "col": 8
     },
     {
-      "row": 9,
-      "col": 5
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "orta",

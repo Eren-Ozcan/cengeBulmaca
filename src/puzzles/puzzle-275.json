@@ -5,260 +5,197 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Otorite simgesi baston",
-      "answer": "ASA",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ekleme, katma",
-      "answer": "EK",
-      "row": 1,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Gece gökyüzünde parıldayan cisim",
-      "answer": "YILDIZ",
+      "text": "Madde parçacığı",
+      "answer": "ATOM",
       "row": 1,
       "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ormanın yaygın ağacı",
+      "answer": "ÇAM",
+      "row": 0,
+      "col": 6,
       "arrow": "down-right"
     },
     {
-      "text": "Lantan için kullanılan kimyasal simge",
-      "answer": "LA",
+      "text": "Ayak tabanı cezası",
+      "answer": "FALAKA",
       "row": 2,
-      "col": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Konut, hane",
-      "answer": "EV",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kesilmiş ağaç levha",
-      "answer": "TAHTA",
-      "row": 3,
+      "text": "Konuşan kuş",
+      "answer": "PAPAĞAN",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kocaman",
-      "answer": "İRİ",
+      "text": "Sevgili kadın",
+      "answer": "CANAN",
       "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tantal için kullanılan kimyasal simge",
-      "answer": "TA",
-      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "22 veya 14 ile ifade edilen altın değeri",
-      "answer": "AYAR",
+      "text": "Çarşı sokağı",
+      "answer": "ARASTA",
       "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaz meyvesi",
+      "answer": "KARPUZ",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Türk yas töreni",
+      "answer": "YOĞ",
+      "row": 7,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yapı yapılacak arazi",
-      "answer": "ARSA",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yivli bağlantı elemanı",
-      "answer": "VİDA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
+      "text": "Ut çalıcısı",
+      "answer": "UDİ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cumhuriyetin başkenti",
-      "answer": "ANKARA",
+      "text": "Ürün toprağı",
+      "answer": "TARLA",
       "row": 8,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Omuza alınan örtü",
-      "answer": "ŞAL",
+      "text": "Toplamada aktarılan sayı",
+      "answer": "ELDE",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kızıl renk",
-      "answer": "AL",
+      "text": "Pencere maddesi",
+      "answer": "CAM",
       "row": 9,
-      "col": 6,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kalay'ın kimyasal simgesi",
-      "answer": "SN",
+      "text": "Ana yol",
+      "answer": "ARTER",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hükümdar kadın (eski dilde)",
-      "answer": "ECE",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Baryum için kullanılan kimyasal simge",
-      "answer": "BA",
-      "row": 10,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Uzun kulaklı, hızlı koşan otçul hayvan",
-      "answer": "TAVŞAN",
+      "text": "Cinsel çekicilik",
+      "answer": "SEKSİ",
       "row": 11,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Anadolu'dan doğup Basra Körfezi'ne dökülen büyük nehir",
-      "answer": "FIRAT",
+      "text": "Yaramaz çocuk",
+      "answer": "AFACAN",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Reçeli yapılan ekşi kırmızı meyve",
-      "answer": "VİŞNE",
-      "row": 6,
+      "text": "Verilen bilgi",
+      "answer": "DERS",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "'İşte' anlamında bir ünlem",
-      "answer": "HA",
-      "row": 3,
+      "text": "Şişe tıkacı",
+      "answer": "TAPA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Birim, tane",
-      "answer": "ADET",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hak ve hukuka uygunluk",
-      "answer": "ADALET",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Duvara sürülen harç",
-      "answer": "SIVA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Şair Nâzım Hikmet'in aile adı",
-      "answer": "RAN",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalsiyum için kullanılan kimyasal simge",
-      "answer": "CA",
-      "row": 9,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sınırlı, kıt",
-      "answer": "AZ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İskambilde birli",
-      "answer": "AS",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ukrayna'nın en büyük şehri",
-      "answer": "KİEV",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Avusturya'nın başkenti",
-      "answer": "VİYANA",
-      "row": 3,
-      "col": 5,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Başka ülkeden kişi",
-      "answer": "EL",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Mısır mitolojisinde güneş tanrısı",
-      "answer": "RA",
-      "row": 3,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Karayolunda kullanılan taşıt",
-      "answer": "ARABA",
+      "text": "Doldurulmuş döşek",
+      "answer": "ŞİLTE",
       "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İmkân",
+      "answer": "OLANAK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kadar, değin",
+      "answer": "DEK",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yer altı boşluğu",
+      "answer": "MAĞARA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Arka yüz",
+      "answer": "TERS",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sarı kafes kuşu",
+      "answer": "KANARYA",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çalınan tunç",
+      "answer": "ÇAN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sportmen",
+      "answer": "SPORCU",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Toprak malzeme",
+      "answer": "TUĞLA",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Piramitlere yakın Mısır başkenti",
-      "answer": "KAHİRE",
-      "row": 0,
+      "text": "Kısa anlatım",
+      "answer": "İCAZ",
+      "row": 2,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Düz, açık yer; saha",
-      "answer": "ALAN",
+      "text": "Üniversite dersliği",
+      "answer": "AMFİ",
       "row": 7,
       "col": 8,
       "arrow": "down"
@@ -271,19 +208,51 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 5
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 6,
       "col": 0
     },
     {
+      "row": 7,
+      "col": 3
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
       "row": 11,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "orta",

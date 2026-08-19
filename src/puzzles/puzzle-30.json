@@ -5,232 +5,169 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Saniyenin küçük bir bölümü",
-      "answer": "AN",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Odanın üstünü kaplayan yüzey",
-      "answer": "TAVAN",
-      "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Osmanlı'da İstanbul için kullanılan ad",
-      "answer": "ASİTANE",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dikkat çekme ünlemi",
-      "answer": "EY",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hiçbir şeyi noksan olmayan",
-      "answer": "TAM",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Dünya'nın etrafında dönen gök cismi",
-      "answer": "AY",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağaçtan biçilmiş levha",
-      "answer": "TAHTA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Haya, utanç duygusu",
-      "answer": "AR",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir şeyin bulunduğu konum",
-      "answer": "YER",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Belirli bir noktanın ilerisi, karşı taraf",
-      "answer": "ÖTE",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Bıkkınlık ünlemi",
-      "answer": "OF",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yayla atılan ince silah",
-      "answer": "OK",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir şeyin ortasındaki bölüm",
-      "answer": "İÇ",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağışlama",
-      "answer": "AF",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Merak bildiren soru sözcüğü",
-      "answer": "NE",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir şeyin malı olan",
-      "answer": "AİT",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gelin duvağının rengi",
-      "answer": "AL",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Güney Amerika'nın büyük dağ sırası",
-      "answer": "AND",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sodyum'un kimyasal simgesi",
-      "answer": "NA",
+      "text": "Devamlı",
+      "answer": "SÜREKLİ",
       "row": 0,
       "col": 1,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Kitabın bir yaprağının bir yüzü",
-      "answer": "SAYFA",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Selenyum için kullanılan kimyasal simge",
-      "answer": "SE",
+      "text": "Oranlama",
+      "answer": "KIYAS",
       "row": 1,
-      "col": 2,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Element tablosunda Helyum'un simgesi",
-      "answer": "HE",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Havalandırma pervanesi",
-      "answer": "FAN",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sahne sanatı",
-      "answer": "TİYATRO",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bilinçaltındaki dürtüler bütünü",
-      "answer": "İD",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dört nala koşan hayvan",
-      "answer": "AT",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir seslenme sözü",
-      "answer": "YA",
+      "text": "Terazi gözü",
+      "answer": "KEFE",
       "row": 3,
-      "col": 4,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Merdivenle çıkılan bina bölümü",
+      "text": "Nâzım Hikmet'in soyadı",
+      "answer": "RAN",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sarmal girinti",
+      "answer": "YİV",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bina bölümü",
       "answer": "KAT",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Özen",
+      "answer": "İTİNA",
       "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hisse, parça",
+      "answer": "PAY",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayvan ölüsü",
+      "answer": "LEŞ",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Uydurma sebep",
+      "answer": "BAHANE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gene",
+      "answer": "YİNE",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sıçrayan otçul",
+      "answer": "TAVŞAN",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Seyrek karşıtı",
+      "answer": "SIK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Suni",
+      "answer": "YAPAY",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Topluluk mensubu",
+      "answer": "ÜYE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemin, ant",
+      "answer": "AHİT",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eşya konan yer",
+      "answer": "RAF",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Avusturya'nın başkenti",
+      "answer": "VİYANA",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ortaya konan yapıt",
+      "answer": "ESER",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ampullerde yazan güç birimi",
-      "answer": "VAT",
-      "row": 0,
+      "text": "Eski dilde tür",
+      "answer": "NEV",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Akıllı kadın",
+      "answer": "AKİLE",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yavrusunu doğuran dişi",
-      "answer": "ANA",
-      "row": 0,
+      "text": "Kokulu bitki",
+      "answer": "NANE",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ege'nin karşı kıyısındaki başkent",
-      "answer": "ATİNA",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Havadaki su buharı oranı",
-      "answer": "NEM",
+      "text": "Son karşıtı",
+      "answer": "İLK",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Şekerle kaynatılmış meyve tatlısı",
-      "answer": "REÇEL",
+      "text": "Sel basması",
+      "answer": "TAŞKIN",
       "row": 4,
       "col": 7,
       "arrow": "down"
@@ -239,35 +176,51 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
-      "row": 3,
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
       "col": 0
     },
     {
       "row": 4,
+      "col": 2
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
       "col": 5
     },
     {
       "row": 9,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
       "col": 6
     },
     {
       "row": 10,
-      "col": 7
+      "col": 0
     }
   ],
   "difficulty": "orta",

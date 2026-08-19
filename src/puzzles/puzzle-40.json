@@ -5,233 +5,205 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Freud'un kişilik kuramında ilkel benlik",
-      "answer": "İD",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yivli bağlantı elemanı",
-      "answer": "VİDA",
+      "text": "Karısına boyun eğen",
+      "answer": "KILIBIK",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Solunumla alınan hava",
-      "answer": "NEFES",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bezelyeye benzer bir bitki",
-      "answer": "ARAKA",
-      "row": 2,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Ön karşıtı yön",
-      "answer": "ART",
+      "text": "Soyluluk",
+      "answer": "ASALET",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sermaye koyma",
+      "answer": "YATIRIM",
       "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Duyuru",
-      "answer": "İLAN",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tantal'ın kimyasal simgesi",
-      "answer": "TA",
-      "row": 4,
-      "col": 6,
-      "arrow": "right"
+      "text": "Kriz",
+      "answer": "BUNALIM",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Zihinsel kabiliyet",
-      "answer": "ZEKA",
+      "text": "Ulaşmış, kavuşmuş",
+      "answer": "NAİL",
       "row": 5,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yeşile ve sarıya çalan göz rengi",
-      "answer": "ELA",
+      "text": "Parça, unsur",
+      "answer": "ÖGE",
       "row": 5,
-      "col": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Baryum'un kimyasal simgesi",
-      "answer": "BA",
+      "text": "Gibi gösteren",
+      "answer": "SANKİ",
       "row": 6,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Antik Yunan uygarlığının merkezi",
-      "answer": "ATİNA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yüz kızartan duygu",
-      "answer": "AR",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 8,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ağabey için kullanılan hitap",
-      "answer": "AKA",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Kalay'ın simgesi",
-      "answer": "SN",
-      "row": 10,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Dokuzdan sonra gelen sayı",
-      "answer": "ON",
-      "row": 10,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Söz verme, ahit",
-      "answer": "ANT",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "'Nedir' sorusunun kısası",
-      "answer": "NE",
-      "row": 11,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Vücudu kaplayan örtü",
-      "answer": "DERİ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İşlemecilikte kullanılan seyrek dokuma kumaş",
-      "answer": "ETAMİN",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırmızıya çalan renk",
-      "answer": "AL",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Türkiye'nin resmi para birimi",
-      "answer": "LİRA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tataristan'ın başkenti",
-      "answer": "KAZAN",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çay ve yemeklerde kullanılan kokulu bitki",
-      "answer": "NANE",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Notada durak işareti",
-      "answer": "ES",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "'İle' anlamında bağlaç",
-      "answer": "VE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Kripton'un simgesi",
-      "answer": "KR",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yerine getirme",
-      "answer": "İFA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kişiyi üzen sorun",
-      "answer": "DERT",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Dışarı açılan küçük teras",
-      "answer": "BALKON",
-      "row": 5,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayır için verilen para (eski dilde)",
-      "answer": "İANE",
+      "text": "Geriye kalan",
+      "answer": "ARTIK",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sicim, halat",
+      "answer": "İP",
+      "row": 7,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Kolay korkan",
+      "answer": "ÜRKEK",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Konser",
+      "answer": "DİNLETİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dinen izinli",
+      "answer": "HELAL",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Toprak altı yumrusu",
+      "answer": "PATATES",
+      "row": 11,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yay silahı",
+      "answer": "OK",
+      "row": 9,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Derin çukur",
+      "answer": "KUYU",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Korunma duruşu",
+      "answer": "GARD",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Anaya dayalı düzen",
+      "answer": "ANAERKİ",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun, dar tahta",
+      "answer": "LATA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalabalıksız, ıssız",
+      "answer": "TENHA",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Termik",
+      "answer": "ISIL",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Boks kategorisi",
+      "answer": "SIKLET",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sığınılacak yer",
+      "answer": "BARINAK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Göz rengi",
+      "answer": "ELA",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Mutedil iklim",
+      "answer": "ILIMAN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Dilin aldığı",
+      "answer": "TAT",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kötü, fena",
+      "answer": "KEM",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Birden sonraki sayı",
+      "answer": "İKİ",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Birliktelik bağlacı",
+      "answer": "İLE",
+      "row": 8,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Tutturmalı küpe",
+      "answer": "KLİPS",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     }
@@ -239,63 +211,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 1,
-      "col": 2
-    },
-    {
-      "row": 1,
-      "col": 3
-    },
-    {
-      "row": 5,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 10,
+      "row": 0,
       "col": 2
     },
     {
-      "row": 11,
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 1,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 5,
       "col": 3
     },
     {
-      "row": 11,
-      "col": 4
+      "row": 9,
+      "col": 8
     },
     {
-      "row": 11,
-      "col": 5
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 8
     }
   ],
   "difficulty": "zor",

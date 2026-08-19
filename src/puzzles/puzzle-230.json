@@ -5,266 +5,229 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Çay ve yemeklerde kullanılan kokulu bitki",
-      "answer": "NANE",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Belirti, emare",
-      "answer": "İZ",
+      "text": "Çay kıvamı",
+      "answer": "DEM",
       "row": 1,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Arkadaş, gönüldeş",
-      "answer": "DOST",
-      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yetki simgesi değnek",
-      "answer": "ASA",
-      "row": 2,
+      "text": "Yünden dokuma",
+      "answer": "ABA",
+      "row": 1,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Dönerek delik açan alet",
-      "answer": "MATKAP",
+      "text": "Soylu, yüce",
+      "answer": "ASİL",
       "row": 2,
-      "col": 0,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağız demiri",
+      "answer": "GEM",
+      "row": 2,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Kripton'un kimyasal simgesi",
-      "answer": "KR",
+      "text": "Para birimimiz",
+      "answer": "LİRA",
       "row": 3,
-      "col": 6,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Tespihin uç tanesi",
-      "answer": "İMAME",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Soğukta omuza atılan örtü",
-      "answer": "ŞAL",
-      "row": 4,
+      "text": "Şaka seven",
+      "answer": "ŞAKACI",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kapıda çalınan araç",
-      "answer": "ZİL",
+      "text": "Hafriyat",
+      "answer": "KAZI",
       "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Rusça onay sözcüğü",
-      "answer": "DA",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Seslenme ünlemi",
-      "answer": "EY",
-      "row": 6,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Rumca konuşan Ortodoks vatandaş",
-      "answer": "RUM",
+      "text": "İşlenmemiş madde",
+      "answer": "HAM",
       "row": 6,
       "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
-      "row": 7,
-      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Altın için kullanılan kimyasal simge",
-      "answer": "AU",
+      "text": "İnce cam plaka",
+      "answer": "LAM",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayın dolgun hâli",
+      "answer": "DOLUNAY",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Köz, ateş",
+      "answer": "KOR",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Element tablosunda Galyum'un simgesi",
-      "answer": "GA",
+      "text": "Askerî olmayan",
+      "answer": "SİVİL",
       "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kitap kaleme alan kimse",
-      "answer": "YAZAR",
-      "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kurum, duman lekesi",
-      "answer": "İS",
-      "row": 10,
+      "text": "Şaka",
+      "answer": "LATİFE",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dört tekerlekli taşıt",
-      "answer": "ARABA",
+      "text": "Irmak, çay, dere",
+      "answer": "AKARSU",
       "row": 10,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kabuğu sert, taneli kış meyvesi",
-      "answer": "NAR",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Biraz uzaktaki şeyi gösteren sıfat",
-      "answer": "ŞU",
-      "row": 4,
+      "text": "Tek geçiş kapısı",
+      "answer": "TURNİKE",
+      "row": 10,
       "col": 0,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Portakal çiçeği kokan ilimiz",
-      "answer": "ADANA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Güney Asya'da kullanılan para birimi",
-      "answer": "RUPİ",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Öğrenciye verilen değerlendirme puanı",
-      "answer": "NOT",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Romanya'da kullanılan para birimi",
-      "answer": "LEU",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Kalay'ın simgesi",
-      "answer": "SN",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Zamanı geçmiş, kullanılmış",
-      "answer": "ESKİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Magnezyum'un simgesi",
-      "answer": "MG",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Eksiksiz",
-      "answer": "TAM",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Altının saflık derecesi",
-      "answer": "AYAR",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Haftanın son günü",
-      "answer": "PAZAR",
+      "text": "Havadaki akışkan",
+      "answer": "GAZ",
       "row": 2,
-      "col": 5,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dönümün onda biri olan ölçü",
-      "answer": "AR",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Uzun süre yetecek yiyecek",
-      "answer": "ERZAK",
+      "text": "Doldurma maddesi",
+      "answer": "DOLGU",
       "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun kulaklı hayvan",
+      "answer": "EŞEK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk oyunu",
+      "answer": "HORA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yer, yöre",
+      "answer": "MAHAL",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Alacakaranlık",
+      "answer": "TAN",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Müzik",
+      "answer": "MUSİKİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Şaşkın, ahmak",
+      "answer": "ALIK",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Dargınlık tohumu",
+      "answer": "NİFAK",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İsyankâr",
+      "answer": "ASİ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Vapurun yanaştığı kıyı yapısı",
-      "answer": "İSKELE",
+      "text": "Elden ele geçme",
+      "answer": "ALAVERE",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek, yalnız",
+      "answer": "BİR",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Şiir dilinde kullanılan eski su sözü",
-      "answer": "AB",
-      "row": 8,
+      "text": "Kaybolma",
+      "answer": "ZAYİ",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İnce doku perdesi",
-      "answer": "ZAR",
+      "text": "Metal karışımı",
+      "answer": "ALAŞIM",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Fotosentez yapan ağaç organı",
-      "answer": "YAPRAK",
-      "row": 5,
+      "text": "Rumen parası",
+      "answer": "LEU",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
     {
       "row": 0,
       "col": 4
@@ -274,40 +237,32 @@
       "col": 5
     },
     {
-      "row": 0,
-      "col": 6
-    },
-    {
       "row": 1,
-      "col": 5
+      "col": 4
     },
     {
-      "row": 4,
-      "col": 8
+      "row": 2,
+      "col": 0
     },
     {
       "row": 5,
-      "col": 3
+      "col": 0
     },
     {
-      "row": 7,
-      "col": 7
+      "row": 6,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 5
+      "col": 7
     },
     {
       "row": 11,
       "col": 7
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "orta",

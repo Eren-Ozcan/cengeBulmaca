@@ -5,282 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Nakış işlenen delikli kumaş",
-      "answer": "ETAMİN",
+      "text": "Taş kırıntısı",
+      "answer": "KUM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hardal gazı olarak da bilinen zehirli gaz",
-      "answer": "İPERİT",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İğneyle yapılan ince süs işi",
-      "answer": "OYA",
-      "row": 2,
-      "col": 0,
+      "text": "Garson yardımcısı",
+      "answer": "KOMİ",
+      "row": 0,
+      "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Ağabeyin halk dilindeki karşılığı",
-      "answer": "AKA",
+      "text": "Yürüyen kimse",
+      "answer": "YAYA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Keskin kokulu gaz",
+      "answer": "AMONYAK",
       "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Çinko'nun simgesi",
-      "answer": "ZN",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ahırda beslenen süt hayvanı",
-      "answer": "İNEK",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Dilbilgisinde kelimeye eklenen parça",
-      "answer": "EK",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Seçenek bildiren bağlaç",
-      "answer": "YA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 5,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Seyhan Nehri kıyısındaki ilimiz",
-      "answer": "ADANA",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Temizlenmesi gereken pislik",
-      "answer": "KİR",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bitki yetiştirilen camlık",
-      "answer": "SERA",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Deveye benzeyen And Dağları hayvanı",
-      "answer": "LAMA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İki şey arasındaki boşluk",
-      "answer": "ARA",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Divan edebiyatında su",
-      "answer": "AB",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlı'da İstanbul için kullanılan ad",
-      "answer": "ASİTANE",
-      "row": 9,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yeşil yapraklı kış sebzesi",
-      "answer": "LAHANA",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Buğdayın öğütülmüş hali",
-      "answer": "UN",
-      "row": 11,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Tanrı katında insan",
-      "answer": "KUL",
-      "row": 12,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ev veya işyeri için ödenen aylık bedel",
-      "answer": "KİRA",
-      "row": 12,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Annenin kız kardeşi",
-      "answer": "TEYZE",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ülkenin idari bölümü",
-      "answer": "İL",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Temiz, lekesiz renk",
-      "answer": "AK",
-      "row": 10,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Cumhuriyetin başkenti",
-      "answer": "ANKARA",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce bacaklı, ürkek hayvan",
-      "answer": "AHU",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gam dizisinde üçüncü nota",
-      "answer": "Mİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Olağanüstü halk anlatısı",
-      "answer": "MASAL",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bükülmüş ipliklerden oluşan bağ",
-      "answer": "İP",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kanun",
-      "answer": "YASA",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tilki, tavşan gibi hayvanların barınağı",
-      "answer": "İN",
-      "row": 9,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "'Ne oldu?' daki soru kelimesi",
-      "answer": "NE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bağış amaçlı toplanan para",
-      "answer": "İANE",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sporda ileri hamle",
-      "answer": "ATAK",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Nâzım Hikmet'in soyadı",
-      "answer": "RAN",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Karayolunda kullanılan taşıt",
+      "text": "Otomobil",
       "answer": "ARABA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Geri çevirme",
+      "answer": "RET",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Çok bilgili",
+      "answer": "ALLAME",
       "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Pahalı karşıtı",
+      "answer": "UCUZ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Norveç'in başkenti",
+      "answer": "OSLO",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ana yol",
+      "answer": "ARTER",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Hareket dokusu",
+      "answer": "KAS",
+      "row": 7,
+      "col": 2,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sofra hizmeti",
+      "answer": "SERVİS",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Üçgen ova",
+      "answer": "DELTA",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "En yaygın bağlaç",
+      "answer": "VE",
+      "row": 10,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Etrafı su ile çevrili",
+      "answer": "ADA",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çek başkenti",
+      "answer": "PRAG",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İnandırma, kandırma",
+      "answer": "İKNA",
+      "row": 12,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Uyandıran",
+      "answer": "UYARICI",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tavır, hava",
+      "answer": "EDA",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bebek yiyeceği",
+      "answer": "MAMA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ödünç para",
+      "answer": "KREDİ",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağnaz kimse",
+      "answer": "YOBAZ",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Av alanı",
+      "answer": "AVLAK",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Açılan yol",
+      "answer": "KANAL",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Turnusol kızartan",
+      "answer": "ASİT",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tuzsuz peynir",
+      "answer": "LOR",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak, ıssız",
+      "answer": "SAPA",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çarşı sokağı",
+      "answer": "ARASTA",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Gülde bulunan sivri çıkıntı",
-      "answer": "DİKEN",
+      "text": "Arkalıksız sandalye",
+      "answer": "İSKEMLE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Alan ölçü birimi (100 m²)",
-      "answer": "AR",
-      "row": 6,
+      "text": "Dağ karşıtı yer şekli",
+      "answer": "OVA",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Aydınlık, ışık",
-      "answer": "NUR",
-      "row": 9,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Değiş tokuş",
-      "answer": "TAKAS",
-      "row": 1,
+      "text": "Kuram",
+      "answer": "TEORİ",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Boğa güreşi alanı",
-      "answer": "ARENA",
-      "row": 7,
+      "text": "İzmir'in bölgesi",
+      "answer": "EGE",
+      "row": 9,
       "col": 8,
       "arrow": "down"
     }
@@ -288,7 +232,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
@@ -299,24 +247,36 @@
       "col": 8
     },
     {
-      "row": 3,
-      "col": 3
+      "row": 1,
+      "col": 8
     },
     {
-      "row": 3,
-      "col": 4
+      "row": 2,
+      "col": 5
     },
     {
-      "row": 4,
-      "col": 3
+      "row": 2,
+      "col": 8
     },
     {
-      "row": 9,
+      "row": 7,
       "col": 0
     },
     {
       "row": 9,
-      "col": 1
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 0
+    },
+    {
+      "row": 12,
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 7
     }
   ],
   "difficulty": "zor",

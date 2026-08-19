@@ -5,191 +5,198 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Ani Harabeleri'nin bulunduğu ilimiz",
-      "answer": "KARS",
+      "text": "Eski dilde içinde",
+      "answer": "İÇRE",
       "row": 0,
       "col": 2,
       "arrow": "down-right"
     },
     {
-      "text": "Kabuğu sert, taneli kış meyvesi",
-      "answer": "NAR",
+      "text": "İğne yapraklı ağaç",
+      "answer": "ÇAM",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uzun süre yetecek yiyecek",
-      "answer": "ERZAK",
-      "row": 3,
-      "col": 2,
+      "text": "Göğüs, kaburga",
+      "answer": "DÖŞ",
+      "row": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Turizmiyle ünlü Akdeniz ilimiz",
-      "answer": "ANTALYA",
-      "row": 4,
+      "text": "Göz üstü kılı",
+      "answer": "KAŞ",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Farsça kökenli 'su' sözcüğü",
-      "answer": "AB",
-      "row": 4,
+      "text": "Telefon sözü",
+      "answer": "ALO",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayvan bakımı",
+      "answer": "TIMAR",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Karın zıddı renk",
-      "answer": "AK",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hasat edilmeyi bekleyen tahıl",
-      "answer": "EKİN",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yüz metrekarelik alan ölçüsü",
-      "answer": "AR",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Polonyum'un simgesi",
-      "answer": "PO",
-      "row": 7,
+      "text": "İğrenme sesi",
+      "answer": "ÜF",
+      "row": 4,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Ses perdesi",
-      "answer": "TON",
-      "row": 7,
+      "text": "Birleştirme alaşımı",
+      "answer": "LEHİM",
+      "row": 5,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sayı, tane",
-      "answer": "ADET",
-      "row": 8,
-      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Hastaları muayene eden sağlık uzmanı",
-      "answer": "DOKTOR",
+      "text": "Uçtan geniş etek",
+      "answer": "EVAZE",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Oturma bölümü",
+      "answer": "SALON",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Gidiş, ilerleyiş",
+      "answer": "SEYİR",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Akım",
+      "answer": "CEREYAN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Pikapta çalınan vinil disk",
-      "answer": "PLAK",
+      "text": "İçi boş, değersiz",
+      "answer": "KOF",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Erkek keçi",
+      "answer": "TEKE",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Topu aktarma",
+      "answer": "PAS",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nefesli çalgı sesini taklit eden hece",
-      "answer": "Tİ",
+      "text": "Küçük ekip",
+      "answer": "TİM",
       "row": 11,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Otomobil",
-      "answer": "ARABA",
+      "text": "Zeki, uslu",
+      "answer": "AKILLI",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde alev, ateş",
-      "answer": "OD",
-      "row": 7,
+      "text": "Polis sopası",
+      "answer": "COP",
+      "row": 8,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kripton'un kimyasal simgesi",
-      "answer": "KR",
+      "text": "Tespih başlığı",
+      "answer": "İMAME",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tek küreklerle kürek çekilen hafif tekne",
-      "answer": "KANO",
-      "row": 5,
+      "text": "Keyifli hâl",
+      "answer": "SEFA",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kasabın sattığı gıda",
-      "answer": "ET",
+      "text": "Üstün eser",
+      "answer": "ŞAHESER",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Radyum'un simgesi",
-      "answer": "RA",
-      "row": 2,
+      "text": "Söylenti",
+      "answer": "RİVAYET",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Cesur ve hareketli",
-      "answer": "ATAK",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kelimelerin anlamlarını veren kitap",
-      "answer": "SÖZLÜK",
+      "text": "Tavır, hava",
+      "answer": "EDA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Do-re-mi dizisinin ilk notası",
-      "answer": "DO",
-      "row": 7,
+      "text": "Üretim gideri",
+      "answer": "MALİYET",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dünya'nın etrafında dönen gök cismi",
-      "answer": "AY",
-      "row": 2,
+      "text": "Diri karşıtı",
+      "answer": "ÖLÜ",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Birinci Dünya Savaşı'nda kullanılan kimyasal gaz",
-      "answer": "İPERİT",
+      "text": "İstemeyerek",
+      "answer": "ZORAKİ",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Giysinin boyna gelen bölümü",
-      "answer": "YAKA",
-      "row": 0,
+      "text": "Su ısıtıcı",
+      "answer": "ŞOFBEN",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kısaca yazılan hatırlatma",
-      "answer": "NOT",
-      "row": 5,
+      "text": "Havadaki su",
+      "answer": "NEM",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     }
@@ -216,48 +223,20 @@
       "col": 6
     },
     {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 3
-    },
-    {
-      "row": 5,
-      "col": 4
-    },
-    {
-      "row": 9,
+      "row": 0,
       "col": 7
     },
     {
-      "row": 10,
+      "row": 6,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 1
+      "row": 7,
+      "col": 0
     },
     {
-      "row": 10,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 3
-    },
-    {
-      "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 7
+      "row": 8,
+      "col": 0
     }
   ],
   "difficulty": "zor",

@@ -5,247 +5,240 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Tufan gemisinin sahibi peygamber",
-      "answer": "NUH",
-      "row": 1,
+      "text": "Gereklilik, ihtiyaç",
+      "answer": "HACET",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kraliçe",
+      "answer": "ECE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Basra'ya dökülen",
+      "answer": "FIRAT",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Nam, şöhret",
+      "answer": "AD",
+      "row": 2,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Pamuklu kumaş",
+      "answer": "BEZ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Su sığırı",
+      "answer": "MANDA",
+      "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İskambilde bir grup",
-      "answer": "KUPA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Cesur, mert er",
-      "answer": "ALP",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir şeyi belirten iz",
-      "answer": "İM",
-      "row": 3,
+      "text": "Boyun kürkü",
+      "answer": "BOA",
+      "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Olağanüstü halk anlatısı",
-      "answer": "MASAL",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kelimenin sonuna gelen parça",
-      "answer": "EK",
-      "row": 3,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Düşünme ve algılama organı",
-      "answer": "BEYİN",
+      "text": "Gözaltında olan",
+      "answer": "TUTUKLU",
       "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Değiş tokuş",
-      "answer": "TAKAS",
+      "text": "Azerbaycan'ın başkenti",
+      "answer": "BAKÜ",
       "row": 6,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kamıştan üflemeli çalgı",
-      "answer": "NEY",
+      "text": "Sık ağ",
+      "answer": "TOR",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Rengarenk taş",
+      "answer": "OPAL",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kurul üyesi",
+      "answer": "AZA",
       "row": 7,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Bir sınıfa ait olma özelliği",
-      "answer": "TÜR",
+      "text": "Hafif karşıtı",
+      "answer": "AĞIR",
       "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dokudaki bozulma, bere",
-      "answer": "YARA",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırıtma, cilvelenme",
-      "answer": "NAZ",
-      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cevap isteyen soru kelimesi",
-      "answer": "NE",
+      "text": "Temel, esas",
+      "answer": "ANA",
       "row": 9,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 10,
-      "col": 1,
+      "text": "Göreve talip",
+      "answer": "ADAY",
+      "row": 9,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Element tablosunda Lantan'ın simgesi",
-      "answer": "LA",
+      "text": "Kızıl at rengi",
+      "answer": "DORU",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sirk oyunlarının yapıldığı alan",
-      "answer": "ARENA",
-      "row": 10,
+      "text": "Sanat akımı",
+      "answer": "EKOL",
+      "row": 11,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Okulların tatil olduğu mevsim",
-      "answer": "YAZ",
+      "text": "Pahalılaşma",
+      "answer": "ZAM",
       "row": 11,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kozalaklı, iğne yapraklı ağaç",
-      "answer": "ÇAM",
-      "row": 4,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce taneli taş kırıntıları",
-      "answer": "KUM",
-      "row": 1,
+      "text": "Yıkım, felaket",
+      "answer": "AFET",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Şiirde geçen eski 'su' kelimesi",
-      "answer": "AB",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Havuzda yapılan spor dalı",
-      "answer": "YÜZME",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Suyu tutan yapay engel",
-      "answer": "SET",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvanların yer altındaki yuvası",
-      "answer": "İN",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sodyum için kullanılan kimyasal simge",
-      "answer": "NA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Altının saflık derecesi",
-      "answer": "AYAR",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Düğmenin içinden geçtiği delik",
-      "answer": "İLİK",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Havanın yer değiştirmesi",
-      "answer": "YEL",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Olmamış, işlenmemiş",
-      "answer": "HAM",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Fransız yazarın 19. yüzyıl romanı",
-      "answer": "NANA",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Dünya'nın etrafında dönen gök cismi",
-      "answer": "AY",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bitki yetiştirilen camlık",
-      "answer": "SERA",
+      "text": "Erkek sığır",
+      "answer": "BOĞA",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yağ sesi",
+      "answer": "CIZ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Mabet",
+      "answer": "TAPINAK",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Mert, yiğit",
+      "answer": "ER",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Züğürt",
+      "answer": "FUKARA",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eksiksiz",
+      "answer": "TAM",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gözenekli kumaş",
+      "answer": "TÜL",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Dokunulmaz",
+      "answer": "TABU",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sevinçli, neşeli",
+      "answer": "ŞAD",
+      "row": 8,
+      "col": 4,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Cümle işareti",
+      "answer": "NOKTA",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İlaç miktarı",
+      "answer": "DOZ",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Şirret kadın",
+      "answer": "CADALOZ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kozadan elde edilen değerli iplik",
-      "answer": "İPEK",
+      "text": "Mola, teneffüs",
+      "answer": "ARA",
+      "row": 8,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "İşve, naz",
+      "answer": "EDA",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Vurgu bildiren ünlem",
-      "answer": "YA",
-      "row": 6,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Kendi, asıl",
-      "answer": "ÖZ",
-      "row": 9,
+      "text": "92 numaralı element",
+      "answer": "URANYUM",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     }
@@ -253,59 +246,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 5
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 2
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 3,
+      "row": 4,
       "col": 0
     },
     {
       "row": 5,
-      "col": 8
-    },
-    {
-      "row": 6,
-      "col": 1
-    },
-    {
-      "row": 7,
-      "col": 3
+      "col": 0
     },
     {
       "row": 10,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 3
     }
   ],
   "difficulty": "zor",

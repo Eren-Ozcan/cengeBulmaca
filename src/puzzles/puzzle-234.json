@@ -5,233 +5,212 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Şiirde geçen eski 'su' kelimesi",
-      "answer": "AB",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mevlevi kültürüyle bilinen Orta Anadolu ilimiz",
-      "answer": "KONYA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Cesur ve hareketli",
-      "answer": "ATAK",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Utanma duygusu",
-      "answer": "AR",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bacadan çıkan siyah kalıntı",
-      "answer": "İS",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Lantan'ın simgesi",
-      "answer": "LA",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Fotosentez yapan ağaç organı",
-      "answer": "YAPRAK",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gözleri görmeyen",
-      "answer": "AMA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Orta Avrupa'dan geçen büyük nehir",
-      "answer": "TUNA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Soyun geldiği kişi",
-      "answer": "ATA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eğitim için verilen destek parası",
-      "answer": "BURS",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Vazifeyi eda etme",
-      "answer": "İFA",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Beşlik çizgi üzerine yazılan işaret",
-      "answer": "NOTA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Beş parmaklı tutma organı",
-      "answer": "EL",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Paris'ten geçen ünlü nehir (... Nehri)",
-      "answer": "SEN",
-      "row": 9,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zemin, arka plan",
-      "answer": "FON",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Gözü peklik",
-      "answer": "CESARET",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Element tablosunda Baryum'un simgesi",
-      "answer": "BA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Mobilyacılıkta kullanılan kızıl kerestelik ağaç",
-      "answer": "MAUN",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Selenyum'un kimyasal simgesi",
-      "answer": "SE",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sahne sanatı",
-      "answer": "TİYATRO",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Notada sessizlik simgesi",
-      "answer": "ES",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Değerli eşyaların saklandığı çelik dolap",
+      "text": "Para dolabı",
       "answer": "KASA",
       "row": 0,
-      "col": 3,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
+      "text": "Hayran, tutkun",
+      "answer": "FAN",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ot biçme aracı",
+      "answer": "TIRPAN",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Duvar harcı",
+      "answer": "SIVA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ut çalıcısı",
+      "answer": "UDİ",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Olanaklı, mümkün",
+      "answer": "KABİL",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sevgili, yakın",
+      "answer": "CAN",
       "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağaca yapılan işlem",
+      "answer": "AŞI",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Anlama yetisi",
+      "answer": "ZEKA",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sistemli bilgi",
+      "answer": "BİLİM",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yardımcı",
+      "answer": "MUAVİN",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yatak örtüsü",
+      "answer": "ÇARŞAF",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Anıtsal kapı",
+      "answer": "TAK",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkeğe hitap",
+      "answer": "BEY",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Babanın kız kardeşi",
+      "answer": "HALA",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Defterde saklanan",
+      "answer": "ANI",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kullanılmış madde",
+      "answer": "ATIK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gürültü patırtı",
+      "answer": "ŞAMATA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Duvar sıvayan",
+      "answer": "SIVACI",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Avrupa-Asya sınırı",
+      "answer": "URAL",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Otomobil",
+      "answer": "ARABA",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yay ile fırlatılan silah",
-      "answer": "OK",
+      "text": "Özge",
+      "answer": "BAŞKA",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Köşeye çekilme",
+      "answer": "İNZİVA",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kural dışı",
+      "answer": "FAUL",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Platin'in simgesi",
-      "answer": "PT",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Güney Asya'da kullanılan para birimi",
-      "answer": "RUPİ",
-      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ege bölgesinin geleneksel yiğidi",
-      "answer": "EFE",
-      "row": 9,
-      "col": 4,
-      "arrow": "right-down"
+      "text": "Arap alfabesi",
+      "answer": "ELİFBA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
     },
     {
-      "text": "Aldatmak için söylenen söz",
-      "answer": "YALAN",
+      "text": "Güney Amerika dağları",
+      "answer": "AND",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Demir için kullanılan kimyasal simge",
-      "answer": "FE",
-      "row": 6,
+      "text": "Öç isteği",
+      "answer": "KİN",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Küçük, yeşil bitki türü",
-      "answer": "OT",
+      "text": "Genişlik",
+      "answer": "EN",
       "row": 9,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yem bitkisi olarak ekilen baklagil",
-      "answer": "ARAKA",
-      "row": 0,
+      "text": "Konuğu ağırlama",
+      "answer": "İKRAM",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Düz, açık yer; saha",
-      "answer": "ALAN",
-      "row": 6,
+      "text": "Orman hayvanı",
+      "answer": "AYI",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     }
@@ -239,27 +218,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 6,
       "col": 4
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 0,
+      "col": 7
     },
     {
-      "row": 11,
-      "col": 7
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 0
     }
   ],
   "difficulty": "zor",

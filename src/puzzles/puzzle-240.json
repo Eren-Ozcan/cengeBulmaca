@@ -5,268 +5,205 @@
   "cols": 9,
   "clues": [
     {
-      "text": "İtalya'nın başkenti",
-      "answer": "ROMA",
+      "text": "Aynı atom numarası",
+      "answer": "İZOTOP",
       "row": 0,
-      "col": 0,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Kamuya açık bildiri",
-      "answer": "İLAN",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Eşyaların saklandığı kapaklı mobilya",
-      "answer": "DOLAP",
+      "text": "Üreme ürünü",
+      "answer": "DÖL",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şarap, içki (eski dilde)",
-      "answer": "BADE",
+      "text": "Doğum yardımcısı",
+      "answer": "EBE",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Amca karısı",
+      "answer": "YENGE",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kabayı inceden ayıran delikli araç",
-      "answer": "ELEK",
+      "text": "Emek, çaba",
+      "answer": "SAY",
       "row": 3,
-      "col": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Küçük, sürü halinde yaşayan balık türü",
-      "answer": "ATERİNA",
+      "text": "Yeni yaratım",
+      "answer": "İCAT",
       "row": 4,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yorgunluk bildiren ünlem",
-      "answer": "OF",
+      "text": "Beyitli divan türü",
+      "answer": "MESNEVİ",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Do-re-mi'nin son hecesi",
-      "answer": "Mİ",
-      "row": 5,
+      "text": "Zodyakın ilk burcu",
+      "answer": "KOÇ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tikel",
+      "answer": "KISMİ",
+      "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kızıl renk",
-      "answer": "AL",
-      "row": 5,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Miktar bildiren sözcük",
-      "answer": "ADET",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İnisiyatif alan, atılgan",
-      "answer": "ATAK",
+      "text": "Leyli",
+      "answer": "YATILI",
       "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Kripton'un simgesi",
-      "answer": "KR",
-      "row": 6,
-      "col": 7,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Tat alma ve konuşmayı sağlayan organ",
-      "answer": "DİL",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Vücudu kaplayan örtü",
-      "answer": "DERİ",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski konaklama yapısı; hükümdar",
-      "answer": "HAN",
+      "text": "Taraf, istikamet",
+      "answer": "YÖN",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Savunma amaçlı taş yapı",
-      "answer": "KALE",
+      "text": "Yaldızlı tel",
+      "answer": "SIRMA",
       "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Emile Zola'nın bir romanı",
-      "answer": "NANA",
+      "text": "Osmanlı parası",
+      "answer": "AKÇE",
       "row": 10,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Görme engelli kişi (eski dilde)",
-      "answer": "AMA",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Notalarda dördüncü sıradaki ses",
-      "answer": "FA",
+      "text": "At bakıcısı",
+      "answer": "SEYİS",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Büyük boyutlu",
-      "answer": "İRİ",
+      "text": "Kışın uyuyan hayvan",
+      "answer": "AYI",
       "row": 11,
-      "col": 2,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Dokuzu izleyen sayı",
-      "answer": "ON",
+      "text": "Tahsisat",
+      "answer": "ÖDENEK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bölge çevresi",
+      "answer": "YÖRE",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Cephe, yüz",
+      "answer": "ÖN",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Katmanlı sebze",
+      "answer": "SOĞAN",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Evin bölmelerinden her biri",
-      "answer": "ODA",
+      "text": "Enteresan",
+      "answer": "İLGİNÇ",
       "row": 0,
-      "col": 1,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kebabıyla ünlü ilimiz",
-      "answer": "ADANA",
+      "text": "Hükümdar eşi",
+      "answer": "ECE",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Misilleme cezası",
+      "answer": "KISAS",
       "row": 6,
-      "col": 1,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Geçici yenilik düşkünlüğü",
-      "answer": "MODA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Parthenon Tapınağı'nın kenti",
-      "answer": "ATİNA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tamirde kullanılan avadanlık",
-      "answer": "ALET",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gövdeden ayrılan ağaç kolu",
-      "answer": "DAL",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Nikel'in kimyasal simgesi",
-      "answer": "Nİ",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Alın teri",
-      "answer": "EMEK",
+      "text": "Av mesleği",
+      "answer": "AVCILIK",
       "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kış mevsiminin beyaz yağışı",
-      "answer": "KAR",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Birinci Dünya Savaşı'nda kullanılan kimyasal gaz",
-      "answer": "İPERİT",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Rusçadaki olumlu yanıt",
-      "answer": "DA",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 2,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarıya çalan göz rengi",
-      "answer": "ELA",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Amfitiyatro benzeri alan",
-      "answer": "ARENA",
+      "text": "Su kabı",
+      "answer": "TESTİ",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yumuşak, yağlı bakım ürünü",
-      "answer": "KREM",
+      "text": "Cam (eski dilde)",
+      "answer": "SIRÇA",
       "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Göçebe yerleşimi",
+      "answer": "OBA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Gıdaların enerji değeri birimi",
-      "answer": "KALORİ",
-      "row": 2,
+      "text": "Halk nefeslisi",
+      "answer": "MEY",
+      "row": 8,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Ortaya çıkmış",
+      "answer": "PEYDA",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Avcının kısmeti",
-      "answer": "AV",
-      "row": 9,
+      "text": "Eski dilde yapma",
+      "answer": "İKA",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -274,27 +211,47 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
       "row": 0,
-      "col": 6
+      "col": 5
     },
     {
-      "row": 0,
-      "col": 8
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 7
     },
     {
       "row": 6,
-      "col": 6
-    },
-    {
-      "row": 11,
-      "col": 6
-    },
-    {
-      "row": 11,
       "col": 7
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 2
+    },
+    {
+      "row": 10,
+      "col": 8
     }
   ],
   "difficulty": "zor",

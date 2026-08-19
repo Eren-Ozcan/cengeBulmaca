@@ -5,240 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kesilmiş ağaç levha",
-      "answer": "TAHTA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Başka ülkeden kişi",
-      "answer": "EL",
-      "row": 0,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Periyodik tablodaki Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kızartma kabı",
-      "answer": "TAVA",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Âlim",
-      "answer": "BİLGİN",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kedisiyle ünlü ilimiz",
-      "answer": "VAN",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Seçenek bildiren bağlaç",
-      "answer": "YA",
-      "row": 3,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Fındık rengi göz",
-      "answer": "ELA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ani saldırı, hücum",
-      "answer": "AKIN",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Karışık renkli, benekli",
-      "answer": "ALA",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Gemisiyle ünlü peygamber",
-      "answer": "NUH",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Temel, esas",
-      "answer": "ANA",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İşaret, belirti",
-      "answer": "İM",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zihinde canlandırılan şey",
-      "answer": "HAYAL",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tahılla karışık ekilen bir bakliyat",
-      "answer": "ARAKA",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Antakya'dan geçen ırmak",
-      "answer": "ASİ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Romanya'nın para birimi",
-      "answer": "LEU",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Görme engelli kişi (eski dilde)",
-      "answer": "AMA",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Un veya irmikle yapılan tatlı",
-      "answer": "HELVA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "'Aa, tamam' anlamında ünlem",
-      "answer": "HA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Galyum'un kimyasal simgesi",
-      "answer": "GA",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Alan; oyun yeri",
-      "answer": "SAHA",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
+      "text": "Şaşkınlık seslenişi",
+      "answer": "YAHU",
       "row": 0,
       "col": 4,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Süvarinin bindiği hayvan",
-      "answer": "AT",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüz kızartan duygu",
-      "answer": "AR",
-      "row": 9,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Göz açıp kapayana kadarki süre",
-      "answer": "AN",
+      "text": "Erkek keçi",
+      "answer": "TEKE",
       "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Heykel, sanem",
+      "answer": "PUT",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Görünüm",
+      "answer": "MANZARA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yunan dansı",
+      "answer": "SİRTAKİ",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kural, ölçüt",
+      "answer": "NORM",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Taşıt iskeleti",
+      "answer": "ŞASİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ecdat",
+      "answer": "ATA",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Çift karşıtı",
+      "answer": "TEK",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Araç lambası",
+      "answer": "FAR",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kadın rahip",
+      "answer": "RAHİBE",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bacak ucu",
+      "answer": "AYAK",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İz, benek",
+      "answer": "LEKE",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İç organlar",
+      "answer": "SAKATAT",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Güvence",
+      "answer": "TEMİNAT",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yılan sesi",
+      "answer": "TIS",
+      "row": 9,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Araç gövdesi",
+      "answer": "KAROSER",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dolap, oyun",
+      "answer": "ENTRİKA",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Maaşa yapılan",
+      "answer": "ZAM",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Babanın kız kardeşi",
+      "answer": "HALA",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok beyaz",
+      "answer": "APAK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Evlerde beslenen öten sarı kuş",
-      "answer": "KANARYA",
-      "row": 4,
+      "text": "Sağlıklı olma",
+      "answer": "AFİYET",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Aile ocağı",
-      "answer": "EV",
+      "text": "Cennet kızı",
+      "answer": "HURİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sürünerek hareket eden hayvan",
-      "answer": "YILAN",
-      "row": 3,
+      "text": "Katman",
+      "answer": "TABAKA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Temiz, lekesiz renk",
-      "answer": "AK",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeşil yapraklı kış sebzesi",
-      "answer": "LAHANA",
+      "text": "Japon şiiri",
+      "answer": "UTA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yaşça büyük kız kardeş",
-      "answer": "ABLA",
-      "row": 7,
+      "text": "Kımıldanma",
+      "answer": "HAREKET",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -246,23 +190,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
     },
     {
       "row": 0,
-      "col": 5
+      "col": 2
     },
     {
-      "row": 6,
+      "row": 0,
       "col": 3
+    },
+    {
+      "row": 8,
+      "col": 0
     },
     {
       "row": 9,
       "col": 2
     },
     {
-      "row": 11,
+      "row": 10,
       "col": 0
+    },
+    {
+      "row": 10,
+      "col": 2
     }
   ],
   "difficulty": "kolay",

@@ -5,240 +5,191 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Saç sakal tıraşı yapan kişi",
-      "answer": "BERBER",
+      "text": "Fransız idam aracı",
+      "answer": "GİYOTİN",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kaplama nesnesi",
+      "answer": "ÖRTÜ",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Akıl",
-      "answer": "US",
+      "text": "Çalım, gösteriş",
+      "answer": "AFİ",
       "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kafa",
+      "answer": "BAŞ",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Şaşkın, bilemeyen",
+      "answer": "AFAL",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Denizin ortasındaki kara",
+      "answer": "ADA",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Akım geçiren",
+      "answer": "İLETKEN",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kötü, fena",
+      "answer": "KEM",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Akşam yönü",
+      "answer": "BATI",
+      "row": 6,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alto keman",
+      "answer": "VİYOLA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek cins",
+      "answer": "ERİL",
+      "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Pislik, is",
-      "answer": "KİR",
-      "row": 2,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Orkestrayı yöneten kişi",
-      "answer": "ŞEF",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Karadeniz'in ünlü balığı",
-      "answer": "HAMSİ",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eski Mısır'ın güneş tanrısı",
-      "answer": "RA",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tufan gemisinin sahibi peygamber",
-      "answer": "NUH",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yalnız, biricik",
-      "answer": "TEK",
-      "row": 6,
+      "text": "Yaşam bölgesi",
+      "answer": "ZON",
+      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kozalaklı, iğne yapraklı ağaç",
-      "answer": "ÇAM",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Dişleriyle yemek delen sofra aracı",
-      "answer": "ÇATAL",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kimyada Berilyum'un simgesi",
-      "answer": "BE",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Volkandan fışkıran akkor madde",
-      "answer": "LAV",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "At yavrusu",
-      "answer": "TAY",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Donuk, ışıltısız",
-      "answer": "MAT",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Düğmenin içinden geçtiği delik",
-      "answer": "İLİK",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Loğusaya yardım eden kadın",
-      "answer": "EBE",
+      "text": "Kişi, şahıs",
+      "answer": "ZAT",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Bir bakışta geçen süre",
-      "answer": "AN",
-      "row": 11,
+      "text": "Yedi kenarlı",
+      "answer": "YEDİGEN",
+      "row": 10,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "İskambilde koz",
-      "answer": "ATU",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Baryum'un simgesi",
-      "answer": "BA",
+      "text": "Çizge",
+      "answer": "GRAFİK",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Gökyüzünün güçlü avcı kuşu",
-      "answer": "KARTAL",
-      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sol'den sonraki nota",
-      "answer": "LA",
-      "row": 9,
+      "text": "Onay damgası",
+      "answer": "VİZE",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İşaret, belirti",
-      "answer": "İM",
-      "row": 2,
+      "text": "Kelb",
+      "answer": "İT",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Delikli, seyrek dokunmuş kumaş",
-      "answer": "ETAMİN",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Eğitim için verilen destek parası",
-      "answer": "BURS",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Uzun boylu bir ağaç",
-      "answer": "KAVAK",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Notada sessizlik simgesi",
-      "answer": "ES",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvanların yer altındaki yuvası",
-      "answer": "İN",
+      "text": "Açık, apaçık",
+      "answer": "ALENİ",
       "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şairce ateş",
+      "answer": "OD",
+      "row": 9,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Cümlenin yargısı",
+      "answer": "YÜKLEM",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski karşıtı",
+      "answer": "YENİ",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ülkemizin zengin madeni",
+      "answer": "BOR",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sivri son bölüm",
-      "answer": "UÇ",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvansal besin maddesi",
-      "answer": "ET",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir selamlaşma sözü",
-      "answer": "MERHABA",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "En yakındaki şeyi belirten zamir",
-      "answer": "BU",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Hastalıktan kurtulma",
-      "answer": "ŞİFA",
+      "text": "Yemek kabı",
+      "answer": "TABAK",
       "row": 0,
-      "col": 7,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bitkinin yenilebilir çiçek sonrası ürünü",
-      "answer": "MEYVE",
-      "row": 5,
+      "text": "Tropikal rüzgâr",
+      "answer": "ALİZE",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Anlatım, açıklama",
+      "answer": "İFADE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yağma",
+      "answer": "TALAN",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İyi atış yapan",
+      "answer": "NİŞANCI",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -246,23 +197,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 5,
       "col": 0
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 7
     },
     {
       "row": 11,

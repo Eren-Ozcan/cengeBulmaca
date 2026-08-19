@@ -5,162 +5,141 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Türkiye'nin başkenti",
-      "answer": "ANKARA",
-      "row": 0,
+      "text": "Eşya mobilyası",
+      "answer": "DOLAP",
+      "row": 1,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Yabancı, ecnebi (eski dilde)",
-      "answer": "EL",
+      "text": "Biberin verdiği",
+      "answer": "ACI",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gecelemek için tutulan işletme",
-      "answer": "OTEL",
+      "text": "Uzaktaki yer",
+      "answer": "ORA",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Şaşkınlık bildiren ünlem",
-      "answer": "YA",
+      "text": "Kişi",
+      "answer": "ŞAHIS",
       "row": 3,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yüzük taşı olarak kullanılan mineral",
-      "answer": "AKİK",
+      "text": "Okyanus derinliği",
+      "answer": "ABİS",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gam dizisinin son notası",
-      "answer": "Sİ",
+      "text": "Yok olma",
+      "answer": "HELAK",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Letonya'nın başkenti",
+      "answer": "RİGA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Birim, tane",
-      "answer": "ADET",
+      "text": "Bağlama aracı",
+      "answer": "İP",
       "row": 7,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Evren pulu da denilen mineral",
-      "answer": "MİKA",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Baryum'un kimyasal simgesi",
-      "answer": "BA",
+      "text": "Atlı asker",
+      "answer": "SÜVARİ",
       "row": 8,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Namaza çağrı",
-      "answer": "EZAN",
+      "text": "İletken madde",
+      "answer": "METAL",
       "row": 9,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yankı",
-      "answer": "EKO",
-      "row": 1,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Kızıl renk",
-      "answer": "AL",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Antik Yunan uygarlığının merkezi",
-      "answer": "ATİNA",
+      "text": "Konuşulan konu",
+      "answer": "BAHİS",
       "row": 4,
-      "col": 1,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "right-down"
     },
     {
-      "text": "Temiz, lekesiz renk",
-      "answer": "AK",
-      "row": 3,
+      "text": "İç karşıtı",
+      "answer": "DIŞ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İçin için yanan ateş",
-      "answer": "KOR",
-      "row": 0,
-      "col": 3,
+      "text": "Hint prensesi",
+      "answer": "BEGÜM",
+      "row": 4,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
+      "text": "Ekleme, ulama",
+      "answer": "İLAVE",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Satrançta şah ve vezirden farklı bir taş",
-      "answer": "AT",
+      "text": "Yeni doğum yapmış",
+      "answer": "LOHUSA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sivri uçlu fırlatma silahı",
-      "answer": "OK",
-      "row": 3,
+      "text": "Satranç taşı",
+      "answer": "AT",
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Uyluk ile baldırı birleştiren eklem",
-      "answer": "DİZ",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Oy (eski dilde)",
-      "answer": "REY",
+      "text": "Kovan sakini",
+      "answer": "ARI",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zihinsel kabiliyet",
-      "answer": "ZEKA",
+      "text": "Kullanım ücreti",
+      "answer": "KİRA",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Birkaç taburdan oluşan askeri birlik",
-      "answer": "ALAY",
+      "text": "Pas oluşmuş",
+      "answer": "PASLI",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sabahın ilk ışıkları",
-      "answer": "TAN",
+      "text": "Enerji hücresi",
+      "answer": "PİL",
       "row": 6,
       "col": 6,
       "arrow": "down"
@@ -173,23 +152,23 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
     },
     {
       "row": 3,
-      "col": 1
+      "col": 0
     },
     {
       "row": 4,
       "col": 5
     },
     {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 2
+      "row": 9,
+      "col": 0
     }
   ],
   "difficulty": "orta",

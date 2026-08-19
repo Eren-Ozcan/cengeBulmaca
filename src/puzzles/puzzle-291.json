@@ -5,156 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Kareli kumaş",
-      "answer": "EKOSE",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
+      "text": "Söylence, efsane",
+      "answer": "MİT",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "İsim",
-      "answer": "AD",
+      "text": "Sıradan, kalitesiz",
+      "answer": "ADİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yenen bitki",
+      "answer": "SEBZE",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Trabzon'un bir ilçesi",
-      "answer": "OF",
-      "row": 2,
-      "col": 4,
+      "text": "Şube, birim",
+      "answer": "KOL",
+      "row": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Payitahtın eski adlarından biri",
-      "answer": "ASİTANE",
-      "row": 2,
+      "text": "Sığınak",
+      "answer": "KORUNAK",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Periyodik tablodaki Kripton'un simgesi",
-      "answer": "KR",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gözlük yerine kullanılan ince mercek",
-      "answer": "LENS",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Almanya'dan geçen önemli bir Avrupa nehri",
-      "answer": "REN",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Aynı değerde olan",
-      "answer": "EŞ",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde yapma, gerçekleştirme",
-      "answer": "İKA",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kalsiyum için kullanılan kimyasal simge",
-      "answer": "CA",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Menteşede kullanılan ince metal çubuk",
-      "answer": "MİL",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Lav püsküren dağ",
-      "answer": "VOLKAN",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ordu mensubu",
-      "answer": "ASKER",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kobalt'ın kimyasal simgesi",
-      "answer": "CO",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Selimiye Camii'nin bulunduğu şehir",
-      "answer": "EDİRNE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kızıl renk",
-      "answer": "AL",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalay için kullanılan kimyasal simge",
-      "answer": "SN",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Açık söylemeden belirtme",
-      "answer": "İMA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "En arkadaki, sonuncu",
-      "answer": "SON",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Çin'in başkenti",
-      "answer": "PEKİN",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Batı Anadolu yiğidi",
-      "answer": "EFE",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Soğukta omuza atılan örtü",
-      "answer": "ŞAL",
+      "text": "Çekişme, anlaşmazlık, kavga",
+      "answer": "NİZA",
       "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Suların donması",
+      "answer": "DON",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Salepgil süs çiçeği",
+      "answer": "ORKİDE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Üyelik ücreti",
+      "answer": "AİDAT",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ana, valide",
+      "answer": "ANNE",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Fiyat kırma",
+      "answer": "İSKONTO",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kuram",
+      "answer": "TEORİ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Nâzım Hikmet'in soyadı",
+      "answer": "RAN",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Üst giysisi",
+      "answer": "BLUZ",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Öç isteği",
+      "answer": "KİN",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok karşıtı",
+      "answer": "AZ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Az bulunur",
+      "answer": "NADİDE",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İlaç, çare",
+      "answer": "DEVA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Meslek kuruluşu",
+      "answer": "ODA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağlayan parça",
+      "answer": "KENET",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     }
@@ -162,43 +148,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 3
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 3
-    },
-    {
-      "row": 4,
-      "col": 4
-    },
-    {
-      "row": 4,
       "col": 6
     },
     {
-      "row": 5,
-      "col": 4
+      "row": 2,
+      "col": 6
     },
     {
-      "row": 7,
+      "row": 6,
       "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 5
     },
     {
       "row": 9,

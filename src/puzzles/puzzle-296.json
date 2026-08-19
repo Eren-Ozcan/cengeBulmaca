@@ -5,156 +5,135 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Türkmenistan'ın başkenti",
-      "answer": "AŞKABAT",
+      "text": "24 saatlik süre",
+      "answer": "GÜN",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sahne dansı sanatı",
-      "answer": "BALE",
+      "text": "Şarkının metni",
+      "answer": "SÖZ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Rüşvet veren",
+      "answer": "RAŞİ",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hediye",
-      "answer": "ARMAĞAN",
+      "text": "Borç belgesi",
+      "answer": "SENET",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Altın'ın kimyasal simgesi",
-      "answer": "AU",
+      "text": "Yüksek faizci",
+      "answer": "TEFECİ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 4,
+      "text": "Hile, düzen",
+      "answer": "AL",
+      "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Donuk, ışıltısız",
-      "answer": "MAT",
-      "row": 5,
-      "col": 1,
+      "text": "Enerji çeviren düzenek",
+      "answer": "MAKİNE",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Küçük metal kap",
-      "answer": "TAS",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Selimiye Camii'nin bulunduğu şehir",
-      "answer": "EDİRNE",
-      "row": 6,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Portakal çiçeği kokan ilimiz",
-      "answer": "ADANA",
+      "text": "Bağlı, vefalı",
+      "answer": "SADIK",
       "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tespih başlığı",
+      "answer": "İMAME",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tavır",
+      "answer": "TUTUM",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Osmanlı'nın ilk gümüş parası",
-      "answer": "AKÇE",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Görüş alışverişi için toplanan kurul",
-      "answer": "ŞURA",
+      "text": "Mal çıkarma",
+      "answer": "ÜRETİM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Cilve, naz",
-      "answer": "EDA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Fitilli aydınlatma aracı",
-      "answer": "MUM",
-      "row": 2,
+      "text": "Kokulu bitki",
+      "answer": "NANE",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Rus dilinde olumlama sözü",
-      "answer": "DA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalın yünden yapılan kumaş",
-      "answer": "ABA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Akropolis'in bulunduğu şehir",
-      "answer": "ATİNA",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Üzüm yetiştirilen yer",
-      "answer": "BAĞ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Saç bakımında kullanılan araç",
-      "answer": "TARAK",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir etkinliğin yapıldığı saha",
-      "answer": "ALAN",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Kalay'ın simgesi",
-      "answer": "SN",
+      "text": "Turnusol kızartan",
+      "answer": "ASİT",
       "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Orkestra yöneticisi",
+      "answer": "ŞEF",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Amme",
+      "answer": "KAMU",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İnternet sayfası",
+      "answer": "SİTE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ölüm cezası",
+      "answer": "İDAM",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sevgi seslenmesi",
+      "answer": "CANIM",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Raketle oynanan spor",
-      "answer": "TENİS",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğuma yardım eden sağlıkçı",
-      "answer": "EBE",
-      "row": 6,
+      "text": "Çok sıkıntı çeken",
+      "answer": "ÇİLEKEŞ",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -162,23 +141,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 5
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 6,
+      "row": 7,
       "col": 0
-    },
-    {
-      "row": 8,
-      "col": 5
     },
     {
       "row": 9,
-      "col": 0
+      "col": 5
     }
   ],
   "difficulty": "orta",

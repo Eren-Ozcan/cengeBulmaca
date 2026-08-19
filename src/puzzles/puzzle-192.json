@@ -5,268 +5,240 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Haber sunucusu",
-      "answer": "SPİKER",
+      "text": "Zemberek",
+      "answer": "YAY",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Geleneksel Japon ezgisi",
-      "answer": "UTA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir işe harcanan güç",
-      "answer": "EMEK",
-      "row": 2,
+      "text": "Yazı sırası",
+      "answer": "SATIR",
+      "row": 0,
       "col": 4,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Maçın oynandığı alan",
-      "answer": "SAHA",
-      "row": 3,
+      "text": "Yolculuk çantası",
+      "answer": "BAVUL",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Geniş, verimli düzlük",
-      "answer": "OVA",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
+      "text": "İdrar torbası",
+      "answer": "MESANE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Ülkenin idari bölümü",
-      "answer": "İL",
+      "text": "Sıvı aracı",
+      "answer": "HUNİ",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Üstteki kara leke",
-      "answer": "KİR",
+      "text": "Kapladığı boşluk",
+      "answer": "HACİM",
       "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tarlada yetişen tahıl bitkisi",
-      "answer": "EKİN",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yedi tepe üzerine kurulu başkent",
-      "answer": "ROMA",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Otuz güne yakın süren zaman birimi",
-      "answer": "AY",
-      "row": 6,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Kedisiyle ünlü ilimiz",
-      "answer": "VAN",
-      "row": 7,
+      "text": "Tehirli, gecikmiş",
+      "answer": "GEÇ",
+      "row": 6,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Birim, tane",
-      "answer": "ADET",
+      "text": "Kadın elbisesi",
+      "answer": "ROP",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Terazi gözü",
+      "answer": "KEFE",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İnsan öldüren",
+      "answer": "KATİL",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güney Amerika'nın yük hayvanı",
-      "answer": "LAMA",
+      "text": "Üstünlük eki",
+      "answer": "EN",
       "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Birkaç taburdan oluşan askeri birlik",
-      "answer": "ALAY",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yanan ateşin dili",
-      "answer": "ALEV",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Element tablosunda Cıva'nın simgesi",
-      "answer": "HG",
-      "row": 9,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ekmek yapımında kullanılan toz madde",
-      "answer": "UN",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İlgili, ilişkin",
-      "answer": "AİT",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Mal karşılığı mal alma",
-      "answer": "TAKAS",
-      "row": 12,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "'Nedir' sorusunun kısası",
-      "answer": "NE",
-      "row": 12,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Hafif sis",
-      "answer": "PUS",
+      "text": "Cennet kızı",
+      "answer": "HURİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Namus sözü",
+      "answer": "ANT",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Menekşe rengi",
+      "answer": "MOR",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Korunma duruşu",
+      "answer": "GARD",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Fitilli araç",
+      "answer": "MUM",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ad",
+      "answer": "İSİM",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İğne yapraklı ağaç",
+      "answer": "ÇAM",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Soyun büyüğü",
+      "answer": "ATA",
+      "row": 12,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gereksiz, yersiz",
+      "answer": "ABES",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Terazi simgesiyle anılan kavram",
-      "answer": "ADALET",
+      "text": "Gelin çeyiz parası",
+      "answer": "DRAHOMA",
       "row": 6,
-      "col": 1,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "right-down"
     },
     {
-      "text": "Eski dilde ödeme, verme",
-      "answer": "İTA",
+      "text": "Matem",
+      "answer": "YAS",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Atın ense kısmındaki uzun kıllar",
-      "answer": "YELE",
+      "text": "Meclis çalışması",
+      "answer": "OTURUM",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Piramitlere yakın Mısır başkenti",
-      "answer": "KAHİRE",
-      "row": 0,
+      "text": "Çöl yeşilliği",
+      "answer": "VAHA",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kümeste beslenen, gıdaklayan hayvan",
-      "answer": "TAVUK",
+      "text": "Tarikat kurucusu",
+      "answer": "PİR",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Program takdimcisi",
+      "answer": "SUNUCU",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Karşılaşmalar kümesi",
+      "answer": "LİG",
       "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kızıl renk",
-      "answer": "AL",
-      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 10,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Do'dan sonraki nota",
-      "answer": "RE",
+      "text": "Açık, apaçık",
+      "answer": "ALENİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Rütbesiz asker, nefer",
-      "answer": "ER",
-      "row": 4,
+      "text": "Mensup, bağlı",
+      "answer": "AİT",
+      "row": 9,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Rusya'nın başkenti",
-      "answer": "MOSKOVA",
-      "row": 1,
+      "text": "Hayal",
+      "answer": "İMGE",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Galyum için kullanılan kimyasal simge",
-      "answer": "GA",
-      "row": 9,
+      "text": "Yapı arazisi",
+      "answer": "ARSA",
+      "row": 8,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Aile ocağı",
-      "answer": "EV",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
-      "row": 4,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvanların yer altındaki yuvası",
-      "answer": "İN",
-      "row": 10,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Halk dilinde ağabey",
-      "answer": "AKA",
+      "text": "Sıcaklık derecesi",
+      "answer": "ISI",
       "row": 0,
-      "col": 8,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Emile Zola'nın ünlü romanı",
-      "answer": "NANA",
-      "row": 4,
-      "col": 8,
+      "text": "Nazik kimse",
+      "answer": "EFENDİ",
+      "row": 5,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Belirli bir noktanın ilerisi, karşı taraf",
-      "answer": "ÖTE",
-      "row": 9,
+      "text": "Profesör öncesi",
+      "answer": "DOÇENT",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     }
@@ -274,7 +246,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 3
     },
     {
       "row": 0,
@@ -282,27 +254,43 @@
     },
     {
       "row": 0,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 8
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 4,
       "col": 7
     },
     {
-      "row": 4,
+      "row": 5,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 1
+      "row": 8,
+      "col": 5
     },
     {
-      "row": 6,
-      "col": 0
+      "row": 10,
+      "col": 8
     },
     {
-      "row": 7,
-      "col": 4
+      "row": 12,
+      "col": 7
     },
     {
-      "row": 11,
-      "col": 0
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "zor",

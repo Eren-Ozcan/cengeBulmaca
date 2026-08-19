@@ -5,205 +5,191 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Televizyonda haberleri okuyan kişi",
-      "answer": "SPİKER",
+      "text": "Cezaya dair",
+      "answer": "CEZAİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Beraberlik bildiren bağlaç",
-      "answer": "İLE",
+      "text": "Tedavi kurumu",
+      "answer": "HASTANE",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kolun ucundaki tutma organı",
-      "answer": "EL",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yapı tasarımcısı",
-      "answer": "MİMAR",
+      "text": "Yönetim gücü",
+      "answer": "İKTİDAR",
       "row": 3,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hava akımı sağlayan pervane",
-      "answer": "FAN",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 4,
+      "text": "Sıradaki başlangıç",
+      "answer": "İLK",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eskiden kullanılan 'ayak' anlamlı kelime",
-      "answer": "PA",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Sofraya konan sıcak yemek",
-      "answer": "AŞ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Raylar üzerinde giden taşıt",
-      "answer": "TREN",
-      "row": 6,
+      "text": "Çay ilimiz",
+      "answer": "RİZE",
+      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Aile ocağı",
-      "answer": "EV",
-      "row": 6,
+      "text": "Bilgiçlik taslayan",
+      "answer": "UKALA",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Geçişme olayı",
+      "answer": "OZMOZ",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aynı kökenden gelen büyük topluluk",
-      "answer": "ULUS",
-      "row": 8,
+      "text": "Yörünge cismi",
+      "answer": "UYDU",
+      "row": 7,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kimyada Kalsiyum'un simgesi",
-      "answer": "CA",
+      "text": "Koruyucu uygulama",
+      "answer": "AŞI",
       "row": 8,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Renkli kanatlarıyla uçan böcek",
-      "answer": "KELEBEK",
+      "text": "Bitki bilimi",
+      "answer": "BOTANİK",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Parlak, kutsal ışık",
-      "answer": "NUR",
+      "text": "Fakülte yöneticisi",
+      "answer": "DEKAN",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Namus, onur",
+      "answer": "AR",
       "row": 10,
-      "col": 1,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "İşinin ehli kimse",
-      "answer": "USTA",
+      "text": "Kaba ayakkabı",
+      "answer": "KUNDURA",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Müzikte susma işareti",
-      "answer": "ES",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Taşınabilir elektrik kaynağı",
-      "answer": "PİL",
+      "text": "Yetkin, uzman",
+      "answer": "EHİL",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kümeste beslenen, gıdaklayan hayvan",
-      "answer": "TAVUK",
-      "row": 4,
+      "text": "Ege efesi",
+      "answer": "ZEYBEK",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ülkenin idari bölümü",
-      "answer": "İL",
+      "text": "Zehirli süs çalısı",
+      "answer": "ZAKKUM",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Oyun masasında para yerine kullanılan jeton",
-      "answer": "FİŞ",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gözlük yerine kullanılan ince mercek",
-      "answer": "LENS",
+      "text": "Hücre topluluğu",
+      "answer": "DOKU",
       "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yaylı bir çalgı",
-      "answer": "KEMAN",
+      "text": "Alt görevli",
+      "answer": "AST",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gökyüzünde biriken su buharı kütlesi",
-      "answer": "BULUT",
+      "text": "Kumandan",
+      "answer": "KOMUTAN",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Karşı çıkma",
+      "answer": "İTİRAZ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Güney Amerika dağları",
+      "answer": "AND",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Adaletli",
+      "answer": "ADİL",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Vantilatör",
+      "answer": "FAN",
       "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ayak direme",
-      "answer": "İNAT",
-      "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bitkilerin korunduğu cam yapı",
-      "answer": "SERA",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Anadolu kökenli Ortodoks Hristiyan",
-      "answer": "RUM",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Duvardaki ışık ve hava alan açıklık",
-      "answer": "PENCERE",
-      "row": 4,
+      "text": "Kem göz",
+      "answer": "NAZAR",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Denizde yaşayan kırmızı canlı",
-      "answer": "MERCAN",
+      "text": "Düstur",
+      "answer": "ŞİAR",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yuvarlak başlık",
+      "answer": "BERE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Temiz, lekesiz renk",
-      "answer": "AK",
-      "row": 7,
+      "text": "Nükteli hikâye",
+      "answer": "FIKRA",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -211,39 +197,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 5
+      "row": 5,
+      "col": 7
     },
     {
       "row": 7,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 7
+      "col": 4
     }
   ],
   "difficulty": "zor",

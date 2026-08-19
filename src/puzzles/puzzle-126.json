@@ -5,177 +5,121 @@
   "cols": 7,
   "clues": [
     {
-      "text": "İlave, ulama",
-      "answer": "EK",
+      "text": "Padişah oğlu",
+      "answer": "ŞEHZADE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Elektrik direnç birimi",
-      "answer": "OM",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Duyuru tahtası",
-      "answer": "PANO",
+      "text": "Zemin, arka plan",
+      "answer": "FON",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hediye",
-      "answer": "ARMAĞAN",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kamuya açık bildiri",
-      "answer": "İLAN",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Do'dan sonra gelen nota",
-      "answer": "RE",
-      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Hayvan yemi olarak yetiştirilen bakliyat",
-      "answer": "ARAKA",
-      "row": 5,
+      "text": "Övgü şiiri",
+      "answer": "KASİDE",
+      "row": 3,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mikstür",
+      "answer": "KARIŞIM",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Saygıyla anılan büyük erkek kardeş",
-      "answer": "AKA",
-      "row": 7,
+      "text": "Harp",
+      "answer": "SAVAŞ",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bilinçaltındaki dürtüler bütünü",
-      "answer": "İD",
+      "text": "Eli işe yatkın",
+      "answer": "HAMARAT",
       "row": 6,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Farsça kökenli 'su' sözcüğü",
-      "answer": "AB",
-      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Atın boyun kılları",
-      "answer": "YELE",
+      "text": "Maharet",
+      "answer": "BECERİ",
       "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hukukun temel ilkesi",
-      "answer": "ADALET",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yemek, çorba",
-      "answer": "AŞ",
-      "row": 2,
+      "text": "Veraset",
+      "answer": "KALITIM",
+      "row": 8,
       "col": 0,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Kış mevsiminin beyaz yağışı",
-      "answer": "KAR",
-      "row": 0,
+      "text": "Köyden büyük yer",
+      "answer": "KASABA",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Otomobil",
-      "answer": "ARABA",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
+      "text": "Yanık şeker",
+      "answer": "KARAMEL",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kar ve süt rengi",
-      "answer": "AK",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Işıltılı, rengarenk bir süs taşı",
-      "answer": "OPAL",
-      "row": 0,
+      "text": "Duvar sıvayan",
+      "answer": "SIVACI",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dağın sert taş bloğu",
-      "answer": "KAYA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğal yer altı boşluğu, in",
-      "answer": "MAĞARA",
+      "text": "Cezanın kaldırılması",
+      "answer": "AF",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kolun tutmaya yarayan bölümü",
-      "answer": "EL",
-      "row": 7,
+      "text": "Belirti, jest",
+      "answer": "İŞARET",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ferahlatıcı kokusuyla bilinen bitki",
-      "answer": "NANE",
-      "row": 1,
+      "text": "Re'den önceki nota",
+      "answer": "DO",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "'-la, -le' yerine kullanılan bağlaç",
-      "answer": "İLE",
-      "row": 6,
+      "text": "İçeri karşıtı",
+      "answer": "DIŞARI",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bitiş; en arkada olan",
-      "answer": "SON",
+      "text": "Ekvator uzaklığı",
+      "answer": "ENLEM",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Birim, tane",
-      "answer": "ADET",
-      "row": 5,
+      "text": "Küçük ekip",
+      "answer": "TİM",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     }
@@ -183,15 +127,27 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 5
+      "col": 3
     },
     {
-      "row": 4,
-      "col": 6
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 0
     }
   ],
   "difficulty": "zor",

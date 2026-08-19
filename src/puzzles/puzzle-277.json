@@ -5,303 +5,261 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Karşılıklı değişim",
-      "answer": "TAKAS",
+      "text": "Huzur, sıkıntısızlık",
+      "answer": "RAHAT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dünya'nın etrafında dönen gök cismi",
-      "answer": "AY",
-      "row": 0,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kimyada Radyum'un simgesi",
-      "answer": "RA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Cümle sonuna konan işaret",
-      "answer": "NOKTA",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Emile Zola'nın bir romanı",
-      "answer": "NANA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Do-re-mi'nin son hecesi",
-      "answer": "Mİ",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Parklardaki oturma sırası",
-      "answer": "BANK",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Rumca konuşan Ortodoks vatandaş",
-      "answer": "RUM",
-      "row": 4,
+      "text": "Sağlam, dayanıklı",
+      "answer": "PEK",
+      "row": 1,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Yüz metrekarelik alan ölçüsü",
-      "answer": "AR",
-      "row": 5,
+      "text": "Kaplumbağa kabuğu",
+      "answer": "BAĞA",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İskambilde birli kağıt",
-      "answer": "AS",
-      "row": 5,
+      "text": "Aralık sözü",
+      "answer": "İLA",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Üstünde gözleme pişen",
+      "answer": "SAC",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İnce kamış",
+      "answer": "BAMBU",
+      "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Hayatın vazgeçilmez sıvısı",
+      "text": "Hangi sebeple",
+      "answer": "NİÇİN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ortadaki bölüm",
+      "answer": "İÇ",
+      "row": 4,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Renkli taş bezeme",
+      "answer": "MOZAİK",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Berrak içecek",
       "answer": "SU",
       "row": 5,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Kardeş çocuğu",
-      "answer": "YEĞEN",
+      "text": "Uzun kulaklı hayvan",
+      "answer": "EŞEK",
       "row": 6,
-      "col": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kızıl renkli bir metal",
-      "answer": "BAKIR",
+      "text": "Berabere kalma",
+      "answer": "PATA",
       "row": 7,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hükümdarın konakladığı büyük çadır",
-      "answer": "OTAĞ",
+      "text": "Zanaat çalışma yeri",
+      "answer": "ATÖLYE",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Notada durak işareti",
-      "answer": "ES",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Alpler'den doğan İtalyan nehri",
-      "answer": "PO",
+      "text": "Toz mürekkep",
+      "answer": "TONER",
       "row": 8,
-      "col": 7,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Kalecinin savunduğu alan",
-      "answer": "KALE",
+      "text": "Aile ocağı",
+      "answer": "EV",
+      "row": 9,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Denizden elde edilen",
+      "answer": "TUZ",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mısır'dan geçen ırmak",
-      "answer": "NİL",
+      "text": "Uzaktaki yer",
+      "answer": "ORA",
       "row": 10,
-      "col": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Bir şeyi belirten iz",
-      "answer": "İM",
+      "text": "Geri verilecek para",
+      "answer": "BORÇ",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Doğru olmayan beyan",
-      "answer": "YALAN",
+      "text": "Pamuklu kumaş",
+      "answer": "BEZ",
       "row": 11,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Ani saldırı",
-      "answer": "ATAK",
+      "text": "Gölüyle ünlü il",
+      "answer": "VAN",
       "row": 11,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Anlama ve kavrama yetisi",
-      "answer": "ZEKA",
+      "text": "İş verme",
+      "answer": "İHALE",
       "row": 12,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Motorlu taşıt",
-      "answer": "ARABA",
+      "text": "Sert siyah ağaç",
+      "answer": "ABANOZ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Berilyum'un simgesi",
-      "answer": "BE",
+      "text": "Pistonlu çalgı",
+      "answer": "TUBA",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Mal alıkoyma",
+      "answer": "HACİZ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Koruyucu gaz",
+      "answer": "OZON",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Avlanma gereci",
+      "answer": "AĞ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çarpma öğesi",
+      "answer": "ÇARPAN",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğal",
+      "answer": "TABİİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ocağa kömür atan",
+      "answer": "ATEŞÇİ",
       "row": 6,
-      "col": 1,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir şeyin malı olan",
-      "answer": "AİT",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Güzel sesiyle bilinen kafes kuşu",
-      "answer": "KANARYA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Adem ile Havva kıssasında geçen meyve",
-      "answer": "ELMA",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çabucak geçen zaman dilimi",
-      "answer": "AN",
+      "text": "Anket yapan",
+      "answer": "ANKETÖR",
       "row": 2,
-      "col": 3,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kareli kumaş",
-      "answer": "EKOSE",
+      "text": "Tutturucu çubuk",
+      "answer": "PİM",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Omuz örtüsü",
+      "answer": "ŞAL",
       "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Kalay'ın simgesi",
-      "answer": "SN",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Selülozdan üretilen ince tabaka",
-      "answer": "KAĞIT",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Georg Ohm'dan gelen birim",
-      "answer": "OM",
-      "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bitki yetiştirilen camlık",
-      "answer": "SERA",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kendini beğendirme cilvesi",
-      "answer": "NAZ",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Temizlenmesi gereken pislik",
-      "answer": "KİR",
-      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Beraberlik bildiren bağlaç",
-      "answer": "İLE",
+      "text": "Göçebe yerleşimi",
+      "answer": "OBA",
       "row": 9,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Satrançta bir taş",
-      "answer": "AT",
+      "text": "Giysi",
+      "answer": "ELBİSE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Akıl",
-      "answer": "US",
-      "row": 3,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Gramofonda çalınan disk",
-      "answer": "PLAK",
-      "row": 8,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Buluttan yağan su damlaları",
-      "answer": "YAĞMUR",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Kobalt'ın kimyasal simgesi",
-      "answer": "CO",
+      "text": "Yöresel",
+      "answer": "YEREL",
       "row": 7,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Lastik özsuyu",
+      "answer": "KAUÇUK",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 10,
+      "text": "Uçtan geniş etek",
+      "answer": "EVAZE",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -309,15 +267,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
     },
     {
       "row": 6,
@@ -325,19 +275,23 @@
     },
     {
       "row": 6,
-      "col": 7
+      "col": 2
     },
     {
       "row": 7,
-      "col": 6
+      "col": 0
     },
     {
       "row": 7,
-      "col": 7
+      "col": 1
     },
     {
-      "row": 9,
-      "col": 4
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 3
     }
   ],
   "difficulty": "kolay",

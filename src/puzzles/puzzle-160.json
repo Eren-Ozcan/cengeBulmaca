@@ -5,275 +5,198 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Ayakkabı",
-      "answer": "PABUÇ",
+      "text": "Tarih uzmanı",
+      "answer": "TARİHÇİ",
       "row": 0,
-      "col": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Besinlerdeki enerji ölçüsü",
-      "answer": "KALORİ",
+      "text": "Ses (eski dilde)",
+      "answer": "SEDA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gelin duvağının rengi",
-      "answer": "AL",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde dünya, cihan",
-      "answer": "ACUN",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Galyum'un simgesi",
-      "answer": "GA",
-      "row": 4,
+      "text": "Dokuma kumaş",
+      "answer": "BEZ",
+      "row": 2,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Rusça onay sözcüğü",
-      "answer": "DA",
+      "text": "Şaşkın, bilemeyen",
+      "answer": "AFAL",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Fakat, lakin",
+      "answer": "AMA",
+      "row": 3,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Çizgili etiket",
+      "answer": "BARKOD",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Birden sonraki sayı",
+      "answer": "İKİ",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
+      "text": "Ege'nin yiğidi",
+      "answer": "EFE",
       "row": 5,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Beklenmedik talihsiz olay",
-      "answer": "KAZA",
+      "text": "Büyük kara kütlesi",
+      "answer": "KITA",
       "row": 5,
-      "col": 0,
+      "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Şöhret, şan",
-      "answer": "ÜN",
-      "row": 6,
-      "col": 4,
+      "text": "Mal getirme",
+      "answer": "İTHAL",
+      "row": 7,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ata dizisi, nesep",
-      "answer": "SOY",
-      "row": 7,
+      "text": "Havada duran",
+      "answer": "ASILI",
+      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Düdük sesi",
-      "answer": "Tİ",
-      "row": 7,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Kanın dolaştığı kanal",
-      "answer": "DAMAR",
-      "row": 7,
+      "text": "Yanık şeker",
+      "answer": "KARAMEL",
+      "row": 9,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Lüks gezinti gemisi",
-      "answer": "YAT",
-      "row": 8,
-      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Dört tekerlekli taşıt",
-      "answer": "ARABA",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Davulla birlikte çalınan üflemeli çalgı",
-      "answer": "ZURNA",
-      "row": 9,
+      "text": "Kusur",
+      "answer": "KABAHAT",
+      "row": 10,
       "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ekmek yapımında kullanılan toz madde",
-      "answer": "UN",
-      "row": 10,
-      "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Doğuran, büyüten kadın",
-      "answer": "ANNE",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kedi düşmanı küçük hayvan",
-      "answer": "FARE",
+      "text": "Taş atma",
+      "answer": "SAPAN",
       "row": 11,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sekizli dizinin ilk sesi",
-      "answer": "DO",
-      "row": 7,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Portakal çiçeği kokan ilimiz",
-      "answer": "ADANA",
-      "row": 3,
+      "text": "Sinirli, öfkeli",
+      "answer": "ASABİ",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çinko'nun kimyasal simgesi",
-      "answer": "ZN",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Kalsiyum'un simgesi",
-      "answer": "CA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Afrika kökenli bir müzik türü",
-      "answer": "CAZ",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Mobilyacılıkta kullanılan kızıl kerestelik ağaç",
-      "answer": "MAUN",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Romanya'da kullanılan para birimi",
-      "answer": "LEU",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Otorite simgesi baston",
-      "answer": "ASA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Polonyum için kullanılan kimyasal simge",
-      "answer": "PO",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sodyum için kullanılan kimyasal simge",
-      "answer": "NA",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüzde ile ifade edilen değer",
-      "answer": "ORAN",
+      "text": "Birinci, öncü",
+      "answer": "İLK",
       "row": 6,
-      "col": 4,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Mola, dinlenme süresi",
-      "answer": "ARA",
+      "text": "Eşlik etme",
+      "answer": "REFAKAT",
       "row": 0,
-      "col": 5,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kuş vücudunu örten yapı",
-      "answer": "TÜY",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Duvara monte edilen eşya düzlüğü",
-      "answer": "RAF",
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
       "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yönetime dair",
+      "answer": "İDARİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Viran",
+      "answer": "HARAP",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ülke insanları",
+      "answer": "HALK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Köyden büyük yer",
+      "answer": "KASABA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Mutedil iklim",
+      "answer": "ILIMAN",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bilgisiyle tanınan kişi",
-      "answer": "BİLGİN",
+      "text": "Tapınma",
+      "answer": "İBADET",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Vurgu bildiren ünlem",
-      "answer": "YA",
+      "text": "Aleyh karşıtı",
+      "answer": "LEH",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bir bakışta geçen süre",
-      "answer": "AN",
-      "row": 3,
+      "text": "İlaç, merhem",
+      "answer": "EM",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Askeri birlik türü",
-      "answer": "TABUR",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kilise kulesindeki büyük zil",
-      "answer": "ÇAN",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "İstanbul'un eski adlarından biri",
-      "answer": "ASİTANE",
+      "text": "Ara, aralık",
+      "answer": "FASILA",
       "row": 4,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağımsız",
+      "answer": "AZADE",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     }
@@ -281,35 +204,51 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
+      "row": 6,
       "col": 0
     },
     {
-      "row": 1,
-      "col": 1
+      "row": 6,
+      "col": 8
     },
     {
-      "row": 2,
+      "row": 7,
+      "col": 8
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 8
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 6
+    },
+    {
+      "row": 11,
       "col": 7
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "kolay",

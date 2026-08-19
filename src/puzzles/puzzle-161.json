@@ -5,162 +5,134 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Antik Yunan uygarlığının merkezi",
-      "answer": "ATİNA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eski dilde su",
-      "answer": "AB",
+      "text": "İşitsel titreşim",
+      "answer": "SES",
       "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kabuk kırığı",
+      "answer": "FAY",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çok konuşan kimse",
+      "answer": "ÇENEBAZ",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İskambil kağıtlarının en değerlisi",
-      "answer": "AS",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
-      "row": 3,
+      "text": "Uyarı aleti",
+      "answer": "SİREN",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İçine bir şey konan nesne",
-      "answer": "KAP",
-      "row": 3,
+      "text": "Tren yolu",
+      "answer": "RAY",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Romanya'nın başkenti",
-      "answer": "BÜKREŞ",
-      "row": 3,
+      "text": "Doktor kâğıdı",
+      "answer": "REÇETE",
+      "row": 6,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Yüzün üst bölümü",
-      "answer": "ALIN",
-      "row": 5,
+      "text": "Dini tasvir; simge",
+      "answer": "İKON",
+      "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yetki simgesi değnek",
-      "answer": "ASA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kripton'un simgesi",
-      "answer": "KR",
-      "row": 6,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Türkiye'nin idari bölünme birimi",
-      "answer": "İL",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
+      "text": "Akyuvar hastalığı",
+      "answer": "LÖSEMİ",
       "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Güzel sanatların her biri",
-      "answer": "SANAT",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Belirti, emare",
-      "answer": "İZ",
-      "row": 7,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Belçika'nın başkenti",
-      "answer": "BRÜKSEL",
+      "text": "Ses bilgisi",
+      "answer": "FONETİK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eski başlık",
+      "answer": "FES",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dilbilgisinde kelimeye eklenen parça",
-      "answer": "EK",
-      "row": 2,
+      "text": "Dürülmüş kağıt",
+      "answer": "RULO",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dakikanın altmışta biri",
+      "answer": "SANİYE",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tantal'ın kimyasal simgesi",
-      "answer": "TA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Radyum için kullanılan kimyasal simge",
-      "answer": "RA",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir şeyi teslim etme (eski dilde)",
-      "answer": "İTA",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gemilerin yanaştığı yer",
-      "answer": "İSKELE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvanların yer altındaki yuvası",
-      "answer": "İN",
+      "text": "Arka karşıtı",
+      "answer": "ÖN",
       "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hayvan koltuğu",
+      "answer": "EYER",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hafif, ince yağmur",
+      "answer": "ÇİSE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bolluk",
+      "answer": "BEREKET",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İğneyle vücuda verilen bağışıklık maddesi",
-      "answer": "AŞI",
+      "text": "Vücut yapısı bilimi",
+      "answer": "ANATOMİ",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Savaşçı, mert kimse",
-      "answer": "ALP",
+      "text": "Sırala, art arda koy",
+      "answer": "DİZ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Işıltı, ziya",
-      "answer": "NUR",
+      "text": "Yenilmiş, aşınmış",
+      "answer": "YENİK",
       "row": 4,
       "col": 6,
       "arrow": "down"
@@ -177,19 +149,27 @@
     },
     {
       "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 5
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 7,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
+      "col": 0
     }
   ],
   "difficulty": "orta",

@@ -5,250 +5,196 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Do'ya dönmeden önceki son nota",
-      "answer": "Sİ",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
+      "text": "Sıradan halk",
+      "answer": "AVAM",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Sanı, şüphe",
-      "answer": "ZAN",
+      "text": "Hatay'dan geçen ırmak",
+      "answer": "ASİ",
       "row": 1,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sindirim organı, karın boşluğundaki kese",
-      "answer": "MİDE",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 4,
+      "text": "Ege'nin yiğidi",
+      "answer": "EFE",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "En büyük kıta",
-      "answer": "ASYA",
-      "row": 4,
-      "col": 3,
+      "text": "Öğütülmüş tahıl",
+      "answer": "UN",
+      "row": 2,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Erkek sığır",
-      "answer": "BOĞA",
-      "row": 4,
+      "text": "Eski Osmanlı başkenti",
+      "answer": "EDİRNE",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dişi çocuk, evlat",
-      "answer": "KIZ",
+      "text": "İşlenmiş hayvan derisi",
+      "answer": "GÖN",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Karışık canlı",
+      "answer": "MELEZ",
       "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Damağın algıladığı lezzet",
-      "answer": "TAT",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "'-la, -le' yerine kullanılan bağlaç",
-      "answer": "İLE",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Takvimdeki belirli bir gün",
-      "answer": "TARİH",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Satrançta bir taş",
-      "answer": "AT",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yavrusunu doğuran dişi",
-      "answer": "ANA",
-      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bir soru sözcüğü",
-      "answer": "NE",
-      "row": 8,
-      "col": 5,
+      "text": "Ululuk",
+      "answer": "AZAMET",
+      "row": 6,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İnsanların barındığı yapı",
-      "answer": "EV",
-      "row": 8,
+      "text": "Göz kapağı makyajı",
+      "answer": "FAR",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Halk dilinde ağabey",
-      "answer": "AKA",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İskambilde birli",
-      "answer": "AS",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ortaya konan yapıt",
-      "answer": "ESER",
-      "row": 10,
+      "text": "Sorumlu kimse",
+      "answer": "VELİ",
+      "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Belirli bir noktanın ilerisi, karşı taraf",
-      "answer": "ÖTE",
+      "text": "Büyücü",
+      "answer": "ŞAMAN",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kelimeler bütünü",
+      "answer": "METİN",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gerilim birimi",
+      "answer": "VOLT",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Öç isteği",
+      "answer": "KİN",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ekmek hamurunu kabartan mikroorganizma",
-      "answer": "MAYA",
+      "text": "Çabuk, tez",
+      "answer": "ATİK",
       "row": 11,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Müzik sesi işareti",
-      "answer": "NOTA",
-      "row": 3,
+      "text": "Ayrılış selamlaması",
+      "answer": "VEDA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Enerji harcama hızı birimi",
-      "answer": "VAT",
-      "row": 8,
+      "text": "Ücretsiz yemekevi",
+      "answer": "AŞEVİ",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Doğal yer altı boşluğu, in",
-      "answer": "MAĞARA",
-      "row": 2,
+      "text": "Çalım, gösteriş",
+      "answer": "AFİ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Selenyum'un kimyasal simgesi",
-      "answer": "SE",
-      "row": 9,
+      "text": "Uzun yol koşusu",
+      "answer": "MARATON",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kötü karşıtı",
-      "answer": "İYİ",
+      "text": "Yönetim yeri",
+      "answer": "MERKEZ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ege'nin karşı kıyısındaki başkent",
-      "answer": "ATİNA",
-      "row": 4,
+      "text": "Uzunluk ölçüsü",
+      "answer": "MİL",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Rusçada olumlama sözü",
-      "answer": "DA",
-      "row": 2,
+      "text": "Kokulu mor çiçek",
+      "answer": "LAVANTA",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Düdükle maçı yöneten kişi",
-      "answer": "HAKEM",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Zamanı geçmiş, kullanılmış",
-      "answer": "ESKİ",
+      "text": "Hükümran",
+      "answer": "EGEMEN",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yetki simgesi değnek",
-      "answer": "ASA",
-      "row": 8,
-      "col": 5,
+      "text": "Yaşam kaynağı",
+      "answer": "SU",
+      "row": 0,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bacaksız sürüngen",
-      "answer": "YILAN",
+      "text": "Kişiye ait",
+      "answer": "ÖZEL",
       "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dikkat çekme ünlemi",
-      "answer": "EY",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Her gün basılan haber yaprağı",
-      "answer": "GAZETE",
-      "row": 2,
+      "text": "Güçlü inanç",
+      "answer": "İNAN",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Firavunların taptığı güneş tanrısı",
-      "answer": "RA",
-      "row": 9,
+      "text": "Ankara keçisi yünü",
+      "answer": "TİFTİK",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
     {
       "row": 0,
       "col": 4
@@ -258,32 +204,36 @@
       "col": 5
     },
     {
-      "row": 0,
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 8,
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
+      "row": 9,
+      "col": 5
     },
     {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 2,
+      "row": 9,
       "col": 6
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 6
     }
   ],
   "difficulty": "orta",

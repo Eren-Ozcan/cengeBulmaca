@@ -5,198 +5,163 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Yemek konan çukur kap",
-      "answer": "TABAK",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Saç düzeltme aracı",
-      "answer": "TARAK",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Germanyum için kullanılan kimyasal simge",
-      "answer": "GE",
-      "row": 2,
+      "text": "Bulaşma",
+      "answer": "SİRAYET",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bacağın alt ucu",
-      "answer": "AYAK",
+      "text": "Temsilci",
+      "answer": "DELEGE",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yarım baş ağrısı",
+      "answer": "MİGREN",
       "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Parlak, pullu bir mineral",
-      "answer": "MİKA",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Helyum'un kimyasal simgesi",
-      "answer": "HE",
-      "row": 4,
+      "text": "Biçim soran söz",
+      "answer": "NASIL",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Odunu kor haline getiren olay",
-      "answer": "ATEŞ",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Lityum'un simgesi",
-      "answer": "Lİ",
+      "text": "Vahşi hayvan gezisi",
+      "answer": "SAFARİ",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gam dizisinin son notası",
-      "answer": "Sİ",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İşlenerek metale dönüşen cevher",
-      "answer": "MADEN",
-      "row": 7,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Piramitlere yakın Mısır başkenti",
-      "answer": "KAHİRE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Rütbesiz asker, nefer",
-      "answer": "ER",
-      "row": 8,
+      "text": "Memlük askeri",
+      "answer": "KÖLEMEN",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Buğdayın öğütülmüş hali",
-      "answer": "UN",
+      "text": "Zola romanı",
+      "answer": "NANA",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Binanın toprağa oturan alt kısmı",
-      "answer": "TEMEL",
-      "row": 1,
+      "text": "Vücut alıştırması",
+      "answer": "İDMAN",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Kripton'un simgesi",
-      "answer": "KR",
-      "row": 7,
+      "text": "Ağızdan çıkan",
+      "answer": "SÖZ",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Tantal'ın simgesi",
-      "answer": "TA",
+      "text": "Tekne kaptanı",
+      "answer": "REİS",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Açık söylemeden belirtme",
-      "answer": "İMA",
+      "text": "Ağacın kolu",
+      "answer": "DAL",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bir bakliyat türü",
-      "answer": "ARAKA",
+      "text": "İdrak",
+      "answer": "ALGI",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Şiirde güzelliğe benzetilen hayvan",
-      "answer": "AHU",
+      "text": "Pozitif bilim",
+      "answer": "FEN",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Taze karşıtı",
-      "answer": "BAYAT",
+      "text": "Yurt içi",
+      "answer": "YERLİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kutsala olan inanç bütünü",
-      "answer": "DİN",
+      "text": "Gözleri görmeyen",
+      "answer": "AMA",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Saygıyla anılan büyük erkek kardeş",
-      "answer": "AKA",
+      "text": "Bir denizimiz",
+      "answer": "EGE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sanatçının meydana getirdiği yapıt",
-      "answer": "ESER",
+      "text": "Almanya'dan geçen nehir",
+      "answer": "REN",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Beden rengi",
+      "answer": "TEN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bildik, tanıdık",
+      "answer": "AŞİNA",
       "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Moldova'nın başkenti",
-      "answer": "KİŞİNEV",
-      "row": 2,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
-      "row": 0,
+      "row": 4,
+      "col": 5
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
-      "row": 0,
-      "col": 1
+      "row": 5,
+      "col": 3
     },
     {
-      "row": 0,
-      "col": 6
+      "row": 5,
+      "col": 5
     },
     {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 7,
+      "row": 6,
       "col": 0
     },
     {
       "row": 9,
-      "col": 5
+      "col": 0
     }
   ],
   "difficulty": "kolay",

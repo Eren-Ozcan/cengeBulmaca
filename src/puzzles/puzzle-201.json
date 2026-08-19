@@ -5,177 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Takı yapımında kullanılan kırmızımsı taş",
-      "answer": "AKİK",
+      "text": "Tuşlu telli çalgı",
+      "answer": "PİYANO",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mi ile Sol arasındaki nota",
-      "answer": "FA",
+      "text": "Çakılan metal",
+      "answer": "ÇİVİ",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaramaz çocuk",
+      "answer": "AFACAN",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ses birimi",
+      "answer": "HECE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek dadı",
+      "answer": "LALA",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski eşya alıcısı",
+      "answer": "ESKİCİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Şaşkınlıkla seslenme",
+      "answer": "BRE",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Boz renkli at",
+      "answer": "KIR",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ege'nin yiğidi",
+      "answer": "EFE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Erke",
+      "answer": "ENERJİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tanrı",
+      "answer": "İLAH",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ermiş, veli",
+      "answer": "EREN",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilgelik sevgisi",
+      "answer": "FELSEFE",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şişe kapağı aracı",
+      "answer": "AÇACAK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek kişi",
+      "answer": "ER",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kemiyet",
+      "answer": "NİCELİK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Düz geniş arazi",
+      "answer": "OVA",
       "row": 0,
       "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yer altından çıkarılan cevher",
-      "answer": "MADEN",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Üstünde yazı yazılan mobilya",
-      "answer": "MASA",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayvanlara verilen besin",
-      "answer": "YEM",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Havadaki su buharı oranı",
-      "answer": "NEM",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "'Aa, tamam' anlamında ünlem",
-      "answer": "HA",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Germanyum'un simgesi",
-      "answer": "GE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Müezzinin okuduğu çağrı",
-      "answer": "EZAN",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Beyaz yağış",
-      "answer": "KAR",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "'Öyle mi?' anlamında ünlem",
-      "answer": "YA",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Türkmenistan'ın başkenti",
-      "answer": "AŞKABAT",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Başında saç bulunmayan",
-      "answer": "KEL",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Altın'ın simgesi",
-      "answer": "AU",
-      "row": 0,
-      "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Mor renkli kokulu çiçek",
-      "answer": "MENEKŞE",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tespihin uç tanesi",
-      "answer": "İMAME",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Karın zıddı renk",
-      "answer": "AK",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kasılıp gevşeyen doku",
-      "answer": "KAS",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Araştırma dürtüsü",
-      "answer": "MERAK",
+      "text": "Yakıcı tat",
+      "answer": "ACI",
       "row": 4,
-      "col": 3,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Rus dilinde olumlama sözü",
-      "answer": "DA",
+      "text": "İngiliz uzunluk birimi",
+      "answer": "İNÇ",
       "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Berilyum'un kimyasal simgesi",
-      "answer": "BE",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Demir için kullanılan kimyasal simge",
-      "answer": "FE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Düş, imge",
-      "answer": "HAYAL",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Lahza, dem",
-      "answer": "AN",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Uçmaya yarayan organ",
-      "answer": "KANAT",
-      "row": 3,
+      "text": "Büyük boyutlu",
+      "answer": "İRİ",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -183,23 +148,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
-      "col": 4
+      "col": 6
     },
     {
-      "row": 3,
-      "col": 5
-    },
-    {
-      "row": 4,
-      "col": 4
-    },
-    {
-      "row": 9,
+      "row": 2,
       "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
     },
     {
       "row": 9,

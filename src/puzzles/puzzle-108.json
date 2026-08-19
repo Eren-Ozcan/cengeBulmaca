@@ -5,184 +5,177 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Ahırda hayvana verilen gıda",
-      "answer": "YEM",
+      "text": "Birliktelik bağlacı",
+      "answer": "İLE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Birlikte çalışan grup",
-      "answer": "EKİP",
+      "text": "Hayat sonu",
+      "answer": "ÖLÜM",
       "row": 0,
       "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "At yavrusu",
-      "answer": "TAY",
+      "text": "Yeşillik karışımı",
+      "answer": "SALATA",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sivri son bölüm",
-      "answer": "UÇ",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Devletin koyduğu kural",
-      "answer": "YASA",
+      "text": "Bıkkınlık duygusu",
+      "answer": "USANÇ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üzerinde iş görülen mobilya",
-      "answer": "MASA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir seslenme sözü",
-      "answer": "YA",
-      "row": 4,
+      "text": "İkiden sonraki sayı",
+      "answer": "ÜÇ",
+      "row": 3,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kitabın sayfalarını bir arada tutan kap",
-      "answer": "CİLT",
+      "text": "Soru araştırması",
+      "answer": "ANKET",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaşlı bilge",
+      "answer": "AKSAKAL",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Merdivenle çıkılan bina bölümü",
-      "answer": "KAT",
-      "row": 5,
+      "text": "Söz, lakırdı",
+      "answer": "LAF",
+      "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Görmemizi sağlayan enerji türü",
-      "answer": "IŞIK",
+      "text": "Ürün niteliği",
+      "answer": "KALİTE",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Üst görevli",
+      "answer": "AMİR",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Zararı giderme",
+      "answer": "TELAFİ",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dağın alt bölümü",
+      "answer": "ETEK",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Priz ucu",
+      "answer": "FİŞ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Su taşıyıcı",
+      "answer": "SAKA",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kokulu sıvı",
+      "answer": "ESANS",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Blucin kumaşı",
+      "answer": "KOT",
       "row": 6,
       "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Çekirdekli, tatlı yaz meyvesi",
-      "answer": "KİRAZ",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yemin",
-      "answer": "ANT",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bedeni yaşatan güç",
-      "answer": "CAN",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Helyum'un simgesi",
-      "answer": "HE",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mi ile Sol arasındaki nota",
-      "answer": "FA",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Delikli, seyrek dokunmuş kumaş",
-      "answer": "ETAMİN",
-      "row": 0,
-      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tufan gemisinin sahibi peygamber",
-      "answer": "NUH",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Olağanüstü halk anlatısı",
-      "answer": "MASAL",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Başın altına konan destek",
-      "answer": "YASTIK",
+      "text": "Türkiye'nin başkenti",
+      "answer": "ANKARA",
       "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hastalıktan kurtulma",
-      "answer": "ŞİFA",
-      "row": 5,
+      "text": "Harita oranı",
+      "answer": "ÖLÇEK",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Allah'ın yarattığı insan",
-      "answer": "KUL",
+      "text": "Süs çiçeği",
+      "answer": "LALE",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Si'den önceki nota",
+      "answer": "LA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Doğal, yeşil açık alan",
-      "answer": "KIR",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir şeyin ortasındaki bölüm",
-      "answer": "İÇ",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Giysinin boyna gelen bölümü",
-      "answer": "YAKA",
+      "text": "Yönerge",
+      "answer": "TALİMAT",
       "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırışık gideren araç",
+      "answer": "ÜTÜ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kişi, şahıs (eski dilde)",
-      "answer": "ZAT",
-      "row": 2,
+      "text": "Şaka",
+      "answer": "LATİFE",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Abartan erkek",
+      "answer": "MAÇO",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Zihinsel kabiliyet",
-      "answer": "ZEKA",
-      "row": 6,
+      "text": "Genç piliç",
+      "answer": "FERİK",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -190,47 +183,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 1
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 4
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 8,
       "col": 3
     },
     {
       "row": 8,
-      "col": 5
+      "col": 1
     },
     {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
+      "row": 10,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 10,
+      "col": 1
     },
     {
       "row": 10,
-      "col": 3
-    },
-    {
-      "row": 10,
-      "col": 4
+      "col": 2
     }
   ],
   "difficulty": "zor",

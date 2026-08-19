@@ -5,282 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Geleceği okuma işi",
-      "answer": "FAL",
+      "text": "Numaralı eser",
+      "answer": "OPUS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çin'in kuzeyindeki başkent",
-      "answer": "PEKİN",
-      "row": 0,
+      "text": "İki ışının kesişimi",
+      "answer": "AÇI",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mensup, bağlı",
+      "answer": "AİT",
+      "row": 2,
       "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Top yan çizgiden çıkınca yapılan atış",
-      "answer": "TAÇ",
-      "row": 2,
-      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Birden sonra gelen sayı",
-      "answer": "İKİ",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski bir fal çeşidi",
-      "answer": "REMİL",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Akbabaların beslendiği hayvan ölüsü",
-      "answer": "LEŞ",
+      "text": "Parlatma",
+      "answer": "PERDAH",
       "row": 3,
-      "col": 5,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Orta Avrupa'nın büyük nehri",
-      "answer": "REN",
+      "text": "Denizin ortasındaki kara",
+      "answer": "ADA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Isınma aracı",
-      "answer": "SOBA",
+      "text": "Erkek ebeveyn",
+      "answer": "BABA",
       "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Konuşma organı; lisan",
-      "answer": "DİL",
+      "text": "Yazma kenarındaki",
+      "answer": "OYA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Merak bildiren soru sözcüğü",
-      "answer": "NE",
+      "text": "Ümit",
+      "answer": "UMUT",
       "row": 5,
-      "col": 3,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Saniyenin küçük bir bölümü",
-      "answer": "AN",
-      "row": 5,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Nispet",
-      "answer": "ORAN",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Kalsiyum'un simgesi",
-      "answer": "CA",
+      "text": "Sık ağlayan",
+      "answer": "AĞLAK",
       "row": 6,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Değiş tokuş",
-      "answer": "TAKAS",
+      "text": "Yırtıcı masal yaratığı",
+      "answer": "CANAVAR",
       "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Soyun geldiği kişi",
-      "answer": "ATA",
-      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Do'ya dönmeden önceki son nota",
-      "answer": "Sİ",
+      "text": "Bıkma, usanma",
+      "answer": "GINA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Devre arası",
+      "answer": "ARA",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Osmanlı yönetim birimi",
+      "answer": "EYALET",
       "row": 9,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gelin duvağının rengi",
-      "answer": "AL",
-      "row": 8,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "81 tanesi olan idari birim",
-      "answer": "İL",
+      "text": "Besin ögesi",
+      "answer": "VİTAMİN",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yumurta veren kümes hayvanı",
-      "answer": "TAVUK",
-      "row": 9,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yılın on ikide biri",
-      "answer": "AY",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kuşu havada tutan organ",
-      "answer": "KANAT",
-      "row": 11,
+      "text": "Yönetici",
+      "answer": "ŞEF",
+      "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Havadaki su buharı oranı",
-      "answer": "NEM",
+      "text": "Tatlı su balığı",
+      "answer": "SAZAN",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Dokudaki bozulma, bere",
+      "answer": "YARA",
       "row": 12,
-      "col": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bedeni yaşatan güç",
-      "answer": "CAN",
-      "row": 6,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Kılçıklı küçük deniz balığı",
-      "answer": "ATERİNA",
+      "text": "Tropik sarı meyve",
+      "answer": "PAPAYA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Preparatın üstüne konan ince cam",
-      "answer": "LAMEL",
+      "text": "Damat",
+      "answer": "GÜVEY",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalemin sivri yeri",
+      "answer": "UÇ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yelesiyle bilinen büyük kedigil",
-      "answer": "ASLAN",
-      "row": 7,
+      "text": "Dağ tırmanıcısı",
+      "answer": "DAĞCI",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dünyanın en kalabalık ülkesi",
-      "answer": "ÇİN",
-      "row": 1,
+      "text": "Görevi yapma",
+      "answer": "İFA",
+      "row": 9,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eşek yavrusu",
+      "answer": "SIPA",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Boru sesi",
-      "answer": "Tİ",
-      "row": 7,
+      "text": "Beddua, kargış",
+      "answer": "LANET",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bir seslenme sözü",
-      "answer": "YA",
-      "row": 10,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Müzik sesi işareti",
-      "answer": "NOTA",
-      "row": 4,
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mevsim dışı yetiştiriciliğin yapıldığı camlık",
-      "answer": "SERA",
-      "row": 3,
+      "text": "Deri kaplı çalgı",
+      "answer": "DARBUKA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dilin algıladığı duyum",
-      "answer": "TAT",
+      "text": "Fakat, lakin",
+      "answer": "AMA",
       "row": 8,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bin gram",
-      "answer": "KİLO",
-      "row": 0,
+      "text": "Ölüm cezası",
+      "answer": "İDAM",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Büyük erkek kardeş (halk ağzı)",
-      "answer": "AKA",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kedisiyle ünlü ilimiz",
-      "answer": "VAN",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Japonların çiçek aranjmanı sanatı",
-      "answer": "İKEBANA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Altın'ın simgesi",
-      "answer": "AU",
-      "row": 8,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Söz kesme, yüzük takma töreni",
-      "answer": "NİŞAN",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Üzüm demeti",
-      "answer": "SALKIM",
+      "text": "El bavulu",
+      "answer": "VALİZ",
       "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Dokunulmaz",
+      "answer": "TABU",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Güreş alanı",
+      "answer": "ARENA",
+      "row": 6,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Anılar",
+      "answer": "HATIRAT",
+      "row": 2,
       "col": 8,
       "arrow": "down"
     }
@@ -288,23 +232,59 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 2,
       "col": 4
     },
     {
-      "row": 6,
-      "col": 2
+      "row": 0,
+      "col": 6
     },
     {
-      "row": 11,
+      "row": 0,
       "col": 7
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 1,
+      "col": 8
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 8
+    },
+    {
+      "row": 12,
+      "col": 5
+    },
+    {
+      "row": 12,
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 7
+    },
+    {
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "orta",

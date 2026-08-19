@@ -5,296 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Fasıla",
-      "answer": "ARA",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Nehir kenarındaki verimli düzlük",
-      "answer": "OVA",
-      "row": 1,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde kişi, kimse",
-      "answer": "ZAT",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir şeyin sağı veya solu",
-      "answer": "YAN",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğu Anadolu'daki büyük gölün ilimiz",
-      "answer": "VAN",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Emile Zola'nın bir romanı",
-      "answer": "NANA",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Galyum için kullanılan kimyasal simge",
-      "answer": "GA",
-      "row": 3,
+      "text": "Göçebe yerleşimi",
+      "answer": "OBA",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İlenme, yakınma ünlemi",
-      "answer": "AH",
-      "row": 4,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Diretme, ısrar",
-      "answer": "İNAT",
-      "row": 4,
+      "text": "Mezuniyet başlığı",
+      "answer": "KEP",
+      "row": 1,
       "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Üreme hücresi",
+      "answer": "GAMET",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Oje çıkarıcı",
+      "answer": "ASETON",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağzı kapatan örtü",
+      "answer": "YAŞMAK",
+      "row": 3,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İlkel, düz su aracı",
-      "answer": "SAL",
-      "row": 6,
+      "text": "Çölü kaplayan",
+      "answer": "KUM",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yemek kızartılan saplı kap",
-      "answer": "TAVA",
-      "row": 6,
+      "text": "Lezzet",
+      "answer": "TAT",
+      "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Temizlik maddesi",
-      "answer": "SABUN",
-      "row": 7,
+      "text": "Yük taşıyıcı",
+      "answer": "HAMAL",
+      "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Osmanlı döneminde kullanılan gümüş para",
-      "answer": "AKÇE",
-      "row": 8,
-      "col": 0,
+      "text": "Uzun boyunlu hayvan",
+      "answer": "ZÜRAFA",
+      "row": 7,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sitem bildiren seslenme",
-      "answer": "BRE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kesme şeklinde büyük parça",
-      "answer": "BLOK",
+      "text": "Pantolondaki bölme",
+      "answer": "CEP",
       "row": 8,
       "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Karayolunda kullanılan taşıt",
-      "answer": "ARABA",
-      "row": 10,
-      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
+      "text": "Parlayan yıldız",
+      "answer": "NOVA",
+      "row": 8,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mola, teneffüs",
+      "answer": "ARA",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yan, cephe",
+      "answer": "TARAF",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Karnı boş",
+      "answer": "AÇ",
       "row": 10,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Ekleme, katma",
-      "answer": "EK",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İç ses, insaf duygusu",
-      "answer": "VİCDAN",
+      "text": "Dava eden",
+      "answer": "DAVACI",
       "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Pişmiş sıvı yemek",
-      "answer": "AŞ",
-      "row": 12,
+      "text": "Ortak topluluk",
+      "answer": "CAMİA",
+      "row": 11,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Periyodik tablodaki Sodyum'un simgesi",
-      "answer": "NA",
+      "text": "Kadar, değin",
+      "answer": "DEK",
       "row": 12,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "İtalya'da bir nehir",
-      "answer": "PO",
-      "row": 12,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağlamada kullanılan kalın sicim",
-      "answer": "İP",
+      "text": "Dal izi",
+      "answer": "BUDAK",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "3/4'lük ölçüde dans edilen batı dansı",
-      "answer": "VALS",
-      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bezelyeye benzer bir bitki",
-      "answer": "ARAKA",
-      "row": 7,
+      "text": "Haykırma, bağırma",
+      "answer": "NARA",
+      "row": 8,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dernek veya kurum üyesi",
-      "answer": "AZA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ordu mensubu",
-      "answer": "ASKER",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Nâzım Hikmet'in soyadı",
-      "answer": "RAN",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Eczaneden alınan tedavi maddesi",
-      "answer": "İLAÇ",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Avcının kısmeti",
-      "answer": "AV",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Satrançta şah ve vezirden farklı bir taş",
-      "answer": "AT",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Kalay'ın simgesi",
-      "answer": "SN",
+      "text": "Cilveli kadın",
+      "answer": "ŞUH",
       "row": 3,
-      "col": 4,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Berilyum'un simgesi",
-      "answer": "BE",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Dört basamaklı en küçük sayı",
-      "answer": "BİN",
-      "row": 9,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İskambilde en güçlü kağıt takımı",
-      "answer": "ATU",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dumanın çıktığı yol",
-      "answer": "BACA",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yazma kenarlarına işlenen süsleme",
-      "answer": "OYA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Gün ağarması",
-      "answer": "TAN",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Borudaki akışı açıp kapatan parça",
-      "answer": "VANA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Eşyaların saklandığı kapaklı mobilya",
-      "answer": "DOLAP",
+      "text": "Acemi, deneyimsiz",
+      "answer": "TOR",
       "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İspiyoncu",
+      "answer": "GAMMAZ",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dağ arası",
+      "answer": "VADİ",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Para dolabı",
+      "answer": "KASA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Savunma",
+      "answer": "MÜDAFAA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eskiden beri çalışan",
+      "answer": "EMEKTAR",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Evcil hayvan",
+      "answer": "PET",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Karışık renkli",
+      "answer": "ALACA",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İsim",
+      "answer": "AD",
+      "row": 10,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kızarmış ekmek",
+      "answer": "TOST",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kilit açan araç",
-      "answer": "ANAHTAR",
-      "row": 0,
-      "col": 8,
+      "text": "Eski kadın mantosu",
+      "answer": "FERACE",
+      "row": 6,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Küçük, hafif kayık",
-      "answer": "KANO",
-      "row": 8,
+      "text": "Çok belirgin",
+      "answer": "APAÇIK",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -302,31 +232,59 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 4,
       "col": 2
     },
     {
-      "row": 5,
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 1,
+      "col": 8
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
+      "row": 2,
+      "col": 8
+    },
+    {
+      "row": 4,
+      "col": 8
+    },
+    {
       "row": 5,
-      "col": 7
+      "col": 8
+    },
+    {
+      "row": 6,
+      "col": 0
     },
     {
       "row": 7,
       "col": 0
     },
     {
+      "row": 7,
+      "col": 1
+    },
+    {
       "row": 8,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 5
     }
   ],
   "difficulty": "zor",

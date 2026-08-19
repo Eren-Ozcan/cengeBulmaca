@@ -5,296 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Aydınlatma aracı",
-      "answer": "LAMBA",
+      "text": "Tropik meyve",
+      "answer": "ANANAS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Vazifeyi eda etme",
-      "answer": "İFA",
+      "text": "Yeni yaratım",
+      "answer": "İCAT",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kardan adamın malzemesi",
+      "answer": "KAR",
       "row": 1,
-      "col": 5,
-      "arrow": "right"
+      "col": 6,
+      "arrow": "down-right"
     },
     {
-      "text": "İlkel benlik",
-      "answer": "İD",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Almanya'dan geçen önemli bir Avrupa nehri",
-      "answer": "REN",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İki kefeli tartı aracı",
-      "answer": "TERAZİ",
+      "text": "Uzun yol koşusu",
+      "answer": "MARATON",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gece gökyüzünde parlayan uydumuz",
-      "answer": "AY",
-      "row": 4,
+      "text": "Erkeğe hitap",
+      "answer": "BEY",
+      "row": 3,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Lantan için kullanılan kimyasal simge",
-      "answer": "LA",
+      "text": "Havada dönme",
+      "answer": "SALTO",
       "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "'Şu' ve 'o'ya göre en yakın olan",
-      "answer": "BU",
-      "row": 4,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Dokuzdan sonra gelen sayı",
-      "answer": "ON",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Erkek kuaförü",
-      "answer": "BERBER",
+      "text": "Pamuklu spor giysi",
+      "answer": "TİŞÖRT",
       "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kişneyen binek hayvanı",
-      "answer": "AT",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hitapta kullanılan seslenme sözü",
-      "answer": "YA",
-      "row": 6,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "İki niceliğin karşılaştırılması",
-      "answer": "ORAN",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yazma kenarlarına işlenen süsleme",
-      "answer": "OYA",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kolun gövdeye bağlandığı yer",
-      "answer": "OMUZ",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Birkaç taburdan oluşan askeri birlik",
-      "answer": "ALAY",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Verme, ödeme (eski dilde)",
-      "answer": "İTA",
-      "row": 10,
+      "text": "Fotoğraf duruşu",
+      "answer": "POZ",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Japon türküsü",
+      "answer": "UTA",
+      "row": 6,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Hayvanların kralı sayılan yırtıcı",
-      "answer": "ASLAN",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde alev, ateş",
-      "answer": "OD",
-      "row": 11,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Ekmek yapımında kullanılan toz madde",
-      "answer": "UN",
-      "row": 11,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Selimiye Camii'nin bulunduğu şehir",
-      "answer": "EDİRNE",
-      "row": 12,
+      "text": "Gücenmiş",
+      "answer": "KÜSKÜN",
+      "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
+      "text": "Farsça ayak",
+      "answer": "PA",
+      "row": 8,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Renkli taş bezeme",
+      "answer": "MOZAİK",
+      "row": 8,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Leh dansı",
+      "answer": "MAZURKA",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yaz rüzgârı",
+      "answer": "MELTEM",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Fasıla",
+      "answer": "ARA",
+      "row": 12,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hindistan parası",
+      "answer": "RUPİ",
+      "row": 12,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İyilik, lütuf",
+      "answer": "NİMET",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gerçek olmayan söz",
-      "answer": "YALAN",
-      "row": 7,
+      "text": "Bebek yiyeceği",
+      "answer": "MAMA",
+      "row": 8,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Seslenme ünlemi",
-      "answer": "EY",
-      "row": 2,
+      "text": "Tuhaf, garip",
+      "answer": "ACAYİP",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Üzerinde yaprak taşıyan ağaç uzantısı",
-      "answer": "DAL",
-      "row": 6,
+      "text": "Toprak makinesi",
+      "answer": "DOZER",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tek, yalnız",
-      "answer": "BİR",
+      "text": "Taneleri yakut gibi",
+      "answer": "NAR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Baryum için kullanılan kimyasal simge",
-      "answer": "BA",
+      "text": "Ani sarsıntı",
+      "answer": "ŞOK",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Aynı evi paylaşan yakın topluluk",
-      "answer": "AİLE",
+      "text": "Gizli yer",
+      "answer": "ZULA",
       "row": 8,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hak ve hukuka uygunluk",
-      "answer": "ADALET",
+      "text": "Halk deyişi",
+      "answer": "ATASÖZÜ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Seçimde kullanılan tercih",
-      "answer": "OY",
-      "row": 7,
+      "text": "Peşi sıra gelen",
+      "answer": "ART",
+      "row": 8,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir şeyi tanımlayan sözcük",
-      "answer": "AD",
-      "row": 10,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Vücuttaki ince koruyucu tabaka",
-      "answer": "ZAR",
+      "text": "Azerbaycan'ın telli çalgısı",
+      "answer": "TAR",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Direnç ölçü birimi",
-      "answer": "OM",
+      "text": "Haber sunucusu",
+      "answer": "SPİKER",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 10,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Cüsseli, büyük",
-      "answer": "İRİ",
-      "row": 0,
+      "text": "Kollu oturak",
+      "answer": "KOLTUK",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Güney Asya'da kullanılan para birimi",
-      "answer": "RUPİ",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Demir'in simgesi",
-      "answer": "FE",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Ak",
-      "answer": "BEYAZ",
-      "row": 3,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Rengin veya sesin tonu",
-      "answer": "TON",
-      "row": 9,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Zamanın çok kısa parçası",
-      "answer": "AN",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Fransızca kökenli 'sanayi' sözcüğü",
-      "answer": "URAN",
-      "row": 3,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Şarap, içki (eski dilde)",
-      "answer": "BADE",
+      "text": "Amme",
+      "answer": "KAMU",
       "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Söz verme",
+      "answer": "ANT",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Silindir kap",
+      "answer": "TÜP",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "İmkân",
+      "answer": "OLANAK",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     }
@@ -302,15 +232,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 5
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 1,
+      "col": 8
     },
     {
       "row": 6,
@@ -318,19 +256,35 @@
     },
     {
       "row": 7,
-      "col": 3
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 10,
       "col": 0
     },
     {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
       "row": 10,
-      "col": 2
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 8
+    },
+    {
+      "row": 11,
+      "col": 7
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "kolay",

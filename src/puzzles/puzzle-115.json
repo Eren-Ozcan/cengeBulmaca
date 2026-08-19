@@ -5,254 +5,219 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Sanı, şüphe",
-      "answer": "ZAN",
+      "text": "Hamur açacağı",
+      "answer": "OKLAVA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Nurdan yaratıldığına inanılan varlık",
-      "answer": "MELEK",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Boru sesi",
-      "answer": "Tİ",
+      "text": "Yeşillik karışımı",
+      "answer": "SALATA",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Dört yanı suyla çevrili kara",
-      "answer": "ADA",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Otomobil",
-      "answer": "ARABA",
+      "text": "Kara altın",
+      "answer": "PETROL",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Alan ölçü birimi (100 m²)",
-      "answer": "AR",
-      "row": 3,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Anne",
-      "answer": "ANA",
+      "text": "Kaba örtü",
+      "answer": "ÇUL",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Soru kâğıdıyla yapılan araştırma",
-      "answer": "ANKET",
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Katıksız, arı",
+      "answer": "SAF",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Doğu sınırımızdaki komşu ülke",
-      "answer": "İRAN",
+      "text": "Kötülük, fenalık",
+      "answer": "ŞER",
+      "row": 5,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Uyarı notu",
+      "answer": "ANDIÇ",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yabancı, ecnebi (eski dilde)",
-      "answer": "EL",
+      "text": "Hiçbir zaman, kesinlikle",
+      "answer": "ASLA",
       "row": 7,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "'Öyle mi?' anlamında ünlem",
-      "answer": "YA",
-      "row": 6,
-      "col": 7,
-      "arrow": "down-right"
+      "text": "İstihbarat teşkilatı",
+      "answer": "MİT",
+      "row": 7,
+      "col": 5,
+      "arrow": "right"
     },
     {
-      "text": "Mozart'ın şehri, Avusturya başkenti",
-      "answer": "VİYANA",
+      "text": "Anıtsal kapı",
+      "answer": "TAK",
       "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kırmızı ya da yeşil sulu meyve",
-      "answer": "ELMA",
+      "text": "Zehirli süs çalısı",
+      "answer": "ZAKKUM",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Karışık renkli, benekli",
-      "answer": "ALA",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kalın yünden yapılan kumaş",
-      "answer": "ABA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İşitme organı",
-      "answer": "KULAK",
+      "text": "Boyun eğme",
+      "answer": "İTAAT",
       "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayvansal besin maddesi",
-      "answer": "ET",
-      "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Lahza, dem",
-      "answer": "AN",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sodyum için kullanılan kimyasal simge",
-      "answer": "NA",
-      "row": 11,
+      "text": "Bağışlama",
+      "answer": "AF",
+      "row": 10,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Kafa; önder",
-      "answer": "BAŞ",
-      "row": 5,
+      "text": "Diri karşıtı",
+      "answer": "ÖLÜ",
+      "row": 10,
       "col": 0,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Çukurova'nın büyük şehri",
-      "answer": "ADANA",
+      "text": "Kişisel",
+      "answer": "ŞAHSİ",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Lahana yemeği",
+      "answer": "KAPUSKA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Doğum uzmanı sağlık görevlisi",
-      "answer": "EBE",
+      "text": "Tefin çıngırağı",
+      "answer": "ZİL",
       "row": 8,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Nâzım Hikmet'in soyadı",
-      "answer": "RAN",
+      "text": "Yeşile çalan kahverengi",
+      "answer": "ELA",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Anne babanın çocuğu",
-      "answer": "EVLAT",
+      "text": "Toplumsal konum",
+      "answer": "STATÜ",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Tantal'ın simgesi",
-      "answer": "TA",
+      "text": "Alt görevli",
+      "answer": "AST",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayak tabanı cezası",
+      "answer": "FALAKA",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yok karşıtı",
+      "answer": "VAR",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Duvar süsleyicisi",
+      "answer": "NAKKAŞ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Telefon sözü",
+      "answer": "ALO",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Japon şiiri",
+      "answer": "UTA",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Metal karışımı",
+      "answer": "ALAŞIM",
       "row": 1,
-      "col": 3,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Desenli, havsız yer yaygısı",
-      "answer": "KİLİM",
-      "row": 4,
-      "col": 3,
+      "text": "İnatçı hayvan",
+      "answer": "KEÇİ",
+      "row": 3,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Tohum ekme makinesi",
-      "answer": "MİBZER",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Gömleğin boyun kısmı",
-      "answer": "YAKA",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yemek kızartılan saplı kap",
-      "answer": "TAVA",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ekmek yapımında kullanılan toz madde",
-      "answer": "UN",
+      "text": "Alanının ustası",
+      "answer": "AS",
       "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Lantan'ın simgesi",
-      "answer": "LA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Atın ayağına çakılan metal parça",
-      "answer": "NAL",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Cilve, naz",
-      "answer": "EDA",
-      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Aldatmak için söylenen söz",
-      "answer": "YALAN",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Çalışkanlığıyla bilinen böcek",
-      "answer": "KARINCA",
-      "row": 0,
+      "text": "Güçlü, becerikli",
+      "answer": "ACAR",
+      "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Büyük erkek kardeş (halk ağzı)",
-      "answer": "AKA",
-      "row": 8,
+      "text": "Rütbe yükselmesi",
+      "answer": "TERFİ",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -264,11 +229,19 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 6
     },
     {
       "row": 0,
-      "col": 5
+      "col": 7
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
@@ -276,23 +249,23 @@
     },
     {
       "row": 4,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 7
+      "col": 4
     },
     {
       "row": 6,
-      "col": 1
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
     }
   ],
   "difficulty": "kolay",

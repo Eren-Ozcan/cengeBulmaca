@@ -5,226 +5,198 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Dünyanın en uzun kara dağ sırası",
-      "answer": "AND",
+      "text": "Kanattaki",
+      "answer": "TÜY",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tahılla karışık ekilen bir bakliyat",
-      "answer": "ARAKA",
+      "text": "Kör",
+      "answer": "AMA",
+      "row": 1,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Hiddetli",
+      "answer": "ÖFKELİ",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Akıl",
-      "answer": "US",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Temizlik maddesi",
-      "answer": "SABUN",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hatay'dan geçen ırmak",
-      "answer": "ASİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Temiz, saf",
-      "answer": "ARI",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Diretme, ısrar",
-      "answer": "İNAT",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kimyada Magnezyum'un simgesi",
-      "answer": "MG",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Seçmenin kullandığı tercih hakkı",
-      "answer": "OY",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Baryum'un kimyasal simgesi",
-      "answer": "BA",
-      "row": 6,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Süvarinin bindiği hayvan",
-      "answer": "AT",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Saygıyla anılan büyük erkek kardeş",
-      "answer": "AKA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Üye",
-      "answer": "AZA",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğu Avrupa'daki küçük ülkenin başkenti",
-      "answer": "KİŞİNEV",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sürünerek hareket eden hayvan",
-      "answer": "YILAN",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tantal'ın kimyasal simgesi",
-      "answer": "TA",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Aç karşıtı, doymuş",
-      "answer": "TOK",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Orta Avrupa'nın büyük nehri",
-      "answer": "REN",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Mart'tan sonraki ay",
-      "answer": "NİSAN",
-      "row": 0,
       "col": 1,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Yanarak enerji veren madde",
-      "answer": "YAKIT",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bitkinin gövdesi; tutulacak yer",
-      "answer": "SAP",
+      "text": "Omuz örtüsü",
+      "answer": "ŞAL",
       "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağırlık birimi (1000 gram)",
-      "answer": "KİLO",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Turnusolu kızartan kimyasal madde",
-      "answer": "ASİT",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Altıncı burç",
-      "answer": "BAŞAK",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Fasıla",
-      "answer": "ARA",
-      "row": 0,
       "col": 4,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Yaban hayvanı barınağı",
-      "answer": "İN",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
+      "text": "Eski Osmanlı başkenti",
+      "answer": "EDİRNE",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Kaba, kalın yün kumaş",
-      "answer": "ABA",
-      "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Göz açıp kapayana kadarki süre",
-      "answer": "AN",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yabancı paranın değişim oranı",
-      "answer": "KUR",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Her gün basılan haber yaprağı",
-      "answer": "GAZETE",
+      "text": "Küçük lokma",
+      "answer": "TİKE",
       "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Doku örneği alma",
+      "answer": "BİYOPSİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yazı altlığı",
+      "answer": "SÜMEN",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yan, cephe",
+      "answer": "TARAF",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Korku ünlemi",
+      "answer": "ABO",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Baba karşıtı",
+      "answer": "ANA",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Topluluk mensubu",
+      "answer": "ÜYE",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Saklanan şey",
+      "answer": "SIR",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Onurluk",
+      "answer": "PLAKET",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Esnek giysi",
+      "answer": "TAYT",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Güzel sesli kuş",
+      "answer": "BÜLBÜL",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İdare",
+      "answer": "YÖNETİM",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "El işi süsleme",
+      "answer": "OYA",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Beslenme düzeni",
+      "answer": "DİYET",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gazete eki",
+      "answer": "EK",
+      "row": 9,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Lekesiz, temiz",
+      "answer": "AK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kutsal tasvir",
+      "answer": "İKONA",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Mizaç",
+      "answer": "MEŞREP",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğru, isabetli",
+      "answer": "RAST",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Saha, meydan",
+      "answer": "ALAN",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bir olayı hatırlatan yapı",
-      "answer": "ANIT",
+      "text": "Geçmişin izi",
+      "answer": "ANI",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Mesaj",
+      "answer": "İLETİ",
       "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Odanın üst yüzeyi",
-      "answer": "TAVAN",
-      "row": 6,
+      "text": "Ayrım noktası",
+      "answer": "FARK",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -232,7 +204,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
@@ -240,23 +212,23 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
       "col": 7
     },
     {
-      "row": 5,
-      "col": 4
+      "row": 3,
+      "col": 1
     },
     {
       "row": 5,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 6
     }
   ],
   "difficulty": "zor",

@@ -5,275 +5,219 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Beyaz yağış",
-      "answer": "KAR",
+      "text": "Çıkar",
+      "answer": "MENFAAT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yemek konan çukur kap",
-      "answer": "TABAK",
-      "row": 0,
+      "text": "Öldürücü hastalık",
+      "answer": "VEBA",
+      "row": 2,
       "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Estetik değer taşıyan uğraş",
-      "answer": "SANAT",
-      "row": 2,
-      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Lantan'ın kimyasal simgesi",
-      "answer": "LA",
-      "row": 2,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Kıtalar arası büyük deniz",
-      "answer": "OKYANUS",
+      "text": "Talih",
+      "answer": "ŞANS",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Pençeli, kalın postlu orman hayvanı",
-      "answer": "AYI",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Arka, geri",
-      "answer": "ART",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eski konaklama yapısı; hükümdar",
-      "answer": "HAN",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Parthenon Tapınağı'nın kenti",
-      "answer": "ATİNA",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kürekle yürütülen küçük tekne",
-      "answer": "KAYIK",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kimyada Galyum'un simgesi",
-      "answer": "GA",
-      "row": 7,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Oyunun bölümü",
-      "answer": "PERDE",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Magnezyum için kullanılan kimyasal simge",
-      "answer": "MG",
-      "row": 8,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "'Ne yapıyorsun?' daki soru sözü",
-      "answer": "NE",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 9,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Kafkas kültürünün izlerini taşıyan doğu ilimiz",
-      "answer": "KARS",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tat alma ve konuşmayı sağlayan organ",
-      "answer": "DİL",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Uzak Doğu ülkesi",
-      "answer": "ÇİN",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Parklardaki oturma sırası",
-      "answer": "BANK",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Kripton'un simgesi",
-      "answer": "KR",
-      "row": 6,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Ordu mensubu",
-      "answer": "ASKER",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Spor karşılaşması",
-      "answer": "MAÇ",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tramvayın üzerinde ilerlediği hat",
-      "answer": "RAY",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Genç, küçük at",
-      "answer": "TAY",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kül rengi",
-      "answer": "GRİ",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hekimlik bilimi",
-      "answer": "TIP",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Kalay'ın simgesi",
-      "answer": "SN",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Güneş doğmadan önceki alacakaranlık",
-      "answer": "TAN",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bitkilerdeki sivri çıkıntı",
-      "answer": "DİKEN",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İskambilde en güçlü kağıt takımı",
-      "answer": "ATU",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Do'dan sonra gelen nota",
-      "answer": "RE",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Maçın oynandığı alan",
-      "answer": "SAHA",
-      "row": 2,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Rusça'da 'evet'",
-      "answer": "DA",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırmızıya çalan renk",
-      "answer": "AL",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Şaşkınlık bildiren ünlem",
-      "answer": "YA",
+      "text": "Avrupa-Asya sınırı",
+      "answer": "URAL",
       "row": 3,
-      "col": 7,
-      "arrow": "down"
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Beyaz gelinlikle evlenen kadın",
-      "answer": "GELİN",
+      "text": "Yolculuk",
+      "answer": "SEFER",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hekim",
+      "answer": "DOKTOR",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yürüyüş müziği",
+      "answer": "MARŞ",
       "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sürülmemiş tarla",
+      "answer": "BOR",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Fiyat artışı",
+      "answer": "ZAM",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İş verme",
+      "answer": "İHALE",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Romanya parası",
+      "answer": "LEY",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Formda, zinde",
+      "answer": "FİT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Numara levhası",
+      "answer": "PLAKA",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kara zift",
+      "answer": "KATRAN",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Taşkın su",
+      "answer": "SEL",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Özgür ruhlu",
+      "answer": "HİPPİ",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Temel öz",
+      "answer": "ESAS",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Devlet gelirleri",
+      "answer": "MALİYE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Pişmanlık",
+      "answer": "NEDAMET",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "15 numaralı element",
+      "answer": "FOSFOR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sirke tadında",
+      "answer": "EKŞİ",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eğik kenar",
+      "answer": "PAH",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanak içi",
+      "answer": "AVURT",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Beton aleti",
+      "answer": "HİLTİ",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Deri sıvısı",
+      "answer": "TER",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Göçebe yerleşimi",
+      "answer": "OBA",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Üçgen çalgı",
+      "answer": "ARP",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "En önemli rol",
+      "answer": "BAŞROL",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Koloni halinde yaşayan çalışkan böcek",
-      "answer": "KARINCA",
+      "text": "Yemek konan nesne",
+      "answer": "KAP",
+      "row": 8,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kahveden bakılan",
+      "answer": "FAL",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Başlangıçtaki, evvelki",
-      "answer": "İLK",
-      "row": 8,
+      "text": "İrmikli şerbetli tatlı",
+      "answer": "REVANİ",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -281,19 +225,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 2
     },
     {
       "row": 0,
-      "col": 6
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 4,
-      "col": 3
+      "col": 8
     },
     {
-      "row": 10,
-      "col": 4
+      "row": 5,
+      "col": 0
     }
   ],
   "difficulty": "kolay",

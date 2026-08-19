@@ -5,149 +5,135 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Marangozun işlediği malzeme",
-      "answer": "TAHTA",
+      "text": "Çiçek düzenleme",
+      "answer": "İKEBANA",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Küçük gemi",
-      "answer": "BOT",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İstanbul'da yaşayan Ortodoks azınlık",
-      "answer": "RUM",
+      "text": "Yük hareketi",
+      "answer": "AKIM",
       "row": 2,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cevap isteyen soru kelimesi",
-      "answer": "NE",
+      "text": "Yetenek",
+      "answer": "YETİ",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yeşil yapraklı kış sebzesi",
-      "answer": "LAHANA",
+      "text": "Reklamla duyurma",
+      "answer": "TANITIM",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Periyodik tablodaki Kalay'ın simgesi",
-      "answer": "SN",
+      "text": "Baharat bitkisi",
+      "answer": "KEKİK",
       "row": 5,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Elektrik direnç birimi",
-      "answer": "OM",
+      "text": "İnce çelik levha",
+      "answer": "SAC",
       "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Karadeniz'den esen soğuk rüzgar",
-      "answer": "POYRAZ",
-      "row": 7,
+      "text": "Sanat insanı",
+      "answer": "SANATÇI",
+      "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yazılımcının yazdığı komut dizisi",
-      "answer": "KOD",
+      "text": "Belirsiz nesne",
+      "answer": "ŞEY",
       "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gökyüzündeki su buharı yığını",
-      "answer": "BULUT",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İpiyle çevrilip döndürülen oyuncak",
-      "answer": "TOPAÇ",
+      "text": "Sıcaklık derecesi",
+      "answer": "ISI",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Örtme nesnesi",
+      "answer": "KAPAK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Satrançta bir taş",
-      "answer": "AT",
+      "text": "Bağışıklık kazandıran",
+      "answer": "AŞI",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kelime sonuna gelen",
+      "answer": "EK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Burnun aldığı duyum",
-      "answer": "KOKU",
-      "row": 5,
+      "text": "Cansız varlık",
+      "answer": "NESNE",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 2,
+      "text": "Dudak kılları",
+      "answer": "BIYIK",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Araçların geçtiği güzergah",
-      "answer": "YOL",
+      "text": "Bal seven hayvan",
+      "answer": "AYI",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Demiryolunda giden taşıt",
-      "answer": "TREN",
+      "text": "Mor süs taşı",
+      "answer": "AMETİST",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir Karadeniz ilimiz",
-      "answer": "ORDU",
-      "row": 5,
-      "col": 4,
+      "text": "Delik kapatan",
+      "answer": "TIKAÇ",
+      "row": 2,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Altın için kullanılan kimyasal simge",
-      "answer": "AU",
+      "text": "Yenme kararlılığı",
+      "answer": "AZİM",
       "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Üzüm veren bitki",
-      "answer": "ASMA",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çinko'nun kimyasal simgesi",
-      "answer": "ZN",
-      "row": 6,
+      "text": "Olmaz ünlemi",
+      "answer": "CIK",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -155,43 +141,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 3
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 1
+      "col": 5
     },
     {
       "row": 8,
-      "col": 0
+      "col": 4
     },
     {
       "row": 8,
       "col": 5
+    },
+    {
+      "row": 9,
+      "col": 0
     },
     {
       "row": 9,

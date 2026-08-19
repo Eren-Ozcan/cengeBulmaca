@@ -5,193 +5,160 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Periyodik tablodaki Lantan'ın simgesi",
-      "answer": "LA",
+      "text": "Kumarhane görevlisi",
+      "answer": "KRUPİYE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Adanan şey, nezir",
-      "answer": "ADAK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Borç senedi",
-      "answer": "BONO",
+      "text": "Şişe kapağı aracı",
+      "answer": "AÇACAK",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yazı yazma aracı",
-      "answer": "KALEM",
+      "text": "Deniz giysisi",
+      "answer": "MAYO",
       "row": 3,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Seslenme ünlemi",
-      "answer": "EY",
+      "text": "Pahalı karşıtı",
+      "answer": "UCUZ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dernek veya kurum üyesi",
-      "answer": "AZA",
+      "text": "Kedi, köpek yavrusu",
+      "answer": "ENİK",
       "row": 4,
-      "col": 3,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "İran'ın başkenti",
-      "answer": "TAHRAN",
+      "text": "Kış yağışı",
+      "answer": "KAR",
       "row": 5,
-      "col": 0,
-      "arrow": "right"
+      "col": 4,
+      "arrow": "down-right"
     },
     {
-      "text": "Kimyada Sodyum'un simgesi",
-      "answer": "NA",
+      "text": "Film metni",
+      "answer": "SENARYO",
       "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Allah'ın yarattığı insan",
-      "answer": "KUL",
-      "row": 7,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Vapurun yanaştığı kıyı yapısı",
-      "answer": "İSKELE",
+      "text": "Zevk, hoşlanma",
+      "answer": "BEĞENİ",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Farsça kökenli 'su' sözcüğü",
-      "answer": "AB",
+      "text": "Delikli kumaş",
+      "answer": "ETAMİN",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tilki yüzlü hayvan",
+      "answer": "RAKUN",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Protein kaynağı gıda",
-      "answer": "ET",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Unutulmayan öfke",
-      "answer": "KİN",
+      "text": "Doğum yardımcısı",
+      "answer": "EBE",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kıtaları ayıran engin su kütlesi",
-      "answer": "OKYANUS",
-      "row": 1,
+      "text": "Bir şeyin sonu",
+      "answer": "UÇ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Anne",
-      "answer": "ANA",
+      "text": "Delilik",
+      "answer": "CİNNET",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyaz koza",
+      "answer": "PAMUK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bir ülkenin vatandaşları",
-      "answer": "HALK",
-      "row": 4,
+      "text": "Eli açık kimse",
+      "answer": "AĞA",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "ABD'nin resmi para birimi",
-      "answer": "DOLAR",
+      "text": "Kısa anlatım",
+      "answer": "İCAZ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Namaza çağrı",
-      "answer": "EZAN",
-      "row": 2,
+      "text": "Cilt maddesi",
+      "answer": "KREM",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kasım-aralık burcu",
+      "answer": "YAY",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yaylı bir çalgı",
-      "answer": "KEMAN",
+      "text": "Nakit değil",
+      "answer": "AYNİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sesin geri dönüşü",
+      "answer": "EKO",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kamıştan üflemeli çalgı",
-      "answer": "NEY",
-      "row": 6,
+      "text": "Morfin türevi",
+      "answer": "EROİN",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
       "row": 3,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 2
-    },
-    {
-      "row": 9,
-      "col": 3
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
+      "row": 4,
       "col": 5
     }
   ],

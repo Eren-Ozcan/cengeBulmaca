@@ -5,254 +5,212 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Orta Avrupa'daki tarihi başkent",
-      "answer": "PRAG",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Büyük deniz taşıtı",
-      "answer": "GEMİ",
+      "text": "Tek geçiş kapısı",
+      "answer": "TURNİKE",
       "row": 1,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Tanrıtanımaz kimse",
-      "answer": "ATE",
+      "text": "Kabuk kırığı",
+      "answer": "FAY",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Baş aşağı",
+      "answer": "AMUT",
       "row": 2,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Gam dizisinde üçüncü nota",
+      "text": "Yürekli olmayan",
+      "answer": "KORKAK",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Fa'dan önceki nota",
       "answer": "Mİ",
       "row": 3,
-      "col": 1,
+      "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Un veya irmikle yapılan tatlı",
-      "answer": "HELVA",
-      "row": 3,
-      "col": 4,
+      "text": "Buhar banyosu",
+      "answer": "SAUNA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Uzak",
+      "answer": "IRAK",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Mektup hizmeti",
+      "answer": "POSTA",
+      "row": 5,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Kör kimse",
+      "text": "Köpüklü içki",
+      "answer": "BİRA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zırhlı taşıt",
+      "answer": "TANK",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yarışma bölümü",
+      "answer": "TUR",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Dijital",
+      "answer": "SAYISAL",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Takılarak konuşan",
+      "answer": "KEKEME",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Fabrika üretimi",
+      "answer": "İMALAT",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boş çaba",
+      "answer": "FOS",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Zeytinyağlı fasulye",
+      "answer": "PİLAKİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Cevizli sarımsaklı sos",
+      "answer": "TARATOR",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hayvan besini",
+      "answer": "YEM",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gece dinlenmesi",
+      "answer": "UYKU",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Suç geçmişi",
+      "answer": "SABIKA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Abide",
+      "answer": "ANIT",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Su baskını",
+      "answer": "SEL",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yinelenen bölüm",
+      "answer": "NAKARAT",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Fakat, lakin",
       "answer": "AMA",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
     },
     {
-      "text": "Aynı değerde olan",
-      "answer": "EŞ",
-      "row": 5,
+      "text": "Nişan, alamet",
+      "answer": "İM",
+      "row": 0,
       "col": 6,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Yeni karşıtı",
-      "answer": "ESKİ",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ekleme, katma",
-      "answer": "EK",
+      "text": "Atletizm sporcusu",
+      "answer": "ATLET",
       "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Letonya'nın başkenti",
-      "answer": "RİGA",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Hırvatistan'ın başkenti",
-      "answer": "ZAGREB",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "La'dan sonra gelen nota",
-      "answer": "Sİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Konut, hane",
-      "answer": "EV",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Temel, esas",
-      "answer": "ANA",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Rütbesiz asker, nefer",
-      "answer": "ER",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sınırlı, kıt",
-      "answer": "AZ",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Türkiye'nin idari bölünme birimi",
-      "answer": "İL",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Platin'in simgesi",
-      "answer": "PT",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Dikkat çekme ünlemi",
-      "answer": "EY",
-      "row": 5,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayatın vazgeçilmez sıvısı",
-      "answer": "SU",
-      "row": 8,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Antik Mısır tanrılarından biri",
-      "answer": "RA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Beyaz, kara karşıtı",
-      "answer": "AK",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Beş parmaklı tutma organı",
-      "answer": "EL",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kül rengi",
-      "answer": "GRİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tarlaya tohum saçan tarım aleti",
-      "answer": "MİBZER",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "'Aa, tamam' anlamında ünlem",
-      "answer": "HA",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Avcının kısmeti",
-      "answer": "AV",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Amaç, erek",
-      "answer": "GAYE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "CGS sisteminde iş ve enerji birimi",
-      "answer": "ERG",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Satrançta bir taş",
-      "answer": "AT",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kasapta satılan besin",
-      "answer": "ET",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sapı uzun, kırmızı küçük meyve",
-      "answer": "KİRAZ",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağacın yenilen ürünü",
-      "answer": "MEYVE",
+      "text": "İnce taneli malzeme",
+      "answer": "KUM",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kalıtım birimi",
-      "answer": "GEN",
-      "row": 6,
+      "text": "Mevzu",
+      "answer": "KONU",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Türkmenistan'ın başkenti",
-      "answer": "AŞKABAT",
-      "row": 3,
+      "text": "Ahlak kuralları",
+      "answer": "ETİK",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "İstemsiz kasılma",
+      "answer": "KRAMP",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -260,47 +218,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
     },
     {
       "row": 0,
       "col": 4
     },
     {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 2,
+      "row": 1,
       "col": 0
     },
     {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
-      "col": 8
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
+      "row": 4,
       "col": 6
     },
     {
-      "row": 4,
+      "row": 5,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 1
+      "row": 5,
+      "col": 8
     },
     {
-      "row": 7,
-      "col": 2
+      "row": 9,
+      "col": 7
     },
     {
       "row": 10,
@@ -308,15 +254,7 @@
     },
     {
       "row": 11,
-      "col": 6
-    },
-    {
-      "row": 11,
       "col": 7
-    },
-    {
-      "row": 11,
-      "col": 8
     }
   ],
   "difficulty": "orta",

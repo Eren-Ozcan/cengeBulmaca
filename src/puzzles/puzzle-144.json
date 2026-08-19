@@ -5,245 +5,186 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kıtanın batısındaki uzun dağ silsilesi",
-      "answer": "AND",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir ülkenin vatandaşları",
-      "answer": "HALK",
+      "text": "Kongre ilimiz",
+      "answer": "SİVAS",
       "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Nüfusu kalabalık yerleşim yeri",
-      "answer": "ŞEHİR",
-      "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Eskiden kaftan yapımında kullanılan kumaş",
-      "answer": "ABA",
+      "text": "Doyum sağlama",
+      "answer": "TATMİN",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sekiz sesli aralık",
+      "answer": "OKTAV",
       "row": 3,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Gemi yapım ve onarım yeri",
-      "answer": "DOK",
+      "text": "Kara kuş",
+      "answer": "KARGA",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Mikroskopta kullanılan cam",
-      "answer": "LAM",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yer altındaki doğal oyuk",
-      "answer": "MAĞARA",
+      "text": "Üreme ürünü",
+      "answer": "DÖL",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sol'den sonraki nota",
-      "answer": "LA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Germanyum'un simgesi",
-      "answer": "GE",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hayvan yemi olarak yetiştirilen bakliyat",
-      "answer": "ARAKA",
-      "row": 6,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yarışma bölümü",
-      "answer": "TUR",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Öğrenciye verilen değerlendirme puanı",
-      "answer": "NOT",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Uzun, sırt dayamalı oturak",
-      "answer": "BANK",
-      "row": 9,
+      "text": "Haykırma, bağırma",
+      "answer": "NARA",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Eşya saklamada kullanılan kapaklı kap",
-      "answer": "KUTU",
-      "row": 9,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "'Öyle mi?' anlamında ünlem",
-      "answer": "YA",
-      "row": 10,
-      "col": 5,
+      "text": "Metal kızgınlığı",
+      "answer": "TAV",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üzerine bina dikilecek boş arazi",
-      "answer": "ARSA",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sıvı veya katı madde konulan nesne",
-      "answer": "KAP",
-      "row": 11,
+      "text": "Tatil mevsimi",
+      "answer": "YAZ",
+      "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Lahza, dem",
-      "answer": "AN",
-      "row": 0,
+      "text": "Çevre",
+      "answer": "MUHİT",
+      "row": 6,
       "col": 0,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Hukukun temel ilkesi",
-      "answer": "ADALET",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kripton'un kimyasal simgesi",
-      "answer": "KR",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İkinci burç",
-      "answer": "BOĞA",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Millet",
-      "answer": "ULUS",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gülmece amaçlı söz",
+      "text": "Latife",
       "answer": "ŞAKA",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dönümün onda biri olan ölçü",
-      "answer": "AR",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Helyum'un simgesi",
-      "answer": "HE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yakını gösteren işaret zamiri",
-      "answer": "BU",
       "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eksik",
+      "answer": "NOKSAN",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gösteri levhası",
+      "answer": "PANKART",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Karşı davranış",
+      "answer": "TEPKİ",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Fotoğraf düzeltmesi",
+      "answer": "RÖTUŞ",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Katmerli sebze",
+      "answer": "LAHANA",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hazır mal",
+      "answer": "STOK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Batı soyluluk unvanı",
+      "answer": "VİKONT",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Elverişli şart",
+      "answer": "İMKAN",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hayıflanma sözü",
-      "answer": "AH",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaprakları katmerli kış sebzesi",
-      "answer": "LAHANA",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Para birimimiz",
-      "answer": "LİRA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Mevlevi kültürüyle bilinen Orta Anadolu ilimiz",
-      "answer": "KONYA",
+      "text": "Yarım küre başlık",
+      "answer": "TAKKE",
       "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Renkli cam bezeme",
+      "answer": "VİTRAY",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çiçeğin ince gövdesi",
+      "answer": "SAP",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Harf değiştirme oyunu",
+      "answer": "ANAGRAM",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yumuşak, yağlı bakım ürünü",
-      "answer": "KREM",
-      "row": 0,
+      "text": "Akıtma oluğu",
+      "answer": "ARK",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Dinî öğüt",
+      "answer": "VAAZ",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Dönerek delik açan alet",
-      "answer": "MATKAP",
-      "row": 5,
+      "text": "Peru parası",
+      "answer": "İNTİ",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
     {
       "row": 0,
       "col": 1
@@ -254,23 +195,35 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 1
     },
     {
       "row": 3,
-      "col": 4
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 4
+      "row": 7,
+      "col": 5
     },
     {
       "row": 9,
       "col": 0
+    },
+    {
+      "row": 11,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 1
     }
   ],
   "difficulty": "zor",

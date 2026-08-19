@@ -5,247 +5,247 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Emeğin karşılığı olan şey",
-      "answer": "HAK",
-      "row": 1,
+      "text": "Koruma, kayırma",
+      "answer": "HİMAYE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aleyh karşıtı",
+      "answer": "LEH",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Beğenmeme haykırışı",
+      "answer": "YUH",
+      "row": 2,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Takvimdeki belirli bir gün",
-      "answer": "TARİH",
-      "row": 1,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bakır'ın simgesi",
-      "answer": "CU",
-      "row": 2,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Yılın dördüncü ayı",
-      "answer": "NİSAN",
+      "text": "Temiz ortam",
+      "answer": "NEZİH",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Fitilli aydınlatma aracı",
-      "answer": "MUM",
+      "text": "Köyün ileri geleni",
+      "answer": "AĞA",
       "row": 3,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Temel, esas",
-      "answer": "ANA",
+      "text": "Açık bölüm",
+      "answer": "TERAS",
       "row": 4,
-      "col": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sırbistan'ın başkenti",
-      "answer": "BELGRAD",
-      "row": 4,
+      "text": "Karşılaşmalar kümesi",
+      "answer": "LİG",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski başlık",
+      "answer": "FES",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Element tablosunda Helyum'un simgesi",
-      "answer": "HE",
+      "text": "İstemsiz kasılma",
+      "answer": "KRAMP",
       "row": 6,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Tespihin baş kısmı",
-      "answer": "İMAME",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Rutubet",
-      "answer": "NEM",
+      "text": "İşve, kırıtma",
+      "answer": "NAZ",
       "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İri taneli bezelye",
-      "answer": "ARAKA",
-      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sol'den sonraki nota",
-      "answer": "LA",
-      "row": 8,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Öne sürülen görüş",
-      "answer": "SAV",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kentin bir kesimi",
-      "answer": "SEMT",
-      "row": 9,
+      "text": "Öncesizlik",
+      "answer": "EZEL",
+      "row": 7,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Başlangıçtaki, evvelki",
-      "answer": "İLK",
-      "row": 10,
-      "col": 2,
+      "text": "Eşin babası",
+      "answer": "KAYNATA",
+      "row": 8,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Pak, temiz anlamında da kullanılan renk",
-      "answer": "AK",
+      "text": "Çöl yeşilliği",
+      "answer": "VAHA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tiz karşıtı",
+      "answer": "PES",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Özen",
+      "answer": "İTİNA",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yabani bitki",
+      "answer": "OT",
       "row": 10,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Element tablosunda Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 10,
-      "col": 1,
-      "arrow": "down-right"
+      "text": "Geniş karşıtı",
+      "answer": "DAR",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Odun kesmede kullanılan dişli araç",
-      "answer": "TESTERE",
+      "text": "Hint giysisi",
+      "answer": "SARİ",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Davul takımı",
+      "answer": "BATERİ",
       "row": 11,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Boru sesi",
-      "answer": "Tİ",
-      "row": 1,
+      "text": "Akım geçiren",
+      "answer": "İLETKEN",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Doğadaki en sert mineral",
-      "answer": "ELMAS",
-      "row": 4,
+      "text": "Yivli eleman",
+      "answer": "VİDA",
+      "row": 8,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Cevap isteyen soru kelimesi",
-      "answer": "NE",
-      "row": 10,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Olağanüstü halk anlatısı",
-      "answer": "MASAL",
+      "text": "İçki yiyeceği",
+      "answer": "MEZE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Fasıla",
-      "answer": "ARA",
-      "row": 6,
+      "text": "İç organlar",
+      "answer": "SAKATAT",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dumanın bıraktığı kara leke",
-      "answer": "İS",
-      "row": 10,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Radyum'un simgesi",
-      "answer": "RA",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Denizin ve gökyüzünün rengi",
-      "answer": "MAVİ",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuveyt ve Irak gibi ülkelerin para birimi",
-      "answer": "DİNAR",
+      "text": "Sırada son",
+      "answer": "AHİR",
       "row": 0,
-      "col": 4,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kelimenin sonuna gelen parça",
-      "answer": "EK",
+      "text": "Saklanan tahıl",
+      "answer": "ZAHİRE",
       "row": 6,
-      "col": 4,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hayıflanma sözü",
-      "answer": "AH",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Silah altındaki kişi",
-      "answer": "ASKER",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İşlenerek metale dönüşen cevher",
-      "answer": "MADEN",
+      "text": "Ülke insanları",
+      "answer": "HALK",
       "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Taraf, kenar",
+      "answer": "YAN",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Uyarı aleti",
+      "answer": "SİREN",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Baş kaldıran",
+      "answer": "ASİ",
+      "row": 9,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yahut anlamında",
+      "answer": "YA",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde dünya, cihan",
-      "answer": "ACUN",
+      "text": "Hiddet",
+      "answer": "GAZAP",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Osmanlı göstergesi",
+      "answer": "TUĞ",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Adem ile Havva kıssasında geçen meyve",
-      "answer": "ELMA",
-      "row": 6,
+      "text": "Gök taşı",
+      "answer": "METEOR",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İplikten dokunan malzeme",
-      "answer": "KUMAŞ",
-      "row": 0,
+      "text": "Padişah toprağı",
+      "answer": "HAS",
+      "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Duvara delik açmakta kullanılan alet",
-      "answer": "MATKAP",
-      "row": 6,
+      "text": "Sentetik madde",
+      "answer": "PLASTİK",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -253,15 +253,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
@@ -272,36 +264,20 @@
       "col": 6
     },
     {
-      "row": 1,
-      "col": 0
+      "row": 0,
+      "col": 8
     },
     {
       "row": 4,
-      "col": 3
-    },
-    {
-      "row": 5,
       "col": 7
     },
     {
-      "row": 10,
+      "row": 8,
       "col": 0
     },
     {
-      "row": 11,
-      "col": 3
-    },
-    {
-      "row": 11,
-      "col": 4
-    },
-    {
-      "row": 11,
+      "row": 12,
       "col": 6
-    },
-    {
-      "row": 11,
-      "col": 7
     },
     {
       "row": 12,

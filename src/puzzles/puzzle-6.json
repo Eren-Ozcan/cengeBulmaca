@@ -5,197 +5,183 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Ayrılırken söylenen elveda sözü",
-      "answer": "VEDA",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 1,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dokuzu izleyen sayı",
-      "answer": "ON",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Havaya uçan renkli lastik küre",
-      "answer": "BALON",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sarıya çalan göz rengi",
-      "answer": "ELA",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kalsiyum'un kimyasal simgesi",
-      "answer": "CA",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Büyük erkek kardeş (halk ağzı)",
-      "answer": "AKA",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Egzersizde deriden gelen sıvı",
-      "answer": "TER",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Direnç ölçü birimi",
-      "answer": "OM",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yetki simgesi değnek",
-      "answer": "ASA",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Temel, esas",
-      "answer": "ANA",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Notalarda dördüncü sıradaki ses",
-      "answer": "FA",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Süvarinin bindiği hayvan",
-      "answer": "AT",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Radyum'un simgesi",
-      "answer": "RA",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Do'dan sonraki nota",
-      "answer": "RE",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir işe harcanan güç",
-      "answer": "EMEK",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Berilyum'un simgesi",
-      "answer": "BE",
-      "row": 2,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tahıl deposu",
-      "answer": "AMBAR",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüzeyi taneli kırmızı yaz meyvesi",
-      "answer": "ÇİLEK",
+      "text": "Ermiş, kutsal kişi",
+      "answer": "AZİZ",
       "row": 0,
-      "col": 2,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Meydana gelen şey, hadise",
-      "answer": "OLAY",
+      "text": "İkinci şahıs",
+      "answer": "SEN",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Telefon sözü",
+      "answer": "ALO",
       "row": 2,
-      "col": 3,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Sıvı veya gaz akışını denetleyen düzenek",
-      "answer": "VANA",
-      "row": 0,
+      "text": "Büyük toprak sahibi",
+      "answer": "AĞA",
+      "row": 2,
       "col": 4,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Materyalist görüşlü kimse",
-      "answer": "ATE",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sabahın ilk ışıkları",
-      "answer": "TAN",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Do-re-mi dizisinin başlangıcı",
-      "answer": "DO",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Korkusuzluk, yiğitlik",
-      "answer": "CESARET",
+      "text": "Araç lambası",
+      "answer": "FAR",
       "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Saçsız",
+      "answer": "KEL",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kimse, tip, yüz",
+      "answer": "SİMA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aynısı, taklit",
+      "answer": "KOPYA",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ortaya çıkarma",
+      "answer": "KEŞİF",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saf içki",
+      "answer": "SEK",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Alet takımı",
+      "answer": "EDEVAT",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Katmerli çörek",
+      "answer": "KETE",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Hazır mal",
+      "answer": "STOK",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Metal kap",
+      "answer": "TAS",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Zayıflık",
+      "answer": "ZAFİYET",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Mahkeme belgesi",
+      "answer": "İLAM",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yankı",
+      "answer": "EKO",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İstemeyerek",
+      "answer": "ZORAKİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kadar, değin",
+      "answer": "DEK",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Baskı yöntemi",
+      "answer": "OFSET",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hafif uykulu",
+      "answer": "SAK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Olumlu yanıt",
+      "answer": "EVET",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Törpü",
+      "answer": "EĞE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Türkiye'nin başkenti",
-      "answer": "ANKARA",
+      "text": "Boyun bölümü",
+      "answer": "YAKA",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayakkabı demiri",
+      "answer": "NALÇA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Süt beyazı renk",
-      "answer": "AK",
+      "text": "Kafa vurma",
+      "answer": "TOS",
       "row": 7,
       "col": 7,
       "arrow": "down"
@@ -204,63 +190,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 4
     },
     {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 3,
+      "row": 4,
       "col": 5
     },
     {
       "row": 6,
-      "col": 2
+      "col": 7
     },
     {
       "row": 7,
-      "col": 2
-    },
-    {
-      "row": 10,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 1
+      "row": 8,
+      "col": 0
     },
     {
-      "row": 10,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 3
-    },
-    {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 7
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "orta",

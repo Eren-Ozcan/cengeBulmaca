@@ -5,163 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Aritmetik işlem",
-      "answer": "HESAP",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Element tablosunda Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 2,
+      "text": "Alçalan yol",
+      "answer": "İNİŞ",
+      "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir fazlası olan sayı",
-      "answer": "İKİ",
+      "text": "Kötü",
+      "answer": "FENA",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Düğmenin geçtiği yarık",
-      "answer": "İLİK",
-      "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Türkiye'nin başkenti",
-      "answer": "ANKARA",
+      "text": "Deniz parıltısı",
+      "answer": "YAKAMOZ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Paris'ten geçen nehir",
+      "answer": "SEN",
       "row": 4,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ukrayna'nın en büyük şehri",
-      "answer": "KİEV",
+      "text": "Sıkıntılı dönem",
+      "answer": "ÇİLE",
       "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Üstün başarılı kimse",
-      "answer": "AS",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sivri uçlu fırlatma silahı",
-      "answer": "OK",
-      "row": 5,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eczaneden alınan tedavi maddesi",
-      "answer": "İLAÇ",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Asıl, esas olan",
-      "answer": "ANA",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Görüntü yansıtan sırlı cam",
-      "answer": "AYNA",
-      "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Türk müziğinde kullanılan armudi çalgı",
-      "answer": "UD",
-      "row": 7,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Kolun ucundaki tutma organı",
-      "answer": "EL",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Uyumsuz, geçimsiz",
-      "answer": "AKSİ",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gam dizisinin son notası",
-      "answer": "Sİ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Nikel için kullanılan kimyasal simge",
-      "answer": "Nİ",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
+      "text": "Tasdik",
+      "answer": "ONAY",
       "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Küçük lokma",
+      "answer": "TİKE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tatlı karşıtı",
+      "answer": "ACI",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Törpü",
+      "answer": "EĞE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kâğıt açma",
+      "answer": "FAL",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kamyonun taşıdığı",
+      "answer": "YÜK",
+      "row": 2,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Aralık sözü",
+      "answer": "İLA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Padişah çadırı",
+      "answer": "OTAĞ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Belirsiz çokluk",
+      "answer": "NİCE",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Geleneksel Japon çiçek sanatı",
-      "answer": "İKEBANA",
-      "row": 2,
+      "text": "Yerine getirme",
+      "answer": "İFA",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Haşlanmış pirinçten yapılan yemek",
-      "answer": "PİLAV",
+      "text": "Cep bıçağı",
+      "answer": "ÇAKI",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yağmur aracı",
+      "answer": "ŞEMSİYE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Demlenerek içilen bitki",
-      "answer": "ÇAY",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Temizlenmesi gereken pislik",
-      "answer": "KİR",
+      "text": "Doğuş bayramı",
+      "answer": "NOEL",
       "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde yapma, gerçekleştirme",
-      "answer": "İKA",
-      "row": 1,
+      "text": "Depo",
+      "answer": "HAZNE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İstem dışı kötü olay",
-      "answer": "KAZA",
-      "row": 5,
+      "text": "Ağızdaki tat organı",
+      "answer": "DİL",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     }
@@ -169,19 +148,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
     },
     {
       "row": 0,
       "col": 5
     },
     {
-      "row": 0,
-      "col": 6
+      "row": 4,
+      "col": 1
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 4,
+      "col": 2
+    },
+    {
+      "row": 6,
+      "col": 5
     },
     {
       "row": 7,
@@ -189,11 +176,11 @@
     },
     {
       "row": 8,
-      "col": 5
+      "col": 4
     },
     {
-      "row": 9,
-      "col": 1
+      "row": 8,
+      "col": 5
     }
   ],
   "difficulty": "kolay",

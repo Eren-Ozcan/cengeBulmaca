@@ -5,154 +5,151 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Erkeklere verilen unvan",
-      "answer": "BAY",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Motorlu taşıt",
-      "answer": "ARABA",
-      "row": 2,
+      "text": "Ölçme işi",
+      "answer": "ÖLÇÜM",
+      "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kıtaları ayıran engin su kütlesi",
-      "answer": "OKYANUS",
-      "row": 2,
+      "text": "İkinci şahıs",
+      "answer": "SEN",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Pençeleriyle avlanan büyük kuş",
-      "answer": "KARTAL",
+      "text": "Verimli düzlük",
+      "answer": "OVA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Deri lekesi",
+      "answer": "BEN",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sırlı kap",
+      "answer": "EMAYE",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yardım sözü",
+      "answer": "AMAN",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Do'dan sonraki nota",
-      "answer": "RE",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Deveye benzeyen And Dağları hayvanı",
-      "answer": "LAMA",
+      "text": "Metal pişirme aracı",
+      "answer": "IZGARA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sapı uzun, kırmızı küçük meyve",
-      "answer": "KİRAZ",
+      "text": "Geri verme",
+      "answer": "İADE",
       "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İnce, uzun örtü",
-      "answer": "ŞAL",
-      "row": 9,
+      "text": "Van, Tuz gibi",
+      "answer": "GÖL",
+      "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
+      "text": "Güney Amerika dağları",
+      "answer": "AND",
       "row": 9,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Doğum günlerinde kesilen tatlı",
-      "answer": "KEK",
-      "row": 2,
+      "text": "Metal levha",
+      "answer": "SAC",
+      "row": 1,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Kışın uyuyan hayvan",
+      "answer": "AYI",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Okçu figürüyle bilinen burç",
-      "answer": "YAY",
+      "text": "Engelleyici tedbir",
+      "answer": "ÖNLEM",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bir bakliyat türü",
-      "answer": "ARAKA",
-      "row": 4,
+      "text": "Çalma aracı",
+      "answer": "ZİL",
+      "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Antik Mısır tanrılarından biri",
-      "answer": "RA",
-      "row": 1,
+      "text": "Asker birliği",
+      "answer": "MANGA",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kum falı",
-      "answer": "REMİL",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Güzel sanatların her biri",
-      "answer": "SANAT",
+      "text": "Sürü güdücüsü",
+      "answer": "ÇOBAN",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yüz kızartan duygu",
-      "answer": "AR",
+      "text": "Kıbrıs, Girit gibi",
+      "answer": "ADA",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "En yakındaki şeyi belirten zamir",
-      "answer": "BU",
-      "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Altın'ın simgesi",
-      "answer": "AU",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Zamanın çok kısa parçası",
-      "answer": "AN",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Olağanüstü halk anlatısı",
-      "answer": "MASAL",
+      "text": "Öz olmayan",
+      "answer": "ÜVEY",
       "row": 0,
-      "col": 6,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dernek veya kurum üyesi",
-      "answer": "AZA",
+      "text": "Almanya'dan geçen nehir",
+      "answer": "REN",
       "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yön değiştirme",
+      "answer": "MANEVRA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
     {
       "row": 0,
       "col": 1
@@ -162,12 +159,12 @@
       "col": 3
     },
     {
-      "row": 0,
-      "col": 5
+      "row": 3,
+      "col": 1
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 5,
+      "col": 5
     },
     {
       "row": 6,
@@ -175,7 +172,7 @@
     },
     {
       "row": 8,
-      "col": 0
+      "col": 6
     }
   ],
   "difficulty": "kolay",

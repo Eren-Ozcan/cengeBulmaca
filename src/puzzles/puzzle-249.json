@@ -5,212 +5,198 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Ocakta kızartma yapılan kap",
-      "answer": "TAVA",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
+      "text": "Pirinç yemeği",
+      "answer": "PİLAV",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Ciğerlere çekilen hava",
-      "answer": "NEFES",
+      "text": "Seçme aşaması",
+      "answer": "ELEME",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Seçmenin kullandığı tercih hakkı",
-      "answer": "OY",
+      "text": "Perakende karşıtı",
+      "answer": "TOPTAN",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Toplu konut alanı",
-      "answer": "SİTE",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Suyu tutan yapay engel",
-      "answer": "SET",
+      "text": "Küçük büyüteç",
+      "answer": "LUP",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kimyada Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Adem ile Havva kıssasında geçen meyve",
-      "answer": "ELMA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırmızı taneli bir meyve",
-      "answer": "NAR",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Aynı değerde olan",
-      "answer": "EŞ",
-      "row": 6,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Güney Kore'nin başkenti",
-      "answer": "SEUL",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Binanın her bir bölümü",
-      "answer": "KAT",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Avusturya'nın başkenti",
-      "answer": "VİYANA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Fransız yazarın 19. yüzyıl romanı",
-      "answer": "NANA",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Avlanan hayvan",
-      "answer": "AV",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Enerji ölçü birimi",
-      "answer": "KALORİ",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "25 Aralık'ta kutlanan bayram",
-      "answer": "NOEL",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hasat edilmeyi bekleyen tahıl",
-      "answer": "EKİN",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ege sofralarının vazgeçilmez meyvesi",
-      "answer": "ZEYTİN",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yere değen uzuv",
-      "answer": "AYAK",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kazakistan'ın yeni başkenti",
-      "answer": "ASTANA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Odun kesmede kullanılan dişli araç",
-      "answer": "TESTERE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Atın tırnağına çakılan demir",
-      "answer": "NAL",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Antakya'dan geçen ırmak",
-      "answer": "ASİ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Geleneksel Japon ezgisi",
-      "answer": "UTA",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yapının taşıyıcı alt bölümü",
-      "answer": "TEMEL",
-      "row": 2,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Alan ölçü birimi (100 m²)",
-      "answer": "AR",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tanrı fikrini reddeden kişi",
-      "answer": "ATE",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Pişmiş sıvı yemek",
-      "answer": "AŞ",
+      "text": "Merkez nokta",
+      "answer": "ORTA",
       "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sevinç ünlemi",
+      "answer": "HAH",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çatı barı",
+      "answer": "RUF",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kanatlan, süzül",
+      "answer": "UÇ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Adaleli",
+      "answer": "KASLI",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yersiz düşünce",
+      "answer": "KURUNTU",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Birden kesilme",
+      "answer": "SEKTE",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Amacıyla, maksadıyla",
+      "answer": "İÇİN",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yumuşak gövdeli",
+      "answer": "OTSU",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güreş bitişi",
+      "answer": "TUŞ",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşağılama sözü",
+      "answer": "TUH",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hafif sis",
+      "answer": "PUS",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Pars",
+      "answer": "LEOPAR",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tekne kaptanı",
+      "answer": "REİS",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski Türklerde yiğit",
+      "answer": "ALP",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hukuk adamı",
+      "answer": "HUKUKÇU",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Reddetme",
+      "answer": "VETO",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Vale kâğıdı",
+      "answer": "FANTİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kenar boşluğu",
+      "answer": "MARJ",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Damar aracı",
+      "answer": "STENT",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Dolar parçası",
+      "answer": "SENT",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüce, büyük",
+      "answer": "ULU",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sabitleme maddesi",
+      "answer": "ALÇI",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Çekiçle çakılan sivri metal",
-      "answer": "ÇİVİ",
-      "row": 7,
+      "text": "Göğüs, kaburga",
+      "answer": "DÖŞ",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     }
@@ -218,39 +204,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 3
-    },
-    {
-      "row": 4,
       "col": 5
     },
     {
-      "row": 8,
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 6
     },
     {
-      "row": 11,
-      "col": 0
+      "row": 10,
+      "col": 6
     }
   ],
   "difficulty": "zor",

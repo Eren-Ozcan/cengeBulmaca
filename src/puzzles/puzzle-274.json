@@ -5,205 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Eğlenme, dalga geçme",
-      "answer": "ALAY",
+      "text": "Yarının karşıtı",
+      "answer": "DÜN",
       "row": 1,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Irak'ın başkenti",
-      "answer": "BAĞDAT",
+      "text": "Batı bölgemiz",
+      "answer": "EGE",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kör kimse",
-      "answer": "AMA",
+      "text": "Patlama sesi",
+      "answer": "GÜM",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Özdeyiş",
+      "answer": "VECİZE",
       "row": 3,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Surlarla çevrili yapı",
-      "answer": "KALE",
+      "text": "Geri çevirme",
+      "answer": "RET",
       "row": 4,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Atın boyun kılları",
-      "answer": "YELE",
+      "text": "Düzey",
+      "answer": "SEVİYE",
       "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Satranç taşlarından biri, L şeklinde hareket eder",
-      "answer": "AT",
+      "text": "Yaylı çalgı",
+      "answer": "KEMAN",
       "row": 6,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Kripton'un simgesi",
-      "answer": "KR",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sivri uçlu fırlatma silahı",
-      "answer": "OK",
+      "text": "Açılış müziği",
+      "answer": "UVERTÜR",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çaba, uğraş",
-      "answer": "EMEK",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Gösteri ve yarış alanı",
-      "answer": "ARENA",
+      "text": "Kahverengi kömür",
+      "answer": "LİNYİT",
       "row": 8,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tiyatro oyununun ana bölümü",
-      "answer": "PERDE",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Suçu bağışlama",
-      "answer": "AF",
+      "text": "Sinek ilacı",
+      "answer": "FLİT",
       "row": 10,
-      "col": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gülmece amaçlı söz",
-      "answer": "ŞAKA",
+      "text": "Savaş gazı",
+      "answer": "İPERİT",
       "row": 11,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Mi ile Sol arasındaki nota",
-      "answer": "FA",
-      "row": 4,
-      "col": 0,
+      "text": "Yaratılmış insan",
+      "answer": "KUL",
+      "row": 5,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde ayak",
-      "answer": "PA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Uzun, sırt dayamalı oturak",
-      "answer": "BANK",
+      "text": "Devasa, kocaman",
+      "answer": "DEV",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Seçmenin kullandığı tercih hakkı",
-      "answer": "OY",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bacağın yere basan bölümü",
-      "answer": "AYAK",
-      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Herkese hakkını verme ilkesi",
-      "answer": "ADALET",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kıtanın batısındaki uzun dağ silsilesi",
-      "answer": "AND",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Lamın üzerine kapatılan ince cam",
-      "answer": "LAMEL",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Askerlik yapan genç, nefer",
-      "answer": "ER",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Evli çiftin bireylerinden biri",
-      "answer": "EŞ",
-      "row": 9,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Dede, cet",
-      "answer": "ATA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sofraların vazgeçilmez unlu besini",
-      "answer": "EKMEK",
+      "text": "Cana yakın",
+      "answer": "SEVİMLİ",
       "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hükümran",
+      "answer": "EGEMEN",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Urgan",
+      "answer": "İP",
+      "row": 9,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Karma sahne gösterisi",
+      "answer": "VARYETE",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İçeri girmiş bölüm",
+      "answer": "GİRİNTİ",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İsviçre'den Kuzey Denizi'ne akan nehir",
-      "answer": "REN",
-      "row": 5,
+      "text": "Seviye",
+      "answer": "DÜZEY",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kar ve süt rengi",
-      "answer": "AK",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Vücudun dış örtüsü",
-      "answer": "CİLT",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Ustalık öncesi meslek kademesi",
-      "answer": "KALFA",
+      "text": "Kırışık gideren araç",
+      "answer": "ÜTÜ",
       "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Gök taşı",
+      "answer": "METEOR",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -215,34 +159,46 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
-      "col": 6
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 2,
-      "col": 6
-    },
-    {
       "row": 3,
       "col": 0
-    },
-    {
-      "row": 3,
-      "col": 6
     },
     {
       "row": 4,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 1
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {
@@ -251,15 +207,27 @@
     },
     {
       "row": 9,
-      "col": 2
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
     },
     {
       "row": 11,
-      "col": 1
-    },
-    {
-      "row": 11,
-      "col": 2
+      "col": 0
     }
   ],
   "difficulty": "kolay",

@@ -5,219 +5,198 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Evren pulu da denilen mineral",
-      "answer": "MİKA",
+      "text": "Köyden büyük yer",
+      "answer": "KASABA",
       "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Demir ile karbonun alaşımı",
-      "answer": "ÇELİK",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mikroskopta kullanılan cam",
-      "answer": "LAM",
-      "row": 3,
       "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Baryum'un simgesi",
-      "answer": "BA",
-      "row": 2,
-      "col": 6,
       "arrow": "down-right"
     },
     {
-      "text": "İnisiyatif alan, atılgan",
-      "answer": "ATAK",
-      "row": 4,
-      "col": 3,
+      "text": "Onarım işleri",
+      "answer": "TAMİRAT",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Oruç ayı",
+      "answer": "RAMAZAN",
+      "row": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kaba, kalın yün kumaş",
-      "answer": "ABA",
+      "text": "Bacağın büküldüğü yer",
+      "answer": "DİZ",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İlaç miktarı",
+      "answer": "DOZ",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sarıya çalan göz rengi",
-      "answer": "ELA",
+      "text": "Küçük ekip",
+      "answer": "TİM",
       "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Vücudu kaplayan yüzey",
-      "answer": "TEN",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Anlama ve kavrama yetisi",
-      "answer": "ZEKA",
-      "row": 6,
+      "text": "Ağız kemiği",
+      "answer": "ÇENE",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Doğum uzmanı sağlık görevlisi",
-      "answer": "EBE",
+      "text": "İşve, naz",
+      "answer": "EDA",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Çalışma mobilyası",
+      "answer": "MASA",
       "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Babanın kız kardeşi olan akraba",
-      "answer": "HALA",
-      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kozdaki üstün kağıt",
-      "answer": "ATU",
-      "row": 9,
+      "text": "Fedakârlık",
+      "answer": "ÖZVERİ",
+      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Periyodik tablodaki Kalsiyum'un simgesi",
-      "answer": "CA",
+      "text": "Hususiyet",
+      "answer": "ÖZELLİK",
       "row": 9,
-      "col": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Değerli eşyaların saklandığı çelik dolap",
-      "answer": "KASA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Periyodik tablodaki Tantal'ın simgesi",
-      "answer": "TA",
+      "text": "Yüz güzelliği",
+      "answer": "CEMAL",
       "row": 10,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Pislik, is",
-      "answer": "KİR",
+      "text": "Kazak ipliği",
+      "answer": "YÜN",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kullanım ücreti",
+      "answer": "KİRA",
       "row": 11,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Utanma duygusu",
-      "answer": "AR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Dış karşıtı, dahil",
-      "answer": "İÇ",
+      "text": "Küçük deniz kabuklusu",
+      "answer": "KARİDES",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Isı ve ışık veren yanma olayı",
-      "answer": "ATEŞ",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kar ve süt rengi",
-      "answer": "AK",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Renkli kanatlarıyla uçan böcek",
-      "answer": "KELEBEK",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Baş kaldıran",
-      "answer": "ASİ",
+      "text": "Hayali canavar",
+      "answer": "ÖCÜ",
       "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Savaşçı kadın",
+      "answer": "AMAZON",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Birbirine karışık renkli",
-      "answer": "ALA",
+      "text": "İtina",
+      "answer": "ÖZEN",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gümüş iplik",
+      "answer": "SİM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kilit açan araç",
-      "answer": "ANAHTAR",
+      "text": "Kâbe kuyusu suyu",
+      "answer": "ZEMZEM",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Açık söylemeden belirtme",
-      "answer": "İMA",
-      "row": 1,
+      "text": "Kamış içkisi",
+      "answer": "ARAK",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Altın'ın kimyasal simgesi",
-      "answer": "AU",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir şeyin dayandığı asıl unsur",
-      "answer": "TEMEL",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Nefesli çalgı sesini taklit eden hece",
-      "answer": "Tİ",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Çiçek özünden arıların ürettiği besin",
-      "answer": "BAL",
-      "row": 2,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Evin çatısındaki duman çıkış borusu",
-      "answer": "BACA",
+      "text": "Av alanı",
+      "answer": "AVLAK",
       "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Asit karşıtı",
+      "answer": "BAZ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Avuntu",
+      "answer": "TESELLİ",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ecdat",
+      "answer": "ATA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Gülmece amaçlı söz",
-      "answer": "ŞAKA",
-      "row": 1,
+      "text": "Yönetime dair",
+      "answer": "İDARİ",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyüme, gelişme, çoğalma",
+      "answer": "NEMA",
+      "row": 2,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "İnandırma, kandırma",
+      "answer": "İKNA",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -225,15 +204,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 0
     },
     {
       "row": 0,
@@ -241,43 +212,19 @@
     },
     {
       "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 4
-    },
-    {
-      "row": 6,
       "col": 7
+    },
+    {
+      "row": 7,
+      "col": 0
     },
     {
       "row": 8,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 7
-    },
-    {
       "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 4
-    },
-    {
-      "row": 11,
       "col": 6
-    },
-    {
-      "row": 11,
-      "col": 7
     }
   ],
   "difficulty": "kolay",

@@ -5,226 +5,191 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Element tablosunda Kalsiyum'un simgesi",
-      "answer": "CA",
+      "text": "İkinci çoğul",
+      "answer": "SİZ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Düş, imge",
-      "answer": "HAYAL",
+      "text": "Kare yüzlü cisim",
+      "answer": "KÜP",
       "row": 0,
-      "col": 3,
+      "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Düşünme, muhakeme yetisi",
-      "answer": "US",
+      "text": "Az karşıtı",
+      "answer": "ÇOK",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Deride oluşan kesik veya bere",
-      "answer": "YARA",
+      "text": "Kendini ağıra satma",
+      "answer": "NAZ",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Padişah çadırı",
-      "answer": "OTAĞ",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Şeref, haysiyet",
-      "answer": "ONUR",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kelimenin sonuna gelen parça",
-      "answer": "EK",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Üstü kapalı anlatma",
-      "answer": "İMA",
-      "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sanatçının meydana getirdiği yapıt",
-      "answer": "ESER",
+      "text": "İskambil oyunu",
+      "answer": "BRİÇ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Nargile bölümü",
+      "answer": "LÜLE",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Emek, çaba",
+      "answer": "SAY",
+      "row": 3,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Uzun boylu ağaç",
+      "answer": "KAVAK",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Doğru, isabetli",
+      "answer": "RAST",
       "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kasabın sattığı gıda",
-      "answer": "ET",
+      "text": "Yataktan kalkamayan",
+      "answer": "YATALAK",
       "row": 7,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yanardağ",
-      "answer": "VOLKAN",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Georg Ohm'dan gelen birim",
-      "answer": "OM",
-      "row": 9,
-      "col": 2,
+      "text": "Evcil olmayan",
+      "answer": "YABANİ",
+      "row": 8,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Pençeli, kalın postlu orman hayvanı",
-      "answer": "AYI",
+      "text": "Egemen toprak",
+      "answer": "ÜLKE",
       "row": 9,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Bağış amaçlı toplanan para",
-      "answer": "İANE",
+      "text": "Öğüt verme",
+      "answer": "TAVSİYE",
       "row": 10,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Soru kâğıdıyla yapılan araştırma",
-      "answer": "ANKET",
+      "text": "Akılla ilgili",
+      "answer": "AKLİ",
       "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Altın için kullanılan kimyasal simge",
-      "answer": "AU",
+      "text": "Konkav",
+      "answer": "İÇBÜKEY",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Küçük, yeşil bitki türü",
-      "answer": "OT",
-      "row": 3,
+      "text": "Kırışık gideren araç",
+      "answer": "ÜTÜ",
+      "row": 8,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bulgaristan'ın başkenti",
-      "answer": "SOFYA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir şeyin nihayeti",
-      "answer": "SON",
-      "row": 1,
+      "text": "Zor kullanarak",
+      "answer": "ZORLA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Osmanlı'da paşalık simgesi sorguç",
-      "answer": "TUĞ",
-      "row": 2,
+      "text": "Işık halkası",
+      "answer": "AYLA",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ukrayna'nın başkenti",
+      "answer": "KİEV",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yankı",
-      "answer": "EKO",
+      "text": "Dinî sakınma",
+      "answer": "TAKVA",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Altının saflık ölçüsü",
-      "answer": "AYAR",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İşlemecilikte kullanılan seyrek dokuma kumaş",
-      "answer": "ETAMİN",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yemeklerde kullanılan katı veya sıvı besin maddesi",
-      "answer": "YAĞ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bacadan çıkan siyah kalıntı",
-      "answer": "İS",
+      "text": "Doğulu müzik türü",
+      "answer": "ARABESK",
       "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Nam, itibar",
+      "answer": "ÜN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kar ve süt rengi",
-      "answer": "AK",
+      "text": "Gösterge çizelgesi",
+      "answer": "SKALA",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Valinin yönettiği yer",
+      "answer": "İL",
       "row": 9,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yüz kızartan duygu",
-      "answer": "AR",
+      "text": "Berabere kalma",
+      "answer": "PATA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bir işe harcanan güç",
-      "answer": "EMEK",
-      "row": 3,
+      "text": "Endüstri",
+      "answer": "SANAYİ",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Cevap isteyen soru kelimesi",
-      "answer": "NE",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sol'den sonraki nota",
-      "answer": "LA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kış mevsiminin beyaz yağışı",
-      "answer": "KAR",
+      "text": "Yürütme hakkı",
+      "answer": "YETKİ",
       "row": 3,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Birim, tane",
-      "answer": "ADET",
-      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -232,39 +197,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 3
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 0,
+      "col": 7
     },
     {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 2
+      "row": 1,
+      "col": 7
     },
     {
       "row": 6,
       "col": 0
-    },
-    {
-      "row": 6,
-      "col": 2
-    },
-    {
-      "row": 7,
-      "col": 5
     },
     {
       "row": 8,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 7
     },
     {
       "row": 11,
       "col": 0
+    },
+    {
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "zor",

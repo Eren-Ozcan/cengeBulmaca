@@ -5,289 +5,261 @@
   "cols": 9,
   "clues": [
     {
-      "text": "İstanbul'un eski adlarından biri",
-      "answer": "ASİTANE",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kırmızıya çalan renk",
-      "answer": "AL",
-      "row": 2,
+      "text": "Tekrar isteği",
+      "answer": "BİS",
+      "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mal karşılığı mal alma",
-      "answer": "TAKAS",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ayak bastığı yerde bıraktığı işaret",
-      "answer": "İZ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gıdaların enerji değeri birimi",
-      "answer": "KALORİ",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bitkiyi toprağa bağlayan bölüm",
-      "answer": "KÖK",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayat arkadaşı",
-      "answer": "EŞ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Miyavlayan evcil hayvan",
-      "answer": "KEDİ",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Altın'ın simgesi",
-      "answer": "AU",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Berilyum'un simgesi",
-      "answer": "BE",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sivri uçlu fırlatma silahı",
-      "answer": "OK",
-      "row": 6,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Gemilerin yanaştığı yer",
-      "answer": "İSKELE",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir şeyin gerisi",
-      "answer": "ART",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üzerinde durulan alt yüzey",
-      "answer": "ZEMİN",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Cezayı kaldırma",
-      "answer": "AF",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sayıların ilki",
-      "answer": "BİR",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde ayak",
-      "answer": "PA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hardal gazı olarak da bilinen zehirli gaz",
-      "answer": "İPERİT",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Altıncı burç",
-      "answer": "BAŞAK",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
-      "row": 11,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "'Nâzım Hikmet ...' soyadı",
-      "answer": "RAN",
-      "row": 12,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağlama; kamış",
-      "answer": "SAZ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Şiir yazan sanatçı",
-      "answer": "ŞAİR",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaba dokunmuş kalın yün kumaş",
-      "answer": "ABA",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Türkiye'nin idari bölünme birimi",
-      "answer": "İL",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İşinin ehli kimse",
-      "answer": "USTA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük kor parçası",
-      "answer": "KÖZ",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Elektrik prizine takılan uç",
-      "answer": "FİŞ",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Cesur ve hareketli",
+      "text": "Girişken, çevik",
       "answer": "ATAK",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
+      "col": 5,
+      "arrow": "down-right"
     },
     {
-      "text": "Pamuklu kumaş",
-      "answer": "BEZ",
+      "text": "49'dan sonraki sayı",
+      "answer": "ELLİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İskambilde koz",
+      "answer": "ATU",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Alkollü içki",
+      "answer": "ALKOL",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zemin sıvası",
+      "answer": "ŞAP",
+      "row": 3,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Hamile",
+      "answer": "GEBE",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ülke, yurt",
+      "answer": "DİYAR",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Oy (eski dilde)",
+      "answer": "REY",
       "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Demirin nemle oksitlenmesi sonucu oluşan tabaka",
-      "answer": "PAS",
-      "row": 9,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Atın ayağına çakılan metal parça",
-      "answer": "NAL",
-      "row": 0,
       "col": 5,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Renkli kanatlarıyla uçan böcek",
-      "answer": "KELEBEK",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kareli kumaş",
-      "answer": "EKOSE",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Üstten gelen talimat",
-      "answer": "EMİR",
+      "text": "İyiden iyiye",
+      "answer": "ENİKONU",
       "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sazın çalınan yeri",
+      "answer": "TEL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kanat",
+      "answer": "CENAH",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Birinci çoğul",
+      "answer": "BİZ",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüz örtüsü",
+      "answer": "PEÇE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "On yüz",
+      "answer": "BİN",
+      "row": 8,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Seyirci coşturucusu",
+      "answer": "AMİGO",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yağlı merhem",
+      "answer": "POMAT",
+      "row": 11,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dilimli et",
+      "answer": "SALAM",
+      "row": 12,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tutturucu çubuk",
+      "answer": "PİM",
+      "row": 8,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Olabilir ki",
+      "answer": "BELKİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İzmir'in bölgesi",
+      "answer": "EGE",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Son karşıtı",
+      "answer": "İLK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Esen hava",
+      "answer": "YEL",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İşleme aracı",
+      "answer": "ÇAPA",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Vurucu söz",
+      "answer": "SLOGAN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Nota işareti",
+      "answer": "BEMOL",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yenilikten yana",
+      "answer": "İLERİCİ",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
+      "row": 9,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Defa, sefer",
+      "answer": "KEZ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Tasa, kaygı",
+      "answer": "GAM",
+      "row": 9,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Alt yüklenici",
+      "answer": "TAŞERON",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Alan ölçü birimi (100 m²)",
-      "answer": "AR",
-      "row": 1,
+      "text": "Küçük gemi",
+      "answer": "BOT",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ecdat",
+      "answer": "ATA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Do-re-mi dizisinin başlangıcı",
-      "answer": "DO",
+      "text": "Saf kimse",
+      "answer": "ENAYİ",
       "row": 4,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Büyük boyutlu",
-      "answer": "İRİ",
-      "row": 7,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "İtaat etmeyen, isyankar",
-      "answer": "ASİ",
+      "text": "Dondurma kabı",
+      "answer": "KUP",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Kutsal kişiyi tasvir eden resim",
-      "answer": "İKON",
+      "text": "Beğenmeme haykırışı",
+      "answer": "YUH",
       "row": 4,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Rengin veya sesin tonu",
-      "answer": "TON",
-      "row": 9,
+      "text": "Rutubet",
+      "answer": "NEM",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
@@ -295,27 +267,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
     },
     {
       "row": 0,
+      "col": 4
+    },
+    {
+      "row": 10,
       "col": 7
     },
     {
       "row": 11,
+      "col": 7
+    },
+    {
+      "row": 12,
       "col": 6
     },
     {
-      "row": 11,
+      "row": 12,
       "col": 7
     },
     {
       "row": 12,
-      "col": 2
-    },
-    {
-      "row": 12,
-      "col": 3
+      "col": 8
     }
   ],
   "difficulty": "kolay",

@@ -5,240 +5,205 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Buğdayın öğütülmüş hali",
-      "answer": "UN",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kızın ya da kız kardeşin kocası",
-      "answer": "DAMAT",
+      "text": "Söz söylenen kişi",
+      "answer": "MUHATAP",
       "row": 1,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
+      "text": "Eski dilde ödeme",
+      "answer": "İTA",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nehir kenarındaki verimli düzlük",
-      "answer": "OVA",
+      "text": "Birliktelik bağlacı",
+      "answer": "İLE",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Harç aracı",
+      "answer": "MALA",
       "row": 3,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gam dizisinde altıncı nota",
-      "answer": "LA",
+      "text": "Pişmiş yiyecek",
+      "answer": "AŞ",
+      "row": 3,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Uyum, düzen, armoni",
+      "answer": "AHENK",
       "row": 4,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kalsiyum'un simgesi",
-      "answer": "CA",
+      "text": "Yapağı hayvanı",
+      "answer": "KOYUN",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sekizli dizinin ilk sesi",
-      "answer": "DO",
-      "row": 4,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yazma kenarlarına işlenen süsleme",
-      "answer": "OYA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Üstteki kara leke",
-      "answer": "KİR",
+      "text": "Çiğneme organı",
+      "answer": "DİŞ",
       "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Periyodik tablodaki Radyum'un simgesi",
-      "answer": "RA",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Mi ile Sol arasındaki nota",
-      "answer": "FA",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kitap kaleme alan kimse",
-      "answer": "YAZAR",
-      "row": 7,
+      "text": "Lezzet",
+      "answer": "TAT",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çok karşıtı",
-      "answer": "AZ",
+      "text": "Göz üstü kılı",
+      "answer": "KAŞ",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Oruç ayı",
+      "answer": "RAMAZAN",
       "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Alanında en iyi olan kişi",
-      "answer": "AS",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Tırtıldan dönüşen kanatlı böcek",
-      "answer": "KELEBEK",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sahne sanatı",
-      "answer": "TİYATRO",
-      "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sodyum'un kimyasal simgesi",
-      "answer": "NA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Kobalt'ın simgesi",
-      "answer": "CO",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tamirde kullanılan avadanlık",
-      "answer": "ALET",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gerçekleşen vaka",
-      "answer": "OLAY",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Lityum için kullanılan kimyasal simge",
-      "answer": "Lİ",
+      "text": "Elden ele geçme",
+      "answer": "ALAVERE",
       "row": 9,
-      "col": 2,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Adalete taşınan anlaşmazlık",
-      "answer": "DAVA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
+      "text": "Boyama bitkisi",
+      "answer": "KINA",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Tiyatroda perde arası",
-      "answer": "ARA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Seslenme ünlemi",
+      "text": "Hitap sözü",
       "answer": "EY",
-      "row": 9,
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Gerçek",
+      "answer": "HAKİKAT",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yüz anlatımı",
+      "answer": "MİMİK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İri bezelye",
+      "answer": "ARAKA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Japon şiiri",
+      "answer": "UTA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çevre, etraf",
+      "answer": "ORTALIK",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Zurnalı oyun",
+      "answer": "HALAY",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Büyük dede, ecdat",
-      "answer": "ATA",
-      "row": 0,
+      "text": "Halk dörtlüğü",
+      "answer": "MANİ",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Divan şiirinde ceylan",
+      "answer": "AHU",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dört tekerlekli taşıt",
-      "answer": "ARABA",
+      "text": "Uzun boylu ağaç",
+      "answer": "KAVAK",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
+      "text": "Alaya alma sözü",
+      "answer": "Tİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yayla atılan ince silah",
-      "answer": "OK",
-      "row": 4,
+      "text": "65 santimlik ölçü",
+      "answer": "ENDAZE",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Suyu tutan yapay engel",
-      "answer": "SET",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kıtanın batısındaki uzun dağ silsilesi",
-      "answer": "AND",
+      "text": "Saha, meydan",
+      "answer": "ALAN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bir görevi tamamlama",
-      "answer": "İFA",
+      "text": "Belirti, jest",
+      "answer": "İŞARET",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Kripton'un simgesi",
-      "answer": "KR",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tantal'ın simgesi",
-      "answer": "TA",
+      "text": "Yaranmak için verilen",
+      "answer": "PEŞKEŞ",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Hava grubundan bir burç",
-      "answer": "TERAZİ",
-      "row": 3,
+      "text": "Kamıştan üflemeli çalgı",
+      "answer": "NEY",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -246,30 +211,22 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 2,
       "col": 0
     },
     {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 5
+      "row": 0,
+      "col": 4
     },
     {
       "row": 4,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 6
+      "row": 6,
+      "col": 3
     },
     {
-      "row": 10,
+      "row": 11,
       "col": 7
     }
   ],

@@ -5,268 +5,240 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Nefesli çalgı sesini taklit eden hece",
-      "answer": "Tİ",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İnternet sayfası",
-      "answer": "SİTE",
+      "text": "Morfin türevi",
+      "answer": "EROİN",
       "row": 0,
-      "col": 5,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Emile Zola'nın bir romanı",
-      "answer": "NANA",
+      "text": "Dörtten sonraki sayı",
+      "answer": "BEŞ",
+      "row": 1,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Devlet temsilcisi",
+      "answer": "ELÇİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üzerinde gözleme pişirilen düz metal",
-      "answer": "SAC",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Do-re-mi dizisinin ilk notası",
-      "answer": "DO",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Element tablosunda Radyum'un simgesi",
-      "answer": "RA",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Helyum'un simgesi",
-      "answer": "HE",
-      "row": 3,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Notada durak işareti",
-      "answer": "ES",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Birim, tane",
-      "answer": "ADET",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Savaşçı, mert kimse",
-      "answer": "ALP",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tropik bir ağacın çekirdeğinden elde edilen madde",
-      "answer": "KAKAO",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Tarıma elverişli düzlük alan",
-      "answer": "OVA",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bedeni saran doku",
-      "answer": "DERİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dilek için verilen söz",
-      "answer": "ADAK",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Görüş alışverişi için toplanan kurul",
-      "answer": "ŞURA",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kapaklı eşya mobilyası",
-      "answer": "DOLAP",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Osmanlıcada 'v' sesini veren harf",
-      "answer": "VAV",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Paris'ten geçen ünlü nehir (... Nehri)",
-      "answer": "SEN",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kaba, kalın yün kumaş",
+      "text": "Kaba yünlü üstlük",
       "answer": "ABA",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Futbol kümesi",
+      "answer": "LİG",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Savunma aracı",
+      "answer": "SİLAH",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yağlı tohum",
+      "answer": "SUSAM",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Saf kimse",
+      "answer": "ENAYİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Taşınmaz mal",
+      "answer": "MÜLK",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Başlangıç",
+      "answer": "MİLAT",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bebek yiyeceği",
+      "answer": "MAMA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tavır, hava",
+      "answer": "EDA",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ekşi saplı bitki",
+      "answer": "RAVENT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Avcının kısmeti",
+      "answer": "AV",
+      "row": 9,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Dışarıda gecelemek",
+      "answer": "YATI",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ceylan",
+      "answer": "AHU",
       "row": 10,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Derde bulunan çözüm",
-      "answer": "DEVA",
+      "text": "Hayvan ölüsü",
+      "answer": "LEŞ",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uzak",
-      "answer": "IRAK",
+      "text": "Huy, yaradılış",
+      "answer": "MİZAÇ",
       "row": 11,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Hristiyanların doğuş bayramı",
-      "answer": "NOEL",
-      "row": 1,
+      "text": "Tekne kaptanı",
+      "answer": "REİS",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kareli kumaş",
-      "answer": "EKOSE",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Beden eğitimi etkinliği",
-      "answer": "SPOR",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bulgaristan'ın euroya geçmeden önceki para birimi",
-      "answer": "LEV",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tilki, tavşan gibi hayvanların barınağı",
-      "answer": "İN",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tuna kıyısındaki başkent",
-      "answer": "VİYANA",
+      "text": "Koruma, kayırma",
+      "answer": "HİMAYE",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gözlem konusu",
+      "answer": "OLGU",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce ekmek",
+      "answer": "LAVAŞ",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Cevizin yenen yeri",
+      "answer": "İÇ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yem bitkisi olarak ekilen baklagil",
-      "answer": "ARAKA",
-      "row": 1,
+      "text": "Esenlik",
+      "answer": "SELAMET",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dördüncü ay",
+      "answer": "NİSAN",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Etrafı suyla kaplı toprak",
-      "answer": "ADA",
+      "text": "Kavram açıklaması",
+      "answer": "TANIM",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Namaz görevlisi",
+      "answer": "İMAM",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yemek, çorba",
-      "answer": "AŞ",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kurum, duman lekesi",
-      "answer": "İS",
+      "text": "Tatlı besin",
+      "answer": "BAL",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İlave, ulama",
-      "answer": "EK",
-      "row": 3,
+      "text": "Erdemce üstün",
+      "answer": "YÜCE",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İki mekanı ayıran örülü yapı",
-      "answer": "DUVAR",
-      "row": 6,
+      "text": "Ufak miktar",
+      "answer": "AZ",
+      "row": 9,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Marangozun işlediği malzeme",
-      "answer": "TAHTA",
+      "text": "Kırlangıç benzeri kuş",
+      "answer": "EBABİL",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Otomobil",
-      "answer": "ARABA",
-      "row": 6,
+      "text": "İlave, ek",
+      "answer": "DAHA",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bir ülkenin kadın hükümdarı",
-      "answer": "ECE",
+      "text": "Satrançta kral",
+      "answer": "ŞAH",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Uzun boylu bir ağaç",
-      "answer": "KAVAK",
-      "row": 6,
+      "text": "El içi",
+      "answer": "AVUÇ",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -274,27 +246,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 1,
-      "col": 0
+      "col": 5
     },
     {
       "row": 4,
       "col": 8
     },
     {
-      "row": 10,
-      "col": 4
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 8
+    },
+    {
+      "row": 7,
+      "col": 5
     }
   ],
   "difficulty": "zor",

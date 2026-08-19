@@ -5,184 +5,149 @@
   "cols": 7,
   "clues": [
     {
-      "text": "'Ne oldu?' daki soru kelimesi",
-      "answer": "NE",
+      "text": "Eylem, hareket",
+      "answer": "AKSİYON",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Miktarı gösteren rakam",
-      "answer": "SAYI",
-      "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Radyo veya TV'de metin okuyan kişi",
-      "answer": "SPİKER",
+      "text": "Dürülmüş kağıt",
+      "answer": "RULO",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çiftin ilk sayısı",
+      "text": "Söz ustalığı",
+      "answer": "BELAGAT",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İçinde bulunan",
+      "answer": "DAHİL",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir çift",
       "answer": "İKİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Alaca, benekli renk",
-      "answer": "ALA",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "'-la, -le' yerine kullanılan söz",
-      "answer": "İLE",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Fazladan eklenen kısım",
-      "answer": "EK",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İnisiyatif alan, atılgan",
-      "answer": "ATAK",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Taş veya tuğladan örülmüş bölme",
-      "answer": "DUVAR",
       "row": 5,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hamuru kabartan madde",
-      "answer": "MAYA",
-      "row": 7,
-      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Güney Asya'da kullanılan para birimi",
-      "answer": "RUPİ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Herkesçe bilinme durumu",
-      "answer": "ÜN",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağırlık ölçü birimi (1000 kg)",
-      "answer": "TON",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeni karşıtı",
-      "answer": "ESKİ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ümit",
-      "answer": "UMUT",
+      "text": "Tok karşıtı",
+      "answer": "AÇ",
       "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Haşlanmış pirinçten yapılan yemek",
-      "answer": "PİLAV",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Polonyum'un simgesi",
-      "answer": "PO",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "La'dan sonraki nota",
-      "answer": "Sİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Nakış işlenen delikli kumaş",
-      "answer": "ETAMİN",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağabeyin halk dilindeki karşılığı",
-      "answer": "AKA",
-      "row": 0,
       "col": 4,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Tiyatroda perde arası",
-      "answer": "ARA",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kolsuz giysi",
-      "answer": "YELEK",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Koyundan kırkılan lif",
-      "answer": "YÜN",
+      "text": "Dağ karşıtı yer şekli",
+      "answer": "OVA",
       "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Selçuklu lalası",
+      "answer": "ATABEY",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eşlerin ebeveynleri",
+      "answer": "DÜNÜR",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Politika",
+      "answer": "SİYASET",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ödünç para",
+      "answer": "KREDİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıradan, kalitesiz",
+      "answer": "ADİ",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Suyu bol",
+      "answer": "SULAK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kuşu örten yapı",
+      "answer": "TÜY",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dinî ezgi",
+      "answer": "İLAHİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Anne",
+      "answer": "ANA",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yoga uygulayıcısı",
+      "answer": "YOGİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Top mermisi",
+      "answer": "OBÜS",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Elden ele geçme",
+      "answer": "ALAVERE",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yakın karşıtı",
-      "answer": "IRAK",
+      "text": "Kısa hatırlatma",
+      "answer": "NOT",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sıvı veya gaz akışını denetleyen düzenek",
-      "answer": "VANA",
-      "row": 5,
+      "text": "Rize'nin ürünü",
+      "answer": "ÇAY",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -190,7 +155,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
     }
   ],
   "difficulty": "kolay",

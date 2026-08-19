@@ -5,197 +5,197 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kuralları uygulayan spor görevlisi",
-      "answer": "HAKEM",
+      "text": "Geri çevirme",
+      "answer": "RET",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Valinin yönettiği idari birim",
-      "answer": "İL",
-      "row": 1,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Emevi Camisi'nin bulunduğu tarihi kent",
-      "answer": "ŞAM",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Birbirine karışık renkli",
-      "answer": "ALA",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Uyumsuz, geçimsiz",
-      "answer": "AKSİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hayvanlara verilen besin",
-      "answer": "YEM",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğum uzmanı sağlık görevlisi",
-      "answer": "EBE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kaba, kalın yün kumaş",
-      "answer": "ABA",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Büyük dede, ecdat",
+      "text": "Dede, cet",
       "answer": "ATA",
-      "row": 6,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Bir şeyi teslim etme (eski dilde)",
-      "answer": "İTA",
-      "row": 6,
+      "text": "Büyükbaba",
+      "answer": "DEDE",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "En büyük kıta",
-      "answer": "ASYA",
-      "row": 7,
+      "text": "Dazlak",
+      "answer": "KEL",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Mezar üstü tabut",
+      "answer": "SANDUKA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ortaya konan yapıt",
+      "answer": "ESER",
+      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 8,
+      "text": "Köpek emri",
+      "answer": "APORT",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yılın dörtte biri",
+      "answer": "MEVSİM",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Üzüm demeti",
+      "answer": "SALKIM",
+      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Dünya'nın etrafında dönen gök cismi",
-      "answer": "AY",
+      "text": "Eti çok",
+      "answer": "ETLİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gamın son notası",
+      "answer": "Sİ",
       "row": 8,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kötü karşıtı",
-      "answer": "İYİ",
+      "text": "Çalım, gösteriş",
+      "answer": "AFİ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Müzik sesi işareti",
-      "answer": "NOTA",
+      "text": "Ad çekme",
+      "answer": "KURA",
       "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Soru kâğıdıyla yapılan araştırma",
-      "answer": "ANKET",
+      "text": "Göz rengi",
+      "answer": "ELA",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Türkmenistan'ın başkenti",
-      "answer": "AŞKABAT",
+      "text": "Dilin aldığı",
+      "answer": "TAT",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Resim sanatçısı",
+      "answer": "RESSAM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "'Öyle mi?' anlamında ünlem",
-      "answer": "YA",
-      "row": 8,
+      "text": "Zeybek oynayan",
+      "answer": "EFE",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Vücudu hareket ettiren doku",
-      "answer": "KAS",
+      "text": "Tavır, hava",
+      "answer": "EDA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Nakış işlenen delikli kumaş",
-      "answer": "ETAMİN",
+      "text": "Kurutulmuş meyve ezmesi",
+      "answer": "PESTİL",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Buyruk",
-      "answer": "EMİR",
+      "text": "Vücudun dışı",
+      "answer": "TEN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Cevap isteyen soru kelimesi",
-      "answer": "NE",
-      "row": 8,
+      "text": "Yumurta biçimli",
+      "answer": "OVAL",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sınıf",
+      "answer": "DERSLİK",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sarı, tüylü bir meyve",
-      "answer": "AYVA",
-      "row": 1,
+      "text": "Yankı bilimi",
+      "answer": "AKUSTİK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çayırı kaplayan bitki",
-      "answer": "OT",
+      "text": "Eski dilde utanma",
+      "answer": "UT",
       "row": 8,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "'-la, -le' yerine kullanılan bağlaç",
-      "answer": "İLE",
+      "text": "Erkek keçi",
+      "answer": "TEKE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Eskimiş, kokmuş",
-      "answer": "BAYAT",
-      "row": 4,
+      "text": "Şiir dizesi",
+      "answer": "MISRA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Işık veren elektrikli araç",
-      "answer": "LAMBA",
+      "text": "Tehlike işareti",
+      "answer": "ALARM",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Altının saflık ölçüsü",
-      "answer": "AYAR",
+      "text": "Son tarih",
+      "answer": "MİAT",
       "row": 6,
       "col": 7,
       "arrow": "down"
@@ -204,31 +204,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
     },
     {
       "row": 0,
-      "col": 5
+      "col": 4
     },
     {
       "row": 4,
-      "col": 4
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 3
-    },
-    {
-      "row": 6,
-      "col": 4
-    },
-    {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 6
+      "row": 7,
+      "col": 0
     }
   ],
   "difficulty": "orta",

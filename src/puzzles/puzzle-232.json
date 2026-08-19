@@ -5,282 +5,240 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Fareyle bilinen evcil hayvan",
-      "answer": "KEDİ",
+      "text": "Küçük çocuk",
+      "answer": "SABİ",
       "row": 0,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dernek, topluluk",
+      "answer": "CEMİYET",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Çevre bilimi",
+      "answer": "EKOLOJİ",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yetkili kimse",
+      "answer": "VEKİL",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Lenf organı",
+      "answer": "DALAK",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gemisiyle ünlü peygamber",
+      "answer": "NUH",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sevinç, keyif",
-      "answer": "NEŞE",
+      "text": "İğrenme ünlemi",
+      "answer": "PÖF",
+      "row": 5,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alım satım",
+      "answer": "TİCARET",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Rezillik",
+      "answer": "REZALET",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Halk dörtlüğü",
+      "answer": "MANİ",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski dilde ödeme",
+      "answer": "İTA",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bina bölümü",
+      "answer": "KAT",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yakarış, niyaz",
+      "answer": "DUA",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kanun",
+      "answer": "YASA",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Toplama işareti",
+      "answer": "ARTI",
+      "row": 12,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mısır'dan geçen ırmak",
+      "answer": "NİL",
+      "row": 12,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ülke hükümdarı",
+      "answer": "KRAL",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağaçtan silkelenen",
+      "answer": "DUT",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yivli eleman",
+      "answer": "VİDA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Mücevher",
+      "answer": "CEVAHİR",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dolaşma",
+      "answer": "TUR",
+      "row": 9,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek satıcılık",
+      "answer": "TEKEL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Namaz topluluğu",
+      "answer": "CEMAAT",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kahve türü",
+      "answer": "MOKA",
       "row": 1,
       "col": 4,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Bükülmüş ince metal",
-      "answer": "TEL",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Vazifeyi eda etme",
-      "answer": "İFA",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kışla yaz arasındaki mevsim",
-      "answer": "BAHAR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Görüşü azaltan nem bulutu",
-      "answer": "SİS",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İki takım arasındaki karşılaşma",
-      "answer": "MAÇ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İyileşmesi gereken doku hasarı",
-      "answer": "YARA",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Do'ya dönmeden önceki son nota",
-      "answer": "Sİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İçi taneli, ekşimsi meyve",
-      "answer": "NAR",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Orkestrayı yöneten kişi",
-      "answer": "ŞEF",
+      "text": "Organ, uzuv",
+      "answer": "AZA",
       "row": 6,
       "col": 4,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Bahar müjdecisi bir çiçek",
-      "answer": "LALE",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Karın zıddı renk",
-      "answer": "AK",
-      "row": 7,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Kervanların konakladığı eski yapı",
-      "answer": "HAN",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kullanım karşılığı ödenen para",
-      "answer": "KİRA",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Nehir kolu, küçük dere",
-      "answer": "ÇAY",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir şeyin dayandığı asıl unsur",
-      "answer": "TEMEL",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayvanların otladığı alan",
-      "answer": "MERA",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Nüfusu kalabalık yerleşim yeri",
-      "answer": "ŞEHİR",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kırmızı ile mavinin karışımı renk",
-      "answer": "MOR",
-      "row": 11,
+      "text": "Aşınmış yazı",
+      "answer": "SİLİK",
+      "row": 0,
       "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Magnezyum'un simgesi",
-      "answer": "MG",
-      "row": 12,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Denizde yük ve yolcu taşıyan araç",
-      "answer": "GEMİ",
-      "row": 12,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İşlemecilikte kullanılan seyrek dokuma kumaş",
-      "answer": "ETAMİN",
-      "row": 0,
-      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Maçı yöneten kimse",
-      "answer": "HAKEM",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Olağanüstü yetenek",
-      "answer": "DEHA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Eğlenme, dalga geçme",
-      "answer": "ALAY",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Cıva'nın simgesi",
-      "answer": "HG",
-      "row": 10,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Hastalığı iyileştiren madde",
-      "answer": "İLAÇ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Şair Nâzım Hikmet'in aile adı",
+      "text": "Nâzım Hikmet'in soyadı",
       "answer": "RAN",
-      "row": 5,
-      "col": 3,
+      "row": 6,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
+      "text": "Şaşkınlık sözü",
+      "answer": "AYOL",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Gagası keseli kuş",
+      "answer": "PELİKAN",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Açık kahverengi",
+      "answer": "BEJ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak taraf",
+      "answer": "ÖTE",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Baş kaldıran",
+      "answer": "ASİ",
       "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Deriden salgılanan sıvı",
-      "answer": "TER",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Pancar veya kamıştan elde edilen tatlandırıcı",
-      "answer": "ŞEKER",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuşaktan kuşağa aktarılan olağanüstü anlatı",
-      "answer": "EFSANE",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tespihin uç tanesi",
-      "answer": "İMAME",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Dizeler kaleme alan sanatçı",
-      "answer": "ŞAİR",
-      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Peynir sevdiği düşünülen kemirgen",
-      "answer": "FARE",
-      "row": 5,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Georg Ohm'dan gelen birim",
-      "answer": "OM",
-      "row": 10,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Üzerinde gözleme pişirilen düz metal",
-      "answer": "SAC",
-      "row": 2,
+      "text": "Suçunu söyleme",
+      "answer": "İTİRAF",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Besinlerdeki enerji ölçüsü",
-      "answer": "KALORİ",
-      "row": 6,
+      "text": "Bütünsel, toplam",
+      "answer": "TOTAL",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -288,23 +246,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 1
     },
     {
       "row": 0,
-      "col": 8
+      "col": 2
     },
     {
-      "row": 5,
+      "row": 0,
       "col": 4
     },
     {
-      "row": 7,
+      "row": 1,
+      "col": 1
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
-      "row": 12,
-      "col": 3
+      "row": 10,
+      "col": 4
     }
   ],
   "difficulty": "kolay",

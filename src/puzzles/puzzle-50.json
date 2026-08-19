@@ -5,163 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Hayvansal besin maddesi",
-      "answer": "ET",
+      "text": "İri kırmızı çiçek",
+      "answer": "ŞAKAYIK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Buğdayın öğütülmüş hali",
-      "answer": "UN",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Japon halk türküsü",
-      "answer": "UTA",
+      "text": "Satrançta kral",
+      "answer": "ŞAH",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Rütbesiz asker",
-      "answer": "ER",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Loğusaya yardım eden kadın",
-      "answer": "EBE",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yağlı olarak da yapılan güç sporu",
-      "answer": "GÜREŞ",
-      "row": 3,
       "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Gökyüzünün rengi",
+      "answer": "MAVİ",
+      "row": 2,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Belirli bir noktanın ilerisi, karşı taraf",
-      "answer": "ÖTE",
+      "text": "Çay ilimiz",
+      "answer": "RİZE",
       "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ara bozuculuk",
+      "answer": "FESAT",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Fetheden kimse",
+      "answer": "FATİH",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Zodyakın ilk burcu",
+      "answer": "KOÇ",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Lahza, dem",
-      "answer": "AN",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Öğrenciye verilen değerlendirme puanı",
-      "answer": "NOT",
+      "text": "Futbol kümesi",
+      "answer": "LİG",
       "row": 7,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "'Öyle mi?' anlamında ünlem",
-      "answer": "YA",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Aldatmak için söylenen söz",
-      "answer": "YALAN",
+      "text": "Ani tehlike",
+      "answer": "BADİRE",
       "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğal yer altı boşluğu, in",
-      "answer": "MAĞARA",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yarışma bölümü",
-      "answer": "TUR",
+      "text": "Kötü, fena",
+      "answer": "KEM",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Tabur-tugay arası",
+      "answer": "ALAY",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bin kilogram",
-      "answer": "TON",
-      "row": 4,
+      "text": "Aşırı korku",
+      "answer": "FOBİ",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Germanyum'un simgesi",
-      "answer": "GE",
-      "row": 3,
+      "text": "Görünüm, kılık",
+      "answer": "FAÇA",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yazma kenarlarına işlenen süsleme",
-      "answer": "OYA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Padişah çadırı",
-      "answer": "OTAĞ",
-      "row": 5,
+      "text": "Oymak, kabile",
+      "answer": "AŞİRET",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Fizikte iş birimi",
-      "answer": "ERG",
-      "row": 2,
+      "text": "Seslenme sözü",
+      "answer": "YA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sol'den sonraki nota",
-      "answer": "LA",
-      "row": 7,
+      "text": "Ter kabarcığı",
+      "answer": "İSİLİK",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Berilyum'un simgesi",
-      "answer": "BE",
+      "text": "Çöktürme sesi",
+      "answer": "IH",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Saklanan tahıl",
+      "answer": "ZAHİRE",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Evcil hayvan",
+      "answer": "PET",
       "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "22 veya 14 ile ifade edilen altın değeri",
-      "answer": "AYAR",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Akbabaların beslendiği hayvan ölüsü",
-      "answer": "LEŞ",
-      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Fransız yazarın 19. yüzyıl romanı",
-      "answer": "NANA",
-      "row": 5,
+      "text": "Ağız demiri",
+      "answer": "GEM",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     }
@@ -173,31 +152,23 @@
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
-      "row": 1,
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 2
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 0
     }
   ],
   "difficulty": "kolay",

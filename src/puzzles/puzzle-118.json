@@ -5,170 +5,177 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Beyaz, kara karşıtı",
-      "answer": "AK",
-      "row": 1,
+      "text": "Kulakla algılanan",
+      "answer": "SES",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Keskin bıçak",
+      "answer": "KAMA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İngiliz parası",
+      "answer": "STERLİN",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tasavvuf yolu",
+      "answer": "TARİKAT",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Açık kahverengi",
+      "answer": "BEJ",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Blucin kumaşı",
+      "answer": "KOT",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Oyuncunun görevi",
+      "answer": "ROL",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "'Aksi takdirde' bağlacı",
+      "answer": "YOKSA",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çomak bakteri",
+      "answer": "BASİL",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İki elin parmakları",
+      "answer": "ON",
+      "row": 8,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Yüz metrekarelik alan ölçüsü",
-      "answer": "AR",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Platin'in simgesi",
-      "answer": "PT",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir işin başı ile sonu arasındaki zaman",
-      "answer": "SÜRE",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kimse, şahıs (argo)",
-      "answer": "TİP",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Üzerinde bir ile altı arası nokta olan küp",
-      "answer": "ZAR",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Fazladan eklenen kısım",
-      "answer": "EK",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Derde deva olan madde (eski dilde)",
-      "answer": "EM",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Vadiden akan su yolu",
-      "answer": "DERE",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir ülkenin kadın hükümdarı",
-      "answer": "ECE",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Divan edebiyatında su",
-      "answer": "AB",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Müezzinin okuduğu çağrı",
-      "answer": "EZAN",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Âlim",
-      "answer": "BİLGİN",
+      "text": "Semt bölümü",
+      "answer": "MAHALLE",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mızraplı telli çalgı",
-      "answer": "UD",
+      "text": "Yer kırığı",
+      "answer": "FAY",
       "row": 10,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Suda gerçekleştirilen bir spor dalı",
-      "answer": "YÜZME",
-      "row": 2,
+      "text": "Güzellik düşkünü",
+      "answer": "ESTET",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "'Şu' ve 'o'ya göre en yakın olan",
-      "answer": "BU",
-      "row": 8,
+      "text": "Pahalılaşma",
+      "answer": "ZAM",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Mısır mitolojisinde güneş tanrısı",
-      "answer": "RA",
-      "row": 3,
+      "text": "Meslek çalışması",
+      "answer": "STAJ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İlkel benlik",
-      "answer": "İD",
-      "row": 8,
+      "text": "Dizi, sıra",
+      "answer": "SAF",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Pencere örtüsü",
-      "answer": "PERDE",
-      "row": 2,
+      "text": "Askerlikte en alt",
+      "answer": "ER",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kişneyen binek hayvanı",
-      "answer": "AT",
-      "row": 1,
+      "text": "Eski dilde koku",
+      "answer": "RAYİHA",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaldırma aleti",
+      "answer": "KRİKO",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İzmir'in de bulunduğu bölgemiz",
-      "answer": "EGE",
-      "row": 7,
+      "text": "Vaka, hadise",
+      "answer": "OLAY",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Simgesi adalet olan burç",
-      "answer": "TERAZİ",
-      "row": 3,
+      "text": "İçkiye düşkün",
+      "answer": "ALKOLİK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Japon çiçek düzenleme sanatı",
-      "answer": "İKEBANA",
-      "row": 3,
+      "text": "Son tarih",
+      "answer": "MİAT",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Göğüs kafesindeki kan pompalayan organ",
-      "answer": "KALP",
+      "text": "Sağın karşıtı",
+      "answer": "SOL",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemin",
+      "answer": "ANT",
       "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Hainlik",
+      "answer": "İHANET",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -176,83 +183,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 1
-    },
-    {
-      "row": 1,
-      "col": 2
-    },
-    {
-      "row": 1,
-      "col": 3
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
-      "col": 6
     },
     {
       "row": 5,
-      "col": 7
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 7,
-      "col": 7
-    },
-    {
-      "row": 8,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 7
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 2
     },
     {
       "row": 10,
-      "col": 3
+      "col": 0
     },
     {
       "row": 10,
@@ -260,7 +211,7 @@
     },
     {
       "row": 10,
-      "col": 7
+      "col": 6
     }
   ],
   "difficulty": "kolay",

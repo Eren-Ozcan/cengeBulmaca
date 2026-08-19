@@ -5,156 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Aynı anda doğan kardeşlerden her biri",
-      "answer": "İKİZ",
+      "text": "Düzgün yığın",
+      "answer": "İSTİF",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Merak bildiren soru sözcüğü",
-      "answer": "NE",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Dokuzu izleyen sayı",
-      "answer": "ON",
+      "text": "İpek eşarp",
+      "answer": "FULAR",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kamıştan üflemeli çalgı",
-      "answer": "NEY",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kolun ucundaki tutma organı",
-      "answer": "EL",
+      "text": "Çıkışma sözü",
+      "answer": "BEHEY",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Divan şiirinde geçen şarap sözcüğü",
-      "answer": "BADE",
-      "row": 3,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İlave, ulama",
-      "answer": "EK",
+      "text": "Ölçülü davranış",
+      "answer": "TAKT",
       "row": 4,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Bazı Latin Amerika ülkelerinin para birimi",
-      "answer": "PESO",
+      "text": "Yılbaşı ağacı",
+      "answer": "KÖKNAR",
       "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Altının saflık ölçüsü",
-      "answer": "AYAR",
-      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kırmızı renk",
-      "answer": "AL",
-      "row": 6,
+      "text": "Ayrık durum",
+      "answer": "İSTİSNA",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ovadan yüksekte, dağdan alçak yer",
-      "answer": "TEPE",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yer kabuğu kırığı",
-      "answer": "FAY",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Güzel sesiyle bilinen kafes kuşu",
-      "answer": "KANARYA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Omuzdan ele uzanan organ",
-      "answer": "KOL",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ustalık öncesi meslek kademesi",
-      "answer": "KALFA",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaban hayvanı barınağı",
-      "answer": "İN",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Lahza, dem",
+      "text": "Lahza",
       "answer": "AN",
       "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sorumluluk, külfet",
+      "answer": "YÜK",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ölüm acısı",
+      "answer": "YAS",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yeni yaratım",
+      "answer": "İCAT",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Mısır heykeli",
+      "answer": "SFENKS",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Aşağılama sözü",
+      "answer": "TUH",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Beyaz yapraklı kır çiçeği",
-      "answer": "PAPATYA",
-      "row": 2,
+      "text": "Öbürü",
+      "answer": "ÖTEKİ",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Açı ölçme aracı",
+      "answer": "İLETKİ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Irmaktan küçük su yolu",
-      "answer": "DERE",
-      "row": 3,
+      "text": "Duvar kaplaması",
+      "answer": "FAYANS",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Soluk",
-      "answer": "NEFES",
-      "row": 0,
+      "text": "Yahut anlamında",
+      "answer": "YA",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeter bulma",
+      "answer": "KANAAT",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Seslenirken kullanılan ünlem",
-      "answer": "EY",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Müzikli sahne yapıtı",
-      "answer": "OPERA",
-      "row": 4,
+      "text": "Bilinç durumu",
+      "answer": "TRANS",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     }
@@ -162,27 +134,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 5
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 3,
       "col": 6
     },
     {
-      "row": 6,
+      "row": 1,
       "col": 5
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 1,
+      "col": 6
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 3
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "zor",

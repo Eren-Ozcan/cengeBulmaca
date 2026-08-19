@@ -5,163 +5,149 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Yetki simgesi değnek",
-      "answer": "ASA",
+      "text": "Dost",
+      "answer": "ARKADAŞ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cumhuriyetin başkenti",
-      "answer": "ANKARA",
+      "text": "İkaz",
+      "answer": "UYARI",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Birinci, en önce olan",
-      "answer": "İLK",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Görüşü azaltan nem bulutu",
-      "answer": "SİS",
+      "text": "Sahip",
+      "answer": "MALİK",
       "row": 3,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Miyavlayan evcil hayvan",
-      "answer": "KEDİ",
+      "text": "Kitaplık bölmesi",
+      "answer": "RAF",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İnce, uzun tahta",
-      "answer": "ÇITA",
+      "text": "Emeğin karşılığı",
+      "answer": "HAK",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Galyum için kullanılan kimyasal simge",
-      "answer": "GA",
+      "text": "Orkestra yöneticisi",
+      "answer": "ŞEF",
       "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağlama edatı",
-      "answer": "VE",
-      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Mola, dinlenme süresi",
-      "answer": "ARA",
+      "text": "Hafif sis",
+      "answer": "PUS",
       "row": 6,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Günlük haber yayını",
-      "answer": "GAZETE",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir arada duran üzüm taneleri",
-      "answer": "SALKIM",
-      "row": 0,
+      "text": "Kalın gemi halatı",
+      "answer": "PALAMAR",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Geometrik sanat akımı",
+      "answer": "KÜBİZM",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yiyecek artığı",
+      "answer": "POSA",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yol ayrımı",
+      "answer": "SAPAK",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çabucak geçen zaman dilimi",
-      "answer": "AN",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Görüş toplamak için hazırlanan soru formu",
-      "answer": "ANKET",
+      "text": "Plajın örtüsü",
+      "answer": "KUM",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bir kurulun üyesi (eski dilde)",
+      "text": "Toplanma yeri",
+      "answer": "KULÜP",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Saflık derecesi",
+      "answer": "AYAR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tahta ayakkabı",
+      "answer": "SABO",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gürültülü çekişme",
+      "answer": "DALAŞ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Mükemmel, iyi",
+      "answer": "MİS",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Önceki gün",
+      "answer": "ARİFE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kurul üyesi",
       "answer": "AZA",
       "row": 6,
-      "col": 2,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Rusçadaki olumlu yanıt",
-      "answer": "DA",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hatay'dan geçen ırmak",
-      "answer": "ASİ",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ampullerde yazan güç birimi",
-      "answer": "VAT",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyük boyutlu",
-      "answer": "İRİ",
+      "text": "Zarif, modern",
+      "answer": "ŞIK",
       "row": 0,
-      "col": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Germanyum'un simgesi",
-      "answer": "GE",
+      "text": "Kondisyon",
+      "answer": "FORM",
       "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dikkat çekme ünlemi",
-      "answer": "EY",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dünyanın en kalabalık kıtası",
-      "answer": "ASYA",
-      "row": 1,
       "col": 6,
       "arrow": "down"
     }
@@ -169,43 +155,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 1
     },
     {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 3
-    },
-    {
-      "row": 6,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 6
+      "row": 3,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 3
-    },
-    {
-      "row": 9,
-      "col": 4
+      "col": 0
     },
     {
       "row": 9,

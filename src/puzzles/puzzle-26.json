@@ -5,162 +5,141 @@
   "cols": 7,
   "clues": [
     {
-      "text": "İnce, gümüş renkli küçük balık",
-      "answer": "ATERİNA",
+      "text": "Orman hayvanı",
+      "answer": "AYI",
       "row": 0,
+      "col": 2,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Seslenme, çağırma; ünlem",
+      "answer": "NİDA",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Türkiye'nin idari bölünme birimi",
-      "answer": "İL",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kurum, duman lekesi",
-      "answer": "İS",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tat alma ve konuşmayı sağlayan organ",
-      "answer": "DİL",
+      "text": "Ulaşım şeridi",
+      "answer": "YOL",
       "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yivli bağlantı elemanı",
-      "answer": "VİDA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Anglosakson uzunluk birimi",
-      "answer": "MİL",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Tartı aleti",
-      "answer": "TERAZİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bağış amaçlı toplanan para",
-      "answer": "İANE",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gezinti teknesi",
-      "answer": "YAT",
-      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Matem",
-      "answer": "YAS",
-      "row": 8,
+      "text": "Eğik kenar",
+      "answer": "PAH",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yerkabuğunun yükseldiği kısım",
-      "answer": "DAĞ",
+      "text": "Aşağılama sözü",
+      "answer": "TUH",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kareli kumaş",
+      "answer": "EKOSE",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sinir sistemi",
+      "answer": "ASAP",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "El işi mesleği",
+      "answer": "ZANAAT",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Otomobil kabuğu",
+      "answer": "KAPORTA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Döviz oranı",
+      "answer": "KUR",
       "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 0,
+      "text": "Borcu ödeme",
+      "answer": "İFA",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yemek kızartılan saplı kap",
-      "answer": "TAVA",
+      "text": "Kırıcı söz",
+      "answer": "AZAR",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Soğukta eli koruyan giysi",
-      "answer": "ELDİVEN",
+      "text": "İsim",
+      "answer": "AD",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İlkel benlik",
-      "answer": "İD",
-      "row": 2,
-      "col": 3,
+      "text": "Aritmetik işlem",
+      "answer": "HESAP",
+      "row": 3,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde seçim oyu",
-      "answer": "REY",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "And Dağları'nın yük hayvanı",
-      "answer": "LAMA",
-      "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir şeyi tanımlayan sözcük",
-      "answer": "AD",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Nikel için kullanılan kimyasal simge",
-      "answer": "Nİ",
+      "text": "Kasım-aralık burcu",
+      "answer": "YAY",
       "row": 0,
-      "col": 5,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Belirti, emare",
-      "answer": "İZ",
+      "text": "Küçük, hafif kayık",
+      "answer": "KANO",
       "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Araç bırakma yeri",
+      "answer": "OTOPARK",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Millet",
+      "answer": "ULUS",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tantal'ın kimyasal simgesi",
-      "answer": "TA",
-      "row": 7,
+      "text": "İskambilde koz",
+      "answer": "ATU",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Alanında en iyi olan kişi",
-      "answer": "AS",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kan hücrelerinin üretildiği kemik dokusu",
-      "answer": "İLİK",
+      "text": "Yüz ar",
+      "answer": "HEKTAR",
       "row": 3,
       "col": 6,
       "arrow": "down"
@@ -169,27 +148,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
     },
     {
       "row": 0,
       "col": 4
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 0,
+      "col": 5
     },
     {
-      "row": 3,
-      "col": 5
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 6
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 2
     }
   ],
   "difficulty": "kolay",

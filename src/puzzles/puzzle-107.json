@@ -5,267 +5,218 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Ağacın yeşil organı",
-      "answer": "YAPRAK",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sekizli dizinin ilk sesi",
-      "answer": "DO",
-      "row": 2,
+      "text": "Tiz karşıtı",
+      "answer": "PES",
+      "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Anlama ve kavrama yetisi",
-      "answer": "ZEKA",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Enerji ölçü birimi",
-      "answer": "KALORİ",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tanrıtanımaz kimse",
-      "answer": "ATE",
-      "row": 3,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Namaza çağrı",
-      "answer": "EZAN",
-      "row": 4,
+      "text": "Sürekli, kesintisiz",
+      "answer": "DAİM",
+      "row": 1,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Hayranlıkla izlenen ünlü kişi",
-      "answer": "İDOL",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Utanma duygusu",
-      "answer": "AR",
-      "row": 6,
+      "text": "Aralık sözü",
+      "answer": "İLA",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kolsuz giysi",
-      "answer": "YELEK",
+      "text": "Egemen toprak",
+      "answer": "ÜLKE",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Hız kesici",
+      "answer": "FREN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şiir ustası",
+      "answer": "ŞAİR",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Oruç vakti",
+      "answer": "İMSAK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yerleşik davranış",
+      "answer": "TEAMÜL",
       "row": 5,
-      "col": 4,
-      "arrow": "down-right"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Kişilik değeri, itibar",
-      "answer": "ONUR",
+      "text": "Nâzım Hikmet'in soyadı",
+      "answer": "RAN",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Gözle görülmeyen yaratık",
+      "answer": "CİN",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bir olayı hatırlatan yapı",
-      "answer": "ANIT",
+      "text": "Genel kural",
+      "answer": "DÜSTUR",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gerilip bırakılarak ok fırlatılan araç",
-      "answer": "YAY",
-      "row": 7,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eski dilde kişi, kimse",
-      "answer": "ZAT",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Radyum'un kimyasal simgesi",
-      "answer": "RA",
-      "row": 9,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Duvarlarla ayrılmış ev bölümü",
-      "answer": "ODA",
-      "row": 9,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hükümdarın konakladığı büyük çadır",
-      "answer": "OTAĞ",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Beğenilen, hoş",
-      "answer": "İYİ",
-      "row": 10,
+      "text": "Taşıma kabı",
+      "answer": "KOVA",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Fırında pişen tatlı çörek",
-      "answer": "KEK",
+      "text": "Beden-zihin sistemi",
+      "answer": "YOGA",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Mor çiçekli ağaççık",
+      "answer": "LEYLAK",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Anlayışlı, sezgili",
+      "answer": "ARİF",
       "row": 11,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İğneyle vücuda verilen bağışıklık maddesi",
-      "answer": "AŞI",
+      "text": "Kılla kaplı",
+      "answer": "KILLI",
       "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir etkinliğin yapıldığı saha",
-      "answer": "ALAN",
-      "row": 12,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İsim",
-      "answer": "AD",
+      "text": "Demir minerali",
+      "answer": "PİRİT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Seyhan Nehri kıyısındaki ilimiz",
-      "answer": "ADANA",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tığ veya iğneyle yapılan el işi",
-      "answer": "OYA",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İtalya'da bir nehir",
-      "answer": "PO",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Evladın çocuğu",
-      "answer": "TORUN",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağızda bulunan çiğneme organı",
-      "answer": "DİŞ",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Saçsız",
-      "answer": "KEL",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir şeye gönülden razı olma",
-      "answer": "RIZA",
+      "text": "Çok sevilen",
+      "answer": "İDOL",
       "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Seçme aşaması",
+      "answer": "ELEME",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Öz, çekirdek",
+      "answer": "NÜVE",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kürklü küçük yırtıcı",
+      "answer": "SANSAR",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Üye",
-      "answer": "AZA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Tantal'ın simgesi",
-      "answer": "TA",
+      "text": "Emek, çaba",
+      "answer": "SAY",
       "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kör",
+      "answer": "AMA",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Renkli kanatlarıyla uçan böcek",
-      "answer": "KELEBEK",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "El sıkışma",
-      "answer": "TOKA",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Elde tutulan üstünlük; ceviz",
-      "answer": "KOZ",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Elektrik akımını taşıyan ince iplik",
-      "answer": "TEL",
+      "text": "Değerli kırmızı taş",
+      "answer": "LAL",
       "row": 9,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tutkun",
+      "answer": "DÜŞKÜN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İkaz",
+      "answer": "UYARI",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Açık kestane rengi",
+      "answer": "ALA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Fasıla",
-      "answer": "ARA",
-      "row": 1,
+      "text": "Taslak çizim",
+      "answer": "KROKİ",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Birden sonraki sayı",
+      "answer": "İKİ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bir bakliyat türü",
-      "answer": "ARAKA",
-      "row": 7,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Ahırda beslenen süt hayvanı",
-      "answer": "İNEK",
-      "row": 2,
+      "text": "Işık kıran cam",
+      "answer": "MERCEK",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Tereyağı, zeytinyağı gibi besin",
-      "answer": "YAĞ",
+      "text": "Yersiz davranış",
+      "answer": "GAF",
       "row": 7,
       "col": 8,
       "arrow": "down"
@@ -274,46 +225,70 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 1,
-      "col": 8
-    },
-    {
-      "row": 3,
       "col": 0
     },
     {
-      "row": 5,
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 4,
       "col": 6
+    },
+    {
+      "row": 4,
+      "col": 7
     },
     {
       "row": 5,
       "col": 7
     },
     {
-      "row": 9,
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
+      "row": 11,
       "col": 0
     },
     {
       "row": 11,
-      "col": 3
+      "col": 1
     },
     {
       "row": 11,
+      "col": 2
+    },
+    {
+      "row": 11,
+      "col": 8
+    },
+    {
+      "row": 12,
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 7
+    },
+    {
+      "row": 12,
       "col": 8
     }
   ],

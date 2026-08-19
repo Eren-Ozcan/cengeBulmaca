@@ -5,191 +5,170 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kol ile gövdenin birleştiği yer",
-      "answer": "OMUZ",
+      "text": "Tarım",
+      "answer": "ZİRAAT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kabe'yi ziyaret ibadeti",
-      "answer": "HAC",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eskiden kaftan yapımında kullanılan kumaş",
-      "answer": "ABA",
+      "text": "Çıkış yeri",
+      "answer": "MENŞE",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mal karşılığı mal alma",
-      "answer": "TAKAS",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bayan'ın karşıtı olan hitap unvanı",
-      "answer": "BAY",
+      "text": "İki ışının kesişimi",
+      "answer": "AÇI",
       "row": 3,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Sol'den sonraki nota",
-      "answer": "LA",
+      "text": "Sanı, şüphe",
+      "answer": "ZAN",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Damga, mühür",
+      "answer": "KAŞE",
       "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Alışveriş kurulan yer",
-      "answer": "PAZAR",
-      "row": 4,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Payitahtın eski adlarından biri",
-      "answer": "ASİTANE",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kişiye verilen isim",
-      "answer": "AD",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ateşin yükselen dili",
-      "answer": "ALEV",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir şeyin ortasındaki bölüm",
-      "answer": "İÇ",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sicim, halat",
-      "answer": "İP",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir şeyi teslim etme (eski dilde)",
-      "answer": "İTA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Boru akışını kesen musluk",
-      "answer": "VANA",
-      "row": 10,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Doğal yer altı boşluğu, in",
-      "answer": "MAĞARA",
-      "row": 0,
+      "text": "İfade",
+      "answer": "ANLATIM",
+      "row": 4,
       "col": 1,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Birine özgü olan",
-      "answer": "AİT",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Domates ezmesi",
-      "answer": "SALÇA",
+      "text": "En iyisi",
+      "answer": "İDEAL",
       "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yurt",
+      "answer": "VATAN",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Şölen",
+      "answer": "ZİYAFET",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Evcil olmayan",
+      "answer": "YABANİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yöntem",
+      "answer": "METOT",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Mahkeme binası",
+      "answer": "ADLİYE",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çam sakızı",
+      "answer": "REÇİNE",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kişi, şahıs (eski dilde)",
-      "answer": "ZAT",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yassı, mayalı ekmek",
-      "answer": "PİDE",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tazeliğini kaybetmiş",
-      "answer": "BAYAT",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlıcada 'v' sesini veren harf",
-      "answer": "VAV",
+      "text": "Gezinti teknesi",
+      "answer": "YAT",
       "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Defterde saklanan",
+      "answer": "ANI",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Musluklu yıkama yeri",
+      "answer": "LAVABO",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemek, çorba",
+      "answer": "AŞ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kişiye ait olan pay",
-      "answer": "HAK",
+      "text": "Gemi onarımı",
+      "answer": "KALAFAT",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Karşıtlık",
+      "answer": "TEZAT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ücrete yapılan artış",
-      "answer": "ZAM",
-      "row": 4,
+      "text": "Cilt, deri",
+      "answer": "TEN",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bir etkinliğin yapıldığı saha",
-      "answer": "ALAN",
+      "text": "İğneyle yapılan koruma",
+      "answer": "AŞI",
       "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "On yüz",
-      "answer": "BİN",
-      "row": 7,
+      "text": "Çabuk, tez",
+      "answer": "ATİK",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Gözü peklik",
-      "answer": "CESARET",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Eskiden kullanılan 'ayak' anlamlı kelime",
-      "answer": "PA",
-      "row": 8,
+      "text": "Dağ lalesi",
+      "answer": "ANEMON",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -197,35 +176,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 0,
+      "col": 7
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 1,
+      "col": 6
     },
     {
-      "row": 7,
+      "row": 4,
       "col": 0
     },
     {
       "row": 8,
-      "col": 5
+      "col": 7
     },
     {
       "row": 9,
-      "col": 3
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "orta",

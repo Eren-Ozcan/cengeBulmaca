@@ -5,170 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "İnce, gümüş renkli küçük balık",
-      "answer": "ATERİNA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ürdün ve Irak'ın para birimi",
-      "answer": "DİNAR",
-      "row": 2,
+      "text": "Düzensizlik, karışıklık",
+      "answer": "KAOS",
+      "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Dağın sert taş bloğu",
-      "answer": "KAYA",
+      "text": "Kabartma",
+      "answer": "RÖLYEF",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Japon şiiri",
+      "answer": "UTA",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Rus dilinde olumlama sözü",
-      "answer": "DA",
-      "row": 3,
+      "text": "Veda töreni",
+      "answer": "JÜBİLE",
+      "row": 4,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Satrançta bir taş",
-      "answer": "AT",
-      "row": 4,
+      "text": "Yogada kutsal hece",
+      "answer": "OM",
+      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Atın ayağına çakılan metal parça",
-      "answer": "NAL",
-      "row": 5,
+      "text": "Hısım",
+      "answer": "AKRABA",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "En yakındaki şeyi belirten zamir",
-      "answer": "BU",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kış mevsiminin beyaz yağışı",
-      "answer": "KAR",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yemeğin içine konduğu porselen kap",
-      "answer": "TABAK",
+      "text": "Kayakta engel geçişi",
+      "answer": "SLALOM",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üzerine yazı yazılan ince tabaka",
-      "answer": "KAĞIT",
+      "text": "Fakat, lakin",
+      "answer": "AMA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ansızın, beklenmedik",
+      "answer": "ANİ",
       "row": 8,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Doğal yer altı boşluğu, in",
-      "answer": "MAĞARA",
+      "text": "Oje çıkarıcı",
+      "answer": "ASETON",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kişiye verilen isim",
-      "answer": "AD",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuşu havada tutan organ",
-      "answer": "KANAT",
-      "row": 2,
+      "text": "Dudak boyası",
+      "answer": "RUJ",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İşve, naz",
-      "answer": "EDA",
+      "text": "Üzüm bitkisi",
+      "answer": "ASMA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İyi karşıtı",
+      "answer": "KÖTÜ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İri taneli bezelye",
-      "answer": "ARAKA",
-      "row": 4,
+      "text": "Üstün, seçkin",
+      "answer": "KLAS",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bazı Körfez ülkelerinin para birimi",
-      "answer": "RİYAL",
+      "text": "Devrilme",
+      "answer": "ALABORA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Düğüm, rabıta",
-      "answer": "BAĞ",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ayak direme",
-      "answer": "İNAT",
+      "text": "Seçim tercihi",
+      "answer": "OY",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Köyde geniş arazi sahibi kişi",
-      "answer": "AĞA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sodyum için kullanılan kimyasal simge",
-      "answer": "NA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Elektriği iyi ileten kızıl metal",
-      "answer": "BAKIR",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dönümün onda biri olan ölçü",
-      "answer": "AR",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Renksiz, kokusuz içecek",
-      "answer": "SU",
+      "text": "Fabrika üretimi",
+      "answer": "İMALAT",
       "row": 3,
-      "col": 6,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 7,
+      "text": "Kore başkenti",
+      "answer": "SEUL",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Borç senedi",
+      "answer": "BONO",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Delikli kumaş",
+      "answer": "ETAMİN",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     }
@@ -176,18 +148,26 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
-      "row": 3,
-      "col": 5
-    },
-    {
-      "row": 6,
+      "row": 0,
       "col": 6
     },
     {
-      "row": 8,
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 5,
       "col": 0
     }
   ],

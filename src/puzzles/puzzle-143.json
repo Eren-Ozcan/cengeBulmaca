@@ -5,198 +5,170 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Ağabey için kullanılan hitap",
-      "answer": "AKA",
+      "text": "Hoş karşıtı",
+      "answer": "NAHOŞ",
       "row": 0,
-      "col": 0,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Küçük, hafif kayık",
-      "answer": "KANO",
+      "text": "Ünlüler haberleri",
+      "answer": "MAGAZİN",
       "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İskambilde birli",
-      "answer": "AS",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bükülmüş ipliklerden oluşan bağ",
-      "answer": "İP",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İnce uzun, endamlı",
-      "answer": "ELİF",
-      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Otorite simgesi baston",
-      "answer": "ASA",
+      "text": "Özet",
+      "answer": "HÜLASA",
       "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeşil, küçük bitki",
-      "answer": "OT",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ateşin rengi",
-      "answer": "AL",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tahılla karışık ekilen bir bakliyat",
-      "answer": "ARAKA",
-      "row": 4,
+      "text": "Kutbu kaplayan",
+      "answer": "BUZ",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Direngenlik, dediğinden dönmeme",
-      "answer": "İNAT",
+      "text": "Kabartma maddesi",
+      "answer": "MAYA",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sayıların ilki",
+      "answer": "BİR",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Korku ünlemi",
+      "answer": "ABO",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kırmızı veya beyazı olan besin",
-      "answer": "ET",
+      "text": "Sert çarpma",
+      "answer": "DARBE",
       "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gramofonda çalınan disk",
-      "answer": "PLAK",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Hz. İsa'nın doğumu anısına kutlanan bayram",
-      "answer": "NOEL",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Mısır mitolojisinde güneş tanrısı",
-      "answer": "RA",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kral ve kraliçelerin başlığı",
-      "answer": "TAÇ",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kalay'ın kimyasal simgesi",
-      "answer": "SN",
-      "row": 8,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Gıdaların enerji değeri birimi",
-      "answer": "KALORİ",
-      "row": 0,
+      "text": "Hakikat",
+      "answer": "GERÇEK",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Teli olan",
+      "answer": "TELLİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilmece",
+      "answer": "MUAMMA",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Güzel gözlü hayvan",
+      "answer": "AHU",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İstanbul'un eski adlarından biri",
-      "answer": "ASİTANE",
-      "row": 0,
+      "text": "Sayı, tane",
+      "answer": "ADET",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sonbahar",
+      "answer": "GÜZ",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Merdivenle çıkılan bina bölümü",
-      "answer": "KAT",
+      "text": "Maaş çizelgesi",
+      "answer": "BAREM",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "At demiri",
+      "answer": "NAL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Borcu olan",
+      "answer": "BORÇLU",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kripton'un simgesi",
-      "answer": "KR",
+      "text": "Maksimum",
+      "answer": "AZAMİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kişneyen binek hayvanı",
-      "answer": "AT",
-      "row": 4,
+      "text": "Sıkıntılı durum",
+      "answer": "BELA",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Polonyum'un simgesi",
-      "answer": "PO",
-      "row": 7,
-      "col": 4,
+      "text": "Küçük kale",
+      "answer": "HİSAR",
+      "row": 0,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Araç, avadanlık",
-      "answer": "ALET",
+      "text": "Onuncu ay",
+      "answer": "EKİM",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Baharın geldiği ay",
-      "answer": "NİSAN",
+      "text": "Tasdik",
+      "answer": "ONAY",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Karışık renkli, benekli",
-      "answer": "ALA",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Takılarda kullanılan parıltılı mineral",
-      "answer": "OPAL",
-      "row": 0,
+      "text": "Bağışıklık kazandıran",
+      "answer": "AŞI",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sırada en başta olan",
-      "answer": "İLK",
-      "row": 5,
+      "text": "Düz geniş arazi",
+      "answer": "OVA",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -204,19 +176,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
     },
     {
       "row": 0,
-      "col": 5
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 3
+      "col": 7
     },
     {
       "row": 5,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 6
     },
     {
       "row": 6,
@@ -224,23 +208,19 @@
     },
     {
       "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 10,
       "col": 0
-    },
-    {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 7
     }
   ],
   "difficulty": "orta",

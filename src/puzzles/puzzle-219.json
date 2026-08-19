@@ -5,240 +5,198 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Emile Zola'nın bir romanı",
-      "answer": "NANA",
+      "text": "Küp biçimli",
+      "answer": "KÜBİK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Odayı ısıtan yakıt yakılan araç",
-      "answer": "SOBA",
+      "text": "Otomobil",
+      "answer": "ARABA",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Beraberlik bildiren bağlaç",
-      "answer": "İLE",
-      "row": 2,
+      "text": "Mukavemet",
+      "answer": "DİRENÇ",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Doğum yardımcısı",
+      "answer": "EBE",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bedeni geliştiren fiziksel etkinlik",
-      "answer": "SPOR",
-      "row": 3,
+      "text": "Alaka",
+      "answer": "İLGİ",
+      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Araç, avadanlık",
-      "answer": "ALET",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Berilyum'un simgesi",
-      "answer": "BE",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaban hayvanı barınağı",
-      "answer": "İN",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hindistan'ın kutsal sayılan nehri",
-      "answer": "GANJ",
+      "text": "Cihaz",
+      "answer": "AYGIT",
       "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İkinci tekil şahıs zamiri",
-      "answer": "SEN",
+      "text": "Çalgılı meyhane",
+      "answer": "TAVERNA",
       "row": 6,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şifa veren madde",
-      "answer": "EM",
-      "row": 6,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Sesin geri dönmesi",
-      "answer": "EKO",
+      "text": "Satış belgesi",
+      "answer": "FATURA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Altın'ın simgesi",
-      "answer": "AU",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Çabucak geçen zaman dilimi",
-      "answer": "AN",
+      "text": "Kurutulmuş meyve",
+      "answer": "KAK",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hiçbir şeyi noksan olmayan",
-      "answer": "TAM",
+      "text": "Beyaz meyveli ağaç",
+      "answer": "DUT",
       "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yabancı kimse",
-      "answer": "EL",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gramofonda çalınan disk",
-      "answer": "PLAK",
-      "row": 8,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mi ile Sol arasındaki nota",
-      "answer": "FA",
-      "row": 10,
-      "col": 0,
+      "text": "Eskiden zengin",
+      "answer": "BAY",
+      "row": 9,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yılın on ikide biri",
-      "answer": "AY",
-      "row": 10,
+      "text": "Yaşam kaynağı",
+      "answer": "SU",
+      "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Düdükle maçı yöneten kişi",
-      "answer": "HAKEM",
+      "text": "Et yiyen",
+      "answer": "ETOBUR",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Mizaç, tabiat",
+      "answer": "HUY",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Temmuz-Ağustos arası burç",
-      "answer": "ASLAN",
-      "row": 0,
+      "text": "Gizli yer",
+      "answer": "ZULA",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Çamur toprak",
+      "answer": "BATAK",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çırakla usta arası işçi",
-      "answer": "KALFA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "25 Aralık'ta kutlanan bayram",
-      "answer": "NOEL",
+      "text": "Divan şiirinde şarap",
+      "answer": "BADE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "En arkadaki, sonuncu",
-      "answer": "SON",
+      "text": "Selçuklu lalası",
+      "answer": "ATABEY",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Temiz, lekesiz renk",
-      "answer": "AK",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Divan edebiyatında su",
-      "answer": "AB",
+      "text": "Cüsseli",
+      "answer": "İRİ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bir denizimiz ve bölgemiz",
-      "answer": "EGE",
-      "row": 3,
+      "text": "Dava vekili",
+      "answer": "AVUKAT",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
+      "text": "Meslek yolu",
+      "answer": "KARİYER",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yozlaşmış, bozulmuş, dejenere",
+      "answer": "YOZ",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sırbistan'ın başkenti",
+      "answer": "BELGRAD",
       "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Preparat hazırlanan cam plaka",
-      "answer": "LAM",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Japon şiiri, türküsü",
-      "answer": "UTA",
-      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Nesne",
-      "answer": "OBJE",
-      "row": 2,
+      "text": "Yakın işaret zamiri",
+      "answer": "BU",
+      "row": 9,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyük ateş",
+      "answer": "YANGIN",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ağabey için kullanılan hitap",
-      "answer": "AKA",
+      "text": "İzlenen yol",
+      "answer": "USUL",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Fa'dan önce gelen nota",
-      "answer": "RE",
+      "text": "Benekli kedi",
+      "answer": "ÇİTA",
       "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Erimiş yağdan yapılan aydınlatma aracı",
-      "answer": "MUM",
-      "row": 5,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Hitapta kullanılan seslenme sözü",
-      "answer": "YA",
-      "row": 9,
+      "text": "Para yüzü",
+      "answer": "TURA",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -246,27 +204,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 1
     },
     {
       "row": 0,
       "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
     },
     {
       "row": 0,
       "col": 7
-    },
-    {
-      "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 6
     },
     {
       "row": 1,
@@ -274,19 +220,15 @@
     },
     {
       "row": 2,
-      "col": 5
+      "col": 0
     },
     {
-      "row": 10,
-      "col": 3
+      "row": 5,
+      "col": 0
     },
     {
-      "row": 11,
-      "col": 5
-    },
-    {
-      "row": 11,
-      "col": 6
+      "row": 9,
+      "col": 0
     }
   ],
   "difficulty": "zor",

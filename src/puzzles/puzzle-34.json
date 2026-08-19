@@ -5,267 +5,218 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Masallardaki iri yaratık",
-      "answer": "DEV",
+      "text": "Bedeniyle çalışan",
+      "answer": "EMEKÇİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uçmaya yarayan organ",
-      "answer": "KANAT",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Piramitlere yakın Mısır başkenti",
-      "answer": "KAHİRE",
+      "text": "Kırışık gideren araç",
+      "answer": "ÜTÜ",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kozdaki üstün kağıt",
-      "answer": "ATU",
+      "text": "Gösteri çadırı",
+      "answer": "SİRK",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Akım azaltıcı",
+      "answer": "REOSTA",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Lahza, dem",
-      "answer": "AN",
-      "row": 3,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Dörtten sonra gelen sayı",
-      "answer": "BEŞ",
+      "text": "Aç karşıtı",
+      "answer": "TOK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mızraplı telli çalgı",
-      "answer": "UD",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yem bitkisi olarak ekilen baklagil",
-      "answer": "ARAKA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Elle oynanan file sporu",
-      "answer": "VOLEY",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bükülmüş ince metal",
-      "answer": "TEL",
-      "row": 7,
+      "text": "Yapmacık tavır",
+      "answer": "TRİP",
+      "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yay ile fırlatılan silah",
-      "answer": "OK",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mikroskop camlarından biri",
-      "answer": "LAMEL",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Dört tekerlekli taşıt",
-      "answer": "ARABA",
-      "row": 8,
+      "text": "Bilim kolu",
+      "answer": "DAL",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Periyodik tablodaki Baryum'un simgesi",
-      "answer": "BA",
-      "row": 9,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Ateşin yükselen dili",
-      "answer": "ALEV",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Başında saç bulunmayan",
-      "answer": "KEL",
-      "row": 10,
+      "text": "Kaba yünlü üstlük",
+      "answer": "ABA",
+      "row": 5,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kamıştan üflemeli çalgı",
-      "answer": "NEY",
+      "text": "Mektup kesesi",
+      "answer": "ZARF",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Havalandırma pervanesi",
+      "answer": "FAN",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Bisiklet koltuğu",
+      "answer": "SELE",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Mutedil iklim",
+      "answer": "ILIMAN",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Karşı çıkma",
+      "answer": "İTİRAZ",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilgiçlik taslayan",
+      "answer": "UKALA",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Üretilen şey",
+      "answer": "ÜRÜN",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Enerji",
-      "answer": "ERKE",
+      "text": "Deprem hattı",
+      "answer": "FAY",
       "row": 11,
-      "col": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Protein kaynağı gıda",
+      "text": "Sıcaklık derecesi",
+      "answer": "ISI",
+      "row": 7,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayrıcalıklı",
+      "answer": "MÜMTAZ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kasap besini",
       "answer": "ET",
       "row": 0,
-      "col": 1,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "'Şu' ve 'o'ya göre en yakın olan",
-      "answer": "BU",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İki niceliğin karşılaştırılması",
-      "answer": "ORAN",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Çekicilik katan tavır",
-      "answer": "EDA",
+      "text": "Muhtemel",
+      "answer": "OLASI",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Futbolda gol çizgisinin gerisi",
-      "answer": "KALE",
-      "row": 7,
-      "col": 2,
+      "text": "Post giysisi",
+      "answer": "KÜRK",
+      "row": 0,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Göz üstündeki kıl kavisi",
-      "answer": "KAŞ",
+      "text": "Kağıt oyunu",
+      "answer": "REMİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Açık mor",
+      "answer": "EFLATUN",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Urfa biberi",
+      "answer": "İSOT",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kedi, köpek yavrusu",
+      "answer": "ENİK",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Savurganlık",
+      "answer": "İSRAF",
       "row": 1,
-      "col": 3,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Erkek unvanı; koca",
-      "answer": "BEY",
+      "text": "Kitaplık bölmesi",
+      "answer": "RAF",
       "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Binanın her bir bölümü",
-      "answer": "KAT",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Avlanan hayvan",
-      "answer": "AV",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Volkandan fışkıran akkor madde",
-      "answer": "LAV",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Şiirde güzelliğe benzetilen hayvan",
-      "answer": "AHU",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İzlenecek yol",
-      "answer": "ROTA",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yazı yazma aracı",
-      "answer": "KALEM",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kripton için kullanılan kimyasal simge",
-      "answer": "KR",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Boşluk, mesafe",
-      "answer": "ARA",
+      "text": "Bağlantı",
+      "answer": "İRTİBAT",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Tırtıldan dönüşen kanatlı böcek",
-      "answer": "KELEBEK",
-      "row": 4,
+      "text": "Renkli, benekli",
+      "answer": "ALA",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İnsan derisi",
-      "answer": "TEN",
-      "row": 0,
+      "text": "Yakalama tuzağı",
+      "answer": "KAPAN",
+      "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Yılın on ikide biri",
-      "answer": "AY",
-      "row": 4,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Bahar müjdecisi bir çiçek",
-      "answer": "LALE",
+      "text": "Gök boşluğu",
+      "answer": "UZAY",
       "row": 7,
       "col": 8,
       "arrow": "down"
@@ -274,39 +225,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 4
     },
     {
       "row": 0,
-      "col": 3
+      "col": 6
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 0,
+      "col": 8
     },
     {
       "row": 3,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 1
-    },
-    {
       "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 3
+      "col": 6
     },
     {
       "row": 9,
-      "col": 5
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 2
     }
   ],
   "difficulty": "zor",

@@ -5,156 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Sürü güden kimse",
-      "answer": "ÇOBAN",
+      "text": "Zorla el koyma",
+      "answer": "ZAPT",
       "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yer altındaki doğal oyuk",
-      "answer": "MAĞARA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sürünerek hareket eden hayvan",
-      "answer": "YILAN",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğaçlamaya dayalı bir müzik türü",
-      "answer": "CAZ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Iztırap ünlemi",
-      "answer": "AH",
-      "row": 4,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gemi veya uçağın izlediği yol",
-      "answer": "ROTA",
-      "row": 5,
       "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Yuvarlak oyun aracı",
-      "answer": "TOP",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Taşınabilir elektrik kaynağı",
-      "answer": "PİL",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaprakları katmerli kış sebzesi",
-      "answer": "LAHANA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Düşünme, muhakeme yetisi",
-      "answer": "US",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Direnç ölçü birimi",
-      "answer": "OM",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Buz taneleri yağışı",
-      "answer": "DOLU",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Taze karşıtı",
-      "answer": "BAYAT",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Futbolda topu arkadaşa gönderme",
-      "answer": "PAS",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yiyeceklerin alındığı, konuşmayı sağlayan organ",
-      "answer": "AĞIZ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Atın tırnağına çakılan demir",
-      "answer": "NAL",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Renk oyunuyla bilinen değerli taş",
-      "answer": "OPAL",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Antik Mısır tanrılarından biri",
-      "answer": "RA",
+      "text": "Asıl konu",
+      "answer": "TEMA",
       "row": 1,
-      "col": 5,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Antik Yunan uygarlığının merkezi",
-      "answer": "ATİNA",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
+      "text": "Darbe emici",
+      "answer": "TAMPON",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Kedisiyle ünlü ilimiz",
-      "answer": "VAN",
+      "text": "Çok sert",
+      "answer": "KASKATI",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Direksiyon parçası",
+      "answer": "ROT",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Katıksız",
+      "answer": "ARI",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilgin kimse",
+      "answer": "ALİM",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Oluşan, meydana gelen",
+      "answer": "İBARET",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hak, hukuk",
+      "answer": "ADALET",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Satılan mal",
+      "answer": "META",
       "row": 0,
-      "col": 6,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Babanın kız kardeşi",
-      "answer": "HALA",
-      "row": 4,
+      "text": "Kalın yün kumaş",
+      "answer": "ABA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Rahatlatıcı ovma",
+      "answer": "MASAJ",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kişiyi çağırma sözü",
+      "answer": "AD",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapıştırıcı madde",
+      "answer": "ZAMK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Fasıla",
+      "answer": "ARA",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Koşut",
+      "answer": "PARALEL",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yetke",
+      "answer": "OTORİTE",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Reklamla duyurma",
+      "answer": "TANITIM",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -162,22 +134,34 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 3,
       "col": 0
     },
     {
-      "row": 4,
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 9,
+      "row": 5,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
       "col": 6
     }
   ],

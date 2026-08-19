@@ -5,233 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Ortası sarı, yaprakları beyaz kır çiçeği",
-      "answer": "PAPATYA",
+      "text": "Hükümdar sopası",
+      "answer": "ASA",
       "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gemi veya uçağın izlediği yol",
-      "answer": "ROTA",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Giysinin boyna gelen bölümü",
-      "answer": "YAKA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eski dilde ödeme, verme",
-      "answer": "İTA",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Temizlik maddesi",
-      "answer": "SABUN",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Berilyum'un simgesi",
-      "answer": "BE",
-      "row": 4,
+      "text": "Asla",
+      "answer": "HİÇ",
+      "row": 1,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Önder",
+      "answer": "LİDER",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gamın altıncısı",
+      "answer": "LA",
+      "row": 2,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Eski dilde yapma, gerçekleştirme",
-      "answer": "İKA",
-      "row": 5,
+      "text": "İnandırma, kandırma",
+      "answer": "İKNA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yiğit, kahraman",
+      "answer": "ALP",
+      "row": 3,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Kazıma süslemesi",
+      "answer": "OYMA",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cesur ve hareketli",
-      "answer": "ATAK",
-      "row": 5,
-      "col": 4,
+      "text": "Do'dan sonraki nota",
+      "answer": "RE",
+      "row": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Büyük, gösterişli ev",
-      "answer": "KONAK",
+      "text": "Kızılımsı sarı",
+      "answer": "ALA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bile, üstelik",
+      "answer": "HATTA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bağ, münasebet",
+      "answer": "İLİŞKİ",
       "row": 6,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Baryum'un kimyasal simgesi",
-      "answer": "BA",
-      "row": 7,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Yanan ateşin dili",
-      "answer": "ALEV",
-      "row": 8,
+      "text": "Duyarlı",
+      "answer": "HASSAS",
+      "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "'Ne oldu?' daki soru kelimesi",
+      "text": "Beyaz kır çiçeği",
+      "answer": "PAPATYA",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Anlam çevirisi",
+      "answer": "MEAL",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hitap ünlemi",
+      "answer": "BRE",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hatıra",
+      "answer": "ANI",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Doğum günü tatlısı",
+      "answer": "KEK",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İslam bilginleri",
+      "answer": "ULEMA",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İçkiye düşkün",
+      "answer": "ALKOLİK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bebeği doğurtan",
+      "answer": "EBE",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İşaret",
+      "answer": "SİNYAL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dinlenme alanı",
+      "answer": "PARK",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek insan, kişi",
+      "answer": "ADAM",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İş verme",
+      "answer": "İHALE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tahtadan yapılan",
+      "answer": "AHŞAP",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaşlı bilge",
+      "answer": "AKSAKAL",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sanatçı, oyuncu",
+      "answer": "ARTİST",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Hangi şey",
       "answer": "NE",
       "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Müzikli sahne yapıtı",
-      "answer": "OPERA",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Suçu bağışlama",
-      "answer": "AF",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Müzikte susma işareti",
-      "answer": "ES",
-      "row": 10,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "İnce, gümüş renkli küçük balık",
-      "answer": "ATERİNA",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Otoriteye karşı gelen",
-      "answer": "ASİ",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuşu havada tutan organ",
-      "answer": "KANAT",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Çikolatanın ham maddesi",
-      "answer": "KAKAO",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Batı Anadolu yiğidi",
-      "answer": "EFE",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Karayolunda kullanılan taşıt",
-      "answer": "ARABA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Polonyum'un simgesi",
-      "answer": "PO",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Enerji ölçü birimi",
-      "answer": "KALORİ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Parthenon Tapınağı'nın kenti",
-      "answer": "ATİNA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Mezuniyet başlığı",
-      "answer": "KEP",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dilin algıladığı duyum",
-      "answer": "TAT",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bağlama edatı",
-      "answer": "VE",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaba, kalın yün kumaş",
-      "answer": "ABA",
-      "row": 2,
+      "text": "Hastalık, dert",
+      "answer": "İLLET",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Do'dan sonra gelen nota",
-      "answer": "RE",
-      "row": 8,
+      "text": "Fark, tefrik",
+      "answer": "AYRIM",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Göz açıp kapayana kadarki süre",
-      "answer": "AN",
+      "text": "Daire genişliği",
+      "answer": "ÇAP",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Dağda duyulan ses yansıması",
-      "answer": "EKO",
-      "row": 3,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Üstünde yazı yazılan mobilya",
-      "answer": "MASA",
-      "row": 7,
+      "text": "Yapı arazisi",
+      "answer": "ARSA",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     }
@@ -243,47 +236,35 @@
     },
     {
       "row": 0,
-      "col": 1
+      "col": 4
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 7,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 3
-    },
-    {
-      "row": 10,
       "col": 5
     },
     {
-      "row": 11,
-      "col": 7
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
+      "row": 10,
+      "col": 8
     }
   ],
   "difficulty": "kolay",

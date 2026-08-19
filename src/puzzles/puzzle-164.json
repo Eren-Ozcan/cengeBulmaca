@@ -5,239 +5,211 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Periyodik tablodaki Kalay'ın simgesi",
-      "answer": "SN",
+      "text": "Havadaki akışkan",
+      "answer": "GAZ",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Hoşa giden duygu",
-      "answer": "ZEVK",
+      "text": "Kül rengi",
+      "answer": "GRİ",
       "row": 1,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Güney Amerika'nın büyük dağ sırası",
-      "answer": "AND",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
+      "text": "Minnet ifadesi",
+      "answer": "ŞÜKÜR",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Mızraplı telli çalgı",
-      "answer": "UD",
+      "text": "İdare eder",
+      "answer": "EH",
       "row": 2,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Avrupa Birliği'nin ortak para birimi",
-      "answer": "AVRO",
+      "text": "Suya atla",
+      "answer": "DAL",
       "row": 3,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Parlak, pullu bir mineral",
-      "answer": "MİKA",
+      "text": "Bozkır kuşu",
+      "answer": "TOY",
       "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hayvansal besin maddesi",
-      "answer": "ET",
-      "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Dokudaki bozulma, bere",
-      "answer": "YARA",
-      "row": 5,
+      "text": "Çeşit, cins",
+      "answer": "TÜR",
+      "row": 3,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yapı arazisi",
+      "answer": "ARSA",
+      "row": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Tırtıldan dönüşen kanatlı böcek",
-      "answer": "KELEBEK",
+      "text": "Bölümlü eser",
+      "answer": "SONAT",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gökyüzü oyuncağı",
+      "answer": "UÇURTMA",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bin kilogram",
-      "answer": "TON",
+      "text": "Kimse, şahıs (argo)",
+      "answer": "TİP",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Güney Amerika devesi",
+      "answer": "ALPAKA",
       "row": 7,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çift karşıtı",
-      "answer": "TEK",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski Mısır'ın güneş tanrısı",
-      "answer": "RA",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Geometride iki ışının kesişmesiyle oluşan şekil",
-      "answer": "AÇI",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Üstten gelen talimat",
-      "answer": "EMİR",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Cüsseli, büyük",
-      "answer": "İRİ",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kol ile gövdenin birleştiği yer",
-      "answer": "OMUZ",
-      "row": 10,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cilve, işve",
-      "answer": "NAZ",
-      "row": 11,
-      "col": 4,
+      "text": "Açılış töreni",
+      "answer": "GALA",
+      "row": 9,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Do'ya dönmeden önceki son nota",
-      "answer": "Sİ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Kilo vermek için uygulanan beslenme düzeni",
-      "answer": "DİYET",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Havadaki su buharı oranı",
-      "answer": "NEM",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gıdaların enerji değeri birimi",
-      "answer": "KALORİ",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Çinko'nun simgesi",
-      "answer": "ZN",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gösteri ve yarış alanı",
-      "answer": "ARENA",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Belirti, emare",
-      "answer": "İZ",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Cilve, naz",
-      "answer": "EDA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Farsça kökenli 'su' sözcüğü",
-      "answer": "AB",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Askerlik yapan genç, nefer",
-      "answer": "ER",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İki kelimeyi birleştiren bağlaç",
-      "answer": "VE",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Nakış işlenen delikli kumaş",
-      "answer": "ETAMİN",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sürü halinde avlanan yabani hayvan",
-      "answer": "KURT",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İnatçılığıyla bilinen evcil hayvan",
-      "answer": "KEÇİ",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Gam dizisinin ilk notası",
+      "text": "Gamın ilk notası",
       "answer": "DO",
-      "row": 1,
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Sıvı kabı",
+      "answer": "FIÇI",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saha dışı",
+      "answer": "AUT",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Boksta yıkılış",
+      "answer": "NAKAVT",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gizli sebep",
+      "answer": "GÜDÜ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Deli gibi davranan",
+      "answer": "ÇILGIN",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Irmak, çay, dere",
+      "answer": "AKARSU",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Pantolon ucu",
+      "answer": "PAÇA",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Utanç, ayıp",
+      "answer": "ZÜL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çevre, etraf",
+      "answer": "ORTALIK",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski değerli eşya",
+      "answer": "ANTİKA",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Takas",
+      "answer": "TRAMPA",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Şikâr",
+      "answer": "AV",
+      "row": 9,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Akım azaltıcı",
+      "answer": "REOSTA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İpek böceğinin besini",
+      "answer": "DUT",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeniden canlandırma",
+      "answer": "İHYA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Doğal, yeşil açık alan",
-      "answer": "KIR",
+      "text": "Küçük ışık",
+      "answer": "SPOT",
       "row": 6,
       "col": 7,
       "arrow": "down"
@@ -246,38 +218,26 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
-      "col": 2
+      "col": 4
     },
     {
       "row": 0,
       "col": 5
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
       "row": 5,
       "col": 7
     },
     {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 10,
+      "row": 7,
       "col": 6
     },
     {
-      "row": 10,
+      "row": 11,
       "col": 7
     }
   ],

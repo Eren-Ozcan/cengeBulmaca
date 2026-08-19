@@ -5,247 +5,233 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Esas, ana",
-      "answer": "TEMEL",
+      "text": "Yanlar, taraflar, çevre",
+      "answer": "ETRAF",
       "row": 0,
-      "col": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Fındık rengi göz",
-      "answer": "ELA",
+      "text": "Oy (eski dilde)",
+      "answer": "REY",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Havadaki titreşimin kulakta yarattığı duyum",
-      "answer": "SES",
+      "text": "Tren yolu",
+      "answer": "RAY",
       "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tanrı katında insan",
-      "answer": "KUL",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Havadaki su buharı oranı",
-      "answer": "NEM",
-      "row": 3,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Mart'tan sonraki ay",
-      "answer": "NİSAN",
-      "row": 3,
+      "text": "Bina",
+      "answer": "YAPI",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "CGS sisteminde iş ve enerji birimi",
-      "answer": "ERG",
+      "text": "Gizli sebep",
+      "answer": "GÜDÜ",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Menekşe rengi",
+      "answer": "MOR",
       "row": 4,
-      "col": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Elin parmak sayısı",
-      "answer": "BEŞ",
-      "row": 5,
+      "text": "Tek, eşsiz",
+      "answer": "ÜNİK",
+      "row": 4,
       "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sazın çalınan yeri",
+      "answer": "TEL",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Abide",
+      "answer": "ANIT",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İpek böceğinin besini",
+      "answer": "DUT",
+      "row": 5,
+      "col": 6,
       "arrow": "down-right"
     },
     {
-      "text": "Bedeni geliştiren fiziksel etkinlik",
-      "answer": "SPOR",
+      "text": "Topluluk mensubu",
+      "answer": "ÜYE",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ovadan yüksekte, dağdan alçak yer",
-      "answer": "TEPE",
+      "text": "Seçme aşaması",
+      "answer": "ELEME",
       "row": 7,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kareli kumaş",
-      "answer": "EKOSE",
+      "text": "Mısır hükümdarı",
+      "answer": "FİRAVUN",
       "row": 8,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Fazladan eklenen kısım",
-      "answer": "EK",
-      "row": 8,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Yayla atılan ince silah",
-      "answer": "OK",
+      "text": "İsviçre'nin başkenti",
+      "answer": "BERN",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Karşılıklı değişim",
-      "answer": "TAKAS",
+      "text": "Ev üstü",
+      "answer": "DAM",
       "row": 9,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Eczaneden alınan tedavi maddesi",
-      "answer": "İLAÇ",
+      "text": "Çay kıvamı",
+      "answer": "DEM",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Küçük, hızlı deniz taşıtı",
-      "answer": "BOT",
+      "text": "Ad",
+      "answer": "İSİM",
       "row": 10,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yavrusunu doğuran dişi",
-      "answer": "ANA",
+      "text": "Kollu sandık çalgısı",
+      "answer": "LATERNA",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Baryum'un kimyasal simgesi",
-      "answer": "BA",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yılın onuncu ayı",
-      "answer": "EKİM",
-      "row": 1,
+      "text": "Raylı şehir taşıtı",
+      "answer": "TRAMVAY",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çin'in başkenti",
-      "answer": "PEKİN",
-      "row": 6,
+      "text": "Tavır, hava",
+      "answer": "EDA",
+      "row": 8,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Aynı kökenden gelen büyük topluluk",
-      "answer": "ULUS",
+      "text": "Banka işlemi",
+      "answer": "REPO",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Aç karşıtı, doymuş",
-      "answer": "TOK",
+      "text": "Tiksinme",
+      "answer": "NEFRET",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Birkaç taburdan oluşan askeri birlik",
-      "answer": "ALAY",
-      "row": 1,
+      "text": "Nüans",
+      "answer": "AYIRTI",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İzlenecek yol",
-      "answer": "ROTA",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kafa derisinden uzayan kıllar",
-      "answer": "SAÇ",
+      "text": "Felç",
+      "answer": "İNME",
       "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Uçucu sıvı",
+      "answer": "ETER",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Notada sessizlik simgesi",
-      "answer": "ES",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Belden aşağı giysi",
-      "answer": "ETEK",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Baharda açan mor küçük çiçek",
-      "answer": "MENEKŞE",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaba, kalın yün kumaş",
-      "answer": "ABA",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sanatçının meydana getirdiği yapıt",
-      "answer": "ESER",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Meksika ve bazı Güney Amerika ülkelerinin para birimi",
-      "answer": "PESO",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Magnezyum'un simgesi",
-      "answer": "MG",
+      "text": "Isparta'nın ürünü",
+      "answer": "GÜL",
       "row": 2,
-      "col": 8,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Fırında pişen tatlı hamur işi",
-      "answer": "KEK",
+      "text": "Kozalaklı ağaç",
+      "answer": "LADİN",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Üretilen şey",
+      "answer": "ÜRÜN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok büyük",
+      "answer": "DEVASA",
       "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıradan, kalitesiz",
+      "answer": "ADİ",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Genel",
+      "answer": "UMUMİ",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Taşınan ağırlık",
+      "answer": "YÜK",
+      "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Tantal'ın kimyasal simgesi",
-      "answer": "TA",
-      "row": 9,
+      "text": "Cilt, deri",
+      "answer": "TEN",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -253,15 +239,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 4
     },
     {
       "row": 0,
-      "col": 1
+      "col": 5
     },
     {
       "row": 0,
-      "col": 3
+      "col": 7
     },
     {
       "row": 0,
@@ -269,10 +255,10 @@
     },
     {
       "row": 1,
-      "col": 0
+      "col": 5
     },
     {
-      "row": 3,
+      "row": 2,
       "col": 4
     },
     {
@@ -280,16 +266,16 @@
       "col": 0
     },
     {
-      "row": 5,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 3
+      "row": 9,
+      "col": 8
     },
     {
       "row": 11,
       "col": 7
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "kolay",

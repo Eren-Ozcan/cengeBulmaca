@@ -5,219 +5,191 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Göğüs kafesindeki kan pompalayan organ",
-      "answer": "KALP",
+      "text": "Keskin bıçak",
+      "answer": "KAMA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Müzikte sesi gösteren işaret",
-      "answer": "NOTA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir topluluğun önderi",
-      "answer": "BAŞ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uzak Doğu ülkesi",
-      "answer": "ÇİN",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Antakya'dan geçen ırmak",
-      "answer": "ASİ",
-      "row": 3,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İnisiyatif alan, atılgan",
-      "answer": "ATAK",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Havadaki titreşimin kulakta yarattığı duyum",
-      "answer": "SES",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Hak ve hukuka uygunluk",
-      "answer": "ADALET",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Radyum'un kimyasal simgesi",
-      "answer": "RA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Avcının peşinde koştuğu şey",
-      "answer": "AV",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Açık söylemeden belirtme",
-      "answer": "İMA",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Farsça kökenli eski 'ayak' sözcüğü",
-      "answer": "PA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tarladaki tahıl",
-      "answer": "EKİN",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sekizli dizinin ilk sesi",
-      "answer": "DO",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kilit açan araç",
-      "answer": "ANAHTAR",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İtalya'da bir nehir",
-      "answer": "PO",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yarı karanlık",
-      "answer": "LOŞ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Seyhan Nehri kıyısındaki ilimiz",
-      "answer": "ADANA",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Platin'in simgesi",
-      "answer": "PT",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağabeyin halk dilindeki karşılığı",
-      "answer": "AKA",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kasapta satılan besin",
-      "answer": "ET",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hafif, ince yağmur",
-      "answer": "ÇİSE",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Birden sonra gelen sayı",
-      "answer": "İKİ",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Do'ya dönmeden önceki nota",
-      "answer": "Sİ",
+      "text": "Bir nota (do,re,mi,fa,sol...)",
+      "answer": "SOL",
       "row": 1,
-      "col": 6,
-      "arrow": "down"
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Nakış işlenen delikli kumaş",
-      "answer": "ETAMİN",
+      "text": "Çok sarhoş",
+      "answer": "ZOM",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Zeytinyağlı fasulye",
+      "answer": "PİLAKİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yöntem",
+      "answer": "METOT",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Şehirden küçük yer",
+      "answer": "KÖY",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Özgür",
+      "answer": "HÜR",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Doğum yardımcısı",
+      "answer": "EBE",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Pelte kıvamı",
+      "answer": "JEL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ev çalışması",
+      "answer": "ÖDEV",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İri bezelye",
+      "answer": "ARAKA",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Peşin para",
+      "answer": "AVANS",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Başarılı kimse",
+      "answer": "AS",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşağı bölüm",
+      "answer": "ALT",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Devre arası",
+      "answer": "ARA",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yenme kararlılığı",
+      "answer": "AZİM",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İrmik tatlısı",
+      "answer": "HELVA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Atom kümesi",
+      "answer": "MOLEKÜL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bayrağımızın rengi",
+      "answer": "AL",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Meraklı, hevesli",
+      "answer": "AMATÖR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Namus sözü",
+      "answer": "ANT",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Deniz girintisi",
+      "answer": "KOY",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Demirci aracı",
+      "answer": "ÖRS",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Aynı tondaki eser",
+      "answer": "SÜİT",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Tavır, hava",
+      "answer": "EDA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Evli olmayan",
+      "answer": "BEKAR",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Fileden topu geçirerek oynanan spor",
-      "answer": "TENİS",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Boru akışını kesen musluk",
-      "answer": "VANA",
-      "row": 6,
+      "text": "Çok büyük",
+      "answer": "DEVASA",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -229,26 +201,34 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 4
+      "row": 0,
+      "col": 7
     },
     {
-      "row": 1,
-      "col": 5
+      "row": 2,
+      "col": 6
     },
     {
-      "row": 7,
-      "col": 3
+      "row": 2,
+      "col": 7
     },
     {
-      "row": 8,
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 5,
       "col": 0
     }
   ],

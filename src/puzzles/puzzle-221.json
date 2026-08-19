@@ -5,163 +5,149 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Ani saldırı",
-      "answer": "ATAK",
+      "text": "Korku ünlemi",
+      "answer": "ABO",
       "row": 0,
-      "col": 3,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Her gün basılan haber yaprağı",
-      "answer": "GAZETE",
+      "text": "Un gibi ufalanmış",
+      "answer": "TOZ",
       "row": 1,
-      "col": 1,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Orkestrada öne çıkan yaylı çalgı",
-      "answer": "KEMAN",
+      "text": "Yönetici",
+      "answer": "ŞEF",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bal seven hayvan",
+      "answer": "AYI",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sol'den sonraki nota",
-      "answer": "LA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Do'ya dönmeden önceki son nota",
-      "answer": "Sİ",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir ağırlık birimi (28,35 gram)",
-      "answer": "ONS",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Basınca ses çıkaran kapı aracı",
-      "answer": "ZİL",
-      "row": 5,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Un elemeye yarayan araç",
-      "answer": "ELEK",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gülde bulunan sivri çıkıntı",
-      "answer": "DİKEN",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gam dizisinin dördüncü notası",
-      "answer": "FA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tiyatroda perde arası",
-      "answer": "ARA",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İğneyle yapılan ince süs işi",
-      "answer": "OYA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeni evlenmiş kadın, oğulun ya da kardeşin eşi",
-      "answer": "GELİN",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gözleri görmeyen",
-      "answer": "AMA",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski dilde ses, yankı",
-      "answer": "SEDA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir kurulun üyesi (eski dilde)",
-      "answer": "AZA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Lityum için kullanılan kimyasal simge",
-      "answer": "Lİ",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Vücudu kaplayan yüzey",
-      "answer": "TEN",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Öğrenme ve kavrama yetisi",
-      "answer": "ZEKA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Binek hayvanı",
-      "answer": "AT",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Haber sunucusu",
-      "answer": "SPİKER",
+      "text": "Gümüş iplik",
+      "answer": "SİM",
       "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İrin birikintisi",
+      "answer": "APSE",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kaybolma",
+      "answer": "ZAYİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağır, tehlikeli",
+      "answer": "VAHİM",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "29'dan sonraki sayı",
+      "answer": "OTUZ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İşaret sözcüğü",
+      "answer": "BU",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Donanma",
+      "answer": "ARMADA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kazakistan'ın başkenti",
+      "answer": "ASTANA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ak",
+      "answer": "BEYAZ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Su içilen kap",
+      "answer": "TAS",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanak içi",
+      "answer": "AVURT",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kutsal pınar",
+      "answer": "AYAZMA",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çekilen boncuk",
+      "answer": "TESPİH",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Lahza",
+      "answer": "AN",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Büro",
+      "answer": "OFİS",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İnatçılığıyla bilinen evcil hayvan",
-      "answer": "KEÇİ",
-      "row": 0,
-      "col": 6,
+      "text": "Yaratma",
+      "answer": "İBDA",
+      "row": 5,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sodyum için kullanılan kimyasal simge",
-      "answer": "NA",
-      "row": 7,
+      "text": "Dergi",
+      "answer": "MECMUA",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -169,30 +155,22 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
-      "row": 1,
-      "col": 0
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 4,
-      "col": 3
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 3
-    },
-    {
-      "row": 5,
+      "row": 9,
       "col": 6
     }
   ],

@@ -5,205 +5,163 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Güney Kore'nin başkenti",
-      "answer": "SEUL",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Farsça kökenli 'su' sözcüğü",
-      "answer": "AB",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir etkinliğin yapıldığı saha",
-      "answer": "ALAN",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kişinin doğuştan gelen davranış eğilimi",
-      "answer": "HUY",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Atın ayağına çakılan metal parça",
-      "answer": "NAL",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gam dizisinin dördüncü notası",
-      "answer": "FA",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski Mısır'ın güneş tanrısı",
-      "answer": "RA",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kişiye verilen isim",
-      "answer": "AD",
-      "row": 6,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Nil kıyısındaki başkent",
-      "answer": "KAHİRE",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Farsça kökenli eski 'ayak' sözcüğü",
-      "answer": "PA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İş görmeye yarayan araç",
-      "answer": "ALET",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Mozart'ın şehri, Avusturya başkenti",
-      "answer": "VİYANA",
-      "row": 8,
+      "text": "Göreve talip",
+      "answer": "ADAY",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sol'den sonraki nota",
-      "answer": "LA",
-      "row": 10,
+      "text": "Bulaşık teknesi",
+      "answer": "EVİYE",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ahenk",
+      "answer": "UYUM",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tavla küpü",
+      "answer": "ZAR",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yerinelemeli anlatım",
+      "answer": "ALEGORİ",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir olayı hatırlatan yapı",
-      "answer": "ANIT",
-      "row": 10,
-      "col": 3,
+      "text": "Kriz",
+      "answer": "BUNALIM",
+      "row": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Acı, üzüntü bildiren ünlem",
-      "answer": "AH",
+      "text": "Birliktelik bağlacı",
+      "answer": "İLE",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kırışık gideren araç",
+      "answer": "ÜTÜ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güdülen erek",
+      "answer": "MAKSAT",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Olta ipi",
+      "answer": "MİSİNA",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Terbiye, öğretim",
+      "answer": "EĞİTİM",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şeker hastalığı",
+      "answer": "DİYABET",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüce, büyük",
+      "answer": "ULU",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Cihazlara takılan enerji kaynağı",
-      "answer": "PİL",
+      "text": "Okuma bilmeyen",
+      "answer": "ÜMMİ",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Basma başörtü",
+      "answer": "YEMENİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Birine özgü",
+      "answer": "AİT",
       "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "El ve vücut temizliğinde kullanılan madde",
-      "answer": "SABUN",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dağın sert taş bloğu",
-      "answer": "KAYA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Notada durak işareti",
-      "answer": "ES",
-      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dokudaki bozulma, bere",
-      "answer": "YARA",
+      "text": "Gök ada",
+      "answer": "GALAKSİ",
       "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Japon şiiri, türküsü",
-      "answer": "UTA",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yaprakları katmerli kış sebzesi",
-      "answer": "LAHANA",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlı döneminde çok sevilen çiçek",
-      "answer": "LALE",
-      "row": 0,
+      "text": "Yalıtılmış olan",
+      "answer": "İZOLE",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gazeteye verilen bildirim",
-      "answer": "İLAN",
-      "row": 6,
+      "text": "Gümüş iplik",
+      "answer": "SİM",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Sodyum'un simgesi",
-      "answer": "NA",
+      "text": "İkide bir",
+      "answer": "YARI",
       "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kedi düşmanı küçük hayvan",
-      "answer": "FARE",
-      "row": 4,
+      "text": "Ruh",
+      "answer": "CAN",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kervanların konakladığı eski yapı",
-      "answer": "HAN",
+      "text": "Randıman",
+      "answer": "VERİM",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sayı, tane",
-      "answer": "ADET",
-      "row": 4,
+      "text": "Metal kızgınlığı",
+      "answer": "TAV",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -211,11 +169,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
       "row": 0,
-      "col": 1
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
@@ -223,35 +185,19 @@
     },
     {
       "row": 1,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
+      "col": 4
     },
     {
       "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 1
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
       "col": 7
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 6
     }
   ],
   "difficulty": "zor",

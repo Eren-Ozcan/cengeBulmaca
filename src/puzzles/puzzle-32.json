@@ -5,188 +5,162 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Bir selamlaşma sözü",
-      "answer": "MERHABA",
+      "text": "Sahne sanatı",
+      "answer": "TİYATRO",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sol'den sonraki nota",
+      "text": "Yeter bulma",
+      "answer": "KANAAT",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyük başarısızlık",
+      "answer": "FİYASKO",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Küçük büyüteç",
+      "answer": "LUP",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Çalışma süresi",
+      "answer": "SEANS",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sanat alıştırması",
+      "answer": "MEŞK",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce karşıtı",
+      "answer": "KABA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yurt içi",
+      "answer": "YERLİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bebek zıplatan",
+      "answer": "HOPPALA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Üçüncü burç",
+      "answer": "İKİZ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Deniz giysisi",
+      "answer": "MAYO",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Eğri çizgi",
+      "answer": "YAY",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Neden",
+      "answer": "SEBEP",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Temel, esas",
+      "answer": "ANA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Baş-boyun örtüsü",
+      "answer": "EŞARP",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaba çizim",
+      "answer": "TASLAK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Si'den önceki nota",
       "answer": "LA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlı'da paşalık simgesi sorguç",
-      "answer": "TUĞ",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Minareden okunan davet",
-      "answer": "EZAN",
-      "row": 3,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Japonların çiçek aranjmanı sanatı",
-      "answer": "İKEBANA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sicim, halat",
-      "answer": "İP",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ciltlenmiş basılı sayfalar",
-      "answer": "KİTAP",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Milli İstihbarat Teşkilatı'nın kısa adı",
-      "answer": "MİT",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Baryum'un simgesi",
-      "answer": "BA",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Cevap isteyen soru kelimesi",
-      "answer": "NE",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Beş parmaklı tutma organı",
-      "answer": "EL",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sona getirilen parça",
-      "answer": "EK",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir şeyi belirten iz",
-      "answer": "İM",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Firavunların taptığı güneş tanrısı",
-      "answer": "RA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ege sofralarının vazgeçilmez meyvesi",
-      "answer": "ZEYTİN",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Şiir dilinde kullanılan eski su sözü",
-      "answer": "AB",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tanrı fikrini reddeden kişi",
-      "answer": "ATE",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Akropolis'in bulunduğu şehir",
-      "answer": "ATİNA",
-      "row": 0,
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "'Şu' ve 'o'ya göre en yakın olan",
-      "answer": "BU",
+      "text": "Tilki yüzlü hayvan",
+      "answer": "RAKUN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 4,
+      "text": "Elektrik kaynağı",
+      "answer": "PİL",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Örülerek yapılmış avlanma aracı",
-      "answer": "AĞ",
+      "text": "Ceset incelemesi",
+      "answer": "OTOPSİ",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Fotosentez yapan ağaç organı",
-      "answer": "YAPRAK",
-      "row": 3,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 3,
+      "row": 4,
       "col": 0
     },
     {
-      "row": 3,
-      "col": 5
+      "row": 5,
+      "col": 0
     },
     {
       "row": 7,
-      "col": 5
+      "col": 6
     },
     {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 5
+      "row": 8,
+      "col": 6
     }
   ],
   "difficulty": "kolay",

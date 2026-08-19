@@ -5,170 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Farsça kökenli 'su' sözcüğü",
-      "answer": "AB",
+      "text": "Sıkıntı, çarpıntı",
+      "answer": "HAFAKAN",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çinko için kullanılan kimyasal simge",
-      "answer": "ZN",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Çocuğun annesi",
-      "answer": "ANA",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İlgili, ilişkin",
-      "answer": "AİT",
+      "text": "Hint unvanı",
+      "answer": "RACA",
       "row": 2,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Karadeniz'in ünlü balığı",
-      "answer": "HAMSİ",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Merkezdeki, dahili",
-      "answer": "İÇ",
-      "row": 4,
+      "text": "Haber toplayan",
+      "answer": "MUHABİR",
+      "row": 2,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Utanma duygusu",
-      "answer": "AR",
+      "text": "Daire genişliği",
+      "answer": "ÇAP",
       "row": 4,
-      "col": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Japonların çiçek aranjmanı sanatı",
-      "answer": "İKEBANA",
+      "text": "Yankı",
+      "answer": "EKO",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gömleğin boyun kısmı",
-      "answer": "YAKA",
-      "row": 7,
-      "col": 1,
+      "text": "Donanma",
+      "answer": "ARMADA",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Her gün basılan haber yaprağı",
-      "answer": "GAZETE",
+      "text": "Musluk takımı",
+      "answer": "ARMATÜR",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Toynağa çakılan",
+      "answer": "NAL",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gözü peklik",
-      "answer": "CESARET",
+      "text": "Yad, gurbet",
+      "answer": "EL",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ceza vuruşu",
+      "answer": "PENALTI",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İskambil kağıtlarının en değerlisi",
-      "answer": "AS",
-      "row": 1,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Lahza, dem",
-      "answer": "AN",
+      "text": "Kâğıtta üstün renk",
+      "answer": "ATU",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "'İka etmek' fiilinin kökü",
-      "answer": "İKA",
-      "row": 3,
+      "text": "Başarı belgesi",
+      "answer": "KARNE",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Germanyum'un simgesi",
-      "answer": "GE",
-      "row": 7,
-      "col": 1,
+      "text": "Ağaçlık alan",
+      "answer": "ORMAN",
+      "row": 4,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Evin çevresindeki yeşil alan",
-      "answer": "BAHÇE",
+      "text": "Alet, vasıta",
+      "answer": "ARAÇ",
       "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ölüm sonrası duyulan yoğun üzüntü",
-      "answer": "YAS",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Üye",
-      "answer": "AZA",
-      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ücrete yapılan artış",
-      "answer": "ZAM",
+      "text": "Harç aracı",
+      "answer": "MALA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kusur",
+      "answer": "KABAHAT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Silah altındaki kişi",
-      "answer": "ASKER",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Baharın geldiği ay",
-      "answer": "NİSAN",
+      "text": "Şaşırtıcı, tuhaf",
+      "answer": "ACİP",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dine inanmayan kişi",
-      "answer": "ATE",
-      "row": 6,
+      "text": "İkili şarkı",
+      "answer": "DÜET",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Arnavutluk'un en büyük şehri",
-      "answer": "TİRAN",
-      "row": 1,
+      "text": "Taneleri yakut gibi",
+      "answer": "NAR",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Protein kaynağı gıda",
-      "answer": "ET",
-      "row": 7,
+      "text": "Kar örtülü",
+      "answer": "KARLI",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -176,27 +148,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 3
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 0
+      "col": 2
     }
   ],
   "difficulty": "kolay",

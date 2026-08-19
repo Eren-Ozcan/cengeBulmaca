@@ -5,254 +5,212 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Eski dilde su",
-      "answer": "AB",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çabucak geçen zaman dilimi",
-      "answer": "AN",
+      "text": "Tapınma",
+      "answer": "İBADET",
       "row": 1,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "AB ülkelerinde kullanılan ortak para",
-      "answer": "AVRO",
+      "text": "Sorun",
+      "answer": "MESELE",
       "row": 2,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Doğum uzmanı sağlık görevlisi",
-      "answer": "EBE",
-      "row": 1,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dünya'nın etrafında dönen gök cismi",
-      "answer": "AY",
+      "text": "Karşı görüşlü",
+      "answer": "MUHALİF",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zarfla gönderilen yazı",
-      "answer": "MEKTUP",
-      "row": 3,
-      "col": 2,
+      "text": "Yararlanılan buhar",
+      "answer": "İSTİM",
+      "row": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Karışık renkli, benekli",
-      "answer": "ALA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Do'dan sonra gelen nota",
-      "answer": "RE",
-      "row": 4,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Hükümdarın konakladığı büyük çadır",
-      "answer": "OTAĞ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Demirin nemle oksitlenmesi sonucu oluşan tabaka",
-      "answer": "PAS",
+      "text": "Çentik işareti",
+      "answer": "KERTE",
       "row": 5,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Cezayı kaldırma",
-      "answer": "AF",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sobada yakılan ağaç parçası",
-      "answer": "ODUN",
+      "text": "Kızarmış ekmek",
+      "answer": "TOST",
       "row": 6,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Büyük deniz taşıtı",
-      "answer": "GEMİ",
-      "row": 7,
-      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Alanında en iyi olan kişi",
-      "answer": "AS",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tasavvuf müziğinin üflemeli çalgısı",
-      "answer": "NEY",
-      "row": 8,
+      "text": "Almanya'dan geçen nehir",
+      "answer": "REN",
+      "row": 6,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Sarma yapılan kış sebzesi",
-      "answer": "LAHANA",
-      "row": 8,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 9,
+      "text": "Eleştiri",
+      "answer": "TENKİT",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şöhret, şan",
-      "answer": "ÜN",
+      "text": "El işi süsleme",
+      "answer": "OYA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yemin",
+      "answer": "ANT",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yılın son ayı",
+      "answer": "ARALIK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İlenme, yakınma",
+      "answer": "AH",
+      "row": 9,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Sesin geri dönüşü",
+      "answer": "EKO",
       "row": 10,
-      "col": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
+      "text": "Para birimimiz",
+      "answer": "LİRA",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "78 numaralı element",
+      "answer": "PLATİN",
       "row": 11,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Avlanan hayvan",
-      "answer": "AV",
-      "row": 9,
+      "text": "Mükemmel, iyi",
+      "answer": "MİS",
+      "row": 2,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Eskimiş, kokmuş",
-      "answer": "BAYAT",
+      "text": "Güzel gözlü hayvan",
+      "answer": "AHU",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Müzik eşliğinde ritmik hareket",
-      "answer": "DANS",
-      "row": 6,
+      "text": "Kanıtlanan önerme",
+      "answer": "TEOREM",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Zihinsel güç",
-      "answer": "US",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sevgi göstergesi olarak verilen şey",
-      "answer": "ARMAĞAN",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Preparat hazırlanan cam plaka",
-      "answer": "LAM",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "25 Aralık'ta kutlanan bayram",
-      "answer": "NOEL",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Emile Zola'nın bir romanı",
-      "answer": "NANA",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İçine bir şey konan nesne",
-      "answer": "KAP",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İşlenmemiş, çiğ hâlde",
-      "answer": "HAM",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kasapta satılan besin",
-      "answer": "ET",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Boğa güreşi alanı",
-      "answer": "ARENA",
+      "text": "Kiremit renkli içki",
+      "answer": "KONYAK",
       "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce dövülmüş et",
+      "answer": "ESKALOP",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Semptom",
+      "answer": "BELİRTİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gol pası",
+      "answer": "ASİST",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Dönme hareketi",
+      "answer": "TAKLA",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ciltli kâğıtlar",
+      "answer": "DEFTER",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Öğrenciye verilen karşılıksız para",
-      "answer": "BURS",
-      "row": 1,
+      "text": "Köpek",
+      "answer": "İT",
+      "row": 9,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kolun ucu",
+      "answer": "EL",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Lokantada seçilen yemek listesi",
-      "answer": "MENÜ",
-      "row": 6,
+      "text": "Tek parça giysi",
+      "answer": "ENTARİ",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Dağdan küçük yükselti",
-      "answer": "TEPE",
+      "text": "Asteğmenin üstü",
+      "answer": "TEĞMEN",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Tuna kıyısındaki başkent",
-      "answer": "VİYANA",
-      "row": 5,
+      "text": "Eski konaklama yapısı",
+      "answer": "HAN",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
@@ -260,31 +218,35 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
-      "row": 0,
-      "col": 5
+      "row": 1,
+      "col": 0
     },
     {
-      "row": 0,
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 1
+    },
+    {
+      "row": 7,
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 5
+      "row": 7,
+      "col": 8
     },
     {
       "row": 11,
-      "col": 7
+      "col": 0
     }
   ],
   "difficulty": "zor",

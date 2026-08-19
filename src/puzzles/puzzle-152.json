@@ -5,268 +5,247 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Hava akımı sağlayan pervane",
-      "answer": "FAN",
+      "text": "Din kuralları kitabı",
+      "answer": "İLMİHÂL",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Siyah ile beyaz arası renk",
-      "answer": "GRİ",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Gözleri farklı renkte kedisiyle bilinen ilimiz",
-      "answer": "VAN",
+      "text": "Ceylan",
+      "answer": "AHU",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yanan ateşin dili",
-      "answer": "ALEV",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kripton'un simgesi",
-      "answer": "KR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yayla atılan ince silah",
-      "answer": "OK",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Öğrencinin çantasındaki yazı aracı",
-      "answer": "KALEM",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yetişkin erkek",
-      "answer": "ADAM",
-      "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Rütbesiz asker, nefer",
-      "answer": "ER",
-      "row": 6,
+      "text": "Bebeği doğurtan",
+      "answer": "EBE",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Söz verme",
+      "answer": "ANT",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yüz kızartan duygu",
-      "answer": "AR",
-      "row": 5,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Beşten sonra gelen sayı",
-      "answer": "ALTI",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kırmızıya çalan renk",
-      "answer": "AL",
-      "row": 7,
+      "text": "Pencere perdesi",
+      "answer": "STOR",
+      "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Rusça'da 'evet'",
-      "answer": "DA",
-      "row": 8,
+      "text": "Uçsuz geniş",
+      "answer": "ENGİN",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Üye",
+      "answer": "AZA",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "At yavrusu",
+      "answer": "TAY",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Motorlu taşıt",
-      "answer": "ARABA",
+      "text": "Normalden küçük",
+      "answer": "UFAK",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Lüks otel",
+      "answer": "PALAS",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Seslenme ünlemi",
+      "answer": "EY",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Liman kıyısı",
+      "answer": "RIHTIM",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bağlaç",
+      "answer": "Kİ",
       "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kokpitte uçağı yöneten kişi",
-      "answer": "PİLOT",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Attila'nın hükümdarı olduğu tarihi Türk topluluğu",
-      "answer": "HUN",
+      "text": "Sıradan, kalitesiz",
+      "answer": "ADİ",
       "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tatil günlerinden biri",
-      "answer": "PAZAR",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Beyaz, kara karşıtı",
-      "answer": "AK",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tufan gemisinin sahibi peygamber",
-      "answer": "NUH",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Mısır'dan geçen ırmak",
-      "answer": "NİL",
-      "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çay ve yemeklerde kullanılan kokulu bitki",
-      "answer": "NANE",
-      "row": 12,
+      "text": "Göz merceği",
+      "answer": "LENS",
+      "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "AB ülkelerinde kullanılan ortak para",
-      "answer": "AVRO",
-      "row": 0,
+      "text": "Üçgen başlı yılan",
+      "answer": "ENGEREK",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kara parçası",
+      "answer": "ADA",
+      "row": 11,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kör",
+      "answer": "AMA",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yönerge",
+      "answer": "TALİMAT",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Turizm başkenti ilimiz",
+      "answer": "ANTALYA",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Soğukta eli koruyan giysi",
-      "answer": "ELDİVEN",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
+      "text": "Kömür ateşliği",
+      "answer": "MANGAL",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gökyüzünün güçlü avcı kuşu",
-      "answer": "KARTAL",
-      "row": 3,
+      "text": "En iyisi",
+      "answer": "İDEAL",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Renk oyunuyla bilinen değerli taş",
-      "answer": "OPAL",
+      "text": "Yaşlı",
+      "answer": "İHTİYAR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Öznel",
+      "answer": "İNDİ",
       "row": 8,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Büyük erkek kardeş (halk ağzı)",
-      "answer": "AKA",
-      "row": 3,
-      "col": 3,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Sporda ileri hamle",
-      "answer": "ATAK",
-      "row": 7,
+      "text": "Zikir sözü",
+      "answer": "HU",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Radyum'un kimyasal simgesi",
-      "answer": "RA",
-      "row": 0,
-      "col": 5,
+      "text": "Seyrek karşıtı",
+      "answer": "SIK",
+      "row": 5,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tahıl deposu",
-      "answer": "AMBAR",
-      "row": 3,
-      "col": 5,
+      "text": "Ses dizisi",
+      "answer": "GAM",
+      "row": 9,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Türkiye'nin idari bölünme birimi",
-      "answer": "İL",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeşil yapraklı kış sebzesi",
-      "answer": "LAHANA",
+      "text": "Çıkar aldatmacası",
+      "answer": "HİLE",
       "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hoşluk",
+      "answer": "LETAFET",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bir ülkenin kadın hükümdarı",
-      "answer": "ECE",
+      "text": "Erler topluluğu",
+      "answer": "ERAT",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kahverengi ayı",
+      "answer": "BOZAYI",
       "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Koku alma organı",
-      "answer": "BURUN",
-      "row": 7,
+      "text": "Islaklık, yaşlık",
+      "answer": "NEM",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Avcının peşinde koştuğu şey",
-      "answer": "AV",
+      "text": "Öğrenme isteği",
+      "answer": "MERAK",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Pembemsi renkli bir balık türü",
-      "answer": "MERCAN",
-      "row": 3,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Helyum'un kimyasal simgesi",
-      "answer": "HE",
-      "row": 10,
+      "text": "Koruyucu yazı",
+      "answer": "MUSKA",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -274,35 +253,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 1
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 5,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 6
+      "row": 10,
+      "col": 0
     },
     {
-      "row": 6,
-      "col": 3
+      "row": 12,
+      "col": 7
     },
     {
-      "row": 6,
-      "col": 4
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "orta",

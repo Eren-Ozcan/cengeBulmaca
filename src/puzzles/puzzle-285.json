@@ -5,240 +5,198 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Ortodoks kiliselerinde bulunan kutsal tasvir",
-      "answer": "İKON",
+      "text": "Kitap bölümü",
+      "answer": "BAP",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kanıt",
+      "answer": "İSPAT",
       "row": 1,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "İğneyle yapılan ince süs işi",
-      "answer": "OYA",
-      "row": 1,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Etrafı suyla kaplı toprak",
-      "answer": "ADA",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dönümün onda biri olan ölçü",
-      "answer": "AR",
-      "row": 2,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "İsviçre'nin resmi para birimi",
-      "answer": "FRANK",
+      "text": "Ne olursa olsun",
+      "answer": "İLLA",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hayvan yemi olarak yetiştirilen bakliyat",
-      "answer": "ARAKA",
+      "text": "Akıtma oluğu",
+      "answer": "ARK",
+      "row": 3,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Baba karşıtı",
+      "answer": "ANA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yerleşim yeri",
+      "answer": "BELDE",
       "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Söz verme, ahit",
-      "answer": "ANT",
+      "text": "Öncesizlik",
+      "answer": "EZEL",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yüksek yer kabartısı",
-      "answer": "DAĞ",
+      "text": "İğrenme ünlemi",
+      "answer": "PÖF",
       "row": 5,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Element tablosunda Kalsiyum'un simgesi",
-      "answer": "CA",
+      "text": "Kenarları eşit dörtgen",
+      "answer": "KARE",
       "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Toplu taşıt",
+      "answer": "OTOBÜS",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bağlama",
+      "answer": "SAZ",
+      "row": 7,
       "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Üstünde yazı yazılan mobilya",
-      "answer": "MASA",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Havuç seven uzun kulaklı hayvan",
-      "answer": "TAVŞAN",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Rus dilinde olumlama sözü",
-      "answer": "DA",
-      "row": 7,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eksiksiz",
-      "answer": "TAM",
+      "text": "Yatak kasası",
+      "answer": "KARYOLA",
       "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Cıva için kullanılan kimyasal simge",
-      "answer": "HG",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İlave, ulama",
-      "answer": "EK",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İran'ın başkenti",
-      "answer": "TAHRAN",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Beklenmedik talihsiz olay",
-      "answer": "KAZA",
-      "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Topu takım arkadaşına aktarma",
-      "answer": "PAS",
+      "text": "Telefon sözü",
+      "answer": "ALO",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İlk ay",
+      "answer": "OCAK",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ses özelliği",
+      "answer": "TINI",
       "row": 11,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Marangozun işlediği malzeme",
-      "answer": "TAHTA",
-      "row": 6,
+      "text": "Rahatsız böcek",
+      "answer": "SİNEK",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çalışkanlığıyla bilinen böcek",
-      "answer": "KARINCA",
-      "row": 0,
+      "text": "Zaman aracı",
+      "answer": "SAAT",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İş merkezi",
+      "answer": "PLAZA",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Belirli bir şekli olmayan akışkan madde",
-      "answer": "GAZ",
-      "row": 8,
+      "text": "Hayâlı, utangaç",
+      "answer": "ARLI",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Duvarlarla ayrılmış ev bölümü",
-      "answer": "ODA",
+      "text": "Bilim kolu",
+      "answer": "DAL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ocakta kızartma yapılan kap",
-      "answer": "TAVA",
+      "text": "Toprak aşınması",
+      "answer": "EROZYON",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "'İşte' anlamında bir ünlem",
-      "answer": "HA",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Emile Zola'nın ünlü romanı",
-      "answer": "NANA",
-      "row": 0,
+      "text": "Yutulan ilaç",
+      "answer": "TABLET",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Askerlik yapan genç, nefer",
-      "answer": "ER",
-      "row": 8,
-      "col": 4,
+      "text": "Norveç'in başkenti",
+      "answer": "OSLO",
+      "row": 6,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kripton için kullanılan kimyasal simge",
-      "answer": "KR",
+      "text": "Yiğit, kahraman",
+      "answer": "ALP",
       "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Duvara delik açmakta kullanılan alet",
-      "answer": "MATKAP",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Portakal çiçeği kokan ilimiz",
-      "answer": "ADANA",
-      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sodyum'un kimyasal simgesi",
-      "answer": "NA",
-      "row": 9,
+      "text": "Tatlı karşıtı",
+      "answer": "ACI",
+      "row": 8,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bir seslenme sözü",
-      "answer": "YA",
+      "text": "İnce palto",
+      "answer": "PARDÖSÜ",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Hareketi sağlayan doku",
-      "answer": "KAS",
-      "row": 3,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Hediye",
-      "answer": "ARMAĞAN",
-      "row": 0,
+      "text": "Eski dilde köpük",
+      "answer": "KEF",
+      "row": 2,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Sivri son bölüm",
-      "answer": "UÇ",
-      "row": 8,
+      "text": "Gönderme, yönlendirme",
+      "answer": "SEVK",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -254,34 +212,42 @@
     },
     {
       "row": 0,
-      "col": 5
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
     },
     {
       "row": 0,
       "col": 6
     },
     {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 1,
+      "col": 8
+    },
+    {
       "row": 2,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 1
-    },
-    {
-      "row": 5,
-      "col": 4
+      "col": 5
     },
     {
       "row": 6,
-      "col": 0
+      "col": 6
     },
     {
       "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
       "col": 7
     },
     {
@@ -289,7 +255,11 @@
       "col": 7
     },
     {
-      "row": 10,
+      "row": 11,
+      "col": 5
+    },
+    {
+      "row": 11,
       "col": 7
     },
     {

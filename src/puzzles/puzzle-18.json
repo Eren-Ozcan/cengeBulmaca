@@ -5,191 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kıtanın batısındaki uzun dağ silsilesi",
-      "answer": "AND",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Birden sonra gelen sayı",
-      "answer": "İKİ",
-      "row": 2,
+      "text": "Endüstri",
+      "answer": "SANAYİ",
+      "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yirmi dört saatlik zaman dilimi",
-      "answer": "GÜN",
+      "text": "Şefkatli",
+      "answer": "SEVECEN",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Japon parası",
+      "answer": "YEN",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Osmanlı döneminde çok sevilen çiçek",
-      "answer": "LALE",
+      "text": "Sıkıntı, üzüntü",
+      "answer": "DERT",
       "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
+      "text": "Ara süresi",
+      "answer": "TATİL",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tugay-kolordu arası",
+      "answer": "TÜMEN",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Pembe şarap",
+      "answer": "ROZE",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
+      "row": 6,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gerçek",
+      "answer": "HAKİKAT",
+      "row": 7,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sakındırma sözü",
+      "answer": "CIS",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İpek böceği yuvası",
+      "answer": "KOZA",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Düşünme yetisi",
+      "answer": "ZİHİN",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Maç bölümü",
+      "answer": "SET",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sürat",
+      "answer": "HIZ",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Üst meclis",
+      "answer": "SENATO",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Baş kaldıran",
+      "answer": "ASİ",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
       "text": "Avcının kısmeti",
       "answer": "AV",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gemi yapım ve onarım yeri",
-      "answer": "DOK",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kripton'un kimyasal simgesi",
-      "answer": "KR",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Avukatların üye olduğu meslek örgütü",
-      "answer": "BARO",
-      "row": 5,
+      "row": 0,
       "col": 3,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Raketle oynanan spor",
-      "answer": "TENİS",
+      "text": "Kurallar belgesi",
+      "answer": "TÜZÜK",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gelinin yardımcısı",
+      "answer": "NEDİME",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Birden sonraki sayı",
+      "answer": "İKİ",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çabukluk",
+      "answer": "ACELE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Dini tasvir; simge",
+      "answer": "İKON",
       "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Baryum'un simgesi",
-      "answer": "BA",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Zaman aralığı, müddet",
-      "answer": "SÜRE",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gam dizisinin ilk notası",
-      "answer": "DO",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kıskaçlı, kuyruğunda zehir taşıyan böcek",
-      "answer": "AKREP",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Taraf, istikamet",
-      "answer": "YÖN",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Fındık rengi göz",
-      "answer": "ELA",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Galyum'un simgesi",
-      "answer": "GA",
-      "row": 2,
-      "col": 0,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ata dizisi, nesep",
-      "answer": "SOY",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuveyt ve Irak gibi ülkelerin para birimi",
-      "answer": "DİNAR",
+      "text": "Mekân; zemin",
+      "answer": "YER",
       "row": 0,
-      "col": 2,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Şair Nâzım Hikmet'in aile adı",
-      "answer": "RAN",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Mısır'dan geçen ırmak",
-      "answer": "NİL",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeni doğmuş çocuk",
-      "answer": "BEBEK",
+      "text": "Yalvarma, yakarma",
+      "answer": "NİYAZ",
       "row": 4,
-      "col": 4,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çukurova'nın büyük şehri",
-      "answer": "ADANA",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Do ile Mi arasındaki nota",
-      "answer": "RE",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Besinlerdeki enerji ölçüsü",
-      "answer": "KALORİ",
+      "text": "Peru parası",
+      "answer": "İNTİ",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Başka ülkeden kişi",
-      "answer": "EL",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Çizgili, kareli dokuma",
-      "answer": "EKOSE",
-      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Farsça kökenli eski 'ayak' sözcüğü",
-      "answer": "PA",
-      "row": 8,
+      "text": "Paylama, azarlama",
+      "answer": "İTAP",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -197,50 +190,30 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 3
-    },
-    {
-      "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 6,
       "col": 0
     },
     {
-      "row": 6,
+      "row": 0,
       "col": 1
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 7
     },
     {
       "row": 7,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 2
-    },
-    {
-      "row": 7,
+      "row": 10,
       "col": 6
     }
   ],

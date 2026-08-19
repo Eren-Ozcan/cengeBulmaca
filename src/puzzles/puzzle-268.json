@@ -5,225 +5,169 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kilide uyan metal parça",
-      "answer": "ANAHTAR",
+      "text": "Pasaklı",
+      "answer": "ÇAPAÇUL",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Renksiz, kokusuz içecek",
-      "answer": "SU",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Rusların 'evet' demesi",
-      "answer": "DA",
+      "text": "Şehirden küçük yer",
+      "answer": "KÖY",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
-      "row": 2,
-      "col": 5,
+      "text": "Gelişmemiş, iptidai",
+      "answer": "İLKEL",
+      "row": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Baryum'un kimyasal simgesi",
-      "answer": "BA",
+      "text": "Kurutulmuş meyve",
+      "answer": "KAK",
       "row": 3,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kimyada Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kötü karşıtı",
-      "answer": "İYİ",
+      "text": "Yunan rakısı",
+      "answer": "UZO",
       "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yabancı paranın değişim oranı",
-      "answer": "KUR",
+      "text": "Üst uzuv",
+      "answer": "KOL",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ateşin rengi",
-      "answer": "AL",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Dernek veya kurum üyesi",
-      "answer": "AZA",
+      "text": "Modası geçmiş",
+      "answer": "DEMODE",
       "row": 6,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İki niceliğin karşılaştırılması",
-      "answer": "ORAN",
+      "text": "Devrilme",
+      "answer": "ALABORA",
       "row": 7,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Payitahtın eski adlarından biri",
-      "answer": "ASİTANE",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İğneyle vücuda verilen bağışıklık maddesi",
-      "answer": "AŞI",
+      "text": "Üretim gideri",
+      "answer": "MALİYET",
       "row": 8,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Kafa; önder",
-      "answer": "BAŞ",
+      "text": "Sıradan, kalitesiz",
+      "answer": "ADİ",
       "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Süt hayvanı",
+      "answer": "İNEK",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Elektrik yokken yakılan",
+      "answer": "MUM",
+      "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kripton'un simgesi",
-      "answer": "KR",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 1,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "İlenme, yakınma ünlemi",
-      "answer": "AH",
-      "row": 8,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Altın'ın simgesi",
-      "answer": "AU",
+      "text": "Kar kütlesi",
+      "answer": "ÇIĞ",
       "row": 0,
-      "col": 1,
+      "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Işıltı, ziya",
-      "answer": "NUR",
+      "text": "Nüfuzlu kimse",
+      "answer": "KODAMAN",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Pişmiş sıvı yemek",
-      "answer": "AŞ",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tek, yalnız",
-      "answer": "BİR",
-      "row": 2,
+      "text": "Bayağı, olağan",
+      "answer": "ALELADE",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Aralıksız, seyrek karşıtı",
-      "answer": "SIK",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dört yanı suyla çevrili kara",
-      "answer": "ADA",
+      "text": "Yarı değerli taş",
+      "answer": "AKİK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "'İşte' anlamında bir ünlem",
-      "answer": "HA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Renksiz, kokusuz atmosfer gazı",
-      "answer": "AZOT",
+      "text": "Sahip",
+      "answer": "MALİK",
       "row": 5,
       "col": 3,
-      "arrow": "right-down"
+      "arrow": "down"
     },
     {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 3,
+      "text": "Kurak alan",
+      "answer": "ÇÖL",
+      "row": 0,
       "col": 4,
-      "arrow": "right-down"
+      "arrow": "down"
     },
     {
-      "text": "Karayolunda kullanılan taşıt",
-      "answer": "ARABA",
+      "text": "Giriş holü",
+      "answer": "LOBİ",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gece dinlenmesi",
+      "answer": "UYKU",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hoşnut olma",
+      "answer": "DOYUM",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Alan ölçü birimi (100 m²)",
-      "answer": "AR",
-      "row": 0,
+      "text": "Bakmadan",
+      "answer": "EZBERE",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Şaşkınlık bildiren ünlem",
-      "answer": "YA",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Temel, esas",
-      "answer": "ANA",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Noktalarla bakılan bir fal türü",
-      "answer": "REMİL",
-      "row": 0,
+      "text": "Telefon sözü",
+      "answer": "ALO",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İçe doğan mutluluk hâli",
-      "answer": "NEŞE",
+      "text": "Madde parçacığı",
+      "answer": "ATOM",
       "row": 6,
       "col": 7,
       "arrow": "down"
@@ -232,7 +176,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
@@ -240,30 +184,26 @@
     },
     {
       "row": 0,
-      "col": 5
+      "col": 6
     },
     {
-      "row": 4,
-      "col": 3
+      "row": 0,
+      "col": 7
     },
     {
-      "row": 6,
-      "col": 0
+      "row": 2,
+      "col": 1
     },
     {
-      "row": 7,
-      "col": 0
+      "row": 5,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 3
-    },
-    {
-      "row": 10,
       "col": 4
     },
     {
-      "row": 10,
+      "row": 9,
       "col": 6
     }
   ],

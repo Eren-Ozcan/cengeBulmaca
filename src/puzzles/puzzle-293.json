@@ -5,198 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Şarap, içki (eski dilde)",
-      "answer": "BADE",
+      "text": "İlçe",
+      "answer": "KAZA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Unutulmayan öfke",
-      "answer": "KİN",
+      "text": "Zıplama sesi",
+      "answer": "ZIP",
       "row": 0,
       "col": 5,
       "arrow": "down-right"
     },
     {
-      "text": "Cam (eski dilde)",
-      "answer": "SIRÇA",
+      "text": "İçkili kimse",
+      "answer": "SARHOŞ",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yanma olayı, od",
-      "answer": "ATEŞ",
+      "text": "Sermaye koyma",
+      "answer": "YATIRIM",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir şeye gönülden razı olma",
-      "answer": "RIZA",
+      "text": "Yersiz davranış",
+      "answer": "GAF",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Onarım parçası",
+      "answer": "YAMA",
       "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Güç, derman",
+      "answer": "TAKAT",
+      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 4,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Evlerde beslenen tüylü hayvan",
-      "answer": "KEDİ",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Göz bebeğine yerleştirilen mercek",
-      "answer": "LENS",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İçine bir şey konan nesne",
-      "answer": "KAP",
+      "text": "Açık, apaçık",
+      "answer": "ALENİ",
       "row": 6,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Radyum'un simgesi",
-      "answer": "RA",
+      "text": "Üzüm şırasından tatlı",
+      "answer": "ŞİRE",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bağış amaçlı toplanan para",
-      "answer": "İANE",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kaşıkla birlikte kullanılan sofra aracı",
-      "answer": "ÇATAL",
+      "text": "Ara bozuculuk",
+      "answer": "FESAT",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Utanma duygusu",
-      "answer": "AR",
+      "text": "Deniz üssü",
+      "answer": "ÜS",
       "row": 8,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Galyum'un simgesi",
-      "answer": "GA",
+      "text": "Doğu ilimiz",
+      "answer": "VAN",
       "row": 9,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gürcistan'ın başkenti",
-      "answer": "TİFLİS",
+      "text": "Kışın uyuyan hayvan",
+      "answer": "AYI",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Binme aracı",
+      "answer": "BİNEK",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Temel, esas",
-      "answer": "ANA",
+      "text": "En büyük kıta",
+      "answer": "ASYA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Simgesi adalet olan burç",
-      "answer": "TERAZİ",
-      "row": 4,
+      "text": "Ücretsiz yemekevi",
+      "answer": "AŞEVİ",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Direngenlik, dediğinden dönmeme",
-      "answer": "İNAT",
-      "row": 4,
+      "text": "İrade zayıflığı",
+      "answer": "ZAAF",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ortaya konan yapıt",
-      "answer": "ESER",
+      "text": "Dil",
+      "answer": "LİSAN",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir şeyin gerisi",
+      "answer": "ART",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Aydınlık veren enerji",
-      "answer": "IŞIK",
+      "text": "Nağme",
+      "answer": "TERANE",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyük ihanet",
+      "answer": "HIYANET",
       "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Alaka",
-      "answer": "İLGİ",
+      "text": "İstemeyerek",
+      "answer": "ZORAKİ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Işık yayma",
+      "answer": "IŞIMA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce kıl",
+      "answer": "TÜY",
       "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Kripton'un simgesi",
-      "answer": "KR",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Öğrenme ve kavrama yetisi",
-      "answer": "ZEKA",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Üstün başarılı kimse",
-      "answer": "AS",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dış karşıtı, dahil",
-      "answer": "İÇ",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Seyhan Nehri kıyısındaki ilimiz",
-      "answer": "ADANA",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırıtma, cilvelenme",
-      "answer": "NAZ",
-      "row": 0,
+      "text": "Satrançta yenilgi",
+      "answer": "MAT",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Hardal gazı olarak da bilinen zehirli gaz",
-      "answer": "İPERİT",
-      "row": 4,
+      "text": "Gizli bilgi",
+      "answer": "SIR",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -204,27 +190,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 4
     },
     {
-      "row": 2,
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 6,
+      "col": 7
     },
     {
-      "row": 9,
-      "col": 2
+      "row": 7,
+      "col": 5
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 10,
+      "col": 5
     },
     {
       "row": 10,

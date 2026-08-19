@@ -5,331 +5,247 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Satranç taşlarından biri, L şeklinde hareket eder",
-      "answer": "AT",
+      "text": "Kilise zili",
+      "answer": "ÇAN",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Divan edebiyatında su",
-      "answer": "AB",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Helyum'un kimyasal simgesi",
-      "answer": "HE",
-      "row": 0,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çekicilik katan tavır",
-      "answer": "EDA",
+      "text": "Üçten önceki sayı",
+      "answer": "İKİ",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir olayı hatırlatan yapı",
-      "answer": "ANIT",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Amfitiyatro benzeri alan",
-      "answer": "ARENA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Belirti, emare",
-      "answer": "İZ",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Çinko'nun simgesi",
-      "answer": "ZN",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Beğenilen, tatlı",
-      "answer": "HOŞ",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Letonya'nın başkenti",
-      "answer": "RİGA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mahkemelik anlaşmazlık",
-      "answer": "DAVA",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğum uzmanı sağlık görevlisi",
-      "answer": "EBE",
-      "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Dünyanın en uzun nehirlerinden biri",
-      "answer": "NİL",
-      "row": 6,
+      "text": "Yürüyüş komutu",
+      "answer": "ARŞ",
+      "row": 2,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Yorgunluk bildiren ünlem",
-      "answer": "OF",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Kedi sesi",
+      "answer": "MİYAV",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Arka, geri",
-      "answer": "ART",
-      "row": 7,
+      "text": "Satılan mal",
+      "answer": "META",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Görevi yapma",
+      "answer": "İFA",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Halk deyişi",
+      "answer": "ATASÖZÜ",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Buluş belgesi",
+      "answer": "PATENT",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Seçenek bildiren bağlaç",
-      "answer": "YA",
+      "text": "Erkek koyun",
+      "answer": "KOÇ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayır sözü",
+      "answer": "YO",
       "row": 7,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Çok karşıtı",
-      "answer": "AZ",
-      "row": 8,
+      "text": "Beşinci ay",
+      "answer": "MAYIS",
+      "row": 7,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Nehir kenarındaki verimli düzlük",
-      "answer": "OVA",
+      "text": "Işıltı, parlaklık",
+      "answer": "FER",
       "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sarı veya mor renkli çekirdekli meyve",
-      "answer": "ERİK",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "'Nedir' sorusunun kısası",
-      "answer": "NE",
-      "row": 9,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Tarladaki tahıl",
-      "answer": "EKİN",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hiçbir şeyi noksan olmayan",
-      "answer": "TAM",
-      "row": 10,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kağıt üzerine basılan günlük yayın",
-      "answer": "GAZETE",
+      "text": "Korku ünlemi",
+      "answer": "ABO",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bağ, münasebet",
+      "answer": "İLİŞKİ",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yer bilgisi",
+      "answer": "ADRES",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "'İle' anlamında bağlaç",
-      "answer": "VE",
+      "text": "Nam, şöhret",
+      "answer": "AD",
       "row": 11,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Hükümdar vekili",
+      "answer": "NAİP",
+      "row": 12,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dilbilgisinde kelimeye eklenen parça",
-      "answer": "EK",
-      "row": 12,
-      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Parlak, kutsal ışık",
-      "answer": "NUR",
+      "text": "Yunan rakısı",
+      "answer": "UZO",
       "row": 12,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Ölçüye göre giysi diken kişi",
-      "answer": "TERZİ",
-      "row": 0,
+      "text": "Tanıtıcı işaret",
+      "answer": "MARKA",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Mi ile Sol arasındaki nota",
-      "answer": "FA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Adalarıyla ünlü denizimiz",
-      "answer": "EGE",
+      "text": "Yaşam gücü",
+      "answer": "CAN",
       "row": 9,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İki tarafın eşit ağırlıkta olması",
-      "answer": "DENGE",
-      "row": 1,
+      "text": "İyilik, lütuf",
+      "answer": "NİMET",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Öğrenme ve kavrama yetisi",
-      "answer": "ZEKA",
+      "text": "İğne süsü",
+      "answer": "OYA",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Rusça 'evet'",
+      "answer": "DA",
+      "row": 10,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kitap satan",
+      "answer": "KİTAPÇI",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kocaman",
+      "answer": "İRİ",
+      "row": 9,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Alım satım ortamı",
+      "answer": "PİYASA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kök içeceği",
+      "answer": "SALEP",
       "row": 7,
-      "col": 2,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Göz açıp kapayana kadarki süre",
-      "answer": "AN",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaba, kalın yün kumaş",
-      "answer": "ABA",
+      "text": "Uzak taraf",
+      "answer": "ÖTE",
       "row": 4,
-      "col": 3,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Doğu Karadeniz'in yeşil ilimiz",
-      "answer": "RİZE",
+      "text": "Tekrar isteği",
+      "answer": "BİS",
       "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Iztırap ünlemi",
-      "answer": "AH",
-      "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Rütbesiz asker, nefer",
-      "answer": "ER",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ahırda beslenen süt hayvanı",
-      "answer": "İNEK",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Baryum'un simgesi",
-      "answer": "BA",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yanma olayının eski adı",
-      "answer": "OD",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Aç karşıtı, doymuş",
-      "answer": "TOK",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Evlilik öncesi söz kesme töreni",
-      "answer": "NİŞAN",
+      "text": "Tavan lambası",
+      "answer": "AVİZE",
       "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Vücudu kaplayan yüzey",
-      "answer": "TEN",
+      "text": "Su dökülme sesi",
+      "answer": "FOŞ",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ateşleme kapsülü",
+      "answer": "FÜNYE",
+      "row": 3,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Toprağı eş",
+      "answer": "KAZ",
       "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sürat",
-      "answer": "HIZ",
-      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Tuna kıyısındaki başkent",
-      "answer": "VİYANA",
-      "row": 4,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırmızı veya beyazı olan besin",
-      "answer": "ET",
+      "text": "Taşınabilir nesneler",
+      "answer": "EŞYA",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Babanın kız kardeşi olan akraba",
-      "answer": "HALA",
-      "row": 3,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Buyruk",
-      "answer": "EMİR",
-      "row": 8,
+      "text": "Araç ön gözü",
+      "answer": "TORPİDO",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -337,7 +253,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
@@ -345,15 +261,43 @@
     },
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 0
     },
     {
       "row": 9,
       "col": 0
     },
     {
-      "row": 11,
-      "col": 7
+      "row": 10,
+      "col": 0
     }
   ],
   "difficulty": "orta",

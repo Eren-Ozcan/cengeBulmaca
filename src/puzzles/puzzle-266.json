@@ -5,163 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Birbirine karışık renkli",
-      "answer": "ALA",
+      "text": "Gaz karışımı",
+      "answer": "HAVA",
       "row": 1,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bir bakliyat türü",
-      "answer": "ARAKA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Rütbesiz asker, nefer",
-      "answer": "ER",
-      "row": 2,
+      "text": "Şalvar bağı",
+      "answer": "UÇKUR",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Babanın kız kardeşi",
-      "answer": "HALA",
+      "text": "Harflerle anlatım",
+      "answer": "YAZI",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Eskiden kaftan yapımında kullanılan kumaş",
-      "answer": "ABA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 4,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Terazi simgesiyle anılan kavram",
-      "answer": "ADALET",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ülkenin idari bölümü",
-      "answer": "İL",
-      "row": 6,
+      "text": "İşlenmiş hayvan derisi",
+      "answer": "GÖN",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Temel niteliğinde olan",
-      "answer": "ANA",
-      "row": 7,
+      "text": "Dört basamaklı ilk sayı",
+      "answer": "BİN",
+      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Delikli, seyrek dokunmuş kumaş",
-      "answer": "ETAMİN",
-      "row": 8,
-      "col": 0,
+      "text": "Ağacın kolu",
+      "answer": "DAL",
+      "row": 5,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Hücum, hamle",
-      "answer": "ATAK",
-      "row": 8,
+      "text": "Diri karşıtı",
+      "answer": "ÖLÜ",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Element tablosunda Selenyum'un simgesi",
-      "answer": "SE",
+      "text": "İdealist",
+      "answer": "ÜLKÜCÜ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bölüm",
+      "answer": "KISIM",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Frekans birimi",
+      "answer": "HERTZ",
       "row": 9,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Boşluk, mesafe",
-      "answer": "ARA",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Araç, avadanlık",
-      "answer": "ALET",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Haya, utanç duygusu",
-      "answer": "AR",
+      "text": "Doymak bilmeyen",
+      "answer": "AÇGÖZLÜ",
       "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Egemen toprak",
+      "answer": "ÜLKE",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tantal'ın kimyasal simgesi",
-      "answer": "TA",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarma yapılan kış sebzesi",
-      "answer": "LAHANA",
+      "text": "Mizaç, tabiat",
+      "answer": "HUY",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Beyaz, kara karşıtı",
-      "answer": "AK",
-      "row": 7,
+      "text": "Şehir dışı",
+      "answer": "KIR",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Büyük erkek kardeş (halk ağzı)",
-      "answer": "AKA",
+      "text": "Otomobil",
+      "answer": "ARABA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mikroskopta kullanılan cam",
-      "answer": "LAM",
-      "row": 5,
+      "text": "Alt karşıtı",
+      "answer": "ÜST",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kırmızıya çalan renk",
-      "answer": "AL",
-      "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kortta raketle oynanan spor",
-      "answer": "TENİS",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Payitahtın eski adlarından biri",
-      "answer": "ASİTANE",
+      "text": "Teneffüs habercisi",
+      "answer": "ZİL",
       "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yağ sesi",
+      "answer": "CIZ",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ani saldırı, hücum",
+      "answer": "AKIN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Patlama sesi",
+      "answer": "GÜM",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -173,35 +152,19 @@
     },
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
       "col": 5
     },
     {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
+      "row": 8,
       "col": 0
     },
     {
-      "row": 1,
+      "row": 9,
       "col": 6
-    },
-    {
-      "row": 4,
-      "col": 4
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 2
     }
   ],
   "difficulty": "orta",

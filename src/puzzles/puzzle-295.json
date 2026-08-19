@@ -5,261 +5,219 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Marangozun işlediği malzeme",
-      "answer": "TAHTA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Lityum'un simgesi",
-      "answer": "Lİ",
+      "text": "Ermiş, veli",
+      "answer": "EREN",
       "row": 1,
-      "col": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Türkiye'nin başkenti",
-      "answer": "ANKARA",
+      "text": "Halk nefeslisi",
+      "answer": "MEY",
+      "row": 0,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Temsilci",
+      "answer": "DELEGE",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Un veya irmikle yapılan tatlı",
-      "answer": "HELVA",
+      "text": "Demlenen içecek",
+      "answer": "ÇAY",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sıcaklık bildiren eski söz",
-      "answer": "HAR",
+      "text": "Topluluk",
+      "answer": "ZÜMRE",
       "row": 3,
-      "col": 5,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Iztırap ünlemi",
-      "answer": "AH",
+      "text": "Geri verme",
+      "answer": "İADE",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Çabucak geçen zaman dilimi",
-      "answer": "AN",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kendine özgü nitelikteki örnek",
-      "answer": "TİP",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sabahın ilk ışıkları",
-      "answer": "TAN",
+      "text": "Yapma yüz",
+      "answer": "MASKE",
       "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Müzik sesi işareti",
-      "answer": "NOTA",
-      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Baş kaldıran",
-      "answer": "ASİ",
+      "text": "Açık bölüm",
+      "answer": "TERAS",
       "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Özen",
+      "answer": "İTİNA",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hareketsiz, işlevsiz",
+      "answer": "ATIL",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Evin bölmesi",
+      "answer": "ODA",
+      "row": 8,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "İskambilde birli kağıt",
-      "answer": "AS",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Radyum için kullanılan kimyasal simge",
-      "answer": "RA",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Birbirine denk olan",
-      "answer": "EŞ",
-      "row": 7,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Vücudu kaplayan örtü",
-      "answer": "DERİ",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Baş",
-      "answer": "KAFA",
+      "text": "Oymak, kabile",
+      "answer": "AŞİRET",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kesin olmayan düşünce",
-      "answer": "ZAN",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Mi ile Sol arasındaki nota",
-      "answer": "FA",
+      "text": "Kül rengi",
+      "answer": "GRİ",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İmara açık boş toprak",
-      "answer": "ARSA",
+      "text": "Kurum hizmetlisi",
+      "answer": "ODACI",
       "row": 10,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Element tablosunda Çinko'nun simgesi",
-      "answer": "ZN",
+      "text": "Koza ipliği",
+      "answer": "İPEK",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cilt, deri",
-      "answer": "TEN",
+      "text": "Fırında pişen tatlı",
+      "answer": "KEK",
       "row": 11,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Gümüş balığı",
-      "answer": "ATERİNA",
+      "text": "İşve, naz",
+      "answer": "EDA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bir kümes hayvanı",
-      "answer": "KAZ",
-      "row": 8,
+      "text": "Alıcı",
+      "answer": "MÜŞTERİ",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Mektup ve paket taşıyan kurum",
-      "answer": "POSTA",
-      "row": 4,
+      "text": "Oy (eski dilde)",
+      "answer": "REY",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kızartma kabı",
-      "answer": "TAVA",
+      "text": "Sicim, halat",
+      "answer": "İP",
+      "row": 9,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Oyunda sıra",
+      "answer": "EL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bir görevi tamamlama",
-      "answer": "İFA",
-      "row": 7,
+      "text": "Silahla ele geçirme",
+      "answer": "İSTİLA",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kilide uyan metal parça",
-      "answer": "ANAHTAR",
+      "text": "Kibarlık",
+      "answer": "NEZAKET",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ön karşıtı yön",
-      "answer": "ART",
+      "text": "Ani sarsıntı",
+      "answer": "ŞOK",
       "row": 8,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İsim",
-      "answer": "AD",
-      "row": 6,
+      "text": "Geyik derisi",
+      "answer": "GÜDERİ",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 9,
+      "text": "İlkel benlik",
+      "answer": "İD",
+      "row": 8,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sarma yapılan kış sebzesi",
-      "answer": "LAHANA",
+      "text": "Süt organı",
+      "answer": "MEME",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Müezzinin okuduğu çağrı",
-      "answer": "EZAN",
-      "row": 7,
+      "text": "Su geçirmez mont",
+      "answer": "ANORAK",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Farsça konuşulan komşu ülke",
-      "answer": "İRAN",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Mevsim dışı yetiştiriciliğin yapıldığı camlık",
-      "answer": "SERA",
+      "text": "Yalnızca",
+      "answer": "SADECE",
       "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Haya, utanç duygusu",
-      "answer": "AR",
-      "row": 1,
+      "text": "Yankı",
+      "answer": "EKO",
+      "row": 2,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Moldova'nın en büyük şehri",
-      "answer": "KİŞİNEV",
-      "row": 4,
+      "text": "Kullanılmış madde",
+      "answer": "ATIK",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -267,7 +225,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
@@ -275,19 +233,31 @@
     },
     {
       "row": 0,
+      "col": 7
+    },
+    {
+      "row": 0,
       "col": 8
     },
     {
-      "row": 8,
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 4,
       "col": 0
     },
     {
-      "row": 10,
+      "row": 4,
       "col": 7
     },
     {
-      "row": 11,
-      "col": 7
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 8
     }
   ],
   "difficulty": "kolay",

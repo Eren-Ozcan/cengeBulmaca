@@ -5,231 +5,186 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kurum, duman lekesi",
-      "answer": "İS",
+      "text": "Uğur getirdiği sanılan",
+      "answer": "NAL",
       "row": 0,
-      "col": 0,
+      "col": 5,
       "arrow": "down-right"
     },
     {
-      "text": "Askeri birlik türü",
-      "answer": "TABUR",
-      "row": 1,
-      "col": 2,
+      "text": "Tropik yeşil meyve",
+      "answer": "AVOKADO",
+      "row": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Denize doğru uzanan kara çıkıntısı",
-      "answer": "BURUN",
-      "row": 2,
+      "text": "Su geçirmez mont",
+      "answer": "ANORAK",
+      "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Şarkılı sahne oyunu",
-      "answer": "OPERA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bedeni yaşatan güç",
-      "answer": "CAN",
+      "text": "Teklif",
+      "answer": "ÖNERİ",
       "row": 4,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir işaret sıfatı",
-      "answer": "ŞU",
-      "row": 4,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çekicilik katan tavır",
-      "answer": "EDA",
+      "text": "Islaklık, yaşlık",
+      "answer": "NEM",
       "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kör kimse",
-      "answer": "AMA",
+      "text": "Alaylı anlatım",
+      "answer": "İRONİ",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Alanında en iyi olan kişi",
-      "answer": "AS",
+      "text": "Notaların sonuncusu",
+      "answer": "Sİ",
       "row": 6,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Alaca, benekli renk",
-      "answer": "ALA",
+      "text": "Yetişkin",
+      "answer": "ERİŞKİN",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dede, cet",
-      "answer": "ATA",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Çocuğun çocuğu",
-      "answer": "TORUN",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Masallardaki iri yaratık",
-      "answer": "DEV",
+      "text": "Nal çakan",
+      "answer": "NALBANT",
       "row": 8,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "İnsan derisi",
-      "answer": "TEN",
+      "text": "İşin ehli",
+      "answer": "USTA",
       "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Islaklığa yol açan hava koşulu",
-      "answer": "NEM",
-      "row": 10,
+      "text": "Çaba, uğraş",
+      "answer": "EMEK",
+      "row": 9,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Dilin algıladığı duyum",
-      "answer": "TAT",
+      "text": "Öç isteği",
+      "answer": "KİN",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Platin'in simgesi",
-      "answer": "PT",
-      "row": 2,
+      "text": "Tahsil",
+      "answer": "ÖĞRENİM",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İşlenerek metale dönüşen cevher",
-      "answer": "MADEN",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Berilyum'un kimyasal simgesi",
-      "answer": "BE",
+      "text": "Doğu ilimiz",
+      "answer": "VAN",
       "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Omuza alınan örtü",
-      "answer": "ŞAL",
+      "text": "Uzaktaki yer",
+      "answer": "ORA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kumaştan başlık",
+      "answer": "BONE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Mısır'dan geçen ırmak",
+      "answer": "NİL",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Köz, ateş",
+      "answer": "KOR",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Resmî 'bu'",
+      "answer": "İŞBU",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce, zarif",
+      "answer": "NARİN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Koruyucu başlık",
+      "answer": "KASK",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kara parçası",
+      "answer": "ADA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Hafif yel",
+      "answer": "ESİNTİ",
       "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İki kelimeyi birleştiren bağlaç",
-      "answer": "VE",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sirke ve tuzda bekletilen sebze",
-      "answer": "TURŞU",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dört nala koşan hayvan",
-      "answer": "AT",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tiyatroda perde arası",
-      "answer": "ARA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeşil, küçük bitki",
-      "answer": "OT",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "En yakındaki şeyi belirten zamir",
-      "answer": "BU",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Korkusuzluk, yiğitlik",
-      "answer": "CESARET",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ekmek yapımında kullanılan toz madde",
-      "answer": "UN",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kişiye verilen isim",
-      "answer": "AD",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Orta Avrupa'dan geçen büyük nehir",
-      "answer": "TUNA",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Çocuğun annesi",
-      "answer": "ANA",
-      "row": 2,
+      "text": "Kanal havuzu",
+      "answer": "LOK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bir bakışta geçen süre",
-      "answer": "AN",
-      "row": 6,
+      "text": "Yakasız gömlek",
+      "answer": "MİNTAN",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
     {
       "row": 0,
       "col": 1
@@ -240,15 +195,23 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 4
     },
     {
-      "row": 4,
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 1
+    },
+    {
+      "row": 3,
       "col": 0
     },
     {
       "row": 9,
-      "col": 7
+      "col": 2
     }
   ],
   "difficulty": "orta",

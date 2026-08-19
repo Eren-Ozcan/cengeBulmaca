@@ -5,233 +5,198 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Yer sarsıntısı",
-      "answer": "DEPREM",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Haya, utanç duygusu",
-      "answer": "AR",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kullanım karşılığı ödenen para",
-      "answer": "KİRA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Japon şiiri, türküsü",
-      "answer": "UTA",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kabuğu sert, taneli kış meyvesi",
-      "answer": "NAR",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Basınca ses çıkaran kapı aracı",
-      "answer": "ZİL",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğru olmayan beyan",
-      "answer": "YALAN",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sert, büyük taş parçası",
-      "answer": "KAYA",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Salonun özel ayrılmış bölmesi",
-      "answer": "LOCA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gam dizisinin ilk notası",
-      "answer": "DO",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bazı Latin Amerika ülkelerinin para birimi",
-      "answer": "PESO",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Rus dilinde olumlama sözü",
-      "answer": "DA",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Deniz kabuklusundan çıkan parlak tane",
-      "answer": "İNCİ",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir şeyin nihayeti",
-      "answer": "SON",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yardım için toplanan para",
-      "answer": "İANE",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tarladaki tahıl",
-      "answer": "EKİN",
+      "text": "Zarar ihtimali",
+      "answer": "TEHLİKE",
       "row": 0,
       "col": 1,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Şifre; program yazılan metin",
-      "answer": "KOD",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tramvayın üzerinde ilerlediği hat",
-      "answer": "RAY",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Kobalt'ın simgesi",
-      "answer": "CO",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalsiyum'un simgesi",
-      "answer": "CA",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İri taneli bezelye",
-      "answer": "ARAKA",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İnanç sistemi",
-      "answer": "DİN",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Aile ocağı",
-      "answer": "EV",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Lantan'ın simgesi",
-      "answer": "LA",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski dilde ayak",
-      "answer": "PA",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Gök cisimlerinin bulunduğu sonsuz boşluk",
-      "answer": "UZAY",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Akropolis'in bulunduğu şehir",
-      "answer": "ATİNA",
+      "text": "Can koruyucu",
+      "answer": "FEDAİ",
       "row": 1,
-      "col": 6,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Beden eğitimi etkinliği",
-      "answer": "SPOR",
+      "text": "Yayla atılan",
+      "answer": "OK",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ara bozan",
+      "answer": "FİTNECİ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Işık saçan şenlik",
+      "answer": "MAYTAP",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Üniversite öğreticisi",
+      "answer": "OKUTMAN",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Net karşıtı",
+      "answer": "FLU",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ansızın, beklenmedik",
+      "answer": "ANİ",
       "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kızıl gezegen",
+      "answer": "MARS",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Simsiyah",
+      "answer": "KAPKARA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Balık tutma ağı",
+      "answer": "DALYAN",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Baş kaldıran",
+      "answer": "ASİ",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Evre, safha",
+      "answer": "FAZ",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Zilli çalgı",
+      "answer": "TEF",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dar karşıtı",
+      "answer": "BOL",
+      "row": 5,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Denizin ortasındaki kara",
+      "answer": "ADA",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Eylem",
+      "answer": "EDİM",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gizli plan",
+      "answer": "KUMPAS",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapılan yanlış",
+      "answer": "HATA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Akılla ilgili",
+      "answer": "AKLİ",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kahverengi kömür",
+      "answer": "LİNYİT",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tren yolu",
+      "answer": "RAY",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırmızı besin",
+      "answer": "ET",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Gider",
+      "answer": "MASRAF",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok iri",
+      "answer": "KOCAMAN",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İki kıtayı ayıran Rusya'daki dağlar",
-      "answer": "URAL",
+      "text": "Anne",
+      "answer": "ANA",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Takım, kadro",
+      "answer": "EKİP",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İtalya'nın en uzun nehri",
-      "answer": "PO",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Merak bildiren soru sözcüğü",
-      "answer": "NE",
-      "row": 9,
+      "text": "Süs oyuğu",
+      "answer": "NİŞ",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -239,35 +204,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 0
     },
     {
       "row": 0,
       "col": 5
     },
     {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 5,
+      "row": 4,
       "col": 0
     },
     {
       "row": 5,
-      "col": 7
-    },
-    {
-      "row": 7,
-      "col": 5
+      "col": 3
     },
     {
       "row": 9,
-      "col": 5
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "kolay",

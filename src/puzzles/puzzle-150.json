@@ -5,275 +5,219 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Seçenek bildiren bağlaç",
-      "answer": "YA",
+      "text": "Tropik çayır",
+      "answer": "SAVANA",
       "row": 1,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Miktar bildiren sözcük",
-      "answer": "ADET",
-      "row": 0,
-      "col": 5,
+      "text": "Yönetme",
+      "answer": "İDARE",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Köpek",
+      "answer": "İT",
+      "row": 1,
+      "col": 7,
       "arrow": "down-right"
     },
     {
-      "text": "Havanın büyük bölümünü oluşturan gaz",
-      "answer": "AZOT",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bacağın yere basan bölümü",
-      "answer": "AYAK",
+      "text": "Kabuklu güz meyvesi",
+      "answer": "NAR",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yanma olayının eski adı",
-      "answer": "OD",
-      "row": 2,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Fazladan eklenen kısım",
-      "answer": "EK",
+      "text": "Dostluk bağlılığı",
+      "answer": "VEFA",
       "row": 3,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Yemek yemede kullanılan çatallı araç",
-      "answer": "ÇATAL",
+      "text": "Şu hâlde, artık",
+      "answer": "İMDİ",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eksiksiz",
+      "answer": "TAM",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Alkollü içecek",
+      "answer": "İÇKİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Rüzgâr bezi",
+      "answer": "YELKEN",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Karışık renkli",
+      "answer": "ALACA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İsyankâr",
+      "answer": "ASİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yeni karşıtı",
+      "answer": "ESKİ",
+      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Temizlik maddesi",
-      "answer": "SABUN",
-      "row": 5,
+      "text": "Yarı değerli taş",
+      "answer": "AKİK",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nikel için kullanılan kimyasal simge",
-      "answer": "Nİ",
-      "row": 5,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Fırında pişen yassı ekmek türü",
-      "answer": "PİDE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Su içmede kullanılan küçük kap",
-      "answer": "TAS",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Fasıla",
-      "answer": "ARA",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Nurdan yaratıldığına inanılan varlık",
-      "answer": "MELEK",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üstü kapalı anlatma",
-      "answer": "İMA",
-      "row": 8,
+      "text": "Yakıcı tat",
+      "answer": "ACI",
+      "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Fırında pişen tatlı çörek",
-      "answer": "KEK",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Direngenlik, dediğinden dönmeme",
-      "answer": "İNAT",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Web üzerinde yayın yapan sayfa",
-      "answer": "SİTE",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yanardağdan çıkan erimiş kayaç",
-      "answer": "LAV",
+      "text": "Su buharı",
+      "answer": "SİS",
       "row": 10,
-      "col": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Çift karşıtı",
-      "answer": "TEK",
+      "text": "Yiğitlik, mertlik",
+      "answer": "ERLİK",
       "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kurum, duman lekesi",
-      "answer": "İS",
-      "row": 11,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 0,
       "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yemek tepsisi",
+      "answer": "SİNİ",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ters, huysuz",
-      "answer": "AKSİ",
+      "text": "Hükümdar sopası",
+      "answer": "ASA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek insan, kişi",
+      "answer": "ADAM",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şekerli içki",
+      "answer": "LİKÖR",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çalışma nöbeti",
+      "answer": "VARDİYA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Utanma duygusu",
+      "answer": "AR",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Meşrubat",
+      "answer": "İÇECEK",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde tür",
+      "answer": "NEV",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstün, seçkin",
+      "answer": "KLAS",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ahlak kuralları",
+      "answer": "ETİK",
       "row": 2,
-      "col": 1,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Eylül'den sonraki ay",
-      "answer": "EKİM",
+      "text": "Adale",
+      "answer": "KAS",
       "row": 7,
-      "col": 1,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Gerilip bırakılarak ok fırlatılan araç",
-      "answer": "YAY",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Hak ve hukuka uygunluk",
-      "answer": "ADALET",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Üye",
-      "answer": "AZA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bolluk",
-      "answer": "BEREKET",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yayla ok atan kimse",
-      "answer": "OKÇU",
+      "text": "Borcu ödeme",
+      "answer": "İFA",
       "row": 1,
-      "col": 4,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Temiz, lekesiz renk",
-      "answer": "AK",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Satranç taşlarından biri, L şeklinde hareket eder",
-      "answer": "AT",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Söz verme, ahit",
-      "answer": "ANT",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sırada en başta olan",
-      "answer": "İLK",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeşil, küçük bitki",
-      "answer": "OT",
-      "row": 2,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Parthenon Tapınağı'nın kenti",
-      "answer": "ATİNA",
+      "text": "Yıpratıcı, üstün",
+      "answer": "EZİCİ",
       "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Müzik eşliğinde ritmik hareket",
-      "answer": "DANS",
-      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Denizin ve gökyüzünün rengi",
-      "answer": "MAVİ",
-      "row": 7,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Tantal'ın simgesi",
-      "answer": "TA",
+      "text": "Delikli kumaş",
+      "answer": "ETAMİN",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 3,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Dilin algıladığı duyum",
-      "answer": "TAT",
-      "row": 6,
+      "text": "Sıcaklık derecesi",
+      "answer": "ISI",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
@@ -281,11 +225,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 4
+      "col": 0
     },
     {
       "row": 0,
@@ -296,16 +236,44 @@
       "col": 7
     },
     {
-      "row": 7,
-      "col": 5
+      "row": 5,
+      "col": 0
     },
     {
-      "row": 10,
+      "row": 5,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
       "col": 8
     },
     {
-      "row": 11,
+      "row": 10,
       "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 3
+    },
+    {
+      "row": 10,
+      "col": 4
+    },
+    {
+      "row": 11,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "zor",

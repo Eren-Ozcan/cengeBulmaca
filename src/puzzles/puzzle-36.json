@@ -5,232 +5,183 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Magnezyum'un simgesi",
-      "answer": "MG",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
+      "text": "Yoga uygulayıcısı",
+      "answer": "YOGİ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Kırıtma, cilvelenme",
-      "answer": "NAZ",
+      "text": "Olmamış, işlenmemiş",
+      "answer": "HAM",
       "row": 1,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Berilyum'un simgesi",
-      "answer": "BE",
+      "text": "Boşaltma",
+      "answer": "TAHLİYE",
       "row": 2,
-      "col": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gök cisimlerinin bulunduğu sonsuz boşluk",
-      "answer": "UZAY",
+      "text": "Bilinç kaybı",
+      "answer": "KOMA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Fiyat artışı",
+      "answer": "ZAM",
       "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Cilve, naz",
-      "answer": "EDA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İzlenecek yol",
-      "answer": "ROTA",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Torun sahibi yaşlı erkek",
-      "answer": "DEDE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kör kimse",
-      "answer": "AMA",
-      "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 7,
+      "text": "Serinletme aracı",
+      "answer": "YELPAZE",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yaban hayvanı barınağı",
-      "answer": "İN",
-      "row": 7,
+      "text": "Yol oteli",
+      "answer": "MOTEL",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alet, vasıta",
+      "answer": "ARAÇ",
+      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Periyodik tablodaki Tantal'ın simgesi",
-      "answer": "TA",
+      "text": "Kafka romanı",
+      "answer": "ŞATO",
       "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Elektrik direnç birimi",
-      "answer": "OM",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Radyum'un simgesi",
-      "answer": "RA",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Avlanan hayvan",
-      "answer": "AV",
-      "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Germanyum'un simgesi",
-      "answer": "GE",
+      "text": "Magnezyumlu kayaç",
+      "answer": "DOLOMİT",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Vatan",
+      "answer": "YURT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kovan sakini",
+      "answer": "ARI",
       "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Beşlik çizgi üzerine yazılan işaret",
-      "answer": "NOTA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pençeli, kalın postlu orman hayvanı",
-      "answer": "AYI",
+      "text": "Kullanılmış madde",
+      "answer": "ATIK",
       "row": 10,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir ülkenin kadın hükümdarı",
-      "answer": "ECE",
+      "text": "Hızlı yol",
+      "answer": "OTOYOL",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sirk oyunlarının yapıldığı alan",
-      "answer": "ARENA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Yatak veya oturma amaçlı ev bölmesi",
-      "answer": "ODA",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Binek hayvanı",
-      "answer": "AT",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kağıt üzerine basılan günlük yayın",
-      "answer": "GAZETE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Nehir kenarındaki verimli düzlük",
-      "answer": "OVA",
+      "text": "Yakarış, niyaz",
+      "answer": "DUA",
       "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Üreme hücresi",
+      "answer": "GAMET",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kısa pantolon",
+      "answer": "ŞORT",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İş verme",
+      "answer": "İHALE",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Denizle çevrili kara parçası",
-      "answer": "ADA",
-      "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İşaret, belirti",
-      "answer": "İM",
+      "text": "Beşten sonraki sayı",
+      "answer": "ALTI",
       "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yayla",
+      "answer": "PLATO",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "'Öyle mi?' anlamında ünlem",
-      "answer": "YA",
-      "row": 2,
+      "text": "Aynı çizgi",
+      "answer": "HİZA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Saniyenin küçük bir bölümü",
-      "answer": "AN",
+      "text": "İtalya'nın başkenti",
+      "answer": "ROMA",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Galyum'un simgesi",
-      "answer": "GA",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Şiirde geçen eski 'su' kelimesi",
-      "answer": "AB",
+      "text": "Kutsal pınar",
+      "answer": "AYAZMA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Derde deva olan madde (eski dilde)",
-      "answer": "EM",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski dilde seçim oyu",
-      "answer": "REY",
+      "text": "Cüsseli",
+      "answer": "İRİ",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hoşa giden duygu",
-      "answer": "ZEVK",
+      "text": "Süt organı",
+      "answer": "MEME",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kalın yünden yapılan kumaş",
-      "answer": "ABA",
+      "text": "Yapı örtüsü",
+      "answer": "ÇATI",
       "row": 5,
       "col": 7,
       "arrow": "down"
@@ -239,34 +190,22 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 4
     },
     {
-      "row": 0,
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 10,
       "col": 5
     },
     {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 9,
+      "row": 10,
       "col": 7
     }
   ],

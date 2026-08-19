@@ -5,142 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
+      "text": "Taklit yergi",
+      "answer": "PARODİ",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Arı ürünü",
+      "answer": "BAL",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bir bakliyat türü",
-      "answer": "ARAKA",
+      "text": "İlaç, merhem",
+      "answer": "EM",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hitapta kullanılan seslenme sözü",
-      "answer": "YA",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kabuğu sert, taneli kış meyvesi",
-      "answer": "NAR",
-      "row": 4,
-      "col": 1,
+      "text": "Alım satım ortamı",
+      "answer": "PİYASA",
+      "row": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Babanın veya annenin babası",
-      "answer": "DEDE",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Çevrilerek oynanan oyuncak",
-      "answer": "TOPAÇ",
-      "row": 5,
+      "text": "Volkanik kaya",
+      "answer": "BAZALT",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "'Nedir' sorusunun kısası",
-      "answer": "NE",
-      "row": 7,
+      "text": "Asteğmenin üstü",
+      "answer": "TEĞMEN",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Cilalı deri",
+      "answer": "LAKE",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Peri ve devlerin geçtiği anlatı",
-      "answer": "MASAL",
-      "row": 7,
+      "text": "Bugünden sonraki",
+      "answer": "YARIN",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Nikel'in kimyasal simgesi",
-      "answer": "Nİ",
+      "text": "Peşi sıra gelen",
+      "answer": "ART",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Soğuk-sıcak arası",
+      "answer": "ILIK",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Genç, küçük at",
-      "answer": "TAY",
+      "text": "Beyaz kır çiçeği",
+      "answer": "PAPATYA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sürü güden kimse",
-      "answer": "ÇOBAN",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tahran'ın başkenti olduğu komşu ülke",
-      "answer": "İRAN",
+      "text": "Tropikal rüzgâr",
+      "answer": "ALİZE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "La'dan sonraki nota",
-      "answer": "Sİ",
-      "row": 7,
+      "text": "Canlandırılan kişi",
+      "answer": "ROL",
+      "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 0,
+      "text": "Yağ içeren",
+      "answer": "YAĞLI",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Seyhan Nehri kıyısındaki ilimiz",
-      "answer": "ADANA",
-      "row": 3,
-      "col": 3,
+      "text": "Yıllık",
+      "answer": "ALMANAK",
+      "row": 2,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Beyaz, kara karşıtı",
-      "answer": "AK",
+      "text": "Dayanak",
+      "answer": "DESTEK",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kahvaltılık meyve tatlısı",
-      "answer": "REÇEL",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kişneyen binek hayvanı",
-      "answer": "AT",
-      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İpekböceği kozasından çıkarılan değerli lif",
-      "answer": "İPEK",
-      "row": 2,
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce yağ",
+      "answer": "NEFT",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -148,51 +134,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 4,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
+      "row": 0,
       "col": 3
     },
     {
-      "row": 9,
+      "row": 0,
       "col": 4
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
     },
     {
       "row": 9,

@@ -5,303 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Ulaşım için açılmış şerit",
-      "answer": "YOL",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Demir'in simgesi",
-      "answer": "FE",
-      "row": 1,
+      "text": "Kadın rahip",
+      "answer": "RAHİBE",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Pencerede kullanılan saydam madde",
-      "answer": "CAM",
+      "text": "Tüysüz kafa",
+      "answer": "KEL",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Kalsiyum'un simgesi",
-      "answer": "CA",
+      "text": "Süre, sıra",
+      "answer": "ESNA",
       "row": 2,
-      "col": 6,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Sırtın alt kısmı",
-      "answer": "BEL",
+      "text": "Belli, aşikâr",
+      "answer": "AYAN",
       "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Dış alım",
+      "answer": "İTHALAT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bebek şişesi",
+      "answer": "BİBERON",
+      "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Masallarda geçen kocaman yaratık",
-      "answer": "DEV",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kanun",
-      "answer": "YASA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tarıma elverişli düzlük alan",
-      "answer": "OVA",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaprakları katmerli kış sebzesi",
-      "answer": "LAHANA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tilki, tavşan gibi hayvanların barınağı",
-      "answer": "İN",
-      "row": 5,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Beyaz yağış",
-      "answer": "KAR",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Defa, sefer",
-      "answer": "KEZ",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Peynir sevdiği düşünülen kemirgen",
-      "answer": "FARE",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir şeyi belirten iz",
-      "answer": "İM",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Karnı doymuş olan",
-      "answer": "TOK",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "La'dan sonraki nota",
-      "answer": "Sİ",
-      "row": 8,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Dağda duyulan ses yansıması",
+      "text": "Yankı",
       "answer": "EKO",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eski dilde köpük anlamındaki sözcük",
-      "answer": "KEF",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yılın on ikide biri",
-      "answer": "AY",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağışlama",
-      "answer": "AF",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Simgesi adalet olan burç",
-      "answer": "TERAZİ",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Terazi simgesiyle anılan kavram",
-      "answer": "ADALET",
-      "row": 12,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Notalarda dördüncü sıradaki ses",
-      "answer": "FA",
-      "row": 1,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Berilyum'un simgesi",
-      "answer": "BE",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ceketin boyun çevresindeki bölümü",
-      "answer": "YAKA",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Baş",
-      "answer": "KAFA",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Çiçeklerin açtığı mevsim",
-      "answer": "BAHAR",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Seçimde kullanılan tercih",
-      "answer": "OY",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gözü peklik",
-      "answer": "CESARET",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tantal için kullanılan kimyasal simge",
-      "answer": "TA",
-      "row": 10,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğru olmayan beyan",
-      "answer": "YALAN",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Çayırı kaplayan bitki",
-      "answer": "OT",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kolun ucundaki tutma organı",
-      "answer": "EL",
-      "row": 10,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Georg Ohm'dan gelen birim",
-      "answer": "OM",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüzüklerde kullanılan yarı değerli bir taş",
-      "answer": "AKİK",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sitem bildiren seslenme",
-      "answer": "BRE",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Do-re-mi dizisinin başlangıcı",
-      "answer": "DO",
-      "row": 2,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İlaç, merhem (halk dili)",
-      "answer": "EM",
       "row": 5,
-      "col": 6,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Süvarinin bindiği hayvan",
-      "answer": "AT",
+      "text": "Tayin",
+      "answer": "ATAMA",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Duyuru",
+      "answer": "İLAN",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaşam bölgesi",
+      "answer": "ZON",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kısa anlatım",
+      "answer": "İCAZ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İran hükümdarı",
+      "answer": "ŞAH",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ad",
+      "answer": "İSİM",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dede, cet",
+      "answer": "ATA",
       "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Hükümdar eşi",
+      "answer": "ECE",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Taraf, kenar",
+      "answer": "YAN",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yangın söndürme",
+      "answer": "İTFAİYE",
+      "row": 12,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ters, huysuz",
+      "answer": "AKSİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hristiyan mabedi",
+      "answer": "KİLİSE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "El topu",
+      "answer": "HENTBOL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sevimli, hoş",
+      "answer": "CİCİ",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dinî ezgi",
+      "answer": "İLAHİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ululuk",
+      "answer": "AZAMET",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sert siyah ağaç",
+      "answer": "ABANOZ",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Osmanlı yönetim birimi",
+      "answer": "EYALET",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Fayda",
+      "answer": "YARAR",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kabuğu sert, içi yağlı kuruyemiş",
-      "answer": "CEVİZ",
-      "row": 1,
+      "text": "Yaygınlaşmış haber",
+      "answer": "ŞAYİ",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Madde parçacığı",
+      "answer": "ATOM",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Selenyum'un simgesi",
-      "answer": "SE",
+      "text": "Ufki",
+      "answer": "YATAY",
       "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Zeminin karşıtı olan üst yüzey",
-      "answer": "TAVAN",
+      "text": "Bin kilogram",
+      "answer": "TON",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Gürcistan'ın başkenti",
-      "answer": "TİFLİS",
-      "row": 6,
+      "text": "Kendini ağıra satma",
+      "answer": "NAZ",
+      "row": 4,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Ev, aile",
+      "answer": "HANE",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
@@ -309,15 +232,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
@@ -329,19 +244,35 @@
     },
     {
       "row": 1,
-      "col": 2
+      "col": 6
     },
     {
-      "row": 9,
-      "col": 3
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 0
     },
     {
       "row": 10,
-      "col": 7
+      "col": 4
+    },
+    {
+      "row": 11,
+      "col": 4
     },
     {
       "row": 12,
-      "col": 7
+      "col": 0
     }
   ],
   "difficulty": "orta",

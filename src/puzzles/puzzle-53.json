@@ -5,180 +5,168 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Geleneksel Japon çiçek sanatı",
-      "answer": "İKEBANA",
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çayırı kaplayan bitki",
-      "answer": "OT",
+      "text": "Dava vekili",
+      "answer": "AVUKAT",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Karton kutu",
+      "answer": "KOLİ",
+      "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Payitahtın eski adlarından biri",
-      "answer": "ASİTANE",
-      "row": 2,
+      "text": "Kış yağışı",
+      "answer": "KAR",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gökyüzü oyuncağı",
+      "answer": "UÇURTMA",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gözün üstünde yay şeklindeki kıllar",
-      "answer": "KAŞ",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Rutubet",
-      "answer": "NEM",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hasat edilmeyi bekleyen tahıl",
-      "answer": "EKİN",
+      "text": "Bal böceği",
+      "answer": "ARI",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zihinde canlandırılan şey",
-      "answer": "HAYAL",
+      "text": "Demirci aracı",
+      "answer": "ÖRS",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Fasıla",
+      "answer": "ARA",
+      "row": 6,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Pınar, memba",
+      "answer": "KAYNAK",
       "row": 8,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Simgesi adalet olan burç",
-      "answer": "TERAZİ",
+      "text": "Keseli memeli",
+      "answer": "KOALA",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Otuz güne yakın süren zaman birimi",
-      "answer": "AY",
-      "row": 2,
-      "col": 0,
+      "text": "Cilveli davranış",
+      "answer": "NAZ",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hayat arkadaşı",
-      "answer": "EŞ",
+      "text": "Dönen tekerlek",
+      "answer": "ÇARK",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Vurulan hayvan",
+      "answer": "AV",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kuş midesi",
+      "answer": "KURSAK",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Aşağı karşıtı",
+      "answer": "YUKARI",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hayır sözü",
+      "answer": "YO",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses ayarı",
+      "answer": "AKORT",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Anne",
+      "answer": "ANA",
       "row": 6,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Hareketi sağlayan doku",
-      "answer": "KAS",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "'Nedir' sorusunun kısası",
-      "answer": "NE",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ahırda beslenen süt hayvanı",
-      "answer": "İNEK",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Helyum'un simgesi",
-      "answer": "HE",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük, hızlı deniz taşıtı",
-      "answer": "BOT",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yapı tasarımcısı",
-      "answer": "MİMAR",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Cesur ve hareketli",
-      "answer": "ATAK",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hitapta kullanılan seslenme sözü",
-      "answer": "YA",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İçi taneli, ekşimsi meyve",
-      "answer": "NAR",
-      "row": 2,
+      "text": "Su taşıtı",
+      "answer": "SAL",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çok karşıtı",
-      "answer": "AZ",
-      "row": 7,
+      "text": "Maneviyat",
+      "answer": "MORAL",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Isı ve ışık veren yanma olayı",
-      "answer": "ATEŞ",
+      "text": "Yunanistan'ın başkenti",
+      "answer": "ATİNA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Aklını yitirmiş",
-      "answer": "DELİ",
-      "row": 5,
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
-      "row": 0,
-      "col": 2
+      "row": 3,
+      "col": 0
     },
     {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 5,
-      "col": 4
-    },
-    {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 1
+      "row": 9,
+      "col": 0
     }
   ],
   "difficulty": "kolay",

@@ -5,289 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Lüks gezinti gemisi",
-      "answer": "YAT",
+      "text": "Zarif, modern",
+      "answer": "ŞIK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ciltlenmiş basılı sayfalar",
-      "answer": "KİTAP",
+      "text": "Patates atıştırmalığı",
+      "answer": "CİPS",
       "row": 1,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Selenyum'un simgesi",
-      "answer": "SE",
+      "text": "Güzel, sevimli",
+      "answer": "HOŞ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Alan; oyun yeri",
-      "answer": "SAHA",
+      "text": "Bulgaristan parası",
+      "answer": "LEV",
       "row": 2,
-      "col": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "En küçük sayma sayısı",
-      "answer": "BİR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Öğrenciye verilen değerlendirme puanı",
-      "answer": "NOT",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Satranç taşlarından biri, L şeklinde hareket eder",
-      "answer": "AT",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Düşünme, muhakeme yetisi",
-      "answer": "US",
-      "row": 4,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Haftanın son günü",
-      "answer": "PAZAR",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Denizle çevrili kara parçası",
+      "text": "Kıbrıs, Girit gibi",
       "answer": "ADA",
-      "row": 5,
+      "row": 3,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Mısır'dan geçen ırmak",
-      "answer": "NİL",
+      "text": "Güç, tesir",
+      "answer": "ETKİ",
+      "row": 3,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İnce örtü katmanı",
+      "answer": "ZAR",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ders verme",
+      "answer": "ÖĞRETİM",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Parayla ilgili",
+      "answer": "MALİ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Freud'un kişilik kuramında ilkel benlik",
-      "answer": "İD",
+      "text": "Korku ünlemi",
+      "answer": "ABO",
       "row": 6,
-      "col": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "İri taneli bezelye",
-      "answer": "ARAKA",
+      "text": "Baraj duvarı",
+      "answer": "SET",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Konut, hane",
+      "answer": "EV",
       "row": 7,
-      "col": 3,
+      "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Element tablosunda Radyum'un simgesi",
-      "answer": "RA",
+      "text": "Gemide oda",
+      "answer": "KAMARA",
       "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tanksavar silah",
+      "answer": "BAZUKA",
+      "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Direngenlik, dediğinden dönmeme",
-      "answer": "İNAT",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Dönemsel giyim eğilimi",
-      "answer": "MODA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir bakışta geçen süre",
-      "answer": "AN",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tespihin baş kısmı",
-      "answer": "İMAME",
+      "text": "Kadar, değin",
+      "answer": "DEK",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İskambil kağıtlarının en değerlisi",
-      "answer": "AS",
+      "text": "Yavruyu doğuran",
+      "answer": "ANA",
       "row": 10,
-      "col": 6,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Karşılıklı değişim",
-      "answer": "TAKAS",
-      "row": 11,
+      "text": "Deneyimsiz, acemi",
+      "answer": "TOY",
+      "row": 10,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Boru sesi",
-      "answer": "Tİ",
+      "text": "Yıkım, felaket",
+      "answer": "AFET",
       "row": 11,
-      "col": 6,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Payitahtın eski adlarından biri",
-      "answer": "ASİTANE",
+      "text": "Çöktürme sesi",
+      "answer": "IH",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Söylence, efsanevi anlatı",
-      "answer": "MİT",
-      "row": 8,
+      "text": "Akarsu kıvrımı",
+      "answer": "EĞMEÇ",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Eylül sonunda başlayan burç",
-      "answer": "TERAZİ",
+      "text": "Re'den önceki nota",
+      "answer": "DO",
+      "row": 9,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sözleşme",
+      "answer": "KONTRAT",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İtalya'nın başkenti",
-      "answer": "ROMA",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırmızı renk",
-      "answer": "AL",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dilek için verilen söz",
-      "answer": "ADAK",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kabuğu sert, taneli kış meyvesi",
-      "answer": "NAR",
-      "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Görme engelli kişi (eski dilde)",
-      "answer": "AMA",
+      "text": "Koca, eş",
+      "answer": "BEY",
       "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Saçsız",
+      "answer": "KEL",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kurutulmuş meyve",
+      "answer": "KAK",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Karşı çıkma",
+      "answer": "İTİRAZ",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Urfa mutfağının acı baharatı",
-      "answer": "İSOT",
-      "row": 0,
+      "text": "Yükümlülük dışı",
+      "answer": "MUAF",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Büyük boyutlu",
-      "answer": "İRİ",
+      "text": "Kanın sıvı bölümü",
+      "answer": "PLAZMA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sivilce",
+      "answer": "AKNE",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses (eski dilde)",
+      "answer": "SEDA",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Aklanma",
+      "answer": "BERAAT",
       "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Müzikte susma işareti",
-      "answer": "ES",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Damağın algıladığı lezzet",
-      "answer": "TAT",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Çukurova'nın büyük şehri",
-      "answer": "ADANA",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayıflanma sözü",
-      "answer": "AH",
-      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Türk müziğinde kullanılan armudi çalgı",
-      "answer": "UD",
-      "row": 3,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuşun uçma organı",
-      "answer": "KANAT",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Farsça kökenli eski 'ayak' sözcüğü",
-      "answer": "PA",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Estetik değer taşıyan uğraş",
-      "answer": "SANAT",
-      "row": 3,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Do'ya dönmeden önceki son nota",
-      "answer": "Sİ",
-      "row": 9,
+      "text": "Polonya'nın başkenti",
+      "answer": "VARŞOVA",
+      "row": 1,
       "col": 8,
       "arrow": "down"
     }
@@ -302,16 +239,40 @@
       "col": 4
     },
     {
-      "row": 2,
-      "col": 3
+      "row": 0,
+      "col": 5
     },
     {
-      "row": 7,
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 3,
       "col": 0
     },
     {
       "row": 8,
       "col": 0
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
+      "row": 10,
+      "col": 8
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "zor",

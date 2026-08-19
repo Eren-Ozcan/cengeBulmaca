@@ -5,247 +5,177 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Ağacın yeşil organı",
-      "answer": "YAPRAK",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "'İşte' anlamında bir ünlem",
-      "answer": "HA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Geçici yenilik düşkünlüğü",
-      "answer": "MODA",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Düşünme, muhakeme yetisi",
-      "answer": "US",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sitem bildiren seslenme",
-      "answer": "BRE",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Galyum'un simgesi",
-      "answer": "GA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İsviçre'nin idari başkenti",
-      "answer": "BERN",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Rengin veya sesin tonu",
-      "answer": "TON",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Loğusaya yardım eden kadın",
-      "answer": "EBE",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük ötücü kuş",
-      "answer": "SERÇE",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İskambil kağıtlarının en değerlisi",
-      "answer": "AS",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Hitapta kullanılan seslenme sözü",
-      "answer": "YA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dağın sert taş bloğu",
-      "answer": "KAYA",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir şeyin geçtiğini gösteren işaret",
-      "answer": "İZ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Amerika Birleşik Devletleri'nin para birimi",
-      "answer": "DOLAR",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeşile ve sarıya çalan göz rengi",
-      "answer": "ELA",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Allah'ın varlığını kabul etmeyen kimse",
-      "answer": "ATE",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tanınmışlık, nam",
-      "answer": "ÜN",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde ayak",
-      "answer": "PA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Şiirde güzelliğe benzetilen hayvan",
-      "answer": "AHU",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Annenin kız kardeşi",
-      "answer": "TEYZE",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Futbolda topu arkadaşa gönderme",
-      "answer": "PAS",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Denizde tehlikeli sert rüzgar",
-      "answer": "BORA",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Lantan için kullanılan kimyasal simge",
-      "answer": "LA",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Henüz yaşlanmamış, taze",
-      "answer": "GENÇ",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Rusların 'evet' demesi",
-      "answer": "DA",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tahıl deposu",
-      "answer": "AMBAR",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sesin geri dönmesi",
-      "answer": "EKO",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İçin için yanan ateş",
-      "answer": "KOR",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "'Nedir' sorusunun kısası",
-      "answer": "NE",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Açık, geniş yer",
-      "answer": "ALAN",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Masallarda geçen kocaman yaratık",
-      "answer": "DEV",
+      "text": "Üstünde gözleme pişen",
+      "answer": "SAC",
       "row": 1,
-      "col": 6,
-      "arrow": "down"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Taze karşıtı",
-      "answer": "BAYAT",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
+      "text": "Sınırı aşma",
+      "answer": "TECAVÜZ",
+      "row": 1,
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Kalsiyum için kullanılan kimyasal simge",
-      "answer": "CA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
+      "text": "Yaratılmış insan",
+      "answer": "KUL",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Yüreklilik",
-      "answer": "CESARET",
+      "text": "Duman yolu",
+      "answer": "BACA",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Savaş kazancı",
+      "answer": "GANİMET",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Osmanlı yönetim birimi",
+      "answer": "EYALET",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yineleme",
+      "answer": "TEKRAR",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yeşil ot örtüsü",
+      "answer": "ÇİM",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dağ evi",
+      "answer": "ŞALE",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Şaka",
+      "answer": "LATİFE",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İslam'ın beşinci şartı",
+      "answer": "HAC",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İngiliz uzunluk birimi",
+      "answer": "İNÇ",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sahici",
+      "answer": "HAKİKİ",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Alay-tümen arası",
+      "answer": "TUGAY",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tanrı",
+      "answer": "İLAH",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıkıntılı durum",
+      "answer": "BELA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yırtıcı av kuşu",
+      "answer": "ATMACA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İnleme, inilti",
+      "answer": "NALE",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük çocuk",
+      "answer": "SABİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sirke tadında",
+      "answer": "EKŞİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıradan halk",
+      "answer": "AVAM",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yol hareketliliği",
+      "answer": "TRAFİK",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kısa boylu",
+      "answer": "CÜCE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Açık, apaçık",
+      "answer": "ALENİ",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Akciğer iltihabı",
+      "answer": "ZATÜRRE",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -253,31 +183,39 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 3
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 3,
       "col": 7
     },
     {
-      "row": 4,
-      "col": 1
-    },
-    {
-      "row": 11,
+      "row": 1,
       "col": 0
     },
     {
-      "row": 11,
-      "col": 1
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 3
     },
     {
       "row": 11,
-      "col": 6
+      "col": 7
     }
   ],
   "difficulty": "zor",

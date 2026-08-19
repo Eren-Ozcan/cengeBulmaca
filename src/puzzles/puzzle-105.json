@@ -5,267 +5,225 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Yüreklilik",
-      "answer": "CESARET",
+      "text": "Çiçeğin ince gövdesi",
+      "answer": "SAP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Vücudu kaplayan yüzey",
-      "answer": "TEN",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Şiir yazan sanatçı",
-      "answer": "ŞAİR",
-      "row": 2,
+      "text": "Boyun kürkü",
+      "answer": "BOA",
+      "row": 0,
       "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Maçın devresi",
-      "answer": "YARI",
-      "row": 2,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şahın kaçamayacağı durum",
-      "answer": "MAT",
-      "row": 4,
+      "text": "Şekersiz kahve",
+      "answer": "SADE",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kilise zili",
-      "answer": "ÇAN",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Do-re-mi'nin son hecesi",
-      "answer": "Mİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Turnusol kağıdını kırmızıya boyayan madde",
-      "answer": "ASİT",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Rusça'da 'evet'",
-      "answer": "DA",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Başka ülkeden kişi",
-      "answer": "EL",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yapı yapılacak arazi",
-      "answer": "ARSA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sesin geri dönmesi",
-      "answer": "EKO",
-      "row": 8,
+      "text": "İşitsel titreşim",
+      "answer": "SES",
+      "row": 2,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Hindistan'ın idari başkenti",
-      "answer": "DELHİ",
-      "row": 9,
+      "text": "Sanatçı, oyuncu",
+      "answer": "ARTİST",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Şaşılacak şey",
+      "answer": "ACİBE",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kurum, duman lekesi",
-      "answer": "İS",
-      "row": 9,
-      "col": 6,
+      "text": "Savaşçı kadın",
+      "answer": "AMAZON",
+      "row": 5,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sandalyeyle birlikte kullanılan mobilya",
-      "answer": "MASA",
-      "row": 9,
+      "text": "Piyasaya sürme",
+      "answer": "ARZ",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Boş karşıtı",
-      "answer": "DOLU",
+      "text": "Utanç veren, yakışıksız",
+      "answer": "AYIP",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Söylence, efsane",
+      "answer": "MİT",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek dadı",
+      "answer": "LALA",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Teçhizat",
+      "answer": "DONANIM",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Okur",
+      "answer": "OKUYUCU",
       "row": 10,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "'Ne oldu?' daki soru kelimesi",
-      "answer": "NE",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
+      "text": "Yönetme ipi",
+      "answer": "YULAR",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Belirli iş için ayrılan para",
-      "answer": "FON",
+      "text": "Hafif uykulu",
+      "answer": "SAK",
       "row": 11,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Nakış işlenen delikli kumaş",
-      "answer": "ETAMİN",
+      "text": "En büyük kıta",
+      "answer": "ASYA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dilek için verilen söz",
-      "answer": "ADAK",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bitki yetiştirilen camlık",
-      "answer": "SERA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Mektubun üzerine yazılan yer bilgisi",
-      "answer": "ADRES",
+      "text": "Ortodoks Hristiyan",
+      "answer": "RUM",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde ayak",
+      "answer": "PA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bir olayı hatırlatan yapı",
-      "answer": "ANIT",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Temmuz-Ağustos arası burç",
-      "answer": "ASLAN",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Iztırap ünlemi",
-      "answer": "AH",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Benzer, denk",
-      "answer": "EŞ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Hafif, ince yağmur",
-      "answer": "ÇİSE",
+      "text": "Müzik türü",
+      "answer": "CAZ",
       "row": 3,
-      "col": 5,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Freud'un kişilik kuramında ilkel benlik",
-      "answer": "İD",
+      "text": "Çok sevilen",
+      "answer": "İDOL",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sürekli, kesintisiz",
+      "answer": "DAİM",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Saç aracı",
+      "answer": "TOKA",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Rezil, kötü",
+      "answer": "BERBAT",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Aydınlık, ışık",
+      "answer": "NUR",
       "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Önerme, sav",
+      "answer": "TEZ",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kızartma kabı",
-      "answer": "TAVA",
+      "text": "Eğlenme, dalga geçme",
+      "answer": "ALAY",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İsyankâr",
+      "answer": "ASİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Beraberlik bildiren bağlaç",
-      "answer": "İLE",
-      "row": 5,
+      "text": "Büyük deniz",
+      "answer": "OKYANUS",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Trabzon'un bir ilçesi",
-      "answer": "OF",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kağıda düşülen kısa bilgi",
-      "answer": "NOT",
-      "row": 3,
+      "text": "İlham",
+      "answer": "ESİN",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ağırlık birimi (1000 gram)",
-      "answer": "KİLO",
-      "row": 7,
+      "text": "Kaplıca",
+      "answer": "ILICA",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yüz kızartan duygu",
-      "answer": "AR",
+      "text": "Alt görevli",
+      "answer": "AST",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Su bitkisi",
-      "answer": "YOSUN",
+      "text": "Beyaz koza",
+      "answer": "PAMUK",
       "row": 6,
       "col": 8,
       "arrow": "down"
@@ -274,23 +232,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 7
-    },
-    {
       "row": 3,
-      "col": 4
-    },
-    {
-      "row": 3,
-      "col": 8
+      "col": 0
     },
     {
       "row": 4,
@@ -301,11 +255,15 @@
       "col": 8
     },
     {
+      "row": 6,
+      "col": 3
+    },
+    {
       "row": 7,
       "col": 0
     },
     {
-      "row": 11,
+      "row": 9,
       "col": 0
     }
   ],

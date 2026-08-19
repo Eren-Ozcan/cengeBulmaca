@@ -5,212 +5,163 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kurum, duman lekesi",
-      "answer": "İS",
+      "text": "Belediye kolluğu",
+      "answer": "ZABITA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kışla yaz arasındaki mevsim",
-      "answer": "BAHAR",
-      "row": 0,
+      "text": "Tüy karışımı",
+      "answer": "AĞDA",
+      "row": 2,
       "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eğlence etkinliği",
-      "answer": "OYUN",
-      "row": 2,
-      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sol'den sonraki nota",
-      "answer": "LA",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Merak bildiren soru sözcüğü",
-      "answer": "NE",
+      "text": "Matematik eşitliği",
+      "answer": "DENKLEM",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Denizle çevrili kara parçası",
-      "answer": "ADA",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaprakları katmerli kış sebzesi",
-      "answer": "LAHANA",
+      "text": "Tayin",
+      "answer": "ATAMA",
       "row": 4,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kentin bir kesimi",
-      "answer": "SEMT",
+      "text": "Risk",
+      "answer": "RİZİKO",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gam dizisinin ilk notası",
-      "answer": "DO",
+      "text": "Eşek durdurma",
+      "answer": "ÇÜŞ",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Periyodik tablodaki Baryum'un simgesi",
-      "answer": "BA",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Boru sesi",
-      "answer": "Tİ",
+      "text": "Eski başlık",
+      "answer": "FES",
       "row": 6,
       "col": 5,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Elmaya benzeyen sulu meyve",
-      "answer": "ARMUT",
+      "text": "Öğle sonrası namaz",
+      "answer": "İKİNDİ",
       "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Askerlik yapan genç, nefer",
-      "answer": "ER",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Duvara monte edilen eşya düzlüğü",
-      "answer": "RAF",
-      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Lahza, dem",
-      "answer": "AN",
+      "text": "Üyelik ücreti",
+      "answer": "AİDAT",
       "row": 9,
-      "col": 5,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Romanya'da kullanılan para birimi",
-      "answer": "LEU",
-      "row": 10,
+      "text": "Eski Osmanlı başkenti",
+      "answer": "EDİRNE",
+      "row": 9,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Bir şeyin nihayeti",
-      "answer": "SON",
-      "row": 0,
+      "text": "Düğün armağanı",
+      "answer": "DÜRÜ",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ata dizisi, nesep",
-      "answer": "SOY",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bayrağımızın rengi",
-      "answer": "AL",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Atın boyun kılları",
-      "answer": "YELE",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Batı Anadolu yiğidi",
-      "answer": "EFE",
+      "text": "Şifre, simge",
+      "answer": "KOD",
       "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hitap ünlemi",
+      "answer": "BRE",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "'Şu' ve 'o'ya göre en yakın olan",
-      "answer": "BU",
-      "row": 0,
+      "text": "Ücretli çalışan",
+      "answer": "İŞÇİ",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Cilveli davranış",
+      "answer": "NAZ",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ürünlerin depolandığı büyük yapı",
-      "answer": "AMBAR",
-      "row": 3,
+      "text": "Kırmızı taneli meyve",
+      "answer": "NAR",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kilide uyan metal parça",
-      "answer": "ANAHTAR",
+      "text": "Yöntem, tabiye",
+      "answer": "TAKTİK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Rusçada olumlama sözü",
-      "answer": "DA",
-      "row": 2,
+      "text": "İnanç sistemi",
+      "answer": "DİN",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sık ağlayan",
+      "answer": "AĞLAK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Açık, geniş yer",
-      "answer": "ALAN",
-      "row": 0,
+      "text": "Körpe bitki",
+      "answer": "FİDE",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Modası geçmiş",
+      "answer": "DEMODE",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Orta Avrupa'dan geçen büyük nehir",
-      "answer": "TUNA",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Radyum'un simgesi",
-      "answer": "RA",
+      "text": "Üçüncü Yunan harfi",
+      "answer": "GAMA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İstanbul'un eski adlarından biri",
-      "answer": "ASİTANE",
-      "row": 3,
+      "text": "İnekten sağılan",
+      "answer": "SÜT",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -218,11 +169,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
-      "col": 5
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
     },
     {
       "row": 4,
@@ -230,35 +189,23 @@
     },
     {
       "row": 5,
-      "col": 5
+      "col": 7
     },
     {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 9,
+      "row": 6,
       "col": 3
     },
     {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 5
+      "row": 8,
+      "col": 6
     },
     {
       "row": 10,
       "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "orta",

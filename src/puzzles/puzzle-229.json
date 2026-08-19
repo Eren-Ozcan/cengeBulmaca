@@ -5,212 +5,177 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Bedeni saran doku",
-      "answer": "DERİ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Belirli bir noktanın ilerisi, karşı taraf",
-      "answer": "ÖTE",
+      "text": "Sürüngen sebze",
+      "answer": "KABAK",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Aç karşıtı, doymuş",
-      "answer": "TOK",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırmızı renk",
-      "answer": "AL",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Nurdan yaratıldığına inanılan varlık",
-      "answer": "MELEK",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Do'dan sonraki nota",
-      "answer": "RE",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tahılın taneli ucu",
-      "answer": "BAŞAK",
-      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Havalandırma pervanesi",
-      "answer": "FAN",
+      "text": "Aksine",
+      "answer": "TERSİNE",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Otlatma yeri",
+      "answer": "OTLAK",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sanı, şüphe",
+      "answer": "ZAN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Vuruş sesi",
+      "answer": "ŞAK",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Şaşkın, bilemeyen",
+      "answer": "AFAL",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çok iri",
+      "answer": "KOCAMAN",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Diyelim ki",
+      "answer": "FARAZA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dijital",
+      "answer": "SAYISAL",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tespih başlığı",
+      "answer": "İMAME",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski Türklerde yiğit",
+      "answer": "ALP",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Rafta biriken",
+      "answer": "TOZ",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Baklagillerden ağaç",
+      "answer": "AKASYA",
       "row": 5,
       "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Atın tırnağına çakılan demir",
-      "answer": "NAL",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Altının saflık ölçüsü",
-      "answer": "AYAR",
-      "row": 6,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Satranç taşlarından biri, L şeklinde hareket eder",
-      "answer": "AT",
-      "row": 6,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yetki simgesi değnek",
-      "answer": "ASA",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Deride oluşan kesik veya bere",
-      "answer": "YARA",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Binanın her bir bölümü",
-      "answer": "KAT",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tek küreklerle kürek çekilen hafif tekne",
-      "answer": "KANO",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İtaat etmeyen, isyankar",
-      "answer": "ASİ",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Gülde bulunan sivri çıkıntı",
-      "answer": "DİKEN",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kadınların giydiği belden aşağı kıyafet",
-      "answer": "ETEK",
-      "row": 0,
-      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yelesiyle bilinen büyük kedigil",
-      "answer": "ASLAN",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Oyuncunun canlandırdığı kişi",
-      "answer": "ROL",
-      "row": 0,
+      "text": "Sivri dipli testi",
+      "answer": "AMFORA",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bir seslenme sözü",
-      "answer": "YA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Japon çiçek düzenleme sanatı",
-      "answer": "İKEBANA",
+      "text": "İskandinav parası",
+      "answer": "KRON",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bilgisayar programının yazıldığı metin",
-      "answer": "KOD",
-      "row": 8,
+      "text": "Tuhaf, garip",
+      "answer": "ACAYİP",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sarı ötücü kafes kuşu",
-      "answer": "KANARYA",
-      "row": 2,
+      "text": "Alt görevli",
+      "answer": "AST",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İnisiyatif alan, atılgan",
-      "answer": "ATAK",
-      "row": 7,
+      "text": "Gerekli",
+      "answer": "LAZIM",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilme süreci",
+      "answer": "BİLİŞ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Saç bakımında kullanılan araç",
-      "answer": "TARAK",
+      "text": "Çalışma mobilyası",
+      "answer": "MASA",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Alan ölçü birimi (100 m²)",
-      "answer": "AR",
-      "row": 6,
+      "text": "Fakat, lakin",
+      "answer": "AMA",
+      "row": 8,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Selenyum'un kimyasal simgesi",
-      "answer": "SE",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Un elemeye yarayan araç",
-      "answer": "ELEK",
+      "text": "Baharat bitkisi",
+      "answer": "KEKİK",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Delikli, seyrek dokunmuş kumaş",
-      "answer": "ETAMİN",
-      "row": 5,
+      "text": "İnleme, inilti",
+      "answer": "NALE",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -218,14 +183,22 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
     },
     {
       "row": 0,
-      "col": 5
+      "col": 1
     },
     {
-      "row": 4,
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 3,
       "col": 0
     },
     {
@@ -233,16 +206,20 @@
       "col": 0
     },
     {
-      "row": 5,
-      "col": 5
-    },
-    {
-      "row": 6,
+      "row": 10,
       "col": 0
     },
     {
       "row": 11,
-      "col": 0
+      "col": 4
+    },
+    {
+      "row": 11,
+      "col": 5
+    },
+    {
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "kolay",

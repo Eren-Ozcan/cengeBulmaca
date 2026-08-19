@@ -5,261 +5,247 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Ağacın yeşil organı",
-      "answer": "YAPRAK",
-      "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yazma kenarlarına işlenen süsleme",
-      "answer": "OYA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "La'dan sonraki nota",
-      "answer": "Sİ",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Meydana gelen şey, hadise",
-      "answer": "OLAY",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Egzersizde deriden gelen sıvı",
-      "answer": "TER",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sarı, kokulu yaz meyvesi",
-      "answer": "KAVUN",
-      "row": 4,
+      "text": "Kazanılmış yatkınlık",
+      "answer": "MELEKE",
+      "row": 0,
       "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Baş aşağı",
+      "answer": "AMUT",
+      "row": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sodyum'un simgesi",
-      "answer": "NA",
+      "text": "İçi boş, değersiz",
+      "answer": "KOF",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Döl yatağı",
+      "answer": "RAHİM",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sorgu sözü",
+      "answer": "NE",
+      "row": 3,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "İhtiraslı",
+      "answer": "TUTKULU",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Zan, zehap",
+      "answer": "SANI",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Attila'nın hükümdarı olduğu tarihi Türk topluluğu",
-      "answer": "HUN",
+      "text": "Kimse, tip, yüz",
+      "answer": "SİMA",
       "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Tekne kaptanı",
+      "answer": "REİS",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Eski dilde ayak",
+      "text": "Mahalle esnafı",
+      "answer": "BAKKAL",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Arı ürünü",
+      "answer": "BAL",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Göğüs, bağır, yürek",
+      "answer": "SİNE",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yumru sebze",
+      "answer": "TURP",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bitiş, nihayet",
+      "answer": "SON",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Terzi şeridi",
+      "answer": "MEZURA",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Farsça ayak",
       "answer": "PA",
-      "row": 5,
+      "row": 10,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "İşlemecilikte kullanılan seyrek dokuma kumaş",
-      "answer": "ETAMİN",
-      "row": 6,
+      "text": "Yüz ar",
+      "answer": "HEKTAR",
+      "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bir şeyi belirten iz",
-      "answer": "İM",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Direngenlik, dediğinden dönmeme",
-      "answer": "İNAT",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mısır mitolojisinde güneş tanrısı",
-      "answer": "RA",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kişneyen binek hayvanı",
-      "answer": "AT",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tufan gemisinin sahibi peygamber",
-      "answer": "NUH",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Başarısıyla öne çıkan kimse",
-      "answer": "AS",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Baryum için kullanılan kimyasal simge",
-      "answer": "BA",
-      "row": 10,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Birkaç bölükten oluşan askeri birlik",
-      "answer": "TABUR",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük yükselti, dağdan alçak yer şekli",
-      "answer": "TEPE",
-      "row": 11,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kenarları eşit dörtgen şekil",
-      "answer": "KARE",
+      "text": "Başka, öteki, diğer",
+      "answer": "SAİR",
       "row": 12,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ulaşım için açılmış şerit",
-      "answer": "YOL",
+      "text": "Yırtıcı iri kuş",
+      "answer": "KARTAL",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Antik Yunan uygarlığının merkezi",
-      "answer": "ATİNA",
-      "row": 4,
+      "text": "Yanma olayı, od",
+      "answer": "ATEŞ",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Berilyum'un simgesi",
-      "answer": "BE",
-      "row": 10,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yere değen uzuv",
-      "answer": "AYAK",
-      "row": 0,
+      "text": "Değerli kızıl ağaç",
+      "answer": "MAUN",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Delik açma aracı",
-      "answer": "MATKAP",
+      "text": "Üst giysisi",
+      "answer": "BLUZ",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hisse, bölüşülen parça",
-      "answer": "PAY",
+      "text": "Uyarı yazısı",
+      "answer": "MUHTIRA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Helyum'un simgesi",
-      "answer": "HE",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İçine eşya konan karton ya da plastik kap",
-      "answer": "KUTU",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sınav puanı",
-      "answer": "NOT",
+      "text": "Manevi varlık",
+      "answer": "RUH",
       "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ahlak kuralları",
+      "answer": "ETİK",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Beyaz, kara karşıtı",
-      "answer": "AK",
-      "row": 10,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ukrayna'nın en büyük şehri",
-      "answer": "KİEV",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Karşılaşınca söylenen selam sözü",
-      "answer": "MERHABA",
+      "text": "Hızlı tren",
+      "answer": "EKSPRES",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Müzik",
+      "answer": "MUSİKİ",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yerel ağızda abi",
+      "answer": "AKA",
+      "row": 9,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Katma parça",
+      "answer": "EK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Güney Asya'da kullanılan para birimi",
-      "answer": "RUPİ",
-      "row": 2,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Şehri çevreleyen savunma duvarı",
-      "answer": "SUR",
-      "row": 9,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Ferahlatıcı kokusuyla bilinen bitki",
-      "answer": "NANE",
+      "text": "Üniversite diploması",
+      "answer": "LİSANS",
       "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Borazan sesi",
+      "answer": "Tİ",
+      "row": 10,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Pozisyon",
+      "answer": "KONUM",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Pars",
+      "answer": "LEOPAR",
+      "row": 6,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Batı Anadolu yiğidi",
+      "answer": "EFE",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Do'dan sonraki nota",
-      "answer": "RE",
-      "row": 10,
+      "text": "Kırmızı taneli meyve",
+      "answer": "NAR",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
@@ -271,26 +257,18 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 2
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 0,
-      "col": 8
+      "col": 5
     },
     {
       "row": 1,
-      "col": 7
+      "col": 0
     },
     {
-      "row": 1,
-      "col": 8
-    },
-    {
-      "row": 2,
+      "row": 4,
       "col": 8
     },
     {
@@ -298,32 +276,32 @@
       "col": 0
     },
     {
-      "row": 7,
-      "col": 3
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 7
-    },
-    {
-      "row": 8,
+      "row": 6,
       "col": 8
     },
     {
-      "row": 9,
+      "row": 7,
       "col": 8
     },
     {
-      "row": 10,
+      "row": 11,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 3
+      "row": 12,
+      "col": 0
+    },
+    {
+      "row": 12,
+      "col": 1
+    },
+    {
+      "row": 12,
+      "col": 2
+    },
+    {
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "kolay",

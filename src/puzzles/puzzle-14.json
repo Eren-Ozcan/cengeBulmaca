@@ -5,294 +5,263 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Turizmiyle ünlü Akdeniz ilimiz",
-      "answer": "ANTALYA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Binek hayvanı",
-      "answer": "AT",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Babanın erkek kardeşi",
-      "answer": "AMCA",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Öğrencilerin eğitim gördüğü kurum",
-      "answer": "OKUL",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İlgili, ilişkin",
-      "answer": "AİT",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde ayak",
-      "answer": "PA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tilki, tavşan gibi hayvanların barınağı",
-      "answer": "İN",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yüreklilik",
-      "answer": "CESARET",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Polonyum'un simgesi",
-      "answer": "PO",
-      "row": 6,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Kuşların ağzı",
-      "answer": "GAGA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Başında saç bulunmayan",
-      "answer": "KEL",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kelimenin sonuna gelen parça",
-      "answer": "EK",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Eğlence için yapılan takılma",
-      "answer": "ŞAKA",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Nüfusu kalabalık yerleşim yeri",
-      "answer": "ŞEHİR",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ceketin boyun çevresindeki bölümü",
-      "answer": "YAKA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Unutulmayan öfke",
-      "answer": "KİN",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Beygirin tırnağını koruyan demir",
-      "answer": "NAL",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Rütbesiz asker",
-      "answer": "ER",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Odun kesmede kullanılan dişli araç",
-      "answer": "TESTERE",
-      "row": 11,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hayıflanma sözü",
-      "answer": "AH",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Galyum'un simgesi",
-      "answer": "GA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Orkestra eşliğinde sahnelenen müzikli oyun",
-      "answer": "OPERA",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ferahlatıcı kokusuyla bilinen bitki",
-      "answer": "NANE",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Değiş tokuş",
-      "answer": "TAKAS",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Germanyum'un simgesi",
-      "answer": "GE",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Vücudu hareket ettiren doku",
-      "answer": "KAS",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İskambilde koz",
-      "answer": "ATU",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sporda ileri hamle",
-      "answer": "ATAK",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Aşağıda olan",
-      "answer": "ALT",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Para birimimiz",
-      "answer": "LİRA",
-      "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Vurgu bildiren ünlem",
-      "answer": "YA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir soru sözcüğü",
-      "answer": "NE",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Pancar veya kamıştan elde edilen tatlandırıcı",
-      "answer": "ŞEKER",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Gözleri görmeyen",
-      "answer": "AMA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Mısır'ın başkenti",
-      "answer": "KAHİRE",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ardıç kokulu bir içki",
-      "answer": "CİN",
+      "text": "Verimli düzlük",
+      "answer": "OVA",
       "row": 1,
-      "col": 7,
-      "arrow": "down"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Çin'in kuzeyindeki başkent",
-      "answer": "PEKİN",
+      "text": "Katıksız, saf",
+      "answer": "HAS",
+      "row": 1,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Dervişin giysisi",
+      "answer": "ABA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ara verme",
+      "answer": "MOLA",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sevinç ünlemi",
+      "answer": "HAH",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yok karşıtı",
+      "answer": "VAR",
+      "row": 3,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Şaka seven",
+      "answer": "ŞAKACI",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Güç, tesir",
+      "answer": "ETKİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ekin aracı",
+      "answer": "ORAK",
       "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Güney Amerika dağları",
+      "answer": "AND",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Altyapı üstündeki",
+      "answer": "ÜSTYAPI",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gizli yer",
+      "answer": "ZULA",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Hangi yer",
+      "answer": "NERE",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sevda",
+      "answer": "AŞK",
+      "row": 8,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bitiş, nihayet",
+      "answer": "SON",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Onarım",
+      "answer": "TAMİR",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir denizimiz",
+      "answer": "EGE",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Rüşvet veren",
+      "answer": "RAŞİ",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Üzüm şekeri",
+      "answer": "GLİKOZ",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aynı değerde",
+      "answer": "EŞİT",
+      "row": 4,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemin, ant",
+      "answer": "AHİT",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğuş bayramı",
+      "answer": "NOEL",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Göçebe yerleşimi",
+      "answer": "OBA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eyer ayaklığı",
+      "answer": "ÜZENGİ",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yabani",
+      "answer": "VAHŞİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kale duvarı",
+      "answer": "SUR",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İlave, ulama",
+      "answer": "EK",
+      "row": 10,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Atletizm sporcusu",
+      "answer": "ATLET",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Mevlana ilimiz",
+      "answer": "KONYA",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Piyasaya sürme",
+      "answer": "ARZ",
+      "row": 9,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Para saçan",
+      "answer": "HOVARDA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kör",
+      "answer": "AMA",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Karışık renkli",
+      "answer": "ALACA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Damağın algıladığı lezzet",
-      "answer": "TAT",
+      "text": "Kebap çubuğu",
+      "answer": "ŞİŞ",
+      "row": 8,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Başı sarıklı",
+      "answer": "SARIKLI",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "ABD'nin resmi para birimi",
-      "answer": "DOLAR",
-      "row": 4,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Do-re-mi dizisinin ilk notası",
-      "answer": "DO",
-      "row": 10,
+      "text": "Bunalım",
+      "answer": "KRİZ",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
     {
       "row": 0,
       "col": 1
@@ -303,23 +272,27 @@
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 6,
       "col": 5
     },
     {
-      "row": 7,
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 3,
       "col": 4
     },
     {
-      "row": 11,
+      "row": 6,
+      "col": 1
+    },
+    {
+      "row": 6,
       "col": 7
+    },
+    {
+      "row": 12,
+      "col": 6
     },
     {
       "row": 12,

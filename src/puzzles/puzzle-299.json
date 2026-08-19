@@ -5,240 +5,191 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Vazifeyi eda etme",
-      "answer": "İFA",
+      "text": "Görme organı",
+      "answer": "GÖZ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Vücudu hareket ettiren doku",
-      "answer": "KAS",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
+      "text": "Kimse, tip, yüz",
+      "answer": "SİMA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
     },
     {
-      "text": "Yeni karşıtı",
-      "answer": "ESKİ",
+      "text": "En iri kara hayvanı",
+      "answer": "FİL",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İtalya'nın en uzun nehri",
-      "answer": "PO",
+      "text": "Tavşan kanı olan",
+      "answer": "ÇAY",
       "row": 2,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "La'dan sonra gelen nota",
-      "answer": "Sİ",
-      "row": 3,
+      "text": "Akılla ilgili",
+      "answer": "AKLİ",
+      "row": 2,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Sarı veya mor renkli çekirdekli meyve",
-      "answer": "ERİK",
+      "text": "Aralık sözü",
+      "answer": "İLA",
       "row": 3,
-      "col": 3,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kümeste beslenen, gıdaklayan hayvan",
-      "answer": "TAVUK",
+      "text": "Ağız-burun arası",
+      "answer": "GENİZ",
       "row": 4,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Utanma duygusu",
-      "answer": "AR",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Saç şekillendirmede kullanılan pelte madde",
-      "answer": "JEL",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Radyum için kullanılan kimyasal simge",
-      "answer": "RA",
-      "row": 6,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tarlada yetişen tahıl bitkisi",
-      "answer": "EKİN",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Rütbesiz asker, nefer",
-      "answer": "ER",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeşile ve sarıya çalan göz rengi",
+      "text": "Yeşile çalan kahverengi",
       "answer": "ELA",
-      "row": 8,
+      "row": 6,
       "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ecdat",
+      "answer": "ATA",
+      "row": 5,
+      "col": 5,
       "arrow": "down-right"
     },
     {
-      "text": "Bir şeyi belirten iz",
-      "answer": "İM",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Cilt bakım maddesi",
-      "answer": "KREM",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İlkel benlik",
-      "answer": "İD",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Alaca, benekli renk",
-      "answer": "ALA",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 3,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlı döneminde giyilen kırmızı başlık",
-      "answer": "FES",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Birinci, en önce olan",
-      "answer": "İLK",
+      "text": "Eğlence yeri",
+      "answer": "GAZİNO",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hizmet alan",
+      "answer": "ABONE",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Vücut alıştırması",
+      "answer": "İDMAN",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sıkıntısız, huzurlu",
+      "answer": "ERİNÇ",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kutsal simge",
+      "answer": "TOTEM",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kızgınlık, hiddet",
+      "answer": "ÖFKE",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Payitahtın eski adlarından biri",
-      "answer": "ASİTANE",
+      "text": "Bencil",
+      "answer": "EGOİST",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tefin çıngırağı",
+      "answer": "ZİL",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İki nokta arasındaki mesafe",
-      "answer": "ARA",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tahılla karışık ekilen bir bakliyat",
-      "answer": "ARAKA",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kolun tutmaya yarayan bölümü",
-      "answer": "EL",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ukrayna'nın en büyük şehri",
-      "answer": "KİEV",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Dolaylı anlatım",
-      "answer": "İMA",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Dudaklara sürülen boya",
-      "answer": "RUJ",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Rutubet",
-      "answer": "NEM",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Haber sunucusu",
-      "answer": "SPİKER",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Dış karşıtı, dahil",
-      "answer": "İÇ",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sivri uçlu fırlatma silahı",
-      "answer": "OK",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Preparat hazırlanan cam plaka",
-      "answer": "LAM",
+      "text": "Kızılımsı sarı",
+      "answer": "ALA",
       "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Futbol kümesi",
+      "answer": "LİG",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ululuk",
+      "answer": "AZAMET",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Anlatan söz",
+      "answer": "İBARE",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Amacıyla, maksadıyla",
+      "answer": "İÇİN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Adı bilinmeyen",
+      "answer": "ANONİM",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Parayla ilgili",
+      "answer": "MALİ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bin kilogram",
+      "answer": "TON",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kutsal pınar",
+      "answer": "AYAZMA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ateş (eski dilde)",
-      "answer": "OD",
-      "row": 8,
+      "text": "Devlet temsilcisi",
+      "answer": "ELÇİ",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -249,40 +200,32 @@
       "col": 3
     },
     {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 6,
+      "row": 4,
       "col": 0
     },
     {
-      "row": 6,
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
       "col": 4
     },
     {
-      "row": 7,
+      "row": 8,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 9,
       "col": 6
     },
     {
-      "row": 11,
+      "row": 10,
       "col": 0
     },
     {
       "row": 11,
-      "col": 5
-    },
-    {
-      "row": 11,
-      "col": 7
+      "col": 6
     }
   ],
   "difficulty": "orta",

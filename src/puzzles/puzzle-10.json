@@ -5,261 +5,191 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Hardal gazı olarak da bilinen zehirli gaz",
-      "answer": "İPERİT",
+      "text": "Geviş getiren midesi",
+      "answer": "İŞKEMBE",
       "row": 1,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hukukun temel ilkesi",
-      "answer": "ADALET",
+      "text": "İskambilde koz",
+      "answer": "ATU",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İnce gözlü örgü ağ",
-      "answer": "TOR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ateş (eski dilde)",
-      "answer": "OD",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Satrançta şah ve vezirden farklı bir taş",
-      "answer": "AT",
+      "text": "Kötü, alçak, soysuz",
+      "answer": "HABİS",
       "row": 3,
-      "col": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Olağanüstü",
+      "answer": "HARİKA",
+      "row": 3,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Spor karşılaşmaları kümesi",
-      "answer": "LİG",
+      "text": "Kısa fıkra",
+      "answer": "ANEKDOT",
       "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Hükümdarların taşıdığı değnek",
-      "answer": "ASA",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Fotosentez yapan ağaç organı",
-      "answer": "YAPRAK",
+      "text": "Akım geçiren",
+      "answer": "İLETKEN",
       "row": 6,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yığın",
-      "answer": "KÜME",
+      "text": "Temiz, saf",
+      "answer": "ARI",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Temel, esas",
-      "answer": "ANA",
+      "text": "Yapı arazisi",
+      "answer": "ARSA",
       "row": 7,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "İzlenecek yol",
-      "answer": "ROTA",
+      "text": "Aynı doğumlu",
+      "answer": "İKİZ",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hareketi sağlayan doku",
-      "answer": "KAS",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Baryum'un simgesi",
-      "answer": "BA",
-      "row": 10,
+      "text": "Enerji ölçü birimi",
+      "answer": "KALORİ",
+      "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ustanın yanında meslek öğrenen genç",
-      "answer": "ÇIRAK",
+      "text": "Toprak altı yumrusu",
+      "answer": "PATATES",
       "row": 10,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "'-la, -le' yerine kullanılan bağlaç",
-      "answer": "İLE",
+      "text": "Fırsat",
+      "answer": "PUNT",
       "row": 11,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "İnce, uzun örtü",
-      "answer": "ŞAL",
-      "row": 12,
-      "col": 2,
-      "arrow": "right"
+      "text": "Gayret",
+      "answer": "ÇABA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down"
     },
     {
-      "text": "Avcının kısmeti",
-      "answer": "AV",
-      "row": 12,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Do-re-mi dizisinin ilk notası",
-      "answer": "DO",
-      "row": 1,
+      "text": "Yok etme",
+      "answer": "İMHA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bir sınıfa ait olma özelliği",
-      "answer": "TÜR",
+      "text": "Kocaman",
+      "answer": "İRİ",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Doğal, yeşil açık alan",
-      "answer": "KIR",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Oyuncunun canlandırdığı kişi",
-      "answer": "ROL",
+      "text": "Yılın son ayı",
+      "answer": "ARALIK",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kırmızı ile mavinin karışımı renk",
-      "answer": "MOR",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Eskiden kullanılan 'ayak' anlamlı kelime",
-      "answer": "PA",
+      "text": "Bakanlar kurulu",
+      "answer": "KABİNE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kilo vermek için uygulanan beslenme düzeni",
-      "answer": "DİYET",
-      "row": 3,
+      "text": "Eski dilde yapma",
+      "answer": "İKA",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kafa; önder",
-      "answer": "BAŞ",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İşve, naz",
-      "answer": "EDA",
+      "text": "Fiyat kâğıdı",
+      "answer": "ETİKET",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Galyum'un simgesi",
-      "answer": "GA",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yem bitkisi olarak ekilen baklagil",
-      "answer": "ARAKA",
+      "text": "Kişi, şahıs",
+      "answer": "ZAT",
       "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Firavunların taptığı güneş tanrısı",
-      "answer": "RA",
+      "text": "Patlıcanlı fırın yemeği",
+      "answer": "MUSAKKA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Vilayet",
-      "answer": "İL",
-      "row": 0,
+      "text": "Nişastalı bulamaç",
+      "answer": "LAPA",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kokulu yeşillik",
+      "answer": "DEREOTU",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Saç düzeltme aracı",
-      "answer": "TARAK",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce metal iplik",
-      "answer": "TEL",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Estetik değer taşıyan uğraş",
-      "answer": "SANAT",
+      "text": "Ağırlık birimi",
+      "answer": "ONS",
       "row": 4,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Lantan'ın simgesi",
-      "answer": "LA",
-      "row": 10,
+      "text": "Görsel duyum",
+      "answer": "RENK",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Mal karşılığı mal alma",
-      "answer": "TAKAS",
-      "row": 3,
+      "text": "Hükümdar koltuğu",
+      "answer": "TAHT",
+      "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Masallardaki iri yaratık",
-      "answer": "DEV",
-      "row": 9,
+      "text": "Gol pası",
+      "answer": "ASİST",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -271,27 +201,39 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 0,
       "col": 8
     },
     {
-      "row": 1,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 1,
-      "col": 8
+      "row": 2,
+      "col": 6
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 7
     },
     {
       "row": 5,
@@ -299,19 +241,43 @@
     },
     {
       "row": 9,
-      "col": 0
+      "col": 1
     },
     {
-      "row": 9,
-      "col": 5
+      "row": 11,
+      "col": 1
     },
     {
-      "row": 10,
-      "col": 5
+      "row": 11,
+      "col": 2
+    },
+    {
+      "row": 11,
+      "col": 3
     },
     {
       "row": 12,
-      "col": 0
+      "col": 1
+    },
+    {
+      "row": 12,
+      "col": 2
+    },
+    {
+      "row": 12,
+      "col": 3
+    },
+    {
+      "row": 12,
+      "col": 4
+    },
+    {
+      "row": 12,
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "zor",

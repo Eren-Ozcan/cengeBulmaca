@@ -5,190 +5,183 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kişi, şahıs (eski dilde)",
-      "answer": "ZAT",
+      "text": "Uçmak işi",
+      "answer": "UÇUŞ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ocakta kızartma yapılan kap",
-      "answer": "TAVA",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
+      "text": "Havalandırma pervanesi",
+      "answer": "FAN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
     },
     {
-      "text": "Turnusolu kızartan kimyasal madde",
-      "answer": "ASİT",
+      "text": "Meyve",
+      "answer": "YEMİŞ",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Doğuma yardım eden sağlıkçı",
-      "answer": "EBE",
+      "text": "Mısır heykeli",
+      "answer": "SFENKS",
       "row": 3,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Hindistan'ın para birimi",
-      "answer": "RUPİ",
+      "text": "Mikro karşıtı",
+      "answer": "MAKRO",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yüz kızartan duygu",
-      "answer": "AR",
+      "text": "Kağıt huni",
+      "answer": "KÜLAH",
       "row": 4,
-      "col": 5,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Gıdaların enerji değeri birimi",
-      "answer": "KALORİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Zemin, arka plan",
-      "answer": "FON",
+      "text": "Güç, derman",
+      "answer": "TAKAT",
       "row": 6,
-      "col": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Verme, ödeme (eski dilde)",
-      "answer": "İTA",
+      "text": "Yazık ünlemi",
+      "answer": "VAH",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şiddetli fırtına",
+      "answer": "BORA",
       "row": 7,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yakacak ağaç parçası",
-      "answer": "ODUN",
+      "text": "Kırkılmış koyun yünü",
+      "answer": "YAPAĞI",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Seslenirken kullanılan ünlem",
-      "answer": "EY",
+      "text": "Ardıç içkisi",
+      "answer": "CİN",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kimyada Çinko'nun simgesi",
-      "answer": "ZN",
+      "text": "Yunan rakısı",
+      "answer": "UZO",
       "row": 9,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Farsça kökenli 'su' sözcüğü",
-      "answer": "AB",
+      "text": "Uzunluk ölçüsü",
+      "answer": "MİL",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Avlanan hayvan",
-      "answer": "AV",
+      "text": "İran hükümdarı",
+      "answer": "ŞAH",
       "row": 10,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Tığ veya iğneyle yapılan el işi",
-      "answer": "OYA",
-      "row": 7,
+      "text": "Japon şiiri",
+      "answer": "UTA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Uysal kimse",
+      "answer": "MÜLAYİM",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yumurta veren kümes hayvanı",
-      "answer": "TAVUK",
+      "text": "Yumuşak başlı",
+      "answer": "UYSAL",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Freud'un kişilik kuramında ilkel benlik",
-      "answer": "İD",
+      "text": "Nerede, ne oldu",
+      "answer": "HANİ",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde ayak",
-      "answer": "PA",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Deniz suyundan elde edilen beyaz mineral",
-      "answer": "TUZ",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Nefesli çalgı sesini taklit eden hece",
-      "answer": "Tİ",
+      "text": "Sevecenlik",
+      "answer": "ŞEFKAT",
       "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir selamlaşma sözü",
+      "answer": "MERHABA",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "81 tanesi olan idari birim",
-      "answer": "İL",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğuran, büyüten kadın",
-      "answer": "ANNE",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tanrı fikrini reddeden kişi",
-      "answer": "ATE",
+      "text": "Süs köpeği",
+      "answer": "FİNO",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Karadeniz'de bir Trabzon ilçesi",
-      "answer": "OF",
-      "row": 4,
+      "text": "Kalabalık yatakhane",
+      "answer": "KOĞUŞ",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Avukatların üye olduğu meslek örgütü",
-      "answer": "BARO",
-      "row": 2,
+      "text": "Kara sevda",
+      "answer": "AŞK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kılçıklı küçük deniz balığı",
-      "answer": "ATERİNA",
-      "row": 0,
+      "text": "Makinedeki bozukluk",
+      "answer": "ARIZA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Medrese öğrencisi",
+      "answer": "SOFTA",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Konut, hane",
-      "answer": "EV",
+      "text": "Beğenme sesi",
+      "answer": "OH",
       "row": 8,
       "col": 7,
       "arrow": "down"
@@ -201,66 +194,18 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 1
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 1
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
+      "row": 4,
       "col": 6
     },
     {
       "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
       "col": 3
     }
   ],

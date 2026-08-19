@@ -5,233 +5,205 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Hayvanların yer altındaki yuvası",
-      "answer": "İN",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Berilyum için kullanılan kimyasal simge",
-      "answer": "BE",
+      "text": "İnce metal çubuk",
+      "answer": "TEL",
       "row": 1,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir fazlası olan sayı",
-      "answer": "İKİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Pak, temiz anlamında da kullanılan renk",
-      "answer": "AK",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Dört nala koşan hayvan",
-      "answer": "AT",
-      "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çek Cumhuriyeti'nin başkenti",
-      "answer": "PRAG",
-      "row": 4,
+      "text": "Baklagillerden ağaç",
+      "answer": "AKASYA",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Pistonlu boru",
+      "answer": "TROMPET",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Müzikte susma işareti",
-      "answer": "ES",
+      "text": "Formda, zinde",
+      "answer": "FİT",
       "row": 3,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Parlak olmayan",
-      "answer": "MAT",
-      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kızgınlık, hiddet",
-      "answer": "ÖFKE",
+      "text": "Yatak konan yer",
+      "answer": "ODA",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Saydam taş",
+      "answer": "BERİL",
       "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Evin çevresindeki yeşil alan",
-      "answer": "BAHÇE",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Allah'ın yarattığı insan",
-      "answer": "KUL",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Etrafı suyla kaplı toprak",
-      "answer": "ADA",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırmızı renk",
-      "answer": "AL",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Batı Anadolu yiğidi",
-      "answer": "EFE",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Fasıla",
-      "answer": "ARA",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sandığa atılan tercih",
-      "answer": "OY",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pancar veya kamıştan elde edilen tatlandırıcı",
-      "answer": "ŞEKER",
-      "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 0,
+      "text": "Dazlak",
+      "answer": "KEL",
+      "row": 6,
       "col": 1,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Ayakkabı",
-      "answer": "PABUÇ",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Seslenme ünlemi",
-      "answer": "EY",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gökyüzünün güçlü avcı kuşu",
+      "text": "Yırtıcı iri kuş",
       "answer": "KARTAL",
-      "row": 1,
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Boyun kürkü",
+      "answer": "BOA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İsyankâr",
+      "answer": "ASİ",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Saf içki",
+      "answer": "SEK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tasdik",
+      "answer": "ONAY",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Naz yapan",
+      "answer": "CİLVELİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Atış uzaklığı",
+      "answer": "ATIM",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Küçük ekip",
+      "answer": "TİM",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İlk bilgi",
+      "answer": "ABECE",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Meyveli pasta",
+      "answer": "TART",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Suçu bağışlama",
-      "answer": "AF",
-      "row": 8,
+      "text": "Taslak çizim",
+      "answer": "KROKİ",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Verme, ödeme (eski dilde)",
-      "answer": "İTA",
-      "row": 1,
+      "text": "Yankı",
+      "answer": "EKO",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Akbabaların beslendiği hayvan ölüsü",
-      "answer": "LEŞ",
-      "row": 8,
+      "text": "İkinci Yunan harfi",
+      "answer": "BETA",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Toplu yer değiştirme",
-      "answer": "GÖÇ",
-      "row": 3,
+      "text": "Mikroskop parçası",
+      "answer": "LAM",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Demir'in simgesi",
-      "answer": "FE",
+      "text": "Yeşile çalan kahverengi",
+      "answer": "ELA",
       "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Düz geniş arazi",
+      "answer": "OVA",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Beden etkinliği",
+      "answer": "SPOR",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Girişken, çevik",
-      "answer": "ATAK",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Baryum'un simgesi",
-      "answer": "BA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İlave, ulama",
-      "answer": "EK",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İskoç desenli kumaş",
-      "answer": "EKOSE",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Sodyum için kullanılan kimyasal simge",
-      "answer": "NA",
+      "text": "Beddua, kargış",
+      "answer": "LANET",
       "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Altıdan sonraki sayı",
+      "answer": "YEDİ",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İkinci gün",
+      "answer": "SALI",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sofra aracı",
+      "answer": "ÇATAL",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Haya, utanç duygusu",
-      "answer": "AR",
-      "row": 9,
+      "text": "Kıyafet",
+      "answer": "GİYİM",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -239,63 +211,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 4
-    },
-    {
-      "row": 2,
-      "col": 4
-    },
-    {
-      "row": 3,
       "col": 0
     },
     {
-      "row": 3,
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 6,
       "col": 6
     },
     {
-      "row": 7,
-      "col": 3
-    },
-    {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
+      "row": 11,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 4
+      "row": 11,
+      "col": 2
     }
   ],
   "difficulty": "orta",

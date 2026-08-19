@@ -5,266 +5,228 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
+      "text": "Tekneyi yanaştırma",
+      "answer": "ABORDA",
       "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ordu mensubu",
+      "answer": "ASKER",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kemikten ayrılan",
+      "answer": "ET",
+      "row": 2,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Küçük güvercin",
+      "answer": "KUMRU",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hadi, çabuk",
+      "answer": "HA",
+      "row": 3,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Bağlı düşünce",
+      "answer": "İNANÇ",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ördeğin iri akrabası",
+      "answer": "KAZ",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski dilde ödeme",
+      "answer": "İTA",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Borç teminatı",
+      "answer": "TUTU",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Almanya'dan geçen nehir",
+      "answer": "REN",
+      "row": 7,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Parmak zili",
+      "answer": "ÇALPARA",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Şerbetli yufka tatlısı",
+      "answer": "BAKLAVA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çam yaprağı",
+      "answer": "PÜR",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Terazi simgesiyle anılan kavram",
-      "answer": "ADALET",
+      "text": "Deri hastalığı",
+      "answer": "UYUZ",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "39'dan sonraki sayı",
+      "answer": "KIRK",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Süs oyuğu",
+      "answer": "NİŞ",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Gerçek",
+      "answer": "HAKİKAT",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dere kıyısı tarla",
+      "answer": "BÜK",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek ördek",
+      "answer": "SUNA",
       "row": 1,
       "col": 2,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Kokpitte uçağı yöneten kişi",
-      "answer": "PİLOT",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hitapta kullanılan seslenme sözü",
-      "answer": "YA",
-      "row": 2,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "'İle' anlamında bağlaç",
-      "answer": "VE",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ateşin yükselen dili",
-      "answer": "ALEV",
-      "row": 3,
+      "text": "Haşarı, yaramaz",
+      "answer": "UÇARI",
+      "row": 6,
       "col": 2,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Türkiye'nin idari bölünme birimi",
-      "answer": "İL",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
+      "text": "Su birikintisi",
+      "answer": "AKMAZ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
     },
     {
-      "text": "Ev veya işyeri için ödenen aylık bedel",
-      "answer": "KİRA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Anıtsal kapı",
+      "answer": "TAK",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
     },
     {
-      "text": "Bacağın alt ucu",
-      "answer": "AYAK",
+      "text": "İsviçre'nin başkenti",
+      "answer": "BERN",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Toprak sürme aracı",
+      "answer": "PULLUK",
       "row": 5,
       "col": 4,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Deriden salgılanan sıvı",
-      "answer": "TER",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
+      "text": "Yemeden durma",
+      "answer": "ORUÇ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
     },
     {
-      "text": "Yeşil çim üzerindeki oyun alanı",
-      "answer": "SAHA",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Işığı yansıtmayan yüzey",
-      "answer": "MAT",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırmızı taneli bir meyve",
-      "answer": "NAR",
+      "text": "Hisse, parça",
+      "answer": "PAY",
       "row": 7,
       "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Parlak, pullu bir mineral",
-      "answer": "MİKA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Geçmişten kalan iz",
-      "answer": "ANI",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Babanın kız kardeşi olan akraba",
-      "answer": "HALA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zamanın çok kısa parçası",
-      "answer": "AN",
-      "row": 9,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "CGS sisteminde iş ve enerji birimi",
-      "answer": "ERG",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Do-re-mi'nin son hecesi",
-      "answer": "Mİ",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hardal kokulu savaş gazı",
-      "answer": "İPERİT",
-      "row": 0,
-      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gökyüzünün rengi",
-      "answer": "MAVİ",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski bir fal çeşidi",
-      "answer": "REMİL",
+      "text": "Mısır hükümdarı",
+      "answer": "FİRAVUN",
       "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Alaca, benekli renk",
-      "answer": "ALA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tahılla karışık ekilen bir bakliyat",
-      "answer": "ARAKA",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Boş karşıtı",
-      "answer": "DOLU",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tantal için kullanılan kimyasal simge",
-      "answer": "TA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Notada durak işareti",
-      "answer": "ES",
-      "row": 9,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tanrıtanımaz kimse",
-      "answer": "ATE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Başarısıyla öne çıkan kimse",
-      "answer": "AS",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ön karşıtı yön",
-      "answer": "ART",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tuna kıyısındaki başkent",
-      "answer": "VİYANA",
-      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Galyum'un kimyasal simgesi",
-      "answer": "GA",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Dikkat çekme ünlemi",
-      "answer": "EY",
+      "text": "Üstün zekâ",
+      "answer": "DEHA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yeşil yapraklı kış sebzesi",
-      "answer": "LAHANA",
-      "row": 3,
+      "text": "Eylül-ekim burcu",
+      "answer": "TERAZİ",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Futbolda yan atışı",
-      "answer": "TAÇ",
+      "text": "Dede, cet",
+      "answer": "ATA",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Koloni halinde yaşayan çalışkan böcek",
-      "answer": "KARINCA",
-      "row": 4,
+      "text": "Baba karşıtı",
+      "answer": "ANA",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
     {
       "row": 0,
       "col": 2
@@ -274,16 +236,32 @@
       "col": 6
     },
     {
-      "row": 7,
+      "row": 1,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 2
+      "row": 4,
+      "col": 8
+    },
+    {
+      "row": 5,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 8
     },
     {
       "row": 10,
-      "col": 7
+      "col": 8
     }
   ],
   "difficulty": "orta",

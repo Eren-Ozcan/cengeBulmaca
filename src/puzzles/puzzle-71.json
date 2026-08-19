@@ -5,163 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Adaletin gerektirdiği şey",
-      "answer": "HAK",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kağıt üzerine basılan günlük yayın",
-      "answer": "GAZETE",
+      "text": "Ön karşıtı",
+      "answer": "ARKA",
       "row": 1,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Osmanlı döneminde çok sevilen çiçek",
-      "answer": "LALE",
-      "row": 2,
+      "text": "Kelam",
+      "answer": "SÖZ",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Derde deva olan madde (eski dilde)",
-      "answer": "EM",
+      "text": "Yetki değneği",
+      "answer": "ASA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Su içilen kap",
+      "answer": "TAS",
       "row": 3,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Denizde tehlikeli sert rüzgar",
-      "answer": "BORA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kış mevsiminin beyaz yağışı",
-      "answer": "KAR",
+      "text": "Yer halkı",
+      "answer": "AHALİ",
       "row": 4,
       "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hayvanların yer altındaki yuvası",
-      "answer": "İN",
-      "row": 5,
-      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "İyileşmesi gereken doku hasarı",
-      "answer": "YARA",
+      "text": "Şeref, haysiyet",
+      "answer": "ONUR",
       "row": 5,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Periyodik tablodaki Sodyum'un simgesi",
-      "answer": "NA",
+      "text": "Geçici bırakılan",
+      "answer": "EMANET",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Anlama, hatırlama ünlemi",
-      "answer": "HA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down-right"
+      "text": "Anlatım, açıklama",
+      "answer": "İFADE",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Çikolatanın ham maddesi",
-      "answer": "KAKAO",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uzun kulaklı, hızlı koşan otçul hayvan",
-      "answer": "TAVŞAN",
+      "text": "Az soğuk",
+      "answer": "SERİN",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
-      "row": 2,
+      "text": "Baraj duvarı",
+      "answer": "SET",
+      "row": 1,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Galyum'un simgesi",
-      "answer": "GA",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuşu havada tutan organ",
-      "answer": "KANAT",
+      "text": "Tırnak cilası",
+      "answer": "OJE",
       "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Arıların yaptığı tatlı besin",
-      "answer": "BAL",
+      "text": "Aşırı büyümüş",
+      "answer": "AZMAN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bezelyeye benzer bir bitki",
-      "answer": "ARAKA",
-      "row": 4,
+      "text": "Hoş koku",
+      "answer": "MİS",
+      "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çizgili Afrika hayvanı",
-      "answer": "ZEBRA",
-      "row": 1,
+      "text": "Boş inanç",
+      "answer": "HURAFE",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Avcının kısmeti",
-      "answer": "AV",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Helyum için kullanılan kimyasal simge",
-      "answer": "HE",
+      "text": "Tren",
+      "answer": "KATAR",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Beğenilen, tatlı",
-      "answer": "HOŞ",
+      "text": "Kabuklu güz meyvesi",
+      "answer": "NAR",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kılçıklı küçük deniz balığı",
-      "answer": "ATERİNA",
+      "text": "Esas, temel",
+      "answer": "ASAL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yayla çalınan telli çalgı",
-      "answer": "KEMAN",
-      "row": 0,
+      "text": "Miyavlayan hayvan",
+      "answer": "KEDİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İsyankâr",
+      "answer": "ASİ",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Vücudun dışı",
+      "answer": "TEN",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     }
@@ -180,24 +159,28 @@
       "col": 3
     },
     {
-      "row": 1,
-      "col": 0
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 1
+    },
+    {
+      "row": 5,
+      "col": 6
     },
     {
       "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 6
+      "col": 0
     },
     {
       "row": 8,
-      "col": 5
+      "col": 0
     },
     {
-      "row": 8,
-      "col": 6
+      "row": 9,
+      "col": 0
     }
   ],
   "difficulty": "orta",

@@ -5,211 +5,190 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Geceleri parlayan gök cismi",
-      "answer": "YILDIZ",
+      "text": "Sevinçli, neşeli",
+      "answer": "ŞAD",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İskambilde birli kağıt",
-      "answer": "AS",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Dikenli küçük memeli",
-      "answer": "KİRPİ",
-      "row": 2,
-      "col": 0,
+      "text": "Okyanus derinliği",
+      "answer": "ABİS",
+      "row": 0,
+      "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Lityum'un kimyasal simgesi",
-      "answer": "Lİ",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Duvara delik açmakta kullanılan alet",
-      "answer": "MATKAP",
-      "row": 4,
+      "text": "Davranış, işlem",
+      "answer": "MUAMELE",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yanma olayının eski adı",
-      "answer": "OD",
-      "row": 5,
-      "col": 3,
+      "text": "Öz, nitelik",
+      "answer": "MAHİYET",
+      "row": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yüzde ile ifade edilen değer",
-      "answer": "ORAN",
+      "text": "Ufak karşıtı",
+      "answer": "İRİ",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Nispet ilişkisi",
+      "answer": "ORANTI",
       "row": 5,
       "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Baryum'un simgesi",
-      "answer": "BA",
-      "row": 6,
-      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Beden eğitimi etkinliği",
-      "answer": "SPOR",
-      "row": 6,
+      "text": "Gelişmemiş, iptidai",
+      "answer": "İLKEL",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Adaletin gerektirdiği şey",
+      "text": "Aşağı bölüm",
+      "answer": "ALT",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Adalet, hukuk",
       "answer": "HAK",
       "row": 7,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "İlaç, merhem (halk dili)",
-      "answer": "EM",
-      "row": 8,
+      "text": "Yavruyu doğuran",
+      "answer": "ANA",
+      "row": 7,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yere serilen havlı dokuma",
-      "answer": "HALI",
+      "text": "Ayrılan gider",
+      "answer": "HARÇ",
       "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Dört tekerlekli taşıt",
-      "answer": "ARABA",
-      "row": 8,
+      "text": "Kuruntulu",
+      "answer": "EVHAMLI",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boyun eğme",
+      "answer": "İTAAT",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kasabın sattığı gıda",
-      "answer": "ET",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Japon halk türküsü",
-      "answer": "UTA",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İşaret, belirti",
-      "answer": "İM",
-      "row": 2,
+      "text": "Şaşma ünlemi",
+      "answer": "AMMA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Orkestra eşliğinde sahnelenen müzikli oyun",
-      "answer": "OPERA",
+      "text": "Beddua, kargış",
+      "answer": "LANET",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Türkiye'nin resmi para birimi",
-      "answer": "LİRA",
+      "text": "Yakarış, niyaz",
+      "answer": "DUA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İtalya'nın başkenti",
-      "answer": "ROMA",
-      "row": 5,
+      "text": "Hamur açacağı",
+      "answer": "OKLAVA",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Platin'in kimyasal simgesi",
-      "answer": "PT",
-      "row": 2,
+      "text": "Öbür dünya",
+      "answer": "AHİRET",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Haya, utanç duygusu",
-      "answer": "AR",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "'Şu' ve 'o'ya göre en yakın olan",
-      "answer": "BU",
+      "text": "'İşte' ünlemi",
+      "answer": "HA",
       "row": 8,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ortodoks kiliselerinde bulunan kutsal tasvir",
-      "answer": "İKON",
-      "row": 2,
+      "text": "Deniz generali",
+      "answer": "AMİRAL",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Güzel yazı sanatı",
+      "text": "Yazı sanatı",
       "answer": "HAT",
       "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir şeyi tanımlayan sözcük",
-      "answer": "AD",
-      "row": 3,
+      "text": "Düşünme organı",
+      "answer": "BEYİN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "'İşte' anlamında bir ünlem",
-      "answer": "HA",
+      "text": "İşlenmemiş madde",
+      "answer": "HAM",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yiğit, kahraman",
-      "answer": "ALP",
-      "row": 1,
+      "text": "Birliktelik bağlacı",
+      "answer": "İLE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sahne dansı sanatı",
-      "answer": "BALE",
-      "row": 5,
+      "text": "Hayâlı, utangaç",
+      "answer": "ARLI",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "La'dan sonraki nota",
-      "answer": "Sİ",
-      "row": 1,
+      "text": "Baraj duvarı",
+      "answer": "SET",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Motorların çalışması için gerekli enerji maddesi",
-      "answer": "YAKIT",
+      "text": "Irkçılık yanlısı",
+      "answer": "IRKÇI",
       "row": 4,
       "col": 7,
       "arrow": "down"
@@ -218,39 +197,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 3
     },
     {
-      "row": 0,
-      "col": 4
+      "row": 4,
+      "col": 0
     },
     {
-      "row": 0,
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 10,
       "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 6
     },
     {
       "row": 10,

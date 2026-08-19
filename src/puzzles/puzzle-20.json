@@ -5,177 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Altın'ın simgesi",
-      "answer": "AU",
+      "text": "Ağacın kolu",
+      "answer": "DAL",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tanrı ve kahramanları konu alan anlatı",
-      "answer": "MİT",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Üst karşıtı",
-      "answer": "ALT",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Fındık rengi göz",
-      "answer": "ELA",
-      "row": 2,
+      "text": "Tekrar isteği",
+      "answer": "BİS",
+      "row": 1,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Mektubun üzerine yazılan yer bilgisi",
-      "answer": "ADRES",
+      "text": "Öbürü",
+      "answer": "ÖTEKİ",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayvan besini",
+      "answer": "YEM",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski dilde köpük",
+      "answer": "KEF",
       "row": 3,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "İlenme, yakınma ünlemi",
-      "answer": "AH",
+      "text": "Gürültü patırtı",
+      "answer": "ŞAMATA",
       "row": 4,
-      "col": 2,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Karışık renkli, benekli",
-      "answer": "ALA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sayıların ilki",
-      "answer": "BİR",
+      "text": "Tuşlu telli çalgı",
+      "answer": "PİYANO",
       "row": 6,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Periyodik tablodaki Çinko'nun simgesi",
-      "answer": "ZN",
+      "text": "Gelir taşınmazı",
+      "answer": "AKAR",
       "row": 7,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kör kimse",
-      "answer": "AMA",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bakır'ın kimyasal simgesi",
-      "answer": "CU",
+      "text": "İnandırma, kandırma",
+      "answer": "İKNA",
       "row": 8,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yayla atılan ince silah",
-      "answer": "OK",
+      "text": "Hekim yardımcısı",
+      "answer": "ASİSTAN",
       "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 9,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Temel, esas",
-      "answer": "ANA",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Divan edebiyatında su",
-      "answer": "AB",
-      "row": 1,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Kızıl renk",
-      "answer": "AL",
+      "text": "Göğüs, kaburga",
+      "answer": "DÖŞ",
       "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Değişken istek",
+      "answer": "KAPRİS",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Notada sessizlik simgesi",
-      "answer": "ES",
-      "row": 4,
-      "col": 0,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Geleneksel Japon ezgisi",
-      "answer": "UTA",
+      "text": "Akyuvar hastalığı",
+      "answer": "LÖSEMİ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İstiridyeden çıkan değerli tane",
-      "answer": "İNCİ",
-      "row": 5,
+      "text": "Cümleleri bağlayan",
+      "answer": "Kİ",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Rusça'da 'evet'",
-      "answer": "DA",
-      "row": 2,
+      "text": "Duvar kaplaması",
+      "answer": "FAYANS",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Karşılaşınca söylenen selam sözü",
-      "answer": "MERHABA",
+      "text": "Koca, eş",
+      "answer": "BEY",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "'-la, -le' yerine kullanılan söz",
-      "answer": "İLE",
+      "text": "Güç, derman",
+      "answer": "TAKAT",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çiçek düzenleme",
+      "answer": "İKEBANA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ekşi, sarı meyve",
-      "answer": "LİMON",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Su içmede kullanılan küçük kap",
-      "answer": "TAS",
+      "text": "Gümüş iplik",
+      "answer": "SİM",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tahılla karışık ekilen bir bakliyat",
-      "answer": "ARAKA",
-      "row": 4,
+      "text": "Nispet",
+      "answer": "ORAN",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -183,27 +148,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
       "col": 3
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 4,
+      "col": 6
     },
     {
-      "row": 6,
+      "row": 7,
       "col": 0
-    },
-    {
-      "row": 6,
-      "col": 1
     },
     {
       "row": 8,
-      "col": 0
+      "col": 5
     }
   ],
   "difficulty": "kolay",

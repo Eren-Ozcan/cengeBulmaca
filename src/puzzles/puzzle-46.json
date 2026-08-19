@@ -5,254 +5,219 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Oyunun bölümü",
-      "answer": "PERDE",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dünya'nın uydusu",
-      "answer": "AY",
-      "row": 0,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mekân; zemin",
-      "answer": "YER",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağacın kolu",
-      "answer": "DAL",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Televizyonda haberleri okuyan kişi",
-      "answer": "SPİKER",
-      "row": 3,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pazartesiden sonraki gün",
-      "answer": "SALI",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tramvayın üzerinde ilerlediği hat",
-      "answer": "RAY",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Batıcı bitki çıkıntısı",
-      "answer": "DİKEN",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
-      "row": 6,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Deriden salgılanan sıvı",
-      "answer": "TER",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ovadan yüksekte, dağdan alçak yer",
-      "answer": "TEPE",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Çay ve yemeklerde kullanılan kokulu bitki",
-      "answer": "NANE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Saygıyla anılan büyük erkek kardeş",
-      "answer": "AKA",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Defa, sefer",
-      "answer": "KEZ",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir denizimiz ve bölgemiz",
+      "text": "Batı bölgemiz",
       "answer": "EGE",
-      "row": 9,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İnanç, görüş",
-      "answer": "KANI",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Çaba, uğraş",
-      "answer": "EMEK",
-      "row": 10,
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İki niceliğin karşılaştırılması",
-      "answer": "ORAN",
-      "row": 11,
+      "text": "İslam'ın beşinci şartı",
+      "answer": "HAC",
+      "row": 1,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Notada durak işareti",
-      "answer": "ES",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İşlenerek metale dönüşen cevher",
-      "answer": "MADEN",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Şifa veren madde",
-      "answer": "EM",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Orta Avrupa'nın büyük nehri",
-      "answer": "REN",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Türkiye'nin resmi para birimi",
-      "answer": "LİRA",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Germanyum'un kimyasal simgesi",
-      "answer": "GE",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Aralıksız, seyrek karşıtı",
-      "answer": "SIK",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dilbilgisinde kelimeye eklenen parça",
-      "answer": "EK",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Seslenme ünlemi",
-      "answer": "EY",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Belden aşağı giysi",
-      "answer": "ETEK",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Selimiye Camii'nin bulunduğu şehir",
-      "answer": "EDİRNE",
-      "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yankı",
-      "answer": "EKO",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bezelyeye benzer bir bitki",
-      "answer": "ARAKA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sebze meyve satılan açık alan",
-      "answer": "PAZAR",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bacaları yuva olarak seçen göçmen kuş",
-      "answer": "LEYLEK",
+      "text": "Kutsal kadın",
+      "answer": "AZİZE",
       "row": 2,
-      "col": 7,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 9,
-      "col": 7,
-      "arrow": "down"
+      "text": "Üstün, seçkin",
+      "answer": "KLAS",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Yüzün üst bölümü",
-      "answer": "ALIN",
+      "text": "Kedisiyle ünlü ilimiz",
+      "answer": "VAN",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Namus sözü",
+      "answer": "ANT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Temel öz",
+      "answer": "ESAS",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Söylence",
+      "answer": "EFSANE",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İçki dağıtıcı",
+      "answer": "SAKİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Telefon sözü",
+      "answer": "ALO",
       "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Beyaz renk",
+      "answer": "AK",
+      "row": 6,
+      "col": 7,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yönetme",
+      "answer": "İDARE",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Taşınmaz mal",
+      "answer": "MÜLK",
+      "row": 8,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "En soğuk mevsim",
+      "answer": "KIŞ",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Deneyimsiz, acemi",
+      "answer": "TOY",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Korku ünlemi",
+      "answer": "ABO",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Direksiyon parçası",
+      "answer": "ROT",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ortodoks Hristiyan",
+      "answer": "RUM",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Gök ada",
+      "answer": "GALAKSİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Menekşe rengi",
+      "answer": "MOR",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Namaza çağrı",
+      "answer": "EZAN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yararlı ipucu",
+      "answer": "TÜYO",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilardo sopası",
+      "answer": "İSTEKA",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Cankurtaran sandalı",
+      "answer": "FİLİKA",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İstek duygusu",
+      "answer": "HEVES",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde ateş",
+      "answer": "OD",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Esas, temel",
+      "answer": "ASAL",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Müzikal uyum",
+      "answer": "AKOR",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sevgili kadın",
+      "answer": "CANAN",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Sokan böcek",
+      "answer": "ARI",
+      "row": 6,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kafa tutan",
+      "answer": "SERKEŞ",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     }
@@ -264,11 +229,11 @@
     },
     {
       "row": 0,
-      "col": 5
+      "col": 4
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 0,
@@ -283,20 +248,28 @@
       "col": 8
     },
     {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 8
-    },
-    {
       "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
+      "row": 10,
       "col": 8
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 11,
+      "col": 4
     }
   ],
   "difficulty": "zor",

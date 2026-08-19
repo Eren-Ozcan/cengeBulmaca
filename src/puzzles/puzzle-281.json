@@ -5,184 +5,114 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Işık veren elektrikli araç",
-      "answer": "LAMBA",
+      "text": "Kan pompası",
+      "answer": "KALP",
       "row": 0,
-      "col": 2,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Muvazene",
-      "answer": "DENGE",
-      "row": 1,
-      "col": 1,
-      "arrow": "down-right"
+      "text": "Sürekli, kesintisiz",
+      "answer": "DAİM",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Mobilyacılıkta kullanılan kızıl kerestelik ağaç",
-      "answer": "MAUN",
+      "text": "Yahudi ibadethanesi",
+      "answer": "HAVRA",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Element tablosunda Lantan'ın simgesi",
-      "answer": "LA",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kelimenin sonuna gelen parça",
-      "answer": "EK",
+      "text": "Jargon",
+      "answer": "ARGO",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İnsanların barındığı yapı",
-      "answer": "EV",
+      "text": "Menfi",
+      "answer": "OLUMSUZ",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Doğuma yardım eden sağlıkçı",
-      "answer": "EBE",
-      "row": 5,
+      "text": "Özen",
+      "answer": "İTİNA",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Avantaj",
+      "answer": "KOZ",
+      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Karadeniz'in tarihi liman kenti",
-      "answer": "TRABZON",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kimyada Polonyum'un simgesi",
-      "answer": "PO",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Vurgu bildiren ünlem",
-      "answer": "YA",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sirke ve tuzda bekletilen sebze",
-      "answer": "TURŞU",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "En küçük sayma sayısı",
-      "answer": "BİR",
+      "text": "Şehir maçı",
+      "answer": "DERBİ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 2,
-      "col": 0,
+      "text": "Adağı olan",
+      "answer": "ADAKLI",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 5,
-      "col": 0,
+      "text": "Erimiş kayaç",
+      "answer": "LAV",
+      "row": 0,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Rusçada olumlama sözü",
-      "answer": "DA",
+      "text": "Mısır anıtı",
+      "answer": "PİRAMİT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tavla yenilgisi",
+      "answer": "MARS",
       "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Askerlik yapan genç, nefer",
-      "answer": "ER",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Boru sesi",
-      "answer": "Tİ",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Romanya'da kullanılan para birimi",
-      "answer": "LEU",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Deniz yolcu taşıtı",
-      "answer": "VAPUR",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğuran, büyüten kadın",
-      "answer": "ANNE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Niğde'ye bağlı bir ilçe",
-      "answer": "BOR",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Magnezyum'un simgesi",
-      "answer": "MG",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir işin tekrar sayısı",
-      "answer": "KEZ",
+      "text": "Üçten önceki sayı",
+      "answer": "İKİ",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kuş gübresi",
+      "answer": "GUANO",
       "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Gövdenin ortası",
-      "answer": "BEL",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Baş ile gövde arasındaki bölüm",
-      "answer": "BOYUN",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Gösteri ve yarış alanı",
-      "answer": "ARENA",
+      "text": "Yozlaşmış, bozulmuş, dejenere",
+      "answer": "YOZ",
       "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Organ, uzuv",
+      "answer": "AZA",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     }
@@ -190,11 +120,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 4
     },
     {
       "row": 0,
-      "col": 1
+      "col": 5
     },
     {
       "row": 0,
@@ -202,23 +132,39 @@
     },
     {
       "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 7,
       "col": 0
     },
     {
       "row": 8,
-      "col": 6
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 2
     },
     {
       "row": 9,
-      "col": 3
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 5
     }
   ],
   "difficulty": "orta",

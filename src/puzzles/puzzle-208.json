@@ -5,226 +5,170 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Yeşil şehir olarak bilinen ilk Osmanlı başkenti",
-      "answer": "BURSA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Do-re-mi dizisinin başlangıcı",
-      "answer": "DO",
+      "text": "Alışılmış, alışılan",
+      "answer": "MUNİS",
       "row": 1,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Hz. İsa'nın doğumu anısına kutlanan bayram",
-      "answer": "NOEL",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Izgarada pişirilen besin",
-      "answer": "ET",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Cesur, mert er",
-      "answer": "ALP",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Şaşkınlık bildiren ünlem",
-      "answer": "YA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İki nokta arasındaki mesafe",
-      "answer": "ARA",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Web üzerinde yayın yapan sayfa",
-      "answer": "SİTE",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Rütbesiz asker, nefer",
-      "answer": "ER",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Nikel'in kimyasal simgesi",
-      "answer": "Nİ",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
-      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ağırlık ölçü birimi (1000 kg)",
-      "answer": "TON",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sarma yapılan kış sebzesi",
-      "answer": "LAHANA",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sinir sisteminin merkezi organı",
-      "answer": "BEYİN",
-      "row": 9,
+      "text": "Bir nota (do,re,mi,fa,sol...)",
+      "answer": "SOL",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Antik Mısır tanrılarından biri",
-      "answer": "RA",
+      "text": "İnatçı hayvan",
+      "answer": "KEÇİ",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "'-diğine göre' bağlacı",
+      "answer": "MADEM",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tez canlı",
+      "answer": "ACELECİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hainlik",
+      "answer": "İHANET",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşağı bölüm",
+      "answer": "ALT",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayrılık sözü",
+      "answer": "ELVEDA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Vur kaç savaşçısı",
+      "answer": "GERİLLA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "On iki ay",
+      "answer": "YIL",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yok olan",
+      "answer": "ZAİL",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Üçgenleme noktası",
+      "answer": "NİRENGİ",
       "row": 10,
-      "col": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Öğütülmüş tahıl",
-      "answer": "UN",
-      "row": 0,
+      "text": "Evin bölmesi",
+      "answer": "ODA",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "pH değeri 7'nin altında olan madde",
-      "answer": "ASİT",
+      "text": "Gönül vermiş",
+      "answer": "ALGIN",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Naz yapan",
+      "answer": "CİLVELİ",
       "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "'Nedir' sorusunun kısası",
-      "answer": "NE",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Oyuncuya verilen karakter",
-      "answer": "ROL",
-      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gerçekleşen vaka",
-      "answer": "OLAY",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 0,
+      "text": "Osmanlı bandosu",
+      "answer": "MEHTER",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Birbirine karışık renkli",
-      "answer": "ALA",
+      "text": "Bilgiçlik taslayan",
+      "answer": "UKALA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Şifa veren madde",
-      "answer": "EM",
-      "row": 4,
+      "text": "Mısra",
+      "answer": "DİZE",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Attila'nın hükümdarı olduğu tarihi Türk topluluğu",
-      "answer": "HUN",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Lantan'ın kimyasal simgesi",
-      "answer": "LA",
-      "row": 2,
+      "text": "Sebep",
+      "answer": "NEDEN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Köyde geniş arazi sahibi kişi",
-      "answer": "AĞA",
-      "row": 5,
+      "text": "Saha, meydan",
+      "answer": "ALAN",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yerkabuğunun sarsılması",
-      "answer": "DEPREM",
+      "text": "Meşrubat",
+      "answer": "İÇECEK",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Işıltı, ziya",
-      "answer": "NUR",
+      "text": "Karşılaşmalar kümesi",
+      "answer": "LİG",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çayırı kaplayan bitki",
-      "answer": "OT",
+      "text": "Susamlı çörek",
+      "answer": "SİMİT",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Amfitiyatro benzeri alan",
-      "answer": "ARENA",
-      "row": 3,
+      "text": "İl yöneticisi",
+      "answer": "VALİ",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -232,23 +176,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 8,
       "col": 0
     },
     {
-      "row": 9,
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 3
     },
     {
-      "row": 9,
-      "col": 5
+      "row": 3,
+      "col": 0
     },
     {
-      "row": 9,
-      "col": 7
+      "row": 5,
+      "col": 0
     }
   ],
   "difficulty": "kolay",

@@ -5,296 +5,240 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Element tablosunda Tantal'ın simgesi",
-      "answer": "TA",
+      "text": "Sevinçli, neşeli",
+      "answer": "ŞAD",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ege'nin karşı kıyısındaki başkent",
-      "answer": "ATİNA",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Cihazlara takılan enerji kaynağı",
-      "answer": "PİL",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aldatmak için söylenen söz",
-      "answer": "YALAN",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Lüks gezinti gemisi",
-      "answer": "YAT",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Boru akışını kesen musluk",
-      "answer": "VANA",
-      "row": 3,
+      "text": "Horoz tacı",
+      "answer": "İBİK",
+      "row": 1,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Anmak için dikilen yapı",
-      "answer": "ANIT",
+      "text": "Tatlı çörek",
+      "answer": "KEK",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Pik",
+      "answer": "MAÇA",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Onur kırma",
+      "answer": "HAKARET",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Rüşvet veren",
+      "answer": "RAŞİ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sodyum için kullanılan kimyasal simge",
-      "answer": "NA",
+      "text": "Üzüntü, keder",
+      "answer": "ACI",
       "row": 4,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Hayvansal besin maddesi",
-      "answer": "ET",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Topu takım arkadaşına aktarma",
-      "answer": "PAS",
+      "text": "Tuzlu bisküvi",
+      "answer": "KRAKER",
       "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Do'dan sonraki nota",
-      "answer": "RE",
+      "text": "Yer kabuğu tozu",
+      "answer": "TOPRAK",
       "row": 6,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Devletin koyduğu kural",
-      "answer": "YASA",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Burnun aldığı duyum",
-      "answer": "KOKU",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Göze takılan mercek",
-      "answer": "LENS",
+      "text": "Saç örgüsü",
+      "answer": "BELİK",
       "row": 7,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Art arda gelen düzen",
-      "answer": "SIRA",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Karadeniz'in ünlü balığı",
-      "answer": "HAMSİ",
-      "row": 8,
+      "text": "Kor parçası",
+      "answer": "KÖZ",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şiirde güzelliğe benzetilen hayvan",
-      "answer": "AHU",
-      "row": 9,
+      "text": "Başka, öteki, diğer",
+      "answer": "SAİR",
+      "row": 8,
       "col": 5,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yukarıda olan",
-      "answer": "ÜST",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Altının saflık ölçüsü",
-      "answer": "AYAR",
-      "row": 10,
+      "text": "Harcama",
+      "answer": "TÜKETİM",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gerçekleşen vaka",
-      "answer": "OLAY",
+      "text": "Yaşanılan ev",
+      "answer": "KONUT",
       "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tanrı fikrini reddeden kişi",
-      "answer": "ATE",
-      "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kullanım karşılığı ödenen para",
-      "answer": "KİRA",
-      "row": 12,
-      "col": 4,
+      "text": "Usta, hünerli",
+      "answer": "UZ",
+      "row": 11,
+      "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Sahne sanatı",
-      "answer": "TİYATRO",
+      "text": "Tashih",
+      "answer": "DÜZELTİ",
+      "row": 12,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dürüst, namuslu",
+      "answer": "AK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "En büyük kıta",
-      "answer": "ASYA",
-      "row": 8,
+      "text": "Askeri birlik",
+      "answer": "BÖLÜK",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bir etkinliğin yapıldığı saha",
-      "answer": "ALAN",
+      "text": "Üstün zekâ",
+      "answer": "DEHA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sonbaharın ortasındaki ay",
-      "answer": "EKİM",
+      "text": "Önerme, sav",
+      "answer": "TEZ",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Satrançta şah ve vezirden farklı bir taş",
-      "answer": "AT",
-      "row": 10,
+      "text": "Şifre, simge",
+      "answer": "KOD",
+      "row": 9,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hastalıkları inceleyen bilim dalı",
-      "answer": "TIP",
-      "row": 2,
+      "text": "Boyun atkısı",
+      "answer": "KAŞKOL",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Zaman aralığı, müddet",
-      "answer": "SÜRE",
+      "text": "Yemek listesi",
+      "answer": "MENÜ",
       "row": 8,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dünya'nın uydusu",
-      "answer": "AY",
-      "row": 0,
+      "text": "Göz kapağı kılı",
+      "answer": "KİRPİK",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "At yavrusu",
-      "answer": "TAY",
-      "row": 3,
+      "text": "Yemeğe katılan",
+      "answer": "TUZ",
+      "row": 9,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yoğun su buharı bulutu",
-      "answer": "SİS",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Demirin dövülecek kızgınlık derecesi",
-      "answer": "TAV",
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Haftanın ikinci günü",
-      "answer": "SALI",
+      "text": "Akıtma oluğu",
+      "answer": "ARK",
       "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Açlığı kalmamış",
-      "answer": "TOK",
-      "row": 9,
+      "text": "Toplu konut",
+      "answer": "SİTE",
+      "row": 8,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gazeteye verilen bildirim",
-      "answer": "İLAN",
+      "text": "Derme çatma yapı",
+      "answer": "BARAKA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bitkilerin korunduğu cam yapı",
-      "answer": "SERA",
-      "row": 5,
+      "text": "İnce cam plaka",
+      "answer": "LAM",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Lityum için kullanılan kimyasal simge",
-      "answer": "Lİ",
+      "text": "Meşrubat",
+      "answer": "İÇECEK",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Ar, hayâ",
+      "answer": "UT",
       "row": 10,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Fransız yazarın 19. yüzyıl romanı",
-      "answer": "NANA",
-      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kilide uyan metal parça",
-      "answer": "ANAHTAR",
-      "row": 5,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Yavrusunu doğuran dişi",
-      "answer": "ANA",
+      "text": "Melez hayvan",
+      "answer": "KATIR",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Vurgu bildiren ünlem",
-      "answer": "YA",
-      "row": 10,
+      "text": "Tartı aleti",
+      "answer": "TERAZİ",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -302,27 +246,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 3
     },
     {
-      "row": 4,
-      "col": 8
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 3,
+      "col": 0
     },
     {
       "row": 5,
-      "col": 8
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 1
     },
     {
       "row": 6,
-      "col": 8
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 7
     },
     {
       "row": 8,
-      "col": 8
+      "col": 7
+    },
+    {
+      "row": 12,
+      "col": 0
     }
   ],
   "difficulty": "zor",

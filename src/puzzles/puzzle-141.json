@@ -5,163 +5,149 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Aritmetik işlem",
-      "answer": "HESAP",
-      "row": 1,
+      "text": "Babaya dayalı düzen",
+      "answer": "ATAERKİ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sıradaki başlangıç",
+      "answer": "İLK",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Amerika tahılı",
+      "answer": "KİNOA",
+      "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Hayvanlara verilen besin",
-      "answer": "YEM",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tantal için kullanılan kimyasal simge",
-      "answer": "TA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pençeleriyle avlanan büyük kuş",
-      "answer": "KARTAL",
+      "text": "Sebze satıcısı",
+      "answer": "MANAV",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şehir dışı açık alan",
-      "answer": "KIR",
+      "text": "Pelte kıvamı",
+      "answer": "JEL",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Haya, utanç duygusu",
-      "answer": "AR",
+      "text": "Tutulacak yer",
+      "answer": "SAP",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İran'ın en büyük şehri",
-      "answer": "TAHRAN",
+      "text": "Yemek tepsisi",
+      "answer": "SİNİ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kızıl renk",
-      "answer": "AL",
+      "text": "Sırada son",
+      "answer": "AHİR",
       "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bir süs çiçeği",
-      "answer": "LALE",
+      "text": "Kaçak",
+      "answer": "FİRARİ",
       "row": 8,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gömleğin boyun kısmı",
-      "answer": "YAKA",
+      "text": "Karaciğer yangısı",
+      "answer": "HEPATİT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ülkenin idari bölümü",
-      "answer": "İL",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yanarak enerji veren madde",
-      "answer": "YAKIT",
-      "row": 1,
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
-      "row": 7,
+      "text": "Uzaklık",
+      "answer": "MESAFE",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Helyum'un simgesi",
-      "answer": "HE",
+      "text": "Bazik madde",
+      "answer": "ALKALİ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Fasıla",
-      "answer": "ARA",
-      "row": 3,
+      "text": "Çamaşır asılan",
+      "answer": "İP",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Buyruk",
-      "answer": "EMİR",
+      "text": "Tarladaki tahıl",
+      "answer": "EKİN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Babanın kız kardeşi",
-      "answer": "HALA",
+      "text": "Haykırma, bağırma",
+      "answer": "NARA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ekin ekilen toprak",
-      "answer": "TARLA",
-      "row": 3,
+      "text": "Öğüt",
+      "answer": "NASİHAT",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Türkiye'nin başkenti",
-      "answer": "ANKARA",
-      "row": 0,
+      "text": "Verimli düzlük",
+      "answer": "OVA",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 7,
+      "text": "Büyük boyutlu",
+      "answer": "İRİ",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Farsça kökenli eski 'ayak' sözcüğü",
-      "answer": "PA",
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hz. İsa'nın doğumu anısına kutlanan bayram",
-      "answer": "NOEL",
-      "row": 5,
+      "text": "Demir minerali",
+      "answer": "PİRİT",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -169,23 +155,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 4
     },
     {
-      "row": 1,
-      "col": 0
+      "row": 0,
+      "col": 5
     },
     {
       "row": 3,
-      "col": 6
+      "col": 0
     },
     {
       "row": 7,

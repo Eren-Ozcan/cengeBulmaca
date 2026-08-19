@@ -5,282 +5,240 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Bir şeyi belirten iz",
-      "answer": "İM",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hava grubundan bir burç",
-      "answer": "TERAZİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Doğuma yardım eden sağlıkçı",
-      "answer": "EBE",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kadınların giydiği belden aşağı kıyafet",
-      "answer": "ETEK",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Şeref, haysiyet",
-      "answer": "ONUR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 3,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Askerlik yapan genç, nefer",
-      "answer": "ER",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Soğuk renklerden biri",
-      "answer": "MAVİ",
-      "row": 3,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uyumsuz, geçimsiz",
-      "answer": "AKSİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tek küreklerle kürek çekilen hafif tekne",
-      "answer": "KANO",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Eğlence için yapılan takılma",
-      "answer": "ŞAKA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İç Anadolu'daki başkentimiz",
-      "answer": "ANKARA",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırmızı renk",
-      "answer": "AL",
-      "row": 8,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Mozart'ın şehri, Avusturya başkenti",
-      "answer": "VİYANA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Haftanın ikinci günü",
-      "answer": "SALI",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dikkat çekme ünlemi",
-      "answer": "EY",
-      "row": 10,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Sodyum için kullanılan kimyasal simge",
-      "answer": "NA",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Biberin verdiği yakıcı tat",
-      "answer": "ACI",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağaçlarda yaşayan kemirgen",
-      "answer": "SİNCAP",
-      "row": 11,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kolun ucundaki tutma organı",
-      "answer": "EL",
-      "row": 12,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Mor renkli kokulu çiçek",
-      "answer": "MENEKŞE",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 10,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlı Devleti'nin ilk başkenti",
-      "answer": "BURSA",
+      "text": "Tempolu jimnastik",
+      "answer": "AEROBİK",
       "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Hatırlama töreni",
+      "answer": "ANMA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Telefon sözü",
+      "answer": "ALO",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir şeyin gerisi",
+      "answer": "ART",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Canlı kalıntısı",
+      "answer": "FOSİL",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Fırında pişen tatlı",
+      "answer": "KEK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Asıl konu",
+      "answer": "TEMA",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Rakıya koku veren",
+      "answer": "ANASON",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yumuşak ses",
+      "answer": "LAP",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Aynısı, taklit",
+      "answer": "KOPYA",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İsviçre parası",
+      "answer": "FRANK",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yuvarlak parça",
+      "answer": "TOPAK",
+      "row": 8,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Berrak içecek",
+      "answer": "SU",
+      "row": 9,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuşların ağzı",
+      "answer": "GAGA",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Omuzdan ele uzanan",
+      "answer": "KOL",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Asit karşıtı",
+      "answer": "BAZ",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yiğit, kahraman",
+      "answer": "ALP",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Çemberin yarısı",
+      "answer": "YARIÇAP",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eskil",
+      "answer": "ARKAİK",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tütün rengi",
+      "answer": "TABA",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dalga aleti",
+      "answer": "ANTEN",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Baharın geldiği ay",
-      "answer": "NİSAN",
-      "row": 8,
-      "col": 1,
-      "arrow": "right-down"
+      "text": "Terminal",
+      "answer": "OTOGAR",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
     },
     {
-      "text": "Deriden salgılanan sıvı",
-      "answer": "TER",
+      "text": "Halk ilacı",
+      "answer": "EM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde yapma, gerçekleştirme",
-      "answer": "İKA",
-      "row": 4,
+      "text": "Kan pompası",
+      "answer": "KALP",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Vurgu bildiren ünlem",
-      "answer": "YA",
+      "text": "Biseps",
+      "answer": "PAZI",
       "row": 8,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Turizmiyle ünlü Akdeniz ilimiz",
-      "answer": "ANTALYA",
-      "row": 5,
+      "text": "Eşya konan yer",
+      "answer": "RAF",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kar ve süt rengi",
-      "answer": "AK",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir konudaki kişisel düşünce",
-      "answer": "KANI",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Satrançta şah ve vezirden farklı bir taş",
-      "answer": "AT",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Borudaki akışı açıp kapatan parça",
-      "answer": "VANA",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Taban, yer",
-      "answer": "ZEMİN",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Radyum'un simgesi",
-      "answer": "RA",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Hükümdar kadın (eski dilde)",
-      "answer": "ECE",
-      "row": 9,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Birden sonra gelen sayı",
-      "answer": "İKİ",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Renk oyunuyla bilinen değerli taş",
-      "answer": "OPAL",
+      "text": "Kitap yaprağı",
+      "answer": "SAYFA",
       "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Araç bırakma yeri",
+      "answer": "OTOPARK",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bel-kalça arası",
+      "answer": "BASEN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemek konan nesne",
+      "answer": "KAP",
+      "row": 9,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilim, bilgi",
+      "answer": "İLİM",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Duvar kenarı mobilya",
+      "answer": "KONSOL",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Parça sanatı",
+      "answer": "KOLAJ",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "On iki aylık zaman dilimi",
-      "answer": "YIL",
-      "row": 9,
+      "text": "Kap tutamağı",
+      "answer": "KULP",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -288,15 +246,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
-      "col": 4
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 8
     },
     {
       "row": 7,
-      "col": 0
+      "col": 6
     },
     {
       "row": 8,
@@ -304,11 +282,19 @@
     },
     {
       "row": 10,
-      "col": 0
+      "col": 4
     },
     {
       "row": 11,
-      "col": 3
+      "col": 4
+    },
+    {
+      "row": 12,
+      "col": 7
+    },
+    {
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "zor",

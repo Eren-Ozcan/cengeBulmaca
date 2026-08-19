@@ -5,247 +5,191 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Fizikte iş birimi",
-      "answer": "ERG",
+      "text": "Tavaya konan",
+      "answer": "YAĞ",
       "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Parlak element",
+      "answer": "KROM",
+      "row": 2,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Duyuru tahtası",
-      "answer": "PANO",
-      "row": 1,
-      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yüzde ile ifade edilen değer",
-      "answer": "ORAN",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kuşaktan kuşağa aktarılan efsane",
-      "answer": "MİT",
-      "row": 2,
+      "text": "Yağmur borusu",
+      "answer": "OLUK",
+      "row": 3,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Kimyada Berilyum'un simgesi",
-      "answer": "BE",
+      "text": "Poker parası",
+      "answer": "POT",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Olağanüstü yetenek",
-      "answer": "DEHA",
+      "text": "Lezzet",
+      "answer": "TAT",
       "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kripton için kullanılan kimyasal simge",
-      "answer": "KR",
+      "text": "Kendini ağıra satma",
+      "answer": "NAZ",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir binanın yatay bölümü",
-      "answer": "KAT",
+      "text": "Kişi, şahıs",
+      "answer": "ZAT",
       "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Belirli bir noktanın ilerisi, karşı taraf",
-      "answer": "ÖTE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Denizde tehlikeli sert rüzgar",
-      "answer": "BORA",
+      "text": "Sırlı kap",
+      "answer": "EMAYE",
       "row": 6,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Do'ya dönmeden önceki son nota",
-      "answer": "Sİ",
+      "text": "Sakin, edepli",
+      "answer": "USLU",
       "row": 7,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Suriye'nin başkenti",
-      "answer": "ŞAM",
+      "text": "Yer altı sığınağı",
+      "answer": "KAZAMAT",
       "row": 8,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hastaları muayene eden sağlık uzmanı",
-      "answer": "DOKTOR",
+      "text": "Arap başörtüsü",
+      "answer": "KEFİYE",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Divan şiirinde geçen şarap sözcüğü",
-      "answer": "BADE",
+      "text": "Kadın örtüsü",
+      "answer": "ŞAL",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sekizli dizinin ilk sesi",
-      "answer": "DO",
+      "text": "Taneleri yakut gibi",
+      "answer": "NAR",
       "row": 10,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "İşitme organı",
-      "answer": "KULAK",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bayrağımızın rengi",
-      "answer": "AL",
+      "text": "Kalaylı sac",
+      "answer": "TENEKE",
       "row": 11,
-      "col": 5,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Protein kaynağı gıda",
-      "answer": "ET",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Postayla gönderilen yazılı ileti",
-      "answer": "MEKTUP",
-      "row": 2,
+      "text": "On tane",
+      "answer": "ONLUK",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "'Şu' ve 'o'ya göre en yakın olan",
-      "answer": "BU",
-      "row": 9,
-      "col": 1,
+      "text": "İzlenecek yol",
+      "answer": "ROTA",
+      "row": 1,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bulutlu havanın rengi",
-      "answer": "GRİ",
+      "text": "Bedensel özürlü",
+      "answer": "SAKAT",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Asfaltlanan",
+      "answer": "YOL",
       "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İkinci nota",
-      "answer": "RE",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Üzerinde yaprak taşıyan ağaç uzantısı",
-      "answer": "DAL",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yatak veya oturma amaçlı ev bölmesi",
-      "answer": "ODA",
-      "row": 8,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Polonyum için kullanılan kimyasal simge",
-      "answer": "PO",
+      "text": "Deprem",
+      "answer": "ZELZELE",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Baş aşağı",
+      "answer": "AMUT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kırgızistan'ın başkenti",
-      "answer": "BİŞKEK",
+      "text": "Yükümlülük dışı",
+      "answer": "MUAF",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dönümün onda biri olan ölçü",
-      "answer": "AR",
-      "row": 0,
+      "text": "İstemsiz olay",
+      "answer": "KAZA",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sesin geri dönmesi",
-      "answer": "EKO",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Binek hayvanı",
-      "answer": "AT",
+      "text": "Diş dokusu",
+      "answer": "MİNE",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıcaklık bildiren eski söz",
-      "answer": "HAR",
+      "text": "Genç at",
+      "answer": "TAY",
       "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dönemsel giyim eğilimi",
-      "answer": "MODA",
+      "text": "Bacak ucu",
+      "answer": "AYAK",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İki elin parmak sayısı",
-      "answer": "ON",
+      "text": "Bir şeyin dibi",
+      "answer": "ALT",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İnisiyatif alan, atılgan",
-      "answer": "ATAK",
-      "row": 3,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Oyuncunun canlandırdığı kişi",
-      "answer": "ROL",
-      "row": 8,
+      "text": "Dişli kesici",
+      "answer": "TESTERE",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -253,30 +197,50 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 3
+      "col": 2
     },
     {
-      "row": 3,
-      "col": 4
+      "row": 0,
+      "col": 5
     },
     {
-      "row": 5,
-      "col": 3
+      "row": 0,
+      "col": 6
     },
     {
-      "row": 7,
+      "row": 1,
       "col": 0
     },
     {
-      "row": 8,
+      "row": 1,
+      "col": 1
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 6,
       "col": 0
     },
     {
       "row": 9,
+      "col": 0
+    },
+    {
+      "row": 11,
       "col": 0
     }
   ],

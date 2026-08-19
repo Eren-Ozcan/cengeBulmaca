@@ -5,219 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Mola, dinlenme süresi",
-      "answer": "ARA",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Tilki, tavşan gibi hayvanların barınağı",
-      "answer": "İN",
+      "text": "Yıkanma yeri",
+      "answer": "HAMAM",
       "row": 0,
-      "col": 6,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yaratıcı beceri dalı",
-      "answer": "SANAT",
+      "text": "Mutlu",
+      "answer": "MESUT",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Açık, geniş yer",
-      "answer": "ALAN",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Galyum için kullanılan kimyasal simge",
-      "answer": "GA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İlenme, yakınma ünlemi",
-      "answer": "AH",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Mektup ve paket taşıyan kurum",
-      "answer": "POSTA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Suçu bağışlama",
-      "answer": "AF",
-      "row": 6,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tartı aleti",
-      "answer": "TERAZİ",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Preparat hazırlanan cam plaka",
-      "answer": "LAM",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayvan ölüsü",
-      "answer": "LEŞ",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yardım için toplanan para",
-      "answer": "İANE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kırmızı veya beyazı olan besin",
-      "answer": "ET",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kahve telvesinden geleceği okuma",
+      "text": "Kâğıt açma",
       "answer": "FAL",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sınav türü",
+      "answer": "TEST",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Savaş gazı",
+      "answer": "İPERİT",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Çiçek düzenleme",
+      "answer": "İKEBANA",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çöl göçebesi",
+      "answer": "BEDEVİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyük boyutlu",
+      "answer": "İRİ",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Toprak altı bölüm",
+      "answer": "KÖK",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Pay, hisse",
+      "answer": "HAK",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuvvet, kudret",
+      "answer": "GÜÇ",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İçilen sıvı",
+      "answer": "SU",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Kötülük, fenalık",
+      "answer": "ŞER",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İki kelimeyi birbirine bağlayan bağlaç",
-      "answer": "VE",
+      "text": "Bitkinin gövdesi",
+      "answer": "SAP",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Çok karşıtı",
-      "answer": "AZ",
+      "text": "Gözleri görmeyen",
+      "answer": "AMA",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Polonyum'un simgesi",
-      "answer": "PO",
-      "row": 5,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ağızdan çıkan söz",
-      "answer": "LAF",
-      "row": 7,
+      "text": "Horoz tacı",
+      "answer": "İBİK",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Baş kaldıran",
-      "answer": "ASİ",
+      "text": "Kadın hükümdar",
+      "answer": "MELİKE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 5,
-      "col": 1,
-      "arrow": "right-down"
+      "text": "Parça, unsur",
+      "answer": "ÖGE",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
     },
     {
-      "text": "Mısır mitolojisinde güneş tanrısı",
-      "answer": "RA",
+      "text": "İskambilde birli",
+      "answer": "AS",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Binanın toprağa oturan alt kısmı",
-      "answer": "TEMEL",
-      "row": 5,
+      "text": "Ayak bakımı",
+      "answer": "PEDİKÜR",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kilit açan araç",
-      "answer": "ANAHTAR",
+      "text": "Geçerli sayılan",
+      "answer": "MUTEBER",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kızıl renk",
-      "answer": "AL",
+      "text": "Ramazan namazı",
+      "answer": "TERAVİH",
       "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yangının parlak kısmı",
-      "answer": "ALEV",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir şeyi teslim etme (eski dilde)",
-      "answer": "İTA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kağıt üzerine basılan günlük yayın",
-      "answer": "GAZETE",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Nikel'in kimyasal simgesi",
-      "answer": "Nİ",
+      "text": "Yemek tepsisi",
+      "answer": "SİNİ",
       "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yetki değneği",
+      "answer": "ASA",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bile, üstelik",
+      "answer": "HATTA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Oyun masasında para yerine kullanılan jeton",
-      "answer": "FİŞ",
-      "row": 5,
+      "text": "Dondurma kabı",
+      "answer": "KUP",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -225,31 +190,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 5
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 4,
-      "col": 5
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 5
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 7
+      "col": 0
     }
   ],
   "difficulty": "kolay",

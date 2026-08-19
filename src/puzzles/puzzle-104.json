@@ -5,226 +5,191 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Eskiden kullanılan 'ayak' anlamlı kelime",
-      "answer": "PA",
+      "text": "Düzgün yığın",
+      "answer": "İSTİF",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yüzük taşı olarak kullanılan mineral",
-      "answer": "AKİK",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Hastaları muayene eden sağlık uzmanı",
-      "answer": "DOKTOR",
+      "text": "Tertemiz",
+      "answer": "LEKESİZ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Firavunların taptığı güneş tanrısı",
-      "answer": "RA",
+      "text": "Görüş ortağı",
+      "answer": "KAFADAR",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gök cisimlerinin bulunduğu sonsuz boşluk",
-      "answer": "UZAY",
-      "row": 3,
+      "text": "İbadet töreni",
+      "answer": "AYİN",
+      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Preparat hazırlanan cam plaka",
-      "answer": "LAM",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Unutulmayan olay",
-      "answer": "ANI",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Demir ile karbonun alaşımı",
-      "answer": "ÇELİK",
+      "text": "Taş yolu",
+      "answer": "ŞOSE",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Rusçada olumlama sözü",
-      "answer": "DA",
+      "text": "Tören",
+      "answer": "MERASİM",
       "row": 6,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir şeyin bulunduğu konum",
-      "answer": "YER",
+      "text": "Ezan kulesi",
+      "answer": "MİNARE",
       "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Dünya'nın etrafında dönen gök cismi",
-      "answer": "AY",
-      "row": 7,
+      "text": "Kan temizleme",
+      "answer": "DİYALİZ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Demek oluyor ki",
+      "answer": "YANİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İşaret sözcüğü",
+      "answer": "BU",
+      "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Haftanın ikinci günü",
-      "answer": "SALI",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırsalda büyük toprak sahibi",
-      "answer": "AĞA",
-      "row": 8,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Araçların geçtiği güzergah",
-      "answer": "YOL",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Turnusol kağıdını kırmızıya boyayan madde",
-      "answer": "ASİT",
-      "row": 9,
+      "text": "Kadar, değin",
+      "answer": "DEK",
+      "row": 10,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Tiyatroda perde arası",
-      "answer": "ARA",
+      "text": "Araç lambası",
+      "answer": "FAR",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Bir şeyi teslim etme (eski dilde)",
-      "answer": "İTA",
-      "row": 11,
+      "text": "Kanat sesi",
+      "answer": "PIR",
+      "row": 10,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Öç alma isteği",
-      "answer": "KİN",
+      "text": "Asla sözü",
+      "answer": "HAŞA",
       "row": 11,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Hukukun temel ilkesi",
-      "answer": "ADALET",
+      "text": "Kayakta engel geçişi",
+      "answer": "SLALOM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İtaat etmeyen, isyankar",
-      "answer": "ASİ",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gelin duvağının rengi",
-      "answer": "AL",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Cesur, mert delikanlı",
-      "answer": "YİĞİT",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sindirim organı, karın boşluğundaki kese",
-      "answer": "MİDE",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyük dede, ecdat",
-      "answer": "ATA",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İskambilde en güçlü kağıt takımı",
-      "answer": "ATU",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ani Harabeleri'nin bulunduğu ilimiz",
-      "answer": "KARS",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İpek böceğinin ördüğü yuva",
-      "answer": "KOZA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yere değen uzuv",
-      "answer": "AYAK",
+      "text": "Çocuk bakıcısı",
+      "answer": "DADI",
       "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Zilli çalgı",
+      "answer": "TEF",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilgi toplantısı",
+      "answer": "SEMİNER",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde yapma",
+      "answer": "İKA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Mahlul",
+      "answer": "ERİYİK",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Uğurda vazgeçme",
+      "answer": "FEDA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yavruyu doğuran",
+      "answer": "ANA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Dijital",
+      "answer": "SAYISAL",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Doğu sınırımızdaki komşu ülke",
-      "answer": "İRAN",
-      "row": 0,
+      "text": "Sol'den önceki nota",
+      "answer": "FA",
+      "row": 9,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kocaman",
+      "answer": "İRİ",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Besinlerdeki enerji ölçüsü",
-      "answer": "KALORİ",
+      "text": "Kurbağa yavrusu",
+      "answer": "İRİBAŞ",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "On iki aylık zaman dilimi",
-      "answer": "YIL",
-      "row": 2,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Bacaksız sürüngen",
-      "answer": "YILAN",
-      "row": 6,
+      "text": "Terzi şeridi",
+      "answer": "MEZURA",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -232,11 +197,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 5
     },
     {
       "row": 0,
-      "col": 3
+      "col": 6
     },
     {
       "row": 0,
@@ -244,27 +209,19 @@
     },
     {
       "row": 1,
-      "col": 2
+      "col": 7
     },
     {
-      "row": 5,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 5
+      "row": 3,
+      "col": 7
     },
     {
       "row": 7,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 0
+      "row": 9,
+      "col": 4
     }
   ],
   "difficulty": "orta",

@@ -5,219 +5,170 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Hükümdarların taşıdığı değnek",
-      "answer": "ASA",
+      "text": "Balık aracı",
+      "answer": "OLTA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dikilmek üzere yetiştirilen körpe bitki",
-      "answer": "FİDE",
+      "text": "Doğa, kırsal",
+      "answer": "KIR",
       "row": 0,
-      "col": 4,
+      "col": 5,
       "arrow": "down-right"
     },
     {
-      "text": "Baş kaldıran",
-      "answer": "ASİ",
+      "text": "Ön karşıtı",
+      "answer": "ARKA",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Rüzgâr",
-      "answer": "YEL",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Âlim",
-      "answer": "BİLGİN",
+      "text": "Anlaşmazlık",
+      "answer": "İHTİLAF",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İpek böceğinin besini olan meyve",
-      "answer": "DUT",
+      "text": "Afrika ceylanı",
+      "answer": "ANTİLOP",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İşaret, belirti",
-      "answer": "İM",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
+      "text": "Bitki camlığı",
+      "answer": "SERA",
       "row": 5,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Doğu Karadeniz'in yeşil ilimiz",
-      "answer": "RİZE",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Nikel için kullanılan kimyasal simge",
-      "answer": "Nİ",
+      "text": "Dolap, oyun",
+      "answer": "ENTRİKA",
       "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Do'dan sonraki nota",
-      "answer": "RE",
-      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bağış amaçlı toplanan para",
-      "answer": "İANE",
+      "text": "Gemi sahibi",
+      "answer": "ARMATÖR",
       "row": 7,
-      "col": 3,
-      "arrow": "right"
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Element tablosunda Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 7,
+      "text": "Yağlı çörek",
+      "answer": "AÇMA",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yay ile fırlatılan silah",
-      "answer": "OK",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Galyum'un kimyasal simgesi",
-      "answer": "GA",
+      "text": "Dert, elem",
+      "answer": "ACI",
       "row": 9,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Odunu kor haline getiren olay",
-      "answer": "ATEŞ",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Geçmişten kalan iz",
-      "answer": "ANI",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Beraberlik bildiren bağlaç",
-      "answer": "İLE",
+      "text": "Taşınan ağırlık",
+      "answer": "YÜK",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Temizlik maddesi",
-      "answer": "SABUN",
-      "row": 0,
+      "text": "Kalın karşıtı",
+      "answer": "İNCE",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Letonya'nın başkenti",
-      "answer": "RİGA",
-      "row": 6,
+      "text": "İki ışının kesişimi",
+      "answer": "AÇI",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İstanbul'un eski adlarından biri",
-      "answer": "ASİTANE",
+      "text": "Hükümdar koltuğu",
+      "answer": "TAHT",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Göz açıp kapayana kadarki süre",
-      "answer": "AN",
-      "row": 8,
+      "text": "Kural, ölçüt",
+      "answer": "NORM",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yönetim birimi, valilik bölgesi",
-      "answer": "İL",
+      "text": "Sanatçı, oyuncu",
+      "answer": "ARTİST",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Parlak olmayan",
+      "answer": "MAT",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yiyecek odası",
+      "answer": "KİLER",
       "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Trenlerin kalktığı büyük istasyon",
-      "answer": "GAR",
-      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Beğenilen, hoş",
-      "answer": "İYİ",
+      "text": "Enerji ölçü birimi",
+      "answer": "KALORİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Açık söylemeden belirtme",
-      "answer": "İMA",
-      "row": 4,
+      "text": "At yavrusu",
+      "answer": "TAY",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyük tuzlu su kütlesi",
-      "answer": "DENİZ",
-      "row": 0,
+      "text": "Çok beyaz",
+      "answer": "APAK",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hristiyanların doğuş bayramı",
-      "answer": "NOEL",
-      "row": 6,
+      "text": "Hayali canavar",
+      "answer": "ÖCÜ",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yabancı kimse",
-      "answer": "EL",
+      "text": "Çatı barı",
+      "answer": "RUF",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Baharda açan mor küçük çiçek",
-      "answer": "MENEKŞE",
-      "row": 3,
+      "text": "Ayrılmış, ayrı",
+      "answer": "AYRIK",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -225,27 +176,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 1
     },
     {
-      "row": 4,
-      "col": 3
+      "row": 0,
+      "col": 4
     },
     {
-      "row": 6,
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
-      "row": 6,
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 7,
       "col": 4
     },
     {
-      "row": 8,
-      "col": 3
+      "row": 10,
+      "col": 0
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 10,
+      "col": 2
     }
   ],
   "difficulty": "zor",

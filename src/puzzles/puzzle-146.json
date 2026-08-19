@@ -5,135 +5,121 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Hükümdarların taşıdığı değnek",
-      "answer": "ASA",
+      "text": "İşve, kırıtma",
+      "answer": "NAZ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hastalıktan koruyucu uygulama",
-      "answer": "AŞI",
-      "row": 1,
-      "col": 3,
+      "text": "Mezuniyet başlığı",
+      "answer": "KEP",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gürültü patırtı",
+      "answer": "ŞAMATA",
+      "row": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tornavidayla sıkılan bağlantı parçası",
-      "answer": "VİDA",
+      "text": "Cambaz",
+      "answer": "AKROBAT",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kimyada Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ani Harabeleri'nin bulunduğu ilimiz",
-      "answer": "KARS",
+      "text": "Garson yardımcısı",
+      "answer": "KOMİ",
       "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kullanışlı",
+      "answer": "PRATİK",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Açılıp kapanan yağmur koruyucusu",
-      "answer": "ŞEMSİYE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eski Mısır'ın güneş tanrısı",
-      "answer": "RA",
+      "text": "Temel, esas",
+      "answer": "ANA",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Şiir dilinde kullanılan eski su sözü",
-      "answer": "AB",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sarıya çalan göz rengi",
-      "answer": "ELA",
-      "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Saniyenin küçük bir bölümü",
-      "answer": "AN",
+      "text": "Meslek çalışması",
+      "answer": "STAJ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gamın dördüncüsü",
+      "answer": "FA",
       "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Gümüş balığı",
-      "answer": "ATERİNA",
-      "row": 8,
+      "text": "İskandinav parası",
+      "answer": "KRON",
+      "row": 9,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Haber sunucusu",
-      "answer": "SPİKER",
+      "text": "Derin sevgi",
+      "answer": "AŞK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kasabın sattığı gıda",
-      "answer": "ET",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kanı taşıyan kanal",
-      "answer": "DAMAR",
-      "row": 2,
+      "text": "İnce örtü katmanı",
+      "answer": "ZAR",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tavlada iki kat yenilgi",
-      "answer": "MARS",
+      "text": "Gecikme",
+      "answer": "RÖTAR",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kahve türü",
+      "answer": "MOKA",
       "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "La'dan sonraki nota",
-      "answer": "Sİ",
-      "row": 3,
+      "text": "Kıyı taşımacılığı",
+      "answer": "KABOTAJ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Omuza alınan örtü",
-      "answer": "ŞAL",
+      "text": "Delikli kumaş",
+      "answer": "ETAMİN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Aldatmak için söylenen söz",
-      "answer": "YALAN",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Japon çiçek düzenleme sanatı",
-      "answer": "İKEBANA",
-      "row": 2,
+      "text": "Dar keçiyolu",
+      "answer": "PATİKA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -141,39 +127,51 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 3
     },
     {
-      "row": 0,
-      "col": 4
+      "row": 4,
+      "col": 0
     },
     {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 4
+      "row": 4,
+      "col": 1
     },
     {
       "row": 6,
-      "col": 3
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 1
     },
     {
       "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
       "row": 8,
-      "col": 2
+      "col": 1
     },
     {
       "row": 8,
       "col": 3
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "orta",

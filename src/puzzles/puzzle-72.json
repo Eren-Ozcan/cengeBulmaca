@@ -5,281 +5,267 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Beyaz yapraklı kır çiçeği",
-      "answer": "PAPATYA",
+      "text": "Askerî yönetim",
+      "answer": "KOMUTA",
       "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Giriş bölmesi",
+      "answer": "KAPI",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Do-re-mi dizisinin ilk notası",
-      "answer": "DO",
+      "text": "Hayvan koltuğu",
+      "answer": "EYER",
       "row": 2,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Oyuncuya verilen karakter",
-      "answer": "ROL",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Beş parmaklı tutma organı",
-      "answer": "EL",
+      "text": "Lapa lapa yağan",
+      "answer": "KAR",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Havadaki su buharı oranı",
-      "answer": "NEM",
+      "text": "Kıyı evi",
+      "answer": "YALI",
       "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yetersiz, az",
+      "answer": "KIT",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Öç isteği",
+      "answer": "KİN",
+      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ekşimsi, sulu yaz meyvesi",
-      "answer": "ERİK",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Beyazı ve karası olan küçük meyve",
-      "answer": "DUT",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Üstü kapalı anlatma",
-      "answer": "İMA",
+      "text": "Sağaltıcı",
+      "answer": "ŞİFALI",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yanma olayı, od",
-      "answer": "ATEŞ",
-      "row": 5,
-      "col": 4,
+      "text": "Vaat",
+      "answer": "SÖZ",
+      "row": 6,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Direngenlik, dediğinden dönmeme",
-      "answer": "İNAT",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Pislik, is",
+      "answer": "KİR",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
     },
     {
-      "text": "Bir olayı hatırlatan yapı",
-      "answer": "ANIT",
+      "text": "Sekiz sesli aralık",
+      "answer": "OKTAV",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dernek veya kurum üyesi",
-      "answer": "AZA",
-      "row": 6,
+      "text": "Sorgu sözü",
+      "answer": "NE",
+      "row": 7,
       "col": 6,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Silah altındaki kişi",
-      "answer": "ASKER",
+      "text": "Eskil söz kullanımı",
+      "answer": "ARKAİZM",
       "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Geniş, verimli düzlük",
-      "answer": "OVA",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Şöhret, şan",
-      "answer": "ÜN",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sarma yapılan kış sebzesi",
-      "answer": "LAHANA",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Baryum'un simgesi",
-      "answer": "BA",
-      "row": 11,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Erkek insan, kişi",
-      "answer": "ADAM",
-      "row": 11,
+      "text": "Sıradan, kalitesiz",
+      "answer": "ADİ",
+      "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yer altına açılan derin çukur, su ya da petrol çıkarılan",
-      "answer": "KUYU",
-      "row": 12,
+      "text": "Kirli olmayan",
+      "answer": "TEMİZ",
+      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Fasıla",
-      "answer": "ARA",
-      "row": 12,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İkiden sonra gelen sayı",
-      "answer": "ÜÇ",
-      "row": 9,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük, sürü halinde yaşayan balık türü",
-      "answer": "ATERİNA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvanların yer altındaki yuvası",
-      "answer": "İN",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Teknelerin demirlediği kıyı tesisi",
-      "answer": "LİMAN",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "'Şu' ve 'o'ya göre en yakın olan",
+      "text": "Yakın işaret zamiri",
       "answer": "BU",
       "row": 10,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Göçebe yerleşimi",
+      "answer": "OBA",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yazı sanatı",
+      "answer": "HAT",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Güldürü oyunu",
+      "answer": "SKEÇ",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Berabere kalma",
+      "answer": "PATA",
+      "row": 12,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Cereyan",
+      "answer": "AKIŞ",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hazır mal",
+      "answer": "STOK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Sık dokuma bez",
+      "answer": "PATİSKA",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bir şeyi tanımlayan sözcük",
-      "answer": "AD",
+      "text": "Bebeği doğurtan",
+      "answer": "EBE",
+      "row": 9,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şehir dışı",
+      "answer": "KIR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sıvı ve gaz olmayan madde hâli",
-      "answer": "KATI",
+      "text": "Keçe şapka",
+      "answer": "FÖTR",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Spor karşılaşması",
+      "answer": "MAÇ",
+      "row": 9,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yün giysi",
+      "answer": "KAZAK",
       "row": 3,
-      "col": 3,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Vuku bulan durum",
-      "answer": "OLAY",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ses perdesi",
-      "answer": "TON",
+      "text": "Eğiklik, eğim",
+      "answer": "MEYİL",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ocakta kızartma yapılan kap",
-      "answer": "TAVA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İşve, naz",
-      "answer": "EDA",
-      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Maçın oynandığı alan",
-      "answer": "SAHA",
+      "text": "Dinî öğüt",
+      "answer": "VAAZ",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Uyumamış",
+      "answer": "UYANIK",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İlkel benlik",
+      "answer": "İD",
       "row": 7,
-      "col": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Elmaya benzeyen sulu meyve",
-      "answer": "ARMUT",
+      "text": "Hadi, çabuk",
+      "answer": "HA",
+      "row": 10,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Saçın teki",
+      "answer": "TEL",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kar ve süt rengi",
-      "answer": "AK",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Denizle çevrili kara parçası",
-      "answer": "ADA",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Anne tarafından kız kardeş akraba",
-      "answer": "TEYZE",
-      "row": 3,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kırmızı taneli bir meyve",
-      "answer": "NAR",
-      "row": 9,
+      "text": "Askerî disiplin",
+      "answer": "İNZİBAT",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Alaca, benekli renk",
-      "answer": "ALA",
+      "text": "Temiz, saf",
+      "answer": "ARI",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Utanma duygusu",
-      "answer": "AR",
-      "row": 6,
+      "text": "Cilt maddesi",
+      "answer": "KREM",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Gözleri görmeyen",
-      "answer": "AMA",
+      "text": "Japon türküsü",
+      "answer": "UTA",
       "row": 9,
       "col": 8,
       "arrow": "down"
@@ -288,39 +274,35 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 0
+      "col": 4
     },
     {
       "row": 4,
-      "col": 8
+      "col": 7
     },
     {
       "row": 6,
-      "col": 5
+      "col": 0
     },
     {
       "row": 8,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 2
+      "row": 11,
+      "col": 4
     }
   ],
   "difficulty": "zor",

@@ -5,205 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Yeşil çim üzerindeki oyun alanı",
-      "answer": "SAHA",
+      "text": "Örme kumaş",
+      "answer": "TRİKO",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Merkezdeki, dahili",
-      "answer": "İÇ",
-      "row": 1,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Erkek kuaförü",
-      "answer": "BERBER",
+      "text": "Hatay'dan geçen ırmak",
+      "answer": "ASİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "La'dan sonraki nota",
-      "answer": "Sİ",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bilinçaltındaki dürtüler bütünü",
-      "answer": "İD",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İçinde sarkıt-dikit oluşan yer altı boşluğu",
-      "answer": "MAĞARA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Geçmiş olan bir önceki gün",
-      "answer": "DÜN",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Geleneksel Japon çiçek sanatı",
-      "answer": "İKEBANA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tantal'ın kimyasal simgesi",
-      "answer": "TA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yabancı kimse",
-      "answer": "EL",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İnce, uzun örtü",
-      "answer": "ŞAL",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir ekibin başındaki kişi",
-      "answer": "ŞEF",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Havadaki su buharı oranı",
-      "answer": "NEM",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İkiye bölünemeyen sayı",
-      "answer": "TEK",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Üzerinde durulan alt yüzey",
-      "answer": "ZEMİN",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Divan edebiyatında su",
-      "answer": "AB",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Payitahtın eski adlarından biri",
-      "answer": "ASİTANE",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Helyum'un simgesi",
-      "answer": "HE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Öğrencinin çantasındaki yazı aracı",
-      "answer": "KALEM",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yapı yapılacak arazi",
-      "answer": "ARSA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gam dizisinde üçüncü nota",
-      "answer": "Mİ",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tek, yalnız",
-      "answer": "BİR",
+      "text": "Kâğıtta üstün renk",
+      "answer": "ATU",
       "row": 1,
-      "col": 4,
-      "arrow": "down"
+      "col": 5,
+      "arrow": "down-right"
     },
     {
-      "text": "Elin parmak sayısı",
-      "answer": "BEŞ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
+      "text": "Birlik, bölüm",
+      "answer": "ÜNİTE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Hak ve hukuka uygunluk",
-      "answer": "ADALET",
+      "text": "Kendi, asıl",
+      "answer": "ÖZ",
       "row": 3,
       "col": 5,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Büyük boyutlu",
-      "answer": "İRİ",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Herkesçe bilinme durumu",
-      "answer": "ÜN",
+      "text": "Asker su kabı",
+      "answer": "MATARA",
       "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Çiçek tozu",
+      "answer": "POLEN",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ev üstü",
+      "answer": "DAM",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Set, baraj",
+      "answer": "BENT",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Belirsiz haber",
+      "answer": "DUYUM",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tuzlanmış torik",
+      "answer": "LAKERDA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tanrı hizmetkârı",
+      "answer": "KUL",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağaca yapılan işlem",
+      "answer": "AŞI",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Adale",
+      "answer": "KAS",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Akıtma oluğu",
+      "answer": "ARK",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Nâzım Hikmet'in soyadı",
+      "answer": "RAN",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Fakire verilen",
+      "answer": "SADAKA",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ad",
+      "answer": "İSİM",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Organ salgısı",
+      "answer": "MUKUS",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Basılı yapıt",
+      "answer": "KİTAP",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Rüzgâr",
+      "answer": "YEL",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Et yiyen",
+      "answer": "ETOBUR",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sancak taşıyan",
+      "answer": "ALEMDAR",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kutlama hareketi",
+      "answer": "TÖREN",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Demir'in simgesi",
-      "answer": "FE",
+      "text": "Derin sevgi",
+      "answer": "AŞK",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ürdün ve Irak'ın para birimi",
-      "answer": "DİNAR",
-      "row": 2,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kripton'un simgesi",
-      "answer": "KR",
-      "row": 8,
+      "text": "Uzayan bölüm",
+      "answer": "UZANTI",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -219,23 +198,23 @@
     },
     {
       "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
       "col": 7
     },
     {
-      "row": 5,
+      "row": 4,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 3
+      "row": 8,
+      "col": 7
     },
     {
       "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 6
+      "col": 7
     }
   ],
   "difficulty": "orta",

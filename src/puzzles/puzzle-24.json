@@ -5,232 +5,176 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Tazeliğini kaybetmiş",
-      "answer": "BAYAT",
+      "text": "Sahte parlaklık",
+      "answer": "FOYA",
       "row": 0,
-      "col": 0,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "İki elin parmak sayısı",
-      "answer": "ON",
+      "text": "Su buharı",
+      "answer": "SİS",
       "row": 1,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İyileşmesi gereken doku hasarı",
-      "answer": "YARA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Platin'in simgesi",
-      "answer": "PT",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Baryum'un kimyasal simgesi",
-      "answer": "BA",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "En düşük rütbeli asker",
-      "answer": "ER",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Nisan-Mayıs arası burç",
-      "answer": "BOĞA",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yer altından çıkarılan cevher",
-      "answer": "MADEN",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Enerji ölçü birimi",
-      "answer": "KALORİ",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bükülmüş ipliklerden oluşan bağ",
-      "answer": "İP",
-      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kimyada Magnezyum'un simgesi",
-      "answer": "MG",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Zamanın çok kısa parçası",
-      "answer": "AN",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Altının saflık derecesi",
-      "answer": "AYAR",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Notalarda dördüncü sıradaki ses",
-      "answer": "FA",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Nispet",
-      "answer": "ORAN",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kolun tutmaya yarayan bölümü",
-      "answer": "EL",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kişiyi üzen sorun",
-      "answer": "DERT",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Gece gökyüzünde parlayan uydumuz",
-      "answer": "AY",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Derde deva olan madde (eski dilde)",
-      "answer": "EM",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Farsça kökenli eski 'ayak' sözcüğü",
-      "answer": "PA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağacın yeşil organı",
-      "answer": "YAPRAK",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ulaşım için açılmış şerit",
-      "answer": "YOL",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir şeyin gerisi",
-      "answer": "ART",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kanı taşıyan kanal",
-      "answer": "DAMAR",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tantal'ın kimyasal simgesi",
-      "answer": "TA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sırbistan'ın başkenti",
-      "answer": "BELGRAD",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Belirli vadede ödenen borç kağıdı",
-      "answer": "BONO",
+      "text": "Eski Türklerde yiğit",
+      "answer": "ALP",
       "row": 2,
-      "col": 5,
-      "arrow": "down"
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "'Ne oldu?' daki soru kelimesi",
-      "answer": "NE",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
+      "text": "Karmaşık",
+      "answer": "GİRİFT",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Hükümdarın konakladığı büyük çadır",
-      "answer": "OTAĞ",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
+      "text": "Meydan okuma",
+      "answer": "REST",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Eşya konulan yatay levha",
-      "answer": "RAF",
+      "text": "Kabuklu güz yemişi",
+      "answer": "KESTANE",
       "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gizli, kurnaz",
+      "answer": "SİNSİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sivri son",
+      "answer": "UÇ",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Japon çizgi filmi",
+      "answer": "ANİME",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yer mantarı",
+      "answer": "DOMALAN",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kabuk kırığı",
+      "answer": "FAY",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Miktar eksilmesi",
+      "answer": "FİRE",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Tren yolu",
+      "answer": "RAY",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kurutulmuş meyve",
+      "answer": "KAK",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Karşılaşmalar kümesi",
+      "answer": "LİG",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kin tutan",
+      "answer": "KİNDAR",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Uyarı aleti",
+      "answer": "SİREN",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İğne süsü",
+      "answer": "OYA",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Resim sanatçısı",
+      "answer": "RESSAM",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Üst mahkemeye başvurma",
+      "answer": "İSTİNAF",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Etiket kağıdı",
+      "answer": "YAFTA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kemik dokusu",
+      "answer": "İLİK",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Üst karşıtı",
+      "answer": "ALT",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 0,
-      "col": 7,
+      "text": "Sıra sayısı",
+      "answer": "NUMARA",
+      "row": 4,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Antik Yunan uygarlığının merkezi",
-      "answer": "ATİNA",
+      "text": "Alternatif",
+      "answer": "SEÇENEK",
       "row": 3,
       "col": 7,
       "arrow": "down"
@@ -239,23 +183,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 3,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 0,
+      "col": 2
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 0,
+      "col": 4
     },
     {
-      "row": 9,
+      "row": 0,
       "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
     }
   ],
   "difficulty": "orta",

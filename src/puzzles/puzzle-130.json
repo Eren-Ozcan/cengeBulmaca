@@ -5,268 +5,219 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Soyun geldiği kişi",
-      "answer": "ATA",
+      "text": "Borcu ödeme",
+      "answer": "İFA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sesleri algılayan organ",
-      "answer": "KULAK",
+      "text": "Deneyimsiz, toy",
+      "answer": "ACEMİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Olay",
+      "answer": "HADİSE",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyük sel",
+      "answer": "TUFAN",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ölüm acısı",
+      "answer": "YAS",
+      "row": 3,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Göğün katı",
+      "answer": "ARŞ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İş merkezi",
+      "answer": "PLAZA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yeter bulma",
+      "answer": "KANAAT",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Saydam görüntü",
+      "answer": "SLAYT",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir şeyin ilki",
+      "answer": "BAŞ",
+      "row": 7,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Odunsu bitki",
+      "answer": "AĞAÇ",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Gün aydınlığı",
+      "answer": "ŞAFAK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Baş kaldıran",
+      "answer": "ASİ",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Kollu sandık çalgısı",
+      "answer": "LATERNA",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Süslü başlık",
+      "answer": "HOTOZ",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dönme kuvveti",
+      "answer": "TORK",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gece eğlencesi",
+      "answer": "BALO",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ceylan",
+      "answer": "AHU",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gösterişli görkem",
+      "answer": "ŞATAFAT",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çalım, gösteriş",
+      "answer": "AFİ",
       "row": 1,
       "col": 3,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Rütbesiz asker, nefer",
-      "answer": "ER",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
+      "text": "Derebeyi konağı",
+      "answer": "ŞATO",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
     },
     {
-      "text": "Üzerinde bir ile altı arası nokta olan küp",
-      "answer": "ZAR",
-      "row": 2,
+      "text": "Kıbrıs, Girit gibi",
+      "answer": "ADA",
+      "row": 0,
       "col": 4,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "İki elin parmak sayısı",
-      "answer": "ON",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sarıya çalan göz rengi",
-      "answer": "ELA",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yabancı, ecnebi (eski dilde)",
-      "answer": "EL",
-      "row": 3,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Tuna kıyısındaki başkent",
-      "answer": "VİYANA",
+      "text": "Oksit tabakası",
+      "answer": "PAS",
       "row": 4,
-      "col": 2,
-      "arrow": "right"
+      "col": 4,
+      "arrow": "down"
     },
     {
-      "text": "Sahtesi olmayan, hakiki",
-      "answer": "ASIL",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mikroskop altına konan ince cam",
-      "answer": "LAM",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Şair Nâzım Hikmet'in aile adı",
-      "answer": "RAN",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hücum, hamle",
-      "answer": "ATAK",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Baryum'un kimyasal simgesi",
-      "answer": "BA",
-      "row": 6,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yalnız, biricik",
-      "answer": "TEK",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Müzikte sesi gösteren işaret",
-      "answer": "NOTA",
+      "text": "Defa, sefer",
+      "answer": "KEZ",
       "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kümeste beslenen, gıdaklayan hayvan",
-      "answer": "TAVUK",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Demir'in simgesi",
-      "answer": "FE",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Anmak için dikilen yapı",
-      "answer": "ANIT",
-      "row": 10,
       "col": 4,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Sitem bildiren seslenme",
-      "answer": "BRE",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İki nokta arasındaki mesafe",
-      "answer": "ARA",
-      "row": 11,
+      "text": "Ardıç içkisi",
+      "answer": "CİN",
+      "row": 0,
       "col": 5,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Bağışlama",
-      "answer": "AF",
+      "text": "Erkek dadı",
+      "answer": "LALA",
       "row": 4,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Kortta raketle oynanan spor",
-      "answer": "TENİS",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Loğusaya yardım eden kadın",
-      "answer": "EBE",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Utanma duygusu",
-      "answer": "AR",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yakın karşıtı",
-      "answer": "IRAK",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çocuk, döl",
-      "answer": "EVLAT",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çeşit, cins",
-      "answer": "TÜR",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Fransız yazarın 19. yüzyıl romanı",
-      "answer": "NANA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Gezegenlerin içinde bulunduğu boşluk",
-      "answer": "UZAY",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ocak-Şubat arası burç",
-      "answer": "KOVA",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
+      "text": "Müzikte suskunluk",
+      "answer": "ES",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Alaca, benekli renk",
-      "answer": "ALA",
+      "text": "Kavisli kısa kılıç",
+      "answer": "YATAĞAN",
       "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Avrupa'nın önemli nehirlerinden biri, Karadeniz'e dökülür",
-      "answer": "TUNA",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Amfitiyatro benzeri alan",
-      "answer": "ARENA",
+      "text": "Anlam dışı",
+      "answer": "MECAZ",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kızıl renkli bir metal",
-      "answer": "BAKIR",
+      "text": "Meşru",
+      "answer": "YASAL",
       "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Aydınlatma aracı",
-      "answer": "LAMBA",
-      "row": 2,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Tantal'ın kimyasal simgesi",
-      "answer": "TA",
-      "row": 9,
+      "text": "Saat onaran",
+      "answer": "SAATÇİ",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     }
@@ -274,27 +225,43 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 3
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
       "col": 8
     },
     {
-      "row": 8,
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
       "col": 8
+    },
+    {
+      "row": 7,
+      "col": 0
     },
     {
       "row": 10,
-      "col": 2
+      "col": 8
     },
     {
       "row": 11,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 11,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "kolay",

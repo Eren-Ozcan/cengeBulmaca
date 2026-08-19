@@ -5,219 +5,205 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kor, ateş (halk ağzı)",
-      "answer": "HAR",
+      "text": "Çift karşıtı",
+      "answer": "TEK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Beklenmedik talihsiz olay",
-      "answer": "KAZA",
+      "text": "Işıltı, parlaklık",
+      "answer": "FER",
       "row": 0,
       "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Motorların çalışması için gerekli enerji maddesi",
-      "answer": "YAKIT",
+      "text": "Sağgörü",
+      "answer": "BASİRET",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Periyodik tablodaki Kalsiyum'un simgesi",
-      "answer": "CA",
+      "text": "Keyifli",
+      "answer": "NEŞELİ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Geniş, verimli düzlük",
-      "answer": "OVA",
-      "row": 3,
-      "col": 2,
+      "text": "Neşeli, sevinçli",
+      "answer": "ŞEN",
+      "row": 4,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Uzun boylu bir ağaç",
-      "answer": "KAVAK",
+      "text": "Zirve",
+      "answer": "PİK",
       "row": 4,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Nâzım Hikmet'in soyadı",
-      "answer": "RAN",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dört nala koşan hayvan",
-      "answer": "AT",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kobalt'ın simgesi",
-      "answer": "CO",
-      "row": 5,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İnce kesilmiş uzun ahşap parça",
-      "answer": "ÇITA",
-      "row": 6,
+      "text": "Boyun örtüsü",
+      "answer": "ATKI",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Zemin, arka plan",
-      "answer": "FON",
-      "row": 7,
+      "text": "Kontrolsüz hücre",
+      "answer": "KANSER",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Askerlik yapan genç, nefer",
-      "answer": "ER",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Büyük tren istasyonu",
-      "answer": "GAR",
-      "row": 7,
-      "col": 4,
+      "text": "Dişi geyik",
+      "answer": "MARAL",
+      "row": 6,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hava grubundan bir burç",
-      "answer": "TERAZİ",
+      "text": "Haşlanan hamur",
+      "answer": "MAKARNA",
       "row": 8,
-      "col": 1,
-      "arrow": "down-right"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Avukatların üye olduğu meslek örgütü",
-      "answer": "BARO",
-      "row": 9,
+      "text": "Ağ tabaka",
+      "answer": "RETİNA",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Asıl, esas olan",
-      "answer": "ANA",
+      "text": "Metal iplik",
+      "answer": "TEL",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gözle görülmeyen yaratık",
+      "answer": "CİN",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Haftanın ikinci günü",
-      "answer": "SALI",
+      "text": "Ödeme süresi",
+      "answer": "VADE",
       "row": 11,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bacağın yere basan bölümü",
-      "answer": "AYAK",
+      "text": "Bebeği doğurtan",
+      "answer": "EBE",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bıkkınlık ünlemi",
-      "answer": "OF",
-      "row": 5,
+      "text": "Bir yerde oturma",
+      "answer": "İKAMET",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Küçük metal kap",
-      "answer": "TAS",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Radyum'un simgesi",
-      "answer": "RA",
+      "text": "Göz üstü kılı",
+      "answer": "KAŞ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Haya, utanç duygusu",
-      "answer": "AR",
-      "row": 3,
+      "text": "Japon dövüş sanatı",
+      "answer": "KARATE",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Müzikli sahne yapıtı",
-      "answer": "OPERA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Su taşımaya yarayan kap",
-      "answer": "KOVA",
+      "text": "Taşkın su",
+      "answer": "SEL",
       "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Oyuncunun canlandırdığı kişi",
-      "answer": "ROL",
-      "row": 8,
+      "text": "Taşıma",
+      "answer": "NAKİL",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sevinç, memnunluk",
-      "answer": "KIVANÇ",
+      "text": "Hortumlu hayvan",
+      "answer": "FİL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Galyum'un simgesi",
-      "answer": "GA",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ani saldırı",
-      "answer": "ATAK",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir kurulun üyesi (eski dilde)",
-      "answer": "AZA",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kılçıklı küçük deniz balığı",
-      "answer": "ATERİNA",
+      "text": "Hayvanlar kralı",
+      "answer": "ASLAN",
       "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kesme hamur",
+      "answer": "ERİŞTE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hint unvanı",
+      "answer": "RACA",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Do'dan sonraki nota",
+      "answer": "RE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kilit açan araç",
-      "answer": "ANAHTAR",
-      "row": 0,
+      "text": "Görüntü yüzeyi",
+      "answer": "EKRAN",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İlkel benlik",
+      "answer": "İD",
+      "row": 9,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses özelliği",
+      "answer": "TINI",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Sivilce",
+      "answer": "AKNE",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -229,35 +215,23 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 2,
-      "col": 6
+      "row": 6,
+      "col": 7
     },
     {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 8,
+      "row": 11,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 7
+      "row": 11,
+      "col": 1
     },
     {
       "row": 11,
-      "col": 5
-    },
-    {
-      "row": 11,
-      "col": 7
+      "col": 2
     }
   ],
   "difficulty": "orta",

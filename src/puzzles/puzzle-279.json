@@ -5,233 +5,177 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Ayrılırken söylenen elveda sözü",
-      "answer": "VEDA",
+      "text": "Kırışık gideren araç",
+      "answer": "ÜTÜ",
       "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Metal kap",
+      "answer": "TAS",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağızdaki tat organı",
+      "answer": "DİL",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kırmızıya çalan renk",
-      "answer": "AL",
-      "row": 1,
+      "text": "Topluluk mensubu",
+      "answer": "ÜYE",
+      "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Uyluk ile baldırı birleştiren eklem",
-      "answer": "DİZ",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Radyum'un simgesi",
-      "answer": "RA",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Avusturya'nın başkenti",
-      "answer": "VİYANA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Do ile Mi arasındaki nota",
-      "answer": "RE",
+      "text": "Rezil",
+      "answer": "KEPAZE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yüzüklerde kullanılan yarı değerli bir taş",
-      "answer": "AKİK",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Söz verme, ahit",
-      "answer": "ANT",
+      "text": "Hayvan ölümü",
+      "answer": "TELEF",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cilve, işve",
-      "answer": "NAZ",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Baryum'un kimyasal simgesi",
-      "answer": "BA",
+      "text": "Öğrenci",
+      "answer": "TALEBE",
       "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mukavemet",
+      "answer": "DİRENÇ",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kimsesiz, boş",
+      "answer": "TEKİN",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yalnızca sözü",
+      "answer": "ANCAK",
+      "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Divan edebiyatında su",
-      "answer": "AB",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Karadeniz mutfağının vazgeçilmez küçük balığı",
-      "answer": "HAMSİ",
-      "row": 7,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gerçekleşen vaka",
-      "answer": "OLAY",
-      "row": 9,
+      "text": "Almanya'dan geçen nehir",
+      "answer": "REN",
+      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yayla atılan ince silah",
-      "answer": "OK",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırsalda büyük toprak sahibi",
-      "answer": "AĞA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Loğusaya yardım eden kadın",
-      "answer": "EBE",
+      "text": "Ufak karşıtı",
+      "answer": "İRİ",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "AB ülkelerinde kullanılan ortak para",
-      "answer": "AVRO",
+      "text": "İyileştirici madde",
+      "answer": "İLAÇ",
       "row": 11,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Dönümün onda biri olan ölçü",
-      "answer": "AR",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Selimiye Camii'nin bulunduğu şehir",
-      "answer": "EDİRNE",
+      "text": "Fiyat kâğıdı",
+      "answer": "ETİKET",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Boynuzlu erkek sığır",
-      "answer": "BOĞA",
+      "text": "Acemi, deneyimsiz",
+      "answer": "TOR",
       "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sağlık için uygulanan beslenme düzeni",
-      "answer": "DİYET",
-      "row": 0,
+      "text": "Bayağı, olağan",
+      "answer": "ALELADE",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yanardağdan çıkan erimiş kayaç",
-      "answer": "LAV",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Üye",
-      "answer": "AZA",
+      "text": "Matematikte kuvvet",
+      "answer": "ÜS",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Anlama, hatırlama ünlemi",
-      "answer": "HA",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Emile Zola'nın ünlü romanı",
-      "answer": "NANA",
-      "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yılın on ikide biri",
-      "answer": "AY",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir bakliyat türü",
-      "answer": "ARAKA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Şifa veren madde",
-      "answer": "EM",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Lantan için kullanılan kimyasal simge",
-      "answer": "LA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir şeyin geçtiğini gösteren işaret",
-      "answer": "İZ",
+      "text": "Gagası keseli kuş",
+      "answer": "PELİKAN",
       "row": 3,
-      "col": 6,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Odayı ısıtan yakıt yakılan araç",
-      "answer": "SOBA",
-      "row": 7,
-      "col": 6,
+      "text": "Bravo",
+      "answer": "AFERİN",
+      "row": 3,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Temiz, lekesiz renk",
-      "answer": "AK",
+      "text": "Üçlü doğum",
+      "answer": "ÜÇÜZ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kendini düşünen",
+      "answer": "BENCİL",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kardeş çocuğu",
+      "answer": "YEĞEN",
       "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Fasıla",
+      "answer": "ARA",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bebeği doğurtan",
+      "answer": "EBE",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Televizyonda haberleri okuyan kişi",
-      "answer": "SPİKER",
-      "row": 5,
+      "text": "Çivi aleti",
+      "answer": "ÇEKİÇ",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -239,31 +183,59 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
       "col": 6
     },
     {
-      "row": 7,
-      "col": 2
+      "row": 1,
+      "col": 0
     },
     {
-      "row": 10,
-      "col": 3
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 1
+    },
+    {
+      "row": 11,
+      "col": 2
     }
   ],
   "difficulty": "zor",

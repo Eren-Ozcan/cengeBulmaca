@@ -5,226 +5,170 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Bir şeyin geçtiğini gösteren işaret",
-      "answer": "İZ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Öğrenme isteği",
-      "answer": "MERAK",
+      "text": "Yasal, uygun",
+      "answer": "MEŞRU",
       "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Divan edebiyatında su",
-      "answer": "AB",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaşamın kaynağı sıvı",
-      "answer": "SU",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Öğütülmüş tahıl",
-      "answer": "UN",
-      "row": 2,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Eski bir fal çeşidi",
-      "answer": "REMİL",
+      "text": "Rus hükümdarı",
+      "answer": "ÇAR",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Paylaşımlı taşıt",
+      "answer": "DOLMUŞ",
       "row": 3,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Müzikte susma işareti",
-      "answer": "ES",
+      "text": "İş birimi",
+      "answer": "ERG",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir şeyi teslim etme (eski dilde)",
-      "answer": "İTA",
+      "text": "Damla sesi",
+      "answer": "ŞIP",
       "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Temiz, lekesiz renk",
-      "answer": "AK",
+      "text": "Verilen söz",
+      "answer": "VAAT",
       "row": 5,
-      "col": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sporda ileri hamle",
-      "answer": "ATAK",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Göz açıp kapayana kadarki süre",
-      "answer": "AN",
+      "text": "Gelecek okuma",
+      "answer": "FAL",
       "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kozdaki üstün kağıt",
-      "answer": "ATU",
+      "text": "Tahta ayakkabı",
+      "answer": "SABO",
       "row": 7,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Saçsız",
-      "answer": "KEL",
+      "text": "Kara parçası",
+      "answer": "ADA",
       "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yapı tasarımcısı",
-      "answer": "MİMAR",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dört basamaklı en küçük sayı",
-      "answer": "BİN",
-      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Voleybol veya tenis maçının bir bölümü",
-      "answer": "SET",
+      "text": "Urfa biberi",
+      "answer": "İSOT",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Dağ lalesi",
+      "answer": "ANEMON",
       "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırmızı taneli bir meyve",
-      "answer": "NAR",
-      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hisse, bölüşülen parça",
-      "answer": "PAY",
+      "text": "Hainlik",
+      "answer": "İHANET",
       "row": 10,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bir şeyin en sondaki sivri kısmı",
-      "answer": "UÇ",
+      "text": "İri yaratık",
+      "answer": "DEV",
       "row": 2,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Kesin olmayan düşünce",
-      "answer": "ZAN",
-      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Delikli, seyrek dokunmuş kumaş",
-      "answer": "ETAMİN",
-      "row": 4,
+      "text": "Söyleyiş biçimi",
+      "answer": "EDA",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Antik Yunan uygarlığının merkezi",
-      "answer": "ATİNA",
-      "row": 5,
+      "text": "Uzaktaki yer",
+      "answer": "ORA",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tavlada pul çıkaramadan yenilme",
-      "answer": "MARS",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sahilde bulunan ince taneli madde",
-      "answer": "KUM",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğum uzmanı sağlık görevlisi",
-      "answer": "EBE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İskambilde birli",
-      "answer": "AS",
+      "text": "Ansızın, beklenmedik",
+      "answer": "ANİ",
       "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Turp benzeri sebze",
+      "answer": "ŞALGAM",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Olur, peki",
+      "answer": "EH",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kimse, tip, yüz",
+      "answer": "SİMA",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Do-re-mi'nin son hecesi",
-      "answer": "Mİ",
-      "row": 2,
+      "text": "Uçmak işi",
+      "answer": "UÇUŞ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zehirli kuyruklu böcek",
-      "answer": "AKREP",
+      "text": "Sipariş mal",
+      "answer": "FASON",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Payitahtın eski adlarından biri",
-      "answer": "ASİTANE",
-      "row": 0,
+      "text": "Ağaca yapılan işlem",
+      "answer": "AŞI",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tantal için kullanılan kimyasal simge",
-      "answer": "TA",
-      "row": 8,
+      "text": "Hizmet alan",
+      "answer": "ABONE",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sesleri algılayan organ",
-      "answer": "KULAK",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Lantan'ın simgesi",
-      "answer": "LA",
-      "row": 6,
+      "text": "Uçak kullanıcısı",
+      "answer": "PİLOT",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -232,19 +176,51 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 5
+      "col": 4
     },
     {
-      "row": 5,
-      "col": 4
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 2
     },
     {
       "row": 9,
       "col": 7
+    },
+    {
+      "row": 10,
+      "col": 0
     }
   ],
   "difficulty": "zor",

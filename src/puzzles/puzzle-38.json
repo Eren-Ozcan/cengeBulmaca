@@ -5,184 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Portakal çiçeği kokan ilimiz",
-      "answer": "ADANA",
+      "text": "Kafa",
+      "answer": "BAŞ",
       "row": 0,
-      "col": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kılçıklı küçük deniz balığı",
-      "answer": "ATERİNA",
+      "text": "Ün, şöhret",
+      "answer": "ŞAN",
       "row": 1,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "İki kelimeyi birleştiren bağlaç",
-      "answer": "VE",
+      "text": "Yüz",
+      "answer": "SURAT",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Aralık sözü",
+      "answer": "İLA",
       "row": 3,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gözleri farklı renkte kedisiyle bilinen ilimiz",
-      "answer": "VAN",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gam dizisinde altıncı nota",
-      "answer": "LA",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Nefesli çalgı sesini taklit eden hece",
-      "answer": "Tİ",
-      "row": 4,
+      "text": "İçeri karşıtı",
+      "answer": "DIŞARI",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Altının saflık derecesi",
-      "answer": "AYAR",
+      "text": "İnce kılıç",
+      "answer": "MEÇ",
       "row": 5,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Element tablosunda Kalsiyum'un simgesi",
-      "answer": "CA",
+      "text": "Saydam madde",
+      "answer": "CAM",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mi ile Sol arasındaki nota",
-      "answer": "FA",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir kişinin veya yerin bulunduğu yeri gösteren bilgi",
-      "answer": "ADRES",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kazakistan'ın yeni başkenti",
-      "answer": "ASTANA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Temel, esas",
-      "answer": "ANA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kimyada Demir'in simgesi",
-      "answer": "FE",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Altın için kullanılan kimyasal simge",
-      "answer": "AU",
-      "row": 1,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Satrançta bir taş",
-      "answer": "AT",
-      "row": 0,
       "col": 1,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Doğru ile yanlışı ayırt eden iç ses",
-      "answer": "VİCDAN",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Derde bulunan çözüm",
-      "answer": "DEVA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Üzerine bina dikilecek boş arazi",
-      "answer": "ARSA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gösteri ve yarış alanı",
-      "answer": "ARENA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvansal besin maddesi",
-      "answer": "ET",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Katıksız, arı",
-      "answer": "SAF",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir bakışta geçen süre",
-      "answer": "AN",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Söz, lakırdı",
-      "answer": "LAF",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Cevap isteyen soru kelimesi",
-      "answer": "NE",
+      "text": "Yürekler acısı",
+      "answer": "FECAAT",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Azimli",
+      "answer": "KARARLI",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Meyve özü",
+      "answer": "NEKTAR",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bronş hastalığı",
+      "answer": "ASTIM",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Vantilatör",
+      "answer": "FAN",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir işaret sıfatı",
+      "answer": "ŞU",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Soyağacı",
+      "answer": "ŞECERE",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şişe kapağı aracı",
+      "answer": "AÇACAK",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Şiir ustası",
+      "answer": "ŞAİR",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Üçüncü ay",
+      "answer": "MART",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ata binen",
+      "answer": "ATLI",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Motorlu kara taşıtı",
-      "answer": "ARABA",
-      "row": 3,
+      "text": "Kızılımsı sarı",
+      "answer": "ALA",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kutsal mezar",
+      "answer": "YATIR",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -190,23 +148,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 3
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 1,
+      "row": 2,
       "col": 6
     },
     {
-      "row": 3,
-      "col": 4
+      "row": 5,
+      "col": 5
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 6,
+      "col": 0
     }
   ],
   "difficulty": "kolay",

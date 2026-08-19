@@ -5,176 +5,127 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Kapıyı açmaya yarayan metal araç",
-      "answer": "ANAHTAR",
+      "text": "Kamyonun taşıdığı",
+      "answer": "YÜK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eski dilde ödeme, verme",
-      "answer": "İTA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "'Bu' ve 'o' ile birlikte kullanılan işaret sözü",
-      "answer": "ŞU",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sarıya çalan göz rengi",
-      "answer": "ELA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Evlerde beslenen tüylü hayvan",
-      "answer": "KEDİ",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Notalarda dördüncü sıradaki ses",
-      "answer": "FA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Periyodik tablodaki Platin'in simgesi",
-      "answer": "PT",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İkinci nota",
-      "answer": "RE",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Deriden salgılanan sıvı",
-      "answer": "TER",
-      "row": 6,
+      "text": "On yüz",
+      "answer": "BİN",
+      "row": 1,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kesme aracı, diş diş bıçak",
-      "answer": "TESTERE",
-      "row": 6,
+      "text": "Sahnedeki kişilik",
+      "answer": "ROL",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Esen hava",
+      "answer": "YEL",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tarlada yetişen tahıl bitkisi",
-      "answer": "EKİN",
+      "text": "Bütünün parçası",
+      "answer": "CÜZ",
+      "row": 2,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alçak yükselti",
+      "answer": "TEPE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Camlı taraça",
+      "answer": "VERANDA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dallardan barınak",
+      "answer": "ÇARDAK",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Taş oturak",
+      "answer": "SEKİ",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek cins",
+      "answer": "ERİL",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kızıl renkli değerli ağaç",
-      "answer": "MAUN",
-      "row": 8,
+      "text": "Kazanılmış yatkınlık",
+      "answer": "MELEKE",
+      "row": 9,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Mısır'dan geçen ırmak",
-      "answer": "NİL",
+      "text": "Jeneratör",
+      "answer": "ÜRETEÇ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Amfitiyatro benzeri alan",
-      "answer": "ARENA",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Girişken, çevik",
-      "answer": "ATAK",
+      "text": "Salgın ishal hastalığı",
+      "answer": "KOLERA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Notada sessizlik simgesi",
-      "answer": "ES",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Anlama, hatırlama ünlemi",
-      "answer": "HA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Şifa veren madde",
-      "answer": "EM",
+      "text": "Sınırlanmış arazi",
+      "answer": "PARSEL",
       "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Cilt, deri",
-      "answer": "TEN",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Klasik müziğin telli çalgısı",
-      "answer": "UD",
+      "text": "Pres",
+      "answer": "CENDERE",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İkiye bölünemeyen sayı",
-      "answer": "TEK",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yemek, çorba",
-      "answer": "AŞ",
-      "row": 0,
+      "text": "Zamanında olan",
+      "answer": "DAKİK",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hardal gazı olarak da bilinen zehirli gaz",
-      "answer": "İPERİT",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dudaklara sürülen boya",
-      "answer": "RUJ",
+      "text": "İşve, kırıtma",
+      "answer": "NAZ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Raylar üzerinde giden taşıt",
-      "answer": "TREN",
+      "text": "Akıllı kadın",
+      "answer": "AKİLE",
       "row": 4,
       "col": 6,
       "arrow": "down"
@@ -183,15 +134,35 @@
   "blocks": [
     {
       "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
-      "row": 9,
-      "col": 4
+      "row": 0,
+      "col": 5
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
     }
   ],
   "difficulty": "kolay",

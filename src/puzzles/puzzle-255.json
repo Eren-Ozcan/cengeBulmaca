@@ -5,261 +5,198 @@
   "cols": 9,
   "clues": [
     {
-      "text": "İğneyle yapılan ince süs işi",
-      "answer": "OYA",
+      "text": "Soyağacı",
+      "answer": "ŞECERE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ak",
-      "answer": "BEYAZ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üzerine bina dikilecek boş arazi",
-      "answer": "ARSA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kozdaki üstün kağıt",
-      "answer": "ATU",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kesin olmayan düşünce",
-      "answer": "ZAN",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Örülmüş avlanma gereci",
-      "answer": "AĞ",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sık ağaçlarla kaplı doğal alan",
-      "answer": "ORMAN",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Büyük boyutlu",
-      "answer": "İRİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Japon halk türküsü",
-      "answer": "UTA",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Gıdaların enerji değeri birimi",
-      "answer": "KALORİ",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Uyum içinde şarkı söyleyen topluluk",
-      "answer": "KORO",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 7,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Torun sahibi yaşlı kadın",
-      "answer": "NİNE",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İşlenmemiş, çiğ hâlde",
-      "answer": "HAM",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Müzikte sesi gösteren işaret",
-      "answer": "NOTA",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Terazi simgesiyle anılan kavram",
-      "answer": "ADALET",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Beş parmaklı tutma organı",
-      "answer": "EL",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Kripton'un simgesi",
-      "answer": "KR",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayvanların yer altındaki yuvası",
-      "answer": "İN",
-      "row": 4,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Eser kaleme alan kişi",
-      "answer": "YAZAR",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Üstteki kara leke",
-      "answer": "KİR",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İki nokta arasındaki mesafe",
-      "answer": "ARA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kutsal kişiyi tasvir eden resim",
-      "answer": "İKON",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalay'ın kimyasal simgesi",
-      "answer": "SN",
+      "text": "Farsça su",
+      "answer": "AB",
       "row": 1,
-      "col": 3,
-      "arrow": "down"
+      "col": 6,
+      "arrow": "right"
     },
     {
-      "text": "Amfitiyatro benzeri alan",
-      "answer": "ARENA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Baryum'un simgesi",
-      "answer": "BA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Norveç'in başkenti",
-      "answer": "OSLO",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Evin bölmelerinden her biri",
-      "answer": "ODA",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Utanma duygusu",
-      "answer": "AR",
+      "text": "Ağ, örgüt",
+      "answer": "ŞEBEKE",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Üreteç",
+      "answer": "DİNAMO",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Olanaklı, mümkün",
+      "answer": "KABİL",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kapıya basılan",
+      "answer": "ZİL",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İlaç miktarı",
+      "answer": "DOZ",
+      "row": 5,
       "col": 5,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Kimyada Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
+      "text": "Pelte kıvamı",
+      "answer": "JEL",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Buluttan yağan su damlaları",
-      "answer": "YAĞMUR",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
+      "text": "Sindirim organı",
+      "answer": "MİDE",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Bir ülkede yaşayanların tümü",
-      "answer": "HALK",
+      "text": "Deniz girintisi",
+      "answer": "KOY",
       "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yanlışlıkla",
+      "answer": "KAZARA",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Servis görevlisi",
+      "answer": "GARSON",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Taş yolu",
+      "answer": "ŞOSE",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bulgar parası",
+      "answer": "LEVA",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Aday",
+      "answer": "NAMZET",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kapı basamağı",
+      "answer": "EŞİK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Meslek dili",
+      "answer": "JARGON",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gömülecek ölü",
+      "answer": "CENAZE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hükümdar sopası",
+      "answer": "ASA",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırlangıç benzeri kuş",
+      "answer": "EBABİL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Cilt maddesi",
+      "answer": "KREM",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kum falı",
+      "answer": "REMİL",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sporla gelişen doku",
+      "answer": "KAS",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sanat akımı",
+      "answer": "EKOL",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Anıt mezar",
+      "answer": "MOZOLE",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Din işleri",
+      "answer": "DİYANET",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Satranç taşlarından biri, L şeklinde hareket eder",
-      "answer": "AT",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
+      "text": "Şifre, simge",
+      "answer": "KOD",
       "row": 3,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Rütbesiz asker, nefer",
-      "answer": "ER",
-      "row": 9,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Düğünlerin üflemeli çalgısı",
-      "answer": "ZURNA",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir şeyi belirten iz",
-      "answer": "İM",
-      "row": 6,
+      "text": "Anlama yetisi",
+      "answer": "ZEKA",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     }
@@ -267,35 +204,63 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 6
     },
     {
       "row": 0,
-      "col": 5
+      "col": 7
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 8
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 8
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 7,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 2
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 0
+      "col": 7
     },
     {
       "row": 9,
       "col": 8
     },
     {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
-    },
-    {
       "row": 11,
-      "col": 3
+      "col": 7
     },
     {
       "row": 11,

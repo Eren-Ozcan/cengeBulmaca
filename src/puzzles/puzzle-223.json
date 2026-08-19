@@ -5,219 +5,170 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Lityum için kullanılan kimyasal simge",
-      "answer": "Lİ",
+      "text": "Olgunlaşmamış meyve",
+      "answer": "HAM",
       "row": 0,
-      "col": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Evlerde beslenen tüylü hayvan",
-      "answer": "KEDİ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tropik bir ağacın çekirdeğinden elde edilen madde",
-      "answer": "KAKAO",
+      "text": "Aşırı şişman",
+      "answer": "OBEZ",
       "row": 1,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Kendi, asıl",
-      "answer": "ÖZ",
+      "text": "Karışık renkli",
+      "answer": "ALACA",
       "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tohum ekme makinesi",
-      "answer": "MİBZER",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dokuma pamuklu kumaş",
-      "answer": "BEZ",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Aşağıda olan",
-      "answer": "ALT",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağışlama",
-      "answer": "AF",
-      "row": 5,
       "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir şeyin malı olan",
-      "answer": "AİT",
-      "row": 6,
-      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Askerlik yapan genç, nefer",
-      "answer": "ER",
-      "row": 6,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üzüm veren bitki",
-      "answer": "ASMA",
-      "row": 7,
-      "col": 3,
+      "text": "Nem",
+      "answer": "RUTUBET",
+      "row": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gözleri görmeyen",
-      "answer": "AMA",
-      "row": 7,
+      "text": "Anı",
+      "answer": "HATIRA",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Avcının kısmeti",
-      "answer": "AV",
+      "text": "At demiri",
+      "answer": "NAL",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Troid hastalığı",
+      "answer": "GUATR",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tahta üflemeli çalgı",
+      "answer": "KLARNET",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boks alanı",
+      "answer": "RİNG",
       "row": 8,
-      "col": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Öğrencinin çantasındaki yazı aracı",
-      "answer": "KALEM",
+      "text": "Kötülük, fenalık",
+      "answer": "ŞER",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sevda",
+      "answer": "AŞK",
       "row": 9,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Günlük haber yayını",
-      "answer": "GAZETE",
+      "text": "Değerli kızıl ağaç",
+      "answer": "MAUN",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Acı, üzüntü bildiren ünlem",
-      "answer": "AH",
-      "row": 7,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Preparatın üstüne konan ince cam",
-      "answer": "LAMEL",
+      "text": "Yoğurt içeceği",
+      "answer": "AYRAN",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İlaç, merhem (halk dili)",
-      "answer": "EM",
+      "text": "Cilt maddesi",
+      "answer": "KREM",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Aynı doğumda dünyaya gelen kardeşlerden her biri",
-      "answer": "İKİZ",
-      "row": 0,
+      "text": "Japon türküsü",
+      "answer": "UTA",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İri taneli bezelye",
-      "answer": "ARAKA",
-      "row": 5,
+      "text": "Para birimimiz",
+      "answer": "LİRA",
+      "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Farsça kökenli 'su' sözcüğü",
-      "answer": "AB",
+      "text": "Korkusuz girişken",
+      "answer": "ATILGAN",
       "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Karadeniz'de bir Trabzon ilçesi",
-      "answer": "OF",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çok karşıtı",
-      "answer": "AZ",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İpek böceğinin ördüğü yuva",
-      "answer": "KOZA",
+      "text": "Onay, izin, tasdik",
+      "answer": "OLUR",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Anne, baba ve çocuklardan oluşan topluluk",
-      "answer": "AİLE",
-      "row": 6,
+      "text": "İnce halat",
+      "answer": "URGAN",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Doğadaki en sert mineral",
-      "answer": "ELMAS",
-      "row": 2,
+      "text": "Hoşgörülü, güvenilir",
+      "answer": "BABACAN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kasabın sattığı gıda",
-      "answer": "ET",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Üçten sonra gelen sayı",
-      "answer": "DÖRT",
+      "text": "Kraliçe",
+      "answer": "ECE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
+      "text": "Bırakıp gitme",
+      "answer": "TERK",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bir şeyin geçtiğini gösteren işaret",
-      "answer": "İZ",
+      "text": "Kişi, şahıs",
+      "answer": "ZAT",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Demirin dövülecek kızgınlık derecesi",
-      "answer": "TAV",
-      "row": 5,
+      "text": "Arka, geri",
+      "answer": "ART",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -225,39 +176,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
       "row": 0,
       "col": 3
     },
     {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 5,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 4
+      "row": 4,
+      "col": 6
     },
     {
       "row": 6,
       "col": 0
     },
     {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
       "row": 9,
       "col": 7
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 6
     },
     {
       "row": 10,

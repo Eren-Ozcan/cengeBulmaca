@@ -5,198 +5,170 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Yay ile fırlatılan silah",
-      "answer": "OK",
-      "row": 0,
+      "text": "Vücut yapısı bilimi",
+      "answer": "ANATOMİ",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Değiş tokuş",
-      "answer": "TAKAS",
-      "row": 1,
+      "text": "Gereklilik",
+      "answer": "LÜZUM",
+      "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İşlenerek metale dönüşen cevher",
-      "answer": "MADEN",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İnce, uzun gövdeli ağaç",
-      "answer": "KAVAK",
+      "text": "Olağan dışı",
+      "answer": "ANORMAL",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Olağanüstü halk anlatısı",
-      "answer": "MASAL",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Do-re-mi dizisinin başlangıcı",
-      "answer": "DO",
+      "text": "Renklendirme maddesi",
+      "answer": "BOYA",
       "row": 4,
-      "col": 5,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çay ve yemeklerde kullanılan kokulu bitki",
-      "answer": "NANE",
+      "text": "Hamur parçası",
+      "answer": "BEZE",
       "row": 5,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İtalya'nın en uzun nehri",
-      "answer": "PO",
+      "text": "Benzer, benzeyen",
+      "answer": "GİBİ",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kızartma kabı",
-      "answer": "TAVA",
-      "row": 6,
-      "col": 3,
+      "text": "İyileşme dönemi",
+      "answer": "NEKAHET",
+      "row": 7,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İçi taneli, ekşimsi meyve",
-      "answer": "NAR",
+      "text": "Övgü şiiri",
+      "answer": "KASİDE",
       "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Küçük yolcu taşıtı",
+      "answer": "MİNİBÜS",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Daire tabanlı cisim",
+      "answer": "KONİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alt görevli",
+      "answer": "AST",
+      "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Baryum'un kimyasal simgesi",
-      "answer": "BA",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dizi",
-      "answer": "SIRA",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Helyum için kullanılan kimyasal simge",
-      "answer": "HE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mozart'ın şehri, Avusturya başkenti",
-      "answer": "VİYANA",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Çayırı kaplayan bitki",
-      "answer": "OT",
+      "text": "Hükümdar sopası",
+      "answer": "ASA",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Cıva'nın simgesi",
-      "answer": "HG",
-      "row": 8,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük, hafif kayık",
-      "answer": "KANO",
-      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Berilyum'un simgesi",
-      "answer": "BE",
-      "row": 7,
+      "text": "Üreteç",
+      "answer": "DİNAMO",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Üstünde yazı yazılan mobilya",
-      "answer": "MASA",
-      "row": 1,
+      "text": "Gıda",
+      "answer": "BESİN",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Odanın üstünü kaplayan yüzey",
-      "answer": "TAVAN",
+      "text": "Telefon sözü",
+      "answer": "ALO",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Terazi simgesiyle anılan kavram",
-      "answer": "ADALET",
+      "text": "İki parça mayo",
+      "answer": "BİKİNİ",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Mezar yapısı",
+      "answer": "TÜRBE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir kişinin geldiği aile çizgisi",
-      "answer": "SOY",
-      "row": 7,
+      "text": "Sıradan, kalitesiz",
+      "answer": "ADİ",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Fırında pişen tatlı çörek",
-      "answer": "KEK",
+      "text": "Geçişme olayı",
+      "answer": "OZMOZ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Geçmişten kalan iz",
-      "answer": "ANI",
-      "row": 5,
+      "text": "Boşa gitme",
+      "answer": "HEBA",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zamanın çok kısa parçası",
-      "answer": "AN",
+      "text": "Hekim bakısı",
+      "answer": "MUAYENE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Taş veya tuğladan örülmüş bölme",
-      "answer": "DUVAR",
-      "row": 3,
+      "text": "Askeri bölge",
+      "answer": "ÜS",
+      "row": 8,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Kobalt'ın simgesi",
-      "answer": "CO",
-      "row": 2,
+      "text": "Yazım kuralları",
+      "answer": "İMLA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Motorlu taşıt",
-      "answer": "ARABA",
-      "row": 5,
+      "text": "Sınav türü",
+      "answer": "TEST",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -204,47 +176,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 6,
-      "col": 2
-    },
-    {
-      "row": 7,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 0,
       "col": 2
     },
     {
-      "row": 7,
-      "col": 3
+      "row": 2,
+      "col": 0
     },
     {
-      "row": 9,
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 4,
       "col": 2
     },
     {
-      "row": 9,
-      "col": 3
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
+      "row": 5,
+      "col": 7
     }
   ],
   "difficulty": "orta",

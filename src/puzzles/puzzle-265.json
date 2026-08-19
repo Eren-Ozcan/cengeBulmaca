@@ -5,267 +5,197 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Altının saflık derecesi",
-      "answer": "AYAR",
-      "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Işığı geçiren kırılgan madde",
-      "answer": "CAM",
+      "text": "Takılarak konuşan",
+      "answer": "KEKEME",
       "row": 1,
-      "col": 5,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Platin'in simgesi",
-      "answer": "PT",
-      "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Rusça onay sözcüğü",
-      "answer": "DA",
+      "text": "Terbiye, öğretim",
+      "answer": "EĞİTİM",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Etrafı suyla kaplı toprak",
-      "answer": "ADA",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kutsal bir şey üzerine söz verme",
-      "answer": "ANT",
+      "text": "Sergi salonu",
+      "answer": "GALERİ",
       "row": 3,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Örülerek yapılmış avlanma aracı",
-      "answer": "AĞ",
-      "row": 3,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Kıta sınırı sayılan dağ silsilesi",
-      "answer": "URAL",
+      "text": "Yöresel söyleyiş",
+      "answer": "ŞİVE",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üzüm veren bitki",
-      "answer": "ASMA",
+      "text": "Tarladaki tahıl",
+      "answer": "EKİN",
       "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Süt veren büyükbaş hayvan",
-      "answer": "İNEK",
+      "text": "Sofra bezi",
+      "answer": "PEÇETE",
       "row": 5,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ayak direme",
-      "answer": "İNAT",
+      "text": "Saygılı, kibar",
+      "answer": "NAZİK",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çıtır, sulu bir kış meyvesi",
-      "answer": "ELMA",
+      "text": "Lezzet",
+      "answer": "TAT",
       "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayıflanma sözü",
-      "answer": "AH",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlı'nın ilk gümüş parası",
-      "answer": "AKÇE",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sabahın ilk ışıkları",
-      "answer": "TAN",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İki şey arasındaki boşluk",
-      "answer": "ARA",
-      "row": 8,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Küçük, kürekle yürütülen su taşıtı",
-      "answer": "KAYIK",
-      "row": 9,
-      "col": 0,
+      "text": "Direksiyon parçası",
+      "answer": "ROT",
+      "row": 7,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Periyodik tablodaki Bakır'ın simgesi",
-      "answer": "CU",
-      "row": 9,
-      "col": 6,
+      "text": "Cümle işareti",
+      "answer": "NOKTA",
+      "row": 8,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İsviçre'nin başkenti",
-      "answer": "BERN",
-      "row": 9,
+      "text": "Beyaz süs çiçeği",
+      "answer": "KARTOPU",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kalın yünden yapılan kumaş",
-      "answer": "ABA",
+      "text": "Sırt kemiği",
+      "answer": "OMURGA",
       "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kılçıklı küçük deniz balığı",
-      "answer": "ATERİNA",
+      "text": "Üretim tesisi",
+      "answer": "FABRİKA",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dikenli sebze",
+      "answer": "ENGİNAR",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bir işin tekrar sayısı",
-      "answer": "KEZ",
+      "text": "Eskiden zengin kimse",
+      "answer": "AĞA",
       "row": 8,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kapıyı açmaya yarayan metal araç",
-      "answer": "ANAHTAR",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Hukukun temel ilkesi",
-      "answer": "ADALET",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kendini gördüğümüz sırlı cam",
-      "answer": "AYNA",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "'Nâzım Hikmet ...' soyadı",
-      "answer": "RAN",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Geçmişten kalan iz",
-      "answer": "ANI",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Tantal'ın simgesi",
-      "answer": "TA",
+      "text": "Şikâr",
+      "answer": "AV",
       "row": 2,
-      "col": 5,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kelimenin sonuna gelen parça",
-      "answer": "EK",
-      "row": 5,
-      "col": 5,
+      "text": "Ucuza kapatılan",
+      "answer": "KELEPİR",
+      "row": 0,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Binanın her bir bölümü",
-      "answer": "KAT",
+      "text": "Balık ağı",
+      "answer": "TOR",
       "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Törpü",
+      "answer": "EĞE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İktisat",
+      "answer": "EKONOMİ",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalsiyum maddesi",
+      "answer": "KİREÇ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Kalsiyum'un simgesi",
-      "answer": "CA",
+      "text": "Ayak arkası",
+      "answer": "TOPUK",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Fiyat kâğıdı",
+      "answer": "ETİKET",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Domates ezmesi",
-      "answer": "SALÇA",
+      "text": "Ad çekme",
+      "answer": "KURA",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Gamın üçüncüsü",
+      "answer": "Mİ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Boyun eğme",
+      "answer": "İTAAT",
       "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Baryum'un simgesi",
-      "answer": "BA",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Erkek insan, kişi",
-      "answer": "ADAM",
-      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kayalık oluşturan deniz canlısı",
-      "answer": "MERCAN",
-      "row": 5,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Yer altındaki doğal oyuk",
-      "answer": "MAĞARA",
+      "text": "Geçici bırakılan",
+      "answer": "EMANET",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Altın'ın kimyasal simgesi",
-      "answer": "AU",
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
       "row": 7,
       "col": 8,
       "arrow": "down"
@@ -281,20 +211,32 @@
       "col": 2
     },
     {
-      "row": 0,
-      "col": 5
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
     },
     {
       "row": 8,
-      "col": 0
+      "col": 2
     },
     {
-      "row": 10,
-      "col": 8
+      "row": 9,
+      "col": 7
     },
     {
       "row": 11,
-      "col": 0
+      "col": 7
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "kolay",

@@ -5,142 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Delikli, seyrek dokunmuş kumaş",
-      "answer": "ETAMİN",
+      "text": "Kayıt kütüğü",
+      "answer": "SİCİL",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ayak tabanı cezası",
+      "answer": "FALAKA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Lamın üzerine kapatılan ince cam",
-      "answer": "LAMEL",
-      "row": 3,
+      "text": "Karesi verilen sayı",
+      "answer": "KAREKÖK",
+      "row": 2,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Bir şeyin gerisi",
-      "answer": "ART",
+      "text": "Fauna",
+      "answer": "DİREY",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Seslenirken kullanılan ünlem",
-      "answer": "EY",
+      "text": "Kolay kazanç",
+      "answer": "LÜP",
       "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çukurova'nın büyük şehri",
-      "answer": "ADANA",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sirk oyunlarının yapıldığı alan",
-      "answer": "ARENA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İsim",
-      "answer": "AD",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Radyum'un simgesi",
-      "answer": "RA",
-      "row": 8,
       "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mühür",
+      "answer": "DAMGA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Pars",
+      "answer": "LEOPAR",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kurum, duman lekesi",
-      "answer": "İS",
+      "text": "Yemin sözü",
+      "answer": "VALLAHİ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Konut, hane",
-      "answer": "EV",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yabancı, ecnebi (eski dilde)",
-      "answer": "EL",
-      "row": 1,
+      "text": "Anlatım, açıklama",
+      "answer": "İFADE",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dede, cet",
-      "answer": "ATA",
+      "text": "Açık kestane rengi",
+      "answer": "ALA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yürürlükteki",
+      "answer": "CARİ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Deride oluşan kesik veya bere",
-      "answer": "YARA",
-      "row": 4,
+      "text": "İstek, arzu",
+      "answer": "EMEL",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gözleri görmeyen",
-      "answer": "AMA",
-      "row": 1,
+      "text": "Geri karşıtı",
+      "answer": "İLERİ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Torun sahibi yaşlı erkek",
-      "answer": "DEDE",
-      "row": 5,
+      "text": "Kale sayısı",
+      "answer": "GOL",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kayalık oluşturan deniz canlısı",
-      "answer": "MERCAN",
-      "row": 1,
+      "text": "Cilalı deri",
+      "answer": "LAKE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Vücudun dış örtüsü",
-      "answer": "CİLT",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kabuğu sert, taneli kış meyvesi",
-      "answer": "NAR",
+      "text": "Nişastalı bulamaç",
+      "answer": "LAPA",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Köy sakini",
+      "answer": "KÖYLÜ",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 4,
+      "text": "Hayıflanma ünlemi",
+      "answer": "AH",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Emeğin karşılığı",
+      "answer": "HAK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Başarısıyla öne çıkan kimse",
-      "answer": "AS",
-      "row": 7,
+      "text": "Hayali varlık",
+      "answer": "PERİ",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -148,51 +148,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 1
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 9,
       "col": 5
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
     }
   ],
   "difficulty": "orta",

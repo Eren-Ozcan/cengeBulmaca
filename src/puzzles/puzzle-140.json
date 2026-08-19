@@ -5,261 +5,219 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Mobilyacılıkta kullanılan kızıl kerestelik ağaç",
-      "answer": "MAUN",
+      "text": "Örme kumaş",
+      "answer": "TRİKO",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir şeyi tanımlayan sözcük",
-      "answer": "AD",
-      "row": 1,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Gökyüzünün güçlü avcı kuşu",
-      "answer": "KARTAL",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Selenyum'un kimyasal simgesi",
-      "answer": "SE",
-      "row": 2,
-      "col": 6,
+      "text": "Bina bölümü",
+      "answer": "KAT",
+      "row": 1,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Saniyenin küçük bir bölümü",
-      "answer": "AN",
+      "text": "Savaş tutsağı",
+      "answer": "ESİR",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tırnak cilası",
+      "answer": "OJE",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Şen, neşeli",
+      "answer": "ŞAKRAK",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Savaşçı, mert kimse",
-      "answer": "ALP",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Hükümdar başlığı",
-      "answer": "TAÇ",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ürünlerin depolandığı büyük yapı",
-      "answer": "AMBAR",
+      "text": "Sıradan, kalitesiz",
+      "answer": "ADİ",
       "row": 4,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bağış amaçlı toplanan para",
-      "answer": "İANE",
-      "row": 5,
+      "text": "Ana, valide",
+      "answer": "ANNE",
+      "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Afrika kökenli bir müzik türü",
-      "answer": "CAZ",
+      "text": "Sırbistan'ın başkenti",
+      "answer": "BELGRAD",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dinî hukuk",
+      "answer": "ŞERİAT",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yabancı kimse",
-      "answer": "EL",
-      "row": 6,
+      "text": "Yineleme",
+      "answer": "TEKRAR",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Leh karşıtı",
+      "answer": "ALEYH",
+      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yemin",
-      "answer": "ANT",
-      "row": 7,
+      "text": "29'dan sonraki sayı",
+      "answer": "OTUZ",
+      "row": 8,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Element tablosunda Kobalt'ın simgesi",
-      "answer": "CO",
-      "row": 7,
+      "text": "Yakarış, niyaz",
+      "answer": "DUA",
+      "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Element tablosunda Kalay'ın simgesi",
-      "answer": "SN",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tanrıya adanan şey",
-      "answer": "ADAK",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Direnç ölçü birimi",
-      "answer": "OM",
+      "text": "Deri hastalığı",
+      "answer": "UYUZ",
       "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Akıl",
-      "answer": "US",
-      "row": 9,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Düşünme ve algılama organı",
-      "answer": "BEYİN",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 10,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Vakit",
-      "answer": "ZAMAN",
-      "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Periyodik tablodaki Bakır'ın simgesi",
-      "answer": "CU",
-      "row": 5,
-      "col": 0,
-      "arrow": "down"
+      "text": "Çakılan metal",
+      "answer": "ÇİVİ",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Yer altındaki doğal oyuk",
-      "answer": "MAĞARA",
+      "text": "Havalandırma pervanesi",
+      "answer": "FAN",
+      "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yarışma çekişmesi",
+      "answer": "REKABET",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Isınma aracı",
-      "answer": "SOBA",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Alan ölçü birimi (100 m²)",
-      "answer": "AR",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sanı, şüphe",
-      "answer": "ZAN",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Derde deva olan madde (eski dilde)",
-      "answer": "EM",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Geleneksel Japon ezgisi",
-      "answer": "UTA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yazma kenarlarına işlenen süsleme",
+      "text": "El işi süsleme",
       "answer": "OYA",
       "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Duman kalıntısı",
+      "answer": "İS",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kokulu yeşillik",
+      "answer": "DEREOTU",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Karakter yapısı",
+      "answer": "KİŞİLİK",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Fransız yazarın 19. yüzyıl romanı",
-      "answer": "NANA",
+      "text": "Yunan rakısı",
+      "answer": "UZO",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzaktaki yer",
+      "answer": "ORA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Nakış işlenen delikli kumaş",
-      "answer": "ETAMİN",
-      "row": 5,
+      "text": "Kin, hınç, garez",
+      "answer": "GARAZ",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir uzunluk ölçüsü",
-      "answer": "MİL",
-      "row": 3,
+      "text": "Yırtıcı iri kuş",
+      "answer": "KARTAL",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eskiden kaftan yapımında kullanılan kumaş",
-      "answer": "ABA",
-      "row": 2,
+      "text": "Sesli uyarı",
+      "answer": "KORNA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Kalsiyum'un simgesi",
-      "answer": "CA",
+      "text": "Tekrarlanan söz",
+      "answer": "REDİF",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Beşinci burç",
-      "answer": "ASLAN",
+      "text": "Notluk defter",
+      "answer": "AJANDA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Öğrencilerin eğitim gördüğü kurum",
-      "answer": "OKUL",
-      "row": 6,
+      "text": "Kuşların barınağı",
+      "answer": "YUVA",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yer sarsıntısı",
-      "answer": "DEPREM",
+      "text": "Erkek keçi",
+      "answer": "TEKE",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Yoğun su buharı bulutu",
-      "answer": "SİS",
-      "row": 8,
+      "text": "İhanet eden",
+      "answer": "HAİN",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -267,47 +225,35 @@
   "blocks": [
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 3,
       "col": 0
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 5
     },
     {
       "row": 5,
-      "col": 3
-    },
-    {
-      "row": 7,
       "col": 8
     },
     {
-      "row": 9,
+      "row": 6,
+      "col": 8
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 5
+      "row": 11,
+      "col": 0
     },
     {
       "row": 11,
-      "col": 5
+      "col": 2
     },
     {
       "row": 11,
-      "col": 6
-    },
-    {
-      "row": 11,
-      "col": 7
+      "col": 4
     }
   ],
   "difficulty": "orta",

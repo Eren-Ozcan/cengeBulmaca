@@ -5,233 +5,240 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
+      "text": "Gizli cana kıyma",
+      "answer": "SUİKAST",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çiçeklerin sultanı",
+      "answer": "GÜL",
       "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Otlu alan",
+      "answer": "OTLUK",
+      "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Makyajda dudağa sürülen renkli madde",
-      "answer": "RUJ",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yangının parlak kısmı",
-      "answer": "ALEV",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Rütbesiz asker",
-      "answer": "ER",
+      "text": "Başarı sayısı",
+      "answer": "PUAN",
       "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Hükümdar başlığı",
-      "answer": "TAÇ",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Maçın oynandığı alan",
-      "answer": "SAHA",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Pişmiş sıvı yemek",
-      "answer": "AŞ",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Şair Nâzım Hikmet'in aile adı",
-      "answer": "RAN",
-      "row": 5,
+      "text": "Devre arası",
+      "answer": "ARA",
+      "row": 3,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Hayıflanma sözü",
-      "answer": "AH",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çayırı kaplayan bitki",
-      "answer": "OT",
-      "row": 6,
+      "text": "Satrançta bir taş",
+      "answer": "FİL",
+      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Anadolu kökenli Ortodoks Hristiyan",
-      "answer": "RUM",
+      "text": "Enerji birimi",
+      "answer": "ERG",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kareli kumaş",
+      "answer": "EKOSE",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Adam kayırma",
+      "answer": "İLTİMAS",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yok olan",
+      "answer": "ZAİL",
       "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Havadaki su",
+      "answer": "NEM",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dilek için verilen söz",
-      "answer": "ADAK",
-      "row": 7,
+      "text": "Tanrı",
+      "answer": "İLAH",
+      "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Katıksız, saf",
-      "answer": "HAS",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kalın yünden yapılan kumaş",
-      "answer": "ABA",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Nakış işlenen delikli kumaş",
-      "answer": "ETAMİN",
+      "text": "İbadet",
+      "answer": "AMEL",
       "row": 9,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Masallardaki efsanevi dağ",
-      "answer": "KAF",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Nehir kenarındaki verimli düzlük",
-      "answer": "OVA",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Duvara monte edilen eşya düzlüğü",
-      "answer": "RAF",
-      "row": 11,
+      "text": "Yankı",
+      "answer": "EKO",
+      "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "İran'ın başkenti",
-      "answer": "TAHRAN",
-      "row": 3,
+      "text": "Ne olursa olsun",
+      "answer": "İLLA",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Taneleri yakut gibi",
+      "answer": "NAR",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Çalım, gösteriş",
+      "answer": "AFİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hamur tatlısı",
+      "answer": "PASTA",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İşve, naz",
+      "answer": "EDA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstün nitelikte",
+      "answer": "SÜPER",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İplikten dokunan malzeme",
-      "answer": "KUMAŞ",
+      "text": "Saf, deneyimsiz, toy",
+      "answer": "NAİF",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüce, büyük",
+      "answer": "ULU",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Akıl",
-      "answer": "US",
-      "row": 6,
+      "text": "Esrarlı",
+      "answer": "GİZEMLİ",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kobalt'ın simgesi",
-      "answer": "CO",
-      "row": 10,
-      "col": 1,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Do-re-mi dizisinin ilk notası",
-      "answer": "DO",
+      "text": "Mikroskop camı",
+      "answer": "LAMEL",
       "row": 5,
       "col": 3,
-      "arrow": "right-down"
+      "arrow": "down"
     },
     {
-      "text": "Binek hayvanı",
-      "answer": "AT",
-      "row": 7,
+      "text": "Renkli kâğıt parçaları",
+      "answer": "KONFETİ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tavlada iki kat yenilgi",
-      "answer": "MARS",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sofrada yemek konan kap",
-      "answer": "TABAK",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Gelin duvağının rengi",
-      "answer": "AL",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Dönümün onda biri olan ölçü",
-      "answer": "AR",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kanı taşıyan kanal",
-      "answer": "DAMAR",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir selamlaşma sözü",
-      "answer": "MERHABA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Yerine getirme",
-      "answer": "İFA",
+      "text": "Yumuşak ses",
+      "answer": "LAP",
       "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Nal çakılan",
+      "answer": "AT",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İki parçalı",
+      "answer": "İKİLİ",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kayakta engel geçişi",
+      "answer": "SLALOM",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Göz merceği",
+      "answer": "LENS",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yarışma bölümü",
+      "answer": "TUR",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Aile ocağı",
-      "answer": "EV",
-      "row": 0,
+      "text": "İçten bağlılık",
+      "answer": "SADAKAT",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Tel bölme",
+      "answer": "KAFES",
+      "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Saniyenin küçük bir bölümü",
-      "answer": "AN",
-      "row": 3,
+      "text": "Halk oyunu",
+      "answer": "HORA",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -243,55 +250,11 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 3
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 1
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 6,
       "col": 8
-    },
-    {
-      "row": 8,
-      "col": 8
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 3
-    },
-    {
-      "row": 10,
-      "col": 8
-    },
-    {
-      "row": 11,
-      "col": 0
     }
   ],
   "difficulty": "kolay",

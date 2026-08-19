@@ -5,219 +5,205 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Ciltlenmiş basılı sayfalar",
-      "answer": "KİTAP",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
+      "text": "Kiremit renkli içki",
+      "answer": "KONYAK",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Evren pulu da denilen mineral",
-      "answer": "MİKA",
+      "text": "Mühim",
+      "answer": "ÖNEMLİ",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Uzun boyunlu Afrika hayvanı",
-      "answer": "ZÜRAFA",
-      "row": 2,
+      "text": "Özel söz",
+      "answer": "TERİM",
+      "row": 3,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Bıkkınlık ünlemi",
-      "answer": "OF",
+      "text": "Bağışlama",
+      "answer": "AF",
       "row": 3,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Eski Mısır'ın güneş tanrısı",
-      "answer": "RA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ege sofralarının vazgeçilmez meyvesi",
-      "answer": "ZEYTİN",
-      "row": 4,
+      "text": "Hizmetli",
+      "answer": "HADEME",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sodyum için kullanılan kimyasal simge",
-      "answer": "NA",
+      "text": "Ağaç aleti",
+      "answer": "KESER",
       "row": 5,
-      "col": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Urfa mutfağının acı baharatı",
-      "answer": "İSOT",
+      "text": "İki sözü bağlayan",
+      "answer": "VE",
       "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sandığa atılan tercih",
-      "answer": "OY",
-      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Herkese hakkını verme ilkesi",
-      "answer": "ADALET",
-      "row": 8,
-      "col": 2,
+      "text": "Sandal, kayık",
+      "answer": "BOT",
+      "row": 5,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yumuşak huylu",
+      "answer": "HALİM",
+      "row": 7,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Marangozun işlediği malzeme",
-      "answer": "TAHTA",
-      "row": 8,
+      "text": "Kişi, şahıs",
+      "answer": "ZAT",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Etrafı suyla kaplı toprak",
-      "answer": "ADA",
+      "text": "Yeşil salata",
+      "answer": "MARUL",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yasa yapma",
+      "answer": "YASAMA",
       "row": 9,
-      "col": 5,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Tohum ekilen, ürün yetiştirilen toprak parçası",
-      "answer": "TARLA",
-      "row": 10,
+      "text": "Veciz",
+      "answer": "ÖZLÜ",
+      "row": 9,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Bir bakışta geçen süre",
-      "answer": "AN",
+      "text": "Birincil, esas",
+      "answer": "ASLİ",
       "row": 10,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Klasik müziğin telli çalgısı",
-      "answer": "UD",
-      "row": 11,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yağlı olarak da yapılan güç sporu",
-      "answer": "GÜREŞ",
-      "row": 1,
+      "text": "Kollu oturak",
+      "answer": "KOLTUK",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İş paydaşı",
+      "answer": "ORTAK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Derebeyi konağı",
-      "answer": "ŞATO",
-      "row": 7,
+      "text": "Sahip olan",
+      "answer": "HAİZ",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tramvayın üzerinde ilerlediği hat",
-      "answer": "RAY",
+      "text": "Alet takımı",
+      "answer": "EDEVAT",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "'İşte' anlamında bir ünlem",
-      "answer": "HA",
+      "text": "Mahalli",
+      "answer": "YÖRESEL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sorumluluk, külfet",
+      "answer": "YÜK",
       "row": 8,
-      "col": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Japon çizgi filmi",
+      "answer": "ANİME",
+      "row": 0,
+      "col": 4,
       "arrow": "down"
     },
     {
       "text": "Üstü kapalı anlatma",
       "answer": "İMA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sahne sanatı",
-      "answer": "TİYATRO",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kafkasya'daki bir başkent",
-      "answer": "TİFLİS",
-      "row": 0,
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gövdeden ayrılan ağaç kolu",
-      "answer": "DAL",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyük erkek kardeş (halk ağzı)",
-      "answer": "AKA",
+      "text": "Bel bağı",
+      "answer": "KEMER",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Müzikte sesi gösteren işaret",
-      "answer": "NOTA",
-      "row": 4,
+      "text": "Halk anlatısı",
+      "answer": "MASAL",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Altın için kullanılan kimyasal simge",
-      "answer": "AU",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski dilde ayak",
-      "answer": "PA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sol ile Si arasındaki nota",
-      "answer": "LA",
+      "text": "Doğru, isabetli",
+      "answer": "RAST",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Cilve, naz",
-      "answer": "EDA",
-      "row": 7,
+      "text": "Aralık sözü",
+      "answer": "İLA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bağışlama",
-      "answer": "AF",
+      "text": "Müspet",
+      "answer": "OLUMLU",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kötü cin",
+      "answer": "İFRİT",
       "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Payitahtın eski adlarından biri",
-      "answer": "ASİTANE",
-      "row": 4,
+      "text": "Dinden bağımsız",
+      "answer": "LAİK",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -225,19 +211,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 0,
@@ -245,15 +223,11 @@
     },
     {
       "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 7
+      "col": 6
     },
     {
       "row": 2,
-      "col": 7
+      "col": 0
     },
     {
       "row": 4,
@@ -268,24 +242,12 @@
       "col": 0
     },
     {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
       "row": 11,
       "col": 0
     },
     {
       "row": 11,
-      "col": 2
-    },
-    {
-      "row": 11,
-      "col": 7
+      "col": 1
     }
   ],
   "difficulty": "kolay",

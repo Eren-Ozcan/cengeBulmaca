@@ -5,261 +5,219 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Periyodik tablodaki Sodyum'un simgesi",
-      "answer": "NA",
+      "text": "Japon giysisi",
+      "answer": "KİMONO",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şiirde güzelliğe benzetilen hayvan",
-      "answer": "AHU",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 1,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağlamada kullanılan kalın sicim",
-      "answer": "İP",
+      "text": "Çay kıvamı",
+      "answer": "DEM",
       "row": 2,
-      "col": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kesme aracı, diş diş bıçak",
-      "answer": "TESTERE",
+      "text": "Reddetme",
+      "answer": "VETO",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Demirci aracı",
+      "answer": "ÖRS",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Uçan küre",
+      "answer": "BALON",
       "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Altının saflık derecesi",
-      "answer": "AYAR",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Güney Kore'nin en büyük şehri",
-      "answer": "SEUL",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 5,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Başlangıçtaki, evvelki",
-      "answer": "İLK",
-      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Cıva'nın simgesi",
-      "answer": "HG",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İskambil kağıtlarının en değerlisi",
-      "answer": "AS",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Anne",
-      "answer": "ANA",
-      "row": 8,
+      "text": "Analık",
+      "answer": "ANNELİK",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kağıda düşülen kısa bilgi",
-      "answer": "NOT",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kapıda çalınan araç",
-      "answer": "ZİL",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Amaç, erek",
-      "answer": "GAYE",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yüreklilik",
-      "answer": "CESARET",
-      "row": 9,
+      "text": "Şaşkınlıkla seslenme",
+      "answer": "BRE",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tantal'ın kimyasal simgesi",
-      "answer": "TA",
-      "row": 11,
+      "text": "Kahveden bakılan",
+      "answer": "FAL",
+      "row": 5,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Öğüt veren",
+      "answer": "VAİZ",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "19'dan sonraki sayı",
+      "answer": "YİRMİ",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İnsan derisi",
-      "answer": "TEN",
-      "row": 11,
+      "text": "Kanun",
+      "answer": "YASA",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sahne yapıtı",
+      "answer": "OPERA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tiz erkek sesi",
+      "answer": "TENOR",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sebep, bahane",
+      "answer": "VESİLE",
+      "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hitapta kullanılan seslenme sözü",
-      "answer": "YA",
+      "text": "Kanal havuzu",
+      "answer": "LOK",
       "row": 12,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Do-re-mi'nin son hecesi",
-      "answer": "Mİ",
-      "row": 12,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Düşünme, muhakeme yetisi",
-      "answer": "US",
-      "row": 2,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Divan edebiyatında su",
-      "answer": "AB",
+      "text": "Gelenek, âdet",
+      "answer": "TÖRE",
+      "row": 12,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sidik",
+      "answer": "İDRAR",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Her gün basılan haber yaprağı",
-      "answer": "GAZETE",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Derde deva olan madde (eski dilde)",
-      "answer": "EM",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yılın dördüncü ayı",
-      "answer": "NİSAN",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Materyalist görüşlü kimse",
-      "answer": "ATE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Babanın kız kardeşi",
-      "answer": "HALA",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Takımların birbiriyle yarıştığı organizasyon",
-      "answer": "LİG",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tekerleklerin üzerinde kaydığı demir yol",
-      "answer": "RAY",
-      "row": 9,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İşinin ehli kimse",
-      "answer": "USTA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Germanyum'un simgesi",
-      "answer": "GE",
+      "text": "Konaklama işletmesi",
+      "answer": "OTEL",
       "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyitli divan türü",
+      "answer": "MESNEVİ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Amerika parası",
+      "answer": "PESO",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hint kutsal hecesi",
+      "answer": "OM",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Zehirli element",
+      "answer": "ARSENİK",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tasvir",
+      "answer": "BETİM",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Oyuncunun görevi",
+      "answer": "ROL",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yumurta biçimli",
+      "answer": "OVAL",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Seslenme ünlemi",
-      "answer": "EY",
-      "row": 2,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Uçmaya yarayan organ",
-      "answer": "KANAT",
+      "text": "Görmeye gitme",
+      "answer": "ZİYARET",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İlk Arap harfi",
+      "answer": "ELİF",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Arnavutluk'un başkenti",
-      "answer": "TİRAN",
-      "row": 0,
+      "text": "Saç aracı",
+      "answer": "TOKA",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bir kişinin geldiği aile çizgisi",
-      "answer": "SOY",
-      "row": 6,
+      "text": "Yolculuk",
+      "answer": "SEFER",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Hardal kokulu savaş gazı",
-      "answer": "İPERİT",
+      "text": "En arkadaki",
+      "answer": "SON",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Ölçüye göre giysi diken kişi",
-      "answer": "TERZİ",
-      "row": 7,
+      "text": "Bulgar parası",
+      "answer": "LEVA",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     }
@@ -267,10 +225,6 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 4
     },
     {
@@ -278,48 +232,44 @@
       "col": 6
     },
     {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
-      "col": 4
-    },
-    {
-      "row": 4,
-      "col": 1
-    },
-    {
-      "row": 4,
-      "col": 3
-    },
-    {
-      "row": 5,
-      "col": 5
+      "row": 0,
+      "col": 7
     },
     {
       "row": 6,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 0
+      "row": 6,
+      "col": 6
     },
     {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 10,
+      "row": 6,
       "col": 7
     },
     {
-      "row": 11,
-      "col": 3
+      "row": 7,
+      "col": 6
     },
     {
-      "row": 11,
-      "col": 5
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 8
     },
     {
       "row": 11,
@@ -327,7 +277,7 @@
     },
     {
       "row": 11,
-      "col": 7
+      "col": 8
     }
   ],
   "difficulty": "zor",

@@ -5,156 +5,142 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Ege'de avlanan küçük balık",
-      "answer": "ATERİNA",
+      "text": "Karışık renkli",
+      "answer": "ALACA",
       "row": 0,
+      "col": 2,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sağlama, bulma",
+      "answer": "TEDARİK",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yeşil, küçük bitki",
-      "answer": "OT",
-      "row": 2,
+      "text": "Duvar sıvayan",
+      "answer": "SIVACI",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İçin için yanan ateş",
-      "answer": "KOR",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Birinci Dünya Savaşı'nda kullanılan kimyasal gaz",
-      "answer": "İPERİT",
-      "row": 2,
+      "text": "İş yeri binası",
+      "answer": "HAN",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Temiz, lekesiz renk",
-      "answer": "AK",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde kişi, kimse",
-      "answer": "ZAT",
+      "text": "Dört basamaklı ilk sayı",
+      "answer": "BİN",
       "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bir şeyin en sondaki sivri kısmı",
-      "answer": "UÇ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yanardağdan çıkan erimiş kayaç",
-      "answer": "LAV",
+      "text": "Japon içkisi",
+      "answer": "SAKE",
       "row": 5,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir bakliyat türü",
-      "answer": "ARAKA",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Delikli, seyrek dokunmuş kumaş",
-      "answer": "ETAMİN",
-      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Büyük, gösterişli ev",
-      "answer": "KONAK",
+      "text": "Asma aracı",
+      "answer": "ASKI",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Soğuk giysisi",
+      "answer": "HIRKA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Boş çaba",
+      "answer": "FOS",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yiyecek, azık, nasip",
+      "answer": "RIZIK",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çevrilerek oynanan oyuncak",
-      "answer": "TOPAÇ",
-      "row": 0,
+      "text": "Temel öz",
+      "answer": "ESAS",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Fazladan eklenen kısım",
-      "answer": "EK",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Belden aşağı giysi",
-      "answer": "ETEK",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Avrupa'da soylulara ait büyük konak",
-      "answer": "ŞATO",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Şair Nâzım Hikmet'in aile adı",
-      "answer": "RAN",
+      "text": "Değersiz, aşağı",
+      "answer": "HOR",
       "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Namına, hesabına",
+      "answer": "ADINA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıcaklık derecesi",
+      "answer": "ISI",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Erimiş kayaç",
+      "answer": "LAV",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Aynı doğumda dünyaya gelen kardeşlerden her biri",
-      "answer": "İKİZ",
+      "text": "Beyaz yağış",
+      "answer": "KAR",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğulu müzik türü",
+      "answer": "ARABESK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Güney Amerika'nın yük hayvanı",
-      "answer": "LAMA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Beşlik çizgi üzerine yazılan işaret",
-      "answer": "NOTA",
+      "text": "Sevimli, hoş",
+      "answer": "CİCİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yüzük taşı olarak kullanılan mineral",
-      "answer": "AKİK",
+      "text": "Koruyucu başlık",
+      "answer": "KASK",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Haya, utanç duygusu",
-      "answer": "AR",
+      "text": "Sınır savaşçısı",
+      "answer": "AKINCI",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Odanın üst yüzeyi",
-      "answer": "TAVAN",
-      "row": 3,
       "col": 6,
       "arrow": "down"
     }
@@ -162,23 +148,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 5,
-      "col": 3
-    },
-    {
-      "row": 6,
       "col": 0
     },
     {
-      "row": 6,
+      "row": 0,
       "col": 1
     },
     {
-      "row": 7,
+      "row": 6,
       "col": 0
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,

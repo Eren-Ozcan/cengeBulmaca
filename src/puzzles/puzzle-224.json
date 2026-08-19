@@ -5,225 +5,196 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Verme, ödeme (eski dilde)",
-      "answer": "İTA",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir şeyin ortasındaki bölüm",
-      "answer": "İÇ",
-      "row": 1,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İlaç, çare",
-      "answer": "DEVA",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ateşin rengi",
-      "answer": "AL",
-      "row": 2,
+      "text": "Pişmemiş, çiğ",
+      "answer": "HAM",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sahtesi olmayan, hakiki",
-      "answer": "ASIL",
-      "row": 4,
+      "text": "Para dolabı",
+      "answer": "KASA",
+      "row": 0,
       "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Belirli iş için ayrılan para",
-      "answer": "FON",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hak ve hukuka uygunluk",
-      "answer": "ADALET",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Babanın kız kardeşi",
-      "answer": "HALA",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Memelilerin beyaz besini",
-      "answer": "SÜT",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Berilyum'un simgesi",
-      "answer": "BE",
-      "row": 10,
+      "text": "Tropik çayır",
+      "answer": "SAVANA",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "pH değeri 7'nin altında olan madde",
-      "answer": "ASİT",
-      "row": 10,
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyük ateş",
+      "answer": "YANGIN",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Alışveriş yeri",
+      "answer": "PAZAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Adalet, hukuk",
+      "answer": "HAK",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hükümdar vekili",
+      "answer": "NAİP",
+      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kılçıklı küçük deniz balığı",
-      "answer": "ATERİNA",
+      "text": "Eğimli bölüm",
+      "answer": "RAMPA",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İstemsiz hareket",
+      "answer": "TİK",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mert, yiğit",
+      "answer": "ER",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Simsiyah",
+      "answer": "KAPKARA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuram",
+      "answer": "TEORİ",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Basmalı düğme",
+      "answer": "ÇITÇIT",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Suçu bağışlama",
-      "answer": "AF",
-      "row": 2,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Örülmüş avlanma gereci",
-      "answer": "AĞ",
-      "row": 5,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Türkiye'nin idari bölünme birimi",
-      "answer": "İL",
-      "row": 1,
+      "text": "Yetki değneği",
+      "answer": "ASA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Baryum'un simgesi",
-      "answer": "BA",
-      "row": 9,
+      "text": "Büyük korku",
+      "answer": "PANİK",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dörtten önceki sayı",
-      "answer": "ÜÇ",
+      "text": "Kaçık",
+      "answer": "MANYAK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Notalarda dördüncü sıradaki ses",
-      "answer": "FA",
-      "row": 5,
+      "text": "Maddenin sert hâli",
+      "answer": "KATI",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Su birikintisi oluşturan baraj duvarı",
-      "answer": "SET",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ateş (eski dilde)",
-      "answer": "OD",
-      "row": 5,
+      "text": "Dinî öğüt",
+      "answer": "VAAZ",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İlkel benlik",
-      "answer": "İD",
+      "text": "Evcil hayvan",
+      "answer": "PET",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eşin annesi",
+      "answer": "KAYNANA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kilit açan araç",
-      "answer": "ANAHTAR",
-      "row": 4,
+      "text": "Erkek koyun",
+      "answer": "KOÇ",
+      "row": 8,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kortta raketle oynanan spor",
-      "answer": "TENİS",
+      "text": "Harf değiştirme oyunu",
+      "answer": "ANAGRAM",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
-      "row": 6,
+      "text": "Kovan sakini",
+      "answer": "ARI",
+      "row": 8,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Do'ya dönmeden önceki nota",
-      "answer": "Sİ",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Avcının peşinde koştuğu şey",
-      "answer": "AV",
+      "text": "Küf kokulu",
+      "answer": "SASI",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Başka ülkeden kişi",
-      "answer": "EL",
-      "row": 6,
+      "text": "Savaş gazı",
+      "answer": "İPERİT",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hayvanların yer altındaki yuvası",
-      "answer": "İN",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Us, zihin",
-      "answer": "AKIL",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağaçtan biçilmiş levha",
-      "answer": "TAHTA",
-      "row": 6,
+      "text": "Sermaye",
+      "answer": "ANAPARA",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
     {
       "row": 0,
       "col": 3
@@ -233,56 +204,20 @@
       "col": 7
     },
     {
-      "row": 1,
+      "row": 4,
       "col": 0
     },
     {
-      "row": 3,
-      "col": 2
-    },
-    {
-      "row": 3,
-      "col": 3
-    },
-    {
-      "row": 3,
-      "col": 4
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 1
-    },
-    {
-      "row": 4,
-      "col": 2
-    },
-    {
-      "row": 4,
-      "col": 3
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 1
-    },
-    {
-      "row": 8,
+      "row": 10,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 1
+      "row": 10,
+      "col": 7
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "orta",

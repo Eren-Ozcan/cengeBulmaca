@@ -5,261 +5,254 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Toplu konutlarda bir bina birimi",
-      "answer": "BLOK",
+      "text": "Asla",
+      "answer": "HİÇ",
       "row": 1,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalsiyum'un simgesi",
-      "answer": "CA",
+      "text": "Kor aracı",
+      "answer": "MAŞA",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ululuk",
+      "answer": "AZAMET",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kuşun uçma organı",
-      "answer": "KANAT",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "'İşte' anlamında bir ünlem",
-      "answer": "HA",
+      "text": "Kadın elbisesi",
+      "answer": "ROP",
       "row": 3,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Selamlaşırken el ele tutuşma",
-      "answer": "TOKA",
+      "text": "Akışkan madde",
+      "answer": "SIVI",
       "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Başın altına konan destek",
-      "answer": "YASTIK",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tohum ekilen, ürün yetiştirilen toprak parçası",
-      "answer": "TARLA",
-      "row": 4,
+      "text": "Rüzgâr",
+      "answer": "YEL",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "At yavrusu",
-      "answer": "TAY",
-      "row": 5,
-      "col": 5,
+      "text": "Koruyucu uygulama",
+      "answer": "AŞI",
+      "row": 4,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Anıtkabir'in bulunduğu şehir",
-      "answer": "ANKARA",
+      "text": "Dokuma bitkisi",
+      "answer": "KETEN",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Törpü",
+      "answer": "EĞE",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Dokuzu izleyen sayı",
-      "answer": "ON",
+      "text": "Bağlı, uyan",
+      "answer": "TABİ",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tekrar isteği",
+      "answer": "BİS",
+      "row": 7,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayvan besini",
+      "answer": "YEM",
+      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kalay'ın simgesi",
-      "answer": "SN",
+      "text": "Eski dilde ödeme",
+      "answer": "İTA",
       "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "İç karşıtı",
+      "answer": "DIŞ",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gülmece amaçlı söz",
-      "answer": "ŞAKA",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İncecik, hafif yağan yağmur",
-      "answer": "ÇİSE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Direngenlik, dediğinden dönmeme",
-      "answer": "İNAT",
+      "text": "Kedi, köpek yavrusu",
+      "answer": "ENİK",
       "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Bir konudaki kişisel düşünce",
-      "answer": "KANI",
+      "text": "Hoşa giden",
+      "answer": "ZARİF",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ufak karşıtı",
+      "answer": "İRİ",
       "row": 10,
-      "col": 2,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Karı kocadan her biri",
-      "answer": "EŞ",
+      "text": "Dalgalı çizgi",
+      "answer": "HARE",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Maçın kazanılan bölümlerinden biri",
-      "answer": "SET",
+      "text": "Sevimli kimse",
+      "answer": "CAN",
       "row": 11,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Hükümdar başlığı",
+      "answer": "TAÇ",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saf, deneyimsiz, toy",
+      "answer": "NAİF",
+      "row": 12,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Demirin dövülecek kızgınlık derecesi",
-      "answer": "TAV",
-      "row": 12,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Mi ile Sol arasındaki nota",
-      "answer": "FA",
-      "row": 12,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Yemeklerde kullanılan katı veya sıvı besin maddesi",
-      "answer": "YAĞ",
-      "row": 3,
+      "text": "Kımıldanma",
+      "answer": "HAREKET",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İnternet sayfası",
-      "answer": "SİTE",
-      "row": 7,
+      "text": "İlave, ek",
+      "answer": "DAHA",
+      "row": 8,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kışla yaz arasındaki mevsim",
-      "answer": "BAHAR",
+      "text": "Yalıtılmış olan",
+      "answer": "İZOLE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bir ağırlık birimi (28,35 gram)",
-      "answer": "ONS",
+      "text": "Kimyada reaktif",
+      "answer": "AYIRAÇ",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yelesiyle bilinen büyük kedigil",
-      "answer": "ASLAN",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İlave, ulama",
-      "answer": "EK",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sivri uçlu fırlatma silahı",
-      "answer": "OK",
+      "text": "Daire genişliği",
+      "answer": "ÇAP",
       "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tahta kalemi",
+      "answer": "TEBEŞİR",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Meyil",
+      "answer": "EĞİM",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Güneş doğmadan önceki alacakaranlık",
-      "answer": "TAN",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hükümdarların taşıdığı değnek",
-      "answer": "ASA",
+      "text": "Pozitif bilim",
+      "answer": "FEN",
       "row": 9,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sıvı ve gaz olmayan madde hâli",
-      "answer": "KATI",
+      "text": "İdrar torbası",
+      "answer": "MESANE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Moldova'nın en büyük şehri",
-      "answer": "KİŞİNEV",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yazıda cümleyi bitiren işaret",
-      "answer": "NOKTA",
-      "row": 1,
+      "text": "Nabız vuruşu",
+      "answer": "ATIŞ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Abide",
-      "answer": "ANIT",
-      "row": 7,
+      "text": "Süvari",
+      "answer": "BİNİCİ",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Karın zıddı renk",
-      "answer": "AK",
-      "row": 1,
+      "text": "Böcek sesi",
+      "answer": "VIZ",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İri taneli bezelye",
-      "answer": "ARAKA",
-      "row": 4,
+      "text": "Suçunu söyleme",
+      "answer": "İTİRAF",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Soyun geldiği kişi",
-      "answer": "ATA",
+      "text": "Kaba saba kimse",
+      "answer": "AYI",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "'Öyle mi?' anlamında ünlem",
-      "answer": "YA",
-      "row": 4,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 7,
+      "text": "Hareketsiz, durgun",
+      "answer": "SAKİN",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -271,59 +264,35 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 4
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 0
+      "row": 4,
+      "col": 8
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 8
     },
     {
       "row": 6,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 7
-    },
-    {
-      "row": 12,
+      "row": 8,
       "col": 0
     },
     {
       "row": 12,
-      "col": 1
+      "col": 8
     }
   ],
   "difficulty": "kolay",

@@ -5,309 +5,239 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Bedeni saran doku",
-      "answer": "DERİ",
+      "text": "Sert siyah ağaç",
+      "answer": "ABANOZ",
       "row": 0,
-      "col": 0,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Püsküllü eski başlık",
-      "answer": "FES",
-      "row": 1,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Değerli eşyaların saklandığı çelik dolap",
-      "answer": "KASA",
+      "text": "Kara sevda",
+      "answer": "AŞK",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İtaat etmeyen, isyankar",
-      "answer": "ASİ",
+      "text": "Yönetmenlik işi",
+      "answer": "REJİ",
       "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tarıma elverişli düzlük alan",
-      "answer": "OVA",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Aşağıda olan",
-      "answer": "ALT",
-      "row": 3,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Anlama, hatırlama ünlemi",
-      "answer": "HA",
-      "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Japon şiiri, türküsü",
-      "answer": "UTA",
-      "row": 4,
+      "text": "İş süresi",
+      "answer": "MESAİ",
+      "row": 3,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Sirke ve tuzda bekletilen sebze",
-      "answer": "TURŞU",
+      "text": "Seslenme ünlemi",
+      "answer": "EY",
+      "row": 3,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Çimlendirilmiş arpa",
+      "answer": "MALT",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüksek görev",
+      "answer": "MAKAM",
       "row": 5,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir seslenme sözü",
-      "answer": "YA",
+      "text": "Oymak, kabile",
+      "answer": "AŞİRET",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yarışma bölümü",
-      "answer": "TUR",
+      "text": "Kıyı evi",
+      "answer": "YALI",
       "row": 6,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Temel niteliğinde olan",
-      "answer": "ANA",
-      "row": 6,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Cıva için kullanılan kimyasal simge",
-      "answer": "HG",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Abide",
-      "answer": "ANIT",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dine inanmayan kişi",
-      "answer": "ATE",
-      "row": 7,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Güney Amerika'nın büyük dağ sırası",
-      "answer": "AND",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İki kıtayı ayıran Rusya'daki dağlar",
-      "answer": "URAL",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yüz metrekarelik alan ölçüsü",
+      "text": "Utanma duygusu",
       "answer": "AR",
-      "row": 10,
+      "row": 7,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Duvara monte düzlük",
+      "answer": "RAF",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Becerikli, usta",
+      "answer": "MAHİR",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Tatlı besin",
+      "answer": "BAL",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çıkar aldatmacası",
+      "answer": "HİLE",
+      "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sanayi, endüstri",
-      "answer": "URAN",
+      "text": "Tuhaf, garip",
+      "answer": "ACAYİP",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Günlük ibadet",
+      "answer": "NAMAZ",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yeşile ve sarıya çalan göz rengi",
-      "answer": "ELA",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tespihin baş kısmı",
-      "answer": "İMAME",
+      "text": "Dolaylı anlatım",
+      "answer": "KİNAYE",
       "row": 11,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Görüşü azaltan nem bulutu",
-      "answer": "SİS",
-      "row": 12,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İlave, ulama",
-      "answer": "EK",
+      "text": "Tasa, kaygı",
+      "answer": "GAM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 3,
+      "text": "Evcil olmayan",
+      "answer": "YABANİ",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İstanbul'da yaşayan Ortodoks azınlık",
-      "answer": "RUM",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Radyum'un simgesi",
-      "answer": "RA",
-      "row": 0,
+      "text": "Basit çizim",
+      "answer": "ŞEMA",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Lantan'ın simgesi",
-      "answer": "LA",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İç Anadolu'daki başkentimiz",
-      "answer": "ANKARA",
+      "text": "Yaramaz çocuk",
+      "answer": "AFACAN",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Urfa mutfağının acı baharatı",
-      "answer": "İSOT",
+      "text": "Yaşlı bilge",
+      "answer": "AKSAKAL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Mikroskopta kullanılan cam",
-      "answer": "LAM",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Avcının peşinde koştuğu şey",
-      "answer": "AV",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağaçtan biçilmiş levha",
-      "answer": "TAHTA",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Merak bildiren soru sözcüğü",
-      "answer": "NE",
-      "row": 10,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ceylan",
-      "answer": "AHU",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sodyum'un kimyasal simgesi",
-      "answer": "NA",
+      "text": "And hayvanı",
+      "answer": "LAMA",
       "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Metal karışımı",
+      "answer": "ALAŞIM",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Zemberek",
+      "answer": "YAY",
+      "row": 9,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalp düzensizliği",
+      "answer": "ARİTMİ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Mi ile Sol arasındaki nota",
-      "answer": "FA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ön karşıtı yön",
-      "answer": "ART",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir kişinin veya yerin bulunduğu yeri gösteren bilgi",
-      "answer": "ADRES",
+      "text": "Telefon kulaklığı",
+      "answer": "AHİZE",
       "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hangi şey",
+      "answer": "NE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Notada sessizlik simgesi",
-      "answer": "ES",
+      "text": "Manastır papazı",
+      "answer": "RAHİP",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tırnak cilası",
+      "answer": "OJE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Biraz uzaktaki şeyi gösteren sıfat",
-      "answer": "ŞU",
-      "row": 4,
+      "text": "Erkek cins",
+      "answer": "ERİL",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Lityum'un kimyasal simgesi",
-      "answer": "Lİ",
+      "text": "Avlanma gereci",
+      "answer": "AĞ",
       "row": 10,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "La'dan sonra gelen nota",
-      "answer": "Sİ",
+      "text": "Takı, mücevher",
+      "answer": "ZİYNET",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Aydınlık, ışık",
-      "answer": "NUR",
-      "row": 3,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğadaki en sert mineral",
-      "answer": "ELMAS",
+      "text": "Oy (eski dilde)",
+      "answer": "REY",
       "row": 7,
       "col": 8,
       "arrow": "down"
@@ -316,27 +246,51 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 3,
       "col": 0
     },
     {
-      "row": 3,
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 4,
       "col": 7
     },
     {
-      "row": 7,
-      "col": 7
+      "row": 6,
+      "col": 0
     },
     {
-      "row": 9,
-      "col": 7
+      "row": 11,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 8
+    },
+    {
+      "row": 12,
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "zor",

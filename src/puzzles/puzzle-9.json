@@ -5,261 +5,198 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
+      "text": "Asma aracı",
+      "answer": "ASKI",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sinema eseri",
+      "answer": "FİLM",
       "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dağları beyaza boyayan yağış",
-      "answer": "KAR",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yassı, mayalı ekmek",
-      "answer": "PİDE",
-      "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Savaşçı, mert kimse",
-      "answer": "ALP",
-      "row": 4,
-      "col": 1,
+      "text": "İşitsel titreşim",
+      "answer": "SES",
+      "row": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Eski dilde ayak",
-      "answer": "PA",
+      "text": "Dede, cet",
+      "answer": "ATA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalın yün kumaş",
+      "answer": "ABA",
       "row": 4,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Karın yağdığı mevsim",
-      "answer": "KIŞ",
+      "text": "Kebap ilimiz",
+      "answer": "ADANA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kurum, duman lekesi",
-      "answer": "İS",
+      "text": "Pozitif bilim",
+      "answer": "FEN",
       "row": 5,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 5,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Tırtıldan dönüşen kanatlı böcek",
-      "answer": "KELEBEK",
+      "text": "Maksimum",
+      "answer": "AZAMİ",
       "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Karar verme",
+      "answer": "NİYET",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yataktan kalkamayan",
+      "answer": "YATALAK",
+      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Gam dizisinin ilk notası",
-      "answer": "DO",
-      "row": 7,
-      "col": 2,
+      "text": "Kesik",
+      "answer": "KESİ",
+      "row": 9,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dine inanmayan kişi",
-      "answer": "ATE",
-      "row": 7,
+      "text": "Bal böceği",
+      "answer": "ARI",
+      "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "İskambilde koz",
-      "answer": "ATU",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kor, ateş (halk ağzı)",
-      "answer": "HAR",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sodyum için kullanılan kimyasal simge",
-      "answer": "NA",
-      "row": 9,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Üstü kapalı anlatma",
-      "answer": "İMA",
+      "text": "Oje çıkarıcı",
+      "answer": "ASETON",
       "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Buğdayın öğütülmüş hali",
-      "answer": "UN",
-      "row": 10,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Giysi diken usta",
-      "answer": "TERZİ",
+      "text": "Bal rengi göz",
+      "answer": "ELA",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İki nokta arasındaki mesafe",
-      "answer": "ARA",
+      "text": "Anne",
+      "answer": "ANA",
       "row": 11,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Berilyum'un kimyasal simgesi",
-      "answer": "BE",
+      "text": "Özelliksiz",
+      "answer": "SIRADAN",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Başında saç bulunmayan",
-      "answer": "KEL",
-      "row": 4,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Surlarla çevrili yapı",
-      "answer": "KALE",
-      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yaban hayvanı barınağı",
-      "answer": "İN",
-      "row": 0,
-      "col": 2,
+      "text": "Omuzdan ele uzanan",
+      "answer": "KOL",
+      "row": 8,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yoğun, tutkulu sevgi",
-      "answer": "AŞK",
+      "text": "Başsağlığı",
+      "answer": "TAZİYE",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "81 tanesi olan idari birim",
-      "answer": "İL",
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Konut, hane",
+      "answer": "EV",
       "row": 2,
       "col": 3,
-      "arrow": "down"
+      "arrow": "right-down"
     },
     {
-      "text": "Cilve, naz",
-      "answer": "EDA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir şeyin geçtiğini gösteren işaret",
-      "answer": "İZ",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İskambilde birli",
-      "answer": "AS",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Uçak kullanan kimse",
-      "answer": "PİLOT",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 9,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Selenyum'un simgesi",
-      "answer": "SE",
+      "text": "Mor süs taşı",
+      "answer": "AMETİST",
       "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde ödeme",
+      "answer": "İTA",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Japon şiiri, türküsü",
-      "answer": "UTA",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Birlikte çalışan grup",
-      "answer": "EKİP",
+      "text": "Vicdan duygusu",
+      "answer": "İNSAF",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Element tablosunda Baryum'un simgesi",
-      "answer": "BA",
-      "row": 5,
+      "text": "Uzun, dar tahta",
+      "answer": "LATA",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hukukun temel ilkesi",
-      "answer": "ADALET",
-      "row": 1,
+      "text": "Doğum yardımcısı",
+      "answer": "EBE",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Aydınlık, ışık",
-      "answer": "NUR",
-      "row": 8,
+      "text": "Orta düzey soylu",
+      "answer": "BARON",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bir seslenme ünlemi",
-      "answer": "BRE",
+      "text": "İdrar torbası",
+      "answer": "MESANE",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Geleneksel Japon çiçek sanatı",
-      "answer": "İKEBANA",
-      "row": 4,
+      "text": "Boyama bitkisi",
+      "answer": "KINA",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -267,11 +204,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
       "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
     },
     {
       "row": 0,
@@ -283,19 +224,31 @@
     },
     {
       "row": 2,
-      "col": 1
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 5
     },
     {
       "row": 3,
       "col": 0
     },
     {
-      "row": 3,
-      "col": 1
+      "row": 6,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 3
     }
   ],
   "difficulty": "zor",

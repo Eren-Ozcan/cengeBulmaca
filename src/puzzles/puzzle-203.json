@@ -5,177 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Yatak veya oturma amaçlı ev bölmesi",
-      "answer": "ODA",
+      "text": "Yerel ağızda abi",
+      "answer": "AKA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üstü kapalı anlatma",
-      "answer": "İMA",
+      "text": "Büyük kardeş",
+      "answer": "ABLA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Diri karşıtı",
+      "answer": "ÖLÜ",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Birine özgü",
+      "answer": "AİT",
       "row": 2,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Cihazlara takılan enerji kaynağı",
-      "answer": "PİL",
+      "text": "Hata, yanlış",
+      "answer": "YANILGI",
       "row": 3,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Duyuru tahtası",
-      "answer": "PANO",
-      "row": 3,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mi ile Sol arasındaki nota",
-      "answer": "FA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Lüks gezinti gemisi",
-      "answer": "YAT",
+      "text": "Letonya'nın başkenti",
+      "answer": "RİGA",
       "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tıpla ilgili",
+      "answer": "TIBBİ",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Logo",
+      "answer": "İMLEK",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Mekân; zemin",
+      "answer": "YER",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ut çalıcısı",
+      "answer": "UDİ",
+      "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yapıların ışık alan açıklığı",
-      "answer": "PENCERE",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Baryum'un simgesi",
-      "answer": "BA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zihinsel kabiliyet",
-      "answer": "ZEKA",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kötü karşıtı",
-      "answer": "İYİ",
+      "text": "Hint unvanı",
+      "answer": "RACA",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aynı doğumda dünyaya gelen kardeşlerden her biri",
-      "answer": "İKİZ",
+      "text": "Tüysüz kafa",
+      "answer": "KEL",
       "row": 9,
-      "col": 3,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Gerçek, esas",
-      "answer": "ASIL",
+      "text": "Tüylü yaz meyvesi",
+      "answer": "ŞEFTALİ",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Element tablosunda Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Rus dilinde olumlama sözü",
-      "answer": "DA",
+      "text": "Muhtarın görev yeri",
+      "answer": "KÖY",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Beyaz yapraklı kır çiçeği",
-      "answer": "PAPATYA",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
+      "text": "İçki düşkünü",
+      "answer": "AYYAŞ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right-down"
     },
     {
-      "text": "Firavunların taptığı güneş tanrısı",
-      "answer": "RA",
-      "row": 2,
+      "text": "Renkli, benekli",
+      "answer": "ALA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dumanın bıraktığı kara leke",
-      "answer": "İS",
-      "row": 8,
+      "text": "Hükümdar eşi",
+      "answer": "ECE",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Anne veya babanın annesi",
-      "answer": "NİNE",
-      "row": 3,
+      "text": "Şöhret, şan",
+      "answer": "ÜN",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kapıda çalınan araç",
-      "answer": "ZİL",
-      "row": 7,
+      "text": "Suçunu söyleme",
+      "answer": "İTİRAF",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Serap",
+      "answer": "ILGIM",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bağlamada kullanılan kalın sicim",
-      "answer": "İP",
-      "row": 1,
+      "text": "Petekten çıkan",
+      "answer": "BAL",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gömlek üzerine giyilen kolsuz giysi",
-      "answer": "YELEK",
+      "text": "Kuşatma",
+      "answer": "ABLUKA",
       "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Binaların projesini çizen kişi",
-      "answer": "MİMAR",
-      "row": 1,
+      "text": "Puan tablosu düzeni",
+      "answer": "LİG",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İçte beslenen düşmanlık",
-      "answer": "KİN",
-      "row": 7,
+      "text": "Karşılık",
+      "answer": "BEDEL",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ağacın kolu",
-      "answer": "DAL",
+      "text": "Kaynak gösterme",
+      "answer": "ATIF",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Eylül sonunda başlayan burç",
-      "answer": "TERAZİ",
-      "row": 4,
+      "text": "İki parçalı",
+      "answer": "İKİLİ",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -183,51 +190,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 3
     },
     {
-      "row": 0,
-      "col": 4
+      "row": 4,
+      "col": 0
     },
     {
-      "row": 0,
-      "col": 5
+      "row": 4,
+      "col": 1
     },
     {
-      "row": 0,
+      "row": 4,
+      "col": 2
+    },
+    {
+      "row": 4,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 3
-    },
-    {
-      "row": 1,
-      "col": 4
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 3
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
       "row": 5,
-      "col": 2
+      "col": 0
     },
     {
       "row": 7,
-      "col": 2
+      "col": 0
     }
   ],
   "difficulty": "orta",

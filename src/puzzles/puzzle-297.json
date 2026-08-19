@@ -5,281 +5,232 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Fırında pişen temel besin",
-      "answer": "EKMEK",
+      "text": "Gramofon diski",
+      "answer": "PLAK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dört basamaklı en küçük sayı",
-      "answer": "BİN",
-      "row": 1,
+      "text": "Süsleme sanatı",
+      "answer": "EBRU",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Onarım yeri",
+      "answer": "DOK",
+      "row": 2,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Bir şeyin malı olan",
-      "answer": "AİT",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Birlikte hareket eden gemiler grubu",
-      "answer": "FİLO",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "En düşük rütbeli asker",
-      "answer": "ER",
+      "text": "Evlenmiş olan",
+      "answer": "EVLİ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kabayı inceden ayıran delikli araç",
-      "answer": "ELEK",
+      "text": "Samimi hitap",
+      "answer": "BACI",
       "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yayla atılan ince silah",
-      "answer": "OK",
-      "row": 3,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Periyodik tablodaki Berilyum'un simgesi",
-      "answer": "BE",
+      "text": "Türk boyu",
+      "answer": "HAZAR",
       "row": 4,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Parthenon Tapınağı'nın kenti",
-      "answer": "ATİNA",
+      "text": "Gökteki hilal",
+      "answer": "AY",
+      "row": 4,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Destek verme",
+      "answer": "KATKI",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Boğa güreşi alanı",
-      "answer": "ARENA",
+      "text": "Ekleme, ulama",
+      "answer": "İLAVE",
       "row": 6,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Lav püsküren dağ",
-      "answer": "VOLKAN",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Nikel'in kimyasal simgesi",
-      "answer": "Nİ",
+      "text": "Karadeniz ilimiz",
+      "answer": "ORDU",
       "row": 7,
-      "col": 6,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Selenyum'un simgesi",
-      "answer": "SE",
+      "text": "Çadır yeri",
+      "answer": "KAMP",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Basılı sayfalardan oluşan yapıt",
-      "answer": "KİTAP",
+      "text": "Kamış, hasır otu",
+      "answer": "SAZ",
       "row": 8,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Masallarda geçen kocaman yaratık",
-      "answer": "DEV",
+      "text": "İri gözlü elek",
+      "answer": "KALBUR",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Otorite simgesi baston",
-      "answer": "ASA",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırmızı taneli bir meyve",
-      "answer": "NAR",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Havsız ince dokuma yaygı",
-      "answer": "KİLİM",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Do'ya dönmeden önceki nota",
-      "answer": "Sİ",
-      "row": 11,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Spor karşılaşması",
-      "answer": "MAÇ",
-      "row": 12,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Türkiye'nin istihbarat kurumunun kısaltması",
-      "answer": "MİT",
-      "row": 12,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kış mevsiminin beyaz yağışı",
-      "answer": "KAR",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Çizgili, kareli dokuma",
-      "answer": "EKOSE",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gam dizisinde üçüncü nota",
-      "answer": "Mİ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bulgaristan'ın para birimi",
-      "answer": "LEV",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Nişan, alamet",
+      "text": "İşaret, belirti",
       "answer": "İM",
+      "row": 9,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Kızıl gezegen",
+      "answer": "MARS",
       "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Fakat, lakin",
+      "answer": "AMA",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Eğiklik, eğim",
+      "answer": "MEYİL",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yüce, büyük",
+      "answer": "ULU",
+      "row": 12,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yazılı tabela",
+      "answer": "LEVHA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir yerde oturma",
+      "answer": "İKAMET",
+      "row": 7,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Büyük kardeş",
+      "answer": "ABLA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dağın ovaya değdiği alt kısmı",
-      "answer": "ETEK",
+      "text": "Tabur-tugay arası",
+      "answer": "ALAY",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bunalım",
+      "answer": "KRİZ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Süt beyazı renk",
-      "answer": "AK",
+      "text": "Ahşap duvar kaplaması",
+      "answer": "LAMBRİ",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Birbirine karışık renkli",
-      "answer": "ALA",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir bakliyat türü",
-      "answer": "ARAKA",
-      "row": 4,
+      "text": "Yerel ağızda abi",
+      "answer": "AKA",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir şeyin ortasındaki bölüm",
-      "answer": "İÇ",
-      "row": 10,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Demir'in simgesi",
-      "answer": "FE",
-      "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Raketle oynanan spor",
-      "answer": "TENİS",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Âlim",
-      "answer": "BİLGİN",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Güneş doğmadan önceki alacakaranlık",
-      "answer": "TAN",
+      "text": "Hafif sisli",
+      "answer": "PUSLU",
       "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Aferin",
+      "answer": "BRAVO",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yatak konan yer",
+      "answer": "ODA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "'-la, -le' yerine kullanılan söz",
-      "answer": "İLE",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Fransız yazarın 19. yüzyıl romanı",
-      "answer": "NANA",
+      "text": "Arka yüz",
+      "answer": "TERS",
       "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ateş yakılan yer",
+      "answer": "OCAK",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Antakya'dan geçen ırmak",
-      "answer": "ASİ",
-      "row": 9,
+      "text": "Sürekli, kesintisiz",
+      "answer": "DAİM",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Cümle sonuna konan işaret",
-      "answer": "NOKTA",
-      "row": 0,
+      "text": "Sahil",
+      "answer": "KIYI",
+      "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Hardal kokulu savaş gazı",
-      "answer": "İPERİT",
+      "text": "Bilgili kimse",
+      "answer": "UZMAN",
       "row": 6,
       "col": 8,
       "arrow": "down"
@@ -295,20 +246,60 @@
       "col": 5
     },
     {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
       "row": 5,
       "col": 2
     },
     {
-      "row": 10,
+      "row": 6,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 1
+      "row": 11,
+      "col": 5
+    },
+    {
+      "row": 11,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 7
     },
     {
       "row": 12,
       "col": 0
+    },
+    {
+      "row": 12,
+      "col": 2
+    },
+    {
+      "row": 12,
+      "col": 7
+    },
+    {
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "zor",

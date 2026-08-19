@@ -5,240 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Hatay'dan geçen ırmak",
-      "answer": "ASİ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dağdan küçük yükselti",
-      "answer": "TEPE",
+      "text": "Önerme, sav",
+      "answer": "TEZ",
       "row": 1,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Berilyum için kullanılan kimyasal simge",
-      "answer": "BE",
-      "row": 2,
-      "col": 2,
+      "text": "Pay, hisse",
+      "answer": "HAK",
+      "row": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Lityum'un kimyasal simgesi",
-      "answer": "Lİ",
-      "row": 2,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Mozart'ın şehri, Avusturya başkenti",
-      "answer": "VİYANA",
+      "text": "Köyün ileri geleni",
+      "answer": "AĞA",
       "row": 2,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Lahza, dem",
-      "answer": "AN",
+      "text": "Şefkatli davranan",
+      "answer": "ANAÇ",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Bin milyar",
+      "answer": "TRİLYON",
       "row": 3,
-      "col": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Piramitlere yakın Mısır başkenti",
-      "answer": "KAHİRE",
+      "text": "Uzunluk ölçüsü",
+      "answer": "MİL",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İki kelimeyi birleştiren bağlaç",
-      "answer": "VE",
+      "text": "Sahne oyunu",
+      "answer": "DRAM",
       "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Otorite simgesi baston",
-      "answer": "ASA",
-      "row": 5,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Tantal'ın simgesi",
-      "answer": "TA",
+      "text": "Yuvarlak, şişkin",
+      "answer": "YUMRU",
       "row": 5,
-      "col": 6,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gözleri farklı renkte kedisiyle bilinen ilimiz",
-      "answer": "VAN",
+      "text": "Eski dilde tür",
+      "answer": "NEV",
       "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Esnek giysi",
+      "answer": "TAYT",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Bitkinin gövdesi",
+      "answer": "SAP",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Değerli kırmızı taş",
+      "answer": "LAL",
+      "row": 7,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down-right"
+      "text": "Alan; oyun yeri",
+      "answer": "SAHA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Ekşimsi, sulu yaz meyvesi",
-      "answer": "ERİK",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tamirde kullanılan avadanlık",
-      "answer": "ALET",
+      "text": "Kimseye söylenmeyen",
+      "answer": "SIR",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Birim, tane",
-      "answer": "ADET",
-      "row": 8,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Direngenlik, dediğinden dönmeme",
-      "answer": "İNAT",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Görme engelli kişi (eski dilde)",
-      "answer": "AMA",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yerine getirme",
-      "answer": "İFA",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Televizyonda haberleri okuyan kişi",
-      "answer": "SPİKER",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce, uzun boylu (elif gibi)",
-      "answer": "ELİF",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir seslenme sözü",
-      "answer": "YA",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gösteri ve yarış alanı",
-      "answer": "ARENA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kışla yaz arasındaki mevsim",
-      "answer": "BAHAR",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Verme, ödeme (eski dilde)",
-      "answer": "İTA",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Fileden topu geçirerek oynanan spor",
-      "answer": "TENİS",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Pak, temiz anlamında da kullanılan renk",
-      "answer": "AK",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Nefesli çalgı sesini taklit eden hece",
-      "answer": "Tİ",
+      "text": "Boks alanı",
+      "answer": "RİNG",
       "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Haz, keyif",
+      "answer": "ZEVK",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Enerji birimi",
+      "answer": "ERG",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Küçük ses",
+      "answer": "PIT",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Doyum sağlama",
+      "answer": "TATMİN",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hafif ağrı",
+      "answer": "SIZI",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Düz karşıtı",
+      "answer": "EĞRİ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tutsaklık",
+      "answer": "ESARET",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yok olan",
+      "answer": "ZAİL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yazık ünlemi",
+      "answer": "VAH",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dinlenme alanı",
+      "answer": "PARK",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Boşluk, mesafe",
-      "answer": "ARA",
-      "row": 2,
+      "text": "Şaki",
+      "answer": "HAYDUT",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Doğru ile yanlışı ayırt eden iç ses",
-      "answer": "VİCDAN",
-      "row": 5,
+      "text": "Olağan dışı",
+      "answer": "ANORMAL",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sarıya çalan göz rengi",
-      "answer": "ELA",
+      "text": "Kamıştan üflemeli çalgı",
+      "answer": "NEY",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sarı kafes kuşu",
+      "answer": "KANARYA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Güneş doğmadan önceki alacakaranlık",
-      "answer": "TAN",
-      "row": 4,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "İlaç, merhem (halk dili)",
-      "answer": "EM",
+      "text": "Kül rengi",
+      "answer": "GRİ",
       "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Tilki, tavşan gibi hayvanların barınağı",
-      "answer": "İN",
-      "row": 1,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Kilit açan araç",
-      "answer": "ANAHTAR",
-      "row": 4,
+      "text": "Hoşnut olan",
+      "answer": "MUTLU",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     }
@@ -246,26 +232,22 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 4
     },
     {
       "row": 0,
       "col": 8
     },
     {
-      "row": 6,
+      "row": 1,
+      "col": 8
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
@@ -273,16 +255,20 @@
       "col": 0
     },
     {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
       "row": 11,
       "col": 3
     },
     {
       "row": 11,
-      "col": 5
-    },
-    {
-      "row": 11,
-      "col": 7
+      "col": 8
     }
   ],
   "difficulty": "zor",

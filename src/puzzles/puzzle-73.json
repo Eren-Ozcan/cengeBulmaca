@@ -5,212 +5,163 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Voleybol veya tenis maçının bir bölümü",
-      "answer": "SET",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yorgunluk bildiren ünlem",
-      "answer": "OF",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yaban köpeği",
-      "answer": "KURT",
-      "row": 2,
+      "text": "Sürücü",
+      "answer": "ŞOFÖR",
+      "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Periyodik tablodaki Kripton'un simgesi",
-      "answer": "KR",
+      "text": "İnce parçacık",
+      "answer": "TOZ",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bozkır kuşu",
+      "answer": "TOY",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sayıların ilki",
+      "answer": "BİR",
       "row": 2,
       "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ekşi saplı bitki",
+      "answer": "RAVENT",
+      "row": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Büyükanne",
-      "answer": "NİNE",
-      "row": 2,
+      "text": "Ufak karşıtı",
+      "answer": "İRİ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Rusçadaki olumlu yanıt",
-      "answer": "DA",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Savunma amaçlı taş yapı",
-      "answer": "KALE",
-      "row": 4,
+      "text": "Beşten sonraki sayı",
+      "answer": "ALTI",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kokpitte uçağı yöneten kişi",
-      "answer": "PİLOT",
-      "row": 5,
+      "text": "Uçucu sıvı",
+      "answer": "ETER",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Nazarlık bitkisi",
+      "answer": "ÜZERLİK",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çelik araç",
+      "answer": "BIÇAK",
+      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Avrupa'yı Asya'dan ayıran dağ sırası",
-      "answer": "URAL",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Antik Mısır tanrılarından biri",
-      "answer": "RA",
-      "row": 6,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir şeyi belirten iz",
-      "answer": "İM",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ardıç meyvesiyle aromalandırılan içki",
-      "answer": "CİN",
+      "text": "Akıllı kadın",
+      "answer": "AKİLE",
       "row": 9,
-      "col": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gözleri görmeyen",
-      "answer": "AMA",
-      "row": 10,
+      "text": "Ses aygıtı",
+      "answer": "TEYP",
+      "row": 9,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Notada durak işareti",
-      "answer": "ES",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tarlada yetişen tahıl bitkisi",
-      "answer": "EKİN",
-      "row": 0,
+      "text": "Anason kokulu bitki",
+      "answer": "REZENE",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Avrupa'nın önemli nehirlerinden biri, Karadeniz'e dökülür",
-      "answer": "TUNA",
+      "text": "Yetke",
+      "answer": "OTORİTE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Rumca konuşan Ortodoks vatandaş",
-      "answer": "RUM",
+      "text": "Sahte parlaklık",
+      "answer": "FOYA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İşten anlayan",
+      "answer": "ERBAP",
       "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Do'dan sonraki nota",
-      "answer": "RE",
-      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eskiden kullanılan 'ayak' anlamlı kelime",
-      "answer": "PA",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Karışık renkli, benekli",
-      "answer": "ALA",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük, yeşil bitki türü",
-      "answer": "OT",
+      "text": "Üvey olmayan",
+      "answer": "ÖZ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Havsız ince dokuma yaygı",
-      "answer": "KİLİM",
+      "text": "Mevcudiyet",
+      "answer": "VARLIK",
       "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gövdeden ayrılan ağaç kolu",
-      "answer": "DAL",
+      "text": "Gövdenin ortası",
+      "answer": "BEL",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kraliçe",
-      "answer": "ECE",
-      "row": 7,
+      "text": "İçme tadı",
+      "answer": "İÇİM",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Enerji ölçü birimi",
-      "answer": "KALORİ",
-      "row": 1,
+      "text": "Geçiş",
+      "answer": "İNTİKAL",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dumanın bıraktığı kara leke",
-      "answer": "İS",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüz metrekarelik alan ölçüsü",
-      "answer": "AR",
+      "text": "Beyaz kuş",
+      "answer": "MARTI",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Delikli, seyrek dokunmuş kumaş",
-      "answer": "ETAMİN",
-      "row": 3,
+      "text": "Fırında pişen tatlı",
+      "answer": "KEK",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -218,7 +169,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
     },
     {
       "row": 0,
@@ -229,36 +184,28 @@
       "col": 6
     },
     {
-      "row": 5,
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 1
+      "row": 6,
+      "col": 7
     },
     {
-      "row": 7,
+      "row": 8,
       "col": 0
-    },
-    {
-      "row": 7,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 2
     },
     {
       "row": 10,
-      "col": 7
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 6
     }
   ],
   "difficulty": "kolay",

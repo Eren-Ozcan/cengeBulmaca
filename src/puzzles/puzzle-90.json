@@ -5,281 +5,217 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Gemi yapım ve onarım yeri",
-      "answer": "DOK",
-      "row": 1,
+      "text": "Edilgin",
+      "answer": "PASİF",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Denizde yük ve yolcu taşıyan araç",
-      "answer": "GEMİ",
+      "text": "Yersiz davranış",
+      "answer": "GAF",
       "row": 1,
-      "col": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Dokuzdan sonra gelen sayı",
-      "answer": "ON",
+      "text": "Bacak eklemi",
+      "answer": "DİZ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üstteki kara leke",
-      "answer": "KİR",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Mızraplı telli çalgı",
-      "answer": "UD",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 3,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Rütbesiz asker",
-      "answer": "ER",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Öğrenme ve kavrama yetisi",
-      "answer": "ZEKA",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Magnezyum'un simgesi",
-      "answer": "MG",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Enerji ölçü birimi",
-      "answer": "KALORİ",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Nakış işlenen delikli kumaş",
-      "answer": "ETAMİN",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dumanın bıraktığı kara leke",
-      "answer": "İS",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İnançsız kimse",
-      "answer": "ATE",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağlamada kullanılan kalın sicim",
-      "answer": "İP",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ceketin boyun çevresindeki bölümü",
-      "answer": "YAKA",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Pak, temiz anlamında da kullanılan renk",
-      "answer": "AK",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "At yavrusu",
-      "answer": "TAY",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İkinci nota",
-      "answer": "RE",
-      "row": 9,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Müzikli sahne yapıtı",
-      "answer": "OPERA",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir bakışta geçen süre",
-      "answer": "AN",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pençeleriyle avlanan büyük kuş",
-      "answer": "KARTAL",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sekizli dizinin ilk sesi",
-      "answer": "DO",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İzmir'in de bulunduğu bölgemiz",
-      "answer": "EGE",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ortodoks kiliselerinde bulunan kutsal tasvir",
-      "answer": "İKON",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Şeref, haysiyet",
-      "answer": "ONUR",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Argoda kişi, adam",
-      "answer": "TİP",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kasılıp gevşeyen doku",
-      "answer": "KAS",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yalnız, biricik",
-      "answer": "TEK",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ücrete yapılan artış",
-      "answer": "ZAM",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İyileşmesi gereken doku hasarı",
-      "answer": "YARA",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ruhsal dengesi bozulmuş kimse",
+      "text": "Aklını yitirmiş",
       "answer": "DELİ",
       "row": 2,
-      "col": 5,
-      "arrow": "down"
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "22 veya 14 ile ifade edilen altın değeri",
-      "answer": "AYAR",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
+      "text": "At demiri",
+      "answer": "NAL",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Kelimenin sonuna gelen parça",
-      "answer": "EK",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski dönemden kalma büyük ev",
-      "answer": "KONAK",
+      "text": "Temel ilke",
+      "answer": "KURAL",
       "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yetiştirici",
+      "answer": "ÜRETİCİ",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Anlam çevirisi",
+      "answer": "MEAL",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sevgili, yakın",
+      "answer": "CAN",
+      "row": 5,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Salahiyetli",
+      "answer": "YETKİLİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Fakat, lakin",
+      "answer": "AMA",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Fırıncı",
+      "answer": "EKMEKÇİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek dadı",
+      "answer": "LALA",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İçme kabı",
+      "answer": "YALAK",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Turistik yolculuk",
+      "answer": "GEZİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Boyama bitkisi",
+      "answer": "KINA",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Etrafı su ile çevrili",
+      "answer": "ADA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Mor kokulu çiçek",
+      "answer": "MENEKŞE",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Karaltı",
+      "answer": "SİLÜET",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Nişan, eser",
+      "answer": "İZ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sayı işareti",
+      "answer": "RAKAM",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sözcük",
+      "answer": "KELİME",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyaz meyveli ağaç",
+      "answer": "DUT",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Leylek sesi",
+      "answer": "LAKLAK",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeniliğe karşı",
+      "answer": "GERİCİ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Binaların projesini çizen kişi",
-      "answer": "MİMAR",
+      "text": "Çatallı bitki",
+      "answer": "ÇALI",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Karışık renkli",
+      "answer": "ALACA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Tohum ekilen, ürün yetiştirilen toprak parçası",
-      "answer": "TARLA",
-      "row": 6,
+      "text": "Duyuru",
+      "answer": "İLAN",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Büyük boyutlu",
-      "answer": "İRİ",
+      "text": "Kısa namlulu tüfek",
+      "answer": "FİLİNTA",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "'-la, -le' yerine kullanılan bağlaç",
-      "answer": "İLE",
-      "row": 4,
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
     {
       "row": 0,
       "col": 4
@@ -289,32 +225,32 @@
       "col": 5
     },
     {
-      "row": 2,
-      "col": 3
-    },
-    {
-      "row": 2,
-      "col": 4
-    },
-    {
-      "row": 3,
+      "row": 4,
       "col": 0
+    },
+    {
+      "row": 6,
+      "col": 7
     },
     {
       "row": 7,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 8
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 3
     },
     {
       "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 8
+      "col": 2
     }
   ],
   "difficulty": "zor",

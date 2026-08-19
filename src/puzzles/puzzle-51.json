@@ -5,233 +5,205 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Bir şeyin nihayeti",
-      "answer": "SON",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gramofonda çalınan disk",
-      "answer": "PLAK",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üstün zekâ",
-      "answer": "DEHA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayatın vazgeçilmez sıvısı",
-      "answer": "SU",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Taşınabilir elektrik kaynağı",
-      "answer": "PİL",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Düşünme, muhakeme yetisi",
-      "answer": "US",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeşil, küçük bitki",
-      "answer": "OT",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kortta raketle oynanan spor",
-      "answer": "TENİS",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sicim, halat",
-      "answer": "İP",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Masallarda geçen kocaman yaratık",
-      "answer": "DEV",
-      "row": 6,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dikkat çekme ünlemi",
-      "answer": "EY",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde alev, ateş",
-      "answer": "OD",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kum falı",
-      "answer": "REMİL",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tespihin uç tanesi",
-      "answer": "İMAME",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Söylence, efsanevi anlatı",
-      "answer": "MİT",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Genç, küçük at",
-      "answer": "TAY",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tantal için kullanılan kimyasal simge",
-      "answer": "TA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Duvarlarla ayrılmış ev bölümü",
-      "answer": "ODA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimyada Germanyum'un simgesi",
-      "answer": "GE",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir kimse, şahıs",
-      "answer": "ADAM",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "'Ne yapıyorsun?' daki soru sözü",
-      "answer": "NE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Nikel için kullanılan kimyasal simge",
-      "answer": "Nİ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Katkısız, öz",
-      "answer": "HAS",
+      "text": "Sert, kırıcı",
+      "answer": "HAŞİN",
       "row": 1,
-      "col": 3,
-      "arrow": "down"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Hardal gazı olarak da bilinen zehirli gaz",
-      "answer": "İPERİT",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
+      "text": "Bazik madde",
+      "answer": "ALKALİ",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Eskiden kullanılan 'ayak' anlamlı kelime",
-      "answer": "PA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
+      "text": "Giysi ustası",
+      "answer": "TERZİ",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Kurum, duman lekesi",
-      "answer": "İS",
+      "text": "Alt karşıtı",
+      "answer": "ÜST",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yapmacık tavır",
+      "answer": "TRİP",
       "row": 4,
-      "col": 4,
-      "arrow": "down"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Hayvan besini",
-      "answer": "YEM",
+      "text": "Ok aracı",
+      "answer": "YAY",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Oyunda sıra",
+      "answer": "EL",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Mavi boya elementi",
+      "answer": "KOBALT",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çekişme, anlaşmazlık, kavga",
+      "answer": "NİZA",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kaplıca",
+      "answer": "ILICA",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bale sanatçısı",
+      "answer": "BALERİN",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hatırat, andaç",
+      "answer": "ANI",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Telefon sözü",
+      "answer": "ALO",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kilogramın binde biri",
+      "answer": "GRAM",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gaklayan kuş",
+      "answer": "KAZ",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Cilt bakım sıvısı",
+      "answer": "LOSYON",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Basınç birimi",
+      "answer": "BAR",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağlı, uyan",
+      "answer": "TABİ",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Baba karşıtı",
+      "answer": "ANA",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çizgi",
+      "answer": "HAT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilgisayar programı",
+      "answer": "YAZILIM",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Araç, avadanlık",
+      "answer": "ALET",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Polonyum'un simgesi",
-      "answer": "PO",
-      "row": 2,
-      "col": 5,
+      "text": "Süs çiçeği",
+      "answer": "LALE",
+      "row": 5,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Şahın kaçamayacağı durum",
-      "answer": "MAT",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Payitahtın eski adlarından biri",
-      "answer": "ASİTANE",
+      "text": "Kavgacı",
+      "answer": "ŞİRRET",
       "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak",
+      "answer": "IRAK",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kapıya basılan",
+      "answer": "ZİL",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Üstü kapalı anlatma",
-      "answer": "İMA",
-      "row": 8,
+      "text": "Parlatma maddesi",
+      "answer": "CİLA",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tanrı katında insan",
-      "answer": "KUL",
+      "text": "Hükümdar vekili",
+      "answer": "NAİP",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Fileyle ayrılmış sahada oynanan top sporu",
-      "answer": "VOLEY",
-      "row": 6,
+      "text": "Sert siyah ağaç",
+      "answer": "ABANOZ",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -239,38 +211,26 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
     },
     {
       "row": 0,
-      "col": 5
+      "col": 1
     },
     {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
+      "row": 0,
       "col": 2
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 0,
+      "col": 6
     },
     {
-      "row": 4,
-      "col": 7
+      "row": 6,
+      "col": 6
     },
     {
-      "row": 5,
-      "col": 5
-    },
-    {
-      "row": 5,
-      "col": 7
-    },
-    {
-      "row": 10,
+      "row": 8,
       "col": 0
     }
   ],

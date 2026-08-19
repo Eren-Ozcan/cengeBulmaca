@@ -5,198 +5,191 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Millet",
-      "answer": "ULUS",
+      "text": "Borç kapatma",
+      "answer": "ÖDEME",
       "row": 1,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Otorite simgesi baston",
-      "answer": "ASA",
+      "text": "Otomobil",
+      "answer": "ARABA",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Cevap isteyen soru kelimesi",
-      "answer": "NE",
-      "row": 3,
+      "text": "Eğlence etkinliği",
+      "answer": "OYUN",
+      "row": 2,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yer kabuğu kırığı",
-      "answer": "FAY",
+      "text": "Deri sıvısı",
+      "answer": "TER",
       "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sofraların vazgeçilmez unlu besini",
-      "answer": "EKMEK",
-      "row": 3,
+      "text": "Çıkarma işareti",
+      "answer": "EKSİ",
+      "row": 4,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "İsviçre'den Kuzey Denizi'ne akan nehir",
-      "answer": "REN",
+      "text": "Baraj duvarı",
+      "answer": "SET",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Halk ağzında seslenme sözü",
-      "answer": "BRE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Havada uçuşan ince parçacıklar",
-      "answer": "TOZ",
+      "text": "Meksika içkisi",
+      "answer": "TEKİLA",
       "row": 6,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yapı yapılacak arazi",
-      "answer": "ARSA",
+      "text": "Hayvan ölüsü",
+      "answer": "LEŞ",
       "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ansızın gelen bela",
+      "answer": "MUSİBET",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yüz metrekarelik alan ölçüsü",
-      "answer": "AR",
+      "text": "Çizgi",
+      "answer": "HAT",
       "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Emile Zola'nın ünlü romanı",
-      "answer": "NANA",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Vilayet",
-      "answer": "İL",
-      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ağabey için kullanılan hitap",
-      "answer": "AKA",
-      "row": 10,
-      "col": 2,
+      "text": "Siyah",
+      "answer": "KARA",
+      "row": 9,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Turizmiyle ünlü Akdeniz ilimiz",
-      "answer": "ANTALYA",
-      "row": 11,
+      "text": "Duvara monte düzlük",
+      "answer": "RAF",
+      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İç Anadolu'daki başkentimiz",
-      "answer": "ANKARA",
+      "text": "Ani sarsıntı",
+      "answer": "ŞOK",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ses özelliği",
+      "answer": "TINI",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Topluluk mensubu",
+      "answer": "ÜYE",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yeşile ve sarıya çalan göz rengi",
-      "answer": "ELA",
-      "row": 8,
+      "text": "Kağıt rulosu",
+      "answer": "TOMAR",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İlaç, merhem (halk dili)",
-      "answer": "EM",
+      "text": "Çözülmemiş dert",
+      "answer": "UKDE",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Askerlik yapan genç, nefer",
-      "answer": "ER",
-      "row": 5,
+      "text": "Japon şiiri",
+      "answer": "UTA",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Güzel sanatların her biri",
-      "answer": "SANAT",
-      "row": 6,
+      "text": "Ritmik hareket",
+      "answer": "DANS",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Düşünme, muhakeme yetisi",
-      "answer": "US",
+      "text": "Askerlikte en alt",
+      "answer": "ER",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Kripton'un simgesi",
-      "answer": "KR",
+      "text": "Ter kabarcığı",
+      "answer": "İSİLİK",
       "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yem bitkisi olarak ekilen baklagil",
-      "answer": "ARAKA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Söz, lakırdı",
-      "answer": "LAF",
+      "text": "Parlak olmayan",
+      "answer": "MAT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Protein kaynağı gıda",
-      "answer": "ET",
+      "text": "Çete önderi",
+      "answer": "ELEBAŞI",
       "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Atın tırnağına çakılan demir",
-      "answer": "NAL",
-      "row": 8,
-      "col": 5,
+      "text": "Doğum yardımcısı",
+      "answer": "EBE",
+      "row": 0,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yazıda cümleyi bitiren işaret",
-      "answer": "NOKTA",
+      "text": "Alt yüklenici",
+      "answer": "TAŞERON",
       "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Adet belirten rakam kümesi",
-      "answer": "SAYI",
-      "row": 0,
+      "text": "Devre arası",
+      "answer": "ARA",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Kalsiyum'un simgesi",
-      "answer": "CA",
-      "row": 9,
+      "text": "Ziynet eşyası",
+      "answer": "TAKI",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -216,55 +209,39 @@
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
       "col": 0
     },
     {
-      "row": 1,
-      "col": 2
-    },
-    {
-      "row": 2,
+      "row": 5,
       "col": 0
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 3
     },
     {
       "row": 5,
       "col": 7
     },
     {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
+      "row": 6,
       "col": 7
     },
     {
-      "row": 8,
+      "row": 7,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 7
+      "row": 11,
+      "col": 0
     },
     {
-      "row": 10,
-      "col": 6
+      "row": 11,
+      "col": 1
+    },
+    {
+      "row": 11,
+      "col": 2
     }
   ],
   "difficulty": "kolay",

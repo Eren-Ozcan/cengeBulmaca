@@ -5,226 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Yapı tasarımcısı",
-      "answer": "MİMAR",
+      "text": "İnanmış",
+      "answer": "KANİ",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir ekibin başındaki kişi",
-      "answer": "ŞEF",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Binayı yağmurdan koruyan üst örtü",
-      "answer": "ÇATI",
+      "text": "Atı sürme",
+      "answer": "DEH",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çalışmayı sevmeyen",
+      "answer": "TEMBEL",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İnanç, görüş",
-      "answer": "KANI",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yüz kızartan duygu",
-      "answer": "AR",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük, yeşil bitki türü",
-      "answer": "OT",
-      "row": 3,
+      "text": "Saç bağı şeridi",
+      "answer": "KURDELE",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "'Aa, tamam' anlamında ünlem",
-      "answer": "HA",
+      "text": "Sanırım",
+      "answer": "GALİBA",
       "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Buğdayın öğütülmüş hali",
-      "answer": "UN",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir şeyin malı olan",
-      "answer": "AİT",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sicim, halat",
-      "answer": "İP",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çocuk, döl",
-      "answer": "EVLAT",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kişneyen binek hayvanı",
-      "answer": "AT",
-      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Tantal için kullanılan kimyasal simge",
-      "answer": "TA",
+      "text": "İstihbarat teşkilatı",
+      "answer": "MİT",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Söz, lakırdı",
+      "answer": "LAF",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Demirin düşmanı",
+      "answer": "PAS",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İnsan, şahıs",
+      "answer": "KİŞİ",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İplik işleme",
+      "answer": "NAKIŞ",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "ABD parası",
+      "answer": "DOLAR",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ordu mensubu",
-      "answer": "ASKER",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Güney Amerika'nın yük hayvanı",
-      "answer": "LAMA",
+      "text": "Düzen",
+      "answer": "NİZAM",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Âlim",
-      "answer": "BİLGİN",
+      "text": "Satış belgesi",
+      "answer": "FATURA",
       "row": 10,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Zarfla gönderilen yazı",
-      "answer": "MEKTUP",
+      "text": "Nikâhsız eş",
+      "answer": "METRES",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İskambilde koz",
+      "answer": "ATU",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ateşin rengi",
-      "answer": "AL",
-      "row": 7,
+      "text": "Masonluk üyesi",
+      "answer": "MASON",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bir görevi tamamlama",
-      "answer": "İFA",
+      "text": "Kokulu bahar çiçeği",
+      "answer": "NERGİS",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde su",
-      "answer": "AB",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Nakış işlenen delikli kumaş",
-      "answer": "ETAMİN",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İki doğrunun kesişmesiyle oluşan ölçü",
-      "answer": "AÇI",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Avcının peşinde koştuğu şey",
-      "answer": "AV",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İlkel, düz su aracı",
-      "answer": "SAL",
+      "text": "Kaldırma makinesi",
+      "answer": "LİFT",
       "row": 7,
-      "col": 4,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Mısır mitolojisinde güneş tanrısı",
-      "answer": "RA",
+      "text": "Yardım çağrısı",
+      "answer": "İMDAT",
       "row": 0,
-      "col": 5,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kan hücrelerinin üretildiği kemik dokusu",
-      "answer": "İLİK",
-      "row": 4,
-      "col": 5,
+      "text": "Kem göz",
+      "answer": "NAZAR",
+      "row": 6,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kesilmiş ağaç levha",
-      "answer": "TAHTA",
+      "text": "Kemer takılan yer",
+      "answer": "BEL",
       "row": 1,
-      "col": 6,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Arap alfabesinin ilk harfi",
-      "answer": "ELİF",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Okul mobilyası",
-      "answer": "SIRA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Arnavutluk'un başkenti",
-      "answer": "TİRAN",
+      "text": "Japon dövüş sanatı",
+      "answer": "KARATE",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Cinnet",
+      "answer": "DELİLİK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Köpük tatlı",
+      "answer": "MUS",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çete önderi",
+      "answer": "ELEBAŞI",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Herkesçe bilinen",
+      "answer": "AFİŞE",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -232,43 +190,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 1
-    },
-    {
-      "row": 11,
-      "col": 2
-    },
-    {
-      "row": 11,
       "col": 4
     },
     {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
       "row": 11,
-      "col": 5
+      "col": 6
     },
     {
       "row": 11,

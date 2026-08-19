@@ -5,275 +5,205 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Yetişkin erkek",
-      "answer": "ADAM",
-      "row": 0,
-      "col": 0,
+      "text": "Yunan rakısı",
+      "answer": "UZO",
+      "row": 1,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Konu dışı",
+      "answer": "AFAKİ",
+      "row": 1,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Sonbaharın ortasındaki ay",
-      "answer": "EKİM",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eski dilde seçim oyu",
-      "answer": "REY",
+      "text": "Ayının kışladığı",
+      "answer": "İN",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kör kimse",
-      "answer": "AMA",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Peynir sevdiği düşünülen kemirgen",
-      "answer": "FARE",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Öne sürülen görüş",
-      "answer": "SAV",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Ani Harabeleri'nin bulunduğu ilimiz",
-      "answer": "KARS",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
-      "row": 4,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Periyodik tablodaki Kalsiyum'un simgesi",
-      "answer": "CA",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğum uzmanı sağlık görevlisi",
-      "answer": "EBE",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sekizli dizinin ilk sesi",
-      "answer": "DO",
-      "row": 5,
+      "text": "Elektrik dönüştürücü",
+      "answer": "TRAFO",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Periyodik tablodaki Tantal'ın simgesi",
-      "answer": "TA",
+      "text": "Demirci aracı",
+      "answer": "ÖRS",
+      "row": 3,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Akıllı kadın",
+      "answer": "AKİLE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gece eğlencesi",
+      "answer": "BALO",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kumar parası",
+      "answer": "FİŞ",
+      "row": 5,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Uçucu sıvı",
+      "answer": "ETER",
       "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Polonya'nın başkenti",
-      "answer": "VARŞOVA",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Otomobil",
-      "answer": "ARABA",
-      "row": 7,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Un, yağ ve şekerle yapılan fırın tatlısı",
-      "answer": "KEK",
+      "text": "İnce cam plaka",
+      "answer": "LAM",
+      "row": 7,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Soluk karşıtı",
+      "answer": "KOYU",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yatak konan yer",
+      "answer": "ODA",
       "row": 8,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Geleneksel Japon ezgisi",
-      "answer": "UTA",
+      "text": "Do'dan sonraki nota",
+      "answer": "RE",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bükülmüş ipliklerden oluşan bağ",
-      "answer": "İP",
+      "text": "Gelir taşınmazı",
+      "answer": "AKAR",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Para yatıran",
+      "answer": "MUDİ",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Enerji ölçü birimi",
-      "answer": "KALORİ",
+      "text": "İkinci gün",
+      "answer": "SALI",
       "row": 10,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Maçı yöneten kimse",
-      "answer": "HAKEM",
+      "text": "Maharet, hüner",
+      "answer": "USTALIK",
       "row": 11,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Örülmüş avlanma gereci",
-      "answer": "AĞ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Kobalt'ın simgesi",
-      "answer": "CO",
-      "row": 4,
+      "text": "Doğulu müzik türü",
+      "answer": "ARABESK",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hindistan'ın para birimi",
-      "answer": "RUPİ",
+      "text": "Aykırılık bağlacı",
+      "answer": "FAKAT",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Askeri kuvvetlerin tümü",
+      "answer": "ORDU",
       "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İri taneli bezelye",
-      "answer": "ARAKA",
-      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Enerji harcama hızı birimi",
-      "answer": "VAT",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Otlak",
-      "answer": "MERA",
+      "text": "Yolcu topluluğu",
+      "answer": "KAFİLE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sofrada yemek konan kap",
-      "answer": "TABAK",
-      "row": 5,
+      "text": "Umutsuz karamsarlık",
+      "answer": "YEİS",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bir şeyin bulunduğu konum",
-      "answer": "YER",
+      "text": "Büyük askerî birlik",
+      "answer": "KOLORDU",
       "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Fasıla",
-      "answer": "ARA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayıflanma sözü",
-      "answer": "AH",
-      "row": 9,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Selenyum'un kimyasal simgesi",
-      "answer": "SE",
-      "row": 3,
+      "text": "Piskopos değneği",
+      "answer": "ASA",
+      "row": 8,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Lantan'ın simgesi",
-      "answer": "LA",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Hareketi sağlayan doku",
-      "answer": "KAS",
-      "row": 0,
+      "text": "Toplantı yeri",
+      "answer": "LOKAL",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Toplu konutlarda bir bina birimi",
-      "answer": "BLOK",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yay ile fırlatılan silah",
-      "answer": "OK",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tespihin uç tanesi",
-      "answer": "İMAME",
+      "text": "Tarımsal",
+      "answer": "ZİRAİ",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sıralama bildiren bağlaç",
-      "answer": "VE",
+      "text": "Ada sakini",
+      "answer": "ADALI",
       "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İkinci nota",
-      "answer": "RE",
-      "row": 9,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Gökyüzünün rengi",
-      "answer": "MAVİ",
+      "text": "Ağırlık birimi",
+      "answer": "ONS",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Duvara asılan gün çizelgesi",
-      "answer": "TAKVİM",
-      "row": 5,
+      "text": "Şımartılmış",
+      "answer": "ŞIMARIK",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     }
@@ -281,27 +211,47 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
     },
     {
       "row": 0,
       "col": 4
     },
     {
-      "row": 4,
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
       "col": 0
+    },
+    {
+      "row": 4,
+      "col": 6
     },
     {
       "row": 6,
       "col": 5
     },
     {
-      "row": 11,
+      "row": 7,
       "col": 0
     },
     {
       "row": 11,
-      "col": 2
+      "col": 0
     }
   ],
   "difficulty": "orta",

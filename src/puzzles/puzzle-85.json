@@ -5,254 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Otuz güne yakın süren zaman birimi",
-      "answer": "AY",
+      "text": "Para dolabı",
+      "answer": "KASA",
       "row": 0,
-      "col": 3,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Müzikte susma işareti",
-      "answer": "ES",
-      "row": 1,
+      "text": "Berrak",
+      "answer": "DURU",
+      "row": 0,
       "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "La'dan sonraki nota",
-      "answer": "Sİ",
-      "row": 1,
-      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Alan ölçü birimi (100 m²)",
-      "answer": "AR",
+      "text": "Gizli, kurnaz",
+      "answer": "SİNSİ",
       "row": 2,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Polonyum için kullanılan kimyasal simge",
-      "answer": "PO",
+      "text": "Yut, kana kana",
+      "answer": "İÇ",
       "row": 2,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Elle oynanan file sporu",
-      "answer": "VOLEY",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İlgili, ilişkin",
-      "answer": "AİT",
+      "text": "Alçak gönüllülük",
+      "answer": "TEVAZU",
       "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayvanlara verilen besin",
-      "answer": "YEM",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yoğun, tutkulu sevgi",
-      "answer": "AŞK",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yabancı kimse",
-      "answer": "EL",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Konuşma organı; lisan",
-      "answer": "DİL",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Siyah beyaz çizgili at benzeri hayvan",
-      "answer": "ZEBRA",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Adalete taşınan anlaşmazlık",
-      "answer": "DAVA",
-      "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Çin'in kuzeyindeki başkent",
-      "answer": "PEKİN",
+      "text": "Erkek kardeş",
+      "answer": "BİRADER",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Duvar kireci",
+      "answer": "BADANA",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ulaşım belgesi",
+      "answer": "PASO",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Onuncu ay",
+      "answer": "EKİM",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yapılan yanlış",
+      "answer": "HATA",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Emevilerin merkezi",
+      "answer": "ŞAM",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Lüks gezinti gemisi",
-      "answer": "YAT",
+      "text": "Yumuşak, hoş",
+      "answer": "LATİF",
       "row": 8,
-      "col": 5,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "'Nâzım Hikmet ...' soyadı",
-      "answer": "RAN",
+      "text": "İlave, ek",
+      "answer": "DAHA",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Beklenmedik talihsiz olay",
-      "answer": "KAZA",
+      "text": "Uzaktaki yer",
+      "answer": "ORA",
       "row": 9,
-      "col": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Hastalıktan kurtulma",
-      "answer": "ŞİFA",
+      "text": "Gevşek karşıtı",
+      "answer": "SIKI",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bin kilogram",
-      "answer": "TON",
+      "text": "Miktar sorusu",
+      "answer": "KAÇ",
       "row": 10,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Geçmiş olayları inceleyen bilim dalı",
-      "answer": "TARİH",
+      "text": "Uzun boyunlu hayvan",
+      "answer": "ZÜRAFA",
       "row": 11,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Element tablosunda Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 11,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Ata dizisi, nesep",
-      "answer": "SOY",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hardal gazı olarak da bilinen zehirli gaz",
-      "answer": "İPERİT",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "'Vasıtasıyla' anlamındaki edat",
-      "answer": "İLE",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Vücudun beyni barındıran üst kısmı",
-      "answer": "KAFA",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İlaç, merhem (halk dili)",
-      "answer": "EM",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuveyt ve Irak gibi ülkelerin para birimi",
-      "answer": "DİNAR",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kasım ayında başlayan burç",
-      "answer": "YAY",
+      "text": "Alt görevli",
+      "answer": "AST",
       "row": 0,
-      "col": 4,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Minareden okunan davet",
-      "answer": "EZAN",
+      "text": "Yiğit savaşçı",
+      "answer": "BAHADIR",
       "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "La'dan sonraki nota",
+      "answer": "Sİ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Merdiven bölümü",
+      "answer": "BASAMAK",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Panzehir",
+      "answer": "ANTİDOT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sürat",
+      "answer": "HIZ",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bitki camlığı",
+      "answer": "SERA",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ateşin yükselen dili",
-      "answer": "ALEV",
-      "row": 3,
+      "text": "Kızılımsı sarı",
+      "answer": "ALA",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Deli, kaçık",
+      "answer": "DİVANE",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sofraya konan sıcak yemek",
-      "answer": "AŞ",
+      "text": "Adanan şey, nezir",
+      "answer": "ADAK",
       "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Taze karşıtı",
-      "answer": "BAYAT",
-      "row": 5,
+      "text": "El sıkışma",
+      "answer": "TOKA",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Televizyonda haberleri okuyan kişi",
-      "answer": "SPİKER",
+      "text": "Çay ilimiz",
+      "answer": "RİZE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Renksiz, kokusuz atmosfer gazı",
-      "answer": "AZOT",
-      "row": 7,
+      "text": "Suçunu söyleme",
+      "answer": "İTİRAF",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Küçük, yeşil bitki türü",
-      "answer": "OT",
-      "row": 1,
+      "text": "Dik yar",
+      "answer": "UÇURUM",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 5,
+      "text": "Görünüm, kılık",
+      "answer": "FAÇA",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -260,43 +232,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 5
+      "col": 4
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 1,
+      "row": 3,
       "col": 0
     },
     {
       "row": 4,
-      "col": 8
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 2
+      "row": 7,
+      "col": 5
     },
     {
       "row": 10,
       "col": 4
+    },
+    {
+      "row": 11,
+      "col": 0
     }
   ],
   "difficulty": "kolay",

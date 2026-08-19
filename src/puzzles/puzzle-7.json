@@ -5,211 +5,155 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Re ile Fa arasındaki nota",
-      "answer": "Mİ",
+      "text": "Açgözlülük",
+      "answer": "TAMAH",
+      "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Anıtsal kapı",
+      "answer": "TAK",
       "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İskambilde koz",
-      "answer": "ATU",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Belirli bir şekli olmayan akışkan madde",
-      "answer": "GAZ",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Anlama, hatırlama ünlemi",
-      "answer": "HA",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kulağın algıladığı titreşim",
-      "answer": "SES",
-      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kuşun yumurtladığı barınak",
-      "answer": "YUVA",
+      "text": "Tropik meyve",
+      "answer": "ANANAS",
       "row": 3,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yüz kızartan duygu",
-      "answer": "AR",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Gövdenin ortası",
-      "answer": "BEL",
-      "row": 4,
+      "text": "İbadet yeri",
+      "answer": "CAMİ",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bir konudaki kişisel düşünce",
-      "answer": "KANI",
+      "text": "Koruyucu uygulama",
+      "answer": "AŞI",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Dörtten sonraki sayı",
+      "answer": "BEŞ",
       "row": 5,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kervanların konakladığı eski yapı",
-      "answer": "HAN",
-      "row": 6,
-      "col": 2,
+      "text": "Geniş karşıtı",
+      "answer": "DAR",
+      "row": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Salonun özel ayrılmış bölmesi",
-      "answer": "LOCA",
-      "row": 6,
+      "text": "Tören",
+      "answer": "MERASİM",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İçte beslenen düşmanlık",
-      "answer": "KİN",
+      "text": "Enerji üretim yeri",
+      "answer": "SANTRAL",
       "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Üzerinde gözleme pişirilen düz metal",
-      "answer": "SAC",
-      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Alaca, benekli renk",
-      "answer": "ALA",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sanayi, endüstri",
-      "answer": "URAN",
+      "text": "Boy ölçüsü",
+      "answer": "UZUNLUK",
       "row": 9,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kuşaktan kuşağa aktarılan olağanüstü anlatı",
-      "answer": "EFSANE",
+      "text": "Bozulmamış, bayatlamamış",
+      "answer": "TAZE",
       "row": 10,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Germanyum'un simgesi",
-      "answer": "GE",
+      "text": "Gereksiz, yersiz",
+      "answer": "ABES",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Görüntü alıcısı",
+      "answer": "KAMERA",
       "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kareli kumaş",
-      "answer": "EKOSE",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Olağanüstü halk anlatısı",
-      "answer": "MASAL",
-      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Kalsiyum'un simgesi",
-      "answer": "CA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Belirti, emare",
-      "answer": "İZ",
-      "row": 0,
+      "text": "Söz kesme",
+      "answer": "NİŞAN",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kabe'yi ziyaret ibadeti",
-      "answer": "HAC",
+      "text": "Gözleri görmeyen",
+      "answer": "AMA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Damar aracı",
+      "answer": "STENT",
       "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Giysinin boyna gelen bölümü",
-      "answer": "YAKA",
-      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Zihinsel güç",
-      "answer": "US",
+      "text": "Ender",
+      "answer": "NADİR",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sol'den sonraki nota",
+      "answer": "LA",
       "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce bacaklı, ürkek hayvan",
-      "answer": "AHU",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İç Anadolu'daki başkentimiz",
-      "answer": "ANKARA",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Odanın üst yüzeyi",
-      "answer": "TAVAN",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Duyuru",
-      "answer": "İLAN",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Çiçeklerden bal üreten böcek",
-      "answer": "ARI",
+      "text": "Süreç adımı",
+      "answer": "AŞAMA",
       "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Becerikli, yetenekli",
+      "answer": "UZ",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Saz örtüsü",
+      "answer": "HASIR",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Güzel kokulu bir bitki",
-      "answer": "NANE",
+      "text": "İz, benek",
+      "answer": "LEKE",
       "row": 6,
       "col": 7,
       "arrow": "down"
@@ -226,31 +170,47 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 2
     },
     {
       "row": 0,
-      "col": 7
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 1,
+      "col": 1
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 3
+      "row": 8,
+      "col": 1
     },
     {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
+      "row": 8,
       "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
     },
     {
       "row": 10,
       "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 2
     }
   ],
   "difficulty": "orta",

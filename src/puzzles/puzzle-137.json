@@ -5,275 +5,254 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Do-re-mi'nin son hecesi",
-      "answer": "Mİ",
+      "text": "Yakışıksız davranış",
+      "answer": "HALT",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Elle oynanan file sporu",
-      "answer": "VOLEY",
+      "text": "Geniş karşıtı",
+      "answer": "DAR",
       "row": 0,
-      "col": 4,
+      "col": 6,
       "arrow": "down-right"
     },
     {
-      "text": "Topu takım arkadaşına aktarma",
-      "answer": "PAS",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gömleğin boyun kısmı",
-      "answer": "YAKA",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kanatlı kutsal varlık",
-      "answer": "MELEK",
-      "row": 2,
+      "text": "Türk yas töreni",
+      "answer": "YOĞ",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gam dizisinde ikinci nota",
-      "answer": "RE",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çukurova'nın büyük şehri",
-      "answer": "ADANA",
-      "row": 4,
+      "text": "Dinî ezgi",
+      "answer": "İLAHİ",
+      "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Milli İstihbarat Teşkilatı'nın kısa adı",
-      "answer": "MİT",
-      "row": 4,
+      "text": "Şişede esans",
+      "answer": "PARFÜM",
+      "row": 3,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Salataya sıkılan ekşi meyve",
-      "answer": "LİMON",
+      "text": "Bazik madde",
+      "answer": "ALKALİ",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Dizge",
+      "answer": "SİSTEM",
       "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dönemden kalma büyük ev",
-      "answer": "KONAK",
-      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Element tablosunda Radyum'un simgesi",
-      "answer": "RA",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ege'nin incisi sayılan büyük ilimiz",
-      "answer": "İZMİR",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Altın için kullanılan kimyasal simge",
-      "answer": "AU",
-      "row": 8,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Çek Cumhuriyeti'nin başkenti",
-      "answer": "PRAG",
-      "row": 8,
+      "text": "Kesme aracı",
+      "answer": "MAKAS",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Nişan, alamet",
-      "answer": "İM",
-      "row": 10,
+      "text": "Formda, zinde",
+      "answer": "FİT",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sekizli dizinin ilk sesi",
-      "answer": "DO",
+      "text": "Orta saha oyuncusu",
+      "answer": "HAF",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alaka",
+      "answer": "İLGİ",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilim kolu",
+      "answer": "DAL",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Harcama, kullanma",
+      "answer": "SARF",
       "row": 9,
       "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kötek",
+      "answer": "DAYAK",
+      "row": 9,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eski dilde dünya, cihan",
-      "answer": "ACUN",
+      "text": "Kısa hatırlatma",
+      "answer": "NOT",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyüme, gelişme, çoğalma",
+      "answer": "NEMA",
       "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ayak direme",
-      "answer": "İNAT",
-      "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hayvanların yer altındaki yuvası",
-      "answer": "İN",
-      "row": 12,
-      "col": 6,
+      "text": "Bir denizimiz",
+      "answer": "EGE",
+      "row": 11,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Hardal kokulu savaş gazı",
-      "answer": "İPERİT",
+      "text": "Çiçeğin yaprağı",
+      "answer": "TAÇ",
+      "row": 12,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İstemsiz hareket",
+      "answer": "TİK",
+      "row": 12,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Dikkat sözü",
+      "answer": "HOP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Cüsseli, büyük",
-      "answer": "İRİ",
-      "row": 7,
+      "text": "Az pişmiş yumurta",
+      "answer": "RAFADAN",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tamirde kullanılan avadanlık",
-      "answer": "ALET",
-      "row": 1,
+      "text": "Eskiden zengin kimse",
+      "answer": "AĞA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Vakit",
-      "answer": "ZAMAN",
-      "row": 7,
+      "text": "Yeterlilik",
+      "answer": "KİFAYET",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Selenyum'un simgesi",
-      "answer": "SE",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Magnezyum'un simgesi",
-      "answer": "MG",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Kalsiyum'un simgesi",
-      "answer": "CA",
-      "row": 10,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gıdaların enerji değeri birimi",
-      "answer": "KALORİ",
+      "text": "Gözlem",
+      "answer": "RASAT",
       "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "And hayvanı",
+      "answer": "LAMA",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gürcistan'ın başkenti",
+      "answer": "TİFLİS",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İpek böceğinin besini olan meyve",
-      "answer": "DUT",
+      "text": "Miktar sorusu",
+      "answer": "KAÇ",
       "row": 9,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Seçmenin kullandığı tercih hakkı",
-      "answer": "OY",
-      "row": 0,
+      "text": "Gösterişli yaşayış",
+      "answer": "LÜKS",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bazı Arap ülkelerinin para birimi (Ürdün, Irak vb.)",
-      "answer": "DİNAR",
-      "row": 3,
+      "text": "Su buharı",
+      "answer": "SİS",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dokuzu izleyen sayı",
-      "answer": "ON",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Lantan'ın simgesi",
-      "answer": "LA",
+      "text": "Evlenen erkek, güveyi",
+      "answer": "DAMAT",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Görme engelli kişi (eski dilde)",
-      "answer": "AMA",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sona getirilen parça",
-      "answer": "EK",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Yazıda cümleyi bitiren işaret",
-      "answer": "NOKTA",
-      "row": 3,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir seslenme sözü",
-      "answer": "YA",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir bakışta geçen süre",
-      "answer": "AN",
-      "row": 3,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Akıl",
-      "answer": "US",
+      "text": "Beddua, kargış",
+      "answer": "LANET",
       "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Göğüs geçirme",
+      "answer": "AH",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Aleyh karşıtı",
+      "answer": "LEH",
+      "row": 3,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Sarsılmış boksör",
+      "answer": "GROGİ",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses uygunluğu",
+      "answer": "RİTİM",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Şöhret, şan",
-      "answer": "ÜN",
-      "row": 10,
+      "text": "Dana eti dilimi",
+      "answer": "BİFTEK",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -281,59 +260,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
       "col": 3
     },
     {
-      "row": 6,
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 4,
       "col": 0
     },
     {
       "row": 6,
-      "col": 8
+      "col": 6
     },
     {
       "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 6
-    },
-    {
-      "row": 11,
-      "col": 7
+      "col": 4
     },
     {
       "row": 12,
-      "col": 5
+      "col": 0
     }
   ],
   "difficulty": "orta",

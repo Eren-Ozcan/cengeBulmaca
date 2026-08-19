@@ -5,226 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Hikâye",
-      "answer": "ÖYKÜ",
+      "text": "Dikkat sözü",
+      "answer": "HOP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yapma, etme (eski dilde)",
-      "answer": "İKA",
+      "text": "Pişmanlık, üzüntü",
+      "answer": "ESEF",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Dönümün onda biri olan ölçü",
-      "answer": "AR",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Pak, temiz anlamında da kullanılan renk",
-      "answer": "AK",
-      "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Müzikte susma işareti",
-      "answer": "ES",
+      "text": "Karışık renkli",
+      "answer": "ALACA",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Çiftin ilk sayısı",
-      "answer": "İKİ",
+      "text": "Hoşluk",
+      "answer": "LETAFET",
       "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Atmosferin yaklaşık %78'ini oluşturan gaz",
-      "answer": "AZOT",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ustanın yanında meslek öğrenen genç",
-      "answer": "ÇIRAK",
-      "row": 4,
+      "text": "Boş ağırlık",
+      "answer": "DARA",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sıvı ve gaz olmayan madde hâli",
-      "answer": "KATI",
-      "row": 6,
+      "text": "Burun duyumu",
+      "answer": "KOKU",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yayla atılan ince silah",
-      "answer": "OK",
+      "text": "Hint unvanı",
+      "answer": "RACA",
       "row": 6,
-      "col": 5,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Sahne dansı sanatı",
-      "answer": "BALE",
+      "text": "Erin üstü",
+      "answer": "ONBAŞI",
       "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Emeğin karşılığı olan şey",
-      "answer": "HAK",
-      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Volkandan fışkıran akkor madde",
-      "answer": "LAV",
+      "text": "Ekleme, ulama",
+      "answer": "İLAVE",
       "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Menekşe rengi",
+      "answer": "MOR",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski dilde çivi",
+      "answer": "MIH",
+      "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Babanın kız kardeşi",
-      "answer": "HALA",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Gözleri farklı renkte kedisiyle bilinen ilimiz",
-      "answer": "VAN",
+      "text": "Konu dışı",
+      "answer": "AFAKİ",
       "row": 10,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Nâzım Hikmet'in soyadı",
-      "answer": "RAN",
+      "text": "Ekin sapı",
+      "answer": "ANIZ",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ağır yük kaldırma makinesi",
-      "answer": "VİNÇ",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Başın altına konan destek",
-      "answer": "YASTIK",
+      "text": "Otlatma yeri",
+      "answer": "OTLAK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Atmosferi oluşturan gaz karışımı",
-      "answer": "HAVA",
-      "row": 7,
+      "text": "Ağaçlık alan",
+      "answer": "ORMAN",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kimyada Kripton'un simgesi",
-      "answer": "KR",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dört tekerlekli taşıt",
-      "answer": "ARABA",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir bakışta geçen süre",
-      "answer": "AN",
-      "row": 9,
+      "text": "Morfin türevi",
+      "answer": "EROİN",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
       "text": "Hücum, hamle",
       "answer": "ATAK",
-      "row": 4,
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Düşünme ve karar verme yetisi",
-      "answer": "AKIL",
-      "row": 3,
+      "text": "Azıcık",
+      "answer": "BİRAZ",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Göz rengi",
+      "answer": "ELA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Aynı anda doğan kardeşlerden her biri",
-      "answer": "İKİZ",
+      "text": "Avrupa-Asya sınırı",
+      "answer": "URAL",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Katıksız, arı",
+      "answer": "SAF",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Fındık rengi göz",
-      "answer": "ELA",
-      "row": 6,
+      "text": "Süreç adımı",
+      "answer": "AŞAMA",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Birlikte şarkı söyleyen topluluk",
-      "answer": "KORO",
-      "row": 2,
+      "text": "Kraliçe",
+      "answer": "ECE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kırmızı renk",
-      "answer": "AL",
-      "row": 7,
+      "text": "Sulanmış, biçimsiz",
+      "answer": "CIVIK",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "pH değeri 7'nin altında olan madde",
-      "answer": "ASİT",
+      "text": "Satış belgesi",
+      "answer": "FATURA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sevinç, memnunluk",
-      "answer": "KIVANÇ",
-      "row": 5,
+      "text": "Yetkin, uzman",
+      "answer": "EHİL",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -232,38 +190,42 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 2
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 3,
       "col": 3
     },
     {
-      "row": 5,
-      "col": 5
-    },
-    {
-      "row": 7,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
+      "row": 4,
       "col": 5
     },
     {
-      "row": 10,
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 4
+    },
+    {
+      "row": 11,
+      "col": 5
+    },
+    {
+      "row": 11,
       "col": 6
     }
   ],

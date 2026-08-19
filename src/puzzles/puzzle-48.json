@@ -5,205 +5,142 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Çizgi",
-      "answer": "HAT",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Büyük taş kütlesi",
-      "answer": "KAYA",
+      "text": "Taze karşıtı",
+      "answer": "BAYAT",
       "row": 1,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Do'dan sonraki nota",
-      "answer": "RE",
+      "text": "Başıboş",
+      "answer": "AVARE",
       "row": 2,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Altının saflık ölçüsü",
-      "answer": "AYAR",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kış mevsiminin beyaz yağışı",
-      "answer": "KAR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir şeye gönülden razı olma",
-      "answer": "RIZA",
+      "text": "Mahluk",
+      "answer": "YARATIK",
       "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Şekli sabit madde durumu",
-      "answer": "KATI",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yemek pişirilen büyük kap",
-      "answer": "KAZAN",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Masallardaki büyücü kadın",
-      "answer": "CADI",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yüz metrekarelik alan ölçüsü",
-      "answer": "AR",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Belirli vadede ödenen borç kağıdı",
-      "answer": "BONO",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hatıra",
-      "answer": "ANI",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İpek böceğinin besini olan meyve",
-      "answer": "DUT",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gün ağarması",
-      "answer": "TAN",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeşil yapraklı kış sebzesi",
-      "answer": "LAHANA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir bakliyat türü",
-      "answer": "ARAKA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Geçici yenilik düşkünlüğü",
-      "answer": "MODA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İki kefeli tartı aracı",
-      "answer": "TERAZİ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tufan kıssasının peygamberi",
-      "answer": "NUH",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tantal için kullanılan kimyasal simge",
-      "answer": "TA",
+      "text": "İç giysi",
+      "answer": "FANİLA",
       "row": 3,
-      "col": 3,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Beşlik çizgi üzerine yazılan işaret",
-      "answer": "NOTA",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Koloni halinde yaşayan çalışkan böcek",
-      "answer": "KARINCA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Pençeli, kalın postlu orman hayvanı",
-      "answer": "AYI",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Soyun geldiği kişi",
-      "answer": "ATA",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kağıda dökülen harfler bütünü",
-      "answer": "YAZI",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İnek yavrusu",
-      "answer": "DANA",
+      "text": "Yetersiz, az",
+      "answer": "KIT",
       "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Değerli kırmızı taş",
+      "answer": "LAL",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kara parçası",
+      "answer": "ADA",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalaylı sac",
+      "answer": "TENEKE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuşların ağzı",
+      "answer": "GAGA",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hak etme",
+      "answer": "LİYAKAT",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Geçmişin izi",
+      "answer": "ANI",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Melodi",
+      "answer": "EZGİ",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalın erkek sesi",
+      "answer": "BARİTON",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Saf, şaşkın",
+      "answer": "AVAL",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İş birimi",
+      "answer": "ERG",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yataktan kalkamayan",
+      "answer": "YATALAK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Katıksız",
+      "answer": "ARI",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Boşluk, mesafe",
-      "answer": "ARA",
-      "row": 0,
-      "col": 7,
+      "text": "Sayı, tane",
+      "answer": "ADET",
+      "row": 4,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Unlu mamullerin pişirildiği işletme",
-      "answer": "FIRIN",
-      "row": 4,
+      "text": "Meksika içkisi",
+      "answer": "TEKİLA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -211,19 +148,67 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
     },
     {
-      "row": 4,
-      "col": 5
+      "row": 0,
+      "col": 2
     },
     {
-      "row": 5,
-      "col": 5
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 0
     },
     {
       "row": 6,
       "col": 0
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 3
+    },
+    {
+      "row": 10,
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 5
     },
     {
       "row": 10,

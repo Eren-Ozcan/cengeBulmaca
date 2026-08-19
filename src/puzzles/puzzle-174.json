@@ -5,247 +5,191 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Piramitlere yakın Mısır başkenti",
-      "answer": "KAHİRE",
+      "text": "Muhtemel",
+      "answer": "OLASI",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Notalarda dördüncü sıradaki ses",
-      "answer": "FA",
+      "text": "Olumlu",
+      "answer": "MÜSPET",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ters, huysuz",
-      "answer": "AKSİ",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
+      "text": "Türkiye'nin başkenti",
+      "answer": "ANKARA",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Takvimin bir dilimi",
-      "answer": "AY",
-      "row": 3,
-      "col": 5,
+      "text": "Üstün gelen",
+      "answer": "GALİP",
+      "row": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Aralıksız, seyrek karşıtı",
-      "answer": "SIK",
+      "text": "Para torbası",
+      "answer": "KESE",
       "row": 4,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Karışık renkli, benekli",
+      "text": "Açık kestane rengi",
       "answer": "ALA",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "'Aa, tamam' anlamında ünlem",
-      "answer": "HA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "En arkadaki, sonuncu",
-      "answer": "SON",
       "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Periyodik tablodaki Sodyum'un simgesi",
-      "answer": "NA",
+      "text": "Mikroskobik asalak",
+      "answer": "VİRÜS",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Görüntü yansıtan sırlı cam",
-      "answer": "AYNA",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yer altındaki doğal oyuk",
-      "answer": "MAĞARA",
+      "text": "Hisse, parça",
+      "answer": "PAY",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ocakta kızartma yapılan kap",
-      "answer": "TAVA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kurum, duman lekesi",
-      "answer": "İS",
+      "text": "İçi boş, değersiz",
+      "answer": "KOF",
       "row": 7,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Denizde tehlikeli sert rüzgar",
-      "answer": "BORA",
-      "row": 9,
-      "col": 3,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Zihinde canlandırılan şey",
-      "answer": "HAYAL",
-      "row": 10,
-      "col": 2,
+      "text": "Denk, eş",
+      "answer": "TAY",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bilet satış penceresi",
-      "answer": "GİŞE",
-      "row": 10,
+      "text": "Etrafı su ile çevrili",
+      "answer": "ADA",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Eşlerin ebeveynleri",
+      "answer": "DÜNÜR",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hatıra",
-      "answer": "ANI",
-      "row": 11,
-      "col": 4,
+      "text": "Birazcık",
+      "answer": "AZ",
+      "row": 9,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Cezayı kaldırma",
-      "answer": "AF",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
+      "text": "Geri dönme",
+      "answer": "RÜCU",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Yaratıcı beceri dalı",
-      "answer": "SANAT",
+      "text": "Tutulan kimse",
+      "answer": "REHİNE",
+      "row": 11,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağızdan ağıza yayılan",
+      "answer": "TEVATÜR",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Zemine serilen desenli dokuma",
-      "answer": "HALI",
+      "text": "Kör",
+      "answer": "AMA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Toprak sahibi, nüfuzlu kişi",
-      "answer": "AĞA",
-      "row": 5,
+      "text": "Öldürücü zehir",
+      "answer": "SİYANÜR",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ağabey için kullanılan hitap",
-      "answer": "AKA",
-      "row": 2,
+      "text": "Deniz canlısı",
+      "answer": "SÜNGER",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Avlanan hayvan",
-      "answer": "AV",
-      "row": 6,
+      "text": "Erdemce üstün",
+      "answer": "YÜCE",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Helyum için kullanılan kimyasal simge",
-      "answer": "HE",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Antik Mısır tanrılarından biri",
-      "answer": "RA",
+      "text": "Boşa çıkarma",
+      "answer": "ISKA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Motorlu taşıt",
-      "answer": "ARABA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Dilbilgisinde kelimeye eklenen parça",
-      "answer": "EK",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dünyanın en kalabalık kıtası",
-      "answer": "ASYA",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yazma kenarlarına işlenen süsleme",
-      "answer": "OYA",
+      "text": "Manevi varlık",
+      "answer": "RUH",
       "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Asker kemeri",
+      "answer": "PALASKA",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Misafirlerin ağırlandığı geniş oda",
-      "answer": "SALON",
+      "text": "Erkek cins",
+      "answer": "ERİL",
       "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Farsça konuşulan komşu ülke",
-      "answer": "İRAN",
-      "row": 7,
+      "text": "Meslek kuruluşu",
+      "answer": "ODA",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Mozart'ın şehri, Avusturya başkenti",
-      "answer": "VİYANA",
-      "row": 0,
+      "text": "Şişe tıkacı",
+      "answer": "TAPA",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Pazartesiden sonraki gün",
-      "answer": "SALI",
-      "row": 7,
+      "text": "Evre, safha",
+      "answer": "FAZ",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -253,27 +197,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 3,
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
       "row": 3,
-      "col": 4
-    },
-    {
-      "row": 9,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 2
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
+      "row": 11,
+      "col": 0
     }
   ],
   "difficulty": "zor",

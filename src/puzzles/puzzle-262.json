@@ -5,294 +5,246 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Antakya'dan geçen ırmak",
-      "answer": "ASİ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kripton'un simgesi",
-      "answer": "KR",
+      "text": "Namaz görevlisi",
+      "answer": "İMAM",
       "row": 1,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Eski dilde alev, ateş",
-      "answer": "OD",
-      "row": 1,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Adem ile Havva kıssasında geçen meyve",
-      "answer": "ELMA",
+      "text": "Gök-yer çizgisi",
+      "answer": "UFUK",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çiftin ilk sayısı",
-      "answer": "İKİ",
+      "text": "Bugünden önceki gün",
+      "answer": "DÜN",
       "row": 2,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Bağlama edatı",
-      "answer": "VE",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Periyodik tablodaki Cıva'nın simgesi",
-      "answer": "HG",
-      "row": 3,
+      "text": "Hitap ünlemi",
+      "answer": "BRE",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mısır'ın başkenti",
-      "answer": "KAHİRE",
+      "text": "Kuru, sert soğuk",
+      "answer": "AYAZ",
       "row": 3,
       "col": 3,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Sicim, halat",
-      "answer": "İP",
-      "row": 5,
+      "text": "Akıtma oluğu",
+      "answer": "ARK",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırmızı veya beyazı olan besin",
-      "answer": "ET",
-      "row": 5,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Süt beyazı renk",
-      "answer": "AK",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Öç alma isteği",
-      "answer": "KİN",
-      "row": 6,
+      "text": "Gücü yetmeyen, güçsüz",
+      "answer": "ACİZ",
+      "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kimyada Radyum'un simgesi",
-      "answer": "RA",
+      "text": "Çok sıkı",
+      "answer": "SIMSIKI",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kaybolma",
+      "answer": "ZAYİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Katmerli sebze",
+      "answer": "LAHANA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Suudi Arabistan ve İran'ın para birimi",
-      "answer": "RİYAL",
+      "text": "Dev Kaliforniya ağacı",
+      "answer": "SEKOYA",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Verimlilik, feyz",
-      "answer": "BEREKET",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yönetim birimi, valilik bölgesi",
-      "answer": "İL",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "La'dan sonra gelen nota",
-      "answer": "Sİ",
+      "text": "Saflık derecesi",
+      "answer": "AYAR",
       "row": 9,
-      "col": 7,
-      "arrow": "down-right"
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Her gün basılan haber yaprağı",
-      "answer": "GAZETE",
+      "text": "Su taşıyıcı",
+      "answer": "SAKA",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Köyün ileri geleni",
+      "answer": "AĞA",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Üzüm suyu",
+      "answer": "ŞIRA",
       "row": 11,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Gövdeden ayrılan ağaç kolu",
-      "answer": "DAL",
+      "text": "Kimi",
+      "answer": "BAZI",
       "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kasılıp gevşeyen doku",
-      "answer": "KAS",
+      "text": "Uçan canlı",
+      "answer": "KUŞ",
       "row": 12,
-      "col": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Muhabbet",
-      "answer": "SEVGİ",
+      "text": "Danışma kurulu",
+      "answer": "ŞURA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Araç, avadanlık",
-      "answer": "ALET",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Beraberlik bildiren bağlaç",
-      "answer": "İLE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Farsça kökenli eski 'ayak' sözcüğü",
-      "answer": "PA",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Letonya'nın başkenti",
-      "answer": "RİGA",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kenarları eşit dörtgen şekil",
-      "answer": "KARE",
+      "text": "Tavla küpü",
+      "answer": "ZAR",
       "row": 5,
-      "col": 3,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kızıl renk",
-      "answer": "AL",
-      "row": 10,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yemek pişirilen büyük kap",
-      "answer": "KAZAN",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Aynı doğumda dünyaya gelen kardeşlerden her biri",
-      "answer": "İKİZ",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kişiye ait olan pay",
-      "answer": "HAK",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kolsuz giysi",
-      "answer": "YELEK",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Olumlu, hayırlı",
-      "answer": "İYİ",
+      "text": "Eski uzaklık ölçüsü",
+      "answer": "FERSAH",
       "row": 1,
-      "col": 6,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Direngenlik, dediğinden dönmeme",
-      "answer": "İNAT",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tantal'ın kimyasal simgesi",
-      "answer": "TA",
-      "row": 10,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yayla atılan ince silah",
-      "answer": "OK",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Almanya'dan geçen önemli bir Avrupa nehri",
-      "answer": "REN",
-      "row": 3,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Havadaki titreşimin kulakta yarattığı duyum",
-      "answer": "SES",
+      "text": "Osmanlı komutanı",
+      "answer": "PAŞA",
       "row": 9,
+      "col": 1,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Oranlama",
+      "answer": "KIYAS",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dişi çocuk",
+      "answer": "KIZ",
+      "row": 9,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde yapma",
+      "answer": "İKA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Diş dokusu",
+      "answer": "MİNE",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Katıksız",
+      "answer": "ARI",
+      "row": 9,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ölüm acısı",
+      "answer": "YAS",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yerel ağızda abi",
+      "answer": "AKA",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ufak ada",
+      "answer": "ADACIK",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yazma kenarındaki",
+      "answer": "OYA",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses sanatı",
+      "answer": "MÜZİK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sağlık için uygulanan beslenme düzeni",
-      "answer": "DİYET",
-      "row": 0,
-      "col": 8,
+      "text": "Zeytinden çıkan",
+      "answer": "YAĞ",
+      "row": 7,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 8,
+      "text": "Pürüz giderici",
+      "answer": "ZIMPARA",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
     {
       "row": 0,
       "col": 3
@@ -303,23 +255,31 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 8
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 8
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 6,
-      "col": 8
-    },
-    {
-      "row": 7,
-      "col": 2
-    },
-    {
-      "row": 7,
       "col": 7
     },
     {
-      "row": 7,
-      "col": 8
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 0
     },
     {
       "row": 11,
@@ -327,10 +287,14 @@
     },
     {
       "row": 11,
-      "col": 8
+      "col": 6
     },
     {
-      "row": 12,
+      "row": 11,
+      "col": 7
+    },
+    {
+      "row": 11,
       "col": 8
     }
   ],

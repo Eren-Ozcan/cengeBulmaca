@@ -5,226 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Dişleriyle yemek delen sofra aracı",
-      "answer": "ÇATAL",
+      "text": "İskambilde koz",
+      "answer": "ATU",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yemek, çorba",
+      "answer": "AŞ",
       "row": 0,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kaburga eti",
+      "answer": "PİRZOLA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gök taşı",
+      "answer": "METEOR",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yayla atılan ince silah",
-      "answer": "OK",
+      "text": "Kapsayan",
+      "answer": "HAVİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Harç aracı",
+      "answer": "MALA",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Makinedeki bozukluk",
+      "answer": "ARIZA",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bolluk",
+      "answer": "BEREKET",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dik karşıtı",
+      "answer": "EĞİK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Si'den önceki nota",
+      "answer": "LA",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Kontrol",
+      "answer": "DENETİM",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yunanistan'ın başkenti",
+      "answer": "ATİNA",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Evcil hayvan",
+      "answer": "PET",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gürültülü kavga",
+      "answer": "ARBEDE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Birine özgü",
+      "answer": "AİT",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Törpü",
+      "answer": "EĞE",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Raylı taşıt",
+      "answer": "TREN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yat limanı",
+      "answer": "MARİNA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yunan rakısı",
+      "answer": "UZO",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kımıldanma",
+      "answer": "HAREKET",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çevre, etraf",
+      "answer": "ORTALIK",
       "row": 1,
       "col": 5,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Yazılımcının yazdığı komut dizisi",
-      "answer": "KOD",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
+      "text": "Alaya alma sözü",
+      "answer": "Tİ",
+      "row": 9,
+      "col": 5,
+      "arrow": "down"
     },
     {
-      "text": "Sitem bildiren seslenme",
-      "answer": "BRE",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğal, yeşil açık alan",
-      "answer": "KIR",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bayrağımızın rengi",
+      "text": "Kırmızı renk",
       "answer": "AL",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
     },
     {
-      "text": "Tespihin uç tanesi",
-      "answer": "İMAME",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir soru sözcüğü",
-      "answer": "NE",
+      "text": "Petrol merhemi",
+      "answer": "VAZELİN",
       "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Üzerine bina dikilecek boş arazi",
-      "answer": "ARSA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Loğusaya yardım eden kadın",
-      "answer": "EBE",
-      "row": 5,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir ülkenin vatandaşları",
-      "answer": "HALK",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sona getirilen parça",
-      "answer": "EK",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kışla yaz arasındaki mevsim",
-      "answer": "BAHAR",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Element tablosunda Baryum'un simgesi",
-      "answer": "BA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Radyum'un simgesi",
-      "answer": "RA",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Derde deva olan madde (eski dilde)",
-      "answer": "EM",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Düşünme, muhakeme yetisi",
-      "answer": "US",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Satrançta bir taş",
-      "answer": "AT",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Japon halk türküsü",
-      "answer": "UTA",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Pak, temiz anlamında da kullanılan renk",
-      "answer": "AK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir selamlaşma sözü",
-      "answer": "MERHABA",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Selamlaşırken el ele tutuşma",
-      "answer": "TOKA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeşil çim üzerindeki oyun alanı",
-      "answer": "SAHA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yürüyüşte bir ayak hareketi",
-      "answer": "ADIM",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Birbirine karışık renkli",
-      "answer": "ALA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kasabın sattığı gıda",
-      "answer": "ET",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İsviçre'den Kuzey Denizi'ne akan nehir",
-      "answer": "REN",
-      "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Cilt bakım maddesi",
-      "answer": "KREM",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüzde ile ifade edilen değer",
-      "answer": "ORAN",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Akdeniz kıyısındaki Lübnan başkenti",
-      "answer": "BEYRUT",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Pul kanatlı renkli böcek",
-      "answer": "KELEBEK",
+      "text": "Yün atkı",
+      "answer": "ŞAL",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yetki simgesi değnek",
-      "answer": "ASA",
-      "row": 8,
+      "text": "Tayin",
+      "answer": "ATAMA",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -232,18 +190,50 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
     },
     {
       "row": 0,
       "col": 5
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 1,
+      "col": 0
     },
     {
-      "row": 10,
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 2
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 2
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
       "col": 0
     },
     {

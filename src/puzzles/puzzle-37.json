@@ -5,306 +5,252 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Tasa, kaygı",
-      "answer": "GAM",
-      "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Müzikte sesi gösteren işaret",
-      "answer": "NOTA",
+      "text": "Mahkemelik anlaşmazlık",
+      "answer": "DAVA",
       "row": 0,
-      "col": 5,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 2,
-      "col": 2,
+      "text": "Boyun örtüsü",
+      "answer": "ATKI",
+      "row": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sarı, kokulu yaz meyvesi",
-      "answer": "KAVUN",
+      "text": "Erkek kardeş",
+      "answer": "BİRADER",
       "row": 2,
-      "col": 1,
-      "arrow": "down-right"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "'İle' anlamında bağlaç",
-      "answer": "VE",
+      "text": "Meslek kuruluşu",
+      "answer": "ODA",
       "row": 3,
-      "col": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mısır'ın başkenti",
-      "answer": "KAHİRE",
+      "text": "Erek, gaye",
+      "answer": "AMAÇ",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Hitap ünlemi",
+      "answer": "BRE",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İsim",
-      "answer": "AD",
+      "text": "Bir çift",
+      "answer": "İKİ",
       "row": 4,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaşamın kaynağı sıvı",
-      "answer": "SU",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimyada Nikel'in simgesi",
-      "answer": "Nİ",
-      "row": 5,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Web üzerinde yayın yapan sayfa",
-      "answer": "SİTE",
-      "row": 5,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Göz açıp kapayana kadarki süre",
-      "answer": "AN",
-      "row": 6,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zarfa yapıştırılan ücret kağıdı",
-      "answer": "PUL",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Şarap, içki (eski dilde)",
-      "answer": "BADE",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Öç alma isteği",
-      "answer": "KİN",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üstünde yazı yazılan mobilya",
-      "answer": "MASA",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir kümes hayvanı",
-      "answer": "KAZ",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağırlık birimi (1000 gram)",
-      "answer": "KİLO",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "'Ne oldu?' daki soru kelimesi",
-      "answer": "NE",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kırmızıya çalan renk",
-      "answer": "AL",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Dikkat çekme ünlemi",
-      "answer": "EY",
-      "row": 11,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "İtalya'nın başkenti",
-      "answer": "ROMA",
-      "row": 12,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Büyük dede, ecdat",
-      "answer": "ATA",
-      "row": 12,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kasılıp gevşeyen doku",
-      "answer": "KAS",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
+      "text": "Onarım yeri",
+      "answer": "DOK",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Televizyonda haberleri okuyan kişi",
-      "answer": "SPİKER",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
+      "text": "Ehemmiyet",
+      "answer": "ÖNEM",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Şiirde güzelliğe benzetilen hayvan",
-      "answer": "AHU",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Avrupa'nın önemli nehirlerinden biri, Karadeniz'e dökülür",
-      "answer": "TUNA",
+      "text": "Açıkça söyleme",
+      "answer": "İKRAR",
       "row": 6,
       "col": 2,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Soğuk renklerden biri",
-      "answer": "MAVİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Basit su taşıtı",
-      "answer": "SAL",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Fiyat artışı",
-      "answer": "ZAM",
-      "row": 9,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Elemenin bir aşaması",
-      "answer": "TUR",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvanların yer altındaki yuvası",
-      "answer": "İN",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Lantan için kullanılan kimyasal simge",
-      "answer": "LA",
-      "row": 10,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Torun sahibi yaşlı kadın",
-      "answer": "NİNE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sofrada yemek konan kap",
-      "answer": "TABAK",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dokuzu izleyen sayı",
-      "answer": "ON",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Antakya'dan geçen ırmak",
-      "answer": "ASİ",
+      "text": "Büyülenmiş",
+      "answer": "MEST",
       "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Başka, öteki, diğer",
+      "answer": "SAİR",
+      "row": 7,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yuva, mesken",
+      "answer": "EV",
+      "row": 8,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Elde tutulan üstünlük",
+      "answer": "KOZ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tahta zemin",
+      "answer": "PARKE",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Para türü",
+      "answer": "NAKİT",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Şaşkınlık ünlemi",
+      "answer": "OY",
+      "row": 10,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüz örtüsü",
+      "answer": "PEÇE",
+      "row": 11,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Heves, coşku",
+      "answer": "ŞEVK",
+      "row": 12,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Tekneyi yanaştırma",
+      "answer": "ABORDA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Başlangıç karşıtı",
+      "answer": "SON",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Görüntü kaydı",
+      "answer": "VİDEO",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyük acı, ıstırap",
+      "answer": "AZAP",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Boşluk, aralık",
+      "answer": "ARA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bazıları",
+      "answer": "KİMİ",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tatlı çörek",
+      "answer": "KEK",
+      "row": 9,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Güneşte kurutulmuş tuğla",
+      "answer": "KERPİÇ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kıbrıs, Girit gibi",
+      "answer": "ADA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Demirci aracı",
+      "answer": "ÖRS",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanma olayı, od",
+      "answer": "ATEŞ",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Güvence",
+      "answer": "TEMİNAT",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Zeminin karşıtı olan üst yüzey",
-      "answer": "TAVAN",
+      "text": "Tuzlu bisküvi",
+      "answer": "KRAKER",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Terazi simgesiyle anılan kavram",
-      "answer": "ADALET",
-      "row": 6,
+      "text": "Yankı",
+      "answer": "EKO",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Selimiye Camii'nin bulunduğu şehir",
-      "answer": "EDİRNE",
+      "text": "Yeşil ot örtüsü",
+      "answer": "ÇİM",
       "row": 2,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "İğneyle yapılan ince süs işi",
-      "answer": "OYA",
-      "row": 9,
+      "text": "Yaban güvercini",
+      "answer": "ÜVEYİK",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
     {
       "row": 0,
       "col": 4
@@ -314,12 +260,40 @@
       "col": 8
     },
     {
-      "row": 2,
+      "row": 4,
+      "col": 4
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
       "col": 0
     },
     {
       "row": 11,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 7
+    },
+    {
+      "row": 12,
+      "col": 0
+    },
+    {
+      "row": 12,
+      "col": 1
+    },
+    {
+      "row": 12,
+      "col": 2
     }
   ],
   "difficulty": "zor",

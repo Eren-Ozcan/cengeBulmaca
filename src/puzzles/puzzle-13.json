@@ -5,246 +5,232 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Rusçadaki olumlu yanıt",
-      "answer": "DA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gam dizisinde üçüncü nota",
-      "answer": "Mİ",
-      "row": 0,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Genç, küçük at",
-      "answer": "TAY",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Başarı karşılığı verilen şey",
-      "answer": "ÖDÜL",
+      "text": "Toplu yer değiştirme",
+      "answer": "GÖÇ",
       "row": 1,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kıta sınırı sayılan dağ silsilesi",
-      "answer": "URAL",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir şeyin gerçek, esas hâli",
-      "answer": "ÖZ",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Hırvatistan'ın başkenti",
-      "answer": "ZAGREB",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kasapta satılan besin",
-      "answer": "ET",
-      "row": 5,
+      "text": "İlk ay",
+      "answer": "OCAK",
+      "row": 1,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Galyum için kullanılan kimyasal simge",
-      "answer": "GA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çinko'nun simgesi",
-      "answer": "ZN",
-      "row": 6,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Benzer, denk",
-      "answer": "EŞ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Cumhuriyetin başkenti",
-      "answer": "ANKARA",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ahşap veya taşa kazınan süsleme",
-      "answer": "OYMA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Damağın algıladığı lezzet",
-      "answer": "TAT",
-      "row": 9,
+      "text": "Piskopos değneği",
+      "answer": "ASA",
+      "row": 2,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Tarıma elverişli düzlük alan",
-      "answer": "OVA",
-      "row": 9,
+      "text": "Zeybek oynayan",
+      "answer": "EFE",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Element tablosunda Demir'in simgesi",
-      "answer": "FE",
-      "row": 10,
-      "col": 6,
+      "text": "Damıtma aracı",
+      "answer": "İMBİK",
+      "row": 3,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Dünya'nın uydusu",
-      "answer": "AY",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kafa; önder",
-      "answer": "BAŞ",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İskambilde en güçlü kağıt takımı",
+      "text": "Kâğıtta üstün renk",
       "answer": "ATU",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Polonya'nın en büyük şehri",
-      "answer": "VARŞOVA",
       "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Soluk",
+      "answer": "NEFES",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kırmızı renk",
+      "answer": "AL",
+      "row": 5,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Satış tutarı",
+      "answer": "CİRO",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Adet",
+      "answer": "TANE",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Gemilerin yanaştığı yer",
+      "answer": "İSKELE",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kırsal yerleşim",
+      "answer": "KÖY",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Üçgen çalgı",
+      "answer": "ARP",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Dişi cins",
+      "answer": "DİŞİL",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bağlaç",
+      "answer": "Kİ",
+      "row": 8,
+      "col": 7,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dere kıyısı tarla",
+      "answer": "BÜK",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kalın destek",
+      "answer": "DİREK",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gömülecek ölü",
+      "answer": "CENAZE",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Geçici, ölümlü",
+      "answer": "FANİ",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Alan ölçü birimi (100 m²)",
-      "answer": "AR",
-      "row": 1,
+      "text": "Başarı armağanı",
+      "answer": "ÖDÜL",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak taraf",
+      "answer": "ÖTE",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kasım sonunda başlayan burç",
-      "answer": "YAY",
-      "row": 8,
+      "text": "Mahlul",
+      "answer": "ERİYİK",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kağıda dökülen harfler bütünü",
-      "answer": "YAZI",
-      "row": 1,
+      "text": "Boş çaba",
+      "answer": "FOS",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Pencerede kullanılan saydam madde",
-      "answer": "CAM",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
+      "text": "Diş dokusu",
+      "answer": "MİNE",
       "row": 2,
-      "col": 4,
-      "arrow": "down"
+      "col": 3,
+      "arrow": "right-down"
     },
     {
-      "text": "Element tablosunda Sodyum'un simgesi",
-      "answer": "NA",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Germanyum'un kimyasal simgesi",
-      "answer": "GE",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Beyaz, kara karşıtı",
-      "answer": "AK",
+      "text": "Kural",
+      "answer": "KAİDE",
       "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İngiliz parası",
+      "answer": "STERLİN",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Beşten önceki sayı",
-      "answer": "DÖRT",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kişneyen binek hayvanı",
-      "answer": "AT",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski eserlerin sergilendiği yer",
-      "answer": "MÜZE",
+      "text": "Bedava, karşılıksız",
+      "answer": "CABA",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Savanın en uzun boyunlu hayvanı",
-      "answer": "ZÜRAFA",
+      "text": "Yiğit, kahraman",
+      "answer": "ALP",
       "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Mısır güneş tanrısı",
+      "answer": "RA",
+      "row": 9,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İstanbul'un eski adı",
+      "answer": "ASİTANE",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ülkenin idari bölümü",
-      "answer": "İL",
+      "text": "Defa, sefer",
+      "answer": "KEZ",
+      "row": 8,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Baharatlı tohum",
+      "answer": "KAKULE",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Dört basamaklı en küçük sayı",
-      "answer": "BİN",
-      "row": 3,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Yanma olayı, od",
-      "answer": "ATEŞ",
+      "text": "Ayarlanmış maç",
+      "answer": "ŞİKE",
       "row": 7,
       "col": 8,
       "arrow": "down"
@@ -253,7 +239,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
     },
     {
       "row": 0,
@@ -266,54 +256,14 @@
     {
       "row": 0,
       "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 4
     },
     {
       "row": 4,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 2
-    },
-    {
-      "row": 6,
-      "col": 2
-    },
-    {
-      "row": 6,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 3
-    },
-    {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 5
-    },
-    {
       "row": 11,
-      "col": 3
-    },
-    {
-      "row": 11,
-      "col": 4
+      "col": 0
     }
   ],
   "difficulty": "zor",

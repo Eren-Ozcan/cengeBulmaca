@@ -5,261 +5,212 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Dolaylı anlatım",
-      "answer": "İMA",
-      "row": 0,
+      "text": "Tuzlanmış torik",
+      "answer": "LAKERDA",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Büyük erkek kardeş (halk ağzı)",
-      "answer": "AKA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pençeli, kalın postlu orman hayvanı",
-      "answer": "AYI",
+      "text": "Sonradan çıkan",
+      "answer": "ARIZİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sarı veya mor renkli çekirdekli meyve",
-      "answer": "ERİK",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kahvaltılık meyve tatlısı",
-      "answer": "REÇEL",
+      "text": "Kahverengi kömür",
+      "answer": "LİNYİT",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kaba, kalın yün kumaş",
-      "answer": "ABA",
+      "text": "Gereksiz bağırma",
+      "answer": "YAYGARA",
       "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kapı çerçevesi",
+      "answer": "SÖVE",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ayak direme",
-      "answer": "İNAT",
-      "row": 4,
+      "text": "Çabuk unutan",
+      "answer": "UNUTKAN",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Temizlik parçası",
+      "answer": "BEZ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yardım sözü",
+      "answer": "AMAN",
+      "row": 7,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Bezelyeye benzer bir bitki",
-      "answer": "ARAKA",
-      "row": 4,
+      "text": "Çizgi",
+      "answer": "HAT",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çabucak geçen zaman dilimi",
+      "text": "Boyun bölümü",
+      "answer": "YAKA",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kayıp",
+      "answer": "YİTİK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kısacık süre",
       "answer": "AN",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kızıl renk",
-      "answer": "AL",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Akıl",
-      "answer": "US",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bilinçaltındaki dürtüler bütünü",
-      "answer": "İD",
-      "row": 6,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yarı karanlık",
-      "answer": "LOŞ",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Radyum için kullanılan kimyasal simge",
-      "answer": "RA",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ürdün ve Irak'ın para birimi",
-      "answer": "DİNAR",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İlkel, düz su aracı",
-      "answer": "SAL",
       "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Mısır'ın başkenti",
-      "answer": "KAHİRE",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kebabıyla ünlü ilimiz",
-      "answer": "ADANA",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Süvarinin bindiği hayvan",
-      "answer": "AT",
-      "row": 11,
       "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Rusçadaki olumlu yanıt",
-      "answer": "DA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down"
+      "text": "Kalın karton",
+      "answer": "MUKAVVA",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Yer altındaki doğal oyuk",
-      "answer": "MAĞARA",
+      "text": "Eğer",
+      "answer": "ŞAYET",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yumuşak ses",
+      "answer": "LAP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Lityum'un simgesi",
-      "answer": "Lİ",
-      "row": 7,
+      "text": "Ordu görevlisi",
+      "answer": "SUBAY",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dünya'nın uydusu",
-      "answer": "AY",
+      "text": "Namus, onur",
+      "answer": "AR",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dışarı açılan küçük teras",
-      "answer": "BALKON",
+      "text": "İdare",
+      "answer": "YÖNETİM",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bağdat'ın başkenti olduğu komşu ülke",
-      "answer": "IRAK",
-      "row": 1,
+      "text": "Rehber",
+      "answer": "KILAVUZ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eğlence için yapılan takılma",
-      "answer": "ŞAKA",
-      "row": 7,
+      "text": "Güreş bitişi",
+      "answer": "TUŞ",
+      "row": 8,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Altın'ın simgesi",
-      "answer": "AU",
-      "row": 4,
+      "text": "İşkence",
+      "answer": "EZİYET",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "'Nâzım Hikmet ...' soyadı",
-      "answer": "RAN",
+      "text": "Eski dilde yapma",
+      "answer": "İKA",
       "row": 8,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Boynuzlu, inatçı evcil hayvan",
-      "answer": "KEÇİ",
+      "text": "Boks alanı",
+      "answer": "RİNG",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Şehri çevreleyen savunma duvarı",
-      "answer": "SUR",
+      "text": "Tekerlekli tahta",
+      "answer": "KAYKAY",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "'İşte' anlamında bir ünlem",
-      "answer": "HA",
+      "text": "Yasa yapma",
+      "answer": "YASAMA",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "En yaygın bağlaç",
+      "answer": "VE",
       "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Amfitiyatro benzeri alan",
-      "answer": "ARENA",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Otoriteye karşı gelen",
-      "answer": "ASİ",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kamuya açık bildiri",
-      "answer": "İLAN",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Boşluk, mesafe",
-      "answer": "ARA",
-      "row": 8,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Temiz, lekesiz renk",
-      "answer": "AK",
+      "text": "Sırada son",
+      "answer": "AHİR",
       "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Boksta yıkılış",
+      "answer": "NAKAVT",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Denk, eş",
+      "answer": "TAY",
+      "row": 2,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Terazi simgesiyle anılan kavram",
-      "answer": "ADALET",
-      "row": 5,
+      "text": "Zola romanı",
+      "answer": "NANA",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -267,35 +218,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 8
-    },
-    {
-      "row": 6,
       "col": 6
     },
     {
-      "row": 7,
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 1,
+      "col": 8
+    },
+    {
+      "row": 3,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 4
+      "row": 4,
+      "col": 0
     },
     {
       "row": 10,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 0
+    },
+    {
+      "row": 11,
       "col": 1
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "kolay",

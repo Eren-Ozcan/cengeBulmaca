@@ -5,149 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Latife",
-      "answer": "ŞAKA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yaban hayvanı barınağı",
-      "answer": "İN",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yemek konan çukur kap",
-      "answer": "TABAK",
-      "row": 2,
-      "col": 0,
+      "text": "Şekersiz kahve",
+      "answer": "SADE",
+      "row": 1,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İşlemecilikte kullanılan seyrek dokuma kumaş",
-      "answer": "ETAMİN",
+      "text": "Polis sopası",
+      "answer": "COP",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yatak konan yer",
+      "answer": "ODA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yumurta yemeği",
+      "answer": "OMLET",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Mürekkepli mühür yastığı",
+      "answer": "ISTAMPA",
       "row": 3,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kızartma kabı",
-      "answer": "TAVA",
-      "row": 4,
-      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Bazı Arap ülkelerinin para birimi (Ürdün, Irak vb.)",
-      "answer": "DİNAR",
+      "text": "Koruyucu başlık",
+      "answer": "KASK",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Boşa çıkarma",
+      "answer": "ISKA",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sık gözlü ağ",
-      "answer": "TOR",
+      "text": "Gezi sektörü",
+      "answer": "TURİZM",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Borazan sesini anlatan hece",
-      "answer": "Tİ",
-      "row": 6,
-      "col": 5,
+      "text": "İsviçre'nin başkenti",
+      "answer": "BERN",
+      "row": 7,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Arnavutluk'un başkenti",
-      "answer": "TİRAN",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sarma yapılan kış sebzesi",
-      "answer": "LAHANA",
+      "text": "Yardımcı",
+      "answer": "MUAVİN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Allah'ın varlığını kabul etmeyen kimse",
-      "answer": "ATE",
-      "row": 0,
+      "text": "Dizge",
+      "answer": "SİSTEM",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Söylence, efsanevi anlatı",
-      "answer": "MİT",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Şekli sabit madde durumu",
-      "answer": "KATI",
+      "text": "Küçük ışık",
+      "answer": "SPOT",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Beşlik çizgi üzerine yazılan işaret",
-      "answer": "NOTA",
+      "text": "Yaş karşıtı",
+      "answer": "KURU",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kalın yünden yapılan kumaş",
-      "answer": "ABA",
+      "text": "Haşlanan hamur",
+      "answer": "MAKARNA",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Doldurulmuş yemek",
+      "answer": "DOLMA",
       "row": 0,
-      "col": 3,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Belirli gün",
-      "answer": "TARİH",
-      "row": 4,
-      "col": 3,
+      "text": "Utanmaz",
+      "answer": "EDEPSİZ",
+      "row": 0,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tahıl deposu",
-      "answer": "AMBAR",
+      "text": "Hücum, hamle",
+      "answer": "ATAK",
       "row": 1,
-      "col": 4,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Radyum'un kimyasal simgesi",
-      "answer": "RA",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Birden sonra gelen sayı",
-      "answer": "İKİ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sabahın ilk ışıkları",
-      "answer": "TAN",
+      "text": "Engelleme, yasak",
+      "answer": "MEN",
       "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Parthenon Tapınağı'nın kenti",
-      "answer": "ATİNA",
-      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -155,27 +134,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 5
+      "row": 6,
+      "col": 4
     },
     {
       "row": 8,
-      "col": 0
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
     }
   ],
   "difficulty": "kolay",

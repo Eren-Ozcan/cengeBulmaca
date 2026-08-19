@@ -5,163 +5,135 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Bolluk",
-      "answer": "BEREKET",
+      "text": "Ada beyefendi",
+      "answer": "BAY",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ses (eski dilde)",
-      "answer": "SEDA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Denizlerden büyük su kütlesi",
-      "answer": "OKYANUS",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Küçük, yeşil bitki türü",
-      "answer": "OT",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Satrançta bir taş",
-      "answer": "AT",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Beyaz, kara karşıtı",
-      "answer": "AK",
-      "row": 5,
+      "text": "Ata atla",
+      "answer": "BİN",
+      "row": 0,
       "col": 4,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Tanrıya adanan şey",
-      "answer": "ADAK",
-      "row": 6,
+      "text": "Yuvarlak kap",
+      "answer": "VARİL",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sarı, kokulu yaz meyvesi",
-      "answer": "KAVUN",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zihinsel güç",
-      "answer": "US",
-      "row": 7,
+      "text": "Bağırsak dürümü",
+      "answer": "KOKOREÇ",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Büyük dede, ecdat",
-      "answer": "ATA",
+      "text": "Görüntü alıcısı",
+      "answer": "KAMERA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tuhaf, garip",
+      "answer": "ACAYİP",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Söyleyiş biçimi",
+      "answer": "EDA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hamur açacağı",
+      "answer": "OKLAVA",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yeme organı",
+      "answer": "AĞIZ",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Merkezdeki, dahili",
-      "answer": "İÇ",
+      "text": "Evre, safha",
+      "answer": "FAZ",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yeni karşıtı",
-      "answer": "ESKİ",
+      "text": "Tropik yeşil meyve",
+      "answer": "AVOKADO",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ters, huysuz",
-      "answer": "AKSİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski dilde seçim oyu",
-      "answer": "REY",
+      "text": "Odun kömür",
+      "answer": "YAKACAK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Etrafı suyla kaplı toprak",
-      "answer": "ADA",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çekicilik katan tavır",
-      "answer": "EDA",
-      "row": 0,
+      "text": "İtalya'nın başkenti",
+      "answer": "ROMA",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ocakta kızartma yapılan kap",
-      "answer": "TAVA",
-      "row": 4,
+      "text": "Söz, lakırdı",
+      "answer": "LAF",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Küçük, hafif kayık",
-      "answer": "KANO",
+      "text": "Fert",
+      "answer": "BİREY",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İçine eşya konan karton ya da plastik kap",
-      "answer": "KUTU",
-      "row": 5,
+      "text": "Büyük toprak sahibi",
+      "answer": "AĞA",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Geleneksel Japon ezgisi",
-      "answer": "UTA",
-      "row": 2,
+      "text": "Geri karşıtı",
+      "answer": "İLERİ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sodyum'un simgesi",
-      "answer": "NA",
+      "text": "Böcek sesi",
+      "answer": "VIZ",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Su içmede kullanılan küçük kap",
-      "answer": "TAS",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Periyodik tablodaki Kripton'un simgesi",
-      "answer": "KR",
-      "row": 4,
+      "text": "Eğik kesişen",
+      "answer": "ÇAPRAZ",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -169,31 +141,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 3
     },
     {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
+      "row": 0,
       "col": 6
     },
     {
       "row": 8,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
     },
     {
       "row": 9,
-      "col": 3
+      "col": 0
     },
     {
       "row": 9,
-      "col": 5
+      "col": 1
     },
     {
       "row": 9,

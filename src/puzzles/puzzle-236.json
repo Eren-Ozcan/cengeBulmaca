@@ -5,156 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Moldova'nın en büyük şehri",
-      "answer": "KİŞİNEV",
+      "text": "Oruç ayı",
+      "answer": "RAMAZAN",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Torun sahibi yaşlı erkek",
-      "answer": "DEDE",
+      "text": "Dinî ezgi",
+      "answer": "İLAHİ",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Türk halk müziğinin telli çalgısı",
-      "answer": "SAZ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mi ile Sol arasındaki nota",
-      "answer": "FA",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğuma yardım eden sağlıkçı",
-      "answer": "EBE",
-      "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Karşılıklı değişim",
-      "answer": "TAKAS",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yüksek yer kabartısı",
-      "answer": "DAĞ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bayrağımızın rengi",
-      "answer": "AL",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kripton'un kimyasal simgesi",
-      "answer": "KR",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yeşile ve sarıya çalan göz rengi",
-      "answer": "ELA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Vilayet",
-      "answer": "İL",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Payitahtın eski adlarından biri",
-      "answer": "ASİTANE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir kişinin veya yerin bulunduğu yeri gösteren bilgi",
-      "answer": "ADRES",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Zihinsel kabiliyet",
-      "answer": "ZEKA",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Lityum için kullanılan kimyasal simge",
-      "answer": "Lİ",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İlkel benlik",
-      "answer": "İD",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Irak'ın başkenti",
-      "answer": "BAĞDAT",
+      "text": "Taş tartısı",
+      "answer": "KIRAT",
       "row": 3,
-      "col": 3,
-      "arrow": "down"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Soluk",
-      "answer": "NEFES",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
+      "text": "Gazete yazısı",
+      "answer": "MAKALE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "İşve, naz",
-      "answer": "EDA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaban hayvanı barınağı",
-      "answer": "İN",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıralama bildiren bağlaç",
-      "answer": "VE",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlı döneminde çok sevilen çiçek",
-      "answer": "LALE",
+      "text": "Dişleriyle ünlü",
+      "answer": "FİL",
       "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kur'an bölümü",
+      "answer": "SURE",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Şehvet uyandıran",
+      "answer": "EROTİK",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mikroskop parçası",
+      "answer": "LAM",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gömülecek ölü",
+      "answer": "CENAZE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sorun",
+      "answer": "MESELE",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Şeffaf mineral",
+      "answer": "MİKA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sanayi, endüstri",
+      "answer": "URAN",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şaşkın, ahmak",
+      "answer": "ALIK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İtalya'nın başkenti",
+      "answer": "ROMA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Zariflik",
+      "answer": "ZARAFET",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yer halkı",
+      "answer": "AHALİ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Birliktelik bağlacı",
+      "answer": "İLE",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Vasıf",
+      "answer": "NİTELİK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -165,32 +137,28 @@
       "col": 1
     },
     {
-      "row": 0,
-      "col": 2
-    },
-    {
       "row": 2,
-      "col": 1
+      "col": 0
     },
     {
       "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 5
-    },
-    {
-      "row": 4,
-      "col": 6
+      "col": 0
     },
     {
       "row": 5,
-      "col": 5
+      "col": 0
     },
     {
-      "row": 7,
+      "row": 8,
       "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "orta",

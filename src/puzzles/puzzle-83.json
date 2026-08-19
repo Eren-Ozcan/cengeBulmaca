@@ -5,219 +5,191 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Çukurova'nın büyük şehri",
-      "answer": "ADANA",
+      "text": "Arap harfi",
+      "answer": "VAV",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şube, birim",
+      "answer": "KOL",
       "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kareli kumaş",
-      "answer": "EKOSE",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yabancı, ecnebi (eski dilde)",
-      "answer": "EL",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İnce, uzun örtü",
-      "answer": "ŞAL",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Rus dilinde olumlama sözü",
-      "answer": "DA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Başında saç bulunmayan",
-      "answer": "KEL",
-      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İlgili, ilişkin",
-      "answer": "AİT",
-      "row": 4,
+      "text": "Yer değiştirme",
+      "answer": "BECAYİŞ",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Amme",
+      "answer": "KAMU",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yatak altı",
+      "answer": "BAZA",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aile ocağı",
-      "answer": "EV",
+      "text": "Yeşil bitki",
+      "answer": "OT",
+      "row": 4,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Mumluk",
+      "answer": "ŞAMDAN",
       "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Sıralama bildiren bağlaç",
-      "answer": "VE",
-      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gökyüzünün rengi",
-      "answer": "MAVİ",
+      "text": "Tekne kaptanı",
+      "answer": "REİS",
       "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Saç sakal tıraşı yapan kişi",
-      "answer": "BERBER",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mısır'dan geçen ırmak",
-      "answer": "NİL",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Üye",
-      "answer": "AZA",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Öğrenciye verilen değerlendirme puanı",
-      "answer": "NOT",
-      "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Saniyenin küçük bir bölümü",
-      "answer": "AN",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Eğlence için yapılan takılma",
-      "answer": "ŞAKA",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Radyum'un simgesi",
-      "answer": "RA",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Ele giyilen giysi",
-      "answer": "ELDİVEN",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kar ve süt rengi",
-      "answer": "AK",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gümüş balığı",
-      "answer": "ATERİNA",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gemi yapım ve onarım yeri",
-      "answer": "DOK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bütün halinde büyük kütle",
-      "answer": "BLOK",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İskambil kağıtlarının en değerlisi",
-      "answer": "AS",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Matematikte nesneler topluluğu",
-      "answer": "KÜME",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Element tablosunda Tantal'ın simgesi",
-      "answer": "TA",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sevinç, keyif",
-      "answer": "NEŞE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tiyatroda perde arası",
-      "answer": "ARA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yangının parlak kısmı",
-      "answer": "ALEV",
-      "row": 2,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tavla küpü",
-      "answer": "ZAR",
+      "text": "Kesinlikle",
+      "answer": "MUTLAKA",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kur'an okuyucusu",
+      "answer": "KARİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mitolojik çalgı",
+      "answer": "LİR",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Gürültü, seda",
+      "answer": "SES",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Enerji birimi",
+      "answer": "ERG",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Hat ustası",
+      "answer": "HATTAT",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alaca, lekeli",
+      "answer": "ABRAŞ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çalışma mobilyası",
+      "answer": "MASA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İki sözü bağlayan",
+      "answer": "VE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Zorunluluk",
+      "answer": "ZARURET",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Mor süs taşı",
+      "answer": "AMETİST",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kurutulmuş meyve",
+      "answer": "KAK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Konuşma organı",
+      "answer": "DİL",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İğne süsü",
+      "answer": "OYA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Soyluluk",
+      "answer": "ASALET",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ekşi, sarı meyve",
+      "answer": "LİMON",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "81 tanesi olan idari birim",
-      "answer": "İL",
+      "text": "Pislik, is",
+      "answer": "KİR",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kale vuruşu",
+      "answer": "ŞUT",
       "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Avusturya'nın başkenti",
-      "answer": "VİYANA",
-      "row": 4,
+      "text": "Değerlendirme, hüküm",
+      "answer": "YARGI",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -225,31 +197,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 3
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
+      "row": 6,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 3
-    },
-    {
-      "row": 9,
-      "col": 0
+      "row": 10,
+      "col": 6
     }
   ],
   "difficulty": "orta",

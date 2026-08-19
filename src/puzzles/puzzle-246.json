@@ -5,156 +5,135 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Kapıyı açmaya yarayan metal araç",
-      "answer": "ANAHTAR",
+      "text": "Tekrar isteği",
+      "answer": "BİS",
       "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bacadan çıkan siyah kalıntı",
-      "answer": "İS",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Klasik müziğin telli çalgısı",
-      "answer": "UD",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağırlık ölçü birimi (1000 kg)",
-      "answer": "TON",
-      "row": 3,
       "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saniyenin altmışta biri",
+      "answer": "SALİSE",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yasa yapma",
+      "answer": "YASAMA",
+      "row": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yetki simgesi değnek",
-      "answer": "ASA",
+      "text": "Spor karşılaşması",
+      "answer": "MAÇ",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cesur, mert er",
-      "answer": "ALP",
+      "text": "Bahçıvan küreği",
+      "answer": "BEL",
       "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Hatıra",
-      "answer": "ANI",
+      "text": "İnanç, görüş",
+      "answer": "KANI",
       "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Altının saflık ölçüsü",
-      "answer": "AYAR",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Düşünme, muhakeme yetisi",
-      "answer": "US",
-      "row": 5,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Menekşe rengi",
-      "answer": "MOR",
-      "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Odanın üst yüzeyi",
-      "answer": "TAVAN",
+      "text": "Susam ezmesi",
+      "answer": "TAHİN",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tavşan kanı olan",
+      "answer": "ÇAY",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Şaşkınlıkla seslenme",
+      "answer": "BRE",
       "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Savunma amaçlı taş yapı",
-      "answer": "KALE",
+      "text": "Yardımcı",
+      "answer": "MUAVİN",
       "row": 9,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nikel'in kimyasal simgesi",
-      "answer": "Nİ",
+      "text": "Kadın unvanı",
+      "answer": "BAYAN",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Miktarı gösteren rakam",
-      "answer": "SAYI",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
+      "text": "İyileştirici madde",
+      "answer": "İLAÇ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Büyük akarsu, nehir",
-      "answer": "IRMAK",
+      "text": "Dokunulmaz",
+      "answer": "TABU",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Su buharı",
+      "answer": "SİS",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Lütuf",
+      "answer": "KAYRA",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Avrupa'nın önemli nehirlerinden biri, Karadeniz'e dökülür",
-      "answer": "TUNA",
-      "row": 0,
+      "text": "İlk vakit",
+      "answer": "SABAH",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tarıma elverişli düzlük alan",
-      "answer": "OVA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İsim",
-      "answer": "AD",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İki kıtayı ayıran Rusya'daki dağlar",
-      "answer": "URAL",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Demirin nemle oksitlenmesi sonucu oluşan tabaka",
-      "answer": "PAS",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "'Nedir' sorusunun kısası",
-      "answer": "NE",
+      "text": "Oturulan yapı",
+      "answer": "EV",
       "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Basma başörtü",
+      "answer": "YEMENİ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çabuk gücenen",
+      "answer": "ALINGAN",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -162,39 +141,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 4
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 6
     },
     {
-      "row": 3,
-      "col": 5
+      "row": 5,
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 4
+      "row": 6,
+      "col": 0
     },
     {
       "row": 7,
-      "col": 0
+      "col": 5
     },
     {
       "row": 8,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
+      "row": 8,
+      "col": 5
     }
   ],
   "difficulty": "zor",

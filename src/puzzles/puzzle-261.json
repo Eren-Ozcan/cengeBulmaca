@@ -5,149 +5,156 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Mal karşılığı mal alma",
-      "answer": "TAKAS",
+      "text": "Uzak göremeyen",
+      "answer": "MİYOP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Otomobil",
-      "answer": "ARABA",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sabahın ilk ışıkları",
-      "answer": "TAN",
+      "text": "Buluş belgesi",
+      "answer": "PATENT",
       "row": 2,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Osmanlıcada 'v' sesini veren harf",
-      "answer": "VAV",
-      "row": 3,
-      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çiçek özünden arıların ürettiği besin",
-      "answer": "BAL",
+      "text": "Yabancı kimse",
+      "answer": "EL",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Öğrenci",
+      "answer": "TALEBE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kesilmiş ağaç levha",
-      "answer": "TAHTA",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Anlama, hatırlama ünlemi",
-      "answer": "HA",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kuşaktan kuşağa aktarılan olağanüstü anlatı",
-      "answer": "EFSANE",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Element tablosunda Kobalt'ın simgesi",
-      "answer": "CO",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yüreklilik",
-      "answer": "CESARET",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Farsça kökenli 'su' sözcüğü",
-      "answer": "AB",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kızgınlık, hiddet",
-      "answer": "ÖFKE",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Uçmaya yarayan organ",
-      "answer": "KANAT",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüz metrekarelik alan ölçüsü",
-      "answer": "AR",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaprakları katmerli kış sebzesi",
-      "answer": "LAHANA",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Öne sürülen görüş",
-      "answer": "SAV",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kervanların konakladığı eski yapı",
-      "answer": "HAN",
+      "text": "Kalıtım birimi",
+      "answer": "GEN",
       "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Almanya'dan geçen nehir",
+      "answer": "REN",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Süt içeceği",
+      "answer": "KEFİR",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Su sığırı",
+      "answer": "MANDA",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Deneyimsiz, acemi",
+      "answer": "TOY",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalemin sivri yeri",
+      "answer": "UÇ",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "On yüz",
+      "answer": "BİN",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İğneyle yapılan koruma",
+      "answer": "AŞI",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Tutu",
+      "answer": "İPOTEK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Seslenme sözü",
+      "answer": "YA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dağ lalesi",
+      "answer": "ANEMON",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Konaklama işletmesi",
+      "answer": "OTEL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yer kırığı",
+      "answer": "FAY",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kolsuz üstlük",
+      "answer": "PELERİN",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Periyodik tablodaki Baryum'un simgesi",
-      "answer": "BA",
+      "text": "Serseri",
+      "answer": "BERDUŞ",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Raylı taşıt",
+      "answer": "TREN",
       "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Hükümdar kadın (eski dilde)",
-      "answer": "ECE",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Havuç seven uzun kulaklı hayvan",
-      "answer": "TAVŞAN",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Küçük, yeşil bitki türü",
-      "answer": "OT",
-      "row": 7,
+      "text": "İki ışının kesişimi",
+      "answer": "AÇI",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     }
@@ -155,23 +162,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 5
     },
     {
       "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
       "col": 5
     },
     {
-      "row": 4,
-      "col": 5
-    },
-    {
-      "row": 5,
+      "row": 3,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 2
+      "row": 7,
+      "col": 0
     }
   ],
   "difficulty": "zor",
