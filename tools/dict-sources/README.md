@@ -106,7 +106,20 @@ Yeniden üretim sonrası ölçüm (300 bulmaca, 8100 soru): 5021 farklı ipucu m
 (önce 4304). Uzunluğa göre en çok tekrar: len2 4, len3 7, len4 8, len5 7,
 len6 7, len7 7.
 
-**Kaldığımız yer:** sıradaki iş 4 harfli katman — orada da 1-2 ipuçlu kelimeleri
-çıkarıp 3-5'er ipucuna tamamlamak. Her partiden sonra
+## 2026-08-20 — 4 harfli katmanda sık kullanılanlar
+
+4 harfli katman 1065 kelime, hepsi tek/iki ipuçluydu. Tümünü elden geçirmek
+yerine önce üretime en çok giren kelimeler seçildi: 300 bulmacada 3 veya daha
+çok kez kullanılan 209 kelime. Bunlara 4'er ipucu yazıldı.
+
+Yeniden üretim sonrası ölçüm (300 bulmaca, 8087 soru): 5419 farklı ipucu metni
+(3 harfli katman sonrası 5021, başlangıçta 4304). Uzunluğa göre en çok tekrar:
+len2 4, len3 7, len4 5, len5 7, len6 7, len7 8.
+
+**Kaldığımız yer:** 4 harfli katmanda 856 kelime hâlâ 1-2 ipuçlu; bunlar üretime
+seyrek girdiği için önceliği düşük. Şimdi en yüksek tekrar 7 harflilerde (8).
+Sıradaki iş, aynı "en çok kullanılanı seç" yöntemini 5, 6 ve 7 harfli katmanlara
+uygulamak. Sık kullanılanları bulmak için `src/puzzles/puzzle-*.json` içindeki
+cevapları uzunluğa göre sayan tek satırlık node betiği yeter. Her partiden sonra
 `node tools/check-dictionary.mjs`, ardından `node tools/regenerate-all.mjs`,
 `npm run puzzles:manifest` ve `npx vitest run`.
