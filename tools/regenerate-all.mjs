@@ -1,7 +1,10 @@
 // Tüm bulmacaları küresel ipucu takibiyle yeniden üretir.
 //
 // Kullanım:
-//   node tools/regenerate-all.mjs [baseSeed]
+//   node tools/regenerate-all.mjs [baseSeed] [--strict]
+//
+// --strict: aynı ipucu metni tüm üretim boyunca yalnızca bir kez kullanılır.
+// Sözlük yetmezse bulmacalar üretilemez ve eski dosyaları korunur.
 //
 // Her src/puzzles/puzzle-N.json dosyasının kimliği, başlığı, satır/sütun
 // sayısı, zorluğu ve sırası korunur; sadece ızgara ve sorular yenilenir.
@@ -20,14 +23,16 @@ const puzzleDir = join(
   "puzzles",
 );
 
-const baseSeed = Number(process.argv[2] ?? 20260819);
+const args = process.argv.slice(2);
+const strict = args.includes("--strict");
+const baseSeed = Number(args.find((a) => !a.startsWith("--")) ?? 20260819);
 
 const files = readdirSync(puzzleDir)
   .filter((f) => /^puzzle-\d+\.json$/.test(f))
   .map((f) => ({ file: f, n: Number(f.match(/\d+/)[0]) }))
   .sort((a, b) => a.n - b.n);
 
-const tracker = createTracker();
+const tracker = createTracker({ strict });
 const failures = [];
 let totalClues = 0;
 

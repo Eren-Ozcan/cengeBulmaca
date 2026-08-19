@@ -199,6 +199,44 @@ function isCovered(mask, r, c, cols, rows) {
   return inAcross || inDown;
 }
 
+// 3 harfli bloklar en bol, ama Türkçede 3 harfli kelime az: aynı ipucu 300
+// bulmaca boyunca defalarca çıkmasın diye bu geçiş, uzatılabilen 3'lükleri
+// belirli bir olasılıkla uzatarak talebi kırar. Uzatılamayan bloklar olduğu gibi
+// kalır — 3 harfli cevaplar yok olmuyor, yalnızca seyreliyor.
+function thinThreeRuns(mask, cols, rows, rnd) {
+  for (let iter = 0; iter < 20; iter++) {
+    const threes = computeRuns(mask, cols, rows).filter((s) => s.len === 3);
+    if (threes.length === 0) return;
+    let changed = false;
+    for (const run of shuffled(threes, rnd)) {
+      const opens = [];
+      if (run.dir === "across") {
+        if (run.col > 0 && mask[run.row][run.col - 1] === "#")
+          opens.push([run.row, run.col - 1]);
+        if (run.col + run.len < cols && mask[run.row][run.col + run.len] === "#")
+          opens.push([run.row, run.col + run.len]);
+      } else {
+        if (run.row > 1 && mask[run.row - 1][run.col] === "#")
+          opens.push([run.row - 1, run.col]);
+        if (run.row + run.len < rows && mask[run.row + run.len][run.col] === "#")
+          opens.push([run.row + run.len, run.col]);
+      }
+      for (const [r, c] of shuffled(opens, rnd)) {
+        mask[r][c] = ".";
+        if (
+          runLengthThrough(mask, r, c, cols, rows, "across") <= MAX_WORD_LEN &&
+          runLengthThrough(mask, r, c, cols, rows, "down") <= MAX_WORD_LEN
+        ) {
+          changed = true;
+          break;
+        }
+        mask[r][c] = "#";
+      }
+    }
+    if (!changed) return;
+  }
+}
+
 function shortenShortRuns(mask, cols, rows, rnd) {
   for (let iter = 0; iter < 80; iter++) {
     const shorts = computeRuns(mask, cols, rows).filter(
@@ -275,6 +313,7 @@ function maskProblems(mask, cols, rows, slots) {
   // uzunluk sınırı
   for (const s of slots) {
     if (s.len > MAX_WORD_LEN) return `uzun blok (${s.len})`;
+    if (s.len < MIN_WORD_LEN) return `kısa blok (${s.len})`;
   }
   // her harf hücresi en az bir bloğa ait olmalı
   const covered = Array.from({ length: rows }, () => new Array(cols).fill(false));
@@ -358,8 +397,11 @@ for (const w of WORDS) {
 // metninin 300 bulmaca boyunca defalarca çıkması. Tracker, hangi metnin kaç kez
 // kullanıldığını tutar; doldurucu az kullanılmış kelimeleri, ipucu seçimi de o
 // kelimenin en az kullanılmış varyantını tercih eder.
-export function createTracker() {
-  return { text: new Map(), answer: new Map() };
+// strict: bir ipucu metni tüm üretim boyunca yalnızca bir kez kullanılabilir.
+// Bütün varyantları tükenmiş kelimeler doldurucuya hiç aday olarak verilmez, bu
+// yüzden sözlük yetmezse üretim tıkanır — takas budur.
+export function createTracker({ strict = false } = {}) {
+  return { text: new Map(), answer: new Map(), strict };
 }
 
 // Kelimenin en az kullanılmış ipucu varyantının kullanım sayısı.
@@ -482,6 +524,18 @@ function fillGrid(slots, cols, rows, rnd, tracker, widen = 1) {
     threshold.set(len, thr);
   }
 
+  // strict modda ipucu varyantları tükenmiş kelimeler baştan elenir.
+  const banned = new Map();
+  if (tracker?.strict) {
+    for (const [len, idx] of maskIndex) {
+      const bits = new Uint32Array(idx.size);
+      for (let i = 0; i < idx.n; i++) {
+        if (wordCost(tracker, idx.list[i]) > 0) bits[i >> 5] |= 1 << (i & 31);
+      }
+      banned.set(len, bits);
+    }
+  }
+
   const scratch = slots.map((s) => new Uint32Array(maskIndex.get(s.len).size));
 
   // slot için uygun kelimelerin bit maskesini scratch[si]'ye yazar, sayıyı döner.
@@ -490,6 +544,10 @@ function fillGrid(slots, cols, rows, rnd, tracker, widen = 1) {
     const idx = maskIndex.get(s.len);
     const buf = scratch[si];
     buf.set(idx.all);
+    const ban = banned.get(s.len);
+    if (ban) {
+      for (let i = 0; i < idx.size; i++) buf[i] &= ~ban[i];
+    }
     const cells = slotCells[si];
     for (let p = 0; p < s.len; p++) {
       const ch = letters[cells[p][0]][cells[p][1]];
@@ -634,6 +692,8 @@ export function buildPuzzle({
     // sözü kısa blok temizliğine bırak (bu geçiş geçersiz maske üretmiyor:
     // dik yöndeki parçalar ya kayboluyor ya da en az MIN_WORD_LEN kalıyor).
     repairMask(mask, cols, rows, rnd);
+    shortenShortRuns(mask, cols, rows, rnd);
+    thinThreeRuns(mask, cols, rows, rnd);
     shortenShortRuns(mask, cols, rows, rnd);
     const slots = computeRuns(mask, cols, rows);
     if (maskProblems(mask, cols, rows, slots)) {
