@@ -153,7 +153,7 @@ function computeRuns(mask, cols, rows) {
 // ipucunun 300 bulmaca boyunca onlarca kez tekrarlanmasının asıl sebebiydi.
 // Her kısa blok için önce komşu ipucu hücresini açıp bloğu uzatmayı, olmazsa
 // bloğun bir hücresini ipucu hücresine çevirip bloğu ortadan kaldırmayı dener.
-const MIN_WORD_LEN = 3;
+const MIN_WORD_LEN = 4;
 
 // (r,c) '#' yapılırsa dik yöndeki komşu parçaların uzunlukları.
 function segmentLengths(mask, r, c, cols, rows, dir) {
@@ -203,12 +203,15 @@ function isCovered(mask, r, c, cols, rows) {
 // bulmaca boyunca defalarca çıkmasın diye bu geçiş, uzatılabilen 3'lükleri
 // belirli bir olasılıkla uzatarak talebi kırar. Uzatılamayan bloklar olduğu gibi
 // kalır — 3 harfli cevaplar yok olmuyor, yalnızca seyreliyor.
-function thinThreeRuns(mask, cols, rows, rnd) {
+function thinThreeRuns(mask, cols, rows, rnd, upTo = MIN_WORD_LEN) {
   for (let iter = 0; iter < 20; iter++) {
-    const threes = computeRuns(mask, cols, rows).filter((s) => s.len === 3);
+    const threes = computeRuns(mask, cols, rows).filter((s) => s.len <= upTo);
     if (threes.length === 0) return;
     let changed = false;
     for (const run of shuffled(threes, rnd)) {
+      // En kısa bloklar her zaman uzatılmaya çalışılır; sınırdakiler yarı yarıya
+      // bırakılır, yoksa ızgara fazla seyrekleşiyor ve üretim tıkanıyor.
+      if (run.len === upTo && rnd() < 0.5) continue;
       const opens = [];
       if (run.dir === "across") {
         if (run.col > 0 && mask[run.row][run.col - 1] === "#")
@@ -397,11 +400,15 @@ for (const w of WORDS) {
 // metninin 300 bulmaca boyunca defalarca çıkması. Tracker, hangi metnin kaç kez
 // kullanıldığını tutar; doldurucu az kullanılmış kelimeleri, ipucu seçimi de o
 // kelimenin en az kullanılmış varyantını tercih eder.
-// strict: bir ipucu metni tüm üretim boyunca yalnızca bir kez kullanılabilir.
-// Bütün varyantları tükenmiş kelimeler doldurucuya hiç aday olarak verilmez, bu
-// yüzden sözlük yetmezse üretim tıkanır — takas budur.
+// strict: bir cevap tüm üretim boyunca yalnızca bir kez kullanılabilir (ve
+// dolayısıyla ipucu metni de tekrarlanmaz). Kullanılmış kelimeler doldurucuya
+// bir daha aday olarak verilmez, bu yüzden sözlük yetmezse üretim tıkanır.
 export function createTracker({ strict = false } = {}) {
-  return { text: new Map(), answer: new Map(), strict };
+  const banned = new Map();
+  if (strict) {
+    for (const [len, idx] of maskIndex) banned.set(len, new Uint32Array(idx.size));
+  }
+  return { text: new Map(), answer: new Map(), strict, banned };
 }
 
 // Kelimenin en az kullanılmış ipucu varyantının kullanım sayısı.
@@ -433,6 +440,10 @@ export function commitToTracker(tracker, clues) {
   for (const cl of clues) {
     tracker.text.set(cl.text, (tracker.text.get(cl.text) ?? 0) + 1);
     tracker.answer.set(cl.answer, (tracker.answer.get(cl.answer) ?? 0) + 1);
+    if (!tracker.strict) continue;
+    const slot = wordSlot.get(cl.answer);
+    if (!slot) continue;
+    tracker.banned.get(slot.len)[slot.i >> 5] |= 1 << (slot.i & 31);
   }
 }
 
@@ -460,6 +471,13 @@ for (const [len, list] of byLen) {
     }
   });
   maskIndex.set(len, { list, n, size, all, pos });
+}
+
+// Cevap metninden maske dizinindeki yerine: strict modda tükenmiş kelimeyi
+// dizini yeniden taramadan işaretlemek için.
+const wordSlot = new Map();
+for (const [len, idx] of maskIndex) {
+  idx.list.forEach((w, i) => wordSlot.set(w.a, { len, i }));
 }
 
 function popcount(x) {
@@ -524,17 +542,9 @@ function fillGrid(slots, cols, rows, rnd, tracker, widen = 1) {
     threshold.set(len, thr);
   }
 
-  // strict modda ipucu varyantları tükenmiş kelimeler baştan elenir.
-  const banned = new Map();
-  if (tracker?.strict) {
-    for (const [len, idx] of maskIndex) {
-      const bits = new Uint32Array(idx.size);
-      for (let i = 0; i < idx.n; i++) {
-        if (wordCost(tracker, idx.list[i]) > 0) bits[i >> 5] |= 1 << (i & 31);
-      }
-      banned.set(len, bits);
-    }
-  }
+  // strict modda ipucu varyantları tükenmiş kelimeler baştan elenir; maske
+  // takipçide tutulduğu için doldurma başına yeniden hesaplanmaz.
+  const banned = tracker?.strict ? tracker.banned : new Map();
 
   const scratch = slots.map((s) => new Uint32Array(maskIndex.get(s.len).size));
 

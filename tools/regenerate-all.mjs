@@ -3,8 +3,9 @@
 // Kullanım:
 //   node tools/regenerate-all.mjs [baseSeed] [--strict]
 //
-// --strict: aynı ipucu metni tüm üretim boyunca yalnızca bir kez kullanılır.
-// Sözlük yetmezse bulmacalar üretilemez ve eski dosyaları korunur.
+// --strict: aynı cevap tüm üretim boyunca yalnızca bir kez kullanılır, dolayısıyla
+// aynı soru da iki bulmacada çıkmaz. Sözlük yetmezse bulmacalar üretilemez ve
+// eski dosyaları korunur.
 //
 // Her src/puzzles/puzzle-N.json dosyasının kimliği, başlığı, satır/sütun
 // sayısı, zorluğu ve sırası korunur; sadece ızgara ve sorular yenilenir.
