@@ -5,135 +5,135 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Açgözlülük",
-      "answer": "TAMAH",
+      "text": "Altyapı üstündeki",
+      "answer": "ÜSTYAPI",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Arı ürünü",
-      "answer": "BAL",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Pencere maddesi",
-      "answer": "CAM",
+      "text": "Kuram",
+      "answer": "TEORİ",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kır bekçisi",
-      "answer": "KORUCU",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Saç tokası",
-      "answer": "FİRKETE",
-      "row": 4,
+      "text": "Step",
+      "answer": "BOZKIR",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gökkuşağının sonu",
-      "answer": "MOR",
+      "text": "Duvar birleşimi",
+      "answer": "KÖŞE",
+      "row": 4,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yumuşak kumaş",
+      "answer": "FLANEL",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hekim bakısı",
+      "answer": "MUAYENE",
       "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "İlaç, merhem",
-      "answer": "EM",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Pişmanlık ünlemi",
-      "answer": "KEŞKE",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İlmikli ip",
-      "answer": "KEMENT",
+      "text": "Gelir taşınmazı",
+      "answer": "AKAR",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Adet",
-      "answer": "TANE",
+      "text": "Çam sakızı",
+      "answer": "REÇİNE",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Paylaştırma",
-      "answer": "TAKSİM",
+      "text": "Dur işareti",
+      "answer": "STOP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ahizeyi açınca denen",
-      "answer": "ALO",
+      "text": "Ürün sergisi",
+      "answer": "FUAR",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüksek lisans çalışması",
+      "answer": "TEZ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Uzay aracı",
-      "answer": "ROKET",
-      "row": 4,
+      "text": "Parlak ayakkabı derisi",
+      "answer": "LAKE",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Süt tatlısı",
-      "answer": "KREMA",
+      "text": "Var karşıtı",
+      "answer": "YOK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaya kütlesi",
+      "answer": "KAYAÇ",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tuhaf şey",
-      "answer": "ACUBE",
+      "text": "Temiz, saf",
+      "answer": "ARI",
       "row": 0,
       "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Teklif",
+      "answer": "ÖNERİ",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir işin öncüsü",
+      "answer": "PİR",
+      "row": 0,
+      "col": 5,
       "arrow": "down"
     },
     {
       "text": "Neşeli, sevinçli",
       "answer": "ŞEN",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İslam'ın beşinci şartı",
-      "answer": "HAC",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kayık türü",
-      "answer": "TEKNE",
       "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Para işleri görevlisi",
-      "answer": "MUTEMET",
-      "row": 1,
+      "text": "Kazanılmış yatkınlık",
+      "answer": "MELEKE",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     }
@@ -141,27 +141,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
+      "row": 2,
       "col": 6
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 2
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 5
     }
   ],
   "difficulty": "kolay",

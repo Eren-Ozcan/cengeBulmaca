@@ -5,163 +5,160 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Salahiyetli",
-      "answer": "YETKİLİ",
+      "text": "Solunum salgısı",
+      "answer": "BALGAM",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "El işi mesleği",
+      "answer": "ZANAAT",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tuzlu bisküvi",
-      "answer": "KRAKER",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Uzun boyunlu kap",
-      "answer": "SÜRAHİ",
+      "text": "Yahudi ibadethanesi",
+      "answer": "HAVRA",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Doktor",
-      "answer": "HEKİM",
+      "text": "Büyük başarısızlık",
+      "answer": "FİYASKO",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yeniliğe karşı",
-      "answer": "GERİCİ",
-      "row": 6,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sıkıntı, çarpıntı",
-      "answer": "HAFAKAN",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çekişme, anlaşmazlık, kavga",
-      "answer": "NİZA",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bölen çizgi",
-      "answer": "EKSEN",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Do'dan do'ya dizi",
-      "answer": "GAM",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Teknik hile",
-      "answer": "TRÜK",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yönetici",
-      "answer": "ŞEF",
+      "text": "Hollanda'nın ayakkabısı",
+      "answer": "SABO",
       "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Önce karşıtı",
+      "answer": "SONRA",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kıbrıs, Girit gibi",
+      "answer": "ADA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Genişlik",
+      "answer": "EN",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Eskiden ödeme işi",
+      "answer": "İTA",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilim, bilgi",
+      "answer": "İLİM",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Konuşulan konu",
+      "answer": "BAHİS",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Lisan",
+      "answer": "DİL",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kur'an okuyucusu",
-      "answer": "KARİ",
+      "text": "Musluklu yıkama yeri",
+      "answer": "LAVABO",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ünlü şairimizin soyadı",
-      "answer": "RAN",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yerine koyma",
-      "answer": "İKAME",
+      "text": "Servis görevlisi",
+      "answer": "GARSON",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Üçten önceki sayı",
-      "answer": "İKİ",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Aleyh karşıtı",
-      "answer": "LEH",
+      "text": "Hücum, hamle",
+      "answer": "ATAK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Müzik türü",
-      "answer": "CAZ",
-      "row": 6,
+      "text": "Olumsuz cevap",
+      "answer": "RET",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Büyük boyutlu",
-      "answer": "İRİ",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bildik, tanıdık",
-      "answer": "AŞİNA",
-      "row": 4,
+      "text": "İmkân",
+      "answer": "OLANAK",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
-      "row": 4,
-      "col": 5
-    },
-    {
-      "row": 5,
+      "row": 0,
       "col": 0
     },
     {
-      "row": 5,
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 3
     },
     {
-      "row": 5,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 0
+      "row": 8,
+      "col": 2
     },
     {
       "row": 9,
-      "col": 0
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
     }
   ],
   "difficulty": "kolay",

@@ -5,197 +5,225 @@
   "cols": 9,
   "clues": [
     {
-      "text": "İlgiyi toplama",
-      "answer": "DİKKAT",
+      "text": "Karaltı",
+      "answer": "SİLÜET",
       "row": 1,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Zeki, uslu",
-      "answer": "AKILLI",
+      "text": "Toplu gösteri",
+      "answer": "MİTİNG",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İplik sarılan",
-      "answer": "MAKARA",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yaban köpeği",
-      "answer": "KURT",
-      "row": 3,
+      "text": "Genelge",
+      "answer": "TAMİM",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sinir sistemi",
-      "answer": "ASAP",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Asılsız suçlama",
-      "answer": "İFTİRA",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Satıcı tepsisi",
-      "answer": "TABLA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gizli düşmanlık",
-      "answer": "KİN",
-      "row": 6,
+      "text": "Kraliçe",
+      "answer": "ECE",
+      "row": 3,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Yaklaşık 28 gram",
-      "answer": "ONS",
-      "row": 7,
+      "text": "Oyuncunun görevi",
+      "answer": "ROL",
+      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Toz mürekkep",
-      "answer": "TONER",
-      "row": 8,
-      "col": 3,
+      "text": "Sıkılma sesi",
+      "answer": "ÖF",
+      "row": 4,
+      "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Yük bilmeyen at",
-      "answer": "HERGELE",
-      "row": 8,
+      "text": "Şafak sökerken",
+      "answer": "TAN",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Açıkça söylememe",
+      "answer": "İMA",
+      "row": 5,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Kış karşıtı",
+      "answer": "YAZ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir kadın ismi",
+      "answer": "EMEL",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Hafif uykulu",
+      "answer": "SAK",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ululuk",
-      "answer": "AZAMET",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Üretim tesisi",
-      "answer": "FABRİKA",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kumandan",
-      "answer": "KOMUTAN",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Göz rengi",
-      "answer": "ELA",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Utanma duygusu",
-      "answer": "AR",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yazı makinesi",
-      "answer": "DAKTİLO",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tren istasyonu",
+      "text": "Peronların bulunduğu yer",
       "answer": "GAR",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Tüylü boyun atkısı",
+      "answer": "BOA",
       "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kayının eşi",
+      "answer": "ELTİ",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sacda pişen ekmek",
+      "answer": "BAZLAMA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Açı ölçme aracı",
+      "answer": "İLETKİ",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Vücut alıştırması",
+      "answer": "İDMAN",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Parlak olmayan",
+      "answer": "MAT",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Evcil olmayan",
+      "answer": "YABANİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gümüş iplik",
+      "answer": "SİM",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Destek kaması",
+      "answer": "TAKOZ",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Karşı çıkma",
+      "answer": "İTİRAZ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Osmanlıcada gerçekleştirme",
-      "answer": "İKA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Süslü hayal",
-      "answer": "FANTEZİ",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Taş tartısı",
-      "answer": "KIRAT",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sol elli",
-      "answer": "SOLAK",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Eskimeyen",
-      "answer": "KLASİK",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyüme, gelişme, çoğalma",
-      "answer": "NEMA",
+      "text": "Ulemadan biri",
+      "answer": "ALİM",
       "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ekşi, sarı meyve",
+      "answer": "LİMON",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Renkli, benekli",
+      "answer": "ALA",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tanınmışlık",
+      "answer": "ÜN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hükümran",
+      "answer": "EGEMEN",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İzmir'in bölgesi",
+      "answer": "EGE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bayrağımızın rengi",
-      "answer": "AL",
-      "row": 0,
+      "text": "Fabrika üretimi",
+      "answer": "İMALAT",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Esirgemeden veren",
+      "answer": "CÖMERT",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Önceki gün",
-      "answer": "ARİFE",
-      "row": 3,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Ot biçme aracı",
-      "answer": "TIRPAN",
-      "row": 0,
+      "text": "Gümüş balık",
+      "answer": "KEFAL",
+      "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Direksiyon parçası",
-      "answer": "ROT",
+      "text": "Hayırlı, güzel",
+      "answer": "İYİ",
       "row": 7,
       "col": 8,
       "arrow": "down"
@@ -208,27 +236,39 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 0,
+      "col": 8
     },
     {
       "row": 1,
       "col": 0
     },
     {
-      "row": 2,
+      "row": 4,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 5,
       "col": 0
-    },
-    {
-      "row": 8,
-      "col": 2
     },
     {
       "row": 9,
       "col": 7
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 6
     },
     {
       "row": 11,

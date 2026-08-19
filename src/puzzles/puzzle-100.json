@@ -5,211 +5,218 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Mantık, zihin",
-      "answer": "US",
+      "text": "Meraklı, hevesli",
+      "answer": "AMATÖR",
       "row": 0,
-      "col": 0,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Asker su kabı",
-      "answer": "MATARA",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Esenlik",
-      "answer": "SELAMET",
+      "text": "Ustalık",
+      "answer": "MARİFET",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Evcil olmayan",
-      "answer": "YABANİ",
+      "text": "Ortada, açık",
+      "answer": "AYAN",
       "row": 3,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dışarıya çıkarma",
-      "answer": "İHRAÇ",
+      "text": "Talebi geri çevirme",
+      "answer": "RET",
+      "row": 3,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Bebeği doğurtan",
+      "answer": "EBE",
       "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Emevilerin merkezi",
-      "answer": "ŞAM",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Namaza çağrı",
-      "answer": "EZAN",
+      "text": "Dede, cet",
+      "answer": "ATA",
       "row": 5,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Kenar yontması",
-      "answer": "PAH",
+      "text": "Vurmalı çalgı",
+      "answer": "GONK",
       "row": 5,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yetiştirici",
-      "answer": "ÜRETİCİ",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hitap ünlemi",
-      "answer": "BRE",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kullanılmış madde",
-      "answer": "ATIK",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zenginin teknesi",
-      "answer": "YAT",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Düzey",
-      "answer": "SEVİYE",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sokan böcek",
-      "answer": "ARI",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sağlam, dayanıklı",
-      "answer": "PEK",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Uzun boyunlu hayvan",
-      "answer": "ZÜRAFA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Belirti, jest",
-      "answer": "İŞARET",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İçki içilen yer",
-      "answer": "MEYHANE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalori olarak ölçülen",
-      "answer": "ISI",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tehlike işareti",
-      "answer": "ALARM",
-      "row": 0,
       "col": 4,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Küçük lokma",
-      "answer": "TİKE",
+      "text": "Nemin bıraktığı",
+      "answer": "PAS",
       "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Koyun-keçi",
+      "answer": "DAVAR",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Su baskını",
+      "answer": "SEL",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yayı olan",
+      "answer": "YAYLI",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Frekans birimi",
+      "answer": "HERTZ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Pişmiş yiyecek",
+      "answer": "AŞ",
+      "row": 9,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Amerika tahılı",
+      "answer": "KİNOA",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kaba saba kimse",
+      "answer": "AYI",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Kurnaz hayvan",
+      "answer": "TİLKİ",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Fakat, lakin",
+      "answer": "AMA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Alkolden türeyen",
+      "answer": "ALDEHİT",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kutsal kitap satırı",
+      "answer": "AYET",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Açık, apaçık",
+      "answer": "ALENİ",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Otomobil",
+      "answer": "ARABA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Canlandırılan kişi",
+      "answer": "ROL",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dişin dış katmanı",
+      "answer": "MİNE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tütün rengi",
-      "answer": "TABA",
+      "text": "Eğri bacaklı",
+      "answer": "PAYTAK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kusuru hoş görme",
+      "answer": "AF",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tutturucu çubuk",
-      "answer": "PİM",
-      "row": 5,
+      "text": "Kin, hınç, garez",
+      "answer": "GARAZ",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Erek, gaye",
-      "answer": "AMAÇ",
+      "text": "Sıcak tutan kap",
+      "answer": "TERMOS",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tuhaf, garip",
-      "answer": "ACAYİP",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Köln'ün nehri",
-      "answer": "REN",
+      "text": "Uzak taraf",
+      "answer": "ÖTE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Koruma, kayırma",
-      "answer": "HİMAYE",
-      "row": 5,
+      "text": "Tabur-tugay arası",
+      "answer": "ALAY",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Çabuk, tez",
-      "answer": "ATİK",
-      "row": 0,
+      "text": "Et parçası",
+      "answer": "TİKE",
+      "row": 2,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Belden aşağı giysi",
-      "answer": "ETEK",
+      "text": "Işık çizgisi",
+      "answer": "IŞIN",
       "row": 7,
       "col": 8,
       "arrow": "down"
@@ -218,23 +225,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
       "col": 2
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 0,
+      "col": 8
     },
     {
-      "row": 3,
+      "row": 1,
       "col": 0
-    },
-    {
-      "row": 3,
-      "col": 1
     },
     {
       "row": 4,
@@ -245,20 +248,20 @@
       "col": 7
     },
     {
-      "row": 5,
-      "col": 8
-    },
-    {
       "row": 6,
-      "col": 8
-    },
-    {
-      "row": 10,
       "col": 0
     },
     {
+      "row": 7,
+      "col": 6
+    },
+    {
       "row": 11,
-      "col": 4
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "kolay",

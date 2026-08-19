@@ -5,169 +5,169 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kutsal tasvir",
-      "answer": "İKONA",
+      "text": "Sınıf, düzey",
+      "answer": "KLAS",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çürümüş gövde",
+      "answer": "LEŞ",
       "row": 1,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Vida anahtarı",
-      "answer": "ALYAN",
+      "text": "Taharri",
+      "answer": "ARAMA",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Nitrogliserinli patlayıcı",
-      "answer": "DİNAMİT",
+      "text": "Ehliyetli kimse",
+      "answer": "EHİL",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "At yavrusu",
+      "answer": "TAY",
       "row": 3,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Azık",
-      "answer": "NEVALE",
+      "text": "Bakanlar kurulu",
+      "answer": "KABİNE",
       "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Telefon bağlantısı",
-      "answer": "HAT",
-      "row": 4,
+      "text": "Hoşluk",
+      "answer": "LETAFET",
+      "row": 5,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Gene",
-      "answer": "YİNE",
+      "text": "Oluşan, meydana gelen",
+      "answer": "İBARET",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Onama, kabul",
-      "answer": "RIZA",
+      "text": "Kalın yün kumaş",
+      "answer": "ABA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Telefonda selamlama",
-      "answer": "ALO",
-      "row": 6,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Oruç ayı",
-      "answer": "RAMAZAN",
+      "text": "İyiden iyiye",
+      "answer": "ENİKONU",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yırtıcı av kuşu",
-      "answer": "ATMACA",
-      "row": 8,
+      "text": "Az pişmiş yumurta",
+      "answer": "RAFADAN",
+      "row": 9,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Boş konuşma",
-      "answer": "ZIRVA",
+      "text": "Mola, teneffüs",
+      "answer": "ARA",
       "row": 10,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Şöyle böyle",
-      "answer": "EH",
+      "text": "Polonya halkı",
+      "answer": "LEH",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Nüans",
-      "answer": "AYIRTI",
+      "text": "Son adam",
+      "answer": "LİBERO",
       "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Düzenlilik",
-      "answer": "İNTİZAM",
+      "text": "Çiçek düzenleme",
+      "answer": "İKEBANA",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yardım parası",
-      "answer": "İANE",
+      "text": "Yeşillik karışımı",
+      "answer": "SALATA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Günlük ibadet",
-      "answer": "NAMAZ",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tuş takımı",
-      "answer": "KLAVYE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Üzüntü, keder",
-      "answer": "ACI",
+      "text": "Görevi yapma",
+      "answer": "İFA",
       "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Derme çatma yapı",
+      "answer": "BARAKA",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kazıma süslemesi",
-      "answer": "OYMA",
+      "text": "Şaka",
+      "answer": "LATİFE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kırıcı söz",
-      "answer": "AZAR",
-      "row": 6,
+      "text": "Evin bölmesi",
+      "answer": "ODA",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ulaşmış, kavuşmuş",
-      "answer": "NAİL",
+      "text": "Geçici bırakılan",
+      "answer": "EMANET",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kızılımsı sarı",
-      "answer": "ALA",
-      "row": 5,
+      "text": "Kabuklu güz meyvesi",
+      "answer": "NAR",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dalga aleti",
-      "answer": "ANTEN",
+      "text": "Eğer",
+      "answer": "ŞAYET",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İyileşme, şifa",
-      "answer": "ONMA",
+      "text": "Erkek ördek",
+      "answer": "SUNA",
       "row": 6,
       "col": 7,
       "arrow": "down"
@@ -176,31 +176,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
-      "row": 1,
-      "col": 1
+      "row": 0,
+      "col": 4
     },
     {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 5,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
+      "row": 4,
+      "col": 0
     },
     {
       "row": 10,
       "col": 0
+    },
+    {
+      "row": 10,
+      "col": 2
     }
   ],
   "difficulty": "orta",

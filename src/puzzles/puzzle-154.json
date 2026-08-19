@@ -5,63 +5,63 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Avusturya'nın başkenti",
-      "answer": "VİYANA",
+      "text": "Suç geçmişi",
+      "answer": "SABIKA",
       "row": 1,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Harç aracı",
-      "answer": "MALA",
+      "text": "Japon içkisi",
+      "answer": "SAKE",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Piskopos değneği",
-      "answer": "ASA",
+      "text": "Üstün karşıtı",
+      "answer": "AST",
       "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Biçim soran söz",
-      "answer": "NASIL",
+      "text": "Ayrılmış bölüm",
+      "answer": "BÖLME",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Şuur",
-      "answer": "BİLİNÇ",
+      "text": "Yürekler acısı",
+      "answer": "FECAAT",
       "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Topluluk mensubu",
-      "answer": "ÜYE",
+      "text": "Sesin çarpıp gelmesi",
+      "answer": "EKO",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ferahlama ünlemi",
-      "answer": "OH",
+      "text": "Tiksinti ünlemi",
+      "answer": "ÜF",
       "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Boşluk, aralık",
-      "answer": "ARA",
+      "text": "Anne",
+      "answer": "ANA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tutkulu bağlılık",
+      "text": "Kara sevda",
       "answer": "AŞK",
       "row": 7,
       "col": 4,
@@ -75,134 +75,134 @@
       "arrow": "down-right"
     },
     {
-      "text": "Us, zihin",
-      "answer": "AKIL",
+      "text": "Eski dilde azarlama",
+      "answer": "İTAP",
       "row": 9,
       "col": 0,
       "arrow": "right"
-    },
-    {
-      "text": "Cümleleri bağlayan",
-      "answer": "Kİ",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İyileşme dönemi",
-      "answer": "NEKAHET",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ödeşmiş, berabere",
-      "answer": "FİT",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Haykırma, bağırma",
-      "answer": "NARA",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Hat sanatında sevilen harf",
-      "answer": "VAV",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Evcil olmayan",
-      "answer": "YABANİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüzdeki küçük leke",
-      "answer": "ÇİL",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bolluk",
-      "answer": "BEREKET",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Demek oluyor ki",
-      "answer": "YANİ",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yol yiyeceği",
-      "answer": "AZIK",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çağrıda ilk söz",
-      "answer": "ALO",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Duyuru",
-      "answer": "İLAN",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Öğüt",
-      "answer": "NASİHAT",
-      "row": 1,
-      "col": 5,
-      "arrow": "down"
     },
     {
       "text": "Öyle mi sözü",
       "answer": "HA",
       "row": 9,
       "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Vasıf",
+      "answer": "NİTELİK",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Süre sonunu belirten",
+      "answer": "DEK",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Siyah",
+      "answer": "KARA",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Öne sürülen düşünce",
+      "answer": "SAV",
+      "row": 1,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yayın bütünü",
-      "answer": "BASIN",
+      "text": "Bakanlar kurulu",
+      "answer": "KABİNE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Anıtsal kapı",
+      "answer": "TAK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses bilgisi",
+      "answer": "FONETİK",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Minik çocuk",
+      "answer": "BEBE",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Serbest bırakma",
+      "answer": "AZAT",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Masal umacısı",
+      "answer": "ÖCÜ",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Koza ipliği",
+      "answer": "İPEK",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gemi onarımı",
+      "answer": "KALAFAT",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sol'den sonraki nota",
+      "answer": "LA",
+      "row": 9,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Boyun bağı",
+      "answer": "TASMA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Beyaz madde",
-      "answer": "ŞEKER",
+      "text": "Kent",
+      "answer": "ŞEHİR",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Az yüksek",
-      "answer": "ALÇAK",
+      "text": "Silah parçası",
+      "answer": "TETİK",
       "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Eskiden ödeme işi",
-      "answer": "İTA",
+      "text": "Yerel ağızda abi",
+      "answer": "AKA",
       "row": 8,
       "col": 7,
       "arrow": "down"

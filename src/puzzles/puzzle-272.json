@@ -5,247 +5,219 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Yazık ünlemi",
-      "answer": "VAH",
+      "text": "Yivli eleman",
+      "answer": "VİDA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ekşi baharat",
-      "answer": "SUMAK",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Romanya'da geçen para",
-      "answer": "LEU",
+      "text": "Sarı çeşni",
+      "answer": "HARDAL",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Süs köpeği",
-      "answer": "FİNO",
+      "text": "Kırmızı et parçası",
+      "answer": "İBİK",
       "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Vekil olan",
+      "answer": "KAİM",
+      "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Gönlü hoş",
-      "answer": "ŞAD",
-      "row": 2,
+      "text": "Otomobil",
+      "answer": "ARABA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İçilen sıvı",
+      "answer": "SU",
+      "row": 4,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Ödünç para",
+      "answer": "KREDİ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kan kanalı",
-      "answer": "DAMAR",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İyiden iyiye",
-      "answer": "ENİKONU",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dip ağı",
-      "answer": "TROL",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kuşku, sanma",
-      "answer": "ZAN",
+      "text": "Eski dilde ödeme",
+      "answer": "İTA",
       "row": 5,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Hükümdar sopası",
-      "answer": "ASA",
-      "row": 6,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayal",
-      "answer": "İMGE",
+      "text": "Adı bilinmeyen",
+      "answer": "ANONİM",
       "row": 6,
       "col": 2,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Tanrı öyküsü",
-      "answer": "MİT",
+      "text": "Çağlayan",
+      "answer": "ŞELALE",
       "row": 7,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Çocukları korkutan",
-      "answer": "ÖCÜ",
+      "text": "Açılan yol",
+      "answer": "KANAL",
       "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yardım, destek",
-      "answer": "HİMMET",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dişi geyik",
-      "answer": "MARAL",
-      "row": 9,
+      "text": "Temizlik aracı",
+      "answer": "BİDE",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kulübe kayıtlı kişi",
-      "answer": "ÜYE",
+      "text": "Güreş tanıtıcısı",
+      "answer": "CAZGIR",
       "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Beddua, kargış",
-      "answer": "LANET",
-      "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Canı yanma sesi",
-      "answer": "UF",
+      "text": "Ritimli dans",
+      "answer": "TANGO",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sevda",
+      "answer": "AŞK",
       "row": 11,
-      "col": 6,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Çarpma beresi",
-      "answer": "EZİK",
+      "text": "Yok olan",
+      "answer": "ZAİL",
       "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Açık kestane rengi",
-      "answer": "ALA",
+      "text": "Muhbir",
+      "answer": "İHBARCI",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İş verme",
-      "answer": "İHALE",
+      "text": "Edebiyatta kısalık",
+      "answer": "İCAZ",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Konut bölümü",
+      "answer": "DAİRE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kebap ilimiz",
+      "answer": "ADANA",
       "row": 7,
-      "col": 1,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ziyan olma",
-      "answer": "HEDER",
+      "text": "Dost",
+      "answer": "ARKADAŞ",
       "row": 0,
-      "col": 2,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Karşı çıkma",
-      "answer": "İTİRAZ",
-      "row": 6,
-      "col": 2,
+      "text": "Melodi",
+      "answer": "EZGİ",
+      "row": 8,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kural, ölçüt",
-      "answer": "NORM",
+      "text": "Binme aracı",
+      "answer": "BİNEK",
       "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Halk dörtlüğü",
-      "answer": "MANİ",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Konuşma organı",
-      "answer": "DİL",
-      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yakalı üst giysi",
-      "answer": "GÖMLEK",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Normalden küçük",
-      "answer": "UFAK",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tahttaki kadın",
-      "answer": "ECE",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarı çiçekli ağaç",
-      "answer": "MİMOZA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Gömleği düzelten",
-      "answer": "ÜTÜ",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tropik meyve",
-      "answer": "ANANAS",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Beğenmeme haykırışı",
-      "answer": "YUH",
+      "text": "Ağları havalandıran",
+      "answer": "GOL",
       "row": 9,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Anadolu'da büyük kardeş",
+      "answer": "AKA",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Muhtemel",
+      "answer": "OLASI",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Göz rengi",
+      "answer": "ELA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Güçlü inanç",
+      "answer": "İNAN",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Vagonun üstünde gittiği",
+      "answer": "RAY",
+      "row": 9,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Silahla ele geçirme",
+      "answer": "İSTİLA",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sığınak",
-      "answer": "KORUNAK",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Yönetici",
-      "answer": "ŞEF",
-      "row": 8,
+      "text": "Davranış, işlem",
+      "answer": "MUAMELE",
+      "row": 2,
       "col": 8,
       "arrow": "down"
     }
@@ -253,31 +225,51 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 4
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 8
     },
     {
       "row": 6,
       "col": 0
-    },
-    {
-      "row": 6,
-      "col": 1
     },
     {
       "row": 7,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 7
     },
     {
-      "row": 8,
+      "row": 10,
       "col": 7
+    },
+    {
+      "row": 10,
+      "col": 8
     },
     {
       "row": 12,
@@ -285,7 +277,7 @@
     },
     {
       "row": 12,
-      "col": 6
+      "col": 7
     },
     {
       "row": 12,

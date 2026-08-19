@@ -5,135 +5,135 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Eşin annesi",
-      "answer": "KAYNANA",
+      "text": "Tarla dinlenmesi",
+      "answer": "NADAS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yönetici itaati",
-      "answer": "BİAT",
+      "text": "Renklendirme maddesi",
+      "answer": "BOYA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çalışma nöbeti",
-      "answer": "VARDİYA",
+      "text": "Telli halk çalgısı",
+      "answer": "SAZ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Küçük olan",
-      "answer": "MİNÖR",
+      "text": "Asya'daki eski Türk devleti",
+      "answer": "HUN",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sonuç",
+      "answer": "NETİCE",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yönetme",
-      "answer": "İDARE",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hükümdar sopası",
-      "answer": "ASA",
-      "row": 6,
-      "col": 4,
+      "text": "Sık ağaçlı yer",
+      "answer": "KORULUK",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kutlama hareketi",
-      "answer": "TÖREN",
+      "text": "Düşünme gücü",
+      "answer": "AKIL",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ajan",
+      "answer": "CASUS",
       "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Şiddetli, tehlikeli",
-      "answer": "AZILI",
+      "text": "Soğuk-sıcak arası",
+      "answer": "ILIK",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Füme ton",
-      "answer": "GRİ",
-      "row": 5,
+      "text": "İntikam duygusu",
+      "answer": "KİN",
+      "row": 6,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Kaba yünlü üstlük",
-      "answer": "ABA",
+      "text": "Sert siyah ağaç",
+      "answer": "ABANOZ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "19'dan sonraki sayı",
-      "answer": "YİRMİ",
+      "text": "Toprak makinesi",
+      "answer": "DOZER",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dede, cet",
-      "answer": "ATA",
+      "text": "Üzüntü, keder",
+      "answer": "ACI",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Az bulunur",
-      "answer": "NADİDE",
+      "text": "Gökteki hilal",
+      "answer": "AY",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Esas, cevher",
-      "answer": "ÖZ",
-      "row": 7,
+      "text": "Yapıştırıcı",
+      "answer": "TUTKAL",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
+      "text": "Kıyı",
+      "answer": "SAHİL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Katıksız",
-      "answer": "ARI",
+      "text": "Termometrenin ölçtüğü",
+      "answer": "ISI",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mahalli",
-      "answer": "YÖRESEL",
+      "text": "Ucuz olma",
+      "answer": "UCUZLUK",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Başıboş",
-      "answer": "AVARE",
+      "text": "Deney canlısı",
+      "answer": "DENEK",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Hatırat, andaç",
-      "answer": "ANI",
-      "row": 6,
       "col": 6,
       "arrow": "down"
     }
@@ -144,20 +144,20 @@
       "col": 5
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 1,
+      "col": 5
     },
     {
       "row": 6,
-      "col": 1
+      "col": 6
     },
     {
       "row": 7,
-      "col": 1
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 6
     }
   ],
   "difficulty": "kolay",

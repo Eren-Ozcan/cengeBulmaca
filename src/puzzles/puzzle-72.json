@@ -5,247 +5,268 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Çaygillerden süs çiçeği",
-      "answer": "KAMELYA",
+      "text": "Gösterili eğlence yeri",
+      "answer": "KABARE",
       "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bağdaki sarmaşık",
+      "answer": "ASMA",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cilalı deri",
-      "answer": "LAKE",
+      "text": "Bekleme yeri",
+      "answer": "ARAF",
       "row": 2,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kamıştan üflemeli çalgı",
-      "answer": "NEY",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İskandinav parası",
-      "answer": "KRON",
+      "text": "Azerbaycan'ın telli çalgısı",
+      "answer": "TAR",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Köyün ileri geleni",
-      "answer": "AĞA",
+      "text": "Çayı içilen ot",
+      "answer": "NANE",
       "row": 3,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Adalet, hukuk",
-      "answer": "HAK",
+      "text": "Suların donması",
+      "answer": "DON",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Korunma yeri",
-      "answer": "SİPER",
+      "text": "Su içilen kap",
+      "answer": "TAS",
       "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Futbol kümesi",
-      "answer": "LİG",
+      "text": "Mavi boya elementi",
+      "answer": "KOBALT",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Limon rengi",
-      "answer": "SARI",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırıcı söz",
-      "answer": "AZAR",
+      "text": "Akbabanın yemeği",
+      "answer": "LEŞ",
       "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Araba süren",
-      "answer": "ARABACI",
-      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Mısır'ın başkenti",
-      "answer": "KAHİRE",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Ağabeyin yöresel adı",
+      "answer": "AKA",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
     },
     {
-      "text": "Örnek kişilik",
-      "answer": "TİP",
-      "row": 9,
+      "text": "Yüzey kesişimi",
+      "answer": "AYRIT",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Asıl konu",
-      "answer": "TEMA",
+      "text": "Yüz ölçümü birimi",
+      "answer": "AR",
+      "row": 7,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Gümrük deposu",
+      "answer": "ANTREPO",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Buharlı alet",
+      "answer": "ÜTÜ",
       "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Doğa, kırsal",
-      "answer": "KIR",
-      "row": 9,
+      "text": "Taş havan",
+      "answer": "DİBEK",
+      "row": 10,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Geri çevirme",
-      "answer": "RET",
+      "text": "Bir işaret sıfatı",
+      "answer": "ŞU",
       "row": 10,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Boşluk, aralık",
+      "answer": "ARA",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Posta numarası",
+      "answer": "KOD",
+      "row": 11,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Aferin",
-      "answer": "BRAVO",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kağıt tutturucu",
-      "answer": "ZIMBA",
+      "text": "Emir veren",
+      "answer": "AMİR",
       "row": 11,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Küçük ekip",
-      "answer": "TİM",
+      "text": "Küçük, kısa",
+      "answer": "MİNİ",
       "row": 12,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Bazik madde",
-      "answer": "ALKALİ",
-      "row": 0,
+      "text": "Hazır mal",
+      "answer": "STOK",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Nişancı",
-      "answer": "ATICI",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Orta soylu unvan",
-      "answer": "MARKİ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sırada son",
-      "answer": "AHİR",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dağda dönen ses",
-      "answer": "EKO",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kimsesiz, zavallı",
-      "answer": "GARİP",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Göz merceği",
-      "answer": "LENS",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Doku perdesi",
-      "answer": "ZAR",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yünden dokuma",
-      "answer": "ABA",
-      "row": 10,
-      "col": 3,
+      "text": "Erkek insan, kişi",
+      "answer": "ADAM",
+      "row": 9,
+      "col": 0,
       "arrow": "right-down"
     },
     {
-      "text": "Hedefi vurma",
-      "answer": "İSABET",
+      "text": "İri çiçekli ağaç",
+      "answer": "MANOLYA",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ufak karşıtı",
+      "answer": "İRİ",
+      "row": 9,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kış yağışı",
+      "answer": "KAR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İsviçre'nin başkenti",
+      "answer": "BERN",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Basınç birimi",
+      "answer": "BAR",
+      "row": 9,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Taşıma aracı",
+      "answer": "TAŞIT",
       "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıradan, basmakalıp",
+      "answer": "BANAL",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sermaye",
-      "answer": "ANAPARA",
+      "text": "Teknik hile",
+      "answer": "TRÜK",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çarşı sokağı",
+      "answer": "ARASTA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Erler topluluğu",
-      "answer": "ERAT",
-      "row": 8,
+      "text": "Kebabın malzemesi",
+      "answer": "ET",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Şayet",
-      "answer": "EĞER",
-      "row": 1,
+      "text": "Bağlaç",
+      "answer": "Kİ",
+      "row": 10,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ünlü şairimizin soyadı",
+      "answer": "RAN",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Alevi ibadethanesi",
-      "answer": "CEMEVİ",
-      "row": 6,
+      "text": "Giysi başlığı",
+      "answer": "KAPÜŞON",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Uyandıran",
-      "answer": "UYARICI",
+      "text": "Batı Anadolu yiğidi",
+      "answer": "EFE",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Madde parçacığı",
-      "answer": "ATOM",
-      "row": 8,
+      "text": "Kırmızı işaret",
+      "answer": "KARO",
+      "row": 4,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Udu çalan kimse",
+      "answer": "UDİ",
+      "row": 9,
       "col": 8,
       "arrow": "down"
     }
@@ -253,10 +274,22 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
     },
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 4,
       "col": 7
     },
     {
@@ -264,8 +297,12 @@
       "col": 0
     },
     {
+      "row": 8,
+      "col": 0
+    },
+    {
       "row": 11,
-      "col": 2
+      "col": 4
     }
   ],
   "difficulty": "zor",

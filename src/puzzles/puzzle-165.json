@@ -5,219 +5,212 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Kuaförde son işlem",
-      "answer": "FÖN",
+      "text": "Kadın berberi",
+      "answer": "KUAFÖR",
       "row": 0,
-      "col": 0,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Gerçekleşmiş olan",
-      "answer": "VAKİ",
+      "text": "Avukatlar birliği",
+      "answer": "BARO",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Adale",
-      "answer": "KAS",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Süt hayvanı",
-      "answer": "İNEK",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Eser sergilenen yer",
-      "answer": "MÜZE",
-      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Süs çiçeği",
-      "answer": "LALE",
-      "row": 3,
+      "text": "Hint prensi",
+      "answer": "RACA",
+      "row": 2,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Tarım",
-      "answer": "ZİRAAT",
-      "row": 4,
+      "text": "Dalma hareketi",
+      "answer": "DALIŞ",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yatak kasası",
-      "answer": "KARYOLA",
-      "row": 5,
-      "col": 1,
+      "text": "Nam, itibar",
+      "answer": "ÜN",
+      "row": 3,
+      "col": 6,
       "arrow": "right"
     },
     {
-      "text": "Yaylı çalgı",
-      "answer": "KEMAN",
+      "text": "Amerika parası",
+      "answer": "PESO",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bayan",
+      "answer": "HANIM",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bağlama",
+      "answer": "SAZ",
       "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İnce çelik levha",
-      "answer": "SAC",
-      "row": 6,
+      "text": "Yeşil sapılı sebze",
+      "answer": "PIRASA",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Batı Anadolu yiğidi",
+      "answer": "EFE",
+      "row": 8,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
+    },
+    {
+      "text": "Yemin, ant",
+      "answer": "AHİT",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yetiştirici",
+      "answer": "ÜRETİCİ",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Mazot",
+      "answer": "MOTORİN",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Deneye dayalı bilim",
+      "answer": "FEN",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyüme, gelişme, çoğalma",
+      "answer": "NEMA",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayaklı bardak",
+      "answer": "KADEH",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gözlem",
+      "answer": "RASAT",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tütsülenmiş besin",
+      "answer": "FÜME",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dikey destek",
+      "answer": "KOLON",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tren platformu",
+      "answer": "PERON",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Soğuğun karşıtı",
+      "answer": "ISI",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kasap besini",
+      "answer": "ET",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yürüyüş komutu",
+      "answer": "ARŞ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun yol koşusu",
+      "answer": "MARATON",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sol'den önceki nota",
+      "answer": "FA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Saklanan tahıl",
+      "answer": "ZAHİRE",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Var olmayan korkuluk",
+      "answer": "ÖCÜ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağlama ipi",
+      "answer": "SİCİM",
+      "row": 6,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Katlı yatak",
+      "answer": "RANZA",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
     },
     {
       "text": "Yunanistan'ın başkenti",
       "answer": "ATİNA",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Az, önemsiz",
-      "answer": "CÜZİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yok olma",
-      "answer": "HELAK",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kapının öte yanı",
-      "answer": "DIŞ",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Fener Patrikhanesi cemaati",
-      "answer": "RUM",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gezi programı",
-      "answer": "TUR",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Undan en iyisi",
-      "answer": "HAS",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Soyun büyüğü",
-      "answer": "ATA",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Çift sığırı",
-      "answer": "ÖKÜZ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Serüven",
-      "answer": "MACERA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Saygılı, kibar",
-      "answer": "NAZİK",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tahta çıkma",
-      "answer": "CÜLUS",
       "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bitki camlığı",
-      "answer": "SERA",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Maaşa yapılan",
-      "answer": "ZAM",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Eskil",
-      "answer": "ARKAİK",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İl",
-      "answer": "VİLAYET",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Vücut yapısı bilimi",
-      "answer": "ANATOMİ",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yakarış, niyaz",
-      "answer": "DUA",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tüysüz kafa",
-      "answer": "KEL",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Masa futbolu",
-      "answer": "LANGIRT",
-      "row": 4,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Çiçek düzenleme",
-      "answer": "İKEBANA",
-      "row": 0,
       "col": 8,
       "arrow": "down"
     }
@@ -225,35 +218,51 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
     },
     {
       "row": 0,
       "col": 4
     },
     {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
       "row": 5,
+      "col": 7
+    },
+    {
+      "row": 6,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 6,
+      "col": 1
     },
     {
-      "row": 8,
-      "col": 8
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 0
     },
     {
       "row": 10,
-      "col": 8
-    },
-    {
-      "row": 11,
-      "col": 3
-    },
-    {
-      "row": 11,
-      "col": 4
+      "col": 0
     }
   ],
   "difficulty": "zor",

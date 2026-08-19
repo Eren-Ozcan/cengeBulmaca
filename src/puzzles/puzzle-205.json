@@ -5,204 +5,204 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Kiremit renkli içki",
-      "answer": "KONYAK",
+      "text": "Belge",
+      "answer": "VESİKA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mühim",
-      "answer": "ÖNEMLİ",
+      "text": "Alt kurul",
+      "answer": "KOMİTE",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Özel söz",
-      "answer": "TERİM",
+      "text": "Basılı yapıt",
+      "answer": "KİTAP",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Perdesiz telli saz",
-      "answer": "UD",
+      "text": "Vurulan hayvan",
+      "answer": "AV",
       "row": 3,
       "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Sebep, bahane",
+      "answer": "VESİLE",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İnce, nazik",
+      "answer": "KİBAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Si'den önceki nota",
+      "answer": "LA",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Filmin genç erkeği",
+      "answer": "JÖN",
+      "row": 5,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dil",
+      "answer": "LİSAN",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüzdeki seğirme",
+      "answer": "TİK",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Maaş çizelgesi",
+      "answer": "BAREM",
+      "row": 8,
+      "col": 3,
       "arrow": "right"
     },
     {
       "text": "Hizmetli",
       "answer": "HADEME",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ağaç aleti",
-      "answer": "KESER",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İki sözü bağlayan",
-      "answer": "VE",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlıcada gerçekleştirme",
-      "answer": "İKA",
-      "row": 5,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Havada dönme",
-      "answer": "SALTO",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Golü getiren vuruş",
-      "answer": "ŞUT",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Keçi yavrusu",
-      "answer": "OĞLAK",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Hamur açacağı",
-      "answer": "OKLAVA",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İsviçre'nin başkenti",
-      "answer": "BERN",
+      "text": "Güvenlik Konseyi hakkı",
+      "answer": "VETO",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yardım sözü",
-      "answer": "AMAN",
+      "text": "Hiçbir zaman, kesinlikle",
+      "answer": "ASLA",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Üst meclis",
-      "answer": "SENATO",
+      "text": "Kurutulmuş meyve ezmesi",
+      "answer": "PESTİL",
       "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İş paydaşı",
-      "answer": "ORTAK",
+      "text": "Bay",
+      "answer": "ERKEK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kur'an bölümü",
-      "answer": "SURE",
+      "text": "Dört yıllık okul",
+      "answer": "LİSE",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Alet takımı",
-      "answer": "EDEVAT",
+      "text": "Ter kabarcığı",
+      "answer": "İSİLİK",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Mahalli",
-      "answer": "YÖRESEL",
+      "text": "Ödünç alma",
+      "answer": "İKTİBAS",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Altın ölçüsü",
-      "answer": "ONS",
+      "text": "Hoplarken çıkan ses",
+      "answer": "HOP",
       "row": 8,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Japon çizgi filmi",
-      "answer": "ANİME",
+      "text": "Keseli memeli",
+      "answer": "KOALA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Aç karşıtı",
-      "answer": "TOK",
+      "text": "Kalın yün kumaş",
+      "answer": "ABA",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bel bağı",
-      "answer": "KEMER",
+      "text": "Akım birimi",
+      "answer": "AMPER",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Erkek çocuk",
-      "answer": "OĞLAN",
+      "text": "Tarla dinlenmesi",
+      "answer": "NADAS",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "And hayvanı",
-      "answer": "LAMA",
+      "text": "Meydan okuma",
+      "answer": "REST",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Saygın, muhteşem",
-      "answer": "ULU",
+      "text": "Osmanlıcada para verme",
+      "answer": "İTA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Gömlek aksesuarı",
-      "answer": "KRAVAT",
+      "text": "Mühim",
+      "answer": "ÖNEMLİ",
       "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sav",
-      "answer": "İDDİA",
+      "text": "Kâinat",
+      "answer": "EVREN",
       "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Küçük, hafif kayık",
-      "answer": "KANO",
+      "text": "Sözün özü",
+      "answer": "MEAL",
       "row": 7,
       "col": 8,
       "arrow": "down"

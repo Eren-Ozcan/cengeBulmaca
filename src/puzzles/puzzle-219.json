@@ -5,198 +5,198 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Keseli memeli",
-      "answer": "KOALA",
+      "text": "İzinsiz şey",
+      "answer": "YASAK",
       "row": 0,
-      "col": 3,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kokulu sıvı",
-      "answer": "ESANS",
+      "text": "Tayin",
+      "answer": "ATAMA",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Alçalan yol",
-      "answer": "İNİŞ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Birliktelik bağlacı",
-      "answer": "İLE",
+      "text": "Gösterili eğlence yeri",
+      "answer": "KABARE",
       "row": 3,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ön karşıtı",
-      "answer": "ARKA",
+      "text": "Dolaylı söyleme",
+      "answer": "İMA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Su fiili olarak",
+      "answer": "AKAR",
       "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yeryüzü toprağı",
+      "answer": "ARAZİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Enerji üretim yeri",
+      "answer": "SANTRAL",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Karı veya koca",
-      "answer": "EŞ",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Toparlak",
-      "answer": "TOMBUL",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İlk Yunan harfi",
-      "answer": "ALFA",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Tokat sesi",
-      "answer": "ŞAK",
+      "text": "Ani kuşatma",
+      "answer": "BASKIN",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ekin aracı",
-      "answer": "ORAK",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ateş çöpü",
-      "answer": "KİBRİT",
+      "text": "Tediye",
+      "answer": "İTA",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İkinci ad",
-      "answer": "LAKAP",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Fakat, lakin",
-      "answer": "AMA",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Pudra için ponpon",
-      "answer": "PUF",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Denk, eş",
-      "answer": "TAY",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kötü",
-      "answer": "FENA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Zehirli böcek",
-      "answer": "AKREP",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yunan dansı",
-      "answer": "SİRTAKİ",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Boyun atkısı",
-      "answer": "KAŞKOL",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yanıltıcı gösterme",
-      "answer": "BLÖF",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yarım yirmi",
-      "answer": "ON",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sivri dipli testi",
-      "answer": "AMFORA",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İsyankâr",
+      "text": "Hatay'dan geçen ırmak",
       "answer": "ASİ",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Fasıla",
+      "answer": "ARA",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Cephe, yüz",
+      "answer": "ÖN",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Alçak, korkak",
+      "answer": "NAMERT",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kurul üyesi",
+      "answer": "AZA",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Üniversite dersliği",
+      "answer": "AMFİ",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İş süresi",
+      "answer": "MESAİ",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Su taşıyıcı",
+      "answer": "SAKA",
       "row": 0,
-      "col": 5,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yol engeli",
-      "answer": "BARİKAT",
+      "text": "Kazakistan'ın başkenti",
+      "answer": "ASTANA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dede, cet",
+      "answer": "ATA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Türkiye'nin başkenti",
+      "answer": "ANKARA",
       "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tümsek",
+      "answer": "KABARTI",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gözleri görmeyen",
+      "answer": "AMA",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Haşlanan hamur",
+      "answer": "MAKARNA",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bükreş'in para birimi",
-      "answer": "LEU",
-      "row": 2,
+      "text": "Şifa, deva",
+      "answer": "EM",
+      "row": 9,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Diyelim ki",
+      "answer": "FARAZA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tayin",
-      "answer": "ATAMA",
-      "row": 6,
+      "text": "Su sporu",
+      "answer": "SÖRF",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Birlikte olma",
-      "answer": "EŞLİK",
+      "text": "Erkek cins",
+      "answer": "ERİL",
       "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bölünen miktar",
-      "answer": "PAY",
-      "row": 8,
+      "text": "Lima'nın eski parası",
+      "answer": "İNTİ",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -204,15 +204,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 5
     },
     {
       "row": 0,
@@ -220,6 +216,10 @@
     },
     {
       "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
@@ -229,14 +229,6 @@
     {
       "row": 9,
       "col": 0
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 2
     }
   ],
   "difficulty": "zor",

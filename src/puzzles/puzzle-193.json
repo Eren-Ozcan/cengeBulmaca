@@ -5,177 +5,191 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Gök ada",
-      "answer": "GALAKSİ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Övgü şiiri",
-      "answer": "KASİDE",
+      "text": "Kasık-taban arası",
+      "answer": "BACAK",
       "row": 1,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Şölen",
-      "answer": "ZİYAFET",
+      "text": "Yer çizimi",
+      "answer": "HARİTA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ata, dede",
+      "answer": "AĞABABA",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ücretsiz yemekevi",
-      "answer": "AŞEVİ",
+      "text": "Peru'daki dağ silsilesi",
+      "answer": "AND",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Balıkçının başı",
+      "answer": "REİS",
       "row": 4,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Doymuş kimse",
-      "answer": "TOK",
+      "text": "Çalgılı meyhane",
+      "answer": "TAVERNA",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kolun ucu",
-      "answer": "EL",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bitki camlığı",
-      "answer": "SERA",
+      "text": "Kırılma yansıması",
+      "answer": "ÇAT",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ecdat",
-      "answer": "ATA",
+      "text": "Tüysüz kafa",
+      "answer": "KEL",
       "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kaynak gösterme",
-      "answer": "ATIF",
+      "text": "Kocaman",
+      "answer": "İRİ",
       "row": 7,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ortada olmayan bölüm",
-      "answer": "YAN",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kebap çubuğu",
-      "answer": "ŞİŞ",
+      "text": "Göçebe yerleşimi",
+      "answer": "OBA",
       "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Işık çizgisi",
-      "answer": "IŞIN",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Eleme aracı",
-      "answer": "ELEK",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Günlük haber yayını",
-      "answer": "GAZETE",
-      "row": 0,
       "col": 1,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Bayağı, düşük",
-      "answer": "ADİ",
+      "text": "Üvey olmayan",
+      "answer": "ÖZ",
       "row": 7,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alto keman",
+      "answer": "VİYOLA",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Vurma sesi",
+      "answer": "TAK",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bugünden önceki gün",
+      "answer": "DÜN",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kaba, iri",
+      "answer": "HANTAL",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Baş kaldıran",
-      "answer": "ASİ",
+      "text": "Irak'ın başkenti",
+      "answer": "BAĞDAT",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Nispet",
-      "answer": "ORAN",
-      "row": 4,
+      "text": "Düz geniş arazi",
+      "answer": "OVA",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hak etme",
-      "answer": "LİYAKAT",
+      "text": "Devre arası",
+      "answer": "ARA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ad ortağı",
-      "answer": "ADAŞ",
+      "text": "Kuşun tepesindeki",
+      "answer": "İBİK",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Üzüm posası",
+      "answer": "CİBRE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Parlayan, ışıldayan",
-      "answer": "IŞIL",
+      "text": "Çelik yol demiri",
+      "answer": "RAY",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Terazi gözü",
-      "answer": "KEFE",
+      "text": "Babaya dayalı düzen",
+      "answer": "ATAERKİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Herkesçe bilinen",
-      "answer": "AFİŞE",
-      "row": 5,
+      "text": "Eski dilde ateş",
+      "answer": "OD",
+      "row": 8,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Olumlu yanıt",
-      "answer": "EVET",
-      "row": 2,
+      "text": "Bakanlar kurulu",
+      "answer": "KABİNE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Giyimi düzgün",
-      "answer": "ŞIK",
+      "text": "Hareketsiz, sönük",
+      "answer": "ÖLÜ",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Devrim ayaklanması",
-      "answer": "İHTİLAL",
-      "row": 0,
+      "text": "Esas, temel",
+      "answer": "ASAL",
+      "row": 2,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Zannetme işi",
+      "answer": "ZAN",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -187,35 +201,31 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 1
     },
     {
-      "row": 4,
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 4
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 0
     },
     {
       "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
       "col": 0
     },
     {
       "row": 9,
-      "col": 2
-    },
-    {
-      "row": 10,
       "col": 0
-    },
-    {
-      "row": 10,
-      "col": 7
     }
   ],
   "difficulty": "kolay",

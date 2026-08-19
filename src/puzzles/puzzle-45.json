@@ -5,191 +5,177 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Eski kadın mantosu",
-      "answer": "FERACE",
+      "text": "Sofra bezi",
+      "answer": "PEÇETE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Karadeniz yaylısı",
-      "answer": "KEMENÇE",
+      "text": "Önceki görevli",
+      "answer": "SELEF",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Rezalet olayı",
-      "answer": "SKANDAL",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hortumlu hayvan",
-      "answer": "FİL",
-      "row": 3,
+      "text": "Böcek",
+      "answer": "HAŞERE",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Akış hızı",
-      "answer": "DEBİ",
+      "text": "Kimse, tip, yüz",
+      "answer": "SİMA",
       "row": 4,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Görüntü alıcısı",
-      "answer": "KAMERA",
+      "text": "Çekilen boncuk",
+      "answer": "TESPİH",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yün atkı",
+      "answer": "ŞAL",
       "row": 5,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Menekşe rengi",
-      "answer": "MOR",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Mal paylaşımı",
-      "answer": "ZEKAT",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ofis",
-      "answer": "BÜRO",
-      "row": 7,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uzaktaki yer",
-      "answer": "ORA",
-      "row": 8,
+      "text": "Hükümdar sopası",
+      "answer": "ASA",
+      "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Söz dalaşı",
-      "answer": "POLEMİK",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zararı giderme",
-      "answer": "TELAFİ",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dünya'nın uydusu",
-      "answer": "AY",
-      "row": 9,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Noksan",
-      "answer": "EKSİK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kare yüzlü cisim",
-      "answer": "KÜP",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tanıtım",
-      "answer": "REKLAM",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İzlenecek yol",
-      "answer": "ROTA",
+      "text": "Karakter yapısı",
+      "answer": "KİŞİLİK",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kebap ilimiz",
+      "answer": "ADANA",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Küçük kale",
+      "answer": "HİSAR",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sıradaki başlangıç",
+      "answer": "İLK",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalıtım birimi",
+      "answer": "GEN",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir şeyin gerisi",
+      "answer": "ART",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Temel öz",
+      "answer": "ESAS",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Cereyan",
+      "answer": "AKIŞ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Muhtelif",
+      "answer": "ÇEŞİTLİ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kör",
-      "answer": "AMA",
+      "text": "Seçme aşaması",
+      "answer": "ELEME",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Anıt mezar",
-      "answer": "MOZOLE",
+      "text": "Yırtıcı kuş",
+      "answer": "ŞAHİN",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Açık bölüm",
+      "answer": "TERAS",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kır şiiri",
+      "answer": "İDİL",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Zeybek oynayan",
+      "answer": "EFE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Asker kemeri",
+      "answer": "PALASKA",
       "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Pres",
-      "answer": "CENDERE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bal rengi göz",
-      "answer": "ELA",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Seyrek görülen",
-      "answer": "ENDER",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bilinç kaybı",
-      "answer": "KOMA",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Gayret",
-      "answer": "ÇABA",
-      "row": 1,
+      "text": "Olta ipi",
+      "answer": "MİSİNA",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Anlayışlı, sezgili",
-      "answer": "ARİF",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Aklını yitirmiş",
-      "answer": "DELİ",
+      "text": "Metal düzeltme aleti",
+      "answer": "EĞE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Arkasından gitme",
-      "answer": "TAKİP",
-      "row": 6,
+      "text": "Onur kırma",
+      "answer": "HAKARET",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -200,27 +186,31 @@
       "col": 6
     },
     {
-      "row": 5,
-      "col": 7
+      "row": 1,
+      "col": 6
     },
     {
-      "row": 6,
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
-      "row": 11,
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
       "col": 1
     },
     {
-      "row": 11,
-      "col": 3
-    },
-    {
-      "row": 11,
-      "col": 5
-    },
-    {
-      "row": 11,
+      "row": 10,
       "col": 6
     }
   ],

@@ -5,191 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Korku ünlemi",
-      "answer": "ABO",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Padişah çadırı",
-      "answer": "OTAĞ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Selçuklu lalası",
-      "answer": "ATABEY",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Söz dalaşı",
-      "answer": "POLEMİK",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eğlence yeri",
-      "answer": "GAZİNO",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Belirleme, atama",
-      "answer": "TAYİN",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kızıl ateş parçası",
-      "answer": "KOR",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dokunulmaz",
-      "answer": "TABU",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İletken madde",
-      "answer": "METAL",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Şipşak gelişen",
-      "answer": "ANİ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Az ötedeki",
-      "answer": "ŞU",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yıllık",
-      "answer": "ALMANAK",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Önder",
-      "answer": "LİDER",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Evliliğin ilk ayı",
-      "answer": "BALAYI",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Fasıl",
-      "answer": "BAP",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Metal tezgâhı",
-      "answer": "TORNA",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Terminal",
-      "answer": "OTOGAR",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ne olursa olsun",
-      "answer": "İLLA",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Eğlenme, dalga geçme",
-      "answer": "ALAY",
+      "text": "Ses ayarı",
+      "answer": "AKORT",
       "row": 1,
-      "col": 3,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Metal çubuk",
-      "answer": "MİL",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Aşırı şişmanlık",
-      "answer": "OBEZİTE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kara parçası",
-      "answer": "ADA",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Güvence",
-      "answer": "TEMİNAT",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tasavvuf çalgısı",
-      "answer": "NEY",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İbadet töreni",
-      "answer": "AYİN",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Muvaffakiyet",
-      "answer": "BAŞARI",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sık ağaçlı yer",
-      "answer": "KORULUK",
+      "text": "Serbestlikçi",
+      "answer": "LİBERAL",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Katlanır bölme",
+      "answer": "PARAVAN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İnandırma, kandırma",
+      "answer": "İKNA",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Şirket birliği",
+      "answer": "KARTEL",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Katıksız, arı",
+      "answer": "SAF",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kaba, sert",
+      "answer": "NOBRAN",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kül rengi",
+      "answer": "GRİ",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Araç gövdesi",
+      "answer": "KAROSER",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kere anlamında",
+      "answer": "KEZ",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Elektrikte akım hattı",
+      "answer": "FAZ",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Alacakaranlık",
+      "answer": "TAN",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dörtten sonraki sayı",
+      "answer": "BEŞ",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Renkli, benekli",
+      "answer": "ALA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sabunla çıkan",
+      "answer": "KİR",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Doku ölümü",
+      "answer": "KANGREN",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çadır topluluğu",
+      "answer": "OBA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Cemaatten kovma",
+      "answer": "AFOROZ",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hasta bölümü",
+      "answer": "REVİR",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tekrar isteği",
+      "answer": "BİS",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çift süren taşıt",
+      "answer": "TRAKTÖR",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Batı Anadolu yiğidi",
+      "answer": "EFE",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ana, valide",
+      "answer": "ANNE",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Alaca, lekeli",
+      "answer": "ABRAŞ",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaşların üstü",
+      "answer": "ALIN",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -197,10 +190,18 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
     },
     {
       "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
       "col": 7
     },
     {
@@ -208,11 +209,23 @@
       "col": 0
     },
     {
-      "row": 10,
+      "row": 4,
+      "col": 1
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
-      "row": 10,
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
       "col": 7
     },
     {

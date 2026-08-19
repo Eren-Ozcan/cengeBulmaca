@@ -5,233 +5,226 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Yürüme desteği",
-      "answer": "BASTON",
+      "text": "Dört ayaklı mobilya",
+      "answer": "MASA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hadi, çabuk",
-      "answer": "HA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Amin denen söz",
-      "answer": "DUA",
+      "text": "Kocasız kalan",
+      "answer": "DUL",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ani saldırı, hücum",
-      "answer": "AKIN",
+      "text": "Fa'dan sonraki nota",
+      "answer": "SOL",
       "row": 2,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Beynin arşivi",
-      "answer": "HAFIZA",
+      "text": "Ter kabarcığı",
+      "answer": "İSİLİK",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Altmış dokuzdan sonra",
-      "answer": "YETMİŞ",
+      "text": "Pencere maddesi",
+      "answer": "CAM",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Vilayet",
-      "answer": "İL",
-      "row": 5,
-      "col": 3,
+      "text": "Para yüzü",
+      "answer": "TURA",
+      "row": 4,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kokulu yeşillik",
-      "answer": "DEREOTU",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Basit çizim",
-      "answer": "ŞEMA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kafkas sazı",
-      "answer": "TAR",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İbadet",
-      "answer": "AMEL",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Düz geniş arazi",
-      "answer": "OVA",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kitaplık bölmesi",
-      "answer": "RAF",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yetiştirici",
-      "answer": "ÜRETİCİ",
-      "row": 9,
+      "text": "Tavadaki ses",
+      "answer": "CIZ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hak, hukuk",
-      "answer": "ADALET",
-      "row": 11,
+      "text": "Alet, vasıta",
+      "answer": "ARAÇ",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Tataristan'ın başkenti",
+      "answer": "KAZAN",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yanık şeker",
-      "answer": "KARAMEL",
+      "text": "Tecrübe",
+      "answer": "DENEYİM",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Artış, ürün",
+      "answer": "NEMA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Renkli, benekli",
+      "answer": "ALA",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Tutu",
+      "answer": "İPOTEK",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yırtıcı masal yaratığı",
+      "answer": "CANAVAR",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tatlı besin",
+      "answer": "BAL",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yarışan kimse",
+      "answer": "RAKİP",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sınırlama miktarı",
+      "answer": "KOTA",
       "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Göreve talip",
-      "answer": "ADAY",
+      "text": "Ufak ada",
+      "answer": "ADACIK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şen, neşeli",
-      "answer": "ŞAKRAK",
-      "row": 6,
+      "text": "Odun baltası",
+      "answer": "NACAK",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yaşam kaynağı",
+      "text": "Susuzluk gidereni",
       "answer": "SU",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Fazilet",
-      "answer": "ERDEM",
+      "text": "Bağımsız",
+      "answer": "AZADE",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İşve, naz",
-      "answer": "EDA",
+      "text": "Telefonda selamlama",
+      "answer": "ALO",
       "row": 9,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hükümdar koltuğu",
-      "answer": "TAHT",
+      "text": "Bilgin kimse",
+      "answer": "ALİM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eskiden beri çalışan",
-      "answer": "EMEKTAR",
+      "text": "Taban, yer",
+      "answer": "ZEMİN",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Deniz generali",
-      "answer": "AMİRAL",
-      "row": 2,
+      "text": "Sermaye",
+      "answer": "ANAPARA",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İki sayı arası",
-      "answer": "İLA",
-      "row": 9,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Boşuna",
-      "answer": "NAFİLE",
+      "text": "İstanbul'un eski adı",
+      "answer": "ASİTANE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bir erkek adı",
-      "answer": "CEM",
-      "row": 9,
+      "text": "Verimli düzlük",
+      "answer": "OVA",
+      "row": 8,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yaz karşıtı",
-      "answer": "KIŞ",
+      "text": "Onay, izin, tasdik",
+      "answer": "OLUR",
       "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yetke",
-      "answer": "OTORİTE",
-      "row": 5,
+      "text": "Döşek",
+      "answer": "YATAK",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sürat",
-      "answer": "HIZ",
-      "row": 0,
+      "text": "Türk parası",
+      "answer": "LİRA",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kızartma kabı",
-      "answer": "TAVA",
-      "row": 5,
+      "text": "Geri karşıtı",
+      "answer": "İLERİ",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Baba karşıtı",
-      "answer": "ANA",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Boş inanç",
-      "answer": "HURAFE",
-      "row": 4,
+      "text": "Gizli sapma",
+      "answer": "KAÇAMAK",
+      "row": 2,
       "col": 8,
       "arrow": "down"
     }
@@ -246,36 +239,48 @@
       "col": 6
     },
     {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 1,
+      "col": 8
+    },
+    {
       "row": 3,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 5,
+      "row": 7,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 1
-    },
-    {
-      "row": 6,
+      "row": 9,
       "col": 0
     },
     {
       "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 7
-    },
-    {
-      "row": 11,
       "col": 8
+    },
+    {
+      "row": 12,
+      "col": 5
+    },
+    {
+      "row": 12,
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 7
     },
     {
       "row": 12,

@@ -5,177 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Enerji birimi",
-      "answer": "ERG",
+      "text": "Kaliteli kimse",
+      "answer": "KLAS",
       "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Vücudun üstü",
-      "answer": "BAŞ",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sesle şarkı söyleme",
-      "answer": "ŞAN",
-      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Osmanlıcada çeşit",
-      "answer": "NEV",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Duvar süsleyicisi",
-      "answer": "NAKKAŞ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yol oteli",
-      "answer": "MOTEL",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İstemeyerek",
-      "answer": "ZORAKİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İdrar torbası",
-      "answer": "MESANE",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Askerî olmayan",
-      "answer": "SİVİL",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hava koşulları",
-      "answer": "İKLİM",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Evre, safha",
-      "answer": "FAZ",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ege'nin yiğidi",
-      "answer": "EFE",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Erkek hizmetçi",
-      "answer": "UŞAK",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sert siyah ağaç",
-      "answer": "ABANOZ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Dizi, sıra",
-      "answer": "SAF",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Vücut yapısı bilimi",
-      "answer": "ANATOMİ",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Benzer, denk",
-      "answer": "EŞ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kök sebzesi",
-      "answer": "KEREVİZ",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Eskimeyen",
-      "answer": "KLASİK",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bıkma, usanma",
-      "answer": "GINA",
+      "text": "Rafta biriken",
+      "answer": "TOZ",
       "row": 0,
       "col": 5,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Sözünde durmayan",
-      "answer": "KALLEŞ",
+      "text": "Duvar kireci",
+      "answer": "BADANA",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yinelenen bölüm",
+      "answer": "NAKARAT",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Üst görevli",
+      "answer": "AMİR",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Eşya seti",
+      "answer": "TAKIM",
       "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ara bulucu",
+      "answer": "ARACI",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tahta perde",
+      "answer": "ÇİT",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Uzun yol kamyonu",
+      "answer": "TIR",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Bahçıvan küreği",
+      "answer": "BEL",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yanık şeker",
+      "answer": "KARAMEL",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Alçak, korkak",
+      "answer": "NAMERT",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Serilen örtü",
+      "answer": "YAYGI",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Harita oranı",
+      "answer": "ÖLÇEK",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yünden dokuma",
+      "answer": "ABA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Reklam metni",
+      "answer": "İLAN",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İç organlar",
+      "answer": "SAKATAT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çelik yol demiri",
+      "answer": "RAY",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kan kanalı",
+      "answer": "DAMAR",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kör",
+      "answer": "AMA",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tasavvuf yolu",
+      "answer": "TARİKAT",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "At yürüyüşü",
-      "answer": "EŞKİN",
-      "row": 2,
+      "text": "Halk nefeslisi",
+      "answer": "MEY",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Tamirci",
+      "answer": "ONARICI",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Borcu ödeme",
-      "answer": "İFA",
+      "text": "Fizikte iş ölçüsü",
+      "answer": "ERG",
       "row": 8,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Antitezin karşıtı",
-      "answer": "SAV",
+      "text": "Özün kendisi",
+      "answer": "ZAT",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Temel besin",
-      "answer": "EKMEK",
-      "row": 6,
+      "text": "Anlaşılmaz alçak ses",
+      "answer": "MIRILTI",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -183,46 +190,30 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
       "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 6
     },
     {
       "row": 2,
-      "col": 4
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 7
-    },
-    {
-      "row": 7,
       "col": 0
     },
     {
-      "row": 9,
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 10,
       "col": 0
     },
     {
@@ -232,10 +223,6 @@
     {
       "row": 11,
       "col": 1
-    },
-    {
-      "row": 11,
-      "col": 2
     }
   ],
   "difficulty": "zor",

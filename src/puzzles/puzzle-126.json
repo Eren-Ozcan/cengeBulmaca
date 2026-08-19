@@ -5,142 +5,121 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Dağ karşıtı yer şekli",
-      "answer": "OVA",
+      "text": "Deneyim",
+      "answer": "TECRÜBE",
       "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çek başkenti",
-      "answer": "PRAG",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kebabın malzemesi",
-      "answer": "ET",
+      "text": "At sırtındaki örtü",
+      "answer": "ÇUL",
       "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Özgü, mahsus",
-      "answer": "HAS",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Olağanüstü",
-      "answer": "HARİKA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sağ veya sol",
-      "answer": "YAN",
-      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gemide oda",
-      "answer": "KAMARA",
+      "text": "Övgü şiiri",
+      "answer": "KASİDE",
+      "row": 3,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mikstür",
+      "answer": "KARIŞIM",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Harp",
+      "answer": "SAVAŞ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Saydam kıvam maddesi",
-      "answer": "JELATİN",
+      "text": "Eli işe yatkın",
+      "answer": "HAMARAT",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Olta ipi",
-      "answer": "MİSİNA",
+      "text": "Maharet",
+      "answer": "BECERİ",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kesme aracı",
-      "answer": "MAKAS",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
+      "text": "Veraset",
+      "answer": "KALITIM",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Maç yöneticisi",
-      "answer": "HAKEM",
+      "text": "Köyden büyük yer",
+      "answer": "KASABA",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Alan; oyun yeri",
-      "answer": "SAHA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bilgin kimse",
-      "answer": "ALİM",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Haydarpaşa'daki yapı",
-      "answer": "GAR",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çalışma mobilyası",
-      "answer": "MASA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalça siniri",
-      "answer": "SİYATİK",
+      "text": "Yanık şeker",
+      "answer": "KARAMEL",
       "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Duvar sıvayan",
+      "answer": "SIVACI",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dörtten önceki sayı",
+      "answer": "ÜÇ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "En yaygın bağlaç",
-      "answer": "VE",
+      "text": "Belirti, jest",
+      "answer": "İŞARET",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yakındakini gösteren",
+      "answer": "BU",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gemi omurgası",
-      "answer": "KARİNA",
+      "text": "İçeri karşıtı",
+      "answer": "DIŞARI",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Fırlat, savur",
-      "answer": "AT",
+      "text": "Vazgeçilmez",
+      "answer": "ELZEM",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tropik meyve",
-      "answer": "ANANAS",
-      "row": 3,
+      "text": "Askerde küçük grup",
+      "answer": "TİM",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     }
@@ -148,30 +127,26 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
       "col": 3
     },
     {
-      "row": 1,
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
       "col": 1
     },
     {
       "row": 3,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 9,
       "col": 0
     }
   ],

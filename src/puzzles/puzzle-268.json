@@ -5,170 +5,163 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Saçmalama",
-      "answer": "HEZEYAN",
+      "text": "Gönül borcu",
+      "answer": "ŞÜKRAN",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İğne yapraklı",
-      "answer": "PÜR",
+      "text": "Önceki gün",
+      "answer": "ARİFE",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Temel besin",
-      "answer": "EKMEK",
+      "text": "Ağır karşıtı",
+      "answer": "HAFİF",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Aile kökeni",
-      "answer": "SOY",
-      "row": 3,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kalın yün kumaş",
-      "answer": "ABA",
+      "text": "Komisyoncu",
+      "answer": "SİMSAR",
       "row": 4,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Otobüs güzergâhı",
-      "answer": "HAT",
-      "row": 4,
+      "text": "Akım geçiren",
+      "answer": "İLETKEN",
+      "row": 5,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Seksen dokuzdan sonra",
-      "answer": "DOKSAN",
+      "text": "Alınıp satılan",
+      "answer": "META",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kör bağırsak uzantısı",
-      "answer": "APANDİS",
+      "text": "Politika",
+      "answer": "SİYASET",
       "row": 7,
-      "col": 0,
-      "arrow": "right"
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Uzaktan görülen",
-      "answer": "KARARTI",
+      "text": "Uyku giysisi",
+      "answer": "GECELİK",
       "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Göğün en üstü",
-      "answer": "ARŞ",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Boyun örtüsü",
-      "answer": "ATKI",
-      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Voleybolda devre",
-      "answer": "SET",
+      "text": "Japon giysisi",
+      "answer": "KİMONO",
       "row": 10,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eski futbol terimi",
-      "answer": "HAF",
+      "text": "Konservatuvar dalı",
+      "answer": "ŞAN",
       "row": 0,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "İçten bağlılık",
-      "answer": "SADAKAT",
+      "text": "Parıltılı iplik",
+      "answer": "SİM",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Araç bırakma yeri",
-      "answer": "OTOPARK",
+      "text": "Buzsuz içilen",
+      "answer": "SEK",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yenilikten yana",
+      "answer": "İLERİCİ",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Oldukça çok",
-      "answer": "EPEY",
+      "text": "Bağışlama, merhamet",
+      "answer": "RAHMET",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ön yüz",
-      "answer": "KARŞI",
-      "row": 5,
+      "text": "Hayvan besini",
+      "answer": "YEM",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sorumluluk, külfet",
-      "answer": "YÜK",
+      "text": "Çarşı sokağı",
+      "answer": "ARASTA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Süre, sıra",
-      "answer": "ESNA",
-      "row": 4,
+      "text": "Telefonda selamlama",
+      "answer": "ALO",
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Aile işareti",
-      "answer": "ARMA",
+      "text": "Dargınlık tohumu",
+      "answer": "NİFAK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yer bilgisi",
-      "answer": "ADRES",
-      "row": 5,
+      "text": "İlham",
+      "answer": "ESİN",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sert kauçuk",
-      "answer": "EBONİT",
-      "row": 2,
+      "text": "Miktar eksilmesi",
+      "answer": "FİRE",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yapma, işleme",
-      "answer": "İKA",
-      "row": 1,
+      "text": "Sesin geri dönüşü",
+      "answer": "EKO",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Arapçada bir harf",
+      "answer": "KEF",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Dağ çizgisi",
-      "answer": "SIRT",
-      "row": 6,
+      "text": "İnce yağ",
+      "answer": "NEFT",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -187,24 +180,24 @@
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
       "row": 2,
       "col": 1
     },
     {
-      "row": 5,
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 7
     },
     {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "kolay",

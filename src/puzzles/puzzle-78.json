@@ -5,196 +5,186 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Erkek hizmetçi",
-      "answer": "UŞAK",
+      "text": "Yinelenen düzen",
+      "answer": "ÖRÜNTÜ",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yeni yaratım",
+      "answer": "İCAT",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hisse, parça",
-      "answer": "PAY",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gök-yer çizgisi",
-      "answer": "UFUK",
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
       "row": 2,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yol engeli",
-      "answer": "BARİKAT",
+      "text": "Bağ meyvesi",
+      "answer": "ÜZÜM",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Poyraz, lodos gibi",
-      "answer": "YEL",
+      "text": "Kemikten ayrılan",
+      "answer": "ET",
       "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İtalya'nın başkenti",
-      "answer": "ROMA",
-      "row": 4,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Aptal, dengesiz",
-      "answer": "SALAK",
+      "text": "Gösterge çizelgesi",
+      "answer": "SKALA",
       "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İlk bilgi",
-      "answer": "ABECE",
+      "text": "Kısa imza",
+      "answer": "PARAF",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zanaat öğrencisi",
-      "answer": "ÇIRAK",
-      "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Biçilen bahçe otu",
-      "answer": "ÇİM",
+      "text": "Sağgörü",
+      "answer": "BASİRET",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Pişmiş toprak sanatı",
+      "answer": "SERAMİK",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bal seven hayvan",
-      "answer": "AYI",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tenis aracı",
-      "answer": "RAKET",
+      "text": "Başlangıç",
+      "answer": "MİLAT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Acı ünlemi",
-      "answer": "AY",
+      "text": "Sol'den önceki nota",
+      "answer": "FA",
       "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Öç isteği",
-      "answer": "KİN",
+      "text": "Renkli kanatlı böcek",
+      "answer": "KELEBEK",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Geçmişin izi",
-      "answer": "ANI",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Alt birim",
-      "answer": "ŞUBE",
+      "text": "Hayali canavar",
+      "answer": "ÖCÜ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Az yüksek",
-      "answer": "ALÇAK",
-      "row": 5,
+      "text": "Eskimeyen",
+      "answer": "KLASİK",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şaşkın, bilemeyen",
-      "answer": "AFAL",
+      "text": "Kabul eden",
+      "answer": "RAZI",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Birden sonraki sayı",
-      "answer": "İKİ",
-      "row": 7,
+      "text": "Bisiklet koltuğu",
+      "answer": "SELE",
+      "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Döviz oranı",
-      "answer": "KUR",
+      "text": "Kırışık gideren araç",
+      "answer": "ÜTÜ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Oy veren",
-      "answer": "SEÇMEN",
+      "text": "Sarmal",
+      "answer": "SPİRAL",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kira ödeyen",
-      "answer": "KİRACI",
-      "row": 1,
+      "text": "Japon dövüş sanatı",
+      "answer": "KARATE",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Salgın ishal hastalığı",
-      "answer": "KOLERA",
-      "row": 2,
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Süreç adımı",
-      "answer": "AŞAMA",
+      "text": "Saray bölümü",
+      "answer": "HAREM",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kulübe kayıtlı kişi",
+      "answer": "ÜYE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Belli, aşikâr",
-      "answer": "AYAN",
-      "row": 6,
+      "text": "Şaka",
+      "answer": "LATİFE",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kemerli geçit",
-      "answer": "TAK",
-      "row": 2,
+      "text": "Adına sunma",
+      "answer": "İTHAF",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sahil",
-      "answer": "KIYI",
-      "row": 6,
+      "text": "Kuru kayısı türü",
+      "answer": "KAK",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
     {
       "row": 0,
       "col": 4
@@ -204,11 +194,11 @@
       "col": 7
     },
     {
-      "row": 5,
+      "row": 4,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 5,
       "col": 0
     }
   ],

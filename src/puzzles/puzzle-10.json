@@ -5,240 +5,191 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Şifre, simge",
-      "answer": "KOD",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uzun, dar tahta",
-      "answer": "LATA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hükümdar sopası",
-      "answer": "ASA",
+      "text": "Yeterlilik",
+      "answer": "KİFAYET",
       "row": 1,
-      "col": 6,
-      "arrow": "down-right"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Tasa, kaygı",
-      "answer": "GAM",
+      "text": "Büyük toprak sahibi",
+      "answer": "AĞA",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Taşıma",
-      "answer": "NAKİL",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Fakire verilen",
-      "answer": "SADAKA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeşil sapılı sebze",
-      "answer": "PIRASA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çağdaş",
-      "answer": "MODERN",
-      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Deri sıvısı",
-      "answer": "TER",
+      "text": "Bölümlü eser",
+      "answer": "SONAT",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sanırım",
+      "answer": "GALİBA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bayağı, olağan",
+      "answer": "ALELADE",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Aralık sözü",
+      "answer": "İLA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Soluk",
-      "answer": "NEFES",
+      "text": "Bir kısmı",
+      "answer": "KİMİ",
       "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Var karşıtı",
-      "answer": "YOK",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İnce kılıç",
-      "answer": "MEÇ",
-      "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sahici",
-      "answer": "HAKİKİ",
+      "text": "Gelir taşınmazı",
+      "answer": "AKAR",
       "row": 8,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Giriş holü",
-      "answer": "LOBİ",
+      "text": "Eski kadın mantosu",
+      "answer": "FERACE",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Din işleri",
+      "answer": "DİYANET",
       "row": 10,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İngiliz uzunluk birimi",
-      "answer": "İNÇ",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Onuncu ay",
-      "answer": "EKİM",
+      "text": "Sorumlu kimse",
+      "answer": "VELİ",
       "row": 11,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Rumen parası",
-      "answer": "LEU",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yetke",
-      "answer": "OTORİTE",
-      "row": 11,
+      "text": "Giriş bölmesi",
+      "answer": "KAPI",
+      "row": 8,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "down"
     },
     {
-      "text": "Muhtemel",
-      "answer": "OLASI",
+      "text": "Para dolabı",
+      "answer": "KASA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Osmanlı yönetim birimi",
-      "answer": "EYALET",
-      "row": 6,
+      "text": "Renkli, benekli",
+      "answer": "ALA",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kan kanalı",
-      "answer": "DAMAR",
-      "row": 0,
+      "text": "İmkân",
+      "answer": "OLANAK",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Süslü sanat üslubu",
-      "answer": "ROKOKO",
-      "row": 6,
-      "col": 2,
+      "text": "İç giysi",
+      "answer": "FANİLA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çalım, gösteriş",
+      "answer": "AFİ",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyük erkek kardeş",
+      "answer": "AĞABEY",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Oy (eski dilde)",
+      "answer": "REY",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yataktan kalkamayan",
+      "answer": "YATALAK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Nakleden kimse",
+      "answer": "RAVİ",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İstanbul'un eski adı",
+      "answer": "ASİTANE",
+      "row": 4,
+      "col": 6,
       "arrow": "down"
     },
     {
       "text": "Ev üstü",
       "answer": "DAM",
-      "row": 3,
-      "col": 3,
+      "row": 4,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Gurur",
-      "answer": "KİBİR",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Rakıya koku veren",
-      "answer": "ANASON",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bazıları",
-      "answer": "KİMİ",
+      "text": "Askerlik çağrısı",
+      "answer": "CELP",
       "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüksek bilim kurumu",
-      "answer": "AKADEMİ",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Halk dilinde ağabey",
-      "answer": "AKA",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Batı Anadolu yiğidi",
-      "answer": "EFE",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Beraberlik edatı",
-      "answer": "İLE",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Baş kaldıran",
-      "answer": "ASİ",
-      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Çam sakızı",
-      "answer": "REÇİNE",
-      "row": 5,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Nişan yüzüğü",
-      "answer": "ALYANS",
+      "text": "Hamur parçası",
+      "answer": "BEZE",
       "row": 1,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Kaba örtü",
-      "answer": "ÇUL",
-      "row": 9,
+      "text": "Mesaj",
+      "answer": "İLETİ",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -246,15 +197,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
+      "col": 2
     },
     {
       "row": 0,
@@ -262,27 +209,75 @@
     },
     {
       "row": 0,
+      "col": 7
+    },
+    {
+      "row": 0,
       "col": 8
     },
     {
-      "row": 1,
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 11,
+      "col": 1
+    },
+    {
+      "row": 11,
+      "col": 2
+    },
+    {
+      "row": 11,
       "col": 3
     },
     {
-      "row": 1,
-      "col": 5
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 8
+      "row": 12,
+      "col": 1
     },
     {
       "row": 12,
-      "col": 7
+      "col": 2
+    },
+    {
+      "row": 12,
+      "col": 3
+    },
+    {
+      "row": 12,
+      "col": 4
+    },
+    {
+      "row": 12,
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "zor",

@@ -5,205 +5,184 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Taş kırıntısı",
-      "answer": "KUM",
+      "text": "Üçten sonraki sayı",
+      "answer": "DÖRT",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Bebeği doğurtan",
-      "answer": "EBE",
+      "text": "Arkalıksız minder",
+      "answer": "PUF",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Süs oyuğu",
-      "answer": "NİŞ",
-      "row": 2,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Karşıdakilere seslenme",
-      "answer": "SİZ",
+      "text": "Mini olanı ünlü",
+      "answer": "ETEK",
       "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Akılla ilgili",
-      "answer": "AKLİ",
-      "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Buzsuz içilen",
-      "answer": "SEK",
+      "text": "Yüksek bilim kurumu",
+      "answer": "AKADEMİ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Delikli kumaş",
+      "answer": "ETAMİN",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bale sanatçısı",
+      "answer": "BALERİN",
       "row": 4,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eskiden sandığa atılan",
-      "answer": "REY",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tavan lambası",
-      "answer": "AVİZE",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Namludaki oluk",
-      "answer": "YİV",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İstihbarat teşkilatı",
-      "answer": "MİT",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Adla ilgili",
-      "answer": "ADSAL",
-      "row": 6,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Duvar lambası",
-      "answer": "APLİK",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gözleri görmeyen",
-      "answer": "AMA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Geniş hol",
-      "answer": "SOFA",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Evlenmiş olan",
-      "answer": "EVLİ",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kapı basamağı",
-      "answer": "EŞİK",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Taç çizgisi dışı",
-      "answer": "AUT",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ekmeğin hammaddesi",
-      "answer": "UN",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Şeffaf",
-      "answer": "SAYDAM",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Diş dokusu",
-      "answer": "MİNE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İskambilde sinek",
-      "answer": "İSPATİ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çoban çalgısı",
-      "answer": "KAVAL",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ortaokul sonrası",
-      "answer": "LİSE",
+      "text": "Moldova'nın başkenti",
+      "answer": "KİŞİNEV",
       "row": 6,
-      "col": 4,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Kılıç sporu",
-      "answer": "ESKRİM",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Taşıma kabı",
-      "answer": "KOVA",
+      "text": "Hafız gibi okuyan",
+      "answer": "KARİ",
       "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski dilde yapma",
+      "answer": "İKA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Oldukça iyi",
+      "answer": "İYİCE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hayvan yuvası",
+      "answer": "İN",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Konuşulan uzak yer",
+      "answer": "ORA",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kulübe kayıtlı kişi",
+      "answer": "ÜYE",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kırmızı taneli meyve",
+      "answer": "NAR",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Amin denen söz",
+      "answer": "DUA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Eylem, hareket",
+      "answer": "AKSİYON",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hiddetli",
+      "answer": "ÖFKELİ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Aylık ödeme",
+      "answer": "KİRA",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanma olayı, od",
+      "answer": "ATEŞ",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Atılgan kimse",
+      "answer": "ACAR",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sağlama, bulma",
+      "answer": "TEDARİK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Güvence",
+      "answer": "TEMİNAT",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kol takısı",
-      "answer": "BİLEZİK",
+      "text": "Bilgi toplantısı",
+      "answer": "SEMİNER",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Net karşıtı",
-      "answer": "FLU",
+      "text": "Olumlu, yerinde",
+      "answer": "İYİ",
       "row": 8,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İşkence",
-      "answer": "EZİYET",
-      "row": 0,
+      "text": "Öç isteği",
+      "answer": "KİN",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Mensup, bağlı",
-      "answer": "AİT",
-      "row": 8,
+      "text": "Ekşi kiraz",
+      "answer": "VİŞNE",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -211,31 +190,39 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 3
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
-      "row": 1,
-      "col": 3
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
+      "row": 0,
       "col": 7
     },
     {
-      "row": 10,
-      "col": 1
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 11,
+      "col": 4
+    },
+    {
+      "row": 11,
+      "col": 5
+    },
+    {
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "orta",

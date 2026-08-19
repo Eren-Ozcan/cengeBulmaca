@@ -5,191 +5,212 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Takma ad",
-      "answer": "MAHLAS",
-      "row": 0,
+      "text": "Ismarlama",
+      "answer": "SİPARİŞ",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Tayin",
-      "answer": "ATAMA",
+      "text": "Muhtemel",
+      "answer": "OLASI",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Anason kokulu bitki",
+      "answer": "REZENE",
+      "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Tropik yeşil meyve",
-      "answer": "AVOKADO",
-      "row": 3,
+      "text": "Ürün listesi",
+      "answer": "KATALOG",
+      "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İbadet",
-      "answer": "AMEL",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kafa",
-      "answer": "BAŞ",
+      "text": "Bin gram",
+      "answer": "KİLO",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Japon türküsü",
-      "answer": "UTA",
-      "row": 5,
-      "col": 5,
+      "text": "Tembel, üşenen",
+      "answer": "ÜŞENGEÇ",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Güldürücü, gülünç",
-      "answer": "KOMİK",
-      "row": 6,
-      "col": 3,
+      "text": "Uzunluk ölçüsü",
+      "answer": "MİL",
+      "row": 7,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zabıt",
-      "answer": "TUTANAK",
-      "row": 6,
-      "col": 1,
-      "arrow": "down-right"
+      "text": "Ev çalışması",
+      "answer": "ÖDEV",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Vuruş sesi",
-      "answer": "ŞAK",
+      "text": "Kırmızı püsküllü başlık",
+      "answer": "FES",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kayma ayakkabısı",
-      "answer": "PATEN",
+      "text": "Harç aracı",
+      "answer": "MALA",
       "row": 8,
-      "col": 3,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Ağırbaşlılık",
-      "answer": "VAKAR",
+      "text": "Bedava su",
+      "answer": "SEBİL",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Leyli",
-      "answer": "YATILI",
+      "text": "Üstünlük eki",
+      "answer": "EN",
       "row": 9,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 6,
+      "arrow": "right"
     },
     {
-      "text": "Hayvan bakımı",
-      "answer": "TIMAR",
+      "text": "Kollu sandık çalgısı",
+      "answer": "LATERNA",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Göz-kulak arası",
+      "answer": "ŞAKAK",
       "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Donuk yüzey",
-      "answer": "MAT",
+      "text": "Nesil, sülale",
+      "answer": "SOY",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Oda üstü",
-      "answer": "TAVAN",
-      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dava vekili",
-      "answer": "AVUKAT",
+      "text": "Tavuk barınağı",
+      "answer": "KÜMES",
       "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Valinin yönettiği yer",
+      "answer": "İL",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İnce ekmek",
-      "answer": "LAVAŞ",
+      "text": "Şahsi",
+      "answer": "KİŞİSEL",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Koşut",
+      "answer": "PARALEL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Zor bulunan",
-      "answer": "KIT",
+      "text": "Vücudun üstü",
+      "answer": "BAŞ",
       "row": 8,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Madde parçacığı",
-      "answer": "ATOM",
+      "text": "Oje çıkarıcı",
+      "answer": "ASETON",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Örtülü, kapanmış",
-      "answer": "KAPALI",
-      "row": 5,
+      "text": "Eskiden ödeme işi",
+      "answer": "İTA",
+      "row": 8,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Japon içkisi",
-      "answer": "SAKE",
+      "text": "Muvafakat",
+      "answer": "RIZA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tamirat",
-      "answer": "ONARIM",
+      "text": "Yakalı üst giysi",
+      "answer": "GÖMLEK",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bilgi",
-      "answer": "MALUMAT",
-      "row": 1,
+      "text": "Ayrılık sözü",
+      "answer": "ELVEDA",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sevinçli, neşeli",
-      "answer": "ŞAD",
+      "text": "Eski Mısır tanrısı",
+      "answer": "RA",
+      "row": 9,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tiyatro sahnesi",
+      "answer": "ŞANO",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Küçük lokma",
-      "answer": "TİKE",
-      "row": 4,
+      "text": "Çiçek halkası",
+      "answer": "ÇELENK",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ateş yakılan yer",
-      "answer": "OCAK",
+      "text": "İzmir'in bölgesi",
+      "answer": "EGE",
       "row": 2,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Deftere yazılan",
-      "answer": "NOT",
-      "row": 7,
+      "text": "Boru musluğu",
+      "answer": "VANA",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -197,11 +218,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
@@ -216,40 +233,24 @@
       "col": 8
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 3,
+      "col": 0
     },
     {
       "row": 4,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 1
-    },
-    {
-      "row": 6,
+      "row": 10,
       "col": 0
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
     },
     {
       "row": 11,
       "col": 0
+    },
+    {
+      "row": 11,
+      "col": 1
     },
     {
       "row": 11,

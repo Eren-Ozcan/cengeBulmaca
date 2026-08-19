@@ -5,191 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Takım, kadro",
-      "answer": "EKİP",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yer kırığı",
-      "answer": "FAY",
+      "text": "Baş-boyun örtüsü",
+      "answer": "EŞARP",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Güzel gözlü hayvan",
-      "answer": "AHU",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yetki değneği",
-      "answer": "ASA",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Zarar verme",
-      "answer": "İHLAL",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sağduyu",
-      "answer": "US",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğu ilimiz",
-      "answer": "VAN",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Etrafı su ile çevrili",
-      "answer": "ADA",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Bas perde",
-      "answer": "PES",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Cilt maddesi",
-      "answer": "KREM",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sporla gelişen doku",
-      "answer": "KAS",
-      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bir yerde oturma",
-      "answer": "İKAMET",
-      "row": 7,
+      "text": "Kıyıdaki girinti",
+      "answer": "KOY",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Gösterge çizelgesi",
+      "answer": "SKALA",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yassı, mayalı ekmek",
+      "answer": "PİDE",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İnce örtü katmanı",
+      "answer": "ZAR",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Nitrogliserinli patlayıcı",
+      "answer": "DİNAMİT",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Saf, bön",
-      "answer": "AVANAK",
-      "row": 8,
-      "col": 1,
+      "text": "Genetik kod parçası",
+      "answer": "GEN",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gerçekleşmiş olan",
+      "answer": "VAKİ",
+      "row": 6,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yat limanı",
-      "answer": "MARİNA",
+      "text": "Kâr",
+      "answer": "KAZANÇ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sebze bahçesi",
+      "answer": "BOSTAN",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Onurluk",
-      "answer": "PLAKET",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
+      "text": "Filin burnu",
+      "answer": "HORTUM",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Kahve satan",
-      "answer": "KAHVECİ",
+      "text": "Seçkin",
+      "answer": "GÜZİDE",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gönülden bağlılık",
-      "answer": "İHLAS",
-      "row": 0,
+      "text": "Ürkünce çıkan ses",
+      "answer": "ABO",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dev fosil sürüngen",
+      "answer": "DİNOZOR",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çadır yeri",
-      "answer": "KAMP",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Başarı sayısı",
-      "answer": "PUAN",
+      "text": "Bölen çizgi",
+      "answer": "EKSEN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çoban çalgısı",
-      "answer": "KAVAL",
-      "row": 5,
+      "text": "Emir alan kişi",
+      "answer": "AST",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gemide oda",
-      "answer": "KAMARA",
+      "text": "Elektrik çarpması",
+      "answer": "ŞOK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Teselli",
+      "answer": "AVUNTU",
       "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gamın dördüncüsü",
-      "answer": "FA",
+      "text": "Kutsal pınar",
+      "answer": "AYAZMA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zehirli element",
-      "answer": "ARSENİK",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sakin, huzurlu, rahat",
-      "answer": "ASUDE",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Adet",
-      "answer": "TANE",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yasa yapma",
-      "answer": "YASAMA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Bina bölümü",
-      "answer": "KAT",
+      "text": "Reçinesiyle bilinen ağaç",
+      "answer": "ÇAM",
       "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Dinden bağımsız",
+      "answer": "LAİK",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sanatçı, oyuncu",
+      "answer": "ARTİST",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -197,23 +162,47 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
     },
     {
-      "row": 6,
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
       "col": 0
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 0
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 7
     },
     {
       "row": 10,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "orta",

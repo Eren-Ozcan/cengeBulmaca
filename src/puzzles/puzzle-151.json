@@ -5,141 +5,141 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Tropik ağaç",
-      "answer": "PALMİYE",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dudak kabarcığı",
-      "answer": "UÇUK",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sahne sanatı",
-      "answer": "TİYATRO",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Spor yapıp sıkılaşmış",
-      "answer": "FİT",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hoplarken çıkan ses",
-      "answer": "HOP",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Alım satım ortamı",
-      "answer": "PİYASA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağızdan ağıza yayılan",
-      "answer": "TEVATÜR",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Aracın yön kolu",
-      "answer": "ROT",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Oyunda sıra",
-      "answer": "EL",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Pat sesi",
-      "answer": "PATIRTI",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ansızın, beklenmedik",
-      "answer": "ANİ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sahne yapıtı",
-      "answer": "OPERA",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Pota altı oyuncusu",
-      "answer": "PİVOT",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yükümlülük dışı",
-      "answer": "MUAF",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dışarıda gecelemek",
-      "answer": "YATI",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
       "text": "Hukuki yorum",
       "answer": "İÇTİHAT",
       "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yüzeyi parlatan",
+      "answer": "CİLA",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İfade",
+      "answer": "ANLATIM",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kesin olmayan düşünce",
+      "answer": "ZAN",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Puan tablosu düzeni",
+      "answer": "LİG",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tanıtım levhası",
+      "answer": "TABELA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eylemci savunucu",
+      "answer": "MİLİTAN",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kabuklu güz meyvesi",
+      "answer": "NAR",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Nişan, eser",
+      "answer": "İZ",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sık dokuma bez",
+      "answer": "PATİSKA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Uzak Doğu ülkesi",
+      "answer": "ÇİN",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Özen",
+      "answer": "İTİNA",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanlış kelime",
+      "answer": "GALAT",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kısa anlatım",
+      "answer": "İCAZ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kim olduğu belirsiz",
+      "answer": "BİRİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Söz söyleme sanatı",
+      "answer": "HİTABET",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Vatan",
-      "answer": "YURT",
+      "text": "Yüz üstü",
+      "answer": "ALIN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yumuşak deri",
-      "answer": "SÜET",
+      "text": "Cumhuriyetin niteliği",
+      "answer": "LAİK",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sesin geri dönüşü",
-      "answer": "EKO",
+      "text": "Bütün, noksansız",
+      "answer": "TAM",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kar örtülü",
-      "answer": "KARLI",
+      "text": "Katlı yatak",
+      "answer": "RANZA",
       "row": 4,
       "col": 6,
       "arrow": "down"

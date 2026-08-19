@@ -5,197 +5,183 @@
   "cols": 8,
   "clues": [
     {
-      "text": "İğne yapraklı ağaç",
-      "answer": "ÇAM",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Patates atıştırmalığı",
-      "answer": "CİPS",
+      "text": "Çadır yeri",
+      "answer": "KAMP",
       "row": 1,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Tüylü boyun atkısı",
-      "answer": "BOA",
+      "text": "Yeşillik karışımı",
+      "answer": "SALATA",
       "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Anlaşılmaz gürültü",
-      "answer": "UĞULTU",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Mesaj",
-      "answer": "İLETİ",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bulanık görüntü",
-      "answer": "FLU",
-      "row": 4,
+      "text": "Doğaçlamalı müzik",
+      "answer": "CAZ",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üzüm bitkisi",
-      "answer": "ASMA",
-      "row": 5,
+      "text": "Kavrama yeteneği",
+      "answer": "ZEKİ",
+      "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Özet",
-      "answer": "HÜLASA",
-      "row": 7,
+      "text": "Yapay tatlandırıcı",
+      "answer": "SAKARİN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yat limanı",
+      "answer": "MARİNA",
+      "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çağdaş",
-      "answer": "MODERN",
+      "text": "Hainlik",
+      "answer": "İHANET",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Slogan gibi söz",
+      "answer": "ŞİAR",
+      "row": 7,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kale sayısı",
+      "answer": "GOL",
       "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Savaşa ara",
-      "answer": "ATEŞKES",
+      "text": "Alınanı döndürme",
+      "answer": "İADE",
       "row": 9,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Acemi, deneyimsiz",
-      "answer": "TOR",
+      "text": "Rezalet olayı",
+      "answer": "SKANDAL",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Briçte koz rengi",
-      "answer": "ATU",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Teneffüs habercisi",
-      "answer": "ZİL",
+      "text": "Üçüncü Yunan harfi",
+      "answer": "GAMA",
       "row": 11,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kıldan dokuma",
-      "answer": "ÇUL",
-      "row": 0,
+      "text": "Canlandırılan kişi",
+      "answer": "ROL",
+      "row": 4,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Aralık sözü",
-      "answer": "İLA",
-      "row": 3,
+      "text": "Temel öz",
+      "answer": "ESAS",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Parlak olmayan",
-      "answer": "MAT",
+      "text": "Taş yolu",
+      "answer": "ŞOSE",
       "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bursa'da bir cami",
-      "answer": "ULU",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Süslü başlık",
-      "answer": "HOTOZ",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Törpü",
-      "answer": "EĞE",
+      "text": "Maksimum",
+      "answer": "AZAMİ",
       "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Birinci, öncü",
+      "answer": "İLK",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Konak yöneticisi",
+      "answer": "KAHYA",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Geyik derisi",
-      "answer": "GÜDERİ",
-      "row": 5,
-      "col": 3,
+      "text": "Yanlışlıkla",
+      "answer": "KAZARA",
+      "row": 0,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Japonya'nın halk şarkısı",
-      "answer": "UTA",
+      "text": "Boks alanı",
+      "answer": "RİNG",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gümüş balığı",
+      "answer": "ATERİNA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kara parçası",
+      "answer": "ADA",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Enerji çeviren düzenek",
+      "answer": "MAKİNE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kadın karşıtı",
+      "answer": "ADAM",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayak direme",
+      "answer": "İNAT",
       "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvan ölüsü",
-      "answer": "LEŞ",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Şeytan",
-      "answer": "İBLİS",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ön karşıtı",
-      "answer": "ARKA",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırılan söz",
-      "answer": "POT",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Destek noktası",
-      "answer": "MESNET",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Buhar banyosu",
-      "answer": "SAUNA",
-      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Burçlarla örülü yapı",
-      "answer": "SUR",
+      "text": "Göz rengi",
+      "answer": "ELA",
       "row": 8,
       "col": 7,
       "arrow": "down"
@@ -204,7 +190,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
@@ -216,23 +202,15 @@
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
       "col": 7
     },
     {
+      "row": 1,
+      "col": 0
+    },
+    {
       "row": 7,
-      "col": 0
+      "col": 7
     },
     {
       "row": 11,
@@ -240,11 +218,7 @@
     },
     {
       "row": 11,
-      "col": 5
-    },
-    {
-      "row": 11,
-      "col": 6
+      "col": 2
     }
   ],
   "difficulty": "orta",

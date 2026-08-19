@@ -5,197 +5,225 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Gazete yazısı",
-      "answer": "MAKALE",
+      "text": "Kahverengi ayı",
+      "answer": "BOZAYI",
       "row": 0,
-      "col": 0,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Gamın üçüncüsü",
-      "answer": "Mİ",
-      "row": 1,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Yanan sopa",
-      "answer": "MEŞALE",
+      "text": "Araç, avadanlık",
+      "answer": "ALET",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kadın hükümdar",
-      "answer": "MELİKE",
+      "text": "Karalar bağlama",
+      "answer": "YAS",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Dolma kalem",
+      "answer": "STİLO",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Duygu dolu",
-      "answer": "LİRİK",
+      "text": "Bal seven hayvan",
+      "answer": "AYI",
+      "row": 3,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Sallanan barfiks",
+      "answer": "TRAPEZ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Girişi kapatma",
-      "answer": "MEN",
+      "text": "İspiyoncu",
+      "answer": "GAMMAZ",
       "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Elde çalınan vurmalı",
-      "answer": "TEF",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Şişe yapılan madde",
-      "answer": "PET",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kor aracı",
-      "answer": "MAŞA",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tezgâhlı içki yeri",
-      "answer": "BAR",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Peynirli hamur işi",
-      "answer": "POĞAÇA",
-      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Tarım",
-      "answer": "ZİRAAT",
-      "row": 9,
+      "text": "Boğaz gibi geçit",
+      "answer": "DAR",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Temel, esas",
+      "answer": "ANA",
+      "row": 6,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yürütme hakkı",
+      "answer": "YETKİ",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yapılan yanlış",
-      "answer": "HATA",
-      "row": 9,
+      "text": "Cezanın kaldırılması",
+      "answer": "AF",
+      "row": 7,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "İri yaratık",
+      "answer": "DEV",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Pembe şarap",
-      "answer": "ROZE",
-      "row": 10,
+      "text": "Kesim öncesi besleme",
+      "answer": "BESİ",
+      "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Amerika kedigili",
-      "answer": "JAGUAR",
+      "text": "Türk makamı",
+      "answer": "MAHUR",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Rey",
+      "answer": "OY",
+      "row": 9,
+      "col": 6,
+      "arrow": "right"
+    },
+    {
+      "text": "Emziren kadın",
+      "answer": "SÜTANNE",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Hastalık",
+      "answer": "MARAZ",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İbadet",
-      "answer": "AMEL",
+      "text": "Bile, üstelik",
+      "answer": "HATTA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kır resmi",
-      "answer": "PEYZAJ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sözcük",
-      "answer": "KELİME",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlıcada para verme",
-      "answer": "İTA",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Oymak, kabile",
-      "answer": "AŞİRET",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çek başkenti",
-      "answer": "PRAG",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ama",
-      "answer": "LAKİN",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tüylü boyun atkısı",
-      "answer": "BOA",
+      "text": "Tavuğa verilen",
+      "answer": "YEM",
       "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Antik telli çalgı",
+      "answer": "LİR",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok büyük",
+      "answer": "DEVASA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Söz ustalığı",
+      "answer": "BELAGAT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Serbest yaşayan",
+      "answer": "HÜR",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Araç bırakma yeri",
+      "answer": "OTOPARK",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eleme aracı",
-      "answer": "ELEK",
+      "text": "Japon türküsü",
+      "answer": "UTA",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İlaç, merhem",
+      "answer": "EM",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ortaya koyma",
+      "answer": "İBRAZ",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kutsal pınar",
+      "answer": "AYAZMA",
       "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yer altı boşluğu",
-      "answer": "MAĞARA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Cevizli sarımsaklı sos",
-      "answer": "TARATOR",
-      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dörtten sonraki sayı",
-      "answer": "BEŞ",
-      "row": 3,
+      "text": "Ok aracı",
+      "answer": "YAY",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Görünüm, kılık",
-      "answer": "FAÇA",
+      "text": "Rakıya koku veren",
+      "answer": "ANASON",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıcaklık derecesi",
+      "answer": "ISI",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Zayıflık",
+      "answer": "ZAFİYET",
       "row": 4,
       "col": 8,
       "arrow": "down"
@@ -204,67 +232,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 6
+      "col": 0
     },
     {
       "row": 0,
-      "col": 7
+      "col": 2
     },
     {
       "row": 0,
-      "col": 8
+      "col": 5
     },
     {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 8
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 8
+      "row": 1,
+      "col": 0
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 6,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 2
-    },
-    {
-      "row": 7,
-      "col": 7
-    },
-    {
-      "row": 8,
+      "row": 10,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 8
+      "row": 11,
+      "col": 6
     },
     {
       "row": 11,
       "col": 7
-    },
-    {
-      "row": 11,
-      "col": 8
     }
   ],
   "difficulty": "zor",
