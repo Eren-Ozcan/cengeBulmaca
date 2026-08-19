@@ -25,3 +25,6 @@ dist-ssr
 
 # Private/local-only store & marketing assets (mirrored to private Eren-Ozcan/pictures repo)
 docs/store-assets-originals/
+
+# Local knowledge-graph output (graphify skill)
+graphify-out/
