@@ -15,14 +15,24 @@ list for a different word length (2/3/4/6/7 letters) using the same
 scripts if they're needed again — they were run from the scratchpad and
 not committed, only the output TSV was).
 
-## 6letter-tdk-candidates.tsv — IN PROGRESS (started 2026-08-17)
+## 6letter-tdk-candidates.tsv — DONE (2026-08-19)
 
-6015 candidates, not yet reviewed. Same source/extraction/filter as the
-5-letter file below, just `len === 6`. Extraction script:
-`tools/dict-sources/extract6-detail.mjs` (kept this time, unlike the
-5-letter pass where the script lived only in scratch and was lost —
-rerun it any time dictionary.mjs grows and the candidate list needs
-refreshing).
+All 6015 candidates have been hand-reviewed; 1402 new 6-letter words were
+added to `dictionary.mjs` (54 -> 1456 total). Kept only as a provenance
+record. Extraction script: `tools/dict-sources/extract6-detail.mjs`.
+
+## 7letter-tdk-candidates.tsv — DONE (2026-08-19)
+
+7917 candidates extracted with `tools/dict-sources/extract7-detail.mjs`
+(same source/filter as the 6-letter file, just `len === 7`) and fully
+hand-reviewed; 1239 new 7-letter words were added to `dictionary.mjs`
+(33 -> 1272 total).
+
+Both passes used the same pre-filter before hand review: drop entries
+tagged `esk.`, `ağz.`, `argo`, `tkz.`, `hlk.`, plus verbal nouns whose
+definition is just "…mak işi/durumu". After every batch the whole
+dictionary is re-checked for duplicate answers, clue texts longer than
+3 words and clue-text collisions between different answers (all zero).
 
 **Clue style going forward: write clues at ≤4 words from the start**
 (prefer 1-3 words, synonym-pairs or short noun-phrases) — matching the
