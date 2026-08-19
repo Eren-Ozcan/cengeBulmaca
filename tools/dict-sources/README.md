@@ -72,3 +72,33 @@ the exact node one-liners used throughout this project).
 This file is a static snapshot — words added to `dictionary.mjs` are **not**
 removed from it. To find what's left to review for a given range, diff
 against the current answer set in `tools/dictionary.mjs`.
+
+## Sıfır tekrar projesi — 2026-08-19 durumu
+
+Amaç: 300 bulmacada aynı ipucu metninin tekrarlanmaması. Bu oturumda yapılanlar:
+
+- `tools/generate.mjs` küresel ipucu takibi kazandı (`createTracker` /
+  `commitToTracker`): 300 bulmacalık üretim boyunca hangi metnin kaç kez
+  kullanıldığı izleniyor, doldurucu az kullanılmış kelimeleri önceliyor ve aynı
+  maske için birkaç doldurma denenip en az tekrar üreteni seçiliyor.
+- Doldurucu bit maskesi dizinine taşındı; 6600 kelimelik sözlükle bulmaca başına
+  süre ~0,2 sn.
+- Yeni `shortenShortRuns` geçişi 2 harfli blokları seyreltiyor (soruların
+  %31'inden %5'ine). 2 harfli Türkçe kelime sayısı çok az olduğu için tekrarın
+  asıl kaynağı buydu.
+- `tools/regenerate-all.mjs` ile 300 bulmaca tek seferde, ortak takipçiyle
+  yeniden üretiliyor (id/başlık/satır/sütun/zorluk/sıra korunur).
+- Sözlük: 2 harfli katman elden geçti (kimya simgesi girdileri çıkarıldı,
+  81 kelime / 260 ipucu). 3 harfli katmanda 128 kelime çoklu ipucuya çevrildi.
+
+Ölçüm (300 bulmaca, 8087 soru): 4304 farklı ipucu metni. Uzunluğa göre en çok
+tekrar: len2 6, len3 14, len4 6, len5 7, len6 7, len7 7. Başlangıçta tek bir
+metin 50 kez tekrarlanıyordu.
+
+**Kaldığımız yer:** 3 harfli 434 kelimenin 306'sı hâlâ 1-2 ipuçlu. Sıradaki iş,
+bu 306 kelimeye (EKO, AKA, ATU, HAR, İKA, İTA, LAM, RAN, UTA, BRE, ECE, ERG,
+FES, FON, GAR ... ile başlayan liste) elden 3-5'er ipucu yazmak. Her partiden
+sonra şu üç kontrol çalıştırılmalı: farklı cevaplarda aynı ipucu metni (0
+olmalı), 4 kelimeden uzun ipucu (0 olmalı), tekrar eden cevap (0 olmalı).
+Sonrasında `node tools/regenerate-all.mjs`, `npm run puzzles:manifest` ve
+`npx vitest run`.
