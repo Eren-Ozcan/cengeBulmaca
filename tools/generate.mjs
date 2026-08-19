@@ -9,10 +9,12 @@
 
 import { writeFileSync, mkdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
-import { dirname, join } from "node:path";
+import { dirname, join, resolve } from "node:path";
 import { WORDS } from "./dictionary.mjs";
 
 const MAX_WORD_LEN = 7;
+// Aynı maske için denenecek doldurma sayısı (tracker varken).
+const FILL_TRIES = 6;
 
 // ---------- seeded RNG ----------
 function mulberry32(seed) {
@@ -226,72 +228,210 @@ for (const w of WORDS) {
   byLen.get(len).push(w);
 }
 
-function fillGrid(slots, cols, rows, rnd) {
+// ---------- küresel ipucu kullanım takibi ----------
+// Tek bir bulmaca içinde cevaplar zaten tekrarlanmıyor; asıl sorun aynı ipucu
+// metninin 300 bulmaca boyunca defalarca çıkması. Tracker, hangi metnin kaç kez
+// kullanıldığını tutar; doldurucu az kullanılmış kelimeleri, ipucu seçimi de o
+// kelimenin en az kullanılmış varyantını tercih eder.
+export function createTracker() {
+  return { text: new Map(), answer: new Map() };
+}
+
+// Kelimenin en az kullanılmış ipucu varyantının kullanım sayısı.
+function wordCost(tracker, w) {
+  let min = Infinity;
+  for (const t of w.c) {
+    const n = tracker.text.get(t) ?? 0;
+    if (n < min) min = n;
+  }
+  return min;
+}
+
+function pickClue(tracker, w, rnd) {
+  if (!tracker) return w.c[Math.floor(rnd() * w.c.length)];
+  let best = w.c[0];
+  let bestN = Infinity;
+  for (const t of w.c) {
+    const n = tracker.text.get(t) ?? 0;
+    if (n < bestN) {
+      bestN = n;
+      best = t;
+    }
+  }
+  return best;
+}
+
+export function commitToTracker(tracker, clues) {
+  if (!tracker) return;
+  for (const cl of clues) {
+    tracker.text.set(cl.text, (tracker.text.get(cl.text) ?? 0) + 1);
+    tracker.answer.set(cl.answer, (tracker.answer.get(cl.answer) ?? 0) + 1);
+  }
+}
+
+// Uzunluk başına bit maskesi dizini: maskIndex.get(len).pos[p].get(harf), o
+// uzunluktaki kelimelerden p. harfi eşleşenleri gösteren bit kümesidir. Aday
+// bulmak, kelime listesini taramak yerine birkaç bit AND'i ile yapılır — sözlük
+// büyüdükçe (6600+ kelime) doldurma hızını ayakta tutan şey budur.
+const maskIndex = new Map();
+for (const [len, list] of byLen) {
+  const n = list.length;
+  const size = (n + 31) >> 5;
+  const all = new Uint32Array(size);
+  for (let i = 0; i < n; i++) all[i >> 5] |= 1 << (i & 31);
+  const pos = [];
+  for (let p = 0; p < len; p++) pos.push(new Map());
+  list.forEach((w, i) => {
+    const chars = [...w.a];
+    for (let p = 0; p < len; p++) {
+      let bits = pos[p].get(chars[p]);
+      if (!bits) {
+        bits = new Uint32Array(size);
+        pos[p].set(chars[p], bits);
+      }
+      bits[i >> 5] |= 1 << (i & 31);
+    }
+  });
+  maskIndex.set(len, { list, n, size, all, pos });
+}
+
+function popcount(x) {
+  x = x - ((x >> 1) & 0x55555555);
+  x = (x & 0x33333333) + ((x >> 2) & 0x33333333);
+  x = (x + (x >> 4)) & 0x0f0f0f0f;
+  return (Math.imul(x, 0x01010101) >> 24) & 0x3f;
+}
+
+function fillGrid(slots, cols, rows, rnd, tracker, widen = 1) {
   const letters = Array.from({ length: rows }, () => new Array(cols).fill(null));
   const assigned = new Array(slots.length).fill(null);
-  const used = new Set();
   let nodes = 0;
-  const NODE_LIMIT = 300000;
+  // Küresel yayılma önceliği bazen çözülemez bir ön eke saplanıyor; düşük düğüm
+  // sınırı böyle denemeleri hızla iptal edip yeni tohumla yeniden başlatmayı
+  // sağlıyor (yeniden deneme, uzun geri izlemeden ucuz).
+  const NODE_LIMIT = tracker ? 20000 : 300000;
 
   const cellsOf = (s) => {
     const out = [];
     for (let i = 0; i < s.len; i++) {
-      out.push(
-        s.dir === "across" ? [s.row, s.col + i] : [s.row + i, s.col],
-      );
+      out.push(s.dir === "across" ? [s.row, s.col + i] : [s.row + i, s.col]);
     }
     return out;
   };
   const slotCells = slots.map(cellsOf);
 
-  function candidates(si) {
-    const list = byLen.get(slots[si].len) ?? [];
-    const cells = slotCells[si];
-    const out = [];
-    for (const w of list) {
-      if (used.has(w.a)) continue;
-      const chars = [...w.a];
-      let ok = true;
-      for (let i = 0; i < chars.length; i++) {
-        const cur = letters[cells[i][0]][cells[i][1]];
-        if (cur !== null && cur !== chars[i]) {
-          ok = false;
-          break;
-        }
-      }
-      if (ok) out.push(w);
+  // Kullanılan cevaplar uzunluk başına bit kümesinde tutulur (farklı uzunluktaki
+  // cevaplar zaten çakışamaz).
+  const usedBits = new Map();
+  for (const [len, idx] of maskIndex) usedBits.set(len, new Uint32Array(idx.size));
+
+  // Küresel yayılma: her kelimenin maliyeti = en az kullanılmış ipucu
+  // varyantının küresel kullanım sayısı. Uzunluk başına bir eşik seçilir;
+  // doldurucu önce eşiğin altındaki (az kullanılmış) kelimeleri dener, tıkanırsa
+  // gerisine düşer. Havuz daraltılmaz — daraltmak kesişimleri çözülemez yapıyor.
+  const costs = new Map();
+  const threshold = new Map();
+  for (const [len, idx] of maskIndex) {
+    const arr = new Int32Array(idx.n);
+    if (!tracker) {
+      costs.set(len, arr);
+      threshold.set(len, 0);
+      continue;
     }
-    return out;
+    const hist = [];
+    for (let i = 0; i < idx.n; i++) {
+      const c = wordCost(tracker, idx.list[i]);
+      arr[i] = c;
+      hist[c] = (hist[c] ?? 0) + 1;
+    }
+    const need = slots.reduce((n, s) => n + (s.len === len ? 1 : 0), 0);
+    const target = Math.min(idx.n, Math.max(40, need * 6 * widen));
+    let acc = 0;
+    let thr = 0;
+    for (let c = 0; c < hist.length; c++) {
+      acc += hist[c] ?? 0;
+      thr = c;
+      if (acc >= target) break;
+    }
+    costs.set(len, arr);
+    threshold.set(len, thr);
+  }
+
+  const scratch = slots.map((s) => new Uint32Array(maskIndex.get(s.len).size));
+
+  // slot için uygun kelimelerin bit maskesini scratch[si]'ye yazar, sayıyı döner.
+  function candidateMask(si) {
+    const s = slots[si];
+    const idx = maskIndex.get(s.len);
+    const buf = scratch[si];
+    buf.set(idx.all);
+    const cells = slotCells[si];
+    for (let p = 0; p < s.len; p++) {
+      const ch = letters[cells[p][0]][cells[p][1]];
+      if (ch === null) continue;
+      const bits = idx.pos[p].get(ch);
+      if (!bits) return 0;
+      for (let i = 0; i < idx.size; i++) buf[i] &= bits[i];
+    }
+    const used = usedBits.get(s.len);
+    let count = 0;
+    for (let i = 0; i < idx.size; i++) {
+      buf[i] &= ~used[i];
+      count += popcount(buf[i]);
+    }
+    return count;
   }
 
   function bt() {
     if (++nodes > NODE_LIMIT) return false;
     // MRV: en az adayı olan boş blok
     let best = -1;
-    let bestCands = null;
+    let bestCount = Infinity;
     for (let i = 0; i < slots.length; i++) {
       if (assigned[i]) continue;
-      const c = candidates(i);
-      if (c.length === 0) return false;
-      if (bestCands === null || c.length < bestCands.length) {
+      const c = candidateMask(i);
+      if (c === 0) return false;
+      if (c < bestCount) {
         best = i;
-        bestCands = c;
+        bestCount = c;
       }
-      if (bestCands.length === 1) break;
+      if (bestCount === 1) break;
     }
     if (best === -1) return true; // hepsi dolu
 
+    const s = slots[best];
+    const idx = maskIndex.get(s.len);
+    const buf = scratch[best];
+    const cost = costs.get(s.len);
+    const thr = threshold.get(s.len);
+    const cheap = [];
+    const rest = [];
+    for (let wi = 0; wi < idx.size; wi++) {
+      let bits = buf[wi];
+      while (bits !== 0) {
+        const lsb = bits & -bits;
+        const i = (wi << 5) + (31 - Math.clz32(lsb));
+        (cost[i] <= thr ? cheap : rest).push(i);
+        bits ^= lsb;
+      }
+    }
+    // Düğüm başına rastgeleleştirme geri izleme başarısı için şart; küresel
+    // yayılma yalnızca "az kullanılmışlar önce" sıralamasıyla veriliyor.
+    const ordered = shuffled(cheap, rnd).concat(shuffled(rest, rnd));
+
     const cells = slotCells[best];
-    for (const w of shuffled(bestCands, rnd)) {
+    const used = usedBits.get(s.len);
+    for (const i of ordered) {
+      const w = idx.list[i];
       const chars = [...w.a];
       const prev = cells.map(([r, c]) => letters[r][c]);
-      cells.forEach(([r, c], i) => (letters[r][c] = chars[i]));
+      cells.forEach(([r, c], k) => (letters[r][c] = chars[k]));
       assigned[best] = w;
-      used.add(w.a);
+      used[i >> 5] |= 1 << (i & 31);
       if (bt()) return true;
-      used.delete(w.a);
+      used[i >> 5] &= ~(1 << (i & 31));
       assigned[best] = null;
-      cells.forEach(([r, c], i) => (letters[r][c] = prev[i]));
+      cells.forEach(([r, c], k) => (letters[r][c] = prev[k]));
     }
     return false;
   }
@@ -342,92 +482,149 @@ function validatePuzzle(p) {
   }
 }
 
-// ---------- ana akış ----------
-const [id, title, seedArg, colsArg, rowsArg, diffArg] = process.argv.slice(2);
-if (!id || !title) {
-  console.error("Kullanım: node tools/generate.mjs <id> <başlık> [seed] [cols] [rows] [zorluk]");
-  process.exit(1);
-}
-if (diffArg && !["kolay", "orta", "zor"].includes(diffArg)) {
-  console.error(`Geçersiz zorluk '${diffArg}': kolay | orta | zor`);
-  process.exit(1);
-}
-const cols = Number(colsArg ?? 7);
-const rows = Number(rowsArg ?? 10);
-let seed = Number(seedArg ?? 1);
-
-let result = null;
-let attempt = 0;
-const stats = { mask: 0, host: 0, fill: 0 };
-for (; attempt < 2000 && !result; attempt++) {
-  const rnd = mulberry32(seed + attempt * 7919);
-  const mask = genMask(cols, rows, rnd);
-  repairMask(mask, cols, rows, rnd);
-  const slots = computeRuns(mask, cols, rows);
-  if (maskProblems(mask, cols, rows, slots)) {
-    stats.mask++;
-    continue;
+// ---------- üretim çekirdeği ----------
+// tracker verilirse ipucu metinleri 300 bulmacalık üretim boyunca küresel
+// olarak yayılır (bkz. createTracker). Kabul edilen bulmaca commitToTracker ile
+// takipçiye işlenmelidir.
+export function buildPuzzle({
+  id,
+  title,
+  rows,
+  cols,
+  seed = 1,
+  difficulty,
+  order,
+  tracker = null,
+  maxAttempts = 2000,
+}) {
+  let result = null;
+  let attempt = 0;
+  const stats = { mask: 0, host: 0, fill: 0 };
+  for (; attempt < maxAttempts && !result; attempt++) {
+    const rnd = mulberry32(seed + attempt * 7919);
+    const mask = genMask(cols, rows, rnd);
+    repairMask(mask, cols, rows, rnd);
+    const slots = computeRuns(mask, cols, rows);
+    if (maskProblems(mask, cols, rows, slots)) {
+      stats.mask++;
+      continue;
+    }
+    const hosts = assignHosts(slots, mask);
+    if (!hosts) {
+      stats.host++;
+      continue;
+    }
+    // Deneme başarısızsa bir sonrakinde eşiği hızla genişlet; birkaç denemede
+    // fiilen tüm sözlüğe açılır.
+    const widen = 1 + attempt;
+    // Aynı maske için birkaç farklı doldurma dene ve küresel olarak en az
+    // kullanılmış ipuçlarını içereni seç: geri izleme sırasında kesişim
+    // kısıtları yüzünden sık kullanılmış kelimelere düşmek kaçınılmaz, ama
+    // birkaç adaydan en iyisini almak tekrarları belirgin biçimde azaltıyor.
+    let filled = null;
+    if (tracker) {
+      let bestScore = Infinity;
+      for (let k = 0; k < FILL_TRIES; k++) {
+        const f = fillGrid(slots, cols, rows, rnd, tracker, widen);
+        if (!f) continue;
+        let score = 0;
+        for (const w of f.assigned) score += wordCost(tracker, w);
+        if (score < bestScore) {
+          bestScore = score;
+          filled = f;
+        }
+        if (bestScore === 0) break;
+      }
+    } else {
+      filled = fillGrid(slots, cols, rows, rnd, tracker, widen);
+    }
+    if (!filled) {
+      stats.fill++;
+      continue;
+    }
+    result = { mask, slots, hosts, filled, rnd };
   }
-  const hosts = assignHosts(slots, mask);
-  if (!hosts) {
-    stats.host++;
-    continue;
-  }
-  const filled = fillGrid(slots, cols, rows, rnd);
-  if (!filled) {
-    stats.fill++;
-    continue;
-  }
-  result = { mask, slots, hosts, filled, rnd };
-}
+  if (!result) return { puzzle: null, attempt, stats };
 
-if (!result) {
-  console.error(
-    `${attempt} denemede üretilemedi. Elenme: maske=${stats.mask} atama=${stats.host} doldurma=${stats.fill}`,
-  );
-  process.exit(1);
-}
+  const { mask, slots, hosts, filled, rnd } = result;
+  const clues = slots.map((s, i) => ({
+    text: pickClue(tracker, filled.assigned[i], rnd),
+    answer: filled.assigned[i].a,
+    row: hosts[i].r,
+    col: hosts[i].c,
+    arrow: hosts[i].arrow,
+  }));
 
-const { mask, slots, hosts, filled, rnd } = result;
-const clues = slots.map((s, i) => ({
-  text: filled.assigned[i].c[Math.floor(rnd() * filled.assigned[i].c.length)],
-  answer: filled.assigned[i].a,
-  row: hosts[i].r,
-  col: hosts[i].c,
-  arrow: hosts[i].arrow,
-}));
-
-// hiç soru barındırmayan '#' hücreleri: blok
-const usedHosts = new Set(hosts.map((h) => h.r * 1000 + h.c));
-const blocks = [];
-for (let r = 0; r < rows; r++) {
-  for (let c = 0; c < cols; c++) {
-    if (mask[r][c] === "#" && !usedHosts.has(r * 1000 + c)) {
-      blocks.push({ row: r, col: c });
+  // hiç soru barındırmayan '#' hücreleri: blok
+  const usedHosts = new Set(hosts.map((h) => h.r * 1000 + h.c));
+  const blocks = [];
+  for (let r = 0; r < rows; r++) {
+    for (let c = 0; c < cols; c++) {
+      if (mask[r][c] === "#" && !usedHosts.has(r * 1000 + c)) {
+        blocks.push({ row: r, col: c });
+      }
     }
   }
+
+  const puzzle = { id, title, rows, cols, clues, blocks };
+  if (difficulty) puzzle.difficulty = difficulty;
+  if (order !== undefined) puzzle.order = order;
+  validatePuzzle(puzzle);
+  return { puzzle, attempt, stats, mask, letters: filled.letters, slots };
 }
 
-const puzzle = { id, title, rows, cols, clues, blocks };
-if (diffArg) puzzle.difficulty = diffArg;
-validatePuzzle(puzzle);
+// ---------- komut satırı ----------
+const isCli =
+  process.argv[1] &&
+  fileURLToPath(import.meta.url) === resolve(process.argv[1]);
 
-// çözümü konsola bas (gözden geçirme için)
-console.log(`Deneme ${attempt}, ${slots.length} soru. Çözüm:`);
-for (let r = 0; r < rows; r++) {
-  let line = "";
-  for (let c = 0; c < cols; c++) {
-    line += mask[r][c] === "#" ? " ■" : " " + filled.letters[r][c];
+if (isCli) {
+  const [id, title, seedArg, colsArg, rowsArg, diffArg] = process.argv.slice(2);
+  if (!id || !title) {
+    console.error("Kullanım: node tools/generate.mjs <id> <başlık> [seed] [cols] [rows] [zorluk]");
+    process.exit(1);
   }
-  console.log(line);
-}
-console.log("\nSorular:");
-for (const cl of clues) {
-  console.log(`  (${cl.row},${cl.col}) ${cl.arrow.padEnd(10)} ${cl.answer.padEnd(8)} ${cl.text}`);
-}
+  if (diffArg && !["kolay", "orta", "zor"].includes(diffArg)) {
+    console.error(`Geçersiz zorluk '${diffArg}': kolay | orta | zor`);
+    process.exit(1);
+  }
+  const cols = Number(colsArg ?? 7);
+  const rows = Number(rowsArg ?? 10);
+  const seed = Number(seedArg ?? 1);
 
-const outDir = join(dirname(fileURLToPath(import.meta.url)), "..", "src", "puzzles");
-mkdirSync(outDir, { recursive: true });
-const outFile = join(outDir, `${id}.json`);
-writeFileSync(outFile, JSON.stringify(puzzle, null, 2), "utf8");
-console.log(`\nYazıldı: ${outFile}`);
+  const { puzzle, attempt, stats, mask, letters, slots } = buildPuzzle({
+    id,
+    title,
+    rows,
+    cols,
+    seed,
+    difficulty: diffArg,
+  });
+
+  if (!puzzle) {
+    console.error(
+      `${attempt} denemede üretilemedi. Elenme: maske=${stats.mask} atama=${stats.host} doldurma=${stats.fill}`,
+    );
+    process.exit(1);
+  }
+
+  // çözümü konsola bas (gözden geçirme için)
+  console.log(`Deneme ${attempt}, ${slots.length} soru. Çözüm:`);
+  for (let r = 0; r < rows; r++) {
+    let line = "";
+    for (let c = 0; c < cols; c++) {
+      line += mask[r][c] === "#" ? " ■" : " " + letters[r][c];
+    }
+    console.log(line);
+  }
+  console.log("\nSorular:");
+  for (const cl of puzzle.clues) {
+    console.log(`  (${cl.row},${cl.col}) ${cl.arrow.padEnd(10)} ${cl.answer.padEnd(8)} ${cl.text}`);
+  }
+
+  const outDir = join(dirname(fileURLToPath(import.meta.url)), "..", "src", "puzzles");
+  mkdirSync(outDir, { recursive: true });
+  const outFile = join(outDir, `${id}.json`);
+  writeFileSync(outFile, JSON.stringify(puzzle, null, 2), "utf8");
+  console.log(`\nYazıldı: ${outFile}`);
+}
