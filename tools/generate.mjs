@@ -146,6 +146,131 @@ function computeRuns(mask, cols, rows) {
   return [...across, ...down];
 }
 
+// İki harfli cevapları seyrelten geçiş.
+//
+// Rastgele maske doğal olarak çok fazla 2 harflik blok üretiyordu (soruların
+// ~%31'i). Türkçede toplam 2 harfli kelime sayısı çok az olduğu için bu, aynı
+// ipucunun 300 bulmaca boyunca onlarca kez tekrarlanmasının asıl sebebiydi.
+// Her kısa blok için önce komşu ipucu hücresini açıp bloğu uzatmayı, olmazsa
+// bloğun bir hücresini ipucu hücresine çevirip bloğu ortadan kaldırmayı dener.
+const MIN_WORD_LEN = 3;
+
+// (r,c) '#' yapılırsa dik yöndeki komşu parçaların uzunlukları.
+function segmentLengths(mask, r, c, cols, rows, dir) {
+  let before = 0;
+  let after = 0;
+  if (dir === "down") {
+    let i = r - 1;
+    while (i >= 1 && mask[i][c] === ".") {
+      before++;
+      i--;
+    }
+    i = r + 1;
+    while (i < rows && mask[i][c] === ".") {
+      after++;
+      i++;
+    }
+  } else {
+    let i = c - 1;
+    while (i >= 0 && mask[r][i] === ".") {
+      before++;
+      i--;
+    }
+    i = c + 1;
+    while (i < cols && mask[r][i] === ".") {
+      after++;
+      i++;
+    }
+  }
+  return [before, after];
+}
+
+// (r,c)'den geçen bloğun toplam uzunluğu.
+function runLengthThrough(mask, r, c, cols, rows, dir) {
+  const [a, b] = segmentLengths(mask, r, c, cols, rows, dir);
+  return a + b + 1;
+}
+
+function isCovered(mask, r, c, cols, rows) {
+  const inAcross =
+    (c > 0 && mask[r][c - 1] === ".") || (c < cols - 1 && mask[r][c + 1] === ".");
+  const inDown =
+    (r > 1 && mask[r - 1][c] === ".") || (r < rows - 1 && mask[r + 1][c] === ".");
+  return inAcross || inDown;
+}
+
+function shortenShortRuns(mask, cols, rows, rnd) {
+  for (let iter = 0; iter < 80; iter++) {
+    const shorts = computeRuns(mask, cols, rows).filter(
+      (s) => s.len < MIN_WORD_LEN,
+    );
+    if (shorts.length === 0) return;
+    let changed = false;
+    for (const run of shuffled(shorts, rnd)) {
+      // 1) Uzat: bitişik ipucu hücresini harf hücresine çevir.
+      const opens = [];
+      if (run.dir === "across") {
+        if (run.col > 0 && mask[run.row][run.col - 1] === "#")
+          opens.push([run.row, run.col - 1]);
+        if (run.col + run.len < cols && mask[run.row][run.col + run.len] === "#")
+          opens.push([run.row, run.col + run.len]);
+      } else {
+        if (run.row > 1 && mask[run.row - 1][run.col] === "#")
+          opens.push([run.row - 1, run.col]);
+        if (run.row + run.len < rows && mask[run.row + run.len][run.col] === "#")
+          opens.push([run.row + run.len, run.col]);
+      }
+      let extended = false;
+      for (const [r, c] of shuffled(opens, rnd)) {
+        mask[r][c] = ".";
+        if (
+          runLengthThrough(mask, r, c, cols, rows, "across") <= MAX_WORD_LEN &&
+          runLengthThrough(mask, r, c, cols, rows, "down") <= MAX_WORD_LEN
+        ) {
+          changed = true;
+          extended = true;
+          break;
+        }
+        mask[r][c] = "#";
+      }
+      if (extended) continue;
+
+      // 2) Kaldır: bloğun bir hücresini ipucu hücresine çevir. Dik yöndeki blok
+      // ikiye bölünecekse iki parça da yeterince uzun olmalı; kalan hücreler de
+      // en az bir bloğa ait kalmalı.
+      const cells = [];
+      for (let i = 0; i < run.len; i++) {
+        cells.push(
+          run.dir === "across"
+            ? [run.row, run.col + i]
+            : [run.row + i, run.col],
+        );
+      }
+      const perp = run.dir === "across" ? "down" : "across";
+      for (const [r, c] of shuffled(cells, rnd)) {
+        const [a, b] = segmentLengths(mask, r, c, cols, rows, perp);
+        if ((a !== 0 && a < MIN_WORD_LEN) || (b !== 0 && b < MIN_WORD_LEN))
+          continue;
+        mask[r][c] = "#";
+        let ok = true;
+        for (const [r2, c2] of cells) {
+          if (r2 === r && c2 === c) continue;
+          if (!isCovered(mask, r2, c2, cols, rows)) {
+            ok = false;
+            break;
+          }
+        }
+        if (ok) {
+          changed = true;
+          break;
+        }
+        mask[r][c] = ".";
+      }
+    }
+    if (!changed) return;
+  }
+}
+
 function maskProblems(mask, cols, rows, slots) {
   // uzunluk sınırı
   for (const s of slots) {
@@ -504,6 +629,12 @@ export function buildPuzzle({
     const rnd = mulberry32(seed + attempt * 7919);
     const mask = genMask(cols, rows, rnd);
     repairMask(mask, cols, rows, rnd);
+    shortenShortRuns(mask, cols, rows, rnd);
+    // repairMask uzun blokları bölerken yeni kısa bloklar doğurabiliyor; son
+    // sözü kısa blok temizliğine bırak (bu geçiş geçersiz maske üretmiyor:
+    // dik yöndeki parçalar ya kayboluyor ya da en az MIN_WORD_LEN kalıyor).
+    repairMask(mask, cols, rows, rnd);
+    shortenShortRuns(mask, cols, rows, rnd);
     const slots = computeRuns(mask, cols, rows);
     if (maskProblems(mask, cols, rows, slots)) {
       stats.mask++;
