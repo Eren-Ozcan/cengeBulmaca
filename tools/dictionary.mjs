@@ -731,7 +731,7 @@ export const WORDS = [
   { a: "KAF", c: ["Efsanevi dağ"] },
   { a: "NUH", c: ["Gemisiyle ünlü peygamber"] },
   { a: "VAV", c: ["Arap harfi"] },
-  { a: "ŞAM", c: ["Suriye'nin başkenti", "Suriye'nin başkenti"] },
+  { a: "ŞAM", c: ["Suriye'nin başkenti", "Emevilerin merkezi", "Fıstığıyla ünlü kent"] },
   { a: "AND", c: ["Güney Amerika dağları"] },
   { a: "YEN", c: ["Japon parası"] },
   { a: "LEV", c: ["Bulgaristan parası"] },
