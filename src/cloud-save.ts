@@ -55,7 +55,16 @@ const REV_KEY = "cengel-cloud-rev";
 /** Fingerprint of the last synced payload; used to derive "is there a local change". */
 const FINGERPRINT_KEY = "cengel-cloud-fp";
 
-const UPLOAD_THROTTLE_MS = 60_000; // Protect the Firestore daily write quota (Spark: 20K/day)
+// 5 minutes, not 1. This protects the Firestore daily write quota (Spark:
+// 20K/day), and the periodic path is what burns it: the throttle interval is in
+// practice the write interval. At 60s the free quota runs out at a few hundred
+// daily players; at 300s the same ceiling is roughly five times higher.
+// What is given up: if the process is killed hard without firing
+// visibilitychange or pagehide, the cloud copy can be this stale. Both of those
+// events call flushCloudSave() (cloud-ui.ts), which uploads immediately and
+// ignores this throttle, and the local save is untouched either way - so this
+// only matters if the device itself is lost.
+const UPLOAD_THROTTLE_MS = 300_000;
 // ensureUid() performs three dynamic imports on cold start (firebase/app +
 // auth + firestore), runs initializeApp, and waits for Auth to restore the
 // persisted session from IndexedDB (see firebase-app.ts waitForRestoredUser).
