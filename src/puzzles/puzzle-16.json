@@ -5,149 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Geçiş yolu",
-      "answer": "TRANSİT",
+      "text": "Amaç",
+      "answer": "HEDEF",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aşırı tutkun",
+      "answer": "FANATİK",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ev halkı",
-      "answer": "AİLE",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "El ucu",
-      "answer": "PARMAK",
+      "text": "Alto keman",
+      "answer": "VİYOLA",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gamın son notası",
-      "answer": "Sİ",
+      "text": "Son, sonuç",
+      "answer": "AKIBET",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sarmal",
+      "answer": "SPİRAL",
+      "row": 5,
       "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kin tutan",
-      "answer": "KİNDAR",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Üstünde dövülen demir",
-      "answer": "ÖRS",
-      "row": 5,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kasap besini",
-      "answer": "ET",
+      "text": "Gösteri çadırı",
+      "answer": "SİRK",
       "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Delikli kumaş",
-      "answer": "ETAMİN",
-      "row": 7,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yat limanı",
-      "answer": "MARİNA",
+      "text": "Ufak tefek",
+      "answer": "MİNYON",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Enerji üretim yeri",
-      "answer": "SANTRAL",
+      "text": "Bebek yiyeceği",
+      "answer": "MAMA",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kadın elbisesi",
-      "answer": "ROP",
+      "text": "Gaz karışımı",
+      "answer": "HAVA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Süt tatlısı",
-      "answer": "KREMA",
-      "row": 4,
+      "text": "Kimse, tip, yüz",
+      "answer": "SİMA",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hekim yardımcısı",
-      "answer": "ASİSTAN",
-      "row": 2,
+      "text": "Kedi, köpek yavrusu",
+      "answer": "ENİK",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İnce, zarif",
-      "answer": "NARİN",
+      "text": "Ek kazanç",
+      "answer": "PRİM",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Annenin erkek kardeşi",
+      "answer": "DAYI",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Arka, geri",
-      "answer": "ART",
-      "row": 6,
+      "text": "İnandırma, kandırma",
+      "answer": "İKNA",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gümüş iplik",
-      "answer": "SİM",
+      "text": "Et yiyen",
+      "answer": "ETOBUR",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mıknatıslı element",
-      "answer": "DEMİR",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Arasında anlamında",
-      "answer": "İLA",
+      "text": "Alışveriş ağı",
+      "answer": "FİLE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 4,
+      "text": "Müzikal uyum",
+      "answer": "AKOR",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çizgili kedi",
-      "answer": "TEKİR",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "At demiri",
-      "answer": "NAL",
-      "row": 6,
+      "text": "İnsan öldüren",
+      "answer": "KATİL",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     }
@@ -155,15 +134,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 2,
       "col": 0
     },
     {
-      "row": 4,
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 5,
       "col": 0
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "kolay",

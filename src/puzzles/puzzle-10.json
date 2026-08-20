@@ -5,191 +5,198 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Yeterlilik",
-      "answer": "KİFAYET",
-      "row": 1,
+      "text": "Onay, izin, tasdik",
+      "answer": "OLUR",
+      "row": 0,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tenis sahası",
+      "answer": "KORT",
+      "row": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Büyük toprak sahibi",
-      "answer": "AĞA",
+      "text": "Merak sözü",
+      "answer": "ACABA",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bölümlü eser",
-      "answer": "SONAT",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sanırım",
-      "answer": "GALİBA",
-      "row": 3,
+      "text": "Yardım sözü",
+      "answer": "AMAN",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bayağı, olağan",
-      "answer": "ALELADE",
+      "text": "Takdim",
+      "answer": "SUNU",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kayağan taş",
+      "answer": "ARDUVAZ",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Salata bitkisi",
+      "answer": "TERE",
       "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Temel kanun",
-      "answer": "ANAYASA",
+      "text": "Somunlu vida",
+      "answer": "CIVATA",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Aralık sözü",
-      "answer": "İLA",
+      "text": "Akla uygun",
+      "answer": "MAKUL",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bir kısmı",
-      "answer": "KİMİ",
+      "text": "Bilgin kimse",
+      "answer": "ALİM",
       "row": 7,
-      "col": 4,
-      "arrow": "right"
+      "col": 5,
+      "arrow": "down-right"
     },
     {
-      "text": "Gelir taşınmazı",
-      "answer": "AKAR",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski kadın mantosu",
-      "answer": "FERACE",
+      "text": "Tartı aleti",
+      "answer": "TERAZİ",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Din işleri",
-      "answer": "DİYANET",
+      "text": "Delikli kumaş",
+      "answer": "ETAMİN",
       "row": 10,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sorumlu kimse",
-      "answer": "VELİ",
+      "text": "Anason kokulu bitki",
+      "answer": "REZENE",
       "row": 11,
-      "col": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Giriş bölmesi",
-      "answer": "KAPI",
-      "row": 8,
+      "text": "Tahıl içkisi",
+      "answer": "VİSKİ",
+      "row": 12,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Para dolabı",
-      "answer": "KASA",
+      "text": "And hayvanı",
+      "answer": "LAMA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Renkli, benekli",
-      "answer": "ALA",
+      "text": "Yoğurtlu meze",
+      "answer": "CACIK",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İmkân",
-      "answer": "OLANAK",
+      "text": "Geriye kalan",
+      "answer": "ARTIK",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İç giysi",
-      "answer": "FANİLA",
+      "text": "Buluşma sözü",
+      "answer": "RANDEVU",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çalım, gösteriş",
-      "answer": "AFİ",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyük erkek kardeş",
-      "answer": "AĞABEY",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Oy (eski dilde)",
-      "answer": "REY",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yataktan kalkamayan",
-      "answer": "YATALAK",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Nakleden kimse",
-      "answer": "RAVİ",
+      "text": "Arka yüz",
+      "answer": "TERS",
       "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Avrupa-Asya sınırı",
+      "answer": "URAL",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Belden aşağı giysi",
+      "answer": "ETEK",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İç sıkıntısı",
+      "answer": "KASVET",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İstanbul'un eski adı",
-      "answer": "ASİTANE",
-      "row": 4,
+      "text": "Yeryüzü toprağı",
+      "answer": "ARAZİ",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çift kamışlı çalgı",
+      "answer": "OBUA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ev üstü",
-      "answer": "DAM",
-      "row": 4,
+      "text": "Çok bilgili",
+      "answer": "ALLAME",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Katlı yatak",
+      "answer": "RANZA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Askerlik çağrısı",
-      "answer": "CELP",
-      "row": 8,
+      "text": "Verilen özgürlük",
+      "answer": "İZİN",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Hamur parçası",
-      "answer": "BEZE",
-      "row": 1,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Mesaj",
-      "answer": "İLETİ",
-      "row": 6,
+      "text": "Bilgi toplantısı",
+      "answer": "SEMİNER",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -197,19 +204,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
+      "col": 4
     },
     {
       "row": 0,
@@ -217,59 +216,43 @@
     },
     {
       "row": 2,
-      "col": 0
+      "col": 8
     },
     {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 7
+      "row": 4,
+      "col": 8
     },
     {
       "row": 5,
       "col": 0
     },
     {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
       "row": 9,
-      "col": 1
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 0
     },
     {
       "row": 11,
       "col": 1
-    },
-    {
-      "row": 11,
-      "col": 2
-    },
-    {
-      "row": 11,
-      "col": 3
-    },
-    {
-      "row": 12,
-      "col": 1
-    },
-    {
-      "row": 12,
-      "col": 2
-    },
-    {
-      "row": 12,
-      "col": 3
-    },
-    {
-      "row": 12,
-      "col": 4
     },
     {
       "row": 12,
@@ -277,7 +260,7 @@
     },
     {
       "row": 12,
-      "col": 8
+      "col": 7
     }
   ],
   "difficulty": "zor",

@@ -5,162 +5,151 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Sağlama, bulma",
-      "answer": "TEDARİK",
+      "text": "Karanlık hapis",
+      "answer": "ZİNDAN",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Askerî yönetim",
-      "answer": "KOMUTA",
+      "text": "Pars",
+      "answer": "LEOPAR",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çam meyvesi",
-      "answer": "KOZALAK",
+      "text": "Komisyoncu",
+      "answer": "SİMSAR",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Parlak olmayan",
-      "answer": "MAT",
+      "text": "Delik açma aracı",
+      "answer": "MATKAP",
       "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Toplumsal konum",
-      "answer": "STATÜ",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Değerli kızıl ağaç",
-      "answer": "MAUN",
-      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çimlendirilmiş arpa",
-      "answer": "MALT",
+      "text": "Parasız",
+      "answer": "BEDAVA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yer altı sığınağı",
+      "answer": "KAZAMAT",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kırmızı değerli taş",
-      "answer": "YAKUT",
+      "text": "İrmikli şerbetli tatlı",
+      "answer": "REVANİ",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kol biçimli uzantı",
-      "answer": "DOKUNAÇ",
+      "text": "Çevreyi dolaşma",
+      "answer": "KOLAÇAN",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kendine özgü tarz",
-      "answer": "EKOL",
+      "text": "Bilim, bilgi",
+      "answer": "İLİM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Deniz giysisi",
-      "answer": "MAYO",
+      "text": "Avukatlar birliği",
+      "answer": "BARO",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İlaç miktarı",
-      "answer": "DOZ",
+      "text": "Büyüme, gelişme, çoğalma",
+      "answer": "NEMA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Aptal, dengesiz",
-      "answer": "SALAK",
-      "row": 4,
+      "text": "Öncesizlik",
+      "answer": "EZEL",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Fakat, lakin",
-      "answer": "AMA",
+      "text": "Arkadaş, gönüldeş",
+      "answer": "DOST",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İhtiras",
-      "answer": "TUTKU",
-      "row": 4,
+      "text": "Mahkemelik anlaşmazlık",
+      "answer": "DAVA",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bilyeli yatak",
-      "answer": "RULMAN",
+      "text": "Çok beyaz",
+      "answer": "APAK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Öğütülmüş tahıl",
-      "answer": "UN",
-      "row": 7,
+      "text": "Erek, gaye",
+      "answer": "AMAÇ",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Boyun eğme",
-      "answer": "İTAAT",
+      "text": "Haykırma, bağırma",
+      "answer": "NARA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eskiden ödeme işi",
-      "answer": "İTA",
-      "row": 6,
+      "text": "Boru musluğu",
+      "answer": "VANA",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dikenli çöl bitkisi",
-      "answer": "KAKTÜS",
-      "row": 0,
+      "text": "78 numaralı element",
+      "answer": "PLATİN",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
-      "row": 4,
-      "col": 0
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 5,
       "col": 0
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 6
     }
   ],
   "difficulty": "kolay",

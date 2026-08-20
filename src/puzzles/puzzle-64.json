@@ -5,198 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Çaba, uğraş",
-      "answer": "EMEK",
+      "text": "Sahne yapıtı",
+      "answer": "OPERA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Apartman katmanı",
-      "answer": "KAT",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tez canlı",
-      "answer": "ACELECİ",
+      "text": "Savurganlık",
+      "answer": "İSRAF",
       "row": 2,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ucuza kapatılan",
-      "answer": "KELEPİR",
+      "text": "Gösterge çizelgesi",
+      "answer": "SKALA",
       "row": 3,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Uçtan geniş etek",
-      "answer": "EVAZE",
+      "text": "Boğuk ses",
+      "answer": "KISIK",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Asit karşıtı",
-      "answer": "BAZ",
+      "text": "Tapınak",
+      "answer": "MABET",
       "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kolay anlaşılan",
+      "answer": "BASİT",
+      "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Hamur parçası",
-      "answer": "BEZE",
-      "row": 6,
+      "text": "Sigorta belgesi",
+      "answer": "POLİÇE",
+      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Düğünde takılan",
-      "answer": "TAKI",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dolaşma",
-      "answer": "TUR",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sindirim organı",
-      "answer": "MİDE",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yersiz davranış",
-      "answer": "GAF",
+      "text": "Uzun koltuk",
+      "answer": "KANEPE",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yumuşak beyaz peynir",
-      "answer": "LOR",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Vernikli mobilya",
-      "answer": "LAKE",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eskiden zengin kimse",
-      "answer": "AĞA",
+      "text": "Son adam",
+      "answer": "LİBERO",
       "row": 10,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yasa yapma",
-      "answer": "YASAMA",
+      "text": "Davul takımı",
+      "answer": "BATERİ",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Madagaskar maymunu",
-      "answer": "MAKİ",
+      "text": "İzlence",
+      "answer": "PROGRAM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Alay-tümen arası",
-      "answer": "TUGAY",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir kız adı",
-      "answer": "ECE",
-      "row": 0,
+      "text": "Kavisli kılıç",
+      "answer": "PALA",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Derme çatma yapı",
-      "answer": "BARAKA",
+      "text": "Zarar tehlikesi",
+      "answer": "RİSK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sert kauçuk",
+      "answer": "EBONİT",
       "row": 5,
-      "col": 2,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Renkli kanatlı böcek",
-      "answer": "KELEBEK",
+      "text": "Asma aracı",
+      "answer": "ASKI",
       "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlı serpuşu",
-      "answer": "FES",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gerekli gereçler",
-      "answer": "LEVAZIM",
-      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Rezil",
-      "answer": "KEPAZE",
-      "row": 0,
+      "text": "Öğrenci",
+      "answer": "TALEBE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğru, isabetli",
+      "answer": "RAST",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hâkim kararı yazısı",
-      "answer": "İLAM",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Gücü yetmeyen, güçsüz",
-      "answer": "ACİZ",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tabiat",
-      "answer": "DOĞA",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Pamuk ipliği",
-      "answer": "TİRE",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kışın sebze yetiştirilen",
-      "answer": "SERA",
+      "text": "Korunma yeri",
+      "answer": "SİPER",
       "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çatallı bitki",
+      "answer": "ÇALI",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İç taraf",
+      "answer": "İÇERİ",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Üniversite birimi",
+      "answer": "FAKÜLTE",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -204,7 +155,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
     },
     {
       "row": 4,
@@ -212,27 +179,27 @@
     },
     {
       "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 1
+      "col": 2
     },
     {
       "row": 5,
       "col": 6
     },
     {
-      "row": 5,
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 7
     },
     {
-      "row": 6,
+      "row": 10,
       "col": 0
-    },
-    {
-      "row": 6,
-      "col": 6
     },
     {
       "row": 11,

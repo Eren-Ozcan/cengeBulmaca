@@ -5,191 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "İçilen bitki",
-      "answer": "ÇAY",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bayağı, düşük",
-      "answer": "ADİ",
+      "text": "Son gün",
+      "answer": "PAZAR",
       "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Tehlike işareti",
-      "answer": "ALARM",
-      "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yavruyu doğuran",
-      "answer": "ANA",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ansızın, beklenmedik",
-      "answer": "ANİ",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Temiz ortam",
-      "answer": "NEZİH",
-      "row": 4,
+      "text": "Sebep, bahane",
+      "answer": "VESİLE",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eşlik etme",
-      "answer": "REFAKAT",
+      "text": "Yüksek düzlük",
+      "answer": "YAYLA",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Esirgemeden veren",
+      "answer": "CÖMERT",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Devlete ait",
+      "answer": "RESMİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kapatma aleti",
+      "answer": "KİLİT",
       "row": 6,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gelin çeyiz parası",
-      "answer": "DRAHOMA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çok anlamında",
-      "answer": "PEK",
-      "row": 7,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İbadet",
-      "answer": "AMEL",
+      "text": "Siyah dut",
+      "answer": "KARADUT",
       "row": 8,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İstek, arzu",
-      "answer": "EMEL",
+      "text": "Ata, dede",
+      "answer": "AĞABABA",
       "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Arap para birimi",
+      "answer": "DİNAR",
+      "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yanıltıcı gösterme",
-      "answer": "BLÖF",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "An, zaman",
-      "answer": "DEM",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İç taraf",
-      "answer": "İÇERİ",
+      "text": "Utanmaz",
+      "answer": "EDEPSİZ",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kurak alan",
-      "answer": "ÇÖL",
+      "text": "Korku şiddeti",
+      "answer": "TERÖR",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Faziletli",
-      "answer": "ERDEMLİ",
-      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kendi yöneten",
-      "answer": "ÖZERK",
+      "text": "Yerine koyma",
+      "answer": "İKAME",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tutar",
+      "answer": "MEBLAĞ",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İntikam",
-      "answer": "ÖÇ",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yerine getirme",
-      "answer": "İFA",
-      "row": 4,
+      "text": "Tiyatro oyunu",
+      "answer": "PİYES",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Batı Anadolu yiğidi",
-      "answer": "EFE",
-      "row": 8,
+      "text": "Karar gücü",
+      "answer": "İRADE",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Renkli, benekli",
-      "answer": "ALA",
+      "text": "Tehlike işareti",
+      "answer": "ALARM",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yahudi görevlisi",
-      "answer": "HAHAM",
-      "row": 4,
+      "text": "Hasta tedavicisi",
+      "answer": "TABİP",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İnek yavrusu",
-      "answer": "DANA",
+      "text": "Yağlı meyve",
+      "answer": "ZEYTİN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Güldürü",
-      "answer": "KOMEDİ",
-      "row": 5,
+      "text": "Ritmik hareket",
+      "answer": "DANS",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Fars ülkesi",
-      "answer": "İRAN",
+      "text": "Dört dizeli şiir",
+      "answer": "RUBAİ",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Uyma",
+      "answer": "RİAYET",
       "row": 0,
-      "col": 6,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Gündelikçi işçi",
-      "answer": "AMELE",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Geçersiz kılma",
-      "answer": "İPTAL",
-      "row": 3,
+      "text": "Üslup",
+      "answer": "TARZ",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -197,7 +162,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
@@ -205,35 +170,23 @@
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 3,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 11,
       "col": 6
     },
     {
-      "row": 11,
-      "col": 7
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 0
     }
   ],
   "difficulty": "orta",

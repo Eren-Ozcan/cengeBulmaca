@@ -5,128 +5,121 @@
   "cols": 7,
   "clues": [
     {
-      "text": "İslam'ın beşinci şartı",
-      "answer": "HAC",
+      "text": "Japon sanatçısı",
+      "answer": "GEYŞA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şili boyunca uzanan sıradağ",
-      "answer": "AND",
-      "row": 1,
-      "col": 3,
+      "text": "Üyelik ücreti",
+      "answer": "AİDAT",
+      "row": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Saklanan şey",
-      "answer": "SIR",
-      "row": 2,
-      "col": 0,
+      "text": "Şiir ustası",
+      "answer": "ŞAİR",
+      "row": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İddia, tez",
-      "answer": "SAV",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Özün kendisi",
-      "answer": "ZAT",
-      "row": 2,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Parlak yüzeyli",
-      "answer": "LAKE",
+      "text": "Kar örtülü",
+      "answer": "KARLI",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yeterince olan",
-      "answer": "YETERLİ",
-      "row": 4,
+      "text": "İfade",
+      "answer": "ANLATIM",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sunma",
-      "answer": "TAKDİM",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "And hayvanı",
-      "answer": "LAMA",
+      "text": "Yasa yapma",
+      "answer": "YASAMA",
       "row": 7,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mahkeme belgesi",
-      "answer": "İLAM",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
+      "text": "Kutsal mezar",
+      "answer": "YATIR",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Enerji çeviren düzenek",
-      "answer": "MAKİNE",
+      "text": "Dikenli çöl bitkisi",
+      "answer": "KAKTÜS",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Soyluluk",
-      "answer": "ASALET",
-      "row": 0,
+      "text": "Kiremit renkli içki",
+      "answer": "KONYAK",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Somunlu vida",
-      "answer": "CIVATA",
+      "text": "Sevinç sözü",
+      "answer": "YAŞA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Avlanan dağ kuşu",
-      "answer": "KEKLİK",
-      "row": 3,
+      "text": "Uzun, dar tahta",
+      "answer": "LATA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Düstur",
+      "answer": "ŞİAR",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Küçük sarı meyve",
-      "answer": "ZERDALİ",
-      "row": 2,
+      "text": "Kızgın, somurtkan (yüz)",
+      "answer": "ASIK",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Adaletli",
+      "answer": "ADİL",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gemi kıyısı",
-      "answer": "LİMAN",
-      "row": 4,
+      "text": "Meyveli pasta",
+      "answer": "TART",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Rafinaj",
+      "answer": "ARITIM",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İpek böceğinin besini",
-      "answer": "DUT",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
-      "row": 4,
+      "text": "Kızıl gezegen",
+      "answer": "MARS",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -134,35 +127,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
+      "col": 1
     },
     {
       "row": 0,
       "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 8,
       "col": 5
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 1
     }
   ],
   "difficulty": "kolay",

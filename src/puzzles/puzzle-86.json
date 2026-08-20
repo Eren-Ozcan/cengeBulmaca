@@ -5,141 +5,113 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Eski dilde yükseltme",
-      "answer": "İLA",
+      "text": "Gizli yer",
+      "answer": "ZULA",
       "row": 0,
-      "col": 0,
+      "col": 2,
       "arrow": "down-right"
     },
     {
-      "text": "Kare yüzlü cisim",
-      "answer": "KÜP",
+      "text": "Soru",
+      "answer": "SUAL",
       "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sivilce",
-      "answer": "AKNE",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ustaların ustası",
-      "answer": "PİR",
-      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Devletin kesimi",
-      "answer": "KAMU",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kabarık, şişkin",
-      "answer": "BOMBE",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kamış, hasır otu",
-      "answer": "SAZ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Askerlikte en alt",
-      "answer": "ER",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Nobel Barış Ödülü kenti",
-      "answer": "OSLO",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Zeytinyağlı fasulye",
-      "answer": "PİLAKİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Petrol merhemi",
-      "answer": "VAZELİN",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Devlet ilkesi",
-      "answer": "LAİK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalın değnek",
-      "answer": "SOPA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hısım",
-      "answer": "AKRABA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ayak izi",
-      "answer": "İZ",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Anıt mezar",
-      "answer": "MOZOLE",
+      "text": "İnce ekmek",
+      "answer": "LAVAŞ",
       "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Süt içeceği",
+      "answer": "KEFİR",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yırtıcı av kuşu",
+      "answer": "ATMACA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yer bulucu",
+      "answer": "RADAR",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşağı karşıtı",
+      "answer": "YUKARI",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Deri kızarıklığı",
+      "answer": "PİŞİK",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İslam bilginleri",
+      "answer": "ULEMA",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İrade zayıflığı",
+      "answer": "ZAAF",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Oyuncu topluluğu",
+      "answer": "TRUP",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüce, manevi",
+      "answer": "ULVİ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ağzı sıkı",
-      "answer": "KETUM",
-      "row": 0,
+      "text": "Madagaskar maymunu",
+      "answer": "MAKİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dost",
+      "answer": "ARKADAŞ",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İlkel su aracı",
-      "answer": "SAL",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Olabilir ki",
-      "answer": "BELKİ",
-      "row": 4,
+      "text": "Yürürlükteki",
+      "answer": "CARİ",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Morfin türevi",
-      "answer": "EROİN",
+      "text": "Sarılı başlık",
+      "answer": "SARIK",
       "row": 4,
       "col": 6,
       "arrow": "down"
@@ -148,7 +120,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
     },
     {
       "row": 0,
@@ -156,6 +136,10 @@
     },
     {
       "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
       "col": 6
     },
     {
@@ -168,11 +152,11 @@
     },
     {
       "row": 3,
-      "col": 5
+      "col": 6
     },
     {
-      "row": 3,
-      "col": 6
+      "row": 4,
+      "col": 5
     },
     {
       "row": 5,
@@ -180,6 +164,10 @@
     },
     {
       "row": 7,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 0
     }
   ],

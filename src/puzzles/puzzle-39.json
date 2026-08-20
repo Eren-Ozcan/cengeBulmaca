@@ -5,177 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Göz-kulak arası",
-      "answer": "ŞAKAK",
+      "text": "Konuk",
+      "answer": "MİSAFİR",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Resmiyet görevlisi",
-      "answer": "NOTER",
+      "text": "Köpüklü içki",
+      "answer": "BİRA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kavimle ilgili",
-      "answer": "ETNİK",
-      "row": 2,
+      "text": "Karşı çıkma",
+      "answer": "İTİRAZ",
+      "row": 3,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Gemilerin yanaştığı yer",
-      "answer": "İSKELE",
+      "text": "Borca güvence",
+      "answer": "KEFALET",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sesin geri dönüşü",
-      "answer": "EKO",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tavla yenilgisi",
-      "answer": "MARS",
+      "text": "Gömü yeri",
+      "answer": "MEZAR",
       "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sarı, tüylü meyve",
+      "answer": "AYVA",
+      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Alkolden türeyen",
-      "answer": "ALDEHİT",
+      "text": "Ayrılış selamlaması",
+      "answer": "VEDA",
       "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ilıca",
+      "answer": "KAPLICA",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Telefonda selamlama",
-      "answer": "ALO",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlı meclisi",
-      "answer": "DİVAN",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Katlanır bölme",
-      "answer": "PARAVAN",
+      "text": "El vuruşu",
+      "answer": "SİLLE",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hint unvanı",
-      "answer": "RACA",
+      "text": "Dinden bağımsız",
+      "answer": "LAİK",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hayvan bakımı",
-      "answer": "TIMAR",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
+      "text": "Özbekistan'ın başkenti",
+      "answer": "TAŞKENT",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Eski değerli eşya",
-      "answer": "ANTİKA",
+      "text": "Horoz tacı",
+      "answer": "İBİK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sıkışık, ensiz",
-      "answer": "DAR",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Duvar kenarı mobilya",
-      "answer": "KONSOL",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kira getiren mal",
-      "answer": "İRAT",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çabuk, tez",
-      "answer": "ATİK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dava eden",
-      "answer": "DAVACI",
+      "text": "Meksika içkisi",
+      "answer": "TEKİLA",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Öfkesiz kırgınlık",
+      "answer": "SİTEM",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gürültülü çekişme",
+      "answer": "DALAŞ",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Önceki gün",
+      "answer": "ARİFE",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Takılarak konuşan",
-      "answer": "KEKEME",
+      "text": "Duvar lambası",
+      "answer": "APLİK",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Diyelim ki",
+      "answer": "FARAZA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sıradan halk",
-      "answer": "AVAM",
+      "text": "İz, benek",
+      "answer": "LEKE",
       "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Katmerli sebze",
-      "answer": "LAHANA",
-      "row": 3,
+      "text": "Müstehzi",
+      "answer": "ALAYCI",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Erkek cins",
-      "answer": "ERİL",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir kadın adı",
-      "answer": "NUR",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sayıların ilki",
-      "answer": "BİR",
+      "text": "Yedek kaynak",
+      "answer": "REZERV",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hazır mal",
-      "answer": "STOK",
-      "row": 4,
+      "text": "Peşin para",
+      "answer": "AVANS",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -187,27 +166,35 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 6
+      "col": 7
     },
     {
       "row": 2,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 7,
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
+      "row": 7,
+      "col": 6
+    },
+    {
       "row": 9,
-      "col": 7
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
     },
     {
       "row": 10,
@@ -215,11 +202,7 @@
     },
     {
       "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 0
+      "col": 6
     },
     {
       "row": 11,

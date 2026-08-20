@@ -5,198 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Büyük askerî birlik",
-      "answer": "KOLORDU",
+      "text": "Kömür kalem",
+      "answer": "FÜZEN",
       "row": 0,
-      "col": 1,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Taş atma",
-      "answer": "SAPAN",
-      "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İskambilde birli",
-      "answer": "AS",
+      "text": "Dilbilimci",
+      "answer": "DİLCİ",
       "row": 2,
-      "col": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Halkın görüşü",
-      "answer": "KAMUOYU",
+      "text": "Kürk başlık",
+      "answer": "BÖRK",
       "row": 3,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yırtıcı iri kuş",
-      "answer": "KARTAL",
+      "text": "Kırmızı, tatlı meyve",
+      "answer": "KİRAZ",
       "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Tahıl",
-      "answer": "HUBUBAT",
-      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kişinin karakteri",
-      "answer": "HUY",
+      "text": "Hayvan derisi",
+      "answer": "POST",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ani saldırı, hücum",
+      "answer": "AKIN",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bulunulan hâl",
+      "answer": "DURUM",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bir çift",
-      "answer": "İKİ",
-      "row": 7,
-      "col": 4,
+      "text": "Beyaz kokulu çiçek",
+      "answer": "ZAMBAK",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yardım sözü",
-      "answer": "AMAN",
-      "row": 8,
+      "text": "Yarış şeridi",
+      "answer": "KULVAR",
+      "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sarı kafes kuşu",
-      "answer": "KANARYA",
-      "row": 8,
+      "text": "Dil bilgisi",
+      "answer": "GRAMER",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Antep ürünü",
-      "answer": "FISTIK",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlıcada gerçekleştirme",
-      "answer": "İKA",
+      "text": "Sarı çiçekli ağaç",
+      "answer": "MİMOZA",
       "row": 11,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ağızdan çıkan söz",
-      "answer": "LAF",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kurutulmuş elma",
-      "answer": "KAK",
-      "row": 0,
+      "text": "Ozan sazı",
+      "answer": "KOPUZ",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ceylan",
-      "answer": "AHU",
-      "row": 5,
-      "col": 0,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Çalım, gösteriş",
-      "answer": "AFİ",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Donuk, mat",
-      "answer": "OPAK",
-      "row": 0,
+      "text": "Bataklık kuşu",
+      "answer": "İBİS",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Uyumamış",
-      "answer": "UYANIK",
-      "row": 5,
+      "text": "Sayı işareti",
+      "answer": "RAKAM",
+      "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Devegillerden hayvan",
-      "answer": "LAMA",
+      "text": "Aşk yakınlaşması",
+      "answer": "FLÖRT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Başında yemek yenen",
-      "answer": "MASA",
-      "row": 7,
+      "text": "Genel",
+      "answer": "UMUMİ",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Haysiyetli",
-      "answer": "ONURLU",
+      "text": "Uzak köşe",
+      "answer": "ÜCRA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Peşi sıra gelen",
-      "answer": "ART",
+      "text": "Belirtke",
+      "answer": "AMBLEM",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırık çizgi",
+      "answer": "ZİKZAK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "AB para birimi",
+      "answer": "AVRO",
       "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvanın otladığı",
-      "answer": "OT",
-      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Milenyum",
-      "answer": "BİNYIL",
+      "text": "Boşa çıkarma",
+      "answer": "ISKA",
       "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İstinat noktası",
-      "answer": "DAYANAK",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Anadolu'da büyük kardeş",
-      "answer": "AKA",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İzlenen yol",
-      "answer": "USUL",
+      "text": "Kaba, sert",
+      "answer": "NOBRAN",
       "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Özel harekât birimi",
-      "answer": "TİM",
-      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -208,23 +166,59 @@
     },
     {
       "row": 0,
-      "col": 5
+      "col": 1
     },
     {
-      "row": 4,
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 3
+      "row": 1,
+      "col": 1
     },
     {
-      "row": 9,
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
       "col": 7
     },
     {
       "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
       "col": 7
+    },
+    {
+      "row": 11,
+      "col": 0
     }
   ],
   "difficulty": "kolay",

@@ -5,170 +5,163 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Ödünç alma",
-      "answer": "İKTİBAS",
+      "text": "Yarım küre başlık",
+      "answer": "TAKKE",
       "row": 1,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Muhtemel",
-      "answer": "OLASI",
+      "text": "Tebaa",
+      "answer": "UYRUK",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yaşlı bilge",
-      "answer": "AKSAKAL",
+      "text": "Kuram",
+      "answer": "TEORİ",
       "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Boru musluğu",
-      "answer": "VANA",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Göz merceği",
-      "answer": "LENS",
-      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "En büyük kıta",
-      "answer": "ASYA",
-      "row": 5,
+      "text": "Üniversite öğreticisi",
+      "answer": "OKUTMAN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Teknik hile",
+      "answer": "TRÜK",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Halk müziği çalgısı",
-      "answer": "TAMBURA",
+      "text": "Düzensizlik, karışıklık",
+      "answer": "KAOS",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gemi korkuluğu",
+      "answer": "KÜPEŞTE",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kokulu bahçe çiçeği",
-      "answer": "ŞEBBOY",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Polis merkezi",
-      "answer": "KARAKOL",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Geçici, ölümlü",
-      "answer": "FANİ",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Japon türküsü",
-      "answer": "UTA",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde ödeme",
-      "answer": "İTA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bilardo sopası",
-      "answer": "İSTEKA",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Issız yer",
-      "answer": "YABAN",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kafa vurma",
-      "answer": "TOS",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ahşap duvar kaplaması",
-      "answer": "LAMBRİ",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ekleme, ulama",
-      "answer": "İLAVE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarılarak boğan yılan",
-      "answer": "BOA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bakanlık görevlisi",
-      "answer": "BAKAN",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Gece dinlenmesi",
-      "answer": "UYKU",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kat aracı",
-      "answer": "ASANSÖR",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeşil bitki",
-      "answer": "OT",
+      "text": "Doğulu müzik türü",
+      "answer": "ARABESK",
       "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gösterişli kuş",
+      "answer": "TAVUS",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ruhsal tedavi",
+      "answer": "TERAPİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aşırı ısınmış",
+      "answer": "AKKOR",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kenarları eşit dörtgen",
+      "answer": "KARE",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sövgü",
+      "answer": "KÜFÜR",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Rahat konuşamayan",
+      "answer": "TUTUK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Berabere kalma",
+      "answer": "PATA",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sure bölümü",
+      "answer": "AYET",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Izgara et",
+      "answer": "KEBAP",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Parlak element",
+      "answer": "KROM",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ücretsiz yemekevi",
+      "answer": "AŞEVİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ad çekme",
+      "answer": "KURA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Özlenen memleket",
-      "answer": "SILA",
+      "text": "Yumuşak gövdeli",
+      "answer": "OTSU",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tarladaki tahıl",
+      "answer": "EKİN",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Büyük kardeş",
-      "answer": "ABLA",
-      "row": 6,
+      "text": "Cinsel çekicilik",
+      "answer": "SEKSİ",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -183,20 +176,24 @@
       "col": 2
     },
     {
+      "row": 1,
+      "col": 0
+    },
+    {
       "row": 2,
       "col": 0
     },
     {
-      "row": 4,
+      "row": 3,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 2
+      "row": 6,
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 7
+      "row": 10,
+      "col": 6
     }
   ],
   "difficulty": "orta",

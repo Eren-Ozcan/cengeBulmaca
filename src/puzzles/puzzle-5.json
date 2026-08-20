@@ -5,121 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Beynin arşivi",
-      "answer": "HAFIZA",
+      "text": "Hutbe merdiveni",
+      "answer": "MİNBER",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zola romanı",
-      "answer": "NANA",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Endüstri",
-      "answer": "SANAYİ",
-      "row": 3,
-      "col": 0,
+      "text": "Üretilen şey",
+      "answer": "ÜRÜN",
+      "row": 2,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Boya tahtası",
-      "answer": "PALET",
+      "text": "Öğüt verme",
+      "answer": "TAVSİYE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yarık, delik",
+      "answer": "PATLAK",
       "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Parlak kumaş",
-      "answer": "SATEN",
-      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tansiyon",
-      "answer": "GERİLİM",
+      "text": "Osmanlı hükümdarı",
+      "answer": "PADİŞAH",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gazete yazısı",
-      "answer": "MAKALE",
+      "text": "Koruma, kayırma",
+      "answer": "HİMAYE",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çiğneme organı",
-      "answer": "DİŞ",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
+      "text": "Hak etme",
+      "answer": "LİYAKAT",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Arap yazısı işareti",
-      "answer": "HAREKE",
+      "text": "Yağma",
+      "answer": "TALAN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Katıksız, saf",
-      "answer": "HAS",
+      "text": "Paylama, azarlama",
+      "answer": "İTAP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ayin dansı",
-      "answer": "SEMAH",
-      "row": 4,
+      "text": "Yemin, ant",
+      "answer": "AHİT",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sermaye",
-      "answer": "ANAPARA",
-      "row": 0,
+      "text": "Çalışma nöbeti",
+      "answer": "VARDİYA",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Aşırı tutkun",
-      "answer": "FANATİK",
+      "text": "Baş, göğüs heykeli",
+      "answer": "BÜST",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bayağı, olağan",
-      "answer": "ALELADE",
-      "row": 2,
+      "text": "Üretim işlemi",
+      "answer": "İMAL",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek cins",
+      "answer": "ERİL",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yeni olma",
-      "answer": "YENİLİK",
-      "row": 2,
+      "text": "Latife",
+      "answer": "ŞAKA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Düş",
+      "answer": "RÜYA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Turnusol kızartan",
-      "answer": "ASİT",
-      "row": 0,
-      "col": 6,
+      "text": "Belli, aşikâr",
+      "answer": "AYAN",
+      "row": 5,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Palamut ağacı",
-      "answer": "MEŞE",
-      "row": 5,
+      "text": "İyileşme dönemi",
+      "answer": "NEKAHET",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     }
@@ -127,27 +134,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
       "col": 2
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "kolay",

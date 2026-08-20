@@ -5,240 +5,191 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Boş çaba",
-      "answer": "FOS",
+      "text": "Uçmak işi",
+      "answer": "UÇUŞ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Avuç vuruşu",
-      "answer": "TOKAT",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Para torbası",
-      "answer": "KESE",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kraliçe",
-      "answer": "ECE",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yapmacık tavır",
-      "answer": "TRİP",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Damdaki bar",
-      "answer": "RUF",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Elifin uzak akrabası",
-      "answer": "VAV",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eskimiş, bakımsız",
-      "answer": "KÖHNE",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Hasta ziyareti",
-      "answer": "VİZİTE",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Olumsuz",
-      "answer": "MENFİ",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Eleman, bileşen",
-      "answer": "ÖGE",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Devre arası",
-      "answer": "ARA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kara parçası",
-      "answer": "ADA",
-      "row": 7,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yetişkin, reşit",
-      "answer": "ERGİN",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Temel, esas",
-      "answer": "ANA",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Mütebessim",
-      "answer": "GÜLEÇ",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İdare eder",
-      "answer": "EH",
-      "row": 10,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Kutsal simge",
-      "answer": "TOTEM",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bulanık görüntü",
-      "answer": "FLU",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Sekiz sesli aralık",
-      "answer": "OKTAV",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Jargon",
-      "answer": "ARGO",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce, uzun ağaç",
-      "answer": "SERVİ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kurulmuş birlik",
-      "answer": "ÖRGÜT",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Notaların sonuncusu",
-      "answer": "Sİ",
+      "text": "Ulaşım belgesi",
+      "answer": "PASO",
       "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yönlendirici belirti",
+      "answer": "İPUCU",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kilogramın binde biri",
+      "answer": "GRAM",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Verilen bilgi",
+      "answer": "DERS",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kâr amaçsız kuruluş",
+      "answer": "DERNEK",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ekonomi bilimi",
+      "answer": "İKTİSAT",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Asılsız suçlama",
+      "answer": "İFTİRA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bin milyon",
+      "answer": "MİLYAR",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yağmur borusu",
+      "answer": "OLUK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Deniz giysisi",
+      "answer": "MAYO",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Soyluluk",
+      "answer": "ASALET",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Nispet",
+      "answer": "ORAN",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İnce, uzun tahta",
+      "answer": "ÇITA",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Zanaat öğrencisi",
+      "answer": "ÇIRAK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İpek eşarp",
+      "answer": "FULAR",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Şu anda",
+      "answer": "ŞİMDİ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sıkıntı, dert, üzüntü",
-      "answer": "GAİLE",
+      "text": "Elverişli şart",
+      "answer": "İMKAN",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Reaksiyon",
-      "answer": "TEPKİME",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Havadaki su",
-      "answer": "NEM",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Daha ilerisi",
-      "answer": "ÖTE",
+      "text": "Güldüren söz",
+      "answer": "ESPRİ",
       "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüz tozu",
+      "answer": "PUDRA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İstemeye istemeye",
-      "answer": "KERHEN",
+      "text": "Alıcı cihaz",
+      "answer": "ALMAÇ",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilet satan büro",
+      "answer": "ACENTE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Rusça 'evet'",
-      "answer": "DA",
+      "text": "Kıyı evi",
+      "answer": "YALI",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dünya, evren",
-      "answer": "ACUN",
+      "text": "Kur'an bölümü",
+      "answer": "SURE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yumuşak kumaş",
-      "answer": "FLANEL",
-      "row": 5,
+      "text": "Pek, çok",
+      "answer": "GAYET",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yüksek faizci",
-      "answer": "TEFECİ",
-      "row": 0,
+      "text": "Güldürü oyunu",
+      "answer": "SKEÇ",
+      "row": 2,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Güzel gözlü hayvan",
-      "answer": "AHU",
-      "row": 8,
+      "text": "İzlenecek yol",
+      "answer": "ROTA",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -246,27 +197,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 2
     },
     {
       "row": 0,
-      "col": 5
+      "col": 4
     },
     {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 1
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
+      "row": 0,
       "col": 8
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 2
     }
   ],
   "difficulty": "orta",

@@ -5,170 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Babanın kız kardeşi",
-      "answer": "HALA",
+      "text": "Döşek",
+      "answer": "YATAK",
       "row": 1,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sarmal girinti",
-      "answer": "YİV",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
+      "text": "Kemik çatısı",
+      "answer": "İSKELET",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Merhamet duygusu",
-      "answer": "ACIMA",
+      "text": "Üzüm içkisi",
+      "answer": "ŞARAP",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bıkma, usanma",
-      "answer": "GINA",
-      "row": 4,
+      "text": "Uyumlu düzen",
+      "answer": "İNSİCAM",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yıllık",
+      "answer": "ALMANAK",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Lahza",
-      "answer": "AN",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Taharri",
-      "answer": "ARAMA",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Süt hayvanı",
-      "answer": "İNEK",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Satış tutarı",
-      "answer": "CİRO",
+      "text": "Hint prensesi",
+      "answer": "BEGÜM",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Madenî para",
-      "answer": "SİKKE",
+      "text": "Sebze satıcısı",
+      "answer": "MANAV",
       "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dakikanın altmışta biri",
+      "answer": "SANİYE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saç kesimi",
+      "answer": "TIRAŞ",
+      "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kozalaklı ağaç",
-      "answer": "LADİN",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İktisat",
-      "answer": "EKONOMİ",
+      "text": "Basma başörtü",
+      "answer": "YEMENİ",
       "row": 10,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Ahlak kuralları",
-      "answer": "ETİK",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
+      "text": "Erkek ördek",
+      "answer": "SUNA",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
     },
     {
-      "text": "Letonya'nın başkenti",
-      "answer": "RİGA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Dikiş aracı",
-      "answer": "İĞNE",
+      "text": "Sırlı kap",
+      "answer": "EMAYE",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kebap ilimiz",
-      "answer": "ADANA",
+      "text": "Vurucu söz",
+      "answer": "SLOGAN",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Açık yeşil taş",
+      "answer": "YEŞİM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Norveç'in başkenti",
-      "answer": "OSLO",
+      "text": "Birlik, bölüm",
+      "answer": "ÜNİTE",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yürürlükteki",
-      "answer": "CARİ",
-      "row": 2,
+      "text": "Karışık renkli",
+      "answer": "ALACA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yardım parası",
-      "answer": "İANE",
-      "row": 7,
+      "text": "Gizli patlayıcı",
+      "answer": "MAYIN",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Orman hayvanı",
-      "answer": "AYI",
+      "text": "Nağme",
+      "answer": "TERANE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kısa fıkra",
-      "answer": "ANEKDOT",
+      "text": "Temel bilgi",
+      "answer": "VERİ",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Tayin",
+      "answer": "ATAMA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük doğranmış et",
+      "answer": "KUŞBAŞI",
       "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bazıları",
-      "answer": "KİMİ",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Saf, bön",
-      "answer": "AVANAK",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kedi, köpek yavrusu",
-      "answer": "ENİK",
-      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -188,51 +167,31 @@
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 0
+      "col": 7
     },
     {
       "row": 2,
-      "col": 2
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
+      "col": 7
     },
     {
       "row": 6,
-      "col": 2
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 0
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 6
     },
     {
       "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 1
-    },
-    {
-      "row": 11,
-      "col": 2
+      "col": 6
     }
   ],
   "difficulty": "orta",

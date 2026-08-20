@@ -5,191 +5,128 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kül rengi",
-      "answer": "GRİ",
+      "text": "Basılıp çoğaltma",
+      "answer": "BASIM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Görüşü kapatan bulut",
-      "answer": "SİS",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kemik çatısı",
-      "answer": "İSKELET",
+      "text": "Mahkeme belgesi",
+      "answer": "İLAM",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tahta ayakkabı",
-      "answer": "SABO",
-      "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çehre",
-      "answer": "SİMA",
+      "text": "Bitki örtüsü",
+      "answer": "FLORA",
       "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Aynı doğumlu",
+      "answer": "İKİZ",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gürültü patırtı",
+      "answer": "ŞAMATA",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yaban barınağı",
-      "answer": "İN",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Cepteki bez",
-      "answer": "MENDİL",
-      "row": 5,
+      "text": "Ölü beden",
+      "answer": "KADAVRA",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Düzensizlik, karışıklık",
-      "answer": "KAOS",
-      "row": 6,
+      "text": "Kaba, iri",
+      "answer": "HANTAL",
+      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Simsiyah",
-      "answer": "KAPKARA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "'Ben'in yönelme hâli",
-      "answer": "BANA",
+      "text": "Sanat alıştırması",
+      "answer": "MEŞK",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Erzurum'un halk oyunu",
-      "answer": "BAR",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Rakamların başı",
-      "answer": "BİR",
+      "text": "Elin oğlu",
+      "answer": "ELOĞLU",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Zeybek oynayan",
-      "answer": "EFE",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Boksta yıkılış",
-      "answer": "NAKAVT",
+      "text": "Limon rengi",
+      "answer": "SARI",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ses uygunluğu",
-      "answer": "RİTİM",
+      "text": "Parazit",
+      "answer": "ASALAK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İnce karşıtı",
-      "answer": "KABA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bacadaki siyahlık",
-      "answer": "İS",
-      "row": 0,
+      "text": "Toplanma günü",
+      "answer": "MAHŞER",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kuvvet bilimi",
-      "answer": "MEKANİK",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sermaye",
-      "answer": "ANAPARA",
-      "row": 3,
+      "text": "Adağı olan",
+      "answer": "ADAKLI",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gürültü, seda",
-      "answer": "SES",
+      "text": "Eylemci savunucu",
+      "answer": "MİLİTAN",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gemi tamir havuzu",
-      "answer": "DOK",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Arasında anlamında",
-      "answer": "İLA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Hedefi vurma",
-      "answer": "İSABET",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bedava su",
-      "answer": "SEBİL",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kitaplık bölmesi",
-      "answer": "RAF",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bin kilogram",
-      "answer": "TON",
+      "text": "İşveren direnişi",
+      "answer": "LOKAVT",
       "row": 1,
-      "col": 7,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İşçi başlığı",
-      "answer": "BARET",
+      "text": "Hiç değilse",
+      "answer": "BARİ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yol yarışı",
+      "answer": "RALLİ",
       "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kale deliği",
+      "answer": "MAZGAL",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -197,19 +134,55 @@
   "blocks": [
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 6,
+      "row": 2,
       "col": 0
     },
     {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
       "row": 10,
-      "col": 6
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "orta",

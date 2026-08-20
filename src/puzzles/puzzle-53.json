@@ -5,163 +5,147 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Göçmen",
-      "answer": "MUHACİR",
+      "text": "İçten bağlılık",
+      "answer": "SADAKAT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Fiyat çizelgesi",
-      "answer": "TARİFE",
+      "text": "Güç, takat",
+      "answer": "MECAL",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şefkatli davranan",
-      "answer": "ANAÇ",
-      "row": 3,
-      "col": 2,
+      "text": "Gemi onarımı",
+      "answer": "KALAFAT",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Arnavutluk'un başkenti",
+      "answer": "TİRAN",
+      "row": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kızılımsı sarı",
-      "answer": "ALA",
-      "row": 4,
+      "text": "Kadın rahip",
+      "answer": "RAHİBE",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yuvarlak uçlu silah",
+      "answer": "TOPUZ",
+      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Dijital",
-      "answer": "SAYISAL",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Seyrek karşıtı",
-      "answer": "SIK",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gizli bilgi",
-      "answer": "SIR",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kışkırtma, ara bozma",
-      "answer": "FİT",
-      "row": 6,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Şaka",
-      "answer": "LATİFE",
+      "text": "Soyağacı",
+      "answer": "ŞECERE",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kırmızı, küçük meyve",
-      "answer": "ÇİLEK",
+      "text": "Göz-kulak arası",
+      "answer": "ŞAKAK",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Japonya'nın halk şarkısı",
-      "answer": "UTA",
+      "text": "Meraklı, hevesli",
+      "answer": "AMATÖR",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gerçek, esas",
-      "answer": "ASIL",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "'İşte' ünlemi",
-      "answer": "HA",
+      "text": "Aklını yitirmiş",
+      "answer": "DELİ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kimyada reaktif",
-      "answer": "AYIRAÇ",
-      "row": 3,
+      "text": "Yanma olayı, od",
+      "answer": "ATEŞ",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yılın son ayı",
-      "answer": "ARALIK",
+      "text": "Güçlü, becerikli",
+      "answer": "ACAR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Alaya alma sözü",
-      "answer": "Tİ",
-      "row": 7,
+      "text": "Öğretmen",
+      "answer": "HOCA",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kelime oyunu",
-      "answer": "CİNAS",
+      "text": "Baş",
+      "answer": "KAFA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Satrançta bir taş",
-      "answer": "FİL",
-      "row": 6,
+      "text": "Koza ipliği",
+      "answer": "İPEK",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Görevi yapma",
-      "answer": "İFA",
+      "text": "Saha, meydan",
+      "answer": "ALAN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Önceki gün",
-      "answer": "ARİFE",
+      "text": "Yakın yer",
+      "answer": "BURA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Süsleme motifi",
+      "answer": "BEZEK",
       "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Meyve tatlısı",
-      "answer": "REÇEL",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yalnız, biricik",
-      "answer": "TEK",
-      "row": 6,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
-      "row": 3,
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
       "col": 0
     },
     {

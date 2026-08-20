@@ -5,141 +5,127 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Kızıl gezegen",
-      "answer": "MARS",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
+      "text": "Hizmetli",
+      "answer": "HADEME",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Yeter bulma",
-      "answer": "KANAAT",
+      "text": "At binicisi",
+      "answer": "JOKEY",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yemin",
-      "answer": "ANT",
-      "row": 3,
+      "text": "Erden kız",
+      "answer": "BAKİRE",
+      "row": 2,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Göz kapağı kılı",
-      "answer": "KİRPİK",
+      "text": "Sıra sayısı",
+      "answer": "NUMARA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Rütbesiz asker",
-      "answer": "ER",
+      "text": "Geniş başlı çivi",
+      "answer": "RAPTİYE",
       "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlı atlı askeri",
-      "answer": "SİPAHİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Şehvet uyandıran",
-      "answer": "EROTİK",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeşile çalan kahverengi",
-      "answer": "ELA",
-      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Beraberlik edatı",
-      "answer": "İLE",
-      "row": 8,
-      "col": 3,
+      "text": "Çizilen görüntü",
+      "answer": "RESİM",
+      "row": 7,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Fiyat kâğıdı",
-      "answer": "ETİKET",
-      "row": 9,
+      "text": "Japon giysisi",
+      "answer": "KİMONO",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kurutulmuş meyve",
-      "answer": "KAK",
-      "row": 1,
+      "text": "Doğrusu, esasen",
+      "answer": "ZATEN",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Notluk defter",
+      "answer": "AJANDA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bisiklet koltuğu",
-      "answer": "SELE",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Halk dörtlüğü",
-      "answer": "MANİ",
+      "text": "Hücre topluluğu",
+      "answer": "DOKU",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gelirli mülk",
-      "answer": "İRAT",
+      "text": "Fiş yuvası",
+      "answer": "PRİZ",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gümrük deposu",
-      "answer": "ANTREPO",
+      "text": "Onuncu ay",
+      "answer": "EKİM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Mısır güneş tanrısı",
-      "answer": "RA",
+      "text": "Asıl konu",
+      "answer": "TEMA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Otlak",
+      "answer": "MERA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kullanışlı",
-      "answer": "PRATİK",
-      "row": 3,
+      "text": "Urfa biberi",
+      "answer": "İSOT",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İçki dağıtıcı",
-      "answer": "SAKİ",
+      "text": "Hayvan koltuğu",
+      "answer": "EYER",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çıkar aldatmacası",
-      "answer": "HİLE",
+      "text": "Gene",
+      "answer": "YİNE",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İngiliz sopalı oyunu",
-      "answer": "KRİKET",
+      "text": "Dağ lalesi",
+      "answer": "ANEMON",
       "row": 3,
       "col": 6,
       "arrow": "down"
@@ -148,26 +134,22 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 6
-    },
-    {
-      "row": 1,
-      "col": 0
     },
     {
       "row": 1,
       "col": 6
     },
     {
-      "row": 5,
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 0
     }
   ],

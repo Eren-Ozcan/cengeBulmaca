@@ -5,141 +5,127 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Erler topluluğu",
-      "answer": "ERAT",
+      "text": "Az önce",
+      "answer": "HENÜZ",
       "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yalnız yaşayan",
-      "answer": "MÜNZEVİ",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bağlı, uyan",
-      "answer": "TABİ",
-      "row": 3,
-      "col": 0,
+      "text": "Belirsiz çokluk",
+      "answer": "NİCE",
+      "row": 2,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Büyülenmiş",
-      "answer": "MEST",
+      "text": "Dernek, topluluk",
+      "answer": "CEMİYET",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Züğürt",
+      "answer": "FUKARA",
       "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kötülük, fenalık",
-      "answer": "ŞER",
-      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Utanılacak durumda",
-      "answer": "REZİL",
+      "text": "Arap başörtüsü",
+      "answer": "KEFİYE",
       "row": 6,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Peşi sıra gelen",
-      "answer": "ART",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kalın yün kumaş",
-      "answer": "ABA",
+      "text": "Fabrika üretimi",
+      "answer": "İMALAT",
       "row": 7,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kamyonun taşıdığı",
-      "answer": "YÜK",
+      "text": "Çam sakızı",
+      "answer": "REÇİNE",
       "row": 8,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Değerli yığın",
-      "answer": "HAZİNE",
+      "text": "Girişken, çevik",
+      "answer": "ATAK",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Beyaz besin",
-      "answer": "SÜT",
+      "text": "Pişmanlık, üzüntü",
+      "answer": "ESEF",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bedenin karşıtı",
-      "answer": "RUH",
-      "row": 6,
+      "text": "Kullanım ücreti",
+      "answer": "KİRA",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Alçak, korkak",
-      "answer": "NAMERT",
-      "row": 1,
+      "text": "Para işleri görevlisi",
+      "answer": "MUTEMET",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bakmadan",
-      "answer": "EZBERE",
+      "text": "Tek, eşsiz",
+      "answer": "ÜNİK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tekne kaptanı",
-      "answer": "REİS",
+      "text": "Görünüm, kılık",
+      "answer": "FAÇA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Işık",
+      "answer": "ZİYA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yitik, kayıp",
-      "answer": "ZAYİ",
+      "text": "Kemik dokusu",
+      "answer": "İLİK",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Avcının kısmeti",
-      "answer": "AV",
-      "row": 0,
+      "text": "Akım",
+      "answer": "CEREYAN",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Seyirci basamağı",
-      "answer": "TRİBÜN",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İstemsiz hareket",
-      "answer": "TİK",
+      "text": "İkinci Yunan harfi",
+      "answer": "BETA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Cilalı deri",
-      "answer": "LAKE",
+      "text": "Uçucu sıvı",
+      "answer": "ETER",
       "row": 5,
       "col": 6,
       "arrow": "down"
@@ -148,27 +134,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
       "row": 0,
-      "col": 2
+      "col": 5
     },
     {
-      "row": 4,
+      "row": 5,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 2
+      "row": 9,
+      "col": 5
     }
   ],
   "difficulty": "kolay",

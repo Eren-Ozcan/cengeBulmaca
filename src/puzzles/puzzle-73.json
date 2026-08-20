@@ -5,163 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "El-kol arası",
-      "answer": "BİLEK",
-      "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayvan besini",
-      "answer": "YEM",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yüzdeki seğirme",
-      "answer": "TİK",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Korku ünlemi",
-      "answer": "ABO",
-      "row": 2,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İş, zanaat",
-      "answer": "MESLEK",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hamamda kullanılan",
-      "answer": "TAS",
-      "row": 4,
+      "text": "Yumurtalı sos",
+      "answer": "MAYONEZ",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eti çok",
-      "answer": "ETLİ",
+      "text": "Olay, durum",
+      "answer": "VAKA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Havayla ilgili",
+      "answer": "HAVAİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bire bir kopya",
+      "answer": "REPLİKA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Süt organı",
+      "answer": "MEME",
       "row": 5,
-      "col": 3,
-      "arrow": "right"
+      "col": 4,
+      "arrow": "down-right"
     },
     {
-      "text": "Mücadele, savaş",
-      "answer": "CENK",
+      "text": "Alım satım",
+      "answer": "TİCARET",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Araç gövdesi",
-      "answer": "KAROSER",
-      "row": 6,
+      "text": "Yeni olma",
+      "answer": "YENİLİK",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güneş örtüsü",
-      "answer": "TENTE",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Noksan",
-      "answer": "EKSİK",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Beden etkinliği",
-      "answer": "SPOR",
+      "text": "Toprak kurdu",
+      "answer": "SOLUCAN",
       "row": 9,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Tuhaf, garip",
-      "answer": "ACAYİP",
-      "row": 4,
+      "text": "Doyum sağlama",
+      "answer": "TATMİN",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Başıboş",
+      "answer": "AVARE",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Nikbin",
-      "answer": "İYİMSER",
+      "text": "Sınav türü",
+      "answer": "TEST",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Saçma söz",
+      "answer": "YAVE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gömlekteki kir",
-      "answer": "LEKE",
+      "text": "Amerika tahılı",
+      "answer": "KİNOA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Zürafa akrabası",
+      "answer": "OKAPİ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Resmiyet görevlisi",
-      "answer": "NOTER",
-      "row": 5,
+      "text": "Deri",
+      "answer": "CİLT",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İlaç, merhem",
-      "answer": "EM",
+      "text": "Ulaşmış, kavuşmuş",
+      "answer": "NAİL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Taşlı zıplama oyunu",
-      "answer": "SEKSEK",
-      "row": 3,
+      "text": "Bilinen şey",
+      "answer": "MALUM",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Zemin tarafı",
-      "answer": "ALT",
-      "row": 2,
+      "text": "Yenilikten yana",
+      "answer": "İLERİCİ",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Boyun arkası",
-      "answer": "ENSE",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Semptom",
-      "answer": "BELİRTİ",
-      "row": 2,
+      "text": "Sıvı verme",
+      "answer": "ZERK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Taslak çizim",
-      "answer": "KROKİ",
-      "row": 0,
-      "col": 7,
+      "text": "Bulunulan yer",
+      "answer": "MEKAN",
+      "row": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yankı",
-      "answer": "EKO",
-      "row": 7,
+      "text": "Sayı, tane",
+      "answer": "ADET",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -169,43 +155,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 5
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
-      "col": 6
+      "col": 7
     },
     {
       "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
       "row": 6,
-      "col": 7
-    },
-    {
-      "row": 8,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 4
+      "row": 8,
+      "col": 7
     },
     {
       "row": 10,
-      "col": 6
+      "col": 7
     }
   ],
   "difficulty": "kolay",

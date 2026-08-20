@@ -5,198 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Belirleme birimi",
-      "answer": "ÖLÇÜ",
+      "text": "İnce delik",
+      "answer": "GÖZENEK",
       "row": 0,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yazılım satırı",
-      "answer": "KOD",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Koçun yaptığı",
-      "answer": "TOS",
+      "text": "Eleme aracı",
+      "answer": "ELEK",
       "row": 2,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bir tane olan",
-      "answer": "TEK",
+      "text": "Böcek",
+      "answer": "HAŞERE",
       "row": 3,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Aza",
-      "answer": "ÜYE",
-      "row": 3,
-      "col": 4,
+      "text": "İstek, arzu",
+      "answer": "EMEL",
+      "row": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yağlı merhem",
-      "answer": "POMAT",
-      "row": 3,
+      "text": "Dalgalı saç",
+      "answer": "ONDÜLE",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tarla sınırı",
-      "answer": "AN",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kart oyunu",
-      "answer": "BEZİK",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Şaşılacak şey",
-      "answer": "ACİBE",
+      "text": "Sıra bütünü",
+      "answer": "DİZİ",
       "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hastalık",
-      "answer": "MARAZ",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Dişi geyik",
-      "answer": "MARAL",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Vasıf",
-      "answer": "NİTELİK",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uyanmak üzere olan",
-      "answer": "SAK",
-      "row": 9,
+      "text": "Dağ evi",
+      "answer": "ŞALE",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ses özelliği",
-      "answer": "TINI",
-      "row": 10,
-      "col": 3,
+      "text": "Resim kenarlığı",
+      "answer": "ÇERÇEVE",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Doku perdesi",
-      "answer": "ZAR",
+      "text": "Hava cihazı",
+      "answer": "KLİMA",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Acele yapılan",
+      "answer": "İVEDİ",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Enerji çeviren düzenek",
+      "answer": "MAKİNE",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Asansörün durduğu yer",
-      "answer": "KAT",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Toplu taşıt",
-      "answer": "OTOBÜS",
-      "row": 1,
+      "text": "Hatıra kitapçığı",
+      "answer": "ANDAÇ",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İşve, kırıtma",
-      "answer": "NAZ",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Borç kapatma",
-      "answer": "ÖDEME",
-      "row": 0,
+      "text": "Temenni",
+      "answer": "DİLEK",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Şeffaf mineral",
-      "answer": "MİKA",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yer altı sığınağı",
-      "answer": "KAZAMAT",
-      "row": 2,
+      "text": "Nazarlık bitkisi",
+      "answer": "ÜZERLİK",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Alım satım",
-      "answer": "TİCARET",
-      "row": 3,
+      "text": "Keyifli",
+      "answer": "NEŞELİ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gömleği düzelten",
-      "answer": "ÜTÜ",
+      "text": "Çakılan metal",
+      "answer": "ÇİVİ",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Seçme aşaması",
+      "answer": "ELEME",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kiraya verilen",
-      "answer": "KİRALIK",
-      "row": 4,
+      "text": "Çabucak",
+      "answer": "HEMEN",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yazma kenarındaki",
-      "answer": "OYA",
-      "row": 1,
+      "text": "Defa",
+      "answer": "KERE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dev deniz memelisi",
-      "answer": "BALİNA",
-      "row": 5,
+      "text": "Ödeme süresi",
+      "answer": "VADE",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bireşim",
-      "answer": "SENTEZ",
+      "text": "Bilek demiri",
+      "answer": "KELEPÇE",
       "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Bol karşıtı",
-      "answer": "KIT",
-      "row": 8,
       "col": 7,
       "arrow": "down"
     }
@@ -204,11 +155,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
@@ -216,27 +167,51 @@
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
       "col": 7
     },
     {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
       "row": 6,
+      "col": 6
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 0
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "zor",

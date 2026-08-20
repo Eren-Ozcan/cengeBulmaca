@@ -5,142 +5,107 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Genelge",
-      "answer": "TAMİM",
+      "text": "Fiyat kırma",
+      "answer": "İSKONTO",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Temsilci",
-      "answer": "DELEGE",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Aşırı tutkun",
-      "answer": "FANATİK",
+      "text": "İri kırmızı çiçek",
+      "answer": "ŞAKAYIK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bel bağı",
-      "answer": "KEMER",
+      "text": "Halk dilinde çocuk",
+      "answer": "ÇAĞA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Evin bölmesi",
-      "answer": "ODA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kutlama",
-      "answer": "TEBRİK",
+      "text": "Sarılmış tütün",
+      "answer": "SİGARA",
       "row": 5,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Erkek ördek",
-      "answer": "SUNA",
+      "text": "Toprak kayması",
+      "answer": "HEYELAN",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Perşembeden sonraki gün",
-      "answer": "CUMA",
+      "text": "Eski kadın mantosu",
+      "answer": "FERACE",
       "row": 8,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ünlüler haberleri",
-      "answer": "MAGAZİN",
+      "text": "Tasavvuf yolu",
+      "answer": "TARİKAT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Adanan şey, nezir",
-      "answer": "ADAK",
+      "text": "Sert vuruş",
+      "answer": "SMAÇ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Avrupa nehri",
-      "answer": "TUNA",
+      "text": "Keyifli hâl",
+      "answer": "SEFA",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yumurtalı domates yemeği",
-      "answer": "MENEMEN",
-      "row": 0,
+      "text": "Meslek yolu",
+      "answer": "KARİYER",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bildirme, duyurma",
-      "answer": "İLAM",
+      "text": "Padişah çadırı",
+      "answer": "OTAĞ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çatıdaki yapı",
-      "answer": "BACA",
+      "text": "İleri karşıtı",
+      "answer": "GERİ",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gök taşı",
-      "answer": "METEOR",
-      "row": 0,
+      "text": "Yataktan kalkamayan",
+      "answer": "YATALAK",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İyi, güzel",
-      "answer": "UZ",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Üretim kaynağı",
-      "answer": "GİRDİ",
-      "row": 1,
+      "text": "Hint unvanı",
+      "answer": "RACA",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Re'den sonraki nota",
-      "answer": "Mİ",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir yere varıncaya",
-      "answer": "DEK",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bozulmamış, saf",
-      "answer": "AKMAN",
-      "row": 4,
+      "text": "Geleceği bildirme",
+      "answer": "KEHANET",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -148,6 +113,26 @@
   "blocks": [
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 4,
       "col": 5
     },
     {

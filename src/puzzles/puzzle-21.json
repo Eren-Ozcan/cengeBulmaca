@@ -5,191 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Süt organı",
-      "answer": "MEME",
+      "text": "Ünlüler haberleri",
+      "answer": "MAGAZİN",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Kötü karşıtı",
-      "answer": "İYİ",
+      "text": "İnce karşıtı",
+      "answer": "KABA",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kütüklerden yapılan araç",
-      "answer": "SAL",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde su",
-      "answer": "AB",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Basımevi",
-      "answer": "MATBAA",
-      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Az karşıtı",
-      "answer": "ÇOK",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ordu mensubu",
-      "answer": "ASKER",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağırarak duyuran",
-      "answer": "TELLAL",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Toynağa çakılan",
-      "answer": "NAL",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Nakit değil",
-      "answer": "AYNİ",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Çizgili hayvan",
-      "answer": "ZEBRA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kayma ayakkabısı",
-      "answer": "PATEN",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mısra",
-      "answer": "DİZE",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğum günü tatlısı",
-      "answer": "KEK",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Arka yüz",
-      "answer": "TERS",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Temel öz",
-      "answer": "ESAS",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bağımsız",
-      "answer": "AZADE",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Satrançta yenilgi",
-      "answer": "MAT",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Biçimli vücutlu",
-      "answer": "ATLETİK",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Giysi",
-      "answer": "ELBİSE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Pamuklu kumaş",
-      "answer": "BEZ",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tahta üflemeli çalgı",
-      "answer": "KLARNET",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kokusuz süs çiçeği",
-      "answer": "AÇELYA",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Seslenme sözü",
-      "answer": "YA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Nispet",
-      "answer": "ORAN",
+      "text": "Yün giysi",
+      "answer": "KAZAK",
       "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kot kumaşı",
+      "answer": "DENİM",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güçlendirici ilaç",
+      "answer": "TONİK",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İstemeyerek",
+      "answer": "ZORAKİ",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Şişe kapağı aracı",
+      "answer": "AÇACAK",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kan alma",
+      "answer": "HACAMAT",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kurbağa yavrusu",
+      "answer": "İRİBAŞ",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gözetim",
+      "answer": "NEZARET",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Küçük ölçek",
+      "answer": "MAKET",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yırtıcı kuş",
+      "answer": "ŞAHİN",
+      "row": 7,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Sert siyah ağaç",
+      "answer": "ABANOZ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sorun çözme yolu",
+      "answer": "ÇARE",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eğlence yeri",
+      "answer": "GAZİNO",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gücü yetmeyen, güçsüz",
+      "answer": "ACİZ",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Üst görevli",
+      "answer": "AMİR",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bedava, karşılıksız",
+      "answer": "CABA",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Mürekkep balığı",
+      "answer": "KALAMAR",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Damga, mühür",
+      "answer": "KAŞE",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Horoz tacı",
-      "answer": "İBİK",
+      "text": "Vasıf",
+      "answer": "NİTELİK",
       "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Üniversite diploması",
-      "answer": "LİSANS",
-      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -197,6 +155,10 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
@@ -204,36 +166,40 @@
       "col": 5
     },
     {
+      "row": 0,
+      "col": 6
+    },
+    {
       "row": 2,
-      "col": 4
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
     },
     {
       "row": 4,
-      "col": 0
+      "col": 6
     },
     {
       "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
       "col": 0
     },
     {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 7
     },
     {
       "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 6
+      "col": 7
     }
   ],
   "difficulty": "orta",

@@ -5,205 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kulplu su tası",
-      "answer": "MAŞRAPA",
-      "row": 1,
+      "text": "Değerli taş",
+      "answer": "ELMAS",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Göz rengi",
-      "answer": "ELA",
+      "text": "Bükülü iplik",
+      "answer": "BÜKME",
       "row": 2,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kaba örtü",
-      "answer": "ÇUL",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Geniş hol",
-      "answer": "SOFA",
+      "text": "Morfin türevi",
+      "answer": "EROİN",
       "row": 3,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Takvim birimi",
-      "answer": "AY",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Güreş alanı",
-      "answer": "ARENA",
+      "text": "Ayin dansı",
+      "answer": "SEMAH",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Elverişli şart",
-      "answer": "İMKAN",
+      "text": "Benekli kedi",
+      "answer": "ÇİTA",
       "row": 5,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kafa kafaya çarpma",
-      "answer": "TOS",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "En iri kara hayvanı",
-      "answer": "FİL",
+      "text": "Çamur toprak",
+      "answer": "BATAK",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Petekten çıkan",
-      "answer": "BAL",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Serbestlikçi",
-      "answer": "LİBERAL",
+      "text": "Katlanır bölme",
+      "answer": "PARAVAN",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gümüş balığı",
-      "answer": "ATERİNA",
-      "row": 9,
+      "text": "Kalın erkek sesi",
+      "answer": "BARİTON",
+      "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yetim koruyucusu",
-      "answer": "VASİ",
+      "text": "Leyli",
+      "answer": "YATILI",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sürek eğlencesi",
-      "answer": "AV",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeni olma",
-      "answer": "YENİLİK",
+      "text": "Onur kırma",
+      "answer": "HAKARET",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İş süresi",
-      "answer": "MESAİ",
+      "text": "Gösterişli yaşayış",
+      "answer": "LÜKS",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ekleme, ulama",
-      "answer": "İLAVE",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Telefon sözü",
-      "answer": "ALO",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Eylemci savunucu",
-      "answer": "MİLİTAN",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gün aydınlığı",
-      "answer": "ŞAFAK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvan besleme",
-      "answer": "BESİ",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Fasıla",
-      "answer": "ARA",
-      "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Saydam taş",
-      "answer": "BERİL",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tok karşıtı",
-      "answer": "AÇ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tek parça giysi",
-      "answer": "ENTARİ",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Başarı sayısı",
-      "answer": "PUAN",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İmkân",
-      "answer": "OLANAK",
+      "text": "Tropik sarı meyve",
+      "answer": "PAPAYA",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tarama aracı",
+      "answer": "TARAK",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gereksiz, yersiz",
+      "answer": "ABES",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yer çizimi",
+      "answer": "HARİTA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Proses",
+      "answer": "SÜREÇ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Melez hayvan",
+      "answer": "KATIR",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Güldürücü, gülünç",
+      "answer": "KOMİK",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Havada vurma",
+      "answer": "VOLE",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Son tarih",
+      "answer": "MİAT",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Nişan yüzüğü",
-      "answer": "ALYANS",
-      "row": 0,
-      "col": 7,
+      "text": "Cevap",
+      "answer": "YANIT",
+      "row": 6,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Erimiş kayaç",
-      "answer": "LAV",
-      "row": 7,
+      "text": "Kalabalıksız, ıssız",
+      "answer": "TENHA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -211,19 +162,51 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
     },
     {
       "row": 4,
       "col": 0
     },
     {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 2
+    },
+    {
       "row": 6,
-      "col": 3
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 7
     },
     {
       "row": 11,

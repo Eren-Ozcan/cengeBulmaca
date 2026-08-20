@@ -5,166 +5,148 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Kamıştan üflemeli çalgı",
-      "answer": "NEY",
+      "text": "Bilgi",
+      "answer": "MALUMAT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Formda, zinde",
-      "answer": "FİT",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kümes hayvanı",
-      "answer": "TAVUK",
+      "text": "Japon dövüş sanatı",
+      "answer": "KARATE",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Geçmişin izi",
-      "answer": "ANI",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yanlışlıkla",
-      "answer": "KAZARA",
-      "row": 3,
+      "text": "Tıkanmış",
+      "answer": "TIKANIK",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ayrılan para",
-      "answer": "FON",
+      "text": "Kalaylı sac",
+      "answer": "TENEKE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Direnme, üsteleme",
+      "answer": "ISRAR",
       "row": 5,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Eşya konan yer",
-      "answer": "RAF",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "El işi mesleği",
-      "answer": "ZANAAT",
+      "text": "Yaya asker",
+      "answer": "PİYADE",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Haşlanan hamur",
-      "answer": "MAKARNA",
+      "text": "Yoga uygulayıcısı",
+      "answer": "YOGİ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uyuşuk",
-      "answer": "MİSKİN",
+      "text": "Toprak fırın",
+      "answer": "TANDIR",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yanlar, taraflar, çevre",
-      "answer": "ETRAF",
+      "text": "Karşılıklı anlaşma",
+      "answer": "AKIT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Pahalılaşma",
-      "answer": "ZAM",
-      "row": 6,
+      "text": "Küçük ışık",
+      "answer": "SPOT",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ey anlamında",
-      "answer": "YA",
+      "text": "Cilalı deri",
+      "answer": "LAKE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İstemeyerek",
-      "answer": "ZORAKİ",
-      "row": 3,
+      "text": "Letonya'nın başkenti",
+      "answer": "RİGA",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tropik meyve",
-      "answer": "ANANAS",
-      "row": 3,
+      "text": "Sanayi, endüstri",
+      "answer": "URAN",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ürün sergisi",
-      "answer": "FUAR",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ayrım noktası",
-      "answer": "FARK",
+      "text": "İbadet töreni",
+      "answer": "AYİN",
       "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yön değiştirme",
+      "answer": "MANEVRA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İnandırma, kandırma",
-      "answer": "İKNA",
+      "text": "Kullanılmış madde",
+      "answer": "ATIK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hazırlıksız yakalayan",
-      "answer": "ANİ",
-      "row": 6,
-      "col": 5,
+      "text": "Erkek keçi",
+      "answer": "TEKE",
+      "row": 0,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yanıcı gaz",
-      "answer": "METAN",
-      "row": 4,
+      "text": "Zehir",
+      "answer": "ZEHR",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
       "row": 5,
       "col": 5
     },
     {
       "row": 6,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
     }
   ],
   "difficulty": "kolay",

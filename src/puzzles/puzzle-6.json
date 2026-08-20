@@ -5,184 +5,135 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Jargon",
-      "answer": "ARGO",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Silindir kap",
-      "answer": "TÜP",
+      "text": "Selçuklu lalası",
+      "answer": "ATABEY",
       "row": 1,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Akıtma oluğu",
-      "answer": "ARK",
+      "text": "Pişmanlık",
+      "answer": "NEDAMET",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İskambilde koz",
-      "answer": "ATU",
+      "text": "Yeterlilik",
+      "answer": "KİFAYET",
       "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Gelecek okuma",
-      "answer": "FAL",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gözenekli kumaş",
-      "answer": "TÜL",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Masa oyunu",
-      "answer": "DAMA",
-      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aksan",
-      "answer": "VURGU",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Suni",
-      "answer": "YAPAY",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bitiş, nihayet",
-      "answer": "SON",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırlangıç benzeri kuş",
-      "answer": "EBABİL",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dahi sözü",
-      "answer": "BİLE",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ermiş, veli",
-      "answer": "EREN",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zıplama sesi",
-      "answer": "ZIP",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Az pişmiş yumurta",
-      "answer": "RAFADAN",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kilogramın binde biri",
-      "answer": "GRAM",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğum yardımcısı",
-      "answer": "EBE",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Hamur açacağı",
-      "answer": "OKLAVA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "On yüz",
-      "answer": "BİN",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yumuşak başlı",
-      "answer": "UYSAL",
+      "text": "Kadın hükümdar",
+      "answer": "MELİKE",
       "row": 4,
-      "col": 4,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Lezzet",
-      "answer": "TAT",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
+      "text": "Gündüz karşıtı",
+      "answer": "GECE",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Aşırı şişman",
-      "answer": "OBEZ",
+      "text": "Mal getirme",
+      "answer": "İTHAL",
       "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Çabuk, tez",
+      "answer": "ATİK",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Tıpla ilgili",
+      "answer": "TIBBİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Süt hayvanı",
+      "answer": "İNEK",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "'Aksi takdirde' bağlacı",
+      "answer": "YOKSA",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Japon çizgi filmi",
+      "answer": "ANİME",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüksek faizci",
+      "answer": "TEFECİ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hak, hukuk",
+      "answer": "ADALET",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Satış noktası",
+      "answer": "BAYİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kötü, alçak, soysuz",
+      "answer": "HABİS",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çaba, uğraş",
+      "answer": "EMEK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kırışık gideren araç",
-      "answer": "ÜTÜ",
+      "text": "Yunanistan'ın başkenti",
+      "answer": "ATİNA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeterince olan",
+      "answer": "YETERLİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bol, zengin",
-      "answer": "GANİ",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Pul yapıştırılmış",
-      "answer": "PULLU",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kolay kazanç",
-      "answer": "LÜP",
-      "row": 7,
+      "text": "Burun duyumu",
+      "answer": "KOKU",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -190,26 +141,62 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
     },
     {
       "row": 4,
-      "col": 5
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 7
     },
     {
       "row": 6,
-      "col": 7
+      "col": 0
     },
     {
       "row": 7,
       "col": 0
     },
     {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 2
+    },
+    {
       "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {
       "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 2
+    },
+    {
+      "row": 10,
       "col": 6
     }
   ],

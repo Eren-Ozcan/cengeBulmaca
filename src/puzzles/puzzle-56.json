@@ -5,142 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Bağışlanma dileme",
-      "answer": "ŞEFAAT",
+      "text": "Ajan",
+      "answer": "CASUS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ruh çağıran",
-      "answer": "MEDYUM",
+      "text": "Bando",
+      "answer": "MIZIKA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kanun",
-      "answer": "YASA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Açık kestane rengi",
-      "answer": "ALA",
+      "text": "Sıradan",
+      "answer": "OLAĞAN",
       "row": 3,
-      "col": 4,
-      "arrow": "down-right"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Çok konuşan kimse",
-      "answer": "ÇENEBAZ",
-      "row": 4,
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Piskopos değneği",
-      "answer": "ASA",
-      "row": 6,
+      "text": "Onarım işleri",
+      "answer": "TAMİRAT",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Askerî yönetim",
+      "answer": "KOMUTA",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce zıddı",
+      "answer": "KALIN",
+      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Pazarda satan",
-      "answer": "PAZARCI",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Doğru düşünme bilimi",
-      "answer": "MANTIK",
+      "text": "Kuş gübresi",
+      "answer": "GUANO",
       "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Utanmaz, yüzsüz",
-      "answer": "ARSIZ",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sırlı kap",
-      "answer": "EMAYE",
+      "text": "Keskin kokulu gaz",
+      "answer": "AMONYAK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kör",
-      "answer": "AMA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski başlık",
-      "answer": "FES",
+      "text": "Özlenen memleket",
+      "answer": "SILA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kem göz",
-      "answer": "NAZAR",
-      "row": 4,
+      "text": "Kahve türü",
+      "answer": "MOKA",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Etrafı su ile çevrili",
-      "answer": "ADA",
+      "text": "Gök boşluğu",
+      "answer": "UZAY",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kokulu sıvı",
-      "answer": "ESANS",
-      "row": 4,
+      "text": "Dinî inanç",
+      "answer": "İMAN",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dünya'nın uydusu",
-      "answer": "AY",
+      "text": "Kapasite",
+      "answer": "SIĞA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mübalağa",
-      "answer": "ABARTI",
-      "row": 3,
+      "text": "Dürülmüş kağıt",
+      "answer": "RULO",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Toprak malzeme",
-      "answer": "TUĞLA",
+      "text": "Çok sert",
+      "answer": "KASKATI",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İnek yavrusu",
+      "answer": "DANA",
       "row": 0,
-      "col": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yağ sesi",
-      "answer": "CIZ",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Az olma",
-      "answer": "AZLIK",
-      "row": 3,
+      "text": "Adet",
+      "answer": "TANE",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -148,15 +134,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
+      "col": 5
     },
     {
       "row": 9,
-      "col": 6
+      "col": 5
     }
   ],
   "difficulty": "kolay",

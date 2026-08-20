@@ -5,198 +5,163 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Ters, huysuz",
-      "answer": "AKSİ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İlk ay",
-      "answer": "OCAK",
+      "text": "Akciğer hastalığı",
+      "answer": "VEREM",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Çalma aracı",
-      "answer": "ZİL",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Fırında pişen tatlı",
-      "answer": "KEK",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yiğit, kahraman",
-      "answer": "ALP",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Oturma bölümü",
-      "answer": "SALON",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Osmanlıcada gerçekleştirme",
-      "answer": "İKA",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Klik",
-      "answer": "HİZİP",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Konu dışı",
-      "answer": "AFAKİ",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yapraklı not defteri",
-      "answer": "BLOKNOT",
-      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Verilen söz",
-      "answer": "VAAT",
-      "row": 9,
+      "text": "Taharri",
+      "answer": "ARAMA",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ama",
+      "answer": "LAKİN",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Toplu gösteri",
+      "answer": "MİTİNG",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Korku ünlemi",
-      "answer": "ABO",
-      "row": 9,
+      "text": "Egemen toprak",
+      "answer": "ÜLKE",
+      "row": 5,
       "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Amerika kedigili",
+      "answer": "JAGUAR",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Konser",
+      "answer": "DİNLETİ",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ateş çöpü",
-      "answer": "KİBRİT",
+      "text": "Yeğinlik",
+      "answer": "ŞİDDET",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güçlü çalma",
+      "answer": "FORTE",
       "row": 10,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Verimli düzlük",
-      "answer": "OVA",
+      "text": "Kötü",
+      "answer": "FENA",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Telefon sözü",
-      "answer": "ALO",
+      "text": "Hafif, ince yağmur",
+      "answer": "ÇİSE",
       "row": 11,
-      "col": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yüksek sesle gülme",
-      "answer": "KAHKAHA",
+      "text": "Tüylü kumaş",
+      "answer": "KADİFE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "El bavulu",
+      "answer": "VALİZ",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Arap harfi",
-      "answer": "VAV",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Arap alfabesi",
-      "answer": "ELİFBA",
-      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çam meyvesi",
-      "answer": "KOZALAK",
-      "row": 3,
+      "text": "Yön kolu",
+      "answer": "GİDON",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Erler topluluğu",
+      "answer": "ERAT",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Konut, hane",
-      "answer": "EV",
-      "row": 2,
+      "text": "Kutup bitki örtüsü",
+      "answer": "TUNDRA",
+      "row": 5,
       "col": 3,
-      "arrow": "right-down"
+      "arrow": "down"
     },
     {
-      "text": "Tütün alkaloidi",
-      "answer": "NİKOTİN",
-      "row": 4,
+      "text": "Yarışan kimse",
+      "answer": "RAKİP",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dökme demir",
-      "answer": "PİK",
+      "text": "Araç, avadanlık",
+      "answer": "ALET",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Güvenli",
+      "answer": "EMİN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Jeneratör",
+      "answer": "ÜRETEÇ",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Cezaya dair",
-      "answer": "CEZAİ",
+      "text": "Kömür ateşliği",
+      "answer": "MANGAL",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Haykırma, bağırma",
-      "answer": "NARA",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Birinci, öncü",
-      "answer": "İLK",
-      "row": 2,
+      "text": "Yerine geçen",
+      "answer": "KAİM",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Hareketli, taşınabilir",
-      "answer": "MOBİL",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Koni biçimli başlık",
-      "answer": "KALPAK",
+      "text": "Kalın taban derisi",
+      "answer": "KÖSELE",
       "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Spor bahsi",
-      "answer": "TOTO",
-      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -204,22 +169,22 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
-      "col": 3
+      "col": 1
     },
     {
       "row": 0,
-      "col": 4
+      "col": 7
     },
     {
-      "row": 0,
-      "col": 5
+      "row": 1,
+      "col": 0
     },
     {
-      "row": 0,
+      "row": 1,
       "col": 7
     },
     {
@@ -228,27 +193,55 @@
     },
     {
       "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
-      "col": 5
+      "col": 7
     },
     {
       "row": 3,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 6
+      "row": 3,
+      "col": 7
     },
     {
-      "row": 8,
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
-      "row": 11,
-      "col": 3
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 8
+    },
+    {
+      "row": 8,
+      "col": 8
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 8
     }
   ],
   "difficulty": "zor",

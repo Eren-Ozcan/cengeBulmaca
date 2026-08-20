@@ -5,177 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kâğıt açma",
-      "answer": "FAL",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ürün listesi",
-      "answer": "KATALOG",
-      "row": 1,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yaprakların çıktığı",
-      "answer": "DAL",
-      "row": 2,
+      "text": "Kenar püskülü",
+      "answer": "SAÇAK",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hindistan'da hükümdar",
-      "answer": "RACA",
-      "row": 3,
-      "col": 3,
+      "text": "Sakin, huzurlu, rahat",
+      "answer": "ASUDE",
+      "row": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Saçmalama",
-      "answer": "HEZEYAN",
+      "text": "Yaban öküzü",
+      "answer": "BİZON",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Nem",
+      "answer": "RUTUBET",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yer sarsıntısı",
-      "answer": "DEPREM",
-      "row": 5,
+      "text": "Özel bölme",
+      "answer": "LOCA",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Söylence",
-      "answer": "EFSANE",
-      "row": 7,
-      "col": 1,
+      "text": "Para kuruluşu",
+      "answer": "BANKA",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Saça yapılan işlem",
-      "answer": "MEÇ",
-      "row": 7,
+      "text": "Değişken kâğıt",
+      "answer": "JOKER",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gelir, varidat",
-      "answer": "İRAT",
+      "text": "Dünya, evren",
+      "answer": "ACUN",
       "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Parlak kaplama",
-      "answer": "VERNİK",
+      "text": "Çok büyük",
+      "answer": "DEVASA",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Voleybolda devre",
-      "answer": "SET",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Piramitlerin yanındaki ırmak",
-      "answer": "NİL",
+      "text": "Baş aşağı",
+      "answer": "AMUT",
       "row": 10,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bağırarak duyuran",
-      "answer": "TELLAL",
+      "text": "Ara süresi",
+      "answer": "TATİL",
       "row": 11,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kavrulan bitki",
-      "answer": "KAHVE",
-      "row": 1,
+      "text": "Otomatik makine",
+      "answer": "ROBOT",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Olumlu yanıt",
-      "answer": "EVET",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Acıyla çıkan ses",
-      "answer": "NALE",
+      "text": "Kısa sürede",
+      "answer": "ÇABUCAK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sofra bezi",
-      "answer": "PEÇETE",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Mektup kesesi",
-      "answer": "ZARF",
-      "row": 3,
+      "text": "İstanbul'un eski adı",
+      "answer": "ASİTANE",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Küçük kemirgen",
-      "answer": "FARE",
+      "text": "Koyun yavrusu",
+      "answer": "KUZU",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İlham",
-      "answer": "ESİN",
+      "text": "Gömlek aksesuarı",
+      "answer": "KRAVAT",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eğlenme, dalga geçme",
-      "answer": "ALAY",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yat limanı",
-      "answer": "MARİNA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tiyatroda ayrı yer",
-      "answer": "LOCA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Taşıma",
-      "answer": "NAKİL",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Savaş kazancı",
-      "answer": "GANİMET",
+      "text": "Açık sözlü",
+      "answer": "DOBRA",
       "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İbadet yeri",
+      "answer": "CAMİ",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağız kemiği",
+      "answer": "ÇENE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İzlenen yol",
+      "answer": "USUL",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Güvence",
+      "answer": "TEMİNAT",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -183,15 +155,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 3
+      "col": 5
     },
     {
       "row": 0,
@@ -199,6 +167,18 @@
     },
     {
       "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
       "col": 0
     },
     {
@@ -206,12 +186,36 @@
       "col": 6
     },
     {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
       "row": 9,
-      "col": 7
+      "col": 0
     },
     {
       "row": 10,
-      "col": 3
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 2
+    },
+    {
+      "row": 11,
+      "col": 0
     },
     {
       "row": 11,

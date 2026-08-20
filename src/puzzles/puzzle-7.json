@@ -5,156 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Düğmeli giysi",
-      "answer": "CEKET",
+      "text": "Merdiven bölümü",
+      "answer": "BASAMAK",
       "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yumuşak oturak",
-      "answer": "PUF",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Parazit",
-      "answer": "ASALAK",
-      "row": 3,
-      "col": 1,
+      "text": "Fauna",
+      "answer": "DİREY",
+      "row": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İlaç, çare",
-      "answer": "DEVA",
-      "row": 3,
+      "text": "Tam aynı",
+      "answer": "TIPATIP",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eski dilde yapma",
-      "answer": "İKA",
+      "text": "Odun baltası",
+      "answer": "NACAK",
       "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kanal havuzu",
-      "answer": "LOK",
-      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Erkek koyun",
-      "answer": "KOÇ",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Erkek kardeş",
-      "answer": "BİRADER",
-      "row": 5,
+      "text": "İkide bir",
+      "answer": "YARI",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kısa namlulu tüfek",
-      "answer": "FİLİNTA",
+      "text": "Zaman aracı",
+      "answer": "SAAT",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gezici satış tezgâhı",
+      "answer": "İŞPORTA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çeviri",
-      "answer": "TERCÜME",
+      "text": "Oruç açma",
+      "answer": "İFTAR",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Şov",
+      "answer": "GÖSTERİ",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Alçalan yol",
-      "answer": "İNİŞ",
+      "text": "Yan, cephe",
+      "answer": "TARAF",
       "row": 10,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İlk Arap harfi",
-      "answer": "ELİF",
-      "row": 3,
+      "text": "Namına, hesabına",
+      "answer": "ADINA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şampiyon adayı",
-      "answer": "FAVORİ",
-      "row": 1,
+      "text": "İptal etme",
+      "answer": "İLGA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ismarlama",
+      "answer": "SİPARİŞ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yüz kılları",
-      "answer": "SAKAL",
-      "row": 2,
+      "text": "Ara bulucu",
+      "answer": "ARACI",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Göz rengi",
-      "answer": "ELA",
+      "text": "Dans, yarış",
+      "answer": "PİST",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Satılan mal",
+      "answer": "META",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dilbilimci",
-      "answer": "DİLCİ",
+      "text": "Medrese öğrencisi",
+      "answer": "SOFTA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mantar-yosun bitkisi",
-      "answer": "LİKEN",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Şöhret, şan",
-      "answer": "ÜN",
-      "row": 8,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ses ayarı",
-      "answer": "AKORT",
-      "row": 2,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Re'den sonraki nota",
-      "answer": "Mİ",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Delik kapatan",
-      "answer": "TIKAÇ",
+      "text": "Sarhoş karşıtı",
+      "answer": "AYIK",
       "row": 0,
-      "col": 7,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yanma olayı, od",
-      "answer": "ATEŞ",
-      "row": 6,
+      "text": "Ana yol",
+      "answer": "ARTER",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Asker su kabı",
+      "answer": "MATARA",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapılış yazısı",
+      "answer": "TARİF",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -162,55 +155,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
+      "row": 0,
+      "col": 7
+    },
+    {
       "row": 1,
-      "col": 1
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 0
     },
     {
       "row": 8,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
       "row": 10,
       "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
-    },
-    {
-      "row": 10,
-      "col": 2
     }
   ],
   "difficulty": "orta",

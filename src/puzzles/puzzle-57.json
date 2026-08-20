@@ -5,205 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Ses, ahenk, nağme",
-      "answer": "NEVA",
+      "text": "Uzun giysi",
+      "answer": "TUNİK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Parça, unsur",
-      "answer": "ÖGE",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağız demiri",
-      "answer": "GEM",
+      "text": "Termik",
+      "answer": "ISIL",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde dilsiz",
-      "answer": "LAL",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sınırı aşma",
-      "answer": "TECAVÜZ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Diş dokusu",
-      "answer": "MİNE",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Önerme, sav",
-      "answer": "TEZ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Duman yolu",
-      "answer": "BACA",
-      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kibarlık",
-      "answer": "NEZAKET",
+      "text": "İşsiz güçsüz",
+      "answer": "SERSERİ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ölçülü davranış",
+      "answer": "TAKT",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuşların ağzı",
+      "answer": "GAGA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alışılmış, alışılan",
+      "answer": "MUNİS",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Muhtemel",
-      "answer": "OLASI",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Menekşe rengi",
-      "answer": "MOR",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kadar, değin",
-      "answer": "DEK",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sıcaklık",
-      "answer": "HARARET",
-      "row": 8,
+      "text": "Yanıt",
+      "answer": "CEVAP",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sayı işareti",
-      "answer": "RAKAM",
+      "text": "Boşaltma",
+      "answer": "TAHLİYE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Geçiş",
+      "answer": "İNTİKAL",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ses ayarı",
+      "answer": "AKORT",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Pencere perdesi",
+      "answer": "STOR",
       "row": 10,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Muayene yeri",
-      "answer": "KLİNİK",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hükümran",
-      "answer": "EGEMEN",
-      "row": 0,
+      "text": "Mor süs taşı",
+      "answer": "AMETİST",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Eski Alman parası",
-      "answer": "MARK",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Özdeyiş",
-      "answer": "VECİZE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağız yoluyla",
-      "answer": "ORAL",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yardım sözü",
-      "answer": "AMAN",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İstemeyerek",
-      "answer": "ZORAKİ",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Manevi sorumluluk",
-      "answer": "VEBAL",
+      "text": "Mor çiçekli ağaç",
+      "answer": "ERGUVAN",
       "row": 2,
-      "col": 4,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Nâzım Hikmet'in soyadı",
-      "answer": "RAN",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Diri karşıtı",
-      "answer": "ÖLÜ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüksek bilim kurumu",
-      "answer": "AKADEMİ",
+      "text": "Kilit açan araç",
+      "answer": "ANAHTAR",
       "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Adaletli paylaştırma",
+      "answer": "KIST",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce lif",
+      "answer": "İPLİK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çalışma süresi",
+      "answer": "SEANS",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sıvı olmayan yakıt",
-      "answer": "GAZ",
+      "text": "Dini tasvir; simge",
+      "answer": "İKON",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "39'dan sonraki sayı",
+      "answer": "KIRK",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Naaş",
-      "answer": "CESET",
-      "row": 4,
+      "text": "Saflık derecesi",
+      "answer": "AYAR",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yabancı kimse",
-      "answer": "EL",
-      "row": 0,
+      "text": "Sıvı birimi",
+      "answer": "LİTRE",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ekmek yiyeceği",
-      "answer": "KATIK",
-      "row": 3,
+      "text": "Kayının eşi",
+      "answer": "ELTİ",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -211,27 +162,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 1
     },
     {
-      "row": 7,
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 7
+      "row": 2,
+      "col": 1
     },
     {
-      "row": 10,
+      "row": 5,
       "col": 6
     },
     {
-      "row": 10,
-      "col": 7
+      "row": 11,
+      "col": 4
     },
     {
       "row": 11,
-      "col": 7
+      "col": 6
     }
   ],
   "difficulty": "orta",

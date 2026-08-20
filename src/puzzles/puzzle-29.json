@@ -5,159 +5,140 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Odun kömür",
-      "answer": "YAKACAK",
+      "text": "Doğru yol",
+      "answer": "HİDAYET",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Parasız",
-      "answer": "BEDAVA",
+      "text": "Nargile bölümü",
+      "answer": "LÜLE",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Savaşçı kadın",
-      "answer": "AMAZON",
-      "row": 3,
+      "text": "Petrol merhemi",
+      "answer": "VAZELİN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dizilmiş meyve",
+      "answer": "HEVENK",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ayarlanmış maç",
-      "answer": "ŞİKE",
-      "row": 4,
+      "text": "Bitki bilimi",
+      "answer": "BOTANİK",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alım satım ortamı",
+      "answer": "PİYASA",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tasdik",
+      "answer": "ONAY",
+      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yankı",
-      "answer": "EKO",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kitap bölümü",
-      "answer": "BAP",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Gürültülü kavga",
-      "answer": "ARBEDE",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Balık aracı",
-      "answer": "OLTA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Evre, safha",
-      "answer": "FAZ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zeki, uslu",
-      "answer": "AKILLI",
+      "text": "Salgın ishal hastalığı",
+      "answer": "KOLERA",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kaba yünlü üstlük",
-      "answer": "ABA",
+      "text": "Tanrı",
+      "answer": "İLAH",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çırak-usta arası",
-      "answer": "KALFA",
-      "row": 4,
+      "text": "Donuk, mat",
+      "answer": "OPAK",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gözle birlikte söylenen",
-      "answer": "KEM",
+      "text": "Tashih",
+      "answer": "DÜZELTİ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İş paydaşı",
-      "answer": "ORTAK",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ad ortağı",
-      "answer": "ADAŞ",
+      "text": "Ateş dili",
+      "answer": "ALEV",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kimi",
-      "answer": "BAZI",
+      "text": "Şaşkınlık sözü",
+      "answer": "AYOL",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çekicilik",
-      "answer": "CAZİBE",
+      "text": "At kılları",
+      "answer": "YELE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tropik yeşil meyve",
-      "answer": "AVOKADO",
-      "row": 0,
+      "text": "Kokulu bitki",
+      "answer": "NANE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tekel",
+      "answer": "İNHİSAR",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Uzun koltuk",
-      "answer": "KANEPE",
+      "text": "Zırhlı taşıt",
+      "answer": "TANK",
       "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Taş kütlesi",
+      "answer": "KAYA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
+      "row": 0,
       "col": 5
     },
     {
       "row": 8,
-      "col": 6
+      "col": 0
     }
   ],
   "difficulty": "kolay",

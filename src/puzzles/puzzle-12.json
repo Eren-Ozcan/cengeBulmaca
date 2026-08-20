@@ -5,156 +5,128 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Eski dilde köpük",
-      "answer": "KEF",
+      "text": "Kuşatma",
+      "answer": "ABLUKA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Adalet, hukuk",
-      "answer": "HAK",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
+      "text": "Ad",
+      "answer": "İSİM",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Nitrogliserinli patlayıcı",
-      "answer": "DİNAMİT",
-      "row": 2,
+      "text": "Dolap, oyun",
+      "answer": "ENTRİKA",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sergi salonu",
-      "answer": "GALERİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Manevi varlık",
-      "answer": "RUH",
+      "text": "Ağacın yeşil organı",
+      "answer": "YAPRAK",
       "row": 4,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İnce cam plaka",
-      "answer": "LAM",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bellek birimi",
-      "answer": "BAYT",
+      "text": "Geri verme",
+      "answer": "İADE",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Meksika içkisi",
-      "answer": "TEKİLA",
+      "text": "Benzetmeye çalışma",
+      "answer": "TAKLİT",
       "row": 6,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kitap yazan",
-      "answer": "YAZAR",
-      "row": 6,
-      "col": 0,
+      "text": "Bağnaz kimse",
+      "answer": "YOBAZ",
+      "row": 7,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Duru olmayan",
-      "answer": "BULANIK",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tartı aleti",
-      "answer": "TERAZİ",
+      "text": "Arap yazısı işareti",
+      "answer": "HAREKE",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Matem",
-      "answer": "YAS",
+      "text": "Bağlı, vefalı",
+      "answer": "SADIK",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Müzik türü",
-      "answer": "CAZ",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Bitki camlığı",
-      "answer": "SERA",
+      "text": "Bayağı, olağan",
+      "answer": "ALELADE",
       "row": 11,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tavır, hava",
-      "answer": "EDA",
-      "row": 0,
+      "text": "Keskin bıçak",
+      "answer": "KAMA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Kanun",
+      "answer": "YASA",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Selçuklu lalası",
-      "answer": "ATABEY",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hortumlu hayvan",
-      "answer": "FİL",
+      "text": "Kahverengi kömür",
+      "answer": "LİNYİT",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Terzi şeridi",
-      "answer": "MEZURA",
-      "row": 4,
+      "text": "Ağız yoluyla",
+      "answer": "ORAL",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde tür",
-      "answer": "NEV",
-      "row": 1,
+      "text": "İşin ehli",
+      "answer": "USTA",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kalın tahta",
-      "answer": "KALAS",
+      "text": "Gürültülü kavga",
+      "answer": "ARBEDE",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Halk dilinde ateş",
-      "answer": "HAR",
+      "text": "Göz kapağı kılı",
+      "answer": "KİRPİK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Azıcık",
-      "answer": "BİRAZ",
-      "row": 4,
+      "text": "Us, zihin",
+      "answer": "AKIL",
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
@@ -166,43 +138,29 @@
       "arrow": "down"
     },
     {
-      "text": "Belirsiz çokluk",
-      "answer": "NİCE",
+      "text": "Anlama yetisi",
+      "answer": "ZEKA",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bağlaç",
-      "answer": "Kİ",
+      "text": "Çok eski",
+      "answer": "KADİM",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Onurluk",
+      "answer": "PLAKET",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İkaz",
-      "answer": "UYARI",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Utanma duygusu",
-      "answer": "AR",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Hükümdar koltuğu",
-      "answer": "TAHT",
-      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Aynı biçimde",
-      "answer": "KEZA",
+      "text": "Öpücük",
+      "answer": "BUSE",
       "row": 7,
       "col": 7,
       "arrow": "down"
@@ -211,27 +169,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
       "col": 1
     },
     {
-      "row": 11,
-      "col": 2
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 6
     }
   ],
   "difficulty": "orta",

@@ -5,142 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Zirve",
-      "answer": "PİK",
+      "text": "Büyük deniz",
+      "answer": "OKYANUS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Demirci aracı",
-      "answer": "ÖRS",
-      "row": 1,
-      "col": 3,
+      "text": "Harflerle anlatım",
+      "answer": "YAZI",
+      "row": 2,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Doğru, isabetli",
-      "answer": "RAST",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mısır'dan geçen ırmak",
-      "answer": "NİL",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İşve, naz",
-      "answer": "EDA",
+      "text": "Yürekli olmayan",
+      "answer": "KORKAK",
       "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Boyun kürkü",
-      "answer": "BOA",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kendi, asıl",
-      "answer": "ÖZ",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kaos",
-      "answer": "KARMAŞA",
-      "row": 4,
+      "text": "Antinomi",
+      "answer": "ÇATIŞKI",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Düstur",
-      "answer": "ŞİAR",
-      "row": 6,
+      "text": "Mahluk",
+      "answer": "YARATIK",
+      "row": 5,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kaybolma",
-      "answer": "ZAYİ",
+      "text": "Risk",
+      "answer": "RİZİKO",
       "row": 7,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Göçebe yerleşimi",
-      "answer": "OBA",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Eşin babası",
-      "answer": "KAYNATA",
-      "row": 8,
+      "text": "Bebek ayakkabısı",
+      "answer": "PATİK",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kurbağa yavrusu",
-      "answer": "İRİBAŞ",
+      "text": "İlmikli ip",
+      "answer": "KEMENT",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Oyuncak bebek",
+      "answer": "KUKA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Enerji ölçü birimi",
-      "answer": "KALORİ",
-      "row": 0,
+      "text": "Kamış içkisi",
+      "answer": "ARAK",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yetke",
+      "answer": "OTORİTE",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Savaşçı kadın",
-      "answer": "AMAZON",
-      "row": 3,
+      "text": "Farklı",
+      "answer": "AYRI",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Uzak taraf",
-      "answer": "ÖTE",
+      "text": "Yenme kararlılığı",
+      "answer": "AZİM",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İşleme, nakış",
+      "answer": "NAKŞ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Otomobil",
-      "answer": "ARABA",
-      "row": 4,
+      "text": "Küçük lokma",
+      "answer": "TİKE",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Göğüs, kaburga",
-      "answer": "DÖŞ",
-      "row": 2,
+      "text": "Mesafe ölçüsü",
+      "answer": "UZAKLIK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gezinti teknesi",
-      "answer": "YAT",
-      "row": 6,
-      "col": 5,
+      "text": "Gevşek karşıtı",
+      "answer": "SIKI",
+      "row": 0,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Maksimum",
-      "answer": "AZAMİ",
-      "row": 2,
+      "text": "Soyluluk unvanı",
+      "answer": "KONT",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -148,31 +134,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 2
     },
     {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 7,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 1
-    },
-    {
       "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 6
+      "col": 5
     }
   ],
   "difficulty": "kolay",

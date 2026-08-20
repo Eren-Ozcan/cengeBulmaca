@@ -5,184 +5,163 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Sakalsız erkek",
-      "answer": "KÖSE",
+      "text": "Zarafet",
+      "answer": "İNCELİK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Galip gel anlamında",
-      "answer": "YEN",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
+      "text": "Nezaket gösterisi",
+      "answer": "SELAM",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Boyun altı",
-      "answer": "GERDAN",
-      "row": 2,
+      "text": "Karma sahne gösterisi",
+      "answer": "VARYETE",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bağımsız, özgür",
-      "answer": "SERBEST",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Görüntü alıcısı",
-      "answer": "KAMERA",
+      "text": "Sarı maden",
+      "answer": "ALTIN",
       "row": 4,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yağsız peynir",
-      "answer": "KEŞ",
+      "text": "Kalın destek",
+      "answer": "DİREK",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Metal çubuk",
-      "answer": "MİL",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Önder, lider",
-      "answer": "BAŞ",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dik dalış",
-      "answer": "PİKE",
+      "text": "İnsan, şahıs",
+      "answer": "KİŞİ",
       "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Sevgili kadın",
-      "answer": "CANAN",
-      "row": 7,
-      "col": 2,
+      "text": "Eşin babası",
+      "answer": "KAYNATA",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mazereti olan",
-      "answer": "MAZUR",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Silah ucu",
-      "answer": "NAMLU",
+      "text": "Eylem, hareket",
+      "answer": "AKSİYON",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tapınma",
-      "answer": "İBADET",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Zeytinyağlı fasulye",
-      "answer": "PİLAKİ",
-      "row": 10,
+      "text": "Donanma",
+      "answer": "ARMADA",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kimyada element karşılığı",
-      "answer": "ÖGE",
-      "row": 0,
+      "text": "Aptal, dengesiz",
+      "answer": "SALAK",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yivli eleman",
+      "answer": "VİDA",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Pişirme kabı",
-      "answer": "KAZAN",
-      "row": 4,
+      "text": "Doğu Anadolu ilimiz",
+      "answer": "KARS",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kafa tutan",
-      "answer": "SERKEŞ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yok olan",
-      "answer": "ZAİL",
+      "text": "Akış hâli",
+      "answer": "AKMA",
       "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Rütbeli asker",
-      "answer": "ERBAŞ",
+      "text": "Gizli sır",
+      "answer": "ESRAR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çıkıntılı bölüm",
-      "answer": "CUMBA",
+      "text": "Yumuşak başlı",
+      "answer": "UYSAL",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Demlikteki koyu çay",
-      "answer": "DEM",
-      "row": 1,
+      "text": "Göçmen kuş",
+      "answer": "LEYLEK",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Işıldayan",
-      "answer": "PARLAK",
-      "row": 5,
+      "text": "Seslenme, çağırma; ünlem",
+      "answer": "NİDA",
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kokulu beyaz çiçek",
-      "answer": "YASEMİN",
+      "text": "Açı ölçme aracı",
+      "answer": "İLETKİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tanburi gibi unvan",
-      "answer": "UDİ",
-      "row": 8,
+      "text": "Bacak ucu",
+      "answer": "AYAK",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dolap, oyun",
-      "answer": "ENTRİKA",
+      "text": "Maddenin sert hâli",
+      "answer": "KATI",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Açık, apaçık",
-      "answer": "ALENİ",
-      "row": 3,
+      "text": "Kafka romanı",
+      "answer": "ŞATO",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Olumsuz",
+      "answer": "MENFİ",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Şefkatli davranan",
+      "answer": "ANAÇ",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -190,7 +169,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
     },
     {
       "row": 0,
@@ -198,31 +181,31 @@
     },
     {
       "row": 2,
-      "col": 7
+      "col": 0
     },
     {
       "row": 4,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 6
+      "row": 6,
+      "col": 0
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 6,
+      "col": 2
     },
     {
-      "row": 9,
-      "col": 7
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 6
     },
     {
       "row": 11,
       "col": 6
-    },
-    {
-      "row": 11,
-      "col": 7
     }
   ],
   "difficulty": "kolay",

@@ -5,148 +5,144 @@
   "cols": 7,
   "clues": [
     {
-      "text": "İçten bağlılık",
-      "answer": "SADAKAT",
+      "text": "Su geçirmez örtü",
+      "answer": "MUŞAMBA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gazete yazısı",
-      "answer": "MAKALE",
+      "text": "Parayla ilgili",
+      "answer": "MALİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şans çekilişi",
-      "answer": "PİYANGO",
+      "text": "Zabıt",
+      "answer": "TUTANAK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mekanik süpürge",
-      "answer": "GIRGIR",
+      "text": "Eski dilde koku",
+      "answer": "RAYİHA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Acımasız, zulmeden",
-      "answer": "ZALİM",
+      "text": "İplik sarılan",
+      "answer": "MAKARA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Toprak altı yumrusu",
+      "answer": "PATATES",
       "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İçkili mekân",
-      "answer": "BAR",
-      "row": 7,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Ulaşım belgesi",
-      "answer": "PASO",
+      "text": "Kedi, köpek ayağı",
+      "answer": "PATİ",
       "row": 8,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Salahiyetli",
-      "answer": "YETKİLİ",
+      "text": "Parmak uzaklığı",
+      "answer": "KARIŞ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Seyirci coşturucusu",
-      "answer": "AMİGO",
+      "text": "Aldırış etme",
+      "answer": "UMUR",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Annenin erkek kardeşi",
-      "answer": "DAYI",
+      "text": "Pik",
+      "answer": "MAÇA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gösterişli görkem",
+      "answer": "ŞATAFAT",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Zorla el koyma",
-      "answer": "ZAPT",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kira getiren mülk",
-      "answer": "AKAR",
+      "text": "Eğlenme, dalga geçme",
+      "answer": "ALAY",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kamış içkisi",
-      "answer": "ARAK",
+      "text": "Giriş bölmesi",
+      "answer": "KAPI",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tel yumağı",
-      "answer": "KANGAL",
+      "text": "Küçük, kısa",
+      "answer": "MİNİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "La'dan sonraki nota",
-      "answer": "Sİ",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İdrak",
-      "answer": "ALGI",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Çok sevilen",
-      "answer": "İDOL",
+      "text": "Kâğıt klipsi",
+      "answer": "ATAŞ",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Öbür dünya",
+      "answer": "AHİRET",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kanıtlanan önerme",
-      "answer": "TEOREM",
+      "text": "Ön karşıtı",
+      "answer": "ARKA",
       "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Soylu, yüce",
+      "answer": "ASİL",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
+      "row": 0,
+      "col": 5
+    },
+    {
       "row": 5,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 6
+      "row": 9,
+      "col": 5
     }
   ],
   "difficulty": "kolay",

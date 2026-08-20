@@ -5,177 +5,135 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Yinelenen düzen",
-      "answer": "ÖRÜNTÜ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yeni yaratım",
-      "answer": "İCAT",
+      "text": "Motif",
+      "answer": "DESEN",
       "row": 1,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Kötü karşıtı",
-      "answer": "İYİ",
+      "text": "Sağlıklı",
+      "answer": "ESEN",
       "row": 2,
-      "col": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bağ meyvesi",
-      "answer": "ÜZÜM",
+      "text": "Cimri kimse",
+      "answer": "PİNTİ",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ferahlatıcı esans",
+      "answer": "KOLONYA",
       "row": 3,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kemikten ayrılan",
-      "answer": "ET",
-      "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Gösterge çizelgesi",
-      "answer": "SKALA",
+      "text": "Gelenek, âdet",
+      "answer": "TÖRE",
       "row": 5,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kısa imza",
-      "answer": "PARAF",
+      "text": "Atlı spor",
+      "answer": "CİRİT",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sağgörü",
-      "answer": "BASİRET",
+      "text": "Tütsülenmiş besin",
+      "answer": "FÜME",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Pişmiş toprak sanatı",
-      "answer": "SERAMİK",
+      "text": "Su sığırı",
+      "answer": "MANDA",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Başlangıç",
-      "answer": "MİLAT",
+      "text": "Yazım kuralları",
+      "answer": "İMLA",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sol'den önceki nota",
-      "answer": "FA",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Renkli kanatlı böcek",
-      "answer": "KELEBEK",
+      "text": "Dış alım",
+      "answer": "İTHALAT",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hayali canavar",
-      "answer": "ÖCÜ",
+      "text": "Karaciğer hastalığı",
+      "answer": "SİROZ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Eskimeyen",
-      "answer": "KLASİK",
-      "row": 4,
+      "text": "Okuma bilmeyen",
+      "answer": "ÜMMİ",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kabul eden",
-      "answer": "RAZI",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bisiklet koltuğu",
-      "answer": "SELE",
+      "text": "Çimlendirilmiş arpa",
+      "answer": "MALT",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kırışık gideren araç",
-      "answer": "ÜTÜ",
+      "text": "Saklama yeri",
+      "answer": "DEPO",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sarmal",
-      "answer": "SPİRAL",
-      "row": 4,
+      "text": "Kanat",
+      "answer": "CENAH",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Japon dövüş sanatı",
-      "answer": "KARATE",
-      "row": 4,
+      "text": "Hafif yel",
+      "answer": "ESİNTİ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Boru sesi",
-      "answer": "Tİ",
+      "text": "Ortaçağ derebeyi",
+      "answer": "SENYÖR",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Saray bölümü",
-      "answer": "HAREM",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kulübe kayıtlı kişi",
-      "answer": "ÜYE",
+      "text": "Tek parça giysi",
+      "answer": "ENTARİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Şaka",
-      "answer": "LATİFE",
+      "text": "Ahlak kuralları",
+      "answer": "ETİK",
       "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Adına sunma",
-      "answer": "İTHAF",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuru kayısı türü",
-      "answer": "KAK",
-      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -187,19 +145,63 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 2
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 4,
+      "row": 1,
       "col": 0
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 7
     },
     {
       "row": 5,
       "col": 0
+    },
+    {
+      "row": 5,
+      "col": 2
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "zor",

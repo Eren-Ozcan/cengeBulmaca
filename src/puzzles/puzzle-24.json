@@ -5,177 +5,135 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Ölüm cezası",
-      "answer": "İDAM",
+      "text": "Konut",
+      "answer": "MESKEN",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Müzikte uyum",
+      "answer": "ARMONİ",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ülke insanları",
+      "answer": "HALK",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Musluk takımı",
+      "answer": "ARMATÜR",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Simsiyah",
+      "answer": "KAPKARA",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağırlaşan durum",
+      "answer": "VAHAMET",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yontma aracı",
+      "answer": "KESKİ",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Söylence",
+      "answer": "EFSANE",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Duyuru",
+      "answer": "İLAN",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sulu boya",
+      "answer": "AKVAREL",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çöl",
+      "answer": "SAHRA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İstemsiz kasılma",
+      "answer": "KRAMP",
       "row": 0,
       "col": 3,
-      "arrow": "down-right"
+      "arrow": "down"
     },
     {
-      "text": "Bozkır kuşu",
-      "answer": "TOY",
-      "row": 1,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Ters, huysuz",
+      "answer": "AKSİ",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
     },
     {
-      "text": "Defa, sefer",
-      "answer": "KEZ",
-      "row": 2,
+      "text": "Ev, arsa",
+      "answer": "EMLAK",
+      "row": 0,
       "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ölçülü davranma",
-      "answer": "TEMKİN",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
       "text": "Anlam çevirisi",
       "answer": "MEAL",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Resim kenarlığı",
-      "answer": "ÇERÇEVE",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Maden süslemesi",
-      "answer": "KAKMA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dış karşıtı",
-      "answer": "İÇ",
       "row": 6,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Sırlı kap",
-      "answer": "EMAYE",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Uzun yol koşusu",
-      "answer": "MARATON",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Padişah toprağı",
-      "answer": "HAS",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Surlu yapı",
-      "answer": "KALE",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Öç isteği",
-      "answer": "KİN",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Vuruş sesi",
-      "answer": "ŞAK",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Blucin kumaşı",
-      "answer": "KOT",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ateşleyici",
-      "answer": "ÇAKMAK",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yiyecek",
-      "answer": "YEMEK",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İsyankâr",
-      "answer": "ASİ",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Beyaz süs taşı",
-      "answer": "MERMER",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gizli sapma",
-      "answer": "KAÇAMAK",
-      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Akıllı kadın",
-      "answer": "AKİLE",
+      "text": "Cümle işareti",
+      "answer": "NOKTA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kâğıt klipsi",
-      "answer": "ATAŞ",
+      "text": "Süre, sıra",
+      "answer": "ESNA",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yasaklama işi",
-      "answer": "MEN",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Alto keman",
-      "answer": "VİYOLA",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Alternatif",
-      "answer": "SEÇENEK",
+      "text": "Çok üreten",
+      "answer": "ÜRETKEN",
       "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Uygulama, yapma",
+      "answer": "İCRA",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -183,15 +141,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 4
+      "col": 6
     },
     {
       "row": 0,
@@ -199,15 +153,43 @@
     },
     {
       "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 6,
       "col": 7
     },
     {
-      "row": 4,
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
       "col": 0
+    },
+    {
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "orta",

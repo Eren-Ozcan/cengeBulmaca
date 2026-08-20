@@ -5,170 +5,128 @@
   "cols": 8,
   "clues": [
     {
-      "text": "İplik sarılan",
-      "answer": "MAKARA",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Eğer",
-      "answer": "ŞAYET",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zararı giderme",
-      "answer": "TELAFİ",
-      "row": 2,
+      "text": "Abidevi",
+      "answer": "ANITSAL",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yığılma",
-      "answer": "BİRİKİM",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Katı, sert",
-      "answer": "PEK",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Vücut, gövde",
-      "answer": "BEDEN",
-      "row": 5,
+      "text": "İçme tadı",
+      "answer": "İÇİM",
+      "row": 2,
       "col": 3,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Batı bölgemiz",
-      "answer": "EGE",
-      "row": 7,
+      "text": "Dişli kesici",
+      "answer": "TESTERE",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Denizin ortasındaki kara",
-      "answer": "ADA",
-      "row": 7,
-      "col": 4,
+      "text": "Söz",
+      "answer": "KELAM",
+      "row": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Delikli kumaş",
-      "answer": "ETAMİN",
+      "text": "Asker birliği",
+      "answer": "MANGA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hanım unvanı",
+      "answer": "LEYDİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saat onaran",
+      "answer": "SAATÇİ",
       "row": 8,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bedava, karşılıksız",
-      "answer": "CABA",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Tırnak aleti",
-      "answer": "EĞE",
-      "row": 9,
+      "text": "Tuz üretimi",
+      "answer": "TUZLA",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şurada değil ötede",
-      "answer": "ORA",
+      "text": "Sahne gösterisi",
+      "answer": "REVÜ",
       "row": 10,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ağ, örgüt",
-      "answer": "ŞEBEKE",
-      "row": 1,
+      "text": "Ses işareti",
+      "answer": "NOTA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sahip",
-      "answer": "MALİK",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gündüz karşıtı",
-      "answer": "GECE",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Altının kalite ölçüsü",
-      "answer": "AYAR",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İkinci Yunan harfi",
-      "answer": "BETA",
+      "text": "Sorumlu",
+      "answer": "MESUL",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kuru, sert soğuk",
+      "answer": "AYAZ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Rezalet olayı",
+      "answer": "SKANDAL",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Arap başörtüsü",
-      "answer": "KEFİYE",
+      "text": "Toplu konut",
+      "answer": "SİTE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ürkünce çıkan ses",
-      "answer": "ABO",
-      "row": 7,
+      "text": "Perdeli çalgı",
+      "answer": "GİTAR",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eli çabuk",
-      "answer": "ATİK",
+      "text": "Kokusuz süs çiçeği",
+      "answer": "AÇELYA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kan kanalı",
-      "answer": "DAMAR",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Acele yapılan",
-      "answer": "İVEDİ",
-      "row": 3,
+      "text": "Para birimimiz",
+      "answer": "LİRA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Atış uzaklığı",
-      "answer": "ATIM",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kokulu bitki",
-      "answer": "NANE",
-      "row": 5,
+      "text": "Hoşnut kimse",
+      "answer": "MEMNUN",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -176,39 +134,71 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
       "row": 0,
-      "col": 1
+      "col": 3
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 1,
+      "row": 2,
       "col": 0
     },
     {
       "row": 2,
+      "col": 2
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
       "col": 6
     },
     {
       "row": 6,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 0
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
     },
     {
       "row": 9,
       "col": 6
     },
     {
-      "row": 10,
+      "row": 9,
       "col": 7
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 2
     }
   ],
   "difficulty": "orta",

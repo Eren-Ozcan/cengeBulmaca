@@ -5,184 +5,135 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Tamircinin kullandığı",
-      "answer": "ALET",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Toparlak",
+      "answer": "TOMBUL",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Mükemmel, iyi",
-      "answer": "MİS",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Anlatım, açıklama",
-      "answer": "İFADE",
+      "text": "Karton kutu",
+      "answer": "KOLİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Albayın üstü",
-      "answer": "GENERAL",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Irkçılık yanlısı",
-      "answer": "IRKÇI",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Oltanın ucundaki",
-      "answer": "YEM",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Divan şiirinde ceylan",
-      "answer": "AHU",
-      "row": 5,
+      "text": "Teçhizat",
+      "answer": "DONANIM",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Paylama",
-      "answer": "AZAR",
+      "text": "Para torbası",
+      "answer": "KESE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eş, zevce",
+      "answer": "KARI",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sıvı kese",
+      "answer": "KİST",
       "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Görünen hayal",
-      "answer": "HAYALET",
+      "text": "Yolculuk çantası",
+      "answer": "BAVUL",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Araba süren",
+      "answer": "ARABACI",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ata, dede",
-      "answer": "AĞABABA",
+      "text": "Zeki deniz memelisi",
+      "answer": "YUNUS",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Makinedeki bozukluk",
-      "answer": "ARIZA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Erkek kişi",
-      "answer": "ER",
+      "text": "Toplu kalabalık",
+      "answer": "KİTLE",
       "row": 10,
-      "col": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Futbol kümesi",
-      "answer": "LİG",
-      "row": 0,
+      "text": "Pis kokulu hayvan",
+      "answer": "KOKARCA",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kor, köz",
-      "answer": "HAR",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ege'nin yiğidi",
-      "answer": "EFE",
+      "text": "Toz mürekkep",
+      "answer": "TONER",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sığır yavrusu",
-      "answer": "BUZAĞI",
+      "text": "Muhtemel",
+      "answer": "OLASI",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bellek birimi",
+      "answer": "BAYT",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Diş dokusu",
+      "answer": "MİNE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Razı olma",
+      "answer": "KABUL",
       "row": 5,
-      "col": 1,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Teşhis",
-      "answer": "TANI",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "En sıcak mevsim",
-      "answer": "YAZ",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Deniz, umman",
-      "answer": "DERYA",
-      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dervişin giysisi",
-      "answer": "ABA",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yönetim yeri",
-      "answer": "MERKEZ",
-      "row": 0,
+      "text": "Deli, kaçık",
+      "answer": "DİVANE",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gamın altıncısı",
-      "answer": "LA",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yağlı çörek",
-      "answer": "AÇMA",
-      "row": 2,
+      "text": "Su satıcısı",
+      "answer": "SUCU",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Doğum yardımcısı",
-      "answer": "EBE",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İkinci gün",
-      "answer": "SALI",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Uzun saplı telli çalgı",
-      "answer": "TAR",
-      "row": 7,
+      "text": "Tuzsuz su",
+      "answer": "TATLISU",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -190,27 +141,67 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 4,
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 1
+      "row": 2,
+      "col": 5
     },
     {
-      "row": 5,
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 2,
       "col": 7
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 2
     },
     {
       "row": 7,
       "col": 0
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 6
     }
   ],
   "difficulty": "orta",

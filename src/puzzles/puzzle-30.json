@@ -5,170 +5,135 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Harf değiştirme oyunu",
-      "answer": "ANAGRAM",
-      "row": 0,
+      "text": "Toplumsal konum",
+      "answer": "STATÜ",
+      "row": 1,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Tayin",
-      "answer": "ATAMA",
+      "text": "Kırıcı söz",
+      "answer": "AZAR",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kırıcı söz",
-      "answer": "AZAR",
+      "text": "Eksik",
+      "answer": "NOKSAN",
       "row": 3,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çay kıvamı",
-      "answer": "DEM",
+      "text": "Tuş takımı",
+      "answer": "KLAVYE",
       "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sinema eseri",
+      "answer": "FİLM",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İşitsel titreşim",
-      "answer": "SES",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Muhterem kimse",
-      "answer": "ZAT",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Herkesçe bilinen",
-      "answer": "AFİŞE",
+      "text": "Mal, mülk",
+      "answer": "MİRAS",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Çatı barı",
-      "answer": "RUF",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "New Orleans müziği",
-      "answer": "CAZ",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Zararı giderme",
-      "answer": "TELAFİ",
-      "row": 7,
+      "text": "Hükümdar yapısı",
+      "answer": "SARAY",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kur'an bölümü",
-      "answer": "SURE",
-      "row": 9,
+      "text": "Çok konuşan kimse",
+      "answer": "ÇENEBAZ",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ağaçlarda yaşayan kemirgen",
-      "answer": "SİNCAP",
+      "text": "Sinek ilacı",
+      "answer": "FLİT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Diş izi",
+      "answer": "ISIRIK",
       "row": 10,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dede, cet",
-      "answer": "ATA",
-      "row": 0,
+      "text": "Tacı olan",
+      "answer": "TAÇLI",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ruhsal gerilim",
-      "answer": "STRES",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Cilveli davranış",
-      "answer": "NAZ",
+      "text": "Gibi gösteren",
+      "answer": "SANKİ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Millet",
-      "answer": "ULUS",
+      "text": "Tekne kaptanı",
+      "answer": "REİS",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kör",
-      "answer": "AMA",
+      "text": "Dip ağı",
+      "answer": "TROL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Vahşi hayvan gezisi",
-      "answer": "SAFARİ",
-      "row": 4,
+      "text": "Kıymalı hamur",
+      "answer": "MANTI",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Korunma duruşu",
-      "answer": "GARD",
+      "text": "Uyak",
+      "answer": "KAFİYE",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Betimleme",
+      "answer": "TASVİR",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Pozitif bilim",
-      "answer": "FEN",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yıpratıcı, üstün",
-      "answer": "EZİCİ",
-      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kor aracı",
-      "answer": "MAŞA",
-      "row": 3,
+      "text": "Işık halkası",
+      "answer": "AYLA",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bir yere sokmama",
-      "answer": "MEN",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaldızlı süsleme",
-      "answer": "TEZHİP",
-      "row": 4,
+      "text": "Ehemmiyetsiz",
+      "answer": "ÖNEMSİZ",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -180,35 +145,43 @@
     },
     {
       "row": 0,
-      "col": 5
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 2,
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
       "col": 5
     },
     {
-      "row": 2,
+      "row": 7,
       "col": 6
     },
     {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 2
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 6
+      "row": 9,
+      "col": 4
     },
     {
       "row": 9,
@@ -217,10 +190,14 @@
     {
       "row": 9,
       "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
     },
     {
       "row": 10,
-      "col": 0
+      "col": 7
     }
   ],
   "difficulty": "orta",

@@ -5,191 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Küçük, sevimli",
-      "answer": "MİNİK",
+      "text": "Baş giysisi",
+      "answer": "ŞAPKA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şeffaf ambalaj",
-      "answer": "SELOFAN",
+      "text": "Yunan dansı",
+      "answer": "SİRTAKİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Vejetaryen",
-      "answer": "ETYEMEZ",
+      "text": "Düş, imge",
+      "answer": "HAYAL",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İyileştirici madde",
-      "answer": "İLAÇ",
+      "text": "Uzak karşıtı",
+      "answer": "YAKIN",
       "row": 4,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Büro",
-      "answer": "OFİS",
+      "text": "Onay damgası",
+      "answer": "VİZE",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yüksek bilim kurumu",
-      "answer": "AKADEMİ",
+      "text": "Alışılagelmiş, sıradan",
+      "answer": "RUTİN",
       "row": 6,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yol hareketliliği",
-      "answer": "TRAFİK",
+      "text": "Altıdan sonraki sayı",
+      "answer": "YEDİ",
       "row": 7,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Konser",
-      "answer": "DİNLETİ",
+      "text": "Fayda",
+      "answer": "YARAR",
       "row": 8,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Büyücü kadın",
-      "answer": "CADI",
+      "text": "Erkek çocuk",
+      "answer": "OĞLAN",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hayvan yuvası",
-      "answer": "İN",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Spor karşılaşması",
-      "answer": "MAÇ",
+      "text": "Eskilik",
+      "answer": "KIDEM",
       "row": 10,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Peru'daki dağ silsilesi",
-      "answer": "AND",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Taneleri yakut gibi",
-      "answer": "NAR",
+      "text": "Aç olma",
+      "answer": "AÇLIK",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Alaka",
-      "answer": "İLGİ",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Görevden ayrılma",
-      "answer": "İSTİFA",
+      "text": "Düzen ve güvenlik",
+      "answer": "ASAYİŞ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Masa oyunu",
-      "answer": "DAMA",
+      "text": "Odunsu bitki",
+      "answer": "AĞAÇ",
       "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Üflenen kamış",
-      "answer": "NEY",
+      "text": "Fasulye salatası",
+      "answer": "PİYAZ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yönetim gücü",
-      "answer": "İKTİDAR",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ve yerine kullanılan",
-      "answer": "İLE",
+      "text": "Tuzlu bisküvi",
+      "answer": "KRAKER",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yağmur suyu deposu",
-      "answer": "SARNIÇ",
-      "row": 4,
+      "text": "Deriye konan ilaç",
+      "answer": "YAKI",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Garson yardımcısı",
-      "answer": "KOMİ",
+      "text": "Ata binen",
+      "answer": "ATLI",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Suya atla",
-      "answer": "DAL",
+      "text": "Uyumamış",
+      "answer": "UYANIK",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bilgelik sevgisi",
-      "answer": "FELSEFE",
-      "row": 1,
+      "text": "Resmiyet görevlisi",
+      "answer": "NOTER",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bayrağımızın rengi",
-      "answer": "AL",
-      "row": 9,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kurul üyesi",
-      "answer": "AZA",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Toplu gösteri",
-      "answer": "MİTİNG",
+      "text": "Yönetme",
+      "answer": "İDARE",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Öğle sonrası namaz",
-      "answer": "İKİNDİ",
-      "row": 5,
+      "text": "Uyarı teli",
+      "answer": "SİNİR",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -209,19 +167,55 @@
     },
     {
       "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 1,
       "col": 7
     },
     {
       "row": 3,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
     },
     {
       "row": 7,
       "col": 0
     },
     {
+      "row": 7,
+      "col": 2
+    },
+    {
       "row": 9,
-      "col": 4
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 11,
+      "col": 5
+    },
+    {
+      "row": 11,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "orta",

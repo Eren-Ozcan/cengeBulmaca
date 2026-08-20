@@ -5,163 +5,142 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Koza ipliği",
-      "answer": "İPEK",
+      "text": "Hat ustası",
+      "answer": "HATTAT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yıpratıcı, üstün",
-      "answer": "EZİCİ",
+      "text": "Merkez nokta",
+      "answer": "ORTA",
       "row": 2,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Unu geçiren araç",
-      "answer": "ELEK",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kabuk kırığı",
-      "answer": "FAY",
+      "text": "Şeffaf mineral",
+      "answer": "MİKA",
       "row": 3,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çiçek düzenleme",
-      "answer": "İKEBANA",
+      "text": "Kızıl metal",
+      "answer": "BAKIR",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yatak başı dolabı",
-      "answer": "KOMODİN",
+      "text": "Kırmızı işaret",
+      "answer": "KARO",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yüzer araç",
+      "answer": "DUBA",
       "row": 5,
-      "col": 0,
-      "arrow": "right"
+      "col": 4,
+      "arrow": "down-right"
     },
     {
-      "text": "Pürüz alan araç",
-      "answer": "EĞE",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "2,54 santimetre",
-      "answer": "İNÇ",
+      "text": "Koruyucu kutu",
+      "answer": "MAHFAZA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Rakıya koku veren",
-      "answer": "ANASON",
+      "text": "Doğuş bayramı",
+      "answer": "NOEL",
       "row": 8,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Maharet",
-      "answer": "BECERİ",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gömlek aksesuarı",
-      "answer": "KRAVAT",
-      "row": 9,
+      "text": "Ürün toprağı",
+      "answer": "TARLA",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gagası keseli kuş",
-      "answer": "PELİKAN",
-      "row": 0,
+      "text": "Kaçmış kimse",
+      "answer": "KAÇKIN",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Baldızın kocası",
+      "answer": "BACANAK",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sesin çarpıp gelmesi",
-      "answer": "EKO",
-      "row": 2,
+      "text": "Kağıt rulosu",
+      "answer": "TOMAR",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gayret",
-      "answer": "ÇABA",
+      "text": "Balkan oyunu",
+      "answer": "HORA",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Takılarak konuşan",
-      "answer": "KEKEME",
+      "text": "Örme kumaş",
+      "answer": "TRİKO",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eskiden cins",
-      "answer": "NEV",
-      "row": 7,
+      "text": "İnme",
+      "answer": "FELÇ",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Öksürük hastalığı",
-      "answer": "BOĞMACA",
-      "row": 3,
+      "text": "Boyun örtüsü",
+      "answer": "ATKI",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Anlatım, açıklama",
-      "answer": "İFADE",
-      "row": 1,
-      "col": 5,
+      "text": "Lenf organı",
+      "answer": "DALAK",
+      "row": 5,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Baraj duvarı",
-      "answer": "SET",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Cinayet işleyen",
-      "answer": "CANİ",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Peynir altı suyundan",
-      "answer": "LOR",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Zarar",
-      "answer": "ZİYAN",
+      "text": "Askerî hücum",
+      "answer": "TAARRUZ",
       "row": 0,
-      "col": 7,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Süs oyuğu",
-      "answer": "NİŞ",
-      "row": 7,
+      "text": "Bakanlık görevlisi",
+      "answer": "BAKAN",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıvı parçası",
+      "answer": "DAMLA",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -169,35 +148,63 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
+      "col": 1
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 4
+      "row": 0,
+      "col": 7
     },
     {
-      "row": 6,
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 7
     },
     {
       "row": 8,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
     },
     {
       "row": 10,
-      "col": 6
+      "col": 7
     }
   ],
   "difficulty": "zor",

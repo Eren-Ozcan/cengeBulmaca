@@ -5,191 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Çarpım katı",
-      "answer": "KAT",
+      "text": "İtici neden",
+      "answer": "SAİK",
       "row": 0,
-      "col": 0,
+      "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Kabuklu güz meyvesi",
-      "answer": "NAR",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Meydan okuma",
-      "answer": "REST",
+      "text": "Tuzlanmış torik",
+      "answer": "LAKERDA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sevda",
-      "answer": "AŞK",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çok beyaz",
-      "answer": "APAK",
+      "text": "Kalın kâğıt",
+      "answer": "KARTON",
       "row": 3,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çete önderi",
-      "answer": "ELEBAŞI",
+      "text": "Hürmetli",
+      "answer": "SAYGILI",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Belirti, jest",
-      "answer": "İŞARET",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Efsanevi dağ",
-      "answer": "KAF",
-      "row": 5,
+      "text": "Seçim sorusu",
+      "answer": "HANGİ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Taşıma kabı",
-      "answer": "KOVA",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Parayla ilgili",
-      "answer": "MALİ",
+      "text": "Yalan söyleyen",
+      "answer": "YALANCI",
       "row": 7,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şaşırma sesi",
-      "answer": "ABO",
+      "text": "Temelsiz",
+      "answer": "ASILSIZ",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yunan telli sazı",
-      "answer": "LİR",
+      "text": "Kızartma kabı",
+      "answer": "TAVA",
       "row": 9,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Şaşkınlık ünlemi",
-      "answer": "OY",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Boks alanı",
-      "answer": "RİNG",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hatıra",
-      "answer": "ANI",
+      "text": "Mabet",
+      "answer": "TAPINAK",
       "row": 10,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Telli çalgı yayı",
-      "answer": "ARŞE",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yer halkı",
-      "answer": "AHALİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Öneri",
-      "answer": "TEKLİF",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ata atla",
-      "answer": "BİN",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Benzer, denk",
-      "answer": "EŞ",
+      "text": "Akan tükürük",
+      "answer": "SALYA",
       "row": 3,
-      "col": 3,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ölü odası",
-      "answer": "MORG",
+      "text": "Türk hükümdarı",
+      "answer": "HAKAN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Üzüm bitkisi",
+      "answer": "ASMA",
       "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tasalı",
+      "answer": "KAYGILI",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Katman",
-      "answer": "TABAKA",
-      "row": 1,
+      "text": "Nesne gösterisi",
+      "answer": "SERGİ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gizli söz",
-      "answer": "PAROLA",
-      "row": 2,
+      "text": "Beşten sonraki sayı",
+      "answer": "ALTI",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Toplama işareti",
+      "answer": "ARTI",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ücretsiz yemekevi",
-      "answer": "AŞEVİ",
-      "row": 2,
+      "text": "Düşünen canlı",
+      "answer": "İNSAN",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok sevilen",
+      "answer": "İDOL",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yarım yirmi",
-      "answer": "ON",
-      "row": 8,
+      "text": "Sıvı metal",
+      "answer": "CIVA",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Büyük kara kütlesi",
-      "answer": "KITA",
-      "row": 2,
+      "text": "İnanç, görüş",
+      "answer": "KANI",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bal seven hayvan",
-      "answer": "AYI",
-      "row": 7,
+      "text": "Kar taşıtı",
+      "answer": "KIZAK",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -197,35 +155,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 3
-    },
-    {
-      "row": 7,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 4
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
     }
   ],
   "difficulty": "kolay",

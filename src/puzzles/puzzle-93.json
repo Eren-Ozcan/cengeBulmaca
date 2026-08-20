@@ -5,191 +5,135 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Isınma aracı",
-      "answer": "SOBA",
+      "text": "Öykü",
+      "answer": "HİKÂYE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Saha dışı",
-      "answer": "AUT",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Çam yaprağı",
-      "answer": "PÜR",
+      "text": "İlham",
+      "answer": "ESİN",
       "row": 2,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Malatya meyvesi",
-      "answer": "KAYISI",
+      "text": "Yöntem, tabiye",
+      "answer": "TAKTİK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kayra",
-      "answer": "LÜTUF",
+      "text": "Aksine",
+      "answer": "TERSİNE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ağır yük aracı",
-      "answer": "TIR",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde kötü",
-      "answer": "KEM",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir denizimiz",
-      "answer": "EGE",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kolay değil",
-      "answer": "GÜÇ",
-      "row": 6,
+      "text": "Gökyüzü",
+      "answer": "SEMA",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Metrekare ile ölçülen",
-      "answer": "ALAN",
-      "row": 7,
-      "col": 3,
+      "text": "Yağmur aracı",
+      "answer": "ŞEMSİYE",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İş merkezi",
-      "answer": "PLAZA",
-      "row": 8,
+      "text": "Beyaz koza",
+      "answer": "PAMUK",
+      "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kök içeceği",
-      "answer": "SALEP",
+      "text": "Hedefi vurma",
+      "answer": "İSABET",
       "row": 8,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Çayır bitkisi",
-      "answer": "OT",
+      "text": "Kısa anlatım",
+      "answer": "İCAZ",
       "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Undan en iyisi",
-      "answer": "HAS",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Adalarda içilen",
-      "answer": "UZO",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Rengarenk taş",
-      "answer": "OPAL",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kağıt huni",
-      "answer": "KÜLAH",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Pertavsız",
-      "answer": "BÜYÜTEÇ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Rafinaj",
-      "answer": "ARITIM",
-      "row": 0,
       "col": 3,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Tiz karşıtı",
-      "answer": "PES",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
+      "text": "Baston, sopa",
+      "answer": "KÖTEK",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Şehri çeviren duvar",
-      "answer": "SUR",
+      "text": "Ocağa kömür atan",
+      "answer": "ATEŞÇİ",
       "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Takılarak konuşan",
+      "answer": "KEKEME",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Takas",
+      "answer": "TRAMPA",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Umutsuz karamsarlık",
+      "answer": "YEİS",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eski Türklerde yiğit",
-      "answer": "ALP",
-      "row": 6,
+      "text": "Değişmez, durağan",
+      "answer": "SABİT",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kaynak gösterme",
-      "answer": "ATIF",
+      "text": "Yeni karşıtı",
+      "answer": "ESKİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bal rengi göz",
-      "answer": "ELA",
+      "text": "Ortak emek",
+      "answer": "İMECE",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gazlı içecek",
-      "answer": "GAZOZ",
+      "text": "Ağız-gırtlak arası",
+      "answer": "YUTAK",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Üst meclis",
-      "answer": "SENATO",
-      "row": 4,
+      "text": "Üçgen başlı yılan",
+      "answer": "ENGEREK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -197,39 +141,51 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
+      "row": 1,
       "col": 6
     },
     {
       "row": 3,
-      "col": 7
-    },
-    {
-      "row": 4,
       "col": 6
     },
     {
-      "row": 5,
+      "row": 7,
       "col": 0
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 2
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "zor",

@@ -5,141 +5,127 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Örgü çubuğu",
-      "answer": "ŞİŞ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hatay'dan geçen ırmak",
-      "answer": "ASİ",
+      "text": "Yer halkı",
+      "answer": "AHALİ",
       "row": 1,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Hastalık, dert",
-      "answer": "İLLET",
+      "text": "Yemek isteği",
+      "answer": "İŞTAH",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Işık yayma",
+      "answer": "IŞIMA",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Belirti, jest",
+      "answer": "İŞARET",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İstinat noktası",
+      "answer": "DAYANAK",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ödev",
+      "answer": "VAZİFE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce yapağılı koyun",
+      "answer": "MERİNOS",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Açık, apaçık",
+      "answer": "ALENİ",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ekleme, ulama",
+      "answer": "İLAVE",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Nabız vuruşu",
+      "answer": "ATIŞ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dokudaki bozulma, bere",
+      "answer": "YARA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Asla sözü",
+      "answer": "HAŞA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Görevden alma",
+      "answer": "AZİL",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hayvan barınağı",
+      "answer": "AHIR",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyükanne",
+      "answer": "NİNE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses yükseltici",
+      "answer": "MEGAFON",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Düz geniş arazi",
-      "answer": "OVA",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Hafif uykulu",
-      "answer": "SAK",
-      "row": 3,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tanksavar silah",
-      "answer": "BAZUKA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Azık",
-      "answer": "NEVALE",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kızgın, somurtkan (yüz)",
-      "answer": "ASIK",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kâbe ziyareti",
-      "answer": "UMRE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Billur",
-      "answer": "KRİSTAL",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yönetici",
-      "answer": "ŞEF",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Tokmaklı telli çalgı",
-      "answer": "SANTUR",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Cilt bağı",
-      "answer": "ŞİRAZE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Fa'dan önceki nota",
-      "answer": "Mİ",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaygın silis taşı",
-      "answer": "KUVARS",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ahizeyi açınca denen",
-      "answer": "ALO",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kayıt şeridi",
-      "answer": "KASET",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Âşık",
-      "answer": "SEVDALI",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Osmanlıcada para verme",
-      "answer": "İTA",
+      "text": "Gelirli mülk",
+      "answer": "İRAT",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sanat akımı",
-      "answer": "EKOL",
+      "text": "Kesik",
+      "answer": "KESİ",
       "row": 5,
       "col": 6,
       "arrow": "down"
@@ -148,23 +134,23 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 3
+      "col": 5
     },
     {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 7,
+      "row": 3,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 9,
+      "col": 0
     }
   ],
   "difficulty": "kolay",

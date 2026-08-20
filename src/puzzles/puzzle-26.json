@@ -5,142 +5,121 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Yüce, büyük",
-      "answer": "ULU",
+      "text": "Değersiz",
+      "answer": "HAKİR",
       "row": 0,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yumuşak gövdeli",
-      "answer": "OTSU",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eğik kenar",
-      "answer": "PAH",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Söz verme",
-      "answer": "ANT",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eski dilde çivi",
-      "answer": "MIH",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yönetime dair",
-      "answer": "İDARİ",
-      "row": 5,
+      "text": "Tuhaf şey",
+      "answer": "ACUBE",
+      "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Manevi olgun kişi",
-      "answer": "EREN",
+      "text": "Yolcu taşıtı",
+      "answer": "VAPUR",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Silahla ele geçirme",
+      "answer": "İSTİLA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yağlı merhem",
+      "answer": "POMAT",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kürklü küçük yırtıcı",
-      "answer": "SANSAR",
+      "text": "Irmak, çay, dere",
+      "answer": "AKARSU",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Din büyüğü öyküsü",
-      "answer": "MENKIBE",
-      "row": 7,
+      "text": "Salamura sebze",
+      "answer": "TURŞU",
+      "row": 8,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Kişi, şahıs",
-      "answer": "ZAT",
+      "text": "Prensip",
+      "answer": "İLKE",
       "row": 9,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şafak sökerken",
-      "answer": "TAN",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ortaya konan yapıt",
-      "answer": "ESER",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Akıl",
-      "answer": "US",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Arnavutluk'un başkenti",
-      "answer": "TİRAN",
+      "text": "İskambilde sinek",
+      "answer": "İSPATİ",
       "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yay biçimi",
+      "answer": "KAVS",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Küçük büyüteç",
-      "answer": "LUP",
+      "text": "Öğretim kurumu",
+      "answer": "OKUL",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeni yaratım",
+      "answer": "İCAT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ağırlıkça eşit",
-      "answer": "DENK",
-      "row": 4,
+      "text": "Eski Alman parası",
+      "answer": "MARK",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Göz açtırmayan",
-      "answer": "AMANSIZ",
-      "row": 2,
+      "text": "Hindistan parası",
+      "answer": "RUPİ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hayvan barınağı",
-      "answer": "AHIR",
+      "text": "Keman yayı",
+      "answer": "ARŞE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Nebülöz",
+      "answer": "BULUTSU",
       "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dervişin giysisi",
-      "answer": "ABA",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Göç",
-      "answer": "HİCRET",
-      "row": 3,
+      "text": "Bitki camlığı",
+      "answer": "SERA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -148,43 +127,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
-    },
-    {
-      "row": 0,
-      "col": 4
     },
     {
       "row": 0,
       "col": 5
     },
     {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
       "row": 2,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
-      "col": 2
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "kolay",

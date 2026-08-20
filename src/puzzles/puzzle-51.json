@@ -5,205 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Neden",
-      "answer": "SEBEP",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ahmak",
-      "answer": "BUDALA",
-      "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ortaya çıkmış",
-      "answer": "PEYDA",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Çizgi",
-      "answer": "HAT",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İskandinav parası",
-      "answer": "KRON",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayvan hastalığı",
-      "answer": "ŞAP",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kara karşıtı",
-      "answer": "AK",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Üryan",
-      "answer": "ÇIPLAK",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yükümlülük dışı",
-      "answer": "MUAF",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hükümdar yapısı",
-      "answer": "SARAY",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kesinlikle",
-      "answer": "MUTLAKA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Değersiz nesne",
-      "answer": "ADİ",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zarif, modern",
-      "answer": "ŞIK",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Meslek ilkeleri",
-      "answer": "ETİK",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eski dilde yükseltme",
-      "answer": "İLA",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Nakliyat",
-      "answer": "ULAŞIM",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Donuk yüzey",
-      "answer": "MAT",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ev sahipliği kâğıdı",
-      "answer": "TAPU",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ut sanatçısı",
-      "answer": "UDİ",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çiçeğin ince gövdesi",
-      "answer": "SAP",
+      "text": "Aşama, derece",
+      "answer": "MERTEBE",
       "row": 0,
-      "col": 3,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Sentetik madde",
-      "answer": "PLASTİK",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Eleme aracı",
-      "answer": "ELEK",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Şaşkın, bilemeyen",
-      "answer": "AFAL",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Millet simgesi",
-      "answer": "BAYRAK",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Rüşvet veren",
-      "answer": "RAŞİ",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Onarım yeri",
-      "answer": "DOK",
+      "text": "Terbiyeli davranış",
+      "answer": "EDEP",
       "row": 2,
-      "col": 6,
-      "arrow": "down"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Us, zihin",
-      "answer": "AKIL",
+      "text": "Kalsiyum maddesi",
+      "answer": "KİREÇ",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tropik ağaç",
+      "answer": "PALMİYE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayvan besleme",
+      "answer": "BESİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eşlik etme",
+      "answer": "REFAKAT",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dağ arası",
+      "answer": "VADİ",
       "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Çam meyvesi",
+      "answer": "KOZALAK",
+      "row": 7,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Devingen",
+      "answer": "DİNAMİK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Matematik eşitliği",
+      "answer": "DENKLEM",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bilirkişi",
+      "answer": "EKSPER",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ölçek",
+      "answer": "KİLE",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Oje çıkarıcı",
+      "answer": "ASETON",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Öneri",
+      "answer": "TEKLİF",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapıştırıcı madde",
+      "answer": "ZAMK",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eylem",
+      "answer": "EDİM",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıradan halk",
+      "answer": "AVAM",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Öte karşıtı",
+      "answer": "BERİ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ürün niteliği",
+      "answer": "KALİTE",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Oldukça çok",
+      "answer": "EPEY",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Başarı sayısı",
-      "answer": "PUAN",
-      "row": 0,
-      "col": 7,
+      "text": "Adanan şey, nezir",
+      "answer": "ADAK",
+      "row": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Gösteriş",
-      "answer": "FİYAKA",
-      "row": 5,
+      "text": "Kabuklu pirinç",
+      "answer": "ÇELTİK",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -211,27 +162,51 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 6,
-      "col": 6
+      "row": 1,
+      "col": 7
     },
     {
-      "row": 8,
+      "row": 2,
       "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 2
+    },
+    {
+      "row": 10,
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "orta",

@@ -5,176 +5,148 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Vida anahtarı",
-      "answer": "ALYAN",
+      "text": "Kahverengi ayı",
+      "answer": "BOZAYI",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Parazit",
-      "answer": "ASALAK",
+      "text": "Yoğun ışık",
+      "answer": "LAZER",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yanlışlıkla",
-      "answer": "KAZARA",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
+      "text": "Yeşillik karışımı",
+      "answer": "SALATA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Mürekkep balığı",
-      "answer": "KALAMAR",
+      "text": "Kayıp",
+      "answer": "YİTİK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İnekten sağılan",
-      "answer": "SÜT",
+      "text": "Viran",
+      "answer": "HARAP",
       "row": 6,
-      "col": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Mülkiyet belgesi",
-      "answer": "TAPU",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Soyun büyüğü",
-      "answer": "ATA",
+      "text": "Yıpratıcı, üstün",
+      "answer": "EZİCİ",
       "row": 7,
-      "col": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Maaşa yapılan",
-      "answer": "ZAM",
+      "text": "Yitik",
+      "answer": "KAYIP",
       "row": 8,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Özgür",
-      "answer": "HÜR",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kondisyon",
-      "answer": "FORM",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Birlikteliği anlatan sözcük",
-      "answer": "İLE",
+      "text": "Tespih başlığı",
+      "answer": "İMAME",
       "row": 9,
-      "col": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Üstlenme",
-      "answer": "TAAHHÜT",
+      "text": "Başlangıç",
+      "answer": "MİLAT",
       "row": 10,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Üstün karşıtı",
-      "answer": "AST",
+      "text": "Vaka, hadise",
+      "answer": "OLAY",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Hava gazı",
-      "answer": "AZOT",
-      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Boyun bölümü",
-      "answer": "YAKA",
+      "text": "Deftere geçirme",
+      "answer": "KAYIT",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Acımasız, zulmeden",
+      "answer": "ZALİM",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Emek kazancı",
-      "answer": "PARA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Esas, temel",
-      "answer": "ASAL",
+      "text": "Serbest bırakma",
+      "answer": "AZAT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ateşli hastalık",
-      "answer": "HUMMA",
+      "text": "Doktor",
+      "answer": "HEKİM",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kem göz",
-      "answer": "NAZAR",
+      "text": "Yetenek",
+      "answer": "YETİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Lamelin altındaki cam",
-      "answer": "LAM",
-      "row": 1,
+      "text": "Maksimum",
+      "answer": "AZAMİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak",
+      "answer": "IRAK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gerçek, doğru",
-      "answer": "SAHİH",
+      "text": "Suudi parası",
+      "answer": "RİYAL",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Devre arası",
-      "answer": "ARA",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ütülenmiş olan",
-      "answer": "ÜTÜLÜ",
+      "text": "Merhamet duygusu",
+      "answer": "ACIMA",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Gelir sağlayan mal",
-      "answer": "AKAR",
+      "text": "Set, baraj",
+      "answer": "BENT",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Zırhlı kule",
-      "answer": "TARET",
+      "text": "İçme borusu",
+      "answer": "PİPET",
       "row": 5,
       "col": 7,
       "arrow": "down"
@@ -183,14 +155,22 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 6
     },
     {
-      "row": 0,
-      "col": 5
+      "row": 1,
+      "col": 6
     },
     {
-      "row": 0,
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
       "col": 6
     },
     {
@@ -198,12 +178,24 @@
       "col": 0
     },
     {
-      "row": 5,
-      "col": 1
+      "row": 6,
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 2
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 0
     }
   ],
   "difficulty": "orta",

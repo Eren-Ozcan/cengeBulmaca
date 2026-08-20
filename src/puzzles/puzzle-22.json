@@ -5,198 +5,170 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Kıyı taşımacılığı",
-      "answer": "KABOTAJ",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
+      "text": "Doğa",
+      "answer": "TABİAT",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Bütünün parçası",
-      "answer": "CÜZ",
+      "text": "Ölünün yeri",
+      "answer": "KABİR",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Güzel karşıtı",
-      "answer": "ÇİRKİN",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Nazarlık bitkisi",
-      "answer": "ÜZERLİK",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Son karşıtı",
-      "answer": "İLK",
-      "row": 4,
+      "text": "Gazete yazısı",
+      "answer": "MAKALE",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hisseli",
-      "answer": "PAYLI",
+      "text": "Uyarı aleti",
+      "answer": "SİREN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boş ağırlık",
+      "answer": "DARA",
       "row": 5,
-      "col": 3,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Atlı top oyunu",
-      "answer": "POLO",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Keman yayı",
-      "answer": "ARŞE",
-      "row": 6,
+      "text": "Bile, üstelik",
+      "answer": "HATTA",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aydınlık, ışık",
-      "answer": "NUR",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Giysi ustası",
-      "answer": "TERZİ",
+      "text": "Tertemiz",
+      "answer": "LEKESİZ",
       "row": 8,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Enerji paketi",
-      "answer": "KUANTUM",
+      "text": "Savaşçı kadın",
+      "answer": "AMAZON",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bir yerde oturma",
-      "answer": "İKAMET",
+      "text": "Kısa namlulu tüfek",
+      "answer": "FİLİNTA",
       "row": 10,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ulaşım şeridi",
-      "answer": "YOL",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Geniş, açık",
-      "answer": "FERAH",
+      "text": "Duygu dolu",
+      "answer": "LİRİK",
       "row": 11,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İngiliz unvanı",
-      "answer": "LORT",
-      "row": 4,
+      "text": "Aritmetik işlem",
+      "answer": "HESAP",
+      "row": 5,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Baklagillerden ağaç",
+      "answer": "AKASYA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Büyük karşıtı",
-      "answer": "KÜÇÜK",
+      "text": "Kalıcı, ölümsüz",
+      "answer": "BAKİ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Biçim",
-      "answer": "ŞEKİL",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ermiş, kutsal kişi",
-      "answer": "AZİZ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Takma saç",
-      "answer": "PERUK",
+      "text": "Zararı giderme",
+      "answer": "TELAFİ",
       "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Oluşan, meydana gelen",
+      "answer": "İBARET",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Banka işlemi",
-      "answer": "REPO",
-      "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İrade zayıflığı",
-      "answer": "ZAAF",
+      "text": "Buyruk",
+      "answer": "EMİR",
       "row": 7,
-      "col": 4,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ülke hükümdarı",
-      "answer": "KRAL",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Felç",
-      "answer": "İNME",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bin milyar",
-      "answer": "TRİLYON",
+      "text": "Ev halkı",
+      "answer": "AİLE",
       "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bazik madde",
+      "answer": "ALKALİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eğilim, yönelim",
+      "answer": "TREND",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çarpma beresi",
+      "answer": "EZİK",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Rakıya koku veren",
+      "answer": "ANASON",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sıcakta akan",
-      "answer": "TER",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Afrika'nın uzun nehri",
-      "answer": "NİL",
-      "row": 2,
+      "text": "Hakkında",
+      "answer": "DAİR",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Uzak Doğu ezgisi",
-      "answer": "UTA",
-      "row": 8,
+      "text": "Peru parası",
+      "answer": "İNTİ",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Büklüm",
-      "answer": "KIVRIM",
-      "row": 3,
+      "text": "Yeme organı",
+      "answer": "AĞIZ",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     }
@@ -204,19 +176,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
+      "col": 6
     },
     {
       "row": 0,
@@ -228,7 +188,15 @@
     },
     {
       "row": 1,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 6
     },
     {
       "row": 2,
@@ -236,18 +204,34 @@
     },
     {
       "row": 3,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 8
+    },
+    {
+      "row": 6,
+      "col": 5
     },
     {
       "row": 6,
       "col": 7
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 7,
+      "col": 1
     },
     {
-      "row": 10,
+      "row": 9,
+      "col": 8
+    },
+    {
+      "row": 11,
+      "col": 6
+    },
+    {
+      "row": 11,
       "col": 8
     }
   ],

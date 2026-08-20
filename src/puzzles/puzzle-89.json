@@ -5,198 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Ağız kısmı",
-      "answer": "DUDAK",
+      "text": "Sevecenlik",
+      "answer": "ŞEFKAT",
       "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bulgar parası",
+      "answer": "LEVA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kıvırcık köpek",
+      "answer": "KANİŞ",
+      "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Cevizin yenen yeri",
-      "answer": "İÇ",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağlama sözcüğü",
-      "answer": "VE",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Bilgi",
-      "answer": "MALUMAT",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mete Han'ın kavmi",
-      "answer": "HUN",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üzüm şırasından tatlı",
-      "answer": "ŞİRE",
+      "text": "İçki yiyeceği",
+      "answer": "MEZE",
       "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Göktürklerde bir unvan",
-      "answer": "ŞAD",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
+      "text": "Çay demleme kabı",
+      "answer": "SEMAVER",
+      "row": 4,
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "İkinci şahıs",
-      "answer": "SEN",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Davul takımı",
-      "answer": "BATERİ",
+      "text": "Sahne dansı",
+      "answer": "BALE",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Özel eğitimli asker",
-      "answer": "KOMANDO",
+      "text": "Yılın altıncı ayı",
+      "answer": "HAZİRAN",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mevcut olan",
-      "answer": "VAR",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Körpe bitki",
-      "answer": "FİDE",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Nal çakılan",
-      "answer": "AT",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Japon çizgi filmi",
-      "answer": "ANİME",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Aşk yakınlaşması",
-      "answer": "FLÖRT",
-      "row": 10,
+      "text": "Yargıç",
+      "answer": "HAKİM",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sert olmayan",
-      "answer": "YUMUŞAK",
+      "text": "Osmanlı yönetim birimi",
+      "answer": "EYALET",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yol oteli",
+      "answer": "MOTEL",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aynı",
+      "answer": "TIPKI",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşırı şişman",
+      "answer": "OBEZ",
       "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Alan; oyun yeri",
+      "answer": "SAHA",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kahveden bakılan",
-      "answer": "FAL",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Vücut yapısı bilimi",
-      "answer": "ANATOMİ",
-      "row": 2,
+      "text": "Büyük yıkım",
+      "answer": "FELAKET",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Konuşma organı",
-      "answer": "DİL",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski dilde kan",
-      "answer": "DEM",
+      "text": "Üstün nitelik",
+      "answer": "MEZİYET",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Giysi küçük gelince",
-      "answer": "DAR",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Uçmak işi",
-      "answer": "UÇUŞ",
+      "text": "İşaret bayrağı",
+      "answer": "FLAMA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ekşi saplı bitki",
-      "answer": "RAVENT",
-      "row": 5,
+      "text": "Üstü kapalı",
+      "answer": "İMALI",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Olta ipi",
-      "answer": "MİSİNA",
-      "row": 2,
+      "text": "Lifli halat bitkisi",
+      "answer": "KENEVİR",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Başıboş",
-      "answer": "AVARE",
+      "text": "Tavan lambası",
+      "answer": "AVİZE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sahne oyunu",
-      "answer": "DRAM",
+      "text": "Uyum, düzen, armoni",
+      "answer": "AHENK",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dokuma bitkisi",
-      "answer": "KETEN",
+      "text": "Alt yüklenici",
+      "answer": "TAŞERON",
       "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce metal çubuk",
-      "answer": "TEL",
-      "row": 8,
       "col": 7,
       "arrow": "down"
     }
@@ -204,7 +155,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
@@ -212,31 +163,43 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 0
+      "col": 3
     },
     {
       "row": 2,
-      "col": 0
+      "col": 1
     },
     {
-      "row": 6,
-      "col": 7
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 3,
+      "col": 1
     },
     {
       "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
+      "row": 11,
       "col": 0
     },
     {
       "row": 11,
-      "col": 5
-    },
-    {
-      "row": 11,
-      "col": 6
+      "col": 1
     }
   ],
   "difficulty": "orta",

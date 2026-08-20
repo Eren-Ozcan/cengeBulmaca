@@ -5,177 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kanat sesi",
-      "answer": "PIR",
+      "text": "Sürme, kesilmeme, bitmeme",
+      "answer": "DEVAM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Açılış töreni",
-      "answer": "GALA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Selçuklu lalası",
-      "answer": "ATABEY",
+      "text": "Ölüm vakti",
+      "answer": "ECEL",
       "row": 2,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Seke yürüyen",
-      "answer": "TOPAL",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ekmeğin hammaddesi",
-      "answer": "UN",
+      "text": "Yetiştirici",
+      "answer": "ÜRETİCİ",
       "row": 3,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Otomatik makine",
-      "answer": "ROBOT",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kırışmış",
-      "answer": "BURUŞUK",
+      "text": "Hoşa giden",
+      "answer": "ZARİF",
       "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Akım teli",
+      "answer": "KABLO",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Özellikle, bilhassa",
+      "answer": "HELE",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sabaha yakın zaman",
-      "answer": "TAN",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Rezil",
-      "answer": "KEPAZE",
+      "text": "Araç gövdesi",
+      "answer": "KAROSER",
       "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kabul etme",
-      "answer": "ONAY",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Üniversite diploması",
-      "answer": "LİSANS",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlı parası",
-      "answer": "AKÇE",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Trenlerin durağı",
-      "answer": "GAR",
-      "row": 6,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Yemeden durma",
-      "answer": "ORUÇ",
+      "text": "Minare balkonu",
+      "answer": "ŞEREFE",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sahne oyunu",
+      "answer": "DRAM",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüzü gülmeyen",
+      "answer": "NEMRUT",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kolay korkan",
+      "answer": "ÜRKEK",
       "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sonuç yazısı",
-      "answer": "RAPOR",
-      "row": 0,
+      "text": "Metal karışımı",
+      "answer": "ALAŞIM",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Omuzdan ele uzanan",
-      "answer": "KOL",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Arkalıksız iskemle",
-      "answer": "TABURE",
-      "row": 1,
+      "text": "Bakmadan",
+      "answer": "EZBERE",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ayakkabı kılıfı",
-      "answer": "GALOŞ",
+      "text": "İletken madde",
+      "answer": "METAL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yiyecek artığı",
-      "answer": "POSA",
+      "text": "Karadeniz ilimiz",
+      "answer": "ORDU",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Farsça su",
-      "answer": "AB",
-      "row": 0,
+      "text": "Satış tutarı",
+      "answer": "CİRO",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zabıt",
-      "answer": "TUTANAK",
-      "row": 3,
+      "text": "Yumuşak karşıtı",
+      "answer": "SERT",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Rumen parası",
-      "answer": "LEU",
+      "text": "Acıklı, korkunç",
+      "answer": "FECİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kâr",
-      "answer": "KAZANÇ",
-      "row": 4,
+      "text": "Dostluk bağlılığı",
+      "answer": "VEFA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Eşi, tıpkısı",
-      "answer": "AYNI",
-      "row": 0,
+      "text": "Kaldırma makinesi",
+      "answer": "LİFT",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "'Önemi yok' sözü",
-      "answer": "NEYSE",
-      "row": 5,
+      "text": "Kağıt oyunu",
+      "answer": "REMİ",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -187,23 +159,43 @@
     },
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 3
     },
     {
-      "row": 8,
-      "col": 1
+      "row": 0,
+      "col": 5
     },
     {
-      "row": 10,
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
-      "row": 10,
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 1
     },
     {
       "row": 10,
-      "col": 2
+      "col": 6
     }
   ],
   "difficulty": "zor",

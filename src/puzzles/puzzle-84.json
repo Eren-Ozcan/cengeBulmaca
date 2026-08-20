@@ -5,198 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Siyahla beyaz arası",
-      "answer": "GRİ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Rütbece aşağıdaki",
-      "answer": "AST",
+      "text": "Veciz",
+      "answer": "ÖZLÜ",
       "row": 1,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kayırma",
-      "answer": "TORPİL",
+      "text": "Ege incisi",
+      "answer": "İZMİR",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Birden sonraki sayı",
-      "answer": "İKİ",
+      "text": "Şekersiz kahve",
+      "answer": "SADE",
       "row": 3,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Öbür dünya",
-      "answer": "AHİRET",
+      "text": "Dar olan",
+      "answer": "ENSİZ",
       "row": 4,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Tibet rahibi",
-      "answer": "LAMA",
+      "text": "Uzun gagalı balık",
+      "answer": "ZARGANA",
       "row": 5,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Semt bölümü",
-      "answer": "MAHALLE",
+      "text": "Namaz görevlisi",
+      "answer": "İMAM",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Şehir bölgesi",
+      "answer": "SEMT",
       "row": 6,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sofra aracı",
-      "answer": "ÇATAL",
-      "row": 6,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sarı tahıl",
-      "answer": "MISIR",
+      "text": "Uzaktan görülen",
+      "answer": "KARARTI",
       "row": 8,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Baş kaldıran",
-      "answer": "ASİ",
+      "text": "İrticalen söyleme",
+      "answer": "DOĞAÇ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yetki değneği",
-      "answer": "ASA",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kurdun sesi için",
-      "answer": "ULU",
+      "text": "Zan, zehap",
+      "answer": "SANI",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sürat",
-      "answer": "HIZ",
-      "row": 10,
-      "col": 4,
+      "text": "Araştırma kurumu",
+      "answer": "ENSTİTÜ",
+      "row": 11,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kanın sıvı bölümü",
-      "answer": "PLAZMA",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Küme",
-      "answer": "GRUP",
+      "text": "Anasız çocuk",
+      "answer": "ÖKSÜZ",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Ürün",
-      "answer": "MAHSUL",
-      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dış alım",
-      "answer": "İTHALAT",
+      "text": "Kareli kumaş",
+      "answer": "EKOSE",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hediye",
+      "answer": "ARMAĞAN",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Önder",
+      "answer": "LİDER",
       "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İki sayı arası",
-      "answer": "İLA",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yahudi görevlisi",
-      "answer": "HAHAM",
-      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Usta, hünerli",
-      "answer": "UZ",
-      "row": 9,
+      "text": "Bilinç durumu",
+      "answer": "TRANS",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Namus, onur",
-      "answer": "AR",
+      "text": "Eyer ayaklığı",
+      "answer": "ÜZENGİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Üstü kapalı",
-      "answer": "İMALI",
+      "text": "Kapı, pencere açıklığı",
+      "answer": "AÇIT",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kürklü hayvan",
+      "answer": "SAMUR",
       "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarmal",
-      "answer": "SPİRAL",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Alan; oyun yeri",
-      "answer": "SAHA",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük lokma",
-      "answer": "TİKE",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalori olarak ölçülen",
-      "answer": "ISI",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıvı birimi",
-      "answer": "LİTRE",
+      "text": "Özen",
+      "answer": "İTİNA",
       "row": 1,
-      "col": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kabul eden",
-      "answer": "RAZI",
+      "text": "Esnek giysi",
+      "answer": "TAYT",
       "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Fiyatı arttırılmış",
+      "answer": "ZAMLI",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -204,31 +162,55 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
-      "col": 3
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 3,
-      "col": 1
+      "row": 1,
+      "col": 5
     },
     {
-      "row": 5,
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 6
+      "row": 4,
+      "col": 0
     },
     {
-      "row": 11,
-      "col": 6
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "zor",

@@ -5,226 +5,177 @@
   "cols": 9,
   "clues": [
     {
-      "text": "İğne yapraklı ağaç",
-      "answer": "ÇAM",
+      "text": "Mücadele, savaş",
+      "answer": "CENK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Namaz eğilmesi",
-      "answer": "SECDE",
+      "text": "Mayhoş ağaç",
+      "answer": "İĞDE",
       "row": 0,
-      "col": 4,
+      "col": 5,
       "arrow": "down-right"
     },
     {
-      "text": "Dünya, evren",
-      "answer": "ACUN",
+      "text": "Alet, vasıta",
+      "answer": "ARAÇ",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sınıf",
-      "answer": "DERSLİK",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
+      "text": "Küçük at",
+      "answer": "MİDİLLİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Nevi şahsına münhasır",
-      "answer": "NEV",
+      "text": "Duygulu",
+      "answer": "HİSLİ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Salata bitkisi",
-      "answer": "TERE",
+      "text": "Beyaz kuş",
+      "answer": "MARTI",
       "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Leş yiyen kuş",
+      "answer": "AKBABA",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kore başkenti",
+      "answer": "SEUL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Savaş tutsağı",
+      "answer": "ESİR",
+      "row": 7,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Öz, nitelik",
-      "answer": "MAHİYET",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük ses",
-      "answer": "PIT",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hitap ünlemi",
-      "answer": "BRE",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Düş",
-      "answer": "RÜYA",
-      "row": 7,
+      "text": "Dik karşıtı",
+      "answer": "EĞİK",
+      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "El içi",
-      "answer": "AVUÇ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kara parçası",
-      "answer": "ADA",
-      "row": 8,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Liman kıyısı",
-      "answer": "RIHTIM",
+      "text": "Kent",
+      "answer": "ŞEHİR",
       "row": 9,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Dinî inanç",
-      "answer": "İMAN",
+      "text": "Güçlü inanç",
+      "answer": "İNAN",
       "row": 10,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ansızın, beklenmedik",
-      "answer": "ANİ",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Tarladaki tahıl",
-      "answer": "EKİN",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Saflık derecesi",
-      "answer": "AYAR",
+      "text": "Dikkatli, özenli",
+      "answer": "TİTİZ",
       "row": 11,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çizge",
-      "answer": "GRAFİK",
-      "row": 5,
+      "text": "Sol elli",
+      "answer": "SOLAK",
+      "row": 6,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "İş verme",
+      "answer": "İHALE",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "'-diğine göre' bağlacı",
-      "answer": "MADEM",
+      "text": "Ender",
+      "answer": "NADİR",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Oturulan yapı",
-      "answer": "EV",
+      "text": "Haşarı, yaramaz",
+      "answer": "UÇARI",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gamın üçüncüsü",
-      "answer": "Mİ",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yanıt",
-      "answer": "CEVAP",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sanayi, endüstri",
-      "answer": "URAN",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kale duvarı",
-      "answer": "SUR",
+      "text": "Billur",
+      "answer": "KRİSTAL",
       "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanak boyası",
+      "answer": "ALLIK",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Huysuz, sinirli",
-      "answer": "HIRÇIN",
-      "row": 4,
+      "text": "Aynı değerde",
+      "answer": "EŞİT",
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Araştırma kurumu",
-      "answer": "ENSTİTÜ",
+      "text": "Hassas kişi",
+      "answer": "İÇLİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hawaii çiçek kolyesi",
-      "answer": "LEY",
-      "row": 2,
+      "text": "Zevk, hoşlanma",
+      "answer": "BEĞENİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Öğüt",
+      "answer": "NASİHAT",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ufki",
-      "answer": "YATAY",
-      "row": 6,
-      "col": 6,
+      "text": "İki parça mayo",
+      "answer": "BİKİNİ",
+      "row": 5,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Konut bölümü",
-      "answer": "DAİRE",
+      "text": "Kenarları eşit",
+      "answer": "EŞKENAR",
       "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Namına, hesabına",
-      "answer": "ADINA",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Katmerli çörek",
-      "answer": "KETE",
-      "row": 2,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Üst görevli",
-      "answer": "AMİR",
-      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -236,7 +187,7 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
@@ -244,23 +195,47 @@
     },
     {
       "row": 0,
-      "col": 8
+      "col": 7
     },
     {
       "row": 2,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 7
     },
     {
       "row": 3,
-      "col": 0
+      "col": 7
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 8
     },
     {
       "row": 9,
-      "col": 0
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 8
+    },
+    {
+      "row": 11,
+      "col": 1
     }
   ],
   "difficulty": "zor",

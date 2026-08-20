@@ -5,233 +5,170 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Havadaki akışkan",
-      "answer": "GAZ",
+      "text": "Kesme aracı",
+      "answer": "MAKAS",
       "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Karton kutu",
-      "answer": "KOLİ",
-      "row": 1,
-      "col": 4,
+      "text": "Deneyimsiz, toy",
+      "answer": "ACEMİ",
+      "row": 2,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gövdenin ortası",
-      "answer": "BEL",
-      "row": 2,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Ut çalıcısı",
-      "answer": "UDİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çirkin, acayip",
-      "answer": "UCUBE",
+      "text": "Osmanlı saray görevlisi",
+      "answer": "ÇUHADAR",
       "row": 3,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üst karşıtı",
-      "answer": "ALT",
+      "text": "Görmeye gitme",
+      "answer": "ZİYARET",
       "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Kareli kumaş",
-      "answer": "EKOSE",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İlave, ulama",
-      "answer": "EK",
-      "row": 5,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Meslek çalışması",
-      "answer": "STAJ",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Küçük çocuk",
-      "answer": "SABİ",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Keyifli",
-      "answer": "NEŞELİ",
-      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Mizaç, tabiat",
-      "answer": "HUY",
+      "text": "Yönetime dair",
+      "answer": "İDARİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çoban abası",
+      "answer": "KEPENEK",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Teşhis",
+      "answer": "TANI",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Köyden büyük yer",
+      "answer": "KASABA",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Anne",
-      "answer": "ANA",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Canlı kalıntısı",
-      "answer": "FOSİL",
+      "text": "İleti",
+      "answer": "MESAJ",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Boru sesi",
-      "answer": "Tİ",
-      "row": 8,
-      "col": 7,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Attila'nın halkı",
-      "answer": "HUN",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sac kap",
-      "answer": "BİDON",
+      "text": "Yüksek bilim kurumu",
+      "answer": "AKADEMİ",
       "row": 10,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dev Kaliforniya ağacı",
-      "answer": "SEKOYA",
+      "text": "Yiyecek odası",
+      "answer": "KİLER",
       "row": 11,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İkili şarkı",
-      "answer": "DÜET",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gök-yer çizgisi",
-      "answer": "UFUK",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Baş kaldıran",
-      "answer": "ASİ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Derin vadi",
-      "answer": "KANYON",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tırnak cilası",
-      "answer": "OJE",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Eğitim programı",
-      "answer": "KURS",
-      "row": 2,
-      "col": 3,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Yolsuzluk kuşkusu",
-      "answer": "ŞAİBE",
+      "text": "Ağız üstü",
+      "answer": "DAMAK",
       "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yakın karşıtı",
+      "answer": "UZAK",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Taş oturak",
+      "answer": "SEKİ",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Mısır'ın başkenti",
+      "answer": "KAHİRE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Esas, temel",
+      "answer": "ASAL",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tuhaf, garip",
+      "answer": "ACAYİP",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Selamet",
-      "answer": "ESENLİK",
-      "row": 4,
+      "text": "Divan şiirinde şarap",
+      "answer": "BADE",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses (eski dilde)",
+      "answer": "SEDA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çift kamışlı çalgı",
-      "answer": "OBUA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kızılımsı sarı",
-      "answer": "ALA",
+      "text": "Küçük raflı dolap",
+      "answer": "ETAJER",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yat limanı",
+      "answer": "MARİNA",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Gamın ilk notası",
-      "answer": "DO",
-      "row": 9,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kavrulmuş nohut",
-      "answer": "LEBLEBİ",
+      "text": "Pamuk ipliği",
+      "answer": "TİRE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Deneyimsiz, acemi",
-      "answer": "TOY",
-      "row": 8,
+      "text": "Saf kimse",
+      "answer": "ENAYİ",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Açı ölçme aracı",
-      "answer": "İLETKİ",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "İnsan yapısı",
-      "answer": "BİNA",
-      "row": 7,
+      "text": "Ziynet eşyası",
+      "answer": "TAKI",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     }
@@ -247,23 +184,67 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 2
     },
     {
       "row": 0,
-      "col": 4
+      "col": 6
     },
     {
       "row": 0,
-      "col": 5
+      "col": 8
     },
     {
-      "row": 4,
+      "row": 1,
+      "col": 8
+    },
+    {
+      "row": 2,
       "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 8
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 8
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
+      "row": 10,
+      "col": 8
     },
     {
       "row": 11,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 7
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "zor",

@@ -5,142 +5,121 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Keman çalan",
-      "answer": "KEMANCI",
+      "text": "Gök ada",
+      "answer": "GALAKSİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ölünce ayrılan",
-      "answer": "RUH",
+      "text": "Nişasta bulamacı",
+      "answer": "KOLA",
       "row": 2,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Pay senedi",
-      "answer": "HİSSE",
+      "text": "Mutedil iklim",
+      "answer": "ILIMAN",
       "row": 3,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Süsleme sanatı",
-      "answer": "EBRU",
+      "text": "Yanan sopa",
+      "answer": "MEŞALE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Caka satma",
-      "answer": "AFİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Açıkça söylememe",
-      "answer": "İMA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ekşimsi yaz meyvesi",
-      "answer": "ERİK",
+      "text": "Dikişsiz kıyafet",
+      "answer": "İHRAM",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İbadet yeri",
-      "answer": "CAMİ",
+      "text": "Öğüt veren",
+      "answer": "VAİZ",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çelik kaplama",
+      "answer": "ZIRH",
+      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Tır kasası",
-      "answer": "DORSE",
+      "text": "Kutsal varlık",
+      "answer": "MELEK",
       "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Ayak direyen",
-      "answer": "İNATÇI",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mert, yiğit",
-      "answer": "ER",
+      "text": "Atış uzaklığı",
+      "answer": "ATIM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Nazik kimse",
-      "answer": "EFENDİ",
-      "row": 3,
+      "text": "Hız değişimi",
+      "answer": "İVME",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İhbarcı",
-      "answer": "MUHBİR",
-      "row": 0,
+      "text": "Yazılı tabela",
+      "answer": "LEVHA",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dokuzdan sonraki sayı",
-      "answer": "ON",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sırada son",
-      "answer": "AHİR",
+      "text": "Cereyan",
+      "answer": "AKIŞ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Uygulama, yapma",
-      "answer": "İCRA",
+      "text": "Çay ilimiz",
+      "answer": "RİZE",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gizli cana kıyma",
-      "answer": "SUİKAST",
-      "row": 2,
+      "text": "Bilinç kaybı",
+      "answer": "KOMA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sakındırma sözü",
-      "answer": "CIS",
+      "text": "Yol yiyeceği",
+      "answer": "AZIK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kayakta engel geçişi",
+      "answer": "SLALOM",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eskrim silahı",
-      "answer": "MEÇ",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Saf kimse",
-      "answer": "ENAYİ",
-      "row": 2,
+      "text": "Yardım parası",
+      "answer": "İANE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -148,26 +127,38 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 2
     },
     {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 3,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 4,
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 5
     },
     {
       "row": 7,
-      "col": 0
+      "col": 6
     },
     {
-      "row": 8,
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
       "col": 6
     }
   ],

@@ -5,114 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Koruma, yardım",
-      "answer": "SAYE",
+      "text": "Otomobil",
+      "answer": "ARABA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İri bezelye",
-      "answer": "ARAKA",
+      "text": "Bedensel özürlü",
+      "answer": "SAKAT",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kebap çubuğu",
-      "answer": "ŞİŞ",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
+      "text": "İçki içilen yer",
+      "answer": "MEYHANE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Mahalle esnafı",
-      "answer": "BAKKAL",
+      "text": "Pers valisi",
+      "answer": "SATRAP",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yetki değneği",
-      "answer": "ASA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağlantı",
-      "answer": "İRTİBAT",
+      "text": "İç organlar",
+      "answer": "SAKATAT",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Evliliğin ilk ayı",
-      "answer": "BALAYI",
+      "text": "Yeni doğum yapmış",
+      "answer": "LOHUSA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kontrol",
-      "answer": "DENETİM",
+      "text": "Bilek ayakkabısı",
+      "answer": "POTİN",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Erkek kuaförü",
-      "answer": "BERBER",
-      "row": 3,
+      "text": "Emek kazancı",
+      "answer": "PARA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce dövülmüş et",
+      "answer": "ESKALOP",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sevinç sözü",
-      "answer": "YAŞA",
+      "text": "En büyük kıta",
+      "answer": "ASYA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Alacakaranlık",
-      "answer": "TAN",
+      "text": "Sınırlama miktarı",
+      "answer": "KOTA",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ekşimsi yaz meyvesi",
-      "answer": "ERİK",
+      "text": "Kader, yazgı",
+      "answer": "BAHT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Birliktelik bağlacı",
-      "answer": "İLE",
+      "text": "Sırada son",
+      "answer": "AHİR",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Türkmenistan'ın başkenti",
-      "answer": "AŞKABAT",
-      "row": 1,
+      "text": "Gelir taşınmazı",
+      "answer": "AKAR",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Düzen ve güvenlik",
-      "answer": "ASAYİŞ",
-      "row": 3,
+      "text": "Avrupa nehri",
+      "answer": "TUNA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tropik meyve",
+      "answer": "ANANAS",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İfade",
-      "answer": "ANLATIM",
-      "row": 1,
+      "text": "Ritmik egzersiz",
+      "answer": "STEP",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemek",
+      "answer": "TAAM",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -124,47 +138,15 @@
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
       "col": 5
     },
     {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
+      "row": 8,
       "col": 5
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
       "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 2
-    },
-    {
-      "row": 9,
-      "col": 3
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 5
     }
   ],
   "difficulty": "kolay",

@@ -5,128 +5,114 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Bilmece",
-      "answer": "MUAMMA",
+      "text": "Değiş tokuş",
+      "answer": "TAKAS",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Su taşıtı",
-      "answer": "SAL",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Becerikli, yetenekli",
-      "answer": "UZ",
+      "text": "Ayak tabanı cezası",
+      "answer": "FALAKA",
       "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Çok büyük",
-      "answer": "DEVASA",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Basma başörtü",
-      "answer": "YEMENİ",
-      "row": 3,
+      "text": "Sıkıntı, çarpıntı",
+      "answer": "HAFAKAN",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Geçimlik",
-      "answer": "NAFAKA",
+      "text": "Musluklu yıkama yeri",
+      "answer": "LAVABO",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Vücut örtüsü",
+      "answer": "DERİ",
       "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gemi omurgası",
+      "answer": "KARİNA",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İbadet töreni",
-      "answer": "AYİN",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Zorba buyruk",
-      "answer": "DİKTA",
+      "text": "Alışılagelmiş uygulama",
+      "answer": "GÖRENEK",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Maç bölümü",
-      "answer": "SET",
+      "text": "Çiçek düzenleme",
+      "answer": "İKEBANA",
       "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Babanın erkek kardeşi",
-      "answer": "AMCA",
-      "row": 9,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Maden işçisi",
-      "answer": "MADENCİ",
+      "text": "Şaşkın, bilemeyen",
+      "answer": "AFAL",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İslam bilginleri",
-      "answer": "ULEMA",
+      "text": "Kasır",
+      "answer": "KÖŞK",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Görüş ortağı",
+      "answer": "KAFADAR",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kötü, fena",
-      "answer": "KEM",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ölüm",
-      "answer": "VEFAT",
-      "row": 2,
+      "text": "Elden ele geçme",
+      "answer": "ALAVERE",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Temel kanun",
-      "answer": "ANAYASA",
-      "row": 2,
+      "text": "Yapay tatlandırıcı",
+      "answer": "SAKARİN",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Müzik",
-      "answer": "MUSİKİ",
-      "row": 0,
+      "text": "Bakanlar kurulu",
+      "answer": "KABİNE",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Üye",
-      "answer": "AZA",
+      "text": "Tiyatro sahnesi",
+      "answer": "ŞANO",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Abide",
-      "answer": "ANIT",
-      "row": 4,
+      "text": "Beyazımsı",
+      "answer": "AKÇA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -134,35 +120,27 @@
   "blocks": [
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
-      "row": 0,
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
       "col": 3
     },
     {
-      "row": 0,
+      "row": 8,
       "col": 4
     },
     {
-      "row": 7,
-      "col": 5
-    },
-    {
       "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 9,
       "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
     }
   ],
   "difficulty": "kolay",

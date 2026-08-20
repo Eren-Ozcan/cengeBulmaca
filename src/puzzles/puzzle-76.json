@@ -5,135 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Altyapı üstündeki",
-      "answer": "ÜSTYAPI",
+      "text": "İtalya'nın başkenti",
+      "answer": "ROMA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kuram",
-      "answer": "TEORİ",
+      "text": "Uygarlaşmamış",
+      "answer": "BARBAR",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Step",
-      "answer": "BOZKIR",
+      "text": "İzin",
+      "answer": "MÜSAADE",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Duvar birleşimi",
-      "answer": "KÖŞE",
+      "text": "Katışıksız ırk",
+      "answer": "SAFKAN",
       "row": 4,
-      "col": 3,
-      "arrow": "down-right"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Yumuşak kumaş",
-      "answer": "FLANEL",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hekim bakısı",
-      "answer": "MUAYENE",
+      "text": "Hasır kap",
+      "answer": "SEPET",
       "row": 6,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Gelir taşınmazı",
-      "answer": "AKAR",
+      "text": "Oymak, kabile",
+      "answer": "AŞİRET",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilme süreci",
+      "answer": "BİLİŞ",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çam sakızı",
-      "answer": "REÇİNE",
-      "row": 9,
+      "text": "Dik dalış",
+      "answer": "PİKE",
+      "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Dur işareti",
-      "answer": "STOP",
+      "text": "Top mermisi",
+      "answer": "OBÜS",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ürün sergisi",
-      "answer": "FUAR",
+      "text": "Küçük çocuk",
+      "answer": "SABİ",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yüksek lisans çalışması",
-      "answer": "TEZ",
+      "text": "Çalışma mobilyası",
+      "answer": "MASA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Parlak ayakkabı derisi",
-      "answer": "LAKE",
+      "text": "Kapı basamağı",
+      "answer": "EŞİK",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Var karşıtı",
-      "answer": "YOK",
+      "text": "Cennetle cehennem arası",
+      "answer": "ARAF",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kaya kütlesi",
-      "answer": "KAYAÇ",
-      "row": 4,
+      "text": "Kumaş kıvrımı",
+      "answer": "PİLE",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Temiz, saf",
-      "answer": "ARI",
-      "row": 0,
+      "text": "Tek hücreli mikrop",
+      "answer": "BAKTERİ",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Teklif",
-      "answer": "ÖNERİ",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir işin öncüsü",
-      "answer": "PİR",
+      "text": "Ses, seda",
+      "answer": "SADA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Neşeli, sevinçli",
-      "answer": "ŞEN",
-      "row": 4,
+      "text": "Çamaşır leğeni",
+      "answer": "TEŞT",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kazanılmış yatkınlık",
-      "answer": "MELEKE",
-      "row": 3,
+      "text": "Görsel duyum",
+      "answer": "RENK",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     }
@@ -141,27 +134,31 @@
   "blocks": [
     {
       "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 6
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 2
     },
     {
       "row": 5,
       "col": 0
     },
     {
+      "row": 6,
+      "col": 6
+    },
+    {
       "row": 8,
-      "col": 5
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "kolay",

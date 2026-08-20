@@ -5,142 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "İşi yapan öge",
-      "answer": "ÖZNE",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Türk yas töreni",
-      "answer": "YOĞ",
-      "row": 1,
+      "text": "Besin ögesi",
+      "answer": "VİTAMİN",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üstü kapalı anlatma",
-      "answer": "İMA",
+      "text": "Eğlence etkinliği",
+      "answer": "OYUN",
       "row": 2,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Tokyo'nun para birimi",
-      "answer": "YEN",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
+      "text": "Zurna çalan",
+      "answer": "ZURNACI",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Nazlı, işveli",
-      "answer": "EDALI",
+      "text": "Tel bölme",
+      "answer": "KAFES",
       "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ekin sapı",
-      "answer": "ANIZ",
-      "row": 5,
+      "text": "Dev Kaliforniya ağacı",
+      "answer": "SEKOYA",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çok belirgin",
-      "answer": "APAÇIK",
-      "row": 7,
+      "text": "Odun kömür",
+      "answer": "YAKACAK",
+      "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yeryüzü toprağı",
-      "answer": "ARAZİ",
+      "text": "Rüzgârlı fırtına",
+      "answer": "BORAN",
       "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeşil sebze",
-      "answer": "HIYAR",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Taraf, istikamet",
-      "answer": "YÖN",
-      "row": 1,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Eli açık kimse",
-      "answer": "AĞA",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
+      "text": "Zeytinyağlı fasulye",
+      "answer": "PİLAKİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Öğle vakti",
-      "answer": "ÖĞLEN",
+      "text": "Sinirli, öfkeli",
+      "answer": "ASABİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Dönme kuvveti",
+      "answer": "TORK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Köşe kırma",
-      "answer": "PAH",
-      "row": 6,
+      "text": "Sanat akımı",
+      "answer": "EKOL",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İçeri karşıtı",
-      "answer": "DIŞARI",
-      "row": 3,
+      "text": "Yansıtıcı cam",
+      "answer": "AYNA",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yalvarma, yakarma",
-      "answer": "NİYAZ",
+      "text": "Siyah",
+      "answer": "KARA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yükümlülük dışı",
+      "answer": "MUAF",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Irmaktan küçük akarsu",
-      "answer": "ÇAY",
-      "row": 6,
+      "text": "İlk ay",
+      "answer": "OCAK",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ulaşılmak istenen dilek",
-      "answer": "EMEL",
+      "text": "Kalın karşıtı",
+      "answer": "İNCE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Onama, kabul",
-      "answer": "RIZA",
+      "text": "Demek oluyor ki",
+      "answer": "YANİ",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hatırat, andaç",
-      "answer": "ANI",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Pislik, is",
-      "answer": "KİR",
-      "row": 6,
+      "text": "Kuru karşıtı",
+      "answer": "ISLAK",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -148,39 +134,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 3,
-      "col": 1
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
+      "row": 4,
       "col": 0
     },
     {
       "row": 8,
-      "col": 0
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 6
     }
   ],
   "difficulty": "orta",

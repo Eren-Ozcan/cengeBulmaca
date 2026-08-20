@@ -5,170 +5,135 @@
   "cols": 8,
   "clues": [
     {
-      "text": "İskambilde sinek",
-      "answer": "İSPATİ",
-      "row": 0,
+      "text": "Yatay konum",
+      "answer": "APSİS",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hindistan başkenti",
+      "answer": "DELHİ",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yiğitlik, mertlik",
-      "answer": "ERLİK",
-      "row": 2,
-      "col": 0,
+      "text": "Alaylı anlatım",
+      "answer": "İRONİ",
+      "row": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yumuşak ses",
-      "answer": "LAP",
+      "text": "İş merkezi",
+      "answer": "PLAZA",
       "row": 3,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yakuta benzer taş",
-      "answer": "LAL",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Seslenme, çağırma; ünlem",
-      "answer": "NİDA",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Çatı örtüsü",
-      "answer": "KİREMİT",
-      "row": 4,
-      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Göz-kulak arası",
-      "answer": "ŞAKAK",
+      "text": "Ayrıştırılamayan madde",
+      "answer": "ELEMENT",
       "row": 5,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sert, kırıcı",
-      "answer": "HAŞİN",
-      "row": 7,
-      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Öğüt",
-      "answer": "NASİHAT",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tanıtım levhası",
-      "answer": "TABELA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hasır kap",
-      "answer": "SEPET",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Taşkın su",
-      "answer": "SEL",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Japon dövüş sanatı",
-      "answer": "KARATE",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kullanışlı",
-      "answer": "PRATİK",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bitkinin gövdesi",
-      "answer": "SAP",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Cesur savaşçı",
-      "answer": "ALP",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kadın rahip",
-      "answer": "RAHİBE",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Borazan sesi",
-      "answer": "Tİ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İyileşme dönemi",
-      "answer": "NEKAHET",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hava koşulları",
-      "answer": "İKLİM",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kadın örtüsü",
-      "answer": "ŞAL",
+      "text": "Dikiş aracı",
+      "answer": "İĞNE",
       "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Öğreti",
+      "answer": "DOKTRİN",
+      "row": 6,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eski dilde tuvalet",
+      "answer": "HELA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eski kalem",
+      "answer": "DİVİT",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tamam, olur",
+      "answer": "PEKİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Soğuk algınlığı",
+      "answer": "NEZLE",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyükbaba",
+      "answer": "DEDE",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İçkiye düşkün",
+      "answer": "ALKOLİK",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Telefon kulaklığı",
+      "answer": "AHİZE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dayanıklı, güçlü",
+      "answer": "KAVİ",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Mısır anıtı",
+      "answer": "PİRAMİT",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Geçici",
+      "answer": "EĞRETİ",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Aritmetikte bir kesir",
-      "answer": "ADİ",
+      "text": "Uyutma türküsü",
+      "answer": "NİNNİ",
       "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Paylama, azarlama",
-      "answer": "İTAP",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "78 numaralı element",
-      "answer": "PLATİN",
-      "row": 1,
+      "text": "Eleştiri",
+      "answer": "TENKİT",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -176,6 +141,18 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
@@ -183,28 +160,36 @@
       "col": 7
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 2,
+      "col": 5
     },
     {
-      "row": 4,
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 6,
       "col": 0
     },
     {
       "row": 8,
-      "col": 7
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
-      "col": 7
+      "col": 6
     },
     {
       "row": 10,
-      "col": 5
+      "col": 4
     },
     {
       "row": 10,
-      "col": 7
+      "col": 6
     }
   ],
   "difficulty": "orta",

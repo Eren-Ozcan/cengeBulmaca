@@ -5,142 +5,135 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Çok eski",
-      "answer": "KADİM",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Çabukluk",
-      "answer": "ACELE",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sağgörü",
-      "answer": "BASİRET",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Veda töreni",
-      "answer": "JÜBİLE",
-      "row": 3,
+      "text": "Saç tokası",
+      "answer": "FİRKETE",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Deniz girintisi",
-      "answer": "KOY",
-      "row": 5,
+      "text": "Haz, keyif",
+      "answer": "ZEVK",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gizli tertip",
+      "answer": "KOMPLO",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Takım, kadro",
+      "answer": "EKİP",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Tahta ayakkabı",
+      "answer": "SABO",
+      "row": 4,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Tırnağa sürülen",
-      "answer": "OJE",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Metal kap",
-      "answer": "TAS",
+      "text": "Söz dalaşı",
+      "answer": "POLEMİK",
       "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Bitkin",
-      "answer": "YORGUN",
-      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İçki yiyeceği",
-      "answer": "MEZE",
+      "text": "Erkek kardeş",
+      "answer": "BİRADER",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "'Sen'in yönelme hâli",
+      "answer": "SANA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bel-bacak arası",
+      "answer": "KALÇA",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Eskiden icra etme",
-      "answer": "İKA",
+      "text": "Basılış biçimi",
+      "answer": "BASKI",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Konkav",
-      "answer": "İÇBÜKEY",
-      "row": 0,
+      "text": "Cezaevi, tutukluluk",
+      "answer": "HAPİS",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şaşırma sesi",
-      "answer": "ABO",
-      "row": 2,
+      "text": "Bor tuzu",
+      "answer": "BORAKS",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kazıma süslemesi",
-      "answer": "OYMA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kasa görevlisi",
-      "answer": "KASİYER",
-      "row": 0,
+      "text": "İmkân",
+      "answer": "OLANAK",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İvedi",
-      "answer": "ACİL",
+      "text": "Ezerek yapılan yiyecek",
+      "answer": "EZME",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sonbahar",
-      "answer": "GÜZ",
-      "row": 6,
+      "text": "Nazlı, işveli",
+      "answer": "EDALI",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kokulu yeşillik",
-      "answer": "DEREOTU",
+      "text": "Reaksiyon",
+      "answer": "TEPKİME",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Beraberlik edatı",
-      "answer": "İLE",
+      "text": "Evlenmiş olan",
+      "answer": "EVLİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tekerlek çemberi",
-      "answer": "JANT",
-      "row": 4,
+      "text": "Bilme, anlama, sezgi",
+      "answer": "İRFAN",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Nikâhsız eş",
-      "answer": "METRES",
-      "row": 0,
+      "text": "Kopmuş olan",
+      "answer": "KOPUK",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -148,22 +141,34 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
       "col": 2
     },
     {
-      "row": 1,
-      "col": 0
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 2,
       "col": 0
     },
     {
-      "row": 6,
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 3,
       "col": 0
     },
     {
@@ -172,18 +177,6 @@
     },
     {
       "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
       "col": 5
     },
     {
@@ -192,27 +185,11 @@
     },
     {
       "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
       "col": 7
     },
     {
       "row": 10,
-      "col": 3
-    },
-    {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
       "col": 5
-    },
-    {
-      "row": 10,
-      "col": 6
     },
     {
       "row": 10,

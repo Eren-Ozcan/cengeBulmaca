@@ -5,184 +5,142 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Dinî ezgi",
-      "answer": "İLAHİ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dede, cet",
-      "answer": "ATA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dernek katılımcısı",
-      "answer": "ÜYE",
+      "text": "Kiralık katil",
+      "answer": "TETİKÇİ",
       "row": 1,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tutturmalı küpe",
-      "answer": "KLİPS",
-      "row": 2,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hint kutsal hecesi",
-      "answer": "OM",
-      "row": 3,
-      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Hristiyan mabedi",
-      "answer": "KİLİSE",
+      "text": "Katıksız, temiz",
+      "answer": "SAFİ",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Çoban köpeği",
+      "answer": "KARABAŞ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gelinin yardımcısı",
+      "answer": "NEDİME",
       "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Nefes",
-      "answer": "SOLUK",
-      "row": 5,
+      "text": "Ruhsal kriz",
+      "answer": "HİSTERİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tren platformu",
+      "answer": "PERON",
+      "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "At yavrusu",
-      "answer": "TAY",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yaşlı karşıtı",
-      "answer": "GENÇ",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kesin yargı",
-      "answer": "KARAR",
-      "row": 7,
+      "text": "İşve",
+      "answer": "CİLVE",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zehirli element",
-      "answer": "ARSENİK",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Emir alan kişi",
-      "answer": "AST",
+      "text": "Utanmaz, yüzsüz",
+      "answer": "ARSIZ",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Olmaz ünlemi",
-      "answer": "CIK",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İki ışının kesişimi",
-      "answer": "AÇI",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Spor yapıp sıkılaşmış",
-      "answer": "FİT",
+      "text": "Bağlayan parça",
+      "answer": "KENET",
       "row": 10,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kırmızı kıymetli taş",
-      "answer": "LAL",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük bakır kova",
-      "answer": "BAKRAÇ",
+      "text": "Meşrubat",
+      "answer": "İÇECEK",
       "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Antika, eski",
-      "answer": "ATİK",
+      "text": "Kokulu sıvı",
+      "answer": "ESANS",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yayvan, düz",
-      "answer": "YASSI",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Cezaevi, tutukluluk",
-      "answer": "HAPİS",
+      "text": "Zırhlı kule",
+      "answer": "TARET",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kabul karşıtı",
-      "answer": "RET",
+      "text": "İş düzeni",
+      "answer": "PLAN",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Vurucu söz",
-      "answer": "SLOGAN",
-      "row": 2,
+      "text": "Anlatım, açıklama",
+      "answer": "İFADE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yenilikten yana",
-      "answer": "İLERİCİ",
-      "row": 3,
+      "text": "Aşama, safha",
+      "answer": "EVRE",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gurur",
+      "answer": "KİBİR",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Su bitkisi",
-      "answer": "YOSUN",
-      "row": 1,
+      "text": "Meydan okuma",
+      "answer": "REST",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Seyirci coşturucusu",
+      "answer": "AMİGO",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yetersiz, az",
-      "answer": "KIT",
-      "row": 7,
-      "col": 6,
+      "text": "Besleme, bakma",
+      "answer": "İAŞE",
+      "row": 0,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bedeniyle çalışan",
-      "answer": "EMEKÇİ",
-      "row": 1,
+      "text": "Çekişme, anlaşmazlık, kavga",
+      "answer": "NİZA",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -190,31 +148,47 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
     },
     {
       "row": 0,
-      "col": 5
+      "col": 1
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 0,
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 5,
       "col": 7
     },
     {
-      "row": 4,
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 7,
       "col": 0
     },
     {
       "row": 8,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
     },
     {
       "row": 10,
-      "col": 7
+      "col": 6
     }
   ],
   "difficulty": "orta",

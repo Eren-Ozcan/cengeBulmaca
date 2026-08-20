@@ -5,254 +5,205 @@
   "cols": 9,
   "clues": [
     {
-      "text": "El işi süsleme",
-      "answer": "OYA",
+      "text": "Büyük hayal kırıklığı",
+      "answer": "HÜSRAN",
       "row": 0,
-      "col": 2,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Aman anlamında ünlem",
-      "answer": "ABO",
-      "row": 0,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tek, yalnız",
-      "answer": "BİR",
+      "text": "Kor aracı",
+      "answer": "MAŞA",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Süsleme düzeni",
-      "answer": "DEKOR",
+      "text": "Üstün, kaliteli",
+      "answer": "CİNS",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Buğday, arpa",
-      "answer": "TAHIL",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Cezanın kaldırılması",
-      "answer": "AF",
-      "row": 3,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Devingen",
-      "answer": "DİNAMİK",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zorunlu ibadet",
-      "answer": "FARZ",
-      "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Eski dilde mutlu",
-      "answer": "ŞAD",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Despot",
-      "answer": "ZORBA",
-      "row": 7,
+      "text": "Zarar ihtimali",
+      "answer": "TEHLİKE",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ağıt şiiri",
-      "answer": "MERSİYE",
-      "row": 8,
+      "text": "Yapışkan şerit",
+      "answer": "BANT",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Minik çocuk",
+      "answer": "BEBE",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Uyku giysisi",
+      "answer": "GECELİK",
+      "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çağrı",
-      "answer": "DAVET",
+      "text": "Oy verme",
+      "answer": "SEÇİM",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Endüstri",
+      "answer": "SANAYİ",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Şerbetli yufka tatlısı",
+      "answer": "BAKLAVA",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İlkel benlik",
-      "answer": "İD",
-      "row": 9,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeşillik karışımı",
-      "answer": "SALATA",
+      "text": "Körpe bitki",
+      "answer": "FİDE",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Si'den önceki nota",
-      "answer": "LA",
+      "text": "Küçük orman",
+      "answer": "KORU",
       "row": 10,
-      "col": 6,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski konaklama yapısı",
-      "answer": "HAN",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ulaşmış, kavuşmuş",
-      "answer": "NAİL",
-      "row": 11,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Demek oluyor ki",
-      "answer": "YANİ",
+      "text": "Hücum",
+      "answer": "SALDIRI",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sevinç, keyif",
+      "answer": "NEŞE",
       "row": 11,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Boyun örtüsü",
-      "answer": "ATKI",
+      "text": "Cam kap",
+      "answer": "ŞİŞE",
       "row": 12,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Karşı çıkma",
-      "answer": "İTİRAZ",
-      "row": 1,
+      "text": "Yapılan yanlış",
+      "answer": "HATA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İlave, ek",
-      "answer": "DAHA",
+      "text": "Giysi",
+      "answer": "ELBİSE",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tembel, üşenen",
+      "answer": "ÜŞENGEÇ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ad ortağı",
+      "answer": "ADAŞ",
       "row": 8,
-      "col": 1,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yüzde olarak verilen",
-      "answer": "ORAN",
+      "text": "Taklit, düzme",
+      "answer": "SAHTE",
       "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yer mantarı",
-      "answer": "DOMALAN",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yazı sanatı",
-      "answer": "HAT",
-      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İrmikli şerbetli tatlı",
-      "answer": "REVANİ",
+      "text": "Gemilerin yanaştığı yer",
+      "answer": "İSKELE",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yürüme hareketi",
-      "answer": "ADIM",
-      "row": 0,
+      "text": "Yüz güzelliği",
+      "answer": "CEMAL",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Alınan ders",
-      "answer": "İBRET",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce, uzun boylu",
-      "answer": "ELİF",
-      "row": 1,
+      "text": "Şaşılacak şey",
+      "answer": "ACİBE",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Beyaz renk",
-      "answer": "AK",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Alın altındaki tüy",
-      "answer": "KAŞ",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Satranç taşı",
-      "answer": "AT",
-      "row": 10,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tüylü boyun atkısı",
-      "answer": "BOA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayır",
-      "answer": "İYİLİK",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Lezzetli balık",
-      "answer": "ORFOZ",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Nazlı, işveli",
-      "answer": "EDALI",
+      "text": "İplik işleme",
+      "answer": "NAKIŞ",
       "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Gümüş element",
+      "answer": "NİKEL",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Şampiyon adayı",
+      "answer": "FAVORİ",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Peygamber",
+      "answer": "NEBİ",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Yarışma",
+      "answer": "YARIŞ",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Tohumlu tarla",
+      "answer": "EKİLİ",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     }
@@ -264,31 +215,43 @@
     },
     {
       "row": 0,
-      "col": 1
+      "col": 4
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 4,
       "col": 7
     },
     {
-      "row": 6,
+      "row": 0,
       "col": 8
     },
     {
-      "row": 7,
-      "col": 6
+      "row": 1,
+      "col": 8
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 7
     },
     {
       "row": 8,
       "col": 0
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "kolay",

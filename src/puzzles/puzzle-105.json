@@ -5,191 +5,163 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Bitkin, tükenmiş",
-      "answer": "BİTİK",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kural, ölçüt",
-      "answer": "NORM",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Oyunda sıra",
-      "answer": "EL",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Dolaylı söyleme",
-      "answer": "İMA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Baş aşağı",
-      "answer": "AMUT",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Teşhis",
-      "answer": "TANI",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Törpü",
-      "answer": "EĞE",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Araç gövdesi",
-      "answer": "KAROSER",
-      "row": 5,
+      "text": "Ayrılık sözü",
+      "answer": "ELVEDA",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dinlenme alanı",
-      "answer": "PARK",
-      "row": 7,
-      "col": 0,
+      "text": "Ayakkabı demiri",
+      "answer": "NALÇA",
+      "row": 2,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Pay, hisse",
-      "answer": "HAK",
-      "row": 7,
+      "text": "Ter kabarcığı",
+      "answer": "İSİLİK",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şehvet uyandıran",
+      "answer": "EROTİK",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Allah adıyla sözü",
+      "answer": "BESMELE",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Verilen söz",
+      "answer": "VAAT",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şeker, para",
+      "answer": "SAÇI",
+      "row": 6,
       "col": 5,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Hastalık",
-      "answer": "MARAZ",
+      "text": "Tutsaklık",
+      "answer": "ESARET",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Çoban köpeği",
-      "answer": "KARABAŞ",
+      "text": "Tempolu jimnastik",
+      "answer": "AEROBİK",
       "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Temel donanım",
-      "answer": "ALTYAPI",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaklaşık 28 gram",
-      "answer": "ONS",
-      "row": 0,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Sitemli konuşma",
-      "answer": "İTAP",
-      "row": 3,
+      "text": "Konu dışı",
+      "answer": "AFAKİ",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Doğru, gerçek",
+      "answer": "ESSAH",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yazılı dizi",
+      "answer": "LİSTE",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sıra sayısı",
-      "answer": "NUMARA",
-      "row": 1,
-      "col": 2,
+      "text": "Bağımsız",
+      "answer": "AZADE",
+      "row": 6,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kurutmalık",
-      "answer": "KAK",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Olağan dışı",
-      "answer": "ANORMAL",
-      "row": 3,
+      "text": "Ekvator uzaklığı",
+      "answer": "ENLEM",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Şaşkınlıkla seslenme",
-      "answer": "BRE",
+      "text": "Açık bölüm",
+      "answer": "TERAS",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Konut bölümü",
+      "answer": "DAİRE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Elden çıkarılan",
-      "answer": "ISKARTA",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yazım kuralları",
-      "answer": "İMLA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Vagonun üstünde gittiği",
-      "answer": "RAY",
+      "text": "Geniş hol",
+      "answer": "SOFA",
       "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Alkollü içki",
+      "answer": "ALKOL",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bir selamlaşma sözü",
-      "answer": "MERHABA",
+      "text": "İlk vakit",
+      "answer": "SABAH",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sağlama, bulma",
+      "answer": "TEDARİK",
       "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Osmanlı göstergesi",
-      "answer": "TUĞ",
-      "row": 2,
+      "text": "Savaştan dönen",
+      "answer": "GAZİ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Büyük acı, ıstırap",
-      "answer": "AZAP",
+      "text": "Çivi aleti",
+      "answer": "ÇEKİÇ",
       "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bırakıp gitme",
-      "answer": "TERK",
+      "text": "Bilerek yapma",
+      "answer": "KASIT",
       "row": 3,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Musluktan gelen",
-      "answer": "ŞIP",
-      "row": 8,
       "col": 8,
       "arrow": "down"
     }
@@ -197,23 +169,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
     },
     {
       "row": 0,
@@ -221,47 +181,43 @@
     },
     {
       "row": 1,
-      "col": 1
+      "col": 6
     },
     {
-      "row": 2,
-      "col": 6
+      "row": 1,
+      "col": 8
     },
     {
       "row": 2,
       "col": 8
     },
     {
-      "row": 8,
-      "col": 0
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 6,
+      "col": 4
     },
     {
       "row": 8,
-      "col": 1
+      "col": 0
     },
     {
       "row": 9,
-      "col": 0
+      "col": 8
     },
     {
       "row": 10,
       "col": 0
     },
     {
-      "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 1
-    },
-    {
-      "row": 11,
-      "col": 3
-    },
-    {
-      "row": 11,
-      "col": 5
+      "row": 10,
+      "col": 8
     },
     {
       "row": 11,
@@ -269,7 +225,7 @@
     },
     {
       "row": 11,
-      "col": 7
+      "col": 8
     }
   ],
   "difficulty": "zor",

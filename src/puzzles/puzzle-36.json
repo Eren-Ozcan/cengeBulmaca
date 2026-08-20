@@ -5,184 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Nişastalı bulamaç",
-      "answer": "LAPA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yaşam bölgesi",
-      "answer": "ZON",
+      "text": "Gülünç duruma düşen",
+      "answer": "MASKARA",
       "row": 1,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kibar çevre",
-      "answer": "SOSYETE",
+      "text": "Görgüsüz, kaba",
+      "answer": "HIRT",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Taş oturak",
-      "answer": "SEKİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Köz, ateş",
-      "answer": "KOR",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Düzleme",
-      "answer": "TESVİYE",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Güçlü çalma",
-      "answer": "FORTE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Anahtarlama cihazı",
-      "answer": "RÖLE",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kâr payı",
-      "answer": "FAİZ",
-      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Allah adıyla sözü",
-      "answer": "BESMELE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Nerede, ne oldu",
-      "answer": "HANİ",
-      "row": 8,
+      "text": "Yaz rüzgârı",
+      "answer": "MELTEM",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zilli çalgı",
-      "answer": "TEF",
+      "text": "Eğimli bölüm",
+      "answer": "RAMPA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski ağırlık ölçüsü",
+      "answer": "OKKA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Parlak kâğıt",
+      "answer": "KUŞE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kibarlık",
+      "answer": "NEZAKET",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İsa'nın öğrencisi",
+      "answer": "HAVARİ",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayır",
+      "answer": "İYİLİK",
       "row": 9,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kavisli kılıç",
-      "answer": "PALA",
-      "row": 10,
+      "text": "Yönerge",
+      "answer": "TALİMAT",
+      "row": 9,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Oje çıkarıcı",
-      "answer": "ASETON",
-      "row": 0,
+      "text": "Vaktinden önce",
+      "answer": "ERKEN",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde konu",
-      "answer": "BAP",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kağıtlı kumar",
-      "answer": "POKER",
+      "text": "Davranış kuralları",
+      "answer": "AHLAK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kötü",
-      "answer": "FENA",
+      "text": "Yetkin, uzman",
+      "answer": "EHİL",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gol pası",
-      "answer": "ASİST",
+      "text": "Sivrisinek hastalığı",
+      "answer": "SITMA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Soylu, yüce",
-      "answer": "ASİL",
+      "text": "Kaybolma",
+      "answer": "ZAYİ",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Randıman",
-      "answer": "VERİM",
-      "row": 3,
+      "text": "Yumurtalı tatlı",
+      "answer": "KREP",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çabuk anlayan",
-      "answer": "ZEKİ",
+      "text": "Etnik topluluk",
+      "answer": "KAVİM",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Fırlatma",
+      "answer": "ATMA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ana hatlar",
-      "answer": "ÖZET",
+      "text": "Bilgiçlik taslayan",
+      "answer": "UKALA",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hızlı yol",
-      "answer": "OTOYOL",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Romanya parası",
-      "answer": "LEY",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Hangi yer",
-      "answer": "NERE",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Pişmanlık, üzüntü",
-      "answer": "ESEF",
+      "text": "Dar kumaş",
+      "answer": "ŞERİT",
       "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Güzellik bilimi",
+      "answer": "ESTETİK",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -190,19 +155,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
     },
     {
       "row": 6,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 8,
       "col": 0
-    },
-    {
-      "row": 10,
-      "col": 5
     },
     {
       "row": 10,

@@ -5,256 +5,196 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Elektrik dönüştürücü",
-      "answer": "TRAFO",
-      "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yalnızca sözü",
-      "answer": "ANCAK",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlıcada çeşit",
-      "answer": "NEV",
-      "row": 2,
+      "text": "Eti çok",
+      "answer": "ETLİ",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ortak emek",
-      "answer": "İMECE",
+      "text": "Sinir sistemi",
+      "answer": "ASAP",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek dadı",
+      "answer": "LALA",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Arkasından gitme",
+      "answer": "TAKİP",
       "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yumuşak kumaş",
-      "answer": "FLANEL",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bal rengi göz",
-      "answer": "ELA",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Boşluk, aralık",
-      "answer": "ARA",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Düzenlilik",
-      "answer": "İNTİZAM",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Tuzsuz peynir",
-      "answer": "LOR",
-      "row": 6,
+      "text": "Beden etkinliği",
+      "answer": "SPOR",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hükümdar eşi",
-      "answer": "ECE",
+      "text": "Yatak altı",
+      "answer": "BAZA",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Omuzdaki rütbe",
+      "answer": "APOLET",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kara ekmek tahılı",
+      "answer": "ÇAVDAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Lütuf",
+      "answer": "KAYRA",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "17-18. yüzyıl üslubu",
+      "answer": "BAROK",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Nefis",
+      "answer": "ENFES",
+      "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Üzüm bitkisi",
-      "answer": "ASMA",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Buluş belgesi",
-      "answer": "PATENT",
+      "text": "Bisiklet koltuğu",
+      "answer": "SELE",
       "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Amazon yılanı",
-      "answer": "BOA",
-      "row": 9,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sık ağ",
-      "answer": "TOR",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Silah tutamağı",
-      "answer": "KABZA",
-      "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sıcak ev aleti",
-      "answer": "ÜTÜ",
+      "text": "İdeal",
+      "answer": "ÜLKÜ",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yetim koruyucusu",
+      "answer": "VASİ",
       "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Preparat camı",
-      "answer": "LAM",
-      "row": 12,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Girişken, çevik",
-      "answer": "ATAK",
-      "row": 12,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Hayvan ölüsü",
-      "answer": "LEŞ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down"
+      "text": "Alkolden türeyen",
+      "answer": "ALDEHİT",
+      "row": 12,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Bebeği doğurtan",
-      "answer": "EBE",
-      "row": 2,
+      "text": "Numara levhası",
+      "answer": "PLAKA",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Arı ürünü",
-      "answer": "BAL",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Para birimimiz",
-      "answer": "LİRA",
-      "row": 4,
+      "text": "Yuvarlak kap",
+      "answer": "VARİL",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çadır topluluğu",
-      "answer": "OBA",
-      "row": 9,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Havalandırma pervanesi",
-      "answer": "FAN",
+      "text": "Sesli yayın",
+      "answer": "RADYO",
       "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kramp",
-      "answer": "SPAZM",
+      "text": "Tahta zemin",
+      "answer": "PARKE",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Devrilme",
+      "answer": "ALABORA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Öz, çekirdek",
+      "answer": "NÜVE",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüz kılları",
+      "answer": "SAKAL",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Onma",
+      "answer": "İFLAH",
       "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İşi yapan",
-      "answer": "FAİL",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Asıl konu",
-      "answer": "TEMA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İyileşme, şifa",
-      "answer": "ONMA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeni yaratım",
-      "answer": "İCAT",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Gömülecek ölü",
-      "answer": "CENAZE",
-      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İnceleme, araştırma",
-      "answer": "ETÜT",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Serüven",
-      "answer": "MACERA",
+      "text": "Tropikal rüzgâr",
+      "answer": "ALİZE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ses işareti",
-      "answer": "NOTA",
+      "text": "Çıkarma işareti",
+      "answer": "EKSİ",
       "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Söz",
-      "answer": "KELAM",
-      "row": 1,
+      "text": "Beyaz kır çiçeği",
+      "answer": "PAPATYA",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Teknik hile",
-      "answer": "TRÜK",
+      "text": "Aynı tondaki eser",
+      "answer": "SÜİT",
       "row": 8,
       "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 0
-    },
     {
       "row": 0,
       "col": 1
@@ -269,31 +209,63 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 4
     },
     {
-      "row": 0,
-      "col": 8
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
     },
     {
       "row": 2,
       "col": 2
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 2,
+      "col": 3
+    },
+    {
+      "row": 3,
+      "col": 2
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 7
     },
     {
       "row": 7,
       "col": 7
     },
     {
-      "row": 7,
-      "col": 8
+      "row": 9,
+      "col": 1
     },
     {
-      "row": 10,
-      "col": 4
+      "row": 11,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 1
+    },
+    {
+      "row": 11,
+      "col": 2
+    },
+    {
+      "row": 11,
+      "col": 3
+    },
+    {
+      "row": 12,
+      "col": 0
     }
   ],
   "difficulty": "zor",
