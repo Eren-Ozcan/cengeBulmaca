@@ -106,20 +106,35 @@ Yeniden üretim sonrası ölçüm (300 bulmaca, 8100 soru): 5021 farklı ipucu m
 (önce 4304). Uzunluğa göre en çok tekrar: len2 4, len3 7, len4 8, len5 7,
 len6 7, len7 7.
 
-## 2026-08-20 — 4 harfli katmanda sık kullanılanlar
+## 2026-08-20 — sıfır tekrar kuralı ve 83 bulmacalık set
 
-4 harfli katman 1065 kelime, hepsi tek/iki ipuçluydu. Tümünü elden geçirmek
-yerine önce üretime en çok giren kelimeler seçildi: 300 bulmacada 3 veya daha
-çok kez kullanılan 209 kelime. Bunlara 4'er ipucu yazıldı.
+Kural değişti: artık aynı **cevap** tüm sette yalnızca bir kez çıkabiliyor, yani
+aynı soru iki bulmacada görünmüyor. Bunun sonuçları:
 
-Yeniden üretim sonrası ölçüm (300 bulmaca, 8087 soru): 5419 farklı ipucu metni
-(3 harfli katman sonrası 5021, başlangıçta 4304). Uzunluğa göre en çok tekrar:
-len2 4, len3 7, len4 5, len5 7, len6 7, len7 8.
+- `tools/generate.mjs` strict modu (`createTracker({ strict: true })`,
+  `node tools/regenerate-all.mjs --strict`): kullanılmış cevap doldurucuya bir
+  daha aday verilmiyor, maske takipçide tutulduğu için doldurma başına maliyeti
+  yok.
+- `MIN_WORD_LEN` 4 oldu — 2 ve 3 harfli cevaplar kalktı. Türkçede ~400 kullanışlı
+  3 harfli kelimeye karşılık ~1700 slot gerekiyordu, benzersizlik matematiksel
+  olarak imkânsızdı. `thinThreeRuns` kalan en kısa blokların yarısını da
+  uzatarak talebi 5-7 harfli katmanlara kaydırıyor.
+- 4 harfli katman elden geçti: 1065 kelimenin tamamı 4 ipuçlu yapıldı, sonra
+  116 yeni kelime eklendi (şu an 1181). Benzersiz cevap rejiminde kelime başına
+  tek ipucu yettiği için fazladan ipuçları yalnızca çeşitlilik sağlıyor.
+- 3 harfli katmandan 40 zorlama kelime (İKA, İTA, ATU, CIS...) tamamen silindi.
 
-**Kaldığımız yer:** 4 harfli katmanda 856 kelime hâlâ 1-2 ipuçlu; bunlar üretime
-seyrek girdiği için önceliği düşük. Şimdi en yüksek tekrar 7 harflilerde (8).
-Sıradaki iş, aynı "en çok kullanılanı seç" yöntemini 5, 6 ve 7 harfli katmanlara
-uygulamak. Sık kullanılanları bulmak için `src/puzzles/puzzle-*.json` içindeki
-cevapları uzunluğa göre sayan tek satırlık node betiği yeter. Her partiden sonra
-`node tools/check-dictionary.mjs`, ardından `node tools/regenerate-all.mjs`,
-`npm run puzzles:manifest` ve `npx vitest run`.
+Kapasite: bulmaca başına ~7,5 dört-harfli cevap tükeniyor, yani üretilebilecek
+bulmaca sayısı ≈ (4 harfli kelime sayısı) / 7,5. Bulmaca sayısı 300'den önce
+150'ye indirildi, strict koşu 83 bulmacada elle durduruldu (havuz daraldıkça
+bulmaca başına süre dakikalara çıkıyor).
+
+**Şu anki set:** 83 bulmaca, 1684 soru, 1684 farklı cevap, 1684 farklı ipucu —
+`node tools/check-puzzles.mjs` ile doğrulanıyor, tekrar sayısı sıfır.
+
+**Kaldığımız yer:** bulmaca sayısını artırmanın tek yolu sözlüğe gerçekten
+bilinen 4 harfli kelime eklemek (her ~7,5 kelime = 1 bulmaca). Ekledikçe
+`node tools/regenerate-all.mjs --strict` yeniden çalıştırılmalı; koşu uzun
+sürüyor, arka planda bırakmak gerekiyor. Her partiden sonra
+`node tools/check-dictionary.mjs`, üretim sonrası `node tools/check-puzzles.mjs`,
+ardından `npm run puzzles:manifest` ve `npx vitest run`.
