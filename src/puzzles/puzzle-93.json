@@ -5,135 +5,142 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Öykü",
-      "answer": "HİKÂYE",
+      "text": "Kalın değnek",
+      "answer": "SOPA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İlham",
-      "answer": "ESİN",
+      "text": "Bilardo sopası",
+      "answer": "İSTEKA",
       "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dişi at",
+      "answer": "KISRAK",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Mesul",
+      "answer": "SORUMLU",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce yağ",
+      "answer": "NEFT",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yöntem, tabiye",
-      "answer": "TAKTİK",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Aksine",
-      "answer": "TERSİNE",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gökyüzü",
-      "answer": "SEMA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yağmur aracı",
-      "answer": "ŞEMSİYE",
+      "text": "Gece uçan memeli",
+      "answer": "YARASA",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Beyaz koza",
-      "answer": "PAMUK",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
+      "text": "Kapladığı boşluk",
+      "answer": "HACİM",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Hedefi vurma",
-      "answer": "İSABET",
+      "text": "Elde etme",
+      "answer": "TEMİN",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kısa anlatım",
-      "answer": "İCAZ",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
+      "text": "Kolsuz üst giysi",
+      "answer": "JİLE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Baston, sopa",
-      "answer": "KÖTEK",
+      "text": "Koyun başı",
+      "answer": "KELLE",
       "row": 10,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ocağa kömür atan",
-      "answer": "ATEŞÇİ",
-      "row": 2,
+      "text": "Kalça siniri",
+      "answer": "SİYATİK",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Takılarak konuşan",
-      "answer": "KEKEME",
+      "text": "Kenar süsü dikişi",
+      "answer": "PİKO",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Takas",
-      "answer": "TRAMPA",
-      "row": 2,
+      "text": "Çabukluk",
+      "answer": "ACELE",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüzyıl",
+      "answer": "ASIR",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Umutsuz karamsarlık",
-      "answer": "YEİS",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Değişmez, durağan",
-      "answer": "SABİT",
+      "text": "Kirpik boyası",
+      "answer": "RİMEL",
       "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dev dalga",
+      "answer": "TSUNAMİ",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yeni karşıtı",
-      "answer": "ESKİ",
+      "text": "Yardım şenliği",
+      "answer": "KERMES",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ortak emek",
-      "answer": "İMECE",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağız-gırtlak arası",
-      "answer": "YUTAK",
-      "row": 5,
+      "text": "Çırak-usta arası",
+      "answer": "KALFA",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Üçgen başlı yılan",
-      "answer": "ENGEREK",
+      "text": "Kırmızı değerli taş",
+      "answer": "YAKUT",
       "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Aşçı ilimiz",
+      "answer": "BOLU",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -145,47 +152,51 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 2,
+      "col": 0
     },
     {
       "row": 3,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 7,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 7
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 4
     },
     {
       "row": 9,
-      "col": 1
+      "col": 5
     },
     {
       "row": 9,
-      "col": 2
+      "col": 6
     },
     {
       "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 7
+      "col": 6
     }
   ],
   "difficulty": "zor",
