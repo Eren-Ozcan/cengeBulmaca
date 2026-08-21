@@ -211,3 +211,25 @@ Elenen 22 kelime — bir daha değerlendirilmesin diye:
 Sıradaki parti worklist'in 101. satırından başlar. Sözlük her partide
 büyüdüğü için bir sonraki turdan önce `regenerate-all.mjs --strict` koşmaya
 gerek yok — birkaç parti biriktikten sonra tek seferde koşmak daha verimli.
+
+### Tur 10, parça 2 — worklist'in 101-200. satırları (2026-08-21)
+
+65 kelime eklendi, 4 harfli katman 1259 → 1324 (tavan 161 → 169).
+`check-dictionary.mjs` temiz. Beş ipucu çakışması yeniden yazıldı:
+ÜLEŞ/HAK, FONT/PİK, ULAK/PEYK, TIPA/TAPA, AMİL/FAKTÖR.
+
+Bu partide sıklık 3'ten 1'e düşüyor, yani kanıt zayıflıyor ve eleme oranı
+belirgin şekilde artıyor — ilk 100'de 22 elenmişti, burada 35.
+
+Elenen 35 kelime:
+
+- Fazla dar teknik/bölgesel: FUTA, KOSA, MARN, SAGU, BRİK, GALİ, GETR, HASA,
+  ÖNEL, ACUR, ÇAÇA, EKRU, KOFA, RODA, ROZA, SİLİ, ŞASE
+- Genel dilde tanınmayacak kadar seyrek: ASAN, ÇIKI, DİYA, EBET, İMİK, ÜREM,
+  ÜRKÜ, BÖKE, TROK, ARAZ
+- Yaygın biçimi başka yazılıyor: MASK (maske), HAMT (hamd)
+- Gramer kalıbı/zamir: ÜZRE, NESİ
+- Kumar terimi: MİZA, VİDO, TAPİ
+- Dinî hassas içerik: GAZA
+
+Sıradaki parti 201. satırdan başlar.
