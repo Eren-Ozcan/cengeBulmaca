@@ -28,3 +28,6 @@ docs/store-assets-originals/
 
 # Local knowledge-graph output (graphify skill)
 graphify-out/
+
+# TDK kaynak dosyası (109 MB) — README'deki gh api komutuyla indirilir
+tools/dict-sources/gts.json
