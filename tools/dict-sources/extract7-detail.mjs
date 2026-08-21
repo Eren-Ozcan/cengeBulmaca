@@ -5,7 +5,9 @@ const base = new URL('.', import.meta.url);
 
 const t = fs.readFileSync('C:/Projects/cengeBulmaca/tools/dictionary.mjs', 'utf8');
 const existing = new Set();
-const re = /a:\s*"([A-ZÇĞİIÖŞÜ]+)"/g;
+// Cevaplarda düzeltme işaretli harfler de geçiyor (Â/Î/Û: DÜKKÂN, MAHKÛM, HAKÎ),
+// bu yüzden harf sınıfı yerine tırnak arası her şeyi al.
+const re = /a:\s*"([^"]+)"/g;
 let m;
 while ((m = re.exec(t))) { if (Array.from(m[1]).length === 7) existing.add(m[1]); }
 
