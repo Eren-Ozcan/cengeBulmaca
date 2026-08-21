@@ -138,3 +138,55 @@ bilinen 4 harfli kelime eklemek (her ~7,5 kelime = 1 bulmaca). Ekledikçe
 sürüyor, arka planda bırakmak gerekiyor. Her partiden sonra
 `node tools/check-dictionary.mjs`, üretim sonrası `node tools/check-puzzles.mjs`,
 ardından `npm run puzzles:manifest` ve `npx vitest run`.
+
+## 4letter-tdk-candidates.tsv — 2026-08-21 çıkarıldı, inceleme bekliyor
+
+`extract4-detail.mjs` ile çıkarıldı. 5/6/7 harfli geçişlerden iki farkı var:
+
+- Özel isimler atılmıyor, ayrı `4letter-tdk-proper.tsv` dosyasına yazılıyor (70
+  madde). Çengel bulmacada il/ilçe adları da cevap oluyor, kendi başına
+  değerlendirilecek bir havuz.
+- `bak!` gibi ünlem maddeleri eleniyor.
+
+Çıktı: 938 yeni aday (sözlükte 1181 dört harfli cevap varken). Aynı ön filtre
+(`esk.` / `ağz.` / `argo` / `tkz.` / `hlk.` + "…mak işi/durumu") 333 tanesini
+eliyor, geriye 607 kalıyor.
+
+**Not:** 6 ve 7 harfli çıkarma scriptlerindeki `existing` regex'i
+`[A-ZÇĞİIÖŞÜ]+` idi ve düzeltme işaretli harfleri kaçırıyordu (DÜKKÂN, MAHKÛM,
+HAKÎ dahil 21 cevap sözlükte görünmüyordu). Üçünde de `[^"]+` ile düzeltildi.
+
+## 4letter-review-worklist.tsv — elden inceleme sırası
+
+607 ön-filtreli adayın, gerçek çengel bulmacalarda ne sıklıkta cevap olduğuna
+göre sıralanmış hâli. Format: `KELİME\tsıklık\tözellik\tTDK-tanımı`.
+
+Sıklık verisi Hürriyet'in günlük çengel bulmaca arşivinden geliyor. Arşiv dört
+dizine yayılmış, tarih sayfası üzerinden değil doğrudan numarayla taranıyor:
+
+```
+s.hurriyet.com.tr/dinamik/bulmaca/bulmaca1509202/cengel/Çengel (1..303).html
+s.hurriyet.com.tr/dinamik/bulmaca/cengel06052020/cengel-(11..20).html
+s.hurriyet.com.tr/dinamik/bulmaca/cengel12052020/cengel-(021..200).html
+s.hurriyet.com.tr/dinamik/bulmaca/cengel/(1..100).html
+```
+
+Her sayfada `_PUZZLE_DATA` adlı base64 değişken var; çözülünce
+`{size, puzzleData:[{clue:{text,x,y}, answer:{text,x,y}, direction}]}` çıkıyor.
+593 benzersiz bulmaca, 22.361 soru, 5409 farklı cevap toplandı (2026-08-21).
+
+Tarih sayfaları (`/bulmaca/gunluk-cengel-bulmaca-<gün>-agustos-2026/`) bu
+dosyalara yönlendiriyor ama haftalık döngüyle tekrar ediyor — ağustosun 40
+sayfası yalnızca 20 farklı bulmaca veriyordu, o yüzden doğrudan arşiv taranıyor.
+
+Sıklığın anlamı: 607 adayın 203'ü gerçek bulmacalarda cevap olarak geçmiş, yani
+"gerçekten kullanılan kelime" olduğu kanıtlı — inceleme bunlardan başlamalı.
+Kalan 404'ü hiç geçmemiş, daha dikkatli değerlendirilmeli.
+
+Sıklık listesindeki kelimelerin 206'sı TDK'da hiç yok (ABAR, İARE, EKAL, UKBA
+gibi klasik "bulmaca jargonu" ve EİRE/AARE/LENA gibi coğrafya adları). Bunlar
+bilerek alınmadı — proje kuralı yaygın ve bilinen kelime; 3 harfli katmandan da
+aynı gerekçeyle 40 zorlama kelime silinmişti.
+
+**Hürriyet'in ipucu metinleri kopyalanmaz.** Sıklık verisi kelime seçimi için
+bir sinyal; ipuçları her zaman kendimiz yazılır.
