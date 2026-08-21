@@ -7089,4 +7089,22 @@ export const WORDS = [
   { a: "VOLİ", c: ["Ağ atma"] },
   { a: "ZATİ", c: ["Zaten"] },
   { a: "ZEDE", c: ["Ezik, bere"] },
+  // ---- 4 harf: ön filtreden dönenler (tur 11) ----
+  // TDK'da esk./ağz./argo etiketli oldukları için ilk turda hiç incelenmemişti;
+  // üç arşivde de sık geçtikleri için elden geçirildi. Yalnızca bugün hâlâ
+  // gerçekten kullanılanlar alındı.
+  { a: "AKİL", c: ["Akıllı, bilge"] },
+  { a: "AKİM", c: ["Sonuçsuz kalan"] },
+  { a: "ASRİ", c: ["Çağdaş, modern"] },
+  { a: "BEİS", c: ["Sakınca, zarar"] },
+  { a: "CAKA", c: ["Gösteriş, fiyaka"] },
+  { a: "ELİM", c: ["Acıklı, üzücü"] },
+  { a: "FEZA", c: ["Uzay"] },
+  { a: "İZAN", c: ["Anlayış, sağduyu"] },
+  { a: "LİME", c: ["Parça, dilim"] },
+  { a: "LİNK", c: ["İnternette bağlantı"] },
+  { a: "NAAŞ", c: ["Cenaze, ölü beden"] },
+  { a: "NAME", c: ["Mektup"] },
+  { a: "ŞARK", c: ["Doğu"] },
+  { a: "TALİ", c: ["İkincil, ikinci derece"] },
 ];

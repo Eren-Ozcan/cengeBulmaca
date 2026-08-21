@@ -314,3 +314,65 @@ incelenmemiş aday kalmadı. Kapasiteyi daha ileri götürmek için
 `node tools/regenerate-all.mjs --strict` koşup pratikte kaç bulmaca çıktığını
 ölçmek gerekiyor; tavan 151'den 187'ye çıktığı için 83 bulmacanın belirgin
 şekilde üstüne çıkması bekleniyor.
+
+## Tur 11 — kaynakların tüketilmesi (2026-08-21)
+
+### Hürriyet kapsam doğrulaması
+
+2025 ve 2026'nın on iki ayından beşer gün × iki varyant = 240 günlük sayfa
+tarandı; bulmaca içeren 151 sayfanın tamamı zaten çekilmiş dört çengel dizinine
+işaret ediyor. Hürriyet'in çengel arşivi 593 bulmacayla tamamlanmış durumda.
+
+### Kare bulmaca arşivi (yeni kaynak, düşük verim)
+
+```
+s.hurriyet.com.tr/dinamik/bulmaca/kare12052020/kare-(021..200).html
+s.hurriyet.com.tr/dinamik/bulmaca/kare06052020/kare-(11..20).html
+```
+
+Aynı `_PUZZLE_DATA` yapısı, tek farkı `puzzleData` içindeki `answer`/`clue`
+alanlarının nesne değil düz metin olması. 190 benzersiz bulmaca, 5723 soru.
+4 harfli 311 "yeni" cevap çıktı ama TDK destekli olanların tamamı zaten
+938'lik listedeydi; geri kalanı kısaltma ve jargon (TCDD, İETT, UEFA, AAMU).
+
+### posta.com.tr arşivi (yeni kaynak, düşük verim)
+
+```
+www.posta.com.tr/bulmaca-coz/cengel/<gg>-<ay>-<yyyy>-cengel-bulmaca
+```
+
+Veri sayfaya gömülü Crossword Compiler XML'i; `<word id x y solution="...">`
+etiketleri cevapları doğrudan veriyor. 2023-2026 arası 1329 tarih denendi,
+710 benzersiz bulmaca, 29.171 cevap toplandı. 4 harfli 313 yeni cevabın 190'ı
+TDK listesinde (yani ya incelenmiş ya ön filtrede), 123'ü TDK'da hiç yok —
+bunlar da özel ad, kısaltma ve para birimi: LENA, UTAH, NASA, CORK, GANA,
+EURO, KYAT, TCDD, FIFA.
+
+### 4letter-round2-worklist.tsv
+
+Üç arşiv birleştirildi: 1493 bulmaca, 1736 farklı 4 harfli cevap. Sözlükte
+olmayan 713 cevabın dağılımı:
+
+- 161 — TDK'da var, ön filtre elemiş, hiç incelenmemiş → bu worklist
+- 111 — birinci turda incelenip reddedilmiş
+- 441 — TDK'da hiç yok (jargon, özel ad, kısaltma)
+
+161'i elden geçirildi: **14 kabul, 147 eleme.** Kabul edilenler bugün hâlâ
+gerçekten kullanılan `esk.` kelimeler: AKİL, AKİM, ASRİ, BEİS, CAKA, ELİM,
+FEZA, İZAN, LİME, LİNK, NAAŞ, NAME, ŞARK, TALİ. (LİNK'in TDK'daki anlamı atın
+yürüyüşü; kelimenin bugünkü bilinen anlamı yazıldı.)
+
+Geri kalanı ya bulmaca jargonu (İARE, İHAM, İSAL, LAİN, KAİL) ya ağız (BALA,
+APAZ, EMMİ, KEME) ya da fiil adı (ALMA, YEME, UMMA).
+
+4 harfli katman 1466 → 1480, tavan 187 → 189.
+
+### Sonuç: kelime kaynağı tükendi
+
+TDK'nın 4 harfli havuzunda (938 aday) incelenmemiş kelime kalmadı. Üç ayrı
+bulmaca arşivinde (1493 bulmaca, 57 bin soru) geçen ve sözlükte olmayan her
+4 harfli cevap ya incelendi ya da TDK'da bulunmadığı için elendi.
+
+Bundan sonrası artan getiri vermiyor: ikinci tur 161 adaydan yalnızca 14
+kelime ve tavana 2 bulmaca ekledi. Kapasiteyi büyütmenin kalan yolu kelime
+aramak değil, üretim tarafı.
