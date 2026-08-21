@@ -16,6 +16,11 @@ const puzzleDir = join(dirname(fileURLToPath(import.meta.url)), "..", "src", "pu
 const args = process.argv.slice(2);
 const apply = args.includes("--apply");
 const baseSeed = Number(args.find((a) => !a.startsWith("--")) ?? 20260821);
+const num = (name, dflt) => Number(args.find((a) => a.startsWith(`--${name}=`))?.split("=")[1] ?? dflt);
+// Havuz daraldıkça doldurma zorlaşıyor; kaç tohum denendiği sonucu doğrudan
+// etkiliyor, bu yüzden dışarıdan ayarlanabilir.
+const TRIES = num("tries", 8);
+const GIVE_UP = num("giveup", 12);
 
 const files = readdirSync(puzzleDir)
   .filter((f) => /^puzzle-\d+\.json$/.test(f))
@@ -36,7 +41,7 @@ for (const { file, n } of files) {
   difficulties.push(old.difficulty);
 
   let p = null;
-  for (let t = 0; t < 8 && !p; t++) {
+  for (let t = 0; t < TRIES && !p; t++) {
     const r = buildPuzzle({
       id: old.id, title: old.title, rows: old.rows, cols: old.cols,
       difficulty: old.difficulty, order: old.order,
@@ -55,8 +60,7 @@ for (const { file, n } of files) {
 console.log(`\nmevcut set yeniden uretildi: ${built} bulmaca, ${clues} soru, ${failed} basarisiz`);
 console.log(`havuz tuketilene kadar yeni bulmaca deneniyor...\n`);
 
-// Arka arkaya bu kadar deneme boşa giderse havuz bitmiş sayılır.
-const GIVE_UP = 12;
+// Arka arkaya GIVE_UP deneme boşa giderse havuz bitmiş sayılır.
 let miss = 0, added = 0, n = maxN, order = maxOrder;
 
 while (miss < GIVE_UP) {
@@ -65,7 +69,7 @@ while (miss < GIVE_UP) {
   const difficulty = difficulties[added % difficulties.length];
   const id = `puzzle-${n}`;
   let p = null;
-  for (let t = 0; t < 8 && !p; t++) {
+  for (let t = 0; t < TRIES && !p; t++) {
     const r = buildPuzzle({
       id, title: `Bulmaca ${n}`, rows: shape.rows, cols: shape.cols,
       difficulty, order, seed: baseSeed + n * 1013 + t * 104729, tracker,
@@ -83,4 +87,11 @@ while (miss < GIVE_UP) {
 
 console.log(`\nSONUC: ${built + added} bulmaca (${built} mevcut + ${added} yeni), ${clues} soru`);
 console.log(`farkli ipucu metni: ${tracker.text.size}`);
+const { WORDS } = await import("./dictionary.mjs");
+const havuz = {}, kullanilan = {};
+for (const w of WORDS) { const l = [...w.a].length; havuz[l] = (havuz[l] ?? 0) + 1; }
+for (const a of tracker.answer?.keys() ?? []) { const l = [...a].length; kullanilan[l] = (kullanilan[l] ?? 0) + 1; }
+console.log("");
+console.log("katman tuketimi:");
+for (const l of Object.keys(havuz).sort()) console.log(`  ${l} harf: ${kullanilan[l] ?? 0}/${havuz[l]}  %${Math.round(100 * (kullanilan[l] ?? 0) / havuz[l])}`);
 console.log(apply ? "dosyalar yazildi" : "kuru kosu - dosya yazilmadi");
