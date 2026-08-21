@@ -376,3 +376,89 @@ bulmaca arşivinde (1493 bulmaca, 57 bin soru) geçen ve sözlükte olmayan her
 Bundan sonrası artan getiri vermiyor: ikinci tur 161 adaydan yalnızca 14
 kelime ve tavana 2 bulmaca ekledi. Kapasiteyi büyütmenin kalan yolu kelime
 aramak değil, üretim tarafı.
+
+## Tur 12 — özel adlar, kısaltmalar, para birimleri (2026-08-21)
+
+Klasik çengel bulmacanın standart malzemesi; TDK'da sözcük maddesi olmadıkları
+için ilk turlarda havuz dışında kalmışlardı. Üç arşivde de geçtikleri
+doğrulanarak 67 kelime eklendi, 4 harfli katman 1480 → 1547 (tavan 189 → 198).
+
+- Türkiye'den 25 ilçe/yer adı (FOÇA, ŞİLE, URLA, SOMA, HOPA…). Çoğu daha önce
+  hiç açılmamış `4letter-tdk-proper.tsv` dosyasından geldi; oyunun Türkiye
+  haritası temasıyla da örtüşüyorlar.
+- Dünyadan 15 yer adı, 12 halk/mitoloji adı, 7 kısaltma, 8 para birimi.
+
+Alınmayanlar: kişi adları, çok küçük ilçeler (İLİÇ, KİĞİ, GÜCE, AĞIN), iç
+politika ve din hassasiyeti taşıyanlar (NAZİ, KÂBE, OĞAN, HÜDA).
+
+## Kapasite ölçümü (2026-08-21/22)
+
+`tools/grow-puzzles.mjs` ile ölçüldü. Sonuç, projenin kapasite modelini
+değiştiriyor:
+
+- Varsayılan arama gayretiyle (`--tries=8 --giveup=12`) koşu **88 bulmacada**
+  duruyor ve sözlüğün yarısından fazlası kullanılmamış oluyor.
+- `--tries=40 --giveup=40` ile aynı sözlük **125+ bulmaca** veriyor.
+
+Yani darboğaz kelime sayısı değil, doldurma aramasının erken pes etmesiydi.
+366 kelime eklemek 83 → 88 getirmişti (5 bulmaca); iki parametreyi büyütmek
+42 bulmaca getirdi. Strict mod kullanılan kelimeyi havuzdan tamamen çıkardığı
+için yaygın harf desenleri erken tükeniyor ve doldurma, sözlükte binlerce
+kelime dururken tıkanıyor.
+
+Yayındaki set şu an **125 bulmaca, 2575 soru**, sıfır tekrar korunuyor.
+Katman tüketimi:
+
+```
+4 harf: 1018/1547  %66   (8.14/bulmaca)
+5 harf:  712/2308  %31   (5.70/bulmaca)
+6 harf:  471/1456  %32   (3.77/bulmaca)
+7 harf:  374/1272  %29   (2.99/bulmaca)
+```
+
+**Dikkat — kısmi koşu tuzağı:** `--apply` koşusu yarıda kesilirse ya da bir
+bulmaca üretilemezse o dosya *eski içeriğiyle* kalır ve eski takipçiyle
+kurulduğu için yeni setle çakışır. Bu bir kez yaşandı: puzzle-67 üretilemedi,
+16 cevap/ipucu tekrarı doğdu. Çözümü, o bulmacayı diğerlerinin tamamıyla
+doldurulmuş bir takipçiye karşı tek başına yeniden üretmek. Her `--apply`
+koşusundan sonra mutlaka `node tools/check-puzzles.mjs` çalıştırın.
+
+## Sözlük stoğunun gerçek durumu
+
+TDK Güncel Türkçe Sözlük v12'de 4 harfli 2163 madde var; 34'ü boşluk/tire
+içeriyor, 105'i özel isim, geriye **2071 temiz tek kelime** kalıyor.
+
+Sözlüğümüzdeki 1547 dört harfli cevabın 1472'si TDK'da, 75'i bizim eklerimiz
+(kısaltma, para birimi, TDK'nın madde başı farklı olanlar).
+
+**TDK'da olup sözlükte olmayan 633 kelime var** — bunlar incelenmemiş değil,
+kalite ölçütüne takılıp *reddedilmiş* kelimeler. Tam listesi tag ve arşiv
+sıklığıyla `4letter-remaining-rejected.tsv` içinde: 170'i `esk.`, 82'si `ağz.`,
+7'si `argo`, 370'i etiketsiz (çoğu dar teknik madde veya fiil adı). 252'si üç
+arşivde gerçekten cevap olarak geçmiş.
+
+Kapasite karşılığı:
+
+- şu anki 1547 kelime → tavan 190 bulmaca
+- 633'ün tamamı alınırsa 2180 → tavan 267
+- 300 bulmaca için 2442 gerekiyor; TDK'nın tamamı alınsa bile yetmiyor
+
+## Kaldığımız yer (2026-08-22)
+
+Kullanıcının kararını beklediğimiz açık soru: 4 harfli kalite çıtası nerede
+duracak?
+
+1. **Çıta aynı** — tavan 190, şu an 125, 65 bulmaca kovalanacak
+2. **Orta çıta** — hassas içerik ve fiil adları dışarıda; arkaik ama arşivlerde
+   gerçekten geçen kelimeler alınır (`4letter-remaining-rejected.tsv` içinde
+   sıklığı > 0 olan 252 satır bu grubun adayı)
+3. **Çıta düşük** — 633'ün tamamı, tavan 267
+
+Karar ne olursa olsun sıradaki teknik adım aynı: `node tools/grow-puzzles.mjs
+--tries=40 --giveup=40 --apply` koşusunu parça parça sürdürmek (harness uzun
+koşuları sonlandırıyor), her turdan sonra `check-puzzles.mjs` →
+`npm run puzzles:manifest` → `npx vitest run` ve commit.
+
+Sıfır tekrar kuralının gevşetilmesi kullanıcı tarafından açıkça reddedildi;
+gerçek yayımlanmış bulmacaların cevap başına 2.87 kez tekrar ettiği ölçülmüş
+olsa da bu yol kapalı.
