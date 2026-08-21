@@ -6979,4 +6979,28 @@ export const WORDS = [
   { a: "İRİN", c: ["Yaradaki cerahat"] },
   { a: "İTKİ", c: ["İçten gelen dürtü"] },
   { a: "İYON", c: ["Yüklü atom"] },
+  // ---- 6-7 harf: düzeltme işareti kaldırılarak geri konan kelimeler ----
+  // Ekran klavyesinde Â/Î/Û tuşu olmadığı için bu cevaplar düz yazımla
+  // tutuluyor; ipuçları silinmeden önceki hâlleriyle aynı. HAKÎ geri
+  // konmadı, düz yazımı (HAKİ) sözlükte zaten var.
+  { a: "DÜKKAN", c: ["Satış yeri"] },
+  { a: "HİKAYE", c: ["Öykü"] },
+  { a: "HÜNKAR", c: ["Padişah"] },
+  { a: "MAHKUM", c: ["Hükümlü"] },
+  { a: "RÜZGAR", c: ["Yel"] },
+  { a: "TEZGAH", c: ["Satış bankosu"] },
+  { a: "ARZUHAL", c: ["Dilekçe"] },
+  { a: "CAMEKAN", c: ["Camlı bölme"] },
+  { a: "CEFAKAR", c: ["Eziyet çektiren"] },
+  { a: "FEDAKAR", c: ["Özverili"] },
+  { a: "HENGAME", c: ["Kargaşa"] },
+  { a: "HÜKUMET", c: ["Yürütme organı"] },
+  { a: "İLMİHAL", c: ["Din kuralları kitabı"] },
+  { a: "MÜKAFAT", c: ["Ödül"] },
+  { a: "ORDUGAH", c: ["Ordu konak yeri"] },
+  { a: "RİYAKAR", c: ["İkiyüzlü"] },
+  { a: "ŞİKAYET", c: ["Yakınma"] },
+  { a: "ÜÇKAĞIT", c: ["El çabukluğu dolandırıcılığı"] },
+  { a: "YADİGAR", c: ["Anı olarak kalan"] },
+  { a: "VEFAKAR", c: ["Vefalı"] },
 ];
