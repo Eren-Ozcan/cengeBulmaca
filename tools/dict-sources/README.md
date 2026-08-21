@@ -254,3 +254,23 @@ anatomik/hassas maddeler (ANAL, ANÜS, APIŞ).
 var; ÂKİT ile ÂŞIK düz yazımla (AKİT, AŞIK) eklendi.
 
 Sıradaki parti 301. satırdan başlar.
+
+### Tur 10, parça 4 — worklist'in 301-400. satırları (2026-08-21)
+
+29 kelime eklendi, 4 harfli katman 1352 → 1381 (tavan 173 → 177). 71 eleme.
+
+Kabul edilenler yine sıklıktan bağımsız olarak tanınan kelimeler: GIDA, GREV,
+GRİP, FÜZE, FOTO, FRAK, İYON, İGLU, HOBİ, HİBE, DİVA, EDAT.
+
+Elenenlerin ana grupları: ses yansımaları ve ünlemler (FIRT, GIRT, HART, HINK,
+HÖST, GİDİ, GIGI), yalnızca sözlükte kalmış türemiş biçimler (EKLİ, EŞLİ,
+İĞSİ, İPSİ, İSLİ, EVCE, ERCE, İTÇE), dar teknik maddeler (EPER, GREN, GALE,
+GANG, FİŞE, DREÇ, DROG, İKSA), oyun/zar terimleri (DÜSE, GELE).
+
+Hassas içerik nedeniyle elenenler: İBNE (TDK'da `kaba` etiketli hakaret),
+FERÇ ve EROS.
+
+Düzeltme işaretli adaylar yine alınmadı: EHLÎ, EMÎR, FÂNİ, HÂKÎ, HÂLÂ, HAYÂ,
+İLMÎ. Gerekçe için bir önceki parçaya bakın.
+
+Sıradaki parti 401. satırdan başlar.
