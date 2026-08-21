@@ -274,3 +274,43 @@ Düzeltme işaretli adaylar yine alınmadı: EHLÎ, EMÎR, FÂNİ, HÂKÎ, HÂL�
 İLMÎ. Gerekçe için bir önceki parçaya bakın.
 
 Sıradaki parti 401. satırdan başlar.
+
+### Tur 10, parça 5 — worklist'in 401-607. satırları (2026-08-21, liste bitti)
+
+85 kelime eklendi, 4 harfli katman 1381 → 1466 (tavan 177 → 187).
+607 satırlık worklist tamamen incelendi.
+
+Kabul edilenler arasında beklenmedik biçimde çok sayıda gündelik kelime çıktı;
+sıklık verisinin sıfır olması bunların bilinmediği anlamına gelmiyor, yalnızca
+taranan 593 bulmacada cevap olarak seçilmemiş olduklarını gösteriyor:
+UÇAK, MAAŞ, SENE, VEYA, ŞARJ, SODA, SİLO, MONT, KAFE, OZAN, ÖĞLE, TAZI.
+
+İki kelime düzeltme işareti kaldırılarak alındı: KÂSE → KASE, KÂFİ → KAFİ
+(düz yazımları boştu). KÛFİ, EHLÎ, İLMÎ alınmadı — düz yazımları da yeterince
+tanınan kelimeler değil.
+
+RAKI kabul edildi: sözlükte ŞARAP, BİRA, VOTKA, VİSKİ, KONYAK, LİKÖR, MEYHANE
+zaten var, ayrı bir ölçüt uygulamak tutarsız olurdu.
+
+Hassas içerik nedeniyle elenenler: PUŞT ve LUTİ (TDK'da `kaba` etiketli
+hakaretler), SEKS, MENİ, ZİNA, ŞİRK, PEPE (kekemeliği tanımlıyor), KOKA
+(kokain kaynağı bitki).
+
+Sıklık verisinin bittiği 204. satırdan sonra eleme oranı %70 civarında
+sabitlendi:
+
+| aralık  | kabul | eleme | 4 harfli | tavan |
+|---------|-------|-------|----------|-------|
+| 1-100   |    78 |    22 |     1259 |   161 |
+| 101-200 |    65 |    35 |     1324 |   169 |
+| 201-300 |    29 |    71 |     1353 |   173 |
+| 301-400 |    29 |    71 |     1381 |   177 |
+| 401-607 |    85 |   122 |     1466 |   187 |
+
+Toplam: 607 aday, 286 kabul, 321 eleme. Başlangıç 1181 idi.
+
+**Sırada:** sözlük tarafı bu turda tükendi — TDK'nın 4 harfli havuzunda
+incelenmemiş aday kalmadı. Kapasiteyi daha ileri götürmek için
+`node tools/regenerate-all.mjs --strict` koşup pratikte kaç bulmaca çıktığını
+ölçmek gerekiyor; tavan 151'den 187'ye çıktığı için 83 bulmacanın belirgin
+şekilde üstüne çıkması bekleniyor.
