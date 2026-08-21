@@ -233,3 +233,24 @@ Elenen 35 kelime:
 - Dinî hassas içerik: GAZA
 
 Sıradaki parti 201. satırdan başlar.
+
+### Tur 10, parça 3 — worklist'in 201-300. satırları (2026-08-21)
+
+29 kelime eklendi, 4 harfli katman 1324 → 1353 (tavan 169 → 173). 71 eleme.
+
+Bu aralıkta sıklık sıfırlanıyor (204. satırdan itibaren hiçbiri gerçek
+bulmacada geçmemiş) ve liste alfabetik sıraya düşüyor; eleme oranı %71'e
+çıktı. Kabul edilenler ağırlıkla sıklık verisinden bağımsız olarak zaten
+yaygın bilinen kelimeler: BORU, DEVE, BÜYÜ, AĞRI, ÇIPA, DART, DEMO, AMİP.
+
+Elenenlerin ana grupları: dar teknik/denizcilik/kimya terimleri (ABLİ, AŞOZ,
+AZİT, AZOL, BARA, APEL, ACYO), yalnızca sözlükte kalmış türemiş sıfatlar
+(ADLI, AKLI, AĞLI, AYLI, ALLI, AĞSI), ses yansımaları (CART, CIRT) ve
+anatomik/hassas maddeler (ANAL, ANÜS, APIŞ).
+
+**Düzeltme işaretli adaylar alınmadı.** Oyunun ekran klavyesinde (`KEY_ROWS`,
+`src/ui.ts`) Â/Î/Û tuşu yok, dolayısıyla bu harfleri taşıyan bir cevap
+çözülemiyor. ÂCİZ/ÂDET/ÂLEM/ÂLİM/ÂMİN/DÂHİ'nin düz yazımları zaten sözlükte
+var; ÂKİT ile ÂŞIK düz yazımla (AKİT, AŞIK) eklendi.
+
+Sıradaki parti 301. satırdan başlar.
