@@ -1,0 +1,209 @@
+{
+  "id": "puzzle-116",
+  "title": "Bulmaca 116",
+  "rows": 12,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Kadın rahip",
+      "answer": "RAHİBE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yeşil kabuklu sebze",
+      "answer": "BAKLA",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Adını belirterek",
+      "answer": "İSMEN",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Özbekistan'ın başkenti",
+      "answer": "TAŞKENT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çıkarma işareti",
+      "answer": "EKSİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Üçüncü ay",
+      "answer": "MART",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Belirsiz çokluk",
+      "answer": "NİCE",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sunma",
+      "answer": "TAKDİM",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Uyum sağlama",
+      "answer": "İNTİBAK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kişiye ait",
+      "answer": "ÖZEL",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sebep açıklaması",
+      "answer": "GEREKÇE",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ana atardamar",
+      "answer": "AORT",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Toplu gösteri",
+      "answer": "MİTİNG",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaramaz çocuk",
+      "answer": "AFACAN",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Orta oyunu uşağı",
+      "answer": "İBİŞ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Üniversite başı",
+      "answer": "REKTÖR",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Potaya atılan sayı",
+      "answer": "BASKET",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Mısra",
+      "answer": "DİZE",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Temel besin",
+      "answer": "EKMEK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Taş havan",
+      "answer": "DİBEK",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Göz merceği",
+      "answer": "LENS",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Toprak örtü malzemesi",
+      "answer": "MALÇ",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapı alanı",
+      "answer": "ŞANTİYE",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 7
+    }
+  ],
+  "difficulty": "orta",
+  "order": 244
+}

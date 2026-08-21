@@ -5,170 +5,163 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Protein fasulyesi",
-      "answer": "SOYA",
+      "text": "Muayene yeri",
+      "answer": "KLİNİK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aynı biçimde",
-      "answer": "KEZA",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Uyarınca, gereğince",
-      "answer": "GÖRE",
+      "text": "Soy sop",
+      "answer": "SÜLALE",
       "row": 2,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Analık",
-      "answer": "ANNELİK",
-      "row": 3,
+      "text": "İşlemeli kısa ceket",
+      "answer": "CEPKEN",
+      "row": 2,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Sarı-mavi karışımı",
-      "answer": "YEŞİL",
+      "text": "Beşten sonraki sayı",
+      "answer": "ALTI",
       "row": 4,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Mesaj",
-      "answer": "İLETİ",
+      "text": "İçten arzu",
+      "answer": "İSTEK",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bedeniyle çalışan",
-      "answer": "EMEKÇİ",
+      "text": "İrlanda'nın kendi adı",
+      "answer": "EİRE",
       "row": 6,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Boyun arkası",
-      "answer": "ENSE",
+      "text": "Güç harcama",
+      "answer": "EFOR",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sivilce",
+      "answer": "AKNE",
       "row": 7,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Toplantı yeri",
-      "answer": "LOKAL",
+      "text": "İyilik etme",
+      "answer": "İHSAN",
       "row": 8,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çok konuşan",
-      "answer": "GEVEZE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Ayrılık sözü",
+      "answer": "ELVEDA",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Orta düzey soylu",
-      "answer": "BARON",
+      "text": "Bol, zengin",
+      "answer": "GANİ",
       "row": 10,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Akım geçiren",
-      "answer": "İLETKEN",
+      "text": "Susam ezmesi",
+      "answer": "TAHİN",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kavrulmuş nohut",
-      "answer": "LEBLEBİ",
+      "text": "Yoksulluk",
+      "answer": "SEFALET",
       "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Metot",
-      "answer": "YÖNTEM",
+      "text": "Kanıt",
+      "answer": "İSPAT",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yumurta biçimli",
-      "answer": "OVAL",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Askerlik belgesi",
-      "answer": "TEZKERE",
-      "row": 4,
+      "text": "Çekirdeksel",
+      "answer": "NÜKLEER",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Boynuzlu memeli",
-      "answer": "GEYİK",
-      "row": 1,
+      "text": "Açı ölçme aracı",
+      "answer": "İLETKİ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hava gazı",
-      "answer": "AZOT",
+      "text": "Alaka",
+      "answer": "İLGİ",
       "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Emir tutsağı",
-      "answer": "KÖLE",
+      "text": "İnanç, görüş",
+      "answer": "KANI",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çiçek halkası",
-      "answer": "ÇELENK",
+      "text": "Atın yürüyüşü",
+      "answer": "RAHVAN",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yetişkin",
-      "answer": "ERİŞKİN",
-      "row": 0,
+      "text": "Bölen çizgi",
+      "answer": "EKSEN",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kavrama yeteneği",
-      "answer": "ZEKİ",
+      "text": "Eski karşıtı",
+      "answer": "YENİ",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Taş atma",
-      "answer": "SAPAN",
+      "text": "Ender",
+      "answer": "NADİR",
       "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ortaokul sonrası",
-      "answer": "LİSE",
-      "row": 3,
+      "text": "Güreş alanı",
+      "answer": "ARENA",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     }
@@ -180,59 +173,67 @@
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
+      "col": 6
     },
     {
       "row": 0,
       "col": 8
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 1,
+      "col": 6
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 1,
+      "col": 8
     },
     {
       "row": 2,
       "col": 8
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 8
+    },
+    {
+      "row": 4,
+      "col": 6
     },
     {
       "row": 5,
       "col": 7
     },
     {
-      "row": 7,
+      "row": 8,
       "col": 0
     },
     {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 8
+      "col": 2
     },
     {
       "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 8
+      "col": 0
     },
     {
       "row": 10,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 2
     },
     {
       "row": 10,
       "col": 8
+    },
+    {
+      "row": 11,
+      "col": 6
     },
     {
       "row": 11,

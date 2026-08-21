@@ -1,0 +1,158 @@
+{
+  "id": "puzzle-125",
+  "title": "Bulmaca 125",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Amaç",
+      "answer": "HEDEF",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Peynirli hamur işi",
+      "answer": "POĞAÇA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Anma, söyleme",
+      "answer": "ZİKİR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kumlu kıyı",
+      "answer": "KUMSAL",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Duyarlı",
+      "answer": "HASSAS",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Alenen",
+      "answer": "AÇIKÇA",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tamam, olur",
+      "answer": "PEKİ",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çok belirgin",
+      "answer": "APAÇIK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Destansı",
+      "answer": "EPİK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gaz karışımı",
+      "answer": "HAVA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kol biçimli uzantı",
+      "answer": "DOKUNAÇ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Meyil",
+      "answer": "EĞİM",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eşek yavrusu",
+      "answer": "SIPA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaba güldürü",
+      "answer": "FARS",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Güldürü oyunu",
+      "answer": "SKEÇ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüzey parlatma",
+      "answer": "AÇKI",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Eğilimli, meyilli",
+      "answer": "MAİL",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İtici neden",
+      "answer": "SAİK",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 3,
+      "col": 5
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 253
+}

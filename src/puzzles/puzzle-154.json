@@ -1,0 +1,245 @@
+{
+  "id": "puzzle-154",
+  "title": "Bulmaca 154",
+  "rows": 12,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "Süt organı",
+      "answer": "MEME",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Baskı işi",
+      "answer": "BASI",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "At bakıcısı",
+      "answer": "SEYİS",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Salgın soğuk algınlığı",
+      "answer": "GRİP",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "39'dan sonraki sayı",
+      "answer": "KIRK",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Patlıcanlı fırın yemeği",
+      "answer": "MUSAKKA",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Merhametsiz",
+      "answer": "GADDAR",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alfabe işareti",
+      "answer": "HARF",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yemek isteği",
+      "answer": "İŞTAH",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dolgun yüz",
+      "answer": "ABLAK",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Oldukça çok",
+      "answer": "EPEY",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Meydan okuma",
+      "answer": "REST",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Zor kullanarak",
+      "answer": "ZORLA",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yetkin, uzman",
+      "answer": "EHİL",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Manzum yapıt",
+      "answer": "ŞİİR",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Tahtadan yapılan",
+      "answer": "AHŞAP",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yardım çağrısı",
+      "answer": "İMDAT",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüz tozu",
+      "answer": "PUDRA",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Evre, aşama",
+      "answer": "SAFHA",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Evli olmayan",
+      "answer": "BEKAR",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaka iğnesi",
+      "answer": "BROŞ",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sarhoş karşıtı",
+      "answer": "AYIK",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sergi salonu",
+      "answer": "GALERİ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Gösteri çadırı",
+      "answer": "SİRK",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Birincil, esas",
+      "answer": "ASLİ",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Boşa çıkarma",
+      "answer": "ISKA",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Nicelik",
+      "answer": "MİKTAR",
+      "row": 5,
+      "col": 8,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 2
+    }
+  ],
+  "difficulty": "zor",
+  "order": 282
+}

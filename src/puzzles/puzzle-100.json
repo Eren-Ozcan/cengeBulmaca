@@ -5,177 +5,184 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Palamut ağacı",
-      "answer": "MEŞE",
+      "text": "Deniz yumuşakçası",
+      "answer": "MİDYE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zayıf, cılız",
-      "answer": "ARIK",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kurma, kuruluş",
-      "answer": "TESİS",
+      "text": "Hanım unvanı",
+      "answer": "LEYDİ",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Devamlı",
-      "answer": "SÜREKLİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ev ayakkabısı",
-      "answer": "TERLİK",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ulusal",
-      "answer": "MİLLİ",
-      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Nerede, ne oldu",
-      "answer": "HANİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ukrayna'nın başkenti",
-      "answer": "KİEV",
-      "row": 7,
-      "col": 4,
+      "text": "Düşünen canlı",
+      "answer": "İNSAN",
+      "row": 3,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yedi gün",
-      "answer": "HAFTA",
-      "row": 8,
-      "col": 0,
+      "text": "İşaret bayrağı",
+      "answer": "FLAMA",
+      "row": 4,
+      "col": 3,
       "arrow": "right"
-    },
-    {
-      "text": "Alt kat",
-      "answer": "BODRUM",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
     },
     {
       "text": "Yolsuzluk kuşkusu",
       "answer": "ŞAİBE",
-      "row": 10,
+      "row": 4,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sacda pişen ekmek",
+      "answer": "BAZLAMA",
+      "row": 5,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Atlı top oyunu",
+      "answer": "POLO",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yumruk sporu",
+      "answer": "BOKS",
+      "row": 8,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Süregelen düzen",
-      "answer": "STATÜKO",
+      "text": "Büyük deniz",
+      "answer": "OKYANUS",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Su satıcısı",
+      "answer": "SUCU",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tokat ilçesi",
+      "answer": "ZİLE",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Çok bilgili",
+      "answer": "ALLAME",
       "row": 11,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İnceleme, araştırma",
-      "answer": "ETÜT",
+      "text": "Abartan erkek",
+      "answer": "MAÇO",
       "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Tiyatro sahnesi",
+      "answer": "ŞANO",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hoş karşıtı",
-      "answer": "NAHOŞ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Onur",
-      "answer": "ŞEREF",
+      "text": "Açgözlü",
+      "answer": "DOYMAZ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tarla dinlenmesi",
-      "answer": "NADAS",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ortaya konan yapıt",
-      "answer": "ESER",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kötü cin",
-      "answer": "İFRİT",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hava koşulları",
-      "answer": "İKLİM",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Pistonlu çalgı",
-      "answer": "TUBA",
+      "text": "Özel bölme",
+      "answer": "LOCA",
       "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Temel eğitim yeri",
+      "answer": "İLKOKUL",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Arap alfabesi",
+      "answer": "ELİFBA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Birincil, esas",
-      "answer": "ASLİ",
+      "text": "Ekvator uzaklığı",
+      "answer": "ENLEM",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yatak altı",
+      "answer": "BAZA",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hâlbuki",
+      "answer": "OYSA",
       "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir yerde oturma",
-      "answer": "İKAMET",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İki parçalı",
-      "answer": "İKİLİ",
-      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Göz merceği",
-      "answer": "LENS",
+      "text": "Adı bilinmeyen",
+      "answer": "ANONİM",
       "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Masa oyunu",
+      "answer": "DAMA",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Belge saklama",
-      "answer": "ARŞİV",
-      "row": 2,
+      "text": "Yüksek yapı",
+      "answer": "KULE",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "İnsan yapısı",
+      "answer": "BİNA",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Pay senedi",
+      "answer": "HİSSE",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -183,71 +190,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 1
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
       "col": 3
     },
     {
-      "row": 8,
-      "col": 6
+      "row": 0,
+      "col": 5
     },
     {
-      "row": 8,
-      "col": 8
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 8
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
+      "row": 0,
       "col": 7
     },
     {
-      "row": 10,
-      "col": 8
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 4
     },
     {
       "row": 11,
       "col": 0
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "kolay",

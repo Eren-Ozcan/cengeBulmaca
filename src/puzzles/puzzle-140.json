@@ -1,0 +1,158 @@
+{
+  "id": "puzzle-140",
+  "title": "Bulmaca 140",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Çembalo",
+      "answer": "KLAVSEN",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zorla el koyma",
+      "answer": "ZAPT",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yalıtılmış olan",
+      "answer": "İZOLE",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yinelenen öge",
+      "answer": "MOTİF",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilardo sopası",
+      "answer": "İSTEKA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Subjektif",
+      "answer": "ÖZNEL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Borcu olan",
+      "answer": "BORÇLU",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Karşı davranış",
+      "answer": "TEPKİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tren",
+      "answer": "KATAR",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Loş, kuytu",
+      "answer": "İZBE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yenme kararlılığı",
+      "answer": "AZİM",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Züppe",
+      "answer": "SNOP",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Masadaki çiçek kabı",
+      "answer": "VAZO",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bırakıp gitme",
+      "answer": "TERK",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük ışık",
+      "answer": "SPOT",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Devlet temsilcisi",
+      "answer": "ELÇİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eti çok",
+      "answer": "ETLİ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Açık mor",
+      "answer": "EFLATUN",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 5
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 268
+}

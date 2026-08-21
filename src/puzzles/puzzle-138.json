@@ -1,0 +1,158 @@
+{
+  "id": "puzzle-138",
+  "title": "Bulmaca 138",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Kazanılmış yatkınlık",
+      "answer": "MELEKE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yalnızca, sadece; mutlak",
+      "answer": "SALT",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Esrarlı",
+      "answer": "GİZEMLİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Göz kapağı kılı",
+      "answer": "KİRPİK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayaklı bardak",
+      "answer": "KADEH",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Az pişmiş yumurta",
+      "answer": "RAFADAN",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hasta bölümü",
+      "answer": "REVİR",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mürekkepli mühür yastığı",
+      "answer": "ISTAMPA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çarpma beresi",
+      "answer": "EZİK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğu Anadolu ilimiz",
+      "answer": "KARS",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Şölen",
+      "answer": "ZİYAFET",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ortaya konan yapıt",
+      "answer": "ESER",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Mahkemelik anlaşmazlık",
+      "answer": "DAVA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çadır yeri",
+      "answer": "KAMP",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eylem",
+      "answer": "EDİM",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "49'dan sonraki sayı",
+      "answer": "ELLİ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Savaş",
+      "answer": "HARP",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük lokma",
+      "answer": "TİKE",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 266
+}

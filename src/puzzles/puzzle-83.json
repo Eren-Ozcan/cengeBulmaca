@@ -5,128 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Basılıp çoğaltma",
-      "answer": "BASIM",
-      "row": 0,
+      "text": "Muazzam",
+      "answer": "KOSKOCA",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mahkeme belgesi",
-      "answer": "İLAM",
-      "row": 2,
-      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bitki örtüsü",
-      "answer": "FLORA",
+      "text": "Tarama aracı",
+      "answer": "TARAK",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Maksimum",
+      "answer": "AZAMİ",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Aynı doğumlu",
-      "answer": "İKİZ",
+      "text": "Öğretim, alıştırma",
+      "answer": "TALİM",
       "row": 4,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gürültü patırtı",
-      "answer": "ŞAMATA",
-      "row": 4,
+      "text": "Konut",
+      "answer": "MESKEN",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ölü beden",
-      "answer": "KADAVRA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kaba, iri",
-      "answer": "HANTAL",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sanat alıştırması",
-      "answer": "MEŞK",
+      "text": "İngiliz sopalı oyunu",
+      "answer": "KRİKET",
       "row": 7,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Elin oğlu",
-      "answer": "ELOĞLU",
-      "row": 9,
-      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Limon rengi",
-      "answer": "SARI",
-      "row": 9,
+      "text": "Saniyenin altmışta biri",
+      "answer": "SALİSE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tansiyon",
+      "answer": "GERİLİM",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Parazit",
-      "answer": "ASALAK",
+      "text": "Başlangıç",
+      "answer": "MİLAT",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Konya ilçesi",
+      "answer": "KULU",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Toplanma günü",
-      "answer": "MAHŞER",
+      "text": "Büyük çivi",
+      "answer": "EKSER",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Direnme, üsteleme",
+      "answer": "ISRAR",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Adağı olan",
-      "answer": "ADAKLI",
-      "row": 4,
+      "text": "Maçın oynandığı yapı",
+      "answer": "STAT",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eylemci savunucu",
-      "answer": "MİLİTAN",
+      "text": "Dokuma yaygı",
+      "answer": "KİLİM",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İstemsiz olay",
+      "answer": "KAZA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İşveren direnişi",
-      "answer": "LOKAVT",
-      "row": 1,
+      "text": "Tohumlu tarla",
+      "answer": "EKİLİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağız yoluyla",
+      "answer": "ORAL",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hiç değilse",
-      "answer": "BARİ",
+      "text": "Kuşak",
+      "answer": "NESİL",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ortak topluluk",
+      "answer": "CAMİA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yol yarışı",
-      "answer": "RALLİ",
-      "row": 5,
+      "text": "Asıl konu",
+      "answer": "TEMA",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kale deliği",
-      "answer": "MAZGAL",
-      "row": 1,
+      "text": "Sonuçsuz kalan",
+      "answer": "AKİM",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -134,55 +155,47 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
     },
     {
       "row": 2,
       "col": 0
-    },
-    {
-      "row": 2,
-      "col": 2
     },
     {
       "row": 3,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 4,
+      "col": 0
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 7
     },
     {
       "row": 8,
       "col": 7
     },
     {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
+      "row": 9,
       "col": 7
+    },
+    {
+      "row": 10,
+      "col": 0
     }
   ],
   "difficulty": "orta",

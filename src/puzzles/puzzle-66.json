@@ -5,121 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Gök ada",
-      "answer": "GALAKSİ",
-      "row": 0,
+      "text": "Yol ayrımı",
+      "answer": "SAPAK",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Deney hayvanı",
+      "answer": "KOBAY",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kiralık katil",
+      "answer": "TETİKÇİ",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Nişasta bulamacı",
-      "answer": "KOLA",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Mutedil iklim",
-      "answer": "ILIMAN",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yanan sopa",
-      "answer": "MEŞALE",
+      "text": "Kahramanlık anlatısı",
+      "answer": "DESTAN",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dikişsiz kıyafet",
-      "answer": "İHRAM",
+      "text": "İrmikli şerbetli tatlı",
+      "answer": "REVANİ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Öğüt veren",
-      "answer": "VAİZ",
+      "text": "Yeni doğan",
+      "answer": "BEBEK",
       "row": 7,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çelik kaplama",
-      "answer": "ZIRH",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kutsal varlık",
-      "answer": "MELEK",
-      "row": 8,
+      "text": "Ata, dede",
+      "answer": "AĞABABA",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Atış uzaklığı",
-      "answer": "ATIM",
+      "text": "Ara süresi",
+      "answer": "TATİL",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Elem",
+      "answer": "KEDER",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yağda kavrulmuş yemek",
+      "answer": "SOTE",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hız değişimi",
-      "answer": "İVME",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yazılı tabela",
-      "answer": "LEVHA",
-      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Cereyan",
-      "answer": "AKIŞ",
+      "text": "Ölçüler",
+      "answer": "EBAT",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Okyanus derinliği",
+      "answer": "ABİS",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çay ilimiz",
-      "answer": "RİZE",
+      "text": "Öldürücü hastalık",
+      "answer": "VEBA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bilinç kaybı",
-      "answer": "KOMA",
+      "text": "Devletler antlaşması",
+      "answer": "PAKT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yol yiyeceği",
-      "answer": "AZIK",
+      "text": "Bayındır, mamur",
+      "answer": "ABAT",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kayakta engel geçişi",
-      "answer": "SLALOM",
+      "text": "Hilal",
+      "answer": "AYÇA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yardım parası",
-      "answer": "İANE",
-      "row": 0,
+      "text": "Peygamber",
+      "answer": "NEBİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Geçiş",
+      "answer": "İNTİKAL",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -127,10 +134,18 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
-      "row": 2,
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
       "col": 0
     },
     {
@@ -138,28 +153,8 @@
       "col": 0
     },
     {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
       "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 0
     }
   ],
   "difficulty": "zor",

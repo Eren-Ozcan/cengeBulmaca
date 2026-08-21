@@ -1,0 +1,211 @@
+{
+  "id": "puzzle-139",
+  "title": "Bulmaca 139",
+  "rows": 12,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Tel bölme",
+      "answer": "KAFES",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zehir",
+      "answer": "ZEHR",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Halkın görüşü",
+      "answer": "KAMUOYU",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kokusuz süs çiçeği",
+      "answer": "AÇELYA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Altmış saniye",
+      "answer": "DAKİKA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dünya ucu",
+      "answer": "KUTUP",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kelimeler bütünü",
+      "answer": "METİN",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Süt çiftliği",
+      "answer": "MANDIRA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Karadeniz ilimiz",
+      "answer": "ORDU",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Düzenlilik",
+      "answer": "İNTİZAM",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Efsanevi kuş",
+      "answer": "ANKA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dağ lalesi",
+      "answer": "ANEMON",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kapalı karşıtı",
+      "answer": "AÇIK",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Meyveli pasta",
+      "answer": "TART",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ezerek yapılan yiyecek",
+      "answer": "EZME",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Öğle sonrası namaz",
+      "answer": "İKİNDİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kore başkenti",
+      "answer": "SEUL",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yassı kuyruklu kemirgen",
+      "answer": "KUNDUZ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaba, kırıcı",
+      "answer": "HOYRAT",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Operada solo parça",
+      "answer": "ARYA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Gemi yöneticisi",
+      "answer": "KAPTAN",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 7
+    }
+  ],
+  "difficulty": "orta",
+  "order": 267
+}

@@ -5,162 +5,155 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kuşatma",
-      "answer": "ABLUKA",
-      "row": 0,
+      "text": "Güldüren kimse",
+      "answer": "SOYTARI",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Ad",
-      "answer": "İSİM",
+      "text": "Gereksiz, yersiz",
+      "answer": "ABES",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dolap, oyun",
-      "answer": "ENTRİKA",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağacın yeşil organı",
-      "answer": "YAPRAK",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Geri verme",
-      "answer": "İADE",
-      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Benzetmeye çalışma",
-      "answer": "TAKLİT",
-      "row": 6,
-      "col": 1,
+      "text": "Kimi",
+      "answer": "BAZI",
+      "row": 3,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bağnaz kimse",
-      "answer": "YOBAZ",
-      "row": 7,
-      "col": 1,
+      "text": "Bilgi toplantısı",
+      "answer": "SEMİNER",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bakla ezmesi",
+      "answer": "FAVA",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Arap yazısı işareti",
-      "answer": "HAREKE",
+      "text": "Kol takısı",
+      "answer": "BİLEZİK",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boynuzlu memeli",
+      "answer": "GEYİK",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dokuma sanayisi",
+      "answer": "TEKSTİL",
       "row": 8,
       "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mızrap",
+      "answer": "PENA",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Temel öz",
+      "answer": "ESAS",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Mayalı süt",
+      "answer": "YOĞURT",
+      "row": 10,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bağlı, vefalı",
-      "answer": "SADIK",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bayağı, olağan",
-      "answer": "ALELADE",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Keskin bıçak",
-      "answer": "KAMA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Kanun",
-      "answer": "YASA",
-      "row": 7,
+      "text": "Hedefi vurma",
+      "answer": "İSABET",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kahverengi kömür",
-      "answer": "LİNYİT",
-      "row": 0,
+      "text": "Bulaşık teknesi",
+      "answer": "EVİYE",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ağız yoluyla",
-      "answer": "ORAL",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İşin ehli",
-      "answer": "USTA",
-      "row": 0,
+      "text": "Sahip",
+      "answer": "MALİK",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gürültülü kavga",
-      "answer": "ARBEDE",
+      "text": "Bağlı, uyan",
+      "answer": "TABİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilirkişi",
+      "answer": "EKSPER",
       "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Göz kapağı kılı",
-      "answer": "KİRPİK",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Us, zihin",
-      "answer": "AKIL",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Deniz generali",
-      "answer": "AMİRAL",
+      "text": "Sert siyah ağaç",
+      "answer": "ABANOZ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Anlama yetisi",
-      "answer": "ZEKA",
+      "text": "Sınav türü",
+      "answer": "TEST",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çok eski",
-      "answer": "KADİM",
-      "row": 2,
+      "text": "Menteşe",
+      "answer": "REZE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Onurluk",
-      "answer": "PLAKET",
+      "text": "Özen",
+      "answer": "İTİNA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Diş izi",
+      "answer": "ISIRIK",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Öpücük",
-      "answer": "BUSE",
+      "text": "Kement",
+      "answer": "LASO",
       "row": 7,
       "col": 7,
       "arrow": "down"
@@ -169,34 +162,54 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 6
+      "col": 2
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 0,
+      "col": 3
     },
     {
       "row": 2,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 1
+      "row": 2,
+      "col": 2
     },
     {
-      "row": 8,
-      "col": 6
+      "row": 3,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 2
     },
     {
       "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 2
+    },
+    {
+      "row": 11,
       "col": 6
     }
   ],

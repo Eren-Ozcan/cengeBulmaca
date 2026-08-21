@@ -5,149 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Ünlüler haberleri",
-      "answer": "MAGAZİN",
-      "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İnce karşıtı",
-      "answer": "KABA",
+      "text": "Çabuk, tez",
+      "answer": "ATİK",
       "row": 1,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Yün giysi",
-      "answer": "KAZAK",
+      "text": "Sonuç yazısı",
+      "answer": "RAPOR",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Soyluluk",
+      "answer": "ASALET",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kot kumaşı",
-      "answer": "DENİM",
-      "row": 3,
+      "text": "Gerçek",
+      "answer": "HAKİKAT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Açgözlülük",
+      "answer": "TAMAH",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güçlendirici ilaç",
-      "answer": "TONİK",
-      "row": 5,
+      "text": "Toprak aşınması",
+      "answer": "EROZYON",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İstemeyerek",
-      "answer": "ZORAKİ",
-      "row": 6,
-      "col": 1,
+      "text": "Deniz, umman",
+      "answer": "DERYA",
+      "row": 8,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Şişe kapağı aracı",
-      "answer": "AÇACAK",
+      "text": "Sıkıntı, çarpıntı",
+      "answer": "HAFAKAN",
       "row": 8,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sevgili kadın",
+      "answer": "CANAN",
+      "row": 10,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kan alma",
-      "answer": "HACAMAT",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kurbağa yavrusu",
-      "answer": "İRİBAŞ",
+      "text": "Sınırlama",
+      "answer": "KISIT",
       "row": 10,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Gözetim",
-      "answer": "NEZARET",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük ölçek",
-      "answer": "MAKET",
-      "row": 0,
+      "text": "Çöl yeşilliği",
+      "answer": "VAHA",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yırtıcı kuş",
-      "answer": "ŞAHİN",
-      "row": 7,
-      "col": 0,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Sert siyah ağaç",
-      "answer": "ABANOZ",
-      "row": 0,
-      "col": 2,
+      "text": "Nazlı, işveli",
+      "answer": "EDALI",
+      "row": 6,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sorun çözme yolu",
-      "answer": "ÇARE",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Eğlence yeri",
-      "answer": "GAZİNO",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gücü yetmeyen, güçsüz",
-      "answer": "ACİZ",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Üst görevli",
-      "answer": "AMİR",
+      "text": "Kürklü hayvan",
+      "answer": "SAMUR",
       "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İri bezelye",
+      "answer": "ARAKA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kurum hizmetlisi",
+      "answer": "ODACI",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Baht, şans",
+      "answer": "TALİH",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bedava, karşılıksız",
-      "answer": "CABA",
-      "row": 7,
+      "text": "Mal paylaşımı",
+      "answer": "ZEKAT",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mürekkep balığı",
-      "answer": "KALAMAR",
-      "row": 4,
+      "text": "Koza ipliği",
+      "answer": "İPEK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Damga, mühür",
-      "answer": "KAŞE",
-      "row": 7,
+      "text": "Yoğurt içeceği",
+      "answer": "AYRAN",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sınırlama miktarı",
+      "answer": "KOTA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Vasıf",
-      "answer": "NİTELİK",
-      "row": 0,
+      "text": "Kıpır kıpır",
+      "answer": "OYNAK",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun boyunlu kuş",
+      "answer": "TURNA",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -159,31 +166,27 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 1
     },
     {
       "row": 0,
-      "col": 5
+      "col": 2
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
+      "col": 0
     },
     {
       "row": 5,
@@ -194,11 +197,15 @@
       "col": 0
     },
     {
-      "row": 8,
+      "row": 9,
       "col": 7
     },
     {
-      "row": 10,
+      "row": 11,
+      "col": 5
+    },
+    {
+      "row": 11,
       "col": 7
     }
   ],

@@ -5,135 +5,142 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Yatay konum",
-      "answer": "APSİS",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hindistan başkenti",
-      "answer": "DELHİ",
-      "row": 1,
+      "text": "Basma başörtü",
+      "answer": "YEMENİ",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Alaylı anlatım",
-      "answer": "İRONİ",
-      "row": 3,
-      "col": 2,
+      "text": "Merdiven bölümü",
+      "answer": "BASAMAK",
+      "row": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İş merkezi",
-      "answer": "PLAZA",
-      "row": 3,
+      "text": "Yer altı boşluğu",
+      "answer": "MAĞARA",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ayrıştırılamayan madde",
-      "answer": "ELEMENT",
-      "row": 5,
+      "text": "Su seti",
+      "answer": "BARAJ",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dikiş aracı",
-      "answer": "İĞNE",
+      "text": "Onay damgası",
+      "answer": "VİZE",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şaka",
+      "answer": "LATİFE",
       "row": 6,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Öğreti",
-      "answer": "DOKTRİN",
-      "row": 6,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eski dilde tuvalet",
-      "answer": "HELA",
+      "text": "Kızıl gezegen",
+      "answer": "MARS",
       "row": 7,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Eski kalem",
-      "answer": "DİVİT",
-      "row": 9,
+      "text": "Sirküler yazı",
+      "answer": "GENELGE",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tamam, olur",
-      "answer": "PEKİ",
+      "text": "Dinen uygun",
+      "answer": "CAİZ",
       "row": 9,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Soğuk algınlığı",
-      "answer": "NEZLE",
+      "text": "Dilek",
+      "answer": "TEMENNİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kırlangıç benzeri kuş",
+      "answer": "EBABİL",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Büyükbaba",
-      "answer": "DEDE",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İçkiye düşkün",
-      "answer": "ALKOLİK",
-      "row": 3,
+      "text": "Büyük dükkân",
+      "answer": "MAĞAZA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Telefon kulaklığı",
-      "answer": "AHİZE",
+      "text": "Tutsaklık",
+      "answer": "ESARET",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dayanıklı, güçlü",
-      "answer": "KAVİ",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Mısır anıtı",
-      "answer": "PİRAMİT",
+      "text": "Haykırma, bağırma",
+      "answer": "NARA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Geçici",
-      "answer": "EĞRETİ",
-      "row": 4,
+      "text": "Ortak emek",
+      "answer": "İMECE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İmge, görüntü",
+      "answer": "İMAJ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Uyutma türküsü",
-      "answer": "NİNNİ",
-      "row": 2,
+      "text": "Ve benzerleri",
+      "answer": "FALAN",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yetişkin, reşit",
+      "answer": "ERGİN",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Eleştiri",
-      "answer": "TENKİT",
-      "row": 4,
+      "text": "Su birikintisi",
+      "answer": "AKMAZ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Sezgi",
+      "answer": "SEZİ",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -141,55 +148,43 @@
   "blocks": [
     {
       "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 0
     },
     {
-      "row": 0,
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 7,
       "col": 2
     },
     {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 6,
+      "row": 9,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 6
+      "row": 9,
+      "col": 1
     },
     {
       "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 6
+      "col": 2
     }
   ],
   "difficulty": "orta",

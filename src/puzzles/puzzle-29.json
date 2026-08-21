@@ -5,128 +5,93 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Doğru yol",
-      "answer": "HİDAYET",
-      "row": 0,
-      "col": 0,
+      "text": "Açılmış yer",
+      "answer": "YARIK",
+      "row": 1,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Nargile bölümü",
-      "answer": "LÜLE",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Petrol merhemi",
-      "answer": "VAZELİN",
+      "text": "Babanın kız kardeşi",
+      "answer": "HALA",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dizilmiş meyve",
-      "answer": "HEVENK",
+      "text": "Çoban çalgısı",
+      "answer": "KAVAL",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bitki bilimi",
-      "answer": "BOTANİK",
-      "row": 5,
+      "text": "Çaygillerden süs çiçeği",
+      "answer": "KAMELYA",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Alım satım ortamı",
-      "answer": "PİYASA",
+      "text": "Podyum modeli",
+      "answer": "MANKEN",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Merkez nokta",
+      "answer": "ORTA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tasdik",
-      "answer": "ONAY",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Salgın ishal hastalığı",
-      "answer": "KOLERA",
+      "text": "Kutsal kadın",
+      "answer": "AZİZE",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Tanrı",
-      "answer": "İLAH",
-      "row": 0,
+      "text": "Deniz parıltısı",
+      "answer": "YAKAMOZ",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Donuk, mat",
-      "answer": "OPAK",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tashih",
-      "answer": "DÜZELTİ",
+      "text": "Kalın gemi halatı",
+      "answer": "PALAMAR",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ateş dili",
-      "answer": "ALEV",
-      "row": 0,
+      "text": "Ekşi saplı bitki",
+      "answer": "RAVENT",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Şaşkınlık sözü",
-      "answer": "AYOL",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "At kılları",
-      "answer": "YELE",
-      "row": 0,
+      "text": "Bazik madde",
+      "answer": "ALKALİ",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kokulu bitki",
-      "answer": "NANE",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tekel",
-      "answer": "İNHİSAR",
-      "row": 2,
+      "text": "Boyun takısı",
+      "answer": "KOLYE",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zırhlı taşıt",
-      "answer": "TANK",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Taş kütlesi",
-      "answer": "KAYA",
-      "row": 5,
+      "text": "Japon çizgi filmi",
+      "answer": "ANİME",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -134,10 +99,70 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 5
     },
     {
       "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 9,
       "col": 0
     }
   ],

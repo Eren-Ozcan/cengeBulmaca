@@ -5,148 +5,134 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Sürme, kesilmeme, bitmeme",
-      "answer": "DEVAM",
+      "text": "Katlanan",
+      "answer": "SABIRLI",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sıkıntılı dönem",
+      "answer": "ÇİLE",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ölüm vakti",
-      "answer": "ECEL",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yetiştirici",
-      "answer": "ÜRETİCİ",
+      "text": "Hayat",
+      "answer": "YAŞAM",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hoşa giden",
-      "answer": "ZARİF",
-      "row": 4,
+      "text": "Böcek",
+      "answer": "HAŞERE",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Boğuk boğaz sesi",
+      "answer": "HIRILTI",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Şiir dizesi",
+      "answer": "MISRA",
+      "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Akım teli",
-      "answer": "KABLO",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Özellikle, bilhassa",
-      "answer": "HELE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Araç gövdesi",
-      "answer": "KAROSER",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Minare balkonu",
-      "answer": "ŞEREFE",
+      "text": "Akım birimi",
+      "answer": "AMPER",
       "row": 8,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sahne oyunu",
-      "answer": "DRAM",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yüzü gülmeyen",
-      "answer": "NEMRUT",
-      "row": 9,
+      "text": "Ama",
+      "answer": "LAKİN",
+      "row": 10,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Kolay korkan",
-      "answer": "ÜRKEK",
-      "row": 2,
+      "text": "Kara",
+      "answer": "SİYAH",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Termik",
+      "answer": "ISIL",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
       "text": "Metal karışımı",
       "answer": "ALAŞIM",
-      "row": 4,
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bakmadan",
-      "answer": "EZBERE",
-      "row": 2,
+      "text": "İnsanoğlu",
+      "answer": "BEŞER",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İletken madde",
-      "answer": "METAL",
-      "row": 0,
+      "text": "Eski Alman parası",
+      "answer": "MARK",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Rafinaj",
+      "answer": "ARITIM",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Karadeniz ilimiz",
-      "answer": "ORDU",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Satış tutarı",
-      "answer": "CİRO",
-      "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yumuşak karşıtı",
-      "answer": "SERT",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Acıklı, korkunç",
-      "answer": "FECİ",
+      "text": "Kirpik boyası",
+      "answer": "RİMEL",
       "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Aracın kontrolsüz dönüşü",
+      "answer": "SPİN",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Salata bitkisi",
+      "answer": "TERE",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dostluk bağlılığı",
-      "answer": "VEFA",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaldırma makinesi",
-      "answer": "LİFT",
-      "row": 1,
+      "text": "Irkçılık yanlısı",
+      "answer": "IRKÇI",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kağıt oyunu",
-      "answer": "REMİ",
+      "text": "Aile işareti",
+      "answer": "ARMA",
       "row": 6,
       "col": 7,
       "arrow": "down"
@@ -155,34 +141,30 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 2,
       "col": 0
     },
     {
-      "row": 2,
-      "col": 2
+      "row": 0,
+      "col": 4
     },
     {
-      "row": 4,
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
       "col": 0
     },
     {
@@ -191,7 +173,19 @@
     },
     {
       "row": 9,
-      "col": 1
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
     },
     {
       "row": 10,

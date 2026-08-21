@@ -5,156 +5,170 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Son gün",
-      "answer": "PAZAR",
+      "text": "Maden süslemesi",
+      "answer": "KAKMA",
       "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Babaya dayalı düzen",
+      "answer": "ATAERKİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gülünç duruma düşen",
+      "answer": "MASKARA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Türkmenistan'ın başkenti",
+      "answer": "AŞKABAT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuran'da altıncı sure",
+      "answer": "ENAM",
+      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sebep, bahane",
-      "answer": "VESİLE",
-      "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yüksek düzlük",
-      "answer": "YAYLA",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Esirgemeden veren",
-      "answer": "CÖMERT",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Devlete ait",
-      "answer": "RESMİ",
+      "text": "Dönme aktaran mil",
+      "answer": "ŞAFT",
       "row": 5,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kapatma aleti",
-      "answer": "KİLİT",
+      "text": "Dur işareti",
+      "answer": "STOP",
       "row": 6,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çalgılı meyhane",
+      "answer": "TAVERNA",
+      "row": 7,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dolaylı anlatım",
+      "answer": "KİNAYE",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Siyah dut",
-      "answer": "KARADUT",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ata, dede",
-      "answer": "AĞABABA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Arap para birimi",
-      "answer": "DİNAR",
+      "text": "Çin'in başkenti",
+      "answer": "PEKİN",
       "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Utanmaz",
-      "answer": "EDEPSİZ",
-      "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Korku şiddeti",
-      "answer": "TERÖR",
+      "text": "Istekalı masa oyunu",
+      "answer": "BİLARDO",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gemide oda",
+      "answer": "KAMARA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yerine koyma",
-      "answer": "İKAME",
-      "row": 6,
+      "text": "Kar fırtınası",
+      "answer": "TİPİ",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tutar",
-      "answer": "MEBLAĞ",
-      "row": 3,
+      "text": "Kâğıt klipsi",
+      "answer": "ATAŞ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tiyatro oyunu",
-      "answer": "PİYES",
+      "text": "Yumuşak kumaş",
+      "answer": "FLANEL",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Siperli başlık",
+      "answer": "KASKET",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Karar gücü",
-      "answer": "İRADE",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tehlike işareti",
-      "answer": "ALARM",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hasta tedavicisi",
-      "answer": "TABİP",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yağlı meyve",
-      "answer": "ZEYTİN",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ritmik hareket",
-      "answer": "DANS",
+      "text": "Olay, durum",
+      "answer": "VAKA",
       "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bulunulan yer",
+      "answer": "MEKAN",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gidiş, ilerleyiş",
+      "answer": "SEYİR",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Otomobil",
+      "answer": "ARABA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dört dizeli şiir",
-      "answer": "RUBAİ",
+      "text": "Eğilim, yönelim",
+      "answer": "TREND",
       "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Dişli futbol ayakkabısı",
+      "answer": "KRAMPON",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Uyma",
-      "answer": "RİAYET",
+      "text": "Yönetici itaati",
+      "answer": "BİAT",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Üslup",
-      "answer": "TARZ",
-      "row": 7,
+      "text": "Pantolon ucu",
+      "answer": "PAÇA",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -166,27 +180,27 @@
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 4,
       "col": 6
     },
     {
       "row": 5,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 6
     },
     {
       "row": 10,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 7
     }
   ],
   "difficulty": "orta",

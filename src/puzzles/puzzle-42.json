@@ -5,149 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kahverengi ayı",
-      "answer": "BOZAYI",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Kağıt rulosu",
+      "answer": "TOMAR",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Yoğun ışık",
-      "answer": "LAZER",
+      "text": "Zürafa akrabası",
+      "answer": "OKAPİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yeşillik karışımı",
-      "answer": "SALATA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Yasa",
+      "answer": "KANUN",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Kayıp",
-      "answer": "YİTİK",
+      "text": "Yontma aracı",
+      "answer": "KESKİ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Viran",
-      "answer": "HARAP",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
+      "text": "Sıvı aracı",
+      "answer": "HUNİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Yıpratıcı, üstün",
-      "answer": "EZİCİ",
+      "text": "Körpe bitki",
+      "answer": "FİDE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yün kazak",
+      "answer": "SÜVETER",
       "row": 7,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yitik",
-      "answer": "KAYIP",
+      "text": "Deniz generali",
+      "answer": "AMİRAL",
       "row": 8,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
+      "text": "Aklanma",
+      "answer": "BERAAT",
       "row": 9,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Başlangıç",
-      "answer": "MİLAT",
+      "text": "Kilit açan araç",
+      "answer": "ANAHTAR",
       "row": 10,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Vaka, hadise",
-      "answer": "OLAY",
+      "text": "Büyük heyecan",
+      "answer": "COŞKU",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Deftere geçirme",
-      "answer": "KAYIT",
-      "row": 5,
+      "text": "Gündoğusu yeli",
+      "answer": "SABA",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Acımasız, zulmeden",
-      "answer": "ZALİM",
-      "row": 0,
+      "text": "Meclis komisyonu",
+      "answer": "ENCÜMEN",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Serbest bırakma",
-      "answer": "AZAT",
+      "text": "Ücretli otomobil",
+      "answer": "TAKSİ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Doktor",
-      "answer": "HEKİM",
-      "row": 5,
+      "text": "Aralıksız, durmadan",
+      "answer": "VİRA",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yetenek",
-      "answer": "YETİ",
+      "text": "Donuk, mat",
+      "answer": "OPAK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Maksimum",
-      "answer": "AZAMİ",
+      "text": "Geniş, açık",
+      "answer": "FERAH",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Uzak",
-      "answer": "IRAK",
+      "text": "Küçük, kısa",
+      "answer": "MİNİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Suudi parası",
-      "answer": "RİYAL",
+      "text": "Boyun eğme",
+      "answer": "İTAAT",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Merhamet duygusu",
-      "answer": "ACIMA",
+      "text": "Üçgen ova",
+      "answer": "DELTA",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Set, baraj",
-      "answer": "BENT",
+      "text": "Toprak işçisi",
+      "answer": "RENÇPER",
       "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "İçme borusu",
-      "answer": "PİPET",
-      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -155,11 +155,19 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
       "row": 1,
-      "col": 6
+      "col": 0
     },
     {
       "row": 2,
@@ -167,35 +175,23 @@
     },
     {
       "row": 3,
-      "col": 6
+      "col": 0
     },
     {
       "row": 4,
       "col": 6
     },
     {
-      "row": 5,
-      "col": 0
-    },
-    {
       "row": 6,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 0
-    },
-    {
       "row": 8,
-      "col": 0
+      "col": 7
     },
     {
       "row": 9,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 0
+      "col": 7
     }
   ],
   "difficulty": "orta",

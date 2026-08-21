@@ -5,128 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "İtalya'nın başkenti",
-      "answer": "ROMA",
+      "text": "Gizli sapma",
+      "answer": "KAÇAMAK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uygarlaşmamış",
-      "answer": "BARBAR",
+      "text": "Tuzlu su",
+      "answer": "DENİZ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İzin",
-      "answer": "MÜSAADE",
+      "text": "Bildik",
+      "answer": "TANIDIK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Katışıksız ırk",
-      "answer": "SAFKAN",
+      "text": "Baharat bitkisi",
+      "answer": "KEKİK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hasır kap",
-      "answer": "SEPET",
+      "text": "Geçimlik",
+      "answer": "NAFAKA",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Oymak, kabile",
-      "answer": "AŞİRET",
+      "text": "Ululuk",
+      "answer": "AZAMET",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bilme süreci",
-      "answer": "BİLİŞ",
+      "text": "Şu hâlde, artık",
+      "answer": "İMDİ",
       "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Renkli taş bezeme",
+      "answer": "MOZAİK",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dik dalış",
-      "answer": "PİKE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Top mermisi",
-      "answer": "OBÜS",
+      "text": "Adanan şey, nezir",
+      "answer": "ADAK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Küçük çocuk",
-      "answer": "SABİ",
+      "text": "Bolluk, rahatlık",
+      "answer": "NAİM",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çalışma mobilyası",
-      "answer": "MASA",
+      "text": "Çok konuşan kimse",
+      "answer": "ÇENEBAZ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kapı basamağı",
-      "answer": "EŞİK",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Cennetle cehennem arası",
-      "answer": "ARAF",
+      "text": "Hazır, amade",
+      "answer": "ANIK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kumaş kıvrımı",
-      "answer": "PİLE",
+      "text": "Kâr payı",
+      "answer": "FAİZ",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tek hücreli mikrop",
-      "answer": "BAKTERİ",
-      "row": 1,
+      "text": "Orta boy etek",
+      "answer": "MİDİ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ses, seda",
-      "answer": "SADA",
+      "text": "Şaşma ünlemi",
+      "answer": "AMMA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yol yiyeceği",
+      "answer": "AZIK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çamaşır leğeni",
-      "answer": "TEŞT",
+      "text": "Miyavlayan hayvan",
+      "answer": "KEDİ",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Görsel duyum",
-      "answer": "RENK",
-      "row": 1,
+      "text": "Bebek ayakkabısı",
+      "answer": "PATİK",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -134,10 +134,10 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 6
     },
     {
-      "row": 0,
+      "row": 2,
       "col": 6
     },
     {
@@ -145,20 +145,8 @@
       "col": 0
     },
     {
-      "row": 6,
-      "col": 6
-    },
-    {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 0
     }
   ],
   "difficulty": "kolay",

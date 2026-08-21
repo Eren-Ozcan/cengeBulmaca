@@ -1,0 +1,155 @@
+{
+  "id": "puzzle-157",
+  "title": "Bulmaca 157",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Manisa ilçesi",
+      "answer": "SOMA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Rütbeli asker",
+      "answer": "ERBAŞ",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Satış bankosu",
+      "answer": "TEZGAH",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Akım azaltıcı",
+      "answer": "REOSTA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Beceri",
+      "answer": "MAHARET",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güldürü",
+      "answer": "KOMEDİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bitkin, tükenmiş",
+      "answer": "BİTİK",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Şarkı filmi",
+      "answer": "KLİP",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yiyecek stoku",
+      "answer": "ERZAK",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İçki yiyeceği",
+      "answer": "MEZE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Uğraşı, merak",
+      "answer": "HOBİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Jargon",
+      "answer": "ARGO",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek hücreli canlı",
+      "answer": "AMİP",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sağgörü",
+      "answer": "BASİRET",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kader, yazgı",
+      "answer": "BAHT",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Edebiyatçı, yazar",
+      "answer": "EDİP",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski, kadim",
+      "answer": "ANTİK",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 285
+}

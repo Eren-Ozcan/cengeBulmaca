@@ -1,0 +1,162 @@
+{
+  "id": "puzzle-155",
+  "title": "Bulmaca 155",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Borç teminatı",
+      "answer": "TUTU",
+      "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Taklit, düzme",
+      "answer": "SAHTE",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kirli, pis",
+      "answer": "MURDAR",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Deprem",
+      "answer": "ZELZELE",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bebek yatağı",
+      "answer": "BEŞİK",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yolcu topluluğu",
+      "answer": "KAFİLE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Cam kap",
+      "answer": "ŞİŞE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ramazan namazı",
+      "answer": "TERAVİH",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mor kokulu çiçek",
+      "answer": "MENEKŞE",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İzlenen yol",
+      "answer": "USUL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şiir ustası",
+      "answer": "ŞAİR",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Üslup",
+      "answer": "TARZ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Açığa çıkarma",
+      "answer": "İFŞA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Görev, sorumluluk",
+      "answer": "UHDE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ukrayna'nın başkenti",
+      "answer": "KİEV",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Pudra minerali",
+      "answer": "TALK",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yuvarlak başlık",
+      "answer": "BERE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İddia çürütme",
+      "answer": "CERH",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 5
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 283
+}

@@ -1,0 +1,204 @@
+{
+  "id": "puzzle-146",
+  "title": "Bulmaca 146",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "İhtişam",
+      "answer": "GÖRKEM",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hayvan bilimi",
+      "answer": "ZOOLOJİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Uygulama yolu",
+      "answer": "TEKNİK",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gemi işçileri",
+      "answer": "TAYFA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hırslı, açgözlü",
+      "answer": "HARİS",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Havada duran",
+      "answer": "ASILI",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yoğun ışık",
+      "answer": "LAZER",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kesinlikle",
+      "answer": "MUTLAKA",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ana hatlar",
+      "answer": "ÖZET",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sert kabuklu yemiş",
+      "answer": "BADEM",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Salata yeşilliği",
+      "answer": "ROKA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Mevlana ilimiz",
+      "answer": "KONYA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yakışıksız davranış",
+      "answer": "HALT",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İlk Arap harfi",
+      "answer": "ELİF",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk anlatısı",
+      "answer": "MASAL",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kahve türü",
+      "answer": "MOKA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Onama, kabul",
+      "answer": "RIZA",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırmızı, küçük meyve",
+      "answer": "ÇİLEK",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Nakışlı, işlemeli",
+      "answer": "İŞLİ",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Dizi",
+      "answer": "SIRA",
+      "row": 6,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 2
+    },
+    {
+      "row": 5,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 0
+    }
+  ],
+  "difficulty": "orta",
+  "order": 274
+}

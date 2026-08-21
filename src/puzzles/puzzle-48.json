@@ -5,135 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Saç tokası",
-      "answer": "FİRKETE",
+      "text": "Özet",
+      "answer": "HÜLASA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Haz, keyif",
-      "answer": "ZEVK",
+      "text": "Kitap yazan",
+      "answer": "YAZAR",
       "row": 2,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gizli tertip",
-      "answer": "KOMPLO",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Takım, kadro",
-      "answer": "EKİP",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Tahta ayakkabı",
-      "answer": "SABO",
-      "row": 4,
+      "text": "Uyku giysisi",
+      "answer": "GECELİK",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Söz dalaşı",
-      "answer": "POLEMİK",
-      "row": 6,
+      "text": "Leyli",
+      "answer": "YATILI",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Erkek kardeş",
-      "answer": "BİRADER",
-      "row": 6,
+      "text": "Yürekler acısı",
+      "answer": "FECAAT",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "'Sen'in yönelme hâli",
-      "answer": "SANA",
+      "text": "Ocak birinci",
+      "answer": "YILBAŞI",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yediden sonraki sayı",
+      "answer": "SEKİZ",
       "row": 8,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bel-bacak arası",
-      "answer": "KALÇA",
+      "text": "Acı yemek",
+      "answer": "ACILI",
       "row": 9,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Basılış biçimi",
-      "answer": "BASKI",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Yapı tabanı",
+      "answer": "TEMEL",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Cezaevi, tutukluluk",
-      "answer": "HAPİS",
-      "row": 3,
+      "text": "Öz olmayan",
+      "answer": "ÜVEY",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bor tuzu",
-      "answer": "BORAKS",
-      "row": 4,
+      "text": "Etkinlik",
+      "answer": "EYLEM",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Caz çalıcısı",
+      "answer": "CAZCI",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İmkân",
-      "answer": "OLANAK",
-      "row": 4,
+      "text": "Sure bölümü",
+      "answer": "AYET",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ezerek yapılan yiyecek",
-      "answer": "EZME",
+      "text": "Çabuk satma",
+      "answer": "ALSAT",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İkinci gün",
+      "answer": "SALI",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Nazlı, işveli",
-      "answer": "EDALI",
+      "text": "İlk bilgi",
+      "answer": "ABECE",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Reaksiyon",
-      "answer": "TEPKİME",
+      "text": "Görevden alma",
+      "answer": "AZİL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Evlenmiş olan",
-      "answer": "EVLİ",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bilme, anlama, sezgi",
-      "answer": "İRFAN",
+      "text": "Eşya seti",
+      "answer": "TAKIM",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Cereyan",
+      "answer": "AKIŞ",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kopmuş olan",
-      "answer": "KOPUK",
-      "row": 1,
+      "text": "İstanbul ilçesi",
+      "answer": "ŞİLE",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Parlak kırmızı",
+      "answer": "KIZIL",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -141,59 +155,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 3
+      "col": 6
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 2
+      "row": 1,
+      "col": 7
     },
     {
       "row": 3,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 7
-    },
-    {
       "row": 9,
-      "col": 7
+      "col": 0
     },
     {
       "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 7
+      "col": 0
     }
   ],
   "difficulty": "orta",

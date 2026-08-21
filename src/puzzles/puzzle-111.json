@@ -1,0 +1,212 @@
+{
+  "id": "puzzle-111",
+  "title": "Bulmaca 111",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Cin çağıran",
+      "answer": "CİNCİ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bölge çevresi",
+      "answer": "YÖRE",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yatay eleman",
+      "answer": "KİRİŞ",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Az, önemsiz",
+      "answer": "CÜZİ",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Mor bitki",
+      "answer": "SÜSEN",
+      "row": 4,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yardım parası",
+      "answer": "İANE",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Halk ezgisi",
+      "answer": "TÜRKÜ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boş konuşma",
+      "answer": "ZIRVA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Onma",
+      "answer": "İFLAH",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ders anlatısı",
+      "answer": "KISSA",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gösteriş, fiyaka",
+      "answer": "CAKA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Mal satan",
+      "answer": "SATICI",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Eşlerin ebeveynleri",
+      "answer": "DÜNÜR",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sofra hizmeti",
+      "answer": "SERVİS",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Oldukça iyi",
+      "answer": "İYİCE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Baş",
+      "answer": "KAFA",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yinelenen düzen",
+      "answer": "ÖRÜNTÜ",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bunalım",
+      "answer": "KRİZ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Aynı değerde",
+      "answer": "EŞİT",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "İlave, ek",
+      "answer": "DAHA",
+      "row": 6,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 3,
+      "col": 1
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 239
+}

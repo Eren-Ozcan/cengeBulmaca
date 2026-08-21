@@ -5,114 +5,121 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Gizli yer",
-      "answer": "ZULA",
+      "text": "Üstün derece",
+      "answer": "REKOR",
       "row": 0,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Soru",
-      "answer": "SUAL",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İnce ekmek",
-      "answer": "LAVAŞ",
-      "row": 3,
+      "text": "Silindir biçimli tahıl kulesi",
+      "answer": "SİLO",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Süt içeceği",
-      "answer": "KEFİR",
-      "row": 3,
+      "text": "Ölüm",
+      "answer": "VEFAT",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yırtıcı av kuşu",
-      "answer": "ATMACA",
+      "text": "Duvar kaplaması",
+      "answer": "FAYANS",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Piknik yeri",
+      "answer": "MESİRE",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yer bulucu",
-      "answer": "RADAR",
+      "text": "Hızlı yol",
+      "answer": "OTOYOL",
       "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Aşağı karşıtı",
-      "answer": "YUKARI",
-      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Deri kızarıklığı",
-      "answer": "PİŞİK",
-      "row": 9,
-      "col": 1,
+      "text": "Aşırı korku",
+      "answer": "FOBİ",
+      "row": 8,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İslam bilginleri",
-      "answer": "ULEMA",
-      "row": 1,
+      "text": "Buhar banyosu",
+      "answer": "SAUNA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Pişmanlık, üzüntü",
+      "answer": "ESEF",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İrade zayıflığı",
-      "answer": "ZAAF",
+      "text": "Denizaygırı",
+      "answer": "MORS",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeterlilik",
+      "answer": "KİFAYET",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Oyuncu topluluğu",
-      "answer": "TRUP",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüce, manevi",
-      "answer": "ULVİ",
+      "text": "Vaka, hadise",
+      "answer": "OLAY",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Madagaskar maymunu",
-      "answer": "MAKİ",
+      "text": "Dindar kimse",
+      "answer": "SOFU",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dost",
-      "answer": "ARKADAŞ",
-      "row": 2,
+      "text": "İzlenecek yol",
+      "answer": "ROTA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yürürlükteki",
-      "answer": "CARİ",
+      "text": "Yüklü atom",
+      "answer": "İYON",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Giyside omuz parçası",
+      "answer": "ROBA",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sarılı başlık",
-      "answer": "SARIK",
-      "row": 4,
+      "text": "İri yapılı",
+      "answer": "CÜSSELİ",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     }
@@ -120,18 +127,6 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
       "col": 5
     },
     {
@@ -140,22 +135,14 @@
     },
     {
       "row": 1,
-      "col": 6
+      "col": 5
     },
     {
       "row": 2,
       "col": 5
     },
     {
-      "row": 2,
-      "col": 6
-    },
-    {
       "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
       "col": 5
     },
     {
@@ -163,12 +150,12 @@
       "col": 0
     },
     {
-      "row": 7,
+      "row": 8,
       "col": 0
     },
     {
       "row": 9,
-      "col": 0
+      "col": 6
     }
   ],
   "difficulty": "orta",

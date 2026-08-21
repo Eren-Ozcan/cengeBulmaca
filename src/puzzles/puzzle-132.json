@@ -1,0 +1,166 @@
+{
+  "id": "puzzle-132",
+  "title": "Bulmaca 132",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Toprak kurdu",
+      "answer": "SOLUCAN",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Deri kızarıklığı",
+      "answer": "PİŞİK",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Korkutan hayal",
+      "answer": "UMACI",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hareketsiz, durgun",
+      "answer": "SAKİN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mağara tavanı oluşumu",
+      "answer": "SARKIT",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Üçlü topluluk",
+      "answer": "TRİO",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Toprak makinesi",
+      "answer": "DOZER",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sırt ağrısı",
+      "answer": "KULUNÇ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Numaralı eser",
+      "answer": "OPUS",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hazır mal",
+      "answer": "STOK",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Peru'nun başkenti",
+      "answer": "LİMA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İstek, dilek",
+      "answer": "ARZU",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek hizmetçi",
+      "answer": "UŞAK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kamboçya para birimi",
+      "answer": "RİEL",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sevimli, hoş",
+      "answer": "CİCİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük orman",
+      "answer": "KORU",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sınır savaşçısı",
+      "answer": "AKINCI",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bronz",
+      "answer": "TUNÇ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 5
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 260
+}

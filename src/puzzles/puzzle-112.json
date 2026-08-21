@@ -1,0 +1,158 @@
+{
+  "id": "puzzle-112",
+  "title": "Bulmaca 112",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Borç belgesi",
+      "answer": "SENET",
+      "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ürün vergisi",
+      "answer": "ÖŞÜR",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Süslü hayal",
+      "answer": "FANTEZİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Süpermarket",
+      "answer": "MARKET",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Devlet gelirleri",
+      "answer": "MALİYE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Koşut",
+      "answer": "PARALEL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Para türü",
+      "answer": "NAKİT",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Besin ögesi",
+      "answer": "VİTAMİN",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İstenmeyen ileti",
+      "answer": "SPAM",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk dörtlüğü",
+      "answer": "MANİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yinelenen bölüm",
+      "answer": "NAKARAT",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Etkisiz, yansız",
+      "answer": "NÖTR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yoldaki çukur",
+      "answer": "LAKA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun kulaklı hayvan",
+      "answer": "EŞEK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilim, bilgi",
+      "answer": "İLİM",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hukuk",
+      "answer": "TÜZE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yetenek",
+      "answer": "YETİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayin",
+      "answer": "RİTÜEL",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 240
+}

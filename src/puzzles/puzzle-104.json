@@ -5,149 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Baş giysisi",
-      "answer": "ŞAPKA",
+      "text": "Annenin erkek kardeşi",
+      "answer": "DAYI",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yunan dansı",
-      "answer": "SİRTAKİ",
+      "text": "Bakmadan",
+      "answer": "EZBERE",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Düş, imge",
-      "answer": "HAYAL",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uzak karşıtı",
-      "answer": "YAKIN",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Onay damgası",
-      "answer": "VİZE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Alışılagelmiş, sıradan",
-      "answer": "RUTİN",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Altıdan sonraki sayı",
-      "answer": "YEDİ",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Fayda",
-      "answer": "YARAR",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Erkek çocuk",
-      "answer": "OĞLAN",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eskilik",
-      "answer": "KIDEM",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Aç olma",
-      "answer": "AÇLIK",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Düzen ve güvenlik",
-      "answer": "ASAYİŞ",
-      "row": 0,
       "col": 1,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Odunsu bitki",
-      "answer": "AĞAÇ",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Fasulye salatası",
-      "answer": "PİYAZ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tuzlu bisküvi",
-      "answer": "KRAKER",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Deriye konan ilaç",
-      "answer": "YAKI",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ata binen",
-      "answer": "ATLI",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Uyumamış",
-      "answer": "UYANIK",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Resmiyet görevlisi",
-      "answer": "NOTER",
+      "text": "Edat",
+      "answer": "İLGEÇ",
       "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kayıt şeridi",
+      "answer": "KASET",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sıkıntı, üzüntü",
+      "answer": "DERT",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Anaya dayalı düzen",
+      "answer": "ANAERKİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mücadele, savaş",
+      "answer": "CENK",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yol korkuluğu",
+      "answer": "BARİYER",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir baykuş türü",
+      "answer": "PUHU",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yakalama tuzağı",
+      "answer": "KAPAN",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hint giysisi",
+      "answer": "SARİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Deri kaplı çalgı",
+      "answer": "DARBUKA",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Rüzgâr bezi",
+      "answer": "YELKEN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hattat kâğıdı cilası",
+      "answer": "AHAR",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Metal pişirme aracı",
+      "answer": "IZGARA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hindistan parası",
+      "answer": "RUPİ",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kompozitör",
+      "answer": "BESTECİ",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Dövülmüş yün",
+      "answer": "KEÇE",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yönetme",
-      "answer": "İDARE",
+      "text": "Mağaza bölümü",
+      "answer": "REYON",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kayık türü",
+      "answer": "TEKNE",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Uyarı teli",
-      "answer": "SİNİR",
-      "row": 3,
+      "text": "Açıkça söyleme",
+      "answer": "İKRAR",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -155,7 +155,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
     },
     {
       "row": 0,
@@ -167,43 +171,47 @@
     },
     {
       "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
       "col": 6
     },
     {
       "row": 1,
       "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
     },
     {
       "row": 3,
-      "col": 6
+      "col": 7
     },
     {
       "row": 4,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
       "col": 6
     },
     {
-      "row": 6,
-      "col": 0
+      "row": 10,
+      "col": 6
     },
     {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 2
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 7
+      "row": 11,
+      "col": 4
     },
     {
       "row": 11,

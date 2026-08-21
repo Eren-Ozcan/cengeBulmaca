@@ -5,127 +5,134 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Otomobil",
-      "answer": "ARABA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bedensel özürlü",
-      "answer": "SAKAT",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İçki içilen yer",
-      "answer": "MEYHANE",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pers valisi",
-      "answer": "SATRAP",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İç organlar",
-      "answer": "SAKATAT",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yeni doğum yapmış",
-      "answer": "LOHUSA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bilek ayakkabısı",
-      "answer": "POTİN",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Emek kazancı",
-      "answer": "PARA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İnce dövülmüş et",
-      "answer": "ESKALOP",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "En büyük kıta",
-      "answer": "ASYA",
+      "text": "Kaza sigortası",
+      "answer": "KASKO",
       "row": 0,
       "col": 2,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Sınırlama miktarı",
-      "answer": "KOTA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kader, yazgı",
-      "answer": "BAHT",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sırada son",
-      "answer": "AHİR",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gelir taşınmazı",
-      "answer": "AKAR",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Avrupa nehri",
-      "answer": "TUNA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tropik meyve",
-      "answer": "ANANAS",
+      "text": "Cevizli sarımsaklı sos",
+      "answer": "TARATOR",
       "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gizli söz",
+      "answer": "PAROLA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bale sanatçısı",
+      "answer": "BALERİN",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "On iki parça",
+      "answer": "DÜZİNE",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Fabrika üretimi",
+      "answer": "İMALAT",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İstanbul'un eski adı",
+      "answer": "ASİTANE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İnceltici kimyasal",
+      "answer": "TİNER",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kör bağırsak uzantısı",
+      "answer": "APANDİS",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ülke hükümdarı",
+      "answer": "KRAL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Umut",
+      "answer": "ÜMİT",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İsviçre'de ırmak",
+      "answer": "AARE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Zaten",
+      "answer": "ZATİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Pencere perdesi",
+      "answer": "STOR",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Duyuru",
+      "answer": "İLAN",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Karton kutu",
+      "answer": "KOLİ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ritmik egzersiz",
-      "answer": "STEP",
+      "text": "Kokulu bitki",
+      "answer": "NANE",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Nispet",
+      "answer": "ORAN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yemek",
-      "answer": "TAAM",
+      "text": "Uçucu sıvı",
+      "answer": "ETER",
       "row": 5,
       "col": 6,
       "arrow": "down"
@@ -134,19 +141,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
-      "col": 5
+      "col": 1
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 5,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 5
+      "col": 0
     }
   ],
   "difficulty": "kolay",

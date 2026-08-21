@@ -1,0 +1,196 @@
+{
+  "id": "puzzle-120",
+  "title": "Bulmaca 120",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "İstemeyerek",
+      "answer": "ZORAKİ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ateşli hastalık",
+      "answer": "HUMMA",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bay",
+      "answer": "ERKEK",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Erin üstü",
+      "answer": "ONBAŞI",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Uçma organı",
+      "answer": "KANAT",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağırlaşan durum",
+      "answer": "VAHAMET",
+      "row": 6,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Taşıma kabı",
+      "answer": "KOVA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İnce ekmek",
+      "answer": "LAVAŞ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Süslü seramik",
+      "answer": "ÇİNİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Karanlık hapis",
+      "answer": "ZİNDAN",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağ atma",
+      "answer": "VOLİ",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dövme kabı",
+      "answer": "HAVAN",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Uyum, düzen, armoni",
+      "answer": "AHENK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kapsayan",
+      "answer": "HAVİ",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çift yaşamlı hayvan",
+      "answer": "KURBAĞA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Elverişli şart",
+      "answer": "İMKAN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kor aracı",
+      "answer": "MAŞA",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanan sopa",
+      "answer": "MEŞALE",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Enerji maddesi",
+      "answer": "YAKIT",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Soya peyniri",
+      "answer": "TOFU",
+      "row": 6,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 1
+    },
+    {
+      "row": 5,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 6
+    }
+  ],
+  "difficulty": "orta",
+  "order": 248
+}

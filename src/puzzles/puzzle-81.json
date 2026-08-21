@@ -5,121 +5,121 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Cambaz",
-      "answer": "AKROBAT",
+      "text": "Perdeli çalgı",
+      "answer": "GİTAR",
       "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Miktar eksilmesi",
-      "answer": "FİRE",
-      "row": 2,
       "col": 2,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Hareket",
-      "answer": "DEVİNİM",
-      "row": 2,
+      "text": "Kâkül",
+      "answer": "PERÇEM",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uzaklık",
-      "answer": "MESAFE",
-      "row": 4,
+      "text": "Bilinci bulanık",
+      "answer": "SERSEM",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uzun boylu ağaç",
-      "answer": "KAVAK",
-      "row": 5,
+      "text": "Çağrılı",
+      "answer": "DAVETLİ",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mevlevi büyüğü",
-      "answer": "ÇELEBİ",
+      "text": "Sarmal",
+      "answer": "SPİRAL",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hüzünlü şiir",
+      "answer": "ELEJİ",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ateşli salgın hastalık",
+      "answer": "DANG",
       "row": 7,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Koruyucu kap",
-      "answer": "KILIF",
-      "row": 7,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bel bağı",
-      "answer": "KEMER",
+      "text": "Bel-kuyruk arası",
+      "answer": "SAĞRI",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Cilt maddesi",
-      "answer": "KREM",
+      "text": "Kokulu sıvı",
+      "answer": "ESANS",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İş bırakma",
+      "answer": "GREV",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kapalı karşıtı",
-      "answer": "AÇIK",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gereksiz gürültü",
-      "answer": "VELVELE",
-      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Büro",
-      "answer": "OFİS",
+      "text": "Kıvrım dikiş",
+      "answer": "PENS",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde içinde",
+      "answer": "İÇRE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Satın alma",
-      "answer": "ALIM",
+      "text": "İptal etme",
+      "answer": "İLGA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İnsan yapısı",
-      "answer": "BİNA",
+      "text": "Dişli kesici",
+      "answer": "TESTERE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Terazi gözü",
-      "answer": "KEFE",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Anlayışlı, sezgili",
-      "answer": "ARİF",
+      "text": "İbadet",
+      "answer": "AMEL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dilek",
-      "answer": "TEMENNİ",
-      "row": 0,
+      "text": "İşlemede boşluk",
+      "answer": "AJUR",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ulusal",
+      "answer": "MİLLİ",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -127,19 +127,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 5,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 5
+      "col": 0
     },
     {
       "row": 8,
-      "col": 5
+      "col": 4
     },
     {
       "row": 8,
@@ -147,7 +151,7 @@
     },
     {
       "row": 9,
-      "col": 6
+      "col": 0
     }
   ],
   "difficulty": "zor",

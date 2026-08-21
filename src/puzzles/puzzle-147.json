@@ -1,0 +1,160 @@
+{
+  "id": "puzzle-147",
+  "title": "Bulmaca 147",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Bozukluk, kusur",
+      "answer": "DEFO",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kin tutan",
+      "answer": "KİNDAR",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sakin, edepli",
+      "answer": "USLU",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sansargillerden hayvan",
+      "answer": "PORSUK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Macera",
+      "answer": "SERÜVEN",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kongre ilimiz",
+      "answer": "SİVAS",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İleri karşıtı",
+      "answer": "GERİ",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Değerli yığın",
+      "answer": "HAZİNE",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hızlı tren",
+      "answer": "EKSPRES",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gemi topluluğu",
+      "answer": "FİLO",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Letonya'nın başkenti",
+      "answer": "RİGA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şeref, haysiyet",
+      "answer": "ONUR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırmızı meyveli ağaç",
+      "answer": "ÜVEZ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Atlı asker",
+      "answer": "SÜVARİ",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İlham",
+      "answer": "ESİN",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Tilki yüzlü hayvan",
+      "answer": "RAKUN",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 3,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 275
+}

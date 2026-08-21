@@ -1,0 +1,150 @@
+{
+  "id": "puzzle-113",
+  "title": "Bulmaca 113",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Olasılık",
+      "answer": "İHTİMAL",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Üyelik ücreti",
+      "answer": "AİDAT",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dirim bilimci",
+      "answer": "BİYOLOG",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Acımasız, zulmeden",
+      "answer": "ZALİM",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "En yüksek rütbe",
+      "answer": "MAREŞAL",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tek başına söyleyen",
+      "answer": "SOLİST",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuraklık tahılı",
+      "answer": "DARI",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bravo",
+      "answer": "AFERİN",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sahip olan",
+      "answer": "HAİZ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hiçbir zaman, kesinlikle",
+      "answer": "ASLA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sahne sanatı",
+      "answer": "TİYATRO",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok sevilen",
+      "answer": "İDOL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Toplamada aktarılan sayı",
+      "answer": "ELDE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Parayla ilgili",
+      "answer": "MALİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Düstur",
+      "answer": "ŞİAR",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Madde parçacığı",
+      "answer": "ATOM",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çağdaş, modern",
+      "answer": "ASRİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sarı maden",
+      "answer": "ALTIN",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 0
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 241
+}

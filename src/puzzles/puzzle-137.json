@@ -1,0 +1,197 @@
+{
+  "id": "puzzle-137",
+  "title": "Bulmaca 137",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Mevsimlik rüzgâr",
+      "answer": "MUSON",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Üstün eser",
+      "answer": "ŞAHESER",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ritimli dans",
+      "answer": "TANGO",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kısa silah",
+      "answer": "TABANCA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çenesi düşük",
+      "answer": "ÇALÇENE",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tahta üflemeli",
+      "answer": "FAGOT",
+      "row": 6,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Görme yetisi",
+      "answer": "GÖRÜM",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kümes hayvanı",
+      "answer": "TAVUK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ana yol",
+      "answer": "ARTER",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ölçüm aleti",
+      "answer": "SAYAÇ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Keçe şapka",
+      "answer": "FÖTR",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çeşni tozları",
+      "answer": "BAHARAT",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İletken madde",
+      "answer": "METAL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kumaş böceği",
+      "answer": "GÜVE",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bıkkınlık duygusu",
+      "answer": "USANÇ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Omurga kemiği",
+      "answer": "OMUR",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sana göre",
+      "answer": "SENCE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Vücut bölümü",
+      "answer": "ORGAN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük raflı dolap",
+      "answer": "ETAJER",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 6
+    }
+  ],
+  "difficulty": "orta",
+  "order": 265
+}

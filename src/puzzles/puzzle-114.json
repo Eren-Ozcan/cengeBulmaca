@@ -1,0 +1,203 @@
+{
+  "id": "puzzle-114",
+  "title": "Bulmaca 114",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Sert vuruş",
+      "answer": "SMAÇ",
+      "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hız dişlisi",
+      "answer": "VİTES",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Gösterişli, havalı",
+      "answer": "AFİLİ",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Enerji üretim yeri",
+      "answer": "SANTRAL",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşırı istek",
+      "answer": "HIRS",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sahne dansı",
+      "answer": "BALE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İçten bağlılık",
+      "answer": "SADAKAT",
+      "row": 6,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mazot",
+      "answer": "MOTORİN",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ofis",
+      "answer": "BÜRO",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bolluk",
+      "answer": "BEREKET",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çiçek kabı",
+      "answer": "SAKSI",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Saklambaçta ebeleme",
+      "answer": "SOBE",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Musluk takımı",
+      "answer": "ARMATÜR",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Peşin para",
+      "answer": "AVANS",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Altın sarısı",
+      "answer": "DORE",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek karşıtı",
+      "answer": "ÇİFT",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "17-18. yüzyıl üslubu",
+      "answer": "BAROK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağımlı, düşkün",
+      "answer": "TİRYAKİ",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde tuvalet",
+      "answer": "HELA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Beddua, kargış",
+      "answer": "LANET",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Karaltı",
+      "answer": "SİLÜET",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 7
+    }
+  ],
+  "difficulty": "orta",
+  "order": 242
+}

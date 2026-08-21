@@ -5,149 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Döşek",
-      "answer": "YATAK",
+      "text": "İçinde bulunan",
+      "answer": "DAHİL",
       "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Düzgün konuşan",
+      "answer": "FASİH",
+      "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kemik çatısı",
-      "answer": "İSKELET",
-      "row": 1,
+      "text": "Başkalaşma",
+      "answer": "DEĞİŞİM",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üzüm içkisi",
-      "answer": "ŞARAP",
-      "row": 3,
+      "text": "Uydurma söz",
+      "answer": "YALAN",
+      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Uyumlu düzen",
-      "answer": "İNSİCAM",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yıllık",
-      "answer": "ALMANAK",
+      "text": "Gümüş balığı",
+      "answer": "ATERİNA",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hint prensesi",
-      "answer": "BEGÜM",
+      "text": "Ekmek yiyeceği",
+      "answer": "KATIK",
       "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gagası keseli kuş",
+      "answer": "PELİKAN",
+      "row": 7,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Boğa güreşçisi",
+      "answer": "MATADOR",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
       "text": "Sebze satıcısı",
       "answer": "MANAV",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dakikanın altmışta biri",
-      "answer": "SANİYE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Saç kesimi",
-      "answer": "TIRAŞ",
       "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Basma başörtü",
-      "answer": "YEMENİ",
+      "text": "Söz dalaşı",
+      "answer": "POLEMİK",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Erkek ördek",
-      "answer": "SUNA",
+      "text": "Yok olma",
+      "answer": "HELAK",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sırlı kap",
-      "answer": "EMAYE",
-      "row": 6,
+      "text": "Ulaşım belgesi",
+      "answer": "PASO",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Vurucu söz",
-      "answer": "SLOGAN",
-      "row": 3,
+      "text": "Zırhlı kule",
+      "answer": "TARET",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Açık yeşil taş",
-      "answer": "YEŞİM",
+      "text": "Sağlıklı olma",
+      "answer": "AFİYET",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Birlik, bölüm",
-      "answer": "ÜNİTE",
-      "row": 6,
+      "text": "Sim işlemeli kumaş",
+      "answer": "LAME",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Karışık renkli",
-      "answer": "ALACA",
+      "text": "Yaramaz",
+      "answer": "HAŞARI",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gizli patlayıcı",
-      "answer": "MAYIN",
-      "row": 6,
+      "text": "Ölüm cezası",
+      "answer": "İDAM",
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Nağme",
-      "answer": "TERANE",
+      "text": "Ter kabarcığı",
+      "answer": "İSİLİK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Temel bilgi",
-      "answer": "VERİ",
+      "text": "Daire tabanlı cisim",
+      "answer": "KONİ",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tayin",
-      "answer": "ATAMA",
+      "text": "Gemi kıyısı",
+      "answer": "LİMAN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Küçük doğranmış et",
-      "answer": "KUŞBAŞI",
-      "row": 4,
+      "text": "Kamış içkisi",
+      "answer": "ARAK",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce, zarif",
+      "answer": "NARİN",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -170,8 +177,16 @@
       "col": 7
     },
     {
-      "row": 2,
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
       "col": 7
+    },
+    {
+      "row": 4,
+      "col": 0
     },
     {
       "row": 6,
@@ -179,19 +194,15 @@
     },
     {
       "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 6
+      "col": 0
     },
     {
       "row": 9,
-      "col": 6
+      "col": 7
     },
     {
       "row": 11,
-      "col": 6
+      "col": 7
     }
   ],
   "difficulty": "orta",

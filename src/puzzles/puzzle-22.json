@@ -5,170 +5,177 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Doğa",
-      "answer": "TABİAT",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ölünün yeri",
-      "answer": "KABİR",
-      "row": 2,
+      "text": "Misilleme cezası",
+      "answer": "KISAS",
+      "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gazete yazısı",
-      "answer": "MAKALE",
+      "text": "Saf, bön",
+      "answer": "AVANAK",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Uyarı aleti",
-      "answer": "SİREN",
+      "text": "Yalnızca",
+      "answer": "SADECE",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Rehber",
+      "answer": "KILAVUZ",
       "row": 4,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Boş ağırlık",
-      "answer": "DARA",
+      "text": "İnce karşıtı",
+      "answer": "KABA",
       "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Bile, üstelik",
-      "answer": "HATTA",
+      "text": "Özge",
+      "answer": "BAŞKA",
       "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gümüş balık",
+      "answer": "KEFAL",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tertemiz",
-      "answer": "LEKESİZ",
+      "text": "Duvar ocağı",
+      "answer": "ŞÖMİNE",
       "row": 8,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Savaşçı kadın",
-      "answer": "AMAZON",
+      "text": "Dil bilgisi",
+      "answer": "GRAMER",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kısa namlulu tüfek",
-      "answer": "FİLİNTA",
+      "text": "Adet",
+      "answer": "TANE",
       "row": 10,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Duygu dolu",
-      "answer": "LİRİK",
+      "text": "O kadar",
+      "answer": "ONCA",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kütahya ilçesi",
+      "answer": "EMET",
       "row": 11,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Aritmetik işlem",
-      "answer": "HESAP",
+      "text": "Beş kenarlı çokgen",
+      "answer": "BEŞGEN",
       "row": 5,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Baklagillerden ağaç",
-      "answer": "AKASYA",
-      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kalıcı, ölümsüz",
-      "answer": "BAKİ",
-      "row": 0,
+      "text": "Kadın berberi",
+      "answer": "KUAFÖR",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Zararı giderme",
-      "answer": "TELAFİ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Oluşan, meydana gelen",
-      "answer": "İBARET",
+      "text": "Küf kokulu",
+      "answer": "SASI",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Buyruk",
-      "answer": "EMİR",
-      "row": 7,
+      "text": "Gürültü patırtı",
+      "answer": "ŞAMATA",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ev halkı",
-      "answer": "AİLE",
+      "text": "Saf, şaşkın",
+      "answer": "AVAL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bazik madde",
-      "answer": "ALKALİ",
+      "text": "Hava cihazı",
+      "answer": "KLİMA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eğilim, yönelim",
-      "answer": "TREND",
+      "text": "Fakire verilen",
+      "answer": "SADAKA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çarpma beresi",
-      "answer": "EZİK",
+      "text": "Nine",
+      "answer": "NENE",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Rakıya koku veren",
-      "answer": "ANASON",
-      "row": 4,
+      "text": "Ses, ahenk, nağme",
+      "answer": "NEVA",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hakkında",
-      "answer": "DAİR",
+      "text": "Akciğer hastalığı",
+      "answer": "VEREM",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tuhaf şey",
+      "answer": "ACUBE",
       "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Peru parası",
-      "answer": "İNTİ",
-      "row": 7,
-      "col": 7,
+      "text": "Aynı biçimde",
+      "answer": "KEZA",
+      "row": 1,
+      "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Yeme organı",
-      "answer": "AĞIZ",
-      "row": 4,
+      "text": "Yanak içi",
+      "answer": "AVURT",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -176,63 +183,67 @@
   "blocks": [
     {
       "row": 0,
-      "col": 6
+      "col": 0
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 8
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 8
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 8
-    },
-    {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 7,
       "col": 1
     },
     {
-      "row": 9,
-      "col": 8
+      "row": 0,
+      "col": 2
     },
     {
-      "row": 11,
+      "row": 0,
       "col": 6
     },
     {
-      "row": 11,
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 0,
       "col": 8
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 1
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "zor",

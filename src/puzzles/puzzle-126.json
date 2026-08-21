@@ -1,0 +1,204 @@
+{
+  "id": "puzzle-126",
+  "title": "Bulmaca 126",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Değiş tokuş",
+      "answer": "TAKAS",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Parça sanatı",
+      "answer": "KOLAJ",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kitap satan",
+      "answer": "KİTAPÇI",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ekalliyet",
+      "answer": "AZINLIK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilgisayarda veri",
+      "answer": "DATA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Türk boyu",
+      "answer": "HAZAR",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hücre topluluğu",
+      "answer": "DOKU",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kukla oynatan",
+      "answer": "KUKLACI",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Koyu karşıtı",
+      "answer": "SULU",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şaka seven",
+      "answer": "ŞAKACI",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Saç aracı",
+      "answer": "TOKA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Eğimli yer",
+      "answer": "YOKUŞ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tropikal rüzgâr",
+      "answer": "ALİZE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sarımsı at donu",
+      "answer": "KULA",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Maddenin sert hâli",
+      "answer": "KATI",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yasalar bütünü",
+      "answer": "HUKUK",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Notluk defter",
+      "answer": "AJANDA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kanın sıvı bölümü",
+      "answer": "PLAZMA",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce, uzun tahta",
+      "answer": "ÇITA",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Menfaatçi",
+      "answer": "ÇIKARCI",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 7
+    }
+  ],
+  "difficulty": "orta",
+  "order": 254
+}

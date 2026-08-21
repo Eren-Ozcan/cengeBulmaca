@@ -5,198 +5,184 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Su sporu",
-      "answer": "SÖRF",
+      "text": "Bükülü iplik",
+      "answer": "BÜKME",
       "row": 0,
-      "col": 0,
+      "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Para dolabı",
-      "answer": "KASA",
+      "text": "Ekmekli çorba",
+      "answer": "PAPARA",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Kayra",
-      "answer": "LÜTUF",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Hazır, amade",
-      "answer": "ANIK",
+      "text": "İstikbal",
+      "answer": "GELECEK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hangi yer",
-      "answer": "NERE",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Hafif müzikli oyun",
-      "answer": "OPERET",
+      "text": "Yeşillik karışımı",
+      "answer": "SALATA",
       "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kalem içi",
-      "answer": "GRAFİT",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yetmiş dokuzdan sonra",
-      "answer": "SEKSEN",
-      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Buhar yığını",
-      "answer": "BULUT",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Cinayete dair",
-      "answer": "CİNAİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zodyak takımyıldızı",
-      "answer": "BURÇ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zola romanı",
-      "answer": "NANA",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Açıkça söyleme",
-      "answer": "İKRAR",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Turnusol kızartan",
-      "answer": "ASİT",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kulplu su tası",
-      "answer": "MAŞRAPA",
-      "row": 12,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İşi yapan öge",
-      "answer": "ÖZNE",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Baharatlı kıyma",
-      "answer": "SUCUK",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hasılat",
-      "answer": "GELİR",
+      "text": "Hayvan derisi",
+      "answer": "POST",
       "row": 4,
-      "col": 2,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Dehşet verici",
-      "answer": "KORKUNÇ",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hamur tatlısı",
-      "answer": "PASTA",
-      "row": 3,
+      "text": "Nişasta bulamacı",
+      "answer": "KOLA",
+      "row": 5,
       "col": 4,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Tel kadayıf tatlısı",
-      "answer": "KÜNEFE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
+      "text": "Para torbası",
+      "answer": "KESE",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Yadsıma",
-      "answer": "İNKAR",
+      "text": "Enerji çeviren düzenek",
+      "answer": "MAKİNE",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hoşluk",
+      "answer": "LETAFET",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Vücut yapısı bilimi",
+      "answer": "ANATOMİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İşkence",
+      "answer": "EZİYET",
+      "row": 11,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bando",
+      "answer": "MIZIKA",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Amerika parası",
+      "answer": "PESO",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Harç aracı",
+      "answer": "MALA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Asker kemeri",
+      "answer": "PALASKA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Edirne ilçesi",
+      "answer": "ENEZ",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dili dolaşan",
+      "answer": "PELTEK",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Av köpeği",
+      "answer": "TAZI",
+      "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Duman yolu",
+      "answer": "BACA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalça siniri",
+      "answer": "SİYATİK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok üreten",
+      "answer": "ÜRETKEN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gümüş balığı",
-      "answer": "ATERİNA",
+      "text": "Sahte parlaklık",
+      "answer": "FOYA",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çikolata maddesi",
+      "answer": "KAKAO",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yapı arazisi",
-      "answer": "ARSA",
-      "row": 8,
+      "text": "Seçme aşaması",
+      "answer": "ELEME",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kopya",
-      "answer": "SURET",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Hükümdar vekili",
-      "answer": "NAİP",
+      "text": "Unvan",
+      "answer": "TİTR",
       "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yıkım, felaket",
-      "answer": "AFET",
+      "text": "Çete önderi",
+      "answer": "ELEBAŞI",
       "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Elden çıkarılan",
-      "answer": "ISKARTA",
-      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -204,7 +190,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
     },
     {
       "row": 0,
@@ -212,18 +202,26 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 7
     },
     {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 4,
+      "row": 1,
       "col": 0
     },
     {
-      "row": 5,
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 6,
       "col": 0
     },
     {
@@ -235,32 +233,32 @@
       "col": 7
     },
     {
-      "row": 10,
+      "row": 8,
       "col": 0
     },
     {
+      "row": 8,
+      "col": 8
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
       "row": 10,
-      "col": 2
+      "col": 8
     },
     {
       "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 1
-    },
-    {
-      "row": 11,
-      "col": 2
-    },
-    {
-      "row": 11,
-      "col": 3
+      "col": 8
     },
     {
       "row": 12,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "zor",

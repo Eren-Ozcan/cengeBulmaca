@@ -5,191 +5,163 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Uçmak işi",
-      "answer": "UÇUŞ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ulaşım belgesi",
-      "answer": "PASO",
+      "text": "Ayakla vuruş",
+      "answer": "TEKME",
       "row": 1,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yönlendirici belirti",
-      "answer": "İPUCU",
+      "text": "Erginlik",
+      "answer": "RÜŞT",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kilogramın binde biri",
-      "answer": "GRAM",
+      "text": "En az",
+      "answer": "ASGARİ",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Verilen bilgi",
-      "answer": "DERS",
+      "text": "Zarafet",
+      "answer": "İNCELİK",
       "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Et suyu ekmeği",
+      "answer": "TİRİT",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Erginleşmemiş tavuk",
+      "answer": "PİLİÇ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tat",
+      "answer": "LEZZET",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayvanlı öğüt öyküsü",
+      "answer": "FABL",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Marmara'da tatil adası",
+      "answer": "AVŞA",
+      "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kâr amaçsız kuruluş",
-      "answer": "DERNEK",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ekonomi bilimi",
-      "answer": "İKTİSAT",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Asılsız suçlama",
-      "answer": "İFTİRA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bin milyon",
-      "answer": "MİLYAR",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yağmur borusu",
-      "answer": "OLUK",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Deniz giysisi",
-      "answer": "MAYO",
+      "text": "Prens unvanı",
+      "answer": "ALTES",
       "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Soyluluk",
-      "answer": "ASALET",
-      "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Nispet",
-      "answer": "ORAN",
+      "text": "Ekşimsi yaz meyvesi",
+      "answer": "ERİK",
       "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İnce, uzun tahta",
-      "answer": "ÇITA",
-      "row": 11,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Zanaat öğrencisi",
-      "answer": "ÇIRAK",
-      "row": 0,
+      "text": "Ağız-burun arası",
+      "answer": "GENİZ",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Acıklı, korkunç",
+      "answer": "FECİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski değerli eşya",
+      "answer": "ANTİKA",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İpek eşarp",
-      "answer": "FULAR",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Şu anda",
-      "answer": "ŞİMDİ",
+      "text": "Resmî kayıt",
+      "answer": "TESCİL",
       "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Vur kaç savaşçısı",
+      "answer": "GERİLLA",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Elverişli şart",
-      "answer": "İMKAN",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Güldüren söz",
-      "answer": "ESPRİ",
-      "row": 3,
+      "text": "Kadın hükümdar eşi",
+      "answer": "KRALİÇE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yüz tozu",
-      "answer": "PUDRA",
+      "text": "Şeyh öğrencisi",
+      "answer": "MÜRİT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Alıcı cihaz",
-      "answer": "ALMAÇ",
+      "text": "Doğrusu, esasen",
+      "answer": "ZATEN",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bilet satan büro",
-      "answer": "ACENTE",
+      "text": "Kapı basamağı",
+      "answer": "EŞİK",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kıyı evi",
-      "answer": "YALI",
-      "row": 7,
+      "text": "Fedakârlık",
+      "answer": "ÖZVERİ",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kur'an bölümü",
-      "answer": "SURE",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Pek, çok",
-      "answer": "GAYET",
+      "text": "Bulunmaz",
+      "answer": "EŞSİZ",
       "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Güldürü oyunu",
-      "answer": "SKEÇ",
-      "row": 2,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "İzlenecek yol",
-      "answer": "ROTA",
-      "row": 7,
+      "text": "Mektup hizmeti",
+      "answer": "POSTA",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     }
@@ -197,23 +169,83 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
-      "col": 4
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 0,
       "col": 8
     },
     {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 8
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
       "row": 5,
       "col": 7
     },
     {
-      "row": 6,
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
       "col": 2
+    },
+    {
+      "row": 10,
+      "col": 3
+    },
+    {
+      "row": 11,
+      "col": 1
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "orta",

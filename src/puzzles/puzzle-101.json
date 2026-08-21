@@ -5,100 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Taş yolu",
-      "answer": "ŞOSE",
+      "text": "Tekdüze",
+      "answer": "MONOTON",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İşten anlayan",
-      "answer": "ERBAP",
+      "text": "Şampiyonluk ödülü",
+      "answer": "KUPA",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Korunma duruşu",
-      "answer": "GARD",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tek satıcılık",
-      "answer": "TEKEL",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Çengel oyunu",
-      "answer": "BULMACA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ulus",
-      "answer": "MİLLET",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zamanında olan",
-      "answer": "DAKİK",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ana, valide",
-      "answer": "ANNE",
-      "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Korkutan hayal",
-      "answer": "UMACI",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
+      "text": "Çok çirkin",
+      "answer": "GUDUBET",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Katılık",
-      "answer": "SERTLİK",
+      "text": "Kira ödeyen",
+      "answer": "KİRACI",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tropik çayır",
+      "answer": "SAVANA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Salgın ishal hastalığı",
+      "answer": "KOLERA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ünite",
+      "answer": "BİRİM",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ödev",
+      "answer": "VAZİFE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çukur yer",
+      "answer": "OYUK",
       "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Isınma aracı",
+      "answer": "SOBA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kan temizleme",
+      "answer": "DİYALİZ",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Faziletli",
-      "answer": "ERDEMLİ",
+      "text": "Okuyucu",
+      "answer": "OKUR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Korunma aracı",
-      "answer": "KALKAN",
-      "row": 3,
+      "text": "Temel bilgi",
+      "answer": "VERİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Pistonlu çalgı",
+      "answer": "TUBA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İlk bilgi",
-      "answer": "ABECE",
-      "row": 1,
+      "text": "Anlayışlı, sezgili",
+      "answer": "ARİF",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Petrol ihraç edenler örgütü",
+      "answer": "OPEC",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Şaka",
-      "answer": "LATİFE",
-      "row": 3,
+      "text": "Mektup",
+      "answer": "NAME",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Söyleme yeteneği",
+      "answer": "NATIKA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -106,51 +134,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 4
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
       "col": 2
     },
     {
-      "row": 8,
-      "col": 3
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 5
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 6
     }
   ],
   "difficulty": "orta",

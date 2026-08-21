@@ -1,0 +1,277 @@
+{
+  "id": "puzzle-131",
+  "title": "Bulmaca 131",
+  "rows": 13,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "Altıdan sonraki sayı",
+      "answer": "YEDİ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şaşkınlık seslenişi",
+      "answer": "YAHU",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kuşatma",
+      "answer": "ABLUKA",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kiraya verilen",
+      "answer": "KİRALIK",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Semt bölümü",
+      "answer": "MAHALLE",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayâlı, utangaç",
+      "answer": "ARLI",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Taviz",
+      "answer": "ÖDÜN",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Alet, vasıta",
+      "answer": "ARAÇ",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kapı çerçevesi",
+      "answer": "SÖVE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kazıklı humma",
+      "answer": "TETANOS",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Resimde varlık biçimi",
+      "answer": "BETİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yunan aşk tanrısı",
+      "answer": "EROS",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüz güzelliği",
+      "answer": "CEMAL",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilinmeyen kimse",
+      "answer": "BİRİ",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "F simgeli element",
+      "answer": "FLOR",
+      "row": 12,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Öbürü",
+      "answer": "ÖTEKİ",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sürekli, kesintisiz",
+      "answer": "DAİM",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çağrı",
+      "answer": "DAVET",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Borçtan aklama",
+      "answer": "İBRA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yetiştirici",
+      "answer": "ÜRETİCİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Katmerli sebze",
+      "answer": "LAHANA",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yönetme ipi",
+      "answer": "YULAR",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Böcek evresi",
+      "answer": "NEMF",
+      "row": 8,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Zeki, uslu",
+      "answer": "AKILLI",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Maneviyat",
+      "answer": "MORAL",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğru olan",
+      "answer": "HAKLI",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek icra",
+      "answer": "SOLO",
+      "row": 8,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 8
+    },
+    {
+      "row": 3,
+      "col": 8
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 1
+    },
+    {
+      "row": 5,
+      "col": 8
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 8
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 8
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 8
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
+      "row": 11,
+      "col": 8
+    }
+  ],
+  "difficulty": "zor",
+  "order": 259
+}

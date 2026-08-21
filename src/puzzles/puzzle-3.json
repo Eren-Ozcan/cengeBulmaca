@@ -5,142 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Katman",
-      "answer": "TABAKA",
+      "text": "Tac Mahal'in kenti",
+      "answer": "AGRA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İnce, zarif",
-      "answer": "NARİN",
+      "text": "Alışılagelmiş, sıradan",
+      "answer": "RUTİN",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ada sakini",
-      "answer": "ADALI",
-      "row": 3,
+      "text": "Organ sancısı",
+      "answer": "KOLİK",
+      "row": 2,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Uçak kullanıcısı",
-      "answer": "PİLOT",
+      "text": "Albayın üstü",
+      "answer": "GENERAL",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kuraklık tahılı",
-      "answer": "DARI",
+      "text": "Söz söyleme sanatı",
+      "answer": "HİTABET",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tanıtım",
-      "answer": "REKLAM",
+      "text": "Şaşkın, bilemeyen",
+      "answer": "AFAL",
       "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Dev dalga",
+      "answer": "TSUNAMİ",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Büyük acı, ıstırap",
-      "answer": "AZAP",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Olay",
-      "answer": "HADİSE",
+      "text": "İkiyüzlü",
+      "answer": "RİYAKAR",
       "row": 8,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Namaza çağrı",
-      "answer": "EZAN",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
+      "text": "Mevzu",
+      "answer": "KONU",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "İri yapılı",
-      "answer": "CÜSSELİ",
+      "text": "Üst sınır",
+      "answer": "LİMİT",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sermaye",
-      "answer": "ANAPARA",
+      "text": "Sarsılmış boksör",
+      "answer": "GROGİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ani tehlike",
-      "answer": "BADİRE",
+      "text": "Dip ağı",
+      "answer": "TROL",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kumar oyunu",
+      "answer": "RULET",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yılın son ayı",
-      "answer": "ARALIK",
+      "text": "Yemek tepsisi",
+      "answer": "SİNİ",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yunanistan'ın başkenti",
+      "answer": "ATİNA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bin gram",
-      "answer": "KİLO",
-      "row": 0,
+      "text": "Ahenk",
+      "answer": "UYUM",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çiçek düzenleme",
+      "answer": "İKEBANA",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kemik oyunu",
-      "answer": "LADES",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Abide",
-      "answer": "ANIT",
-      "row": 0,
+      "text": "Eşlik etme",
+      "answer": "REFAKAT",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kutsal kadın",
-      "answer": "AZİZE",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Halk anlatısı",
-      "answer": "MASAL",
-      "row": 5,
+      "text": "Tayin",
+      "answer": "ATAMA",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Süreç adımı",
-      "answer": "AŞAMA",
+      "text": "Avrupa-Asya sınırı",
+      "answer": "URAL",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sterlin parçası",
-      "answer": "PENİ",
-      "row": 6,
+      "text": "Duygu dolu",
+      "answer": "LİRİK",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -148,7 +155,19 @@
   "blocks": [
     {
       "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 6
+    },
+    {
+      "row": 1,
+      "col": 5
     },
     {
       "row": 1,
@@ -159,36 +178,20 @@
       "col": 6
     },
     {
-      "row": 3,
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
       "col": 6
     },
     {
-      "row": 4,
+      "row": 10,
       "col": 6
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 2
     }
   ],
   "difficulty": "kolay",

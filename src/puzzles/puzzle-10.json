@@ -5,207 +5,217 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Onay, izin, tasdik",
-      "answer": "OLUR",
+      "text": "Doğru, isabetli",
+      "answer": "RAST",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tenis sahası",
-      "answer": "KORT",
+      "text": "Deriye konan ilaç",
+      "answer": "YAKI",
       "row": 1,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Merak sözü",
-      "answer": "ACABA",
+      "text": "Süregelen düzen",
+      "answer": "STATÜKO",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yardım sözü",
-      "answer": "AMAN",
+      "text": "Normalden küçük",
+      "answer": "UFAK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Takdim",
-      "answer": "SUNU",
+      "text": "Sivas ilçesi",
+      "answer": "ZARA",
       "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kayağan taş",
-      "answer": "ARDUVAZ",
+      "text": "Doğulu müzik türü",
+      "answer": "ARABESK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Salata bitkisi",
-      "answer": "TERE",
+      "text": "Gök zirvesi",
+      "answer": "AYYUK",
       "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Harita kitabı",
+      "answer": "ATLAS",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Abide",
+      "answer": "ANIT",
+      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Somunlu vida",
-      "answer": "CIVATA",
-      "row": 6,
+      "text": "Bilyeli yatak",
+      "answer": "RULMAN",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Akla uygun",
-      "answer": "MAKUL",
-      "row": 6,
+      "text": "Süslü ipek kumaş",
+      "answer": "DİBA",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bilgin kimse",
-      "answer": "ALİM",
-      "row": 7,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tartı aleti",
-      "answer": "TERAZİ",
+      "text": "Etkin, çalışkan",
+      "answer": "FAAL",
       "row": 9,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Delikli kumaş",
-      "answer": "ETAMİN",
+      "text": "Yataktan kalkamayan",
+      "answer": "YATALAK",
       "row": 10,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Anason kokulu bitki",
-      "answer": "REZENE",
+      "text": "Çatallı bitki",
+      "answer": "ÇALI",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Vurgun, tutkun",
+      "answer": "AŞIK",
       "row": 11,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Tahıl içkisi",
-      "answer": "VİSKİ",
+      "text": "Ekşi, sarı meyve",
+      "answer": "LİMON",
       "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "And hayvanı",
-      "answer": "LAMA",
+      "text": "Yol kaplaması",
+      "answer": "ASFALT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yoğurtlu meze",
-      "answer": "CACIK",
-      "row": 5,
+      "text": "Suudi parası",
+      "answer": "RİYAL",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Geriye kalan",
-      "answer": "ARTIK",
-      "row": 2,
+      "text": "Ünlü oyuncu",
+      "answer": "STAR",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Buluşma sözü",
-      "answer": "RANDEVU",
+      "text": "Senli benli",
+      "answer": "LAUBALİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Karadeniz teknesi",
+      "answer": "TAKA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Arka yüz",
-      "answer": "TERS",
-      "row": 8,
+      "text": "İfade",
+      "answer": "ANLATIM",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Avrupa-Asya sınırı",
-      "answer": "URAL",
+      "text": "Basılıp çoğaltma",
+      "answer": "BASIM",
       "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Belden aşağı giysi",
-      "answer": "ETEK",
+      "text": "Satıh",
+      "answer": "YÜZEY",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaprak dökmeyen çalı",
+      "answer": "TAFLAN",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Baklagillerden ağaç",
+      "answer": "AKASYA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Cenaze, ölü beden",
+      "answer": "NAAŞ",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tehlike kaygısı",
+      "answer": "KORKU",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Karşılıklı anlaşma",
+      "answer": "AKIT",
       "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İç sıkıntısı",
-      "answer": "KASVET",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeryüzü toprağı",
-      "answer": "ARAZİ",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Çift kamışlı çalgı",
-      "answer": "OBUA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Çok bilgili",
-      "answer": "ALLAME",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Katlı yatak",
-      "answer": "RANZA",
-      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Verilen özgürlük",
-      "answer": "İZİN",
-      "row": 7,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Bilgi toplantısı",
-      "answer": "SEMİNER",
-      "row": 5,
+      "text": "Görevli topluluk",
+      "answer": "KURUL",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 2
-    },
     {
       "row": 0,
       "col": 4
@@ -219,40 +229,20 @@
       "col": 8
     },
     {
-      "row": 4,
-      "col": 8
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
       "row": 6,
       "col": 7
     },
     {
-      "row": 8,
+      "row": 7,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 9,
-      "col": 0
+      "row": 7,
+      "col": 7
     },
     {
       "row": 10,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 1
+      "col": 8
     },
     {
       "row": 12,
@@ -260,7 +250,7 @@
     },
     {
       "row": 12,
-      "col": 7
+      "col": 8
     }
   ],
   "difficulty": "zor",

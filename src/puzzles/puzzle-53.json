@@ -5,128 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "İçten bağlılık",
-      "answer": "SADAKAT",
+      "text": "Yakınma",
+      "answer": "ŞİKAYET",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güç, takat",
-      "answer": "MECAL",
+      "text": "Avrupa nehri",
+      "answer": "TUNA",
       "row": 2,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gemi onarımı",
-      "answer": "KALAFAT",
+      "text": "Çok güçlü fırtına",
+      "answer": "KASIRGA",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Arnavutluk'un başkenti",
-      "answer": "TİRAN",
+      "text": "Yaz rüzgârı",
+      "answer": "MELTEM",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kadın rahip",
-      "answer": "RAHİBE",
+      "text": "Belirtke",
+      "answer": "AMBLEM",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yuvarlak uçlu silah",
-      "answer": "TOPUZ",
+      "text": "Olağanüstü",
+      "answer": "HARİKA",
       "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Soyağacı",
-      "answer": "ŞECERE",
-      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Göz-kulak arası",
-      "answer": "ŞAKAK",
+      "text": "Kıyafet",
+      "answer": "GİYİM",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yedek kaynak",
+      "answer": "REZERV",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Meraklı, hevesli",
-      "answer": "AMATÖR",
+      "text": "Mahkeme belgesi",
+      "answer": "İLAM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Aklını yitirmiş",
-      "answer": "DELİ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yanma olayı, od",
-      "answer": "ATEŞ",
+      "text": "Sırada son",
+      "answer": "AHİR",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Anapara",
+      "answer": "SERMAYE",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Güçlü, becerikli",
-      "answer": "ACAR",
+      "text": "Hareketsiz, işlevsiz",
+      "answer": "ATIL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Öğretmen",
-      "answer": "HOCA",
+      "text": "Meltem",
+      "answer": "BRİZ",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Baş",
-      "answer": "KAFA",
+      "text": "Vatan",
+      "answer": "YURT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Koza ipliği",
-      "answer": "İPEK",
+      "text": "Parça, dilim",
+      "answer": "LİME",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Saha, meydan",
-      "answer": "ALAN",
+      "text": "Üçgen başlı yılan",
+      "answer": "ENGEREK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yakın yer",
-      "answer": "BURA",
-      "row": 5,
-      "col": 5,
+      "text": "Yemek",
+      "answer": "TAAM",
+      "row": 0,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Süsleme motifi",
-      "answer": "BEZEK",
-      "row": 4,
+      "text": "Perişan olma",
+      "answer": "MAHV",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -134,23 +134,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 6
+      "col": 2
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 0
+      "row": 8,
+      "col": 5
     }
   ],
   "difficulty": "kolay",

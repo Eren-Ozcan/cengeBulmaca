@@ -1,0 +1,209 @@
+{
+  "id": "puzzle-133",
+  "title": "Bulmaca 133",
+  "rows": 12,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Savaşla alma",
+      "answer": "FETİH",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Aferin",
+      "answer": "BRAVO",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Başlangıçta",
+      "answer": "İLKİN",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sahibine verme",
+      "answer": "TESLİM",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kanun",
+      "answer": "YASA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaşlı bilge",
+      "answer": "AKSAKAL",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yelken ipi",
+      "answer": "ORSA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kapaklı pişirme kabı",
+      "answer": "TENCERE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eşeysel",
+      "answer": "CİNSEL",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Akılsız kimse",
+      "answer": "AHMAK",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kakaolu pasta",
+      "answer": "TURTA",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gösterge çubuğu",
+      "answer": "İBRE",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sanatçı, oyuncu",
+      "answer": "ARTİST",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yetmiş dokuzdan sonra",
+      "answer": "SEKSEN",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İşi yapan",
+      "answer": "FAİL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kürklü küçük yırtıcı",
+      "answer": "SANSAR",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ermiş",
+      "answer": "EVLİYA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çabalama",
+      "answer": "CEHT",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağaç çekiç",
+      "answer": "TOKMAK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırmızı, sulu meyve",
+      "answer": "ELMA",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Başka, öteki, diğer",
+      "answer": "SAİR",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaba, iri",
+      "answer": "HANTAL",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeni karşıtı",
+      "answer": "ESKİ",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 6
+    }
+  ],
+  "difficulty": "orta",
+  "order": 261
+}

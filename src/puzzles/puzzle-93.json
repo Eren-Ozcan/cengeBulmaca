@@ -5,142 +5,142 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kalın değnek",
-      "answer": "SOPA",
-      "row": 0,
+      "text": "Çekingen",
+      "answer": "UTANGAÇ",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Bilardo sopası",
-      "answer": "İSTEKA",
+      "text": "Kural",
+      "answer": "KAİDE",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Dişi at",
-      "answer": "KISRAK",
+      "text": "Onarım işleri",
+      "answer": "TAMİRAT",
       "row": 3,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mesul",
-      "answer": "SORUMLU",
+      "text": "Herkesçe bilinen",
+      "answer": "AFİŞE",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sanayi, endüstri",
+      "answer": "URAN",
       "row": 4,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İnce yağ",
-      "answer": "NEFT",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Gece uçan memeli",
-      "answer": "YARASA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kapladığı boşluk",
-      "answer": "HACİM",
-      "row": 6,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Elde etme",
-      "answer": "TEMİN",
+      "text": "Tek satıcılık",
+      "answer": "TEKEL",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Diz üstü şort",
+      "answer": "BERMUDA",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kolsuz üst giysi",
-      "answer": "JİLE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Ortaya koyma",
+      "answer": "İBRAZ",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Koyun başı",
-      "answer": "KELLE",
+      "text": "Hamur tatlısı",
+      "answer": "PASTA",
       "row": 10,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kalça siniri",
-      "answer": "SİYATİK",
-      "row": 3,
+      "text": "Kılavuz",
+      "answer": "REHBER",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kenar süsü dikişi",
-      "answer": "PİKO",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çabukluk",
-      "answer": "ACELE",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüzyıl",
-      "answer": "ASIR",
+      "text": "Bozulmamış, saf",
+      "answer": "AKMAN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kirpik boyası",
-      "answer": "RİMEL",
-      "row": 5,
+      "text": "Yapmacık tavır",
+      "answer": "TRİP",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dev dalga",
-      "answer": "TSUNAMİ",
-      "row": 1,
+      "text": "Saf, deneyimsiz, toy",
+      "answer": "NAİF",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yardım şenliği",
-      "answer": "KERMES",
+      "text": "Kaynak",
+      "answer": "MEMBA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Methal",
+      "answer": "GİRİŞ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çırak-usta arası",
-      "answer": "KALFA",
-      "row": 1,
+      "text": "Eğitim programı",
+      "answer": "KURS",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ad ortağı",
+      "answer": "ADAŞ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kırmızı değerli taş",
-      "answer": "YAKUT",
+      "text": "İlgi kuran sözcük",
+      "answer": "EDAT",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Suç topluluğu",
+      "answer": "ÇETE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Aşçı ilimiz",
-      "answer": "BOLU",
-      "row": 6,
+      "text": "İş merkezi",
+      "answer": "PLAZA",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -148,55 +148,47 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 2
     },
     {
       "row": 2,
       "col": 0
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 2,
+      "col": 1
     },
     {
       "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 5
+      "row": 6,
+      "col": 2
     },
     {
       "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 6
+      "col": 0
     },
     {
       "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 0
     },
     {
       "row": 10,
-      "col": 6
+      "col": 0
     }
   ],
   "difficulty": "zor",

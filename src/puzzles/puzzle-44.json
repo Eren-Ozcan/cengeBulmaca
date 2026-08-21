@@ -5,140 +5,137 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Döşem",
-      "answer": "TESİSAT",
+      "text": "Su üstü çiçeği",
+      "answer": "NİLÜFER",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İnanmış",
-      "answer": "KANİ",
+      "text": "Doktor kâğıdı",
+      "answer": "REÇETE",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yeşil yapraklı sebze",
-      "answer": "ISPANAK",
+      "text": "Neşeli, sokulgan",
+      "answer": "CİVELEK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dar keçiyolu",
-      "answer": "PATİKA",
+      "text": "Derme çatma yapı",
+      "answer": "BARAKA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uzun gezi",
-      "answer": "SEYAHAT",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Fakire verilen",
-      "answer": "SADAKA",
-      "row": 7,
+      "text": "Ağ, örgüt",
+      "answer": "ŞEBEKE",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hastalık",
-      "answer": "MARAZ",
-      "row": 8,
+      "text": "Yöntem",
+      "answer": "METOT",
+      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Gündelikçi işçi",
-      "answer": "AMELE",
+      "text": "Uzak Doğu ağırlık ölçüsü",
+      "answer": "TAEL",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kozalaklı ağaç",
+      "answer": "LADİN",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Hızlı tren",
-      "answer": "EKSPRES",
+      "text": "Kurbağa yavrusu",
+      "answer": "İRİBAŞ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Uzak, ıssız",
-      "answer": "SAPA",
+      "text": "Bulgar parası",
+      "answer": "LEVA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Onarım parçası",
-      "answer": "YAMA",
+      "text": "İstek, arzu",
+      "answer": "EMEL",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ayak direme",
-      "answer": "İNAT",
+      "text": "Üçlü paylaştırma",
+      "answer": "ÜÇER",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Erkek insan, kişi",
-      "answer": "ADAM",
+      "text": "Sıkıntılı durum",
+      "answer": "BELA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yemek tepsisi",
-      "answer": "SİNİ",
+      "text": "Büyük yıkım",
+      "answer": "FELAKET",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dalgalı çizgi",
-      "answer": "HARE",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaşlı bilge",
-      "answer": "AKSAKAL",
-      "row": 2,
+      "text": "Belden aşağı giysi",
+      "answer": "ETEK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Saç aracı",
-      "answer": "TOKA",
-      "row": 0,
-      "col": 6,
+      "text": "Garson yardımcısı",
+      "answer": "KOMİ",
+      "row": 5,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bozulmamış, bayatlamamış",
-      "answer": "TAZE",
-      "row": 5,
+      "text": "Yarışma çekişmesi",
+      "answer": "REKABET",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
-      "row": 0,
-      "col": 5
+      "row": 5,
+      "col": 0
     },
     {
       "row": 8,
-      "col": 0
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,

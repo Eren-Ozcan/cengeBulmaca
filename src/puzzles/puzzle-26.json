@@ -5,120 +5,120 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Değersiz",
-      "answer": "HAKİR",
+      "text": "Müracaat",
+      "answer": "BAŞVURU",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tuhaf şey",
-      "answer": "ACUBE",
+      "text": "Eğlenme, dalga geçme",
+      "answer": "ALAY",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yolcu taşıtı",
-      "answer": "VAPUR",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
+      "text": "Şerbetli yufka tatlısı",
+      "answer": "BAKLAVA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Silahla ele geçirme",
-      "answer": "İSTİLA",
+      "text": "Uyuşuk",
+      "answer": "MİSKİN",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yağlı merhem",
-      "answer": "POMAT",
+      "text": "Yiyecek, azık, nasip",
+      "answer": "RIZIK",
       "row": 6,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Irmak, çay, dere",
-      "answer": "AKARSU",
+      "text": "Uçak kullanıcısı",
+      "answer": "PİLOT",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Salamura sebze",
-      "answer": "TURŞU",
+      "text": "Ses özelliği",
+      "answer": "TINI",
       "row": 8,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Prensip",
-      "answer": "İLKE",
+      "text": "Eş, zevce",
+      "answer": "KARI",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İskambilde sinek",
-      "answer": "İSPATİ",
-      "row": 3,
+      "text": "Sıradan halk",
+      "answer": "AVAM",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yay biçimi",
-      "answer": "KAVS",
-      "row": 0,
+      "text": "Ateş çöpü",
+      "answer": "KİBRİT",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Öğretim kurumu",
-      "answer": "OKUL",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeni yaratım",
-      "answer": "İCAT",
+      "text": "Üç zamanlı dans",
+      "answer": "VALS",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eski Alman parası",
-      "answer": "MARK",
+      "text": "Soğuk-sıcak arası",
+      "answer": "ILIK",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hindistan parası",
-      "answer": "RUPİ",
+      "text": "Haber götüren kimse",
+      "answer": "ULAK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Keman yayı",
-      "answer": "ARŞE",
+      "text": "Ağrılı deri hastalığı",
+      "answer": "ZONA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Nebülöz",
-      "answer": "BULUTSU",
-      "row": 1,
+      "text": "Nakleden kimse",
+      "answer": "RAVİ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bitki camlığı",
-      "answer": "SERA",
+      "text": "Güzel koku",
+      "answer": "ITIR",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Uyumamış",
+      "answer": "UYANIK",
       "row": 0,
       "col": 6,
       "arrow": "down"
@@ -127,31 +127,27 @@
   "blocks": [
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
       "col": 1
     },
     {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
       "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
       "col": 6
+    },
+    {
+      "row": 8,
+      "col": 0
     },
     {
       "row": 8,
@@ -159,11 +155,11 @@
     },
     {
       "row": 9,
-      "col": 5
+      "col": 0
     },
     {
       "row": 9,
-      "col": 6
+      "col": 1
     }
   ],
   "difficulty": "kolay",

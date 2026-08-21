@@ -5,163 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Yanlış kelime",
-      "answer": "GALAT",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Örnek",
+      "answer": "MİSAL",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Derme çatma yapı",
-      "answer": "BARAKA",
+      "text": "Uzun kuyruklu kuş",
+      "answer": "SÜLÜN",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalın gemi halatı",
-      "answer": "PALAMAR",
+      "text": "Son adam",
+      "answer": "LİBERO",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tek sanatçı dinletisi",
-      "answer": "RESİTAL",
+      "text": "Toprak altı yumrusu",
+      "answer": "PATATES",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Elektrik dönüştürücü",
-      "answer": "TRAFO",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Büyük kara kütlesi",
-      "answer": "KITA",
-      "row": 5,
+      "text": "Tanık",
+      "answer": "ŞAHİT",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ders verme",
-      "answer": "ÖĞRETİM",
+      "text": "Görmeye gitme",
+      "answer": "ZİYARET",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Soyağacı",
+      "answer": "ŞECERE",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yumuşak kumaş",
-      "answer": "FLANEL",
+      "text": "Biraz önce",
+      "answer": "DEMİN",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yanlışlıkla",
-      "answer": "KAZARA",
+      "text": "Denizci",
+      "answer": "GEMİCİ",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Irkçılık yanlısı",
-      "answer": "IRKÇI",
+      "text": "Hristiyan mabedi",
+      "answer": "KİLİSE",
       "row": 11,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Mübalağa",
-      "answer": "ABARTI",
-      "row": 0,
+      "text": "Ismarlama",
+      "answer": "SİPARİŞ",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kızgınlık, hiddet",
-      "answer": "ÖFKE",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Süs çiçeği",
-      "answer": "LALE",
+      "text": "Dinen sakıncasız",
+      "answer": "MÜBAH",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Toprak malzeme",
-      "answer": "TUĞLA",
-      "row": 5,
+      "text": "Yardımcı parça",
+      "answer": "YEDEK",
+      "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çarşı sokağı",
-      "answer": "ARASTA",
+      "text": "Mesaj",
+      "answer": "İLETİ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kabul eden",
-      "answer": "RAZI",
-      "row": 7,
+      "text": "Deneyimsiz, toy",
+      "answer": "ACEMİ",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Onarım",
-      "answer": "TAMİR",
+      "text": "Çabukluk, hız",
+      "answer": "SÜRAT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bitiş kısmı",
-      "answer": "KENAR",
+      "text": "Kum falı",
+      "answer": "REMİL",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tren",
-      "answer": "KATAR",
-      "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bırakıp gitme",
-      "answer": "TERK",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kısa imza",
-      "answer": "PARAF",
+      "text": "Artı kutup",
+      "answer": "ANOT",
       "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeniliğe karşı",
+      "answer": "GERİCİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Raket sporu",
+      "answer": "TENİS",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İyileştirici madde",
-      "answer": "İLAÇ",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Nişasta şekerlemesi",
-      "answer": "LOKUM",
-      "row": 3,
+      "text": "Eksiklik",
+      "answer": "KUSUR",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -169,7 +155,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 0,
@@ -177,18 +171,30 @@
     },
     {
       "row": 1,
-      "col": 7
+      "col": 0
     },
     {
       "row": 2,
-      "col": 7
+      "col": 6
     },
     {
-      "row": 6,
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
       "col": 6
     },
     {
       "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {

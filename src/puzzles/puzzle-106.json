@@ -5,128 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Gagası keseli kuş",
-      "answer": "PELİKAN",
-      "row": 0,
+      "text": "Kötek",
+      "answer": "DAYAK",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Tabiat",
-      "answer": "DOĞA",
+      "text": "Öğretim kurumu",
+      "answer": "OKUL",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Açılmış yer",
-      "answer": "YARIK",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
+      "text": "Yerinelemeli anlatım",
+      "answer": "ALEGORİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Ara verme",
-      "answer": "MOLA",
+      "text": "Suçunu söyleme",
+      "answer": "İTİRAF",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uğur getiren",
-      "answer": "MASKOT",
+      "text": "Osmanlı atlı askeri",
+      "answer": "SİPAHİ",
       "row": 5,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Bağışlanma dileme",
-      "answer": "ŞEFAAT",
+      "text": "Hayvan semirten",
+      "answer": "BESİCİ",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "'Önemi yok' sözü",
-      "answer": "NEYSE",
+      "text": "Dişi cins",
+      "answer": "DİŞİL",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cesur",
-      "answer": "YÜREKLİ",
+      "text": "Erdem",
+      "answer": "FAZİLET",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Pirinç yemeği",
-      "answer": "PİLAV",
+      "text": "Aklını yitirmiş",
+      "answer": "DELİ",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yemek listesi",
-      "answer": "MENÜ",
+      "text": "Ses (eski dilde)",
+      "answer": "SEDA",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kazanılan başarı",
-      "answer": "ZAFER",
-      "row": 4,
+      "text": "Tesirsiz",
+      "answer": "ETKİSİZ",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ölüm cezası",
-      "answer": "İDAM",
+      "text": "Yoga uygulayıcısı",
+      "answer": "YOGİ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Koruma, yardım",
-      "answer": "SAYE",
+      "text": "Kızartılmış hamur",
+      "answer": "PİŞİ",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Şarkı topluluğu",
-      "answer": "KORO",
+      "text": "Müzikal uyum",
+      "answer": "AKOR",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Koruyucu başlık",
-      "answer": "KASK",
+      "text": "İvedi",
+      "answer": "ACİL",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Küçükbaş barınağı",
-      "answer": "AĞIL",
+      "text": "Ad çekme",
+      "answer": "KURA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Konaklama işletmesi",
-      "answer": "OTEL",
+      "text": "Çıkar aldatmacası",
+      "answer": "HİLE",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Boksta yıkılış",
-      "answer": "NAKAVT",
-      "row": 0,
+      "text": "Lifi olan",
+      "answer": "LİFLİ",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     }
@@ -134,19 +134,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
       "col": 2
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 0,
+      "col": 6
     },
     {
-      "row": 4,
-      "col": 1
+      "row": 5,
+      "col": 0
     },
     {
       "row": 7,

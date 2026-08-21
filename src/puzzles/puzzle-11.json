@@ -5,163 +5,163 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Yarım küre başlık",
-      "answer": "TAKKE",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
+      "text": "Çay ilimiz",
+      "answer": "RİZE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Tebaa",
-      "answer": "UYRUK",
+      "text": "Akdeniz sıcak rüzgârı",
+      "answer": "SİROKO",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kuram",
-      "answer": "TEORİ",
+      "text": "Hayır",
+      "answer": "İYİLİK",
       "row": 3,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üniversite öğreticisi",
-      "answer": "OKUTMAN",
+      "text": "Bilgi",
+      "answer": "MALUMAT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Teknik hile",
-      "answer": "TRÜK",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Düzensizlik, karışıklık",
-      "answer": "KAOS",
+      "text": "Arap el yazısı",
+      "answer": "RİKA",
       "row": 5,
-      "col": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuşların ağzı",
+      "answer": "GAGA",
+      "row": 5,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gemi korkuluğu",
-      "answer": "KÜPEŞTE",
+      "text": "Mücevher",
+      "answer": "CEVAHİR",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Doğulu müzik türü",
-      "answer": "ARABESK",
+      "text": "Sermaye",
+      "answer": "ANAPARA",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gösterişli kuş",
-      "answer": "TAVUS",
+      "text": "Üflemeli boru",
+      "answer": "BORAZAN",
       "row": 9,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ruhsal tedavi",
-      "answer": "TERAPİ",
+      "text": "Camlı bölme",
+      "answer": "CAMEKAN",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aşırı ısınmış",
-      "answer": "AKKOR",
+      "text": "Ad",
+      "answer": "İSİM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kenarları eşit dörtgen",
-      "answer": "KARE",
-      "row": 6,
+      "text": "Merak sözü",
+      "answer": "ACABA",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sövgü",
-      "answer": "KÜFÜR",
-      "row": 3,
+      "text": "Işık",
+      "answer": "ZİYA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Rahat konuşamayan",
-      "answer": "TUTUK",
+      "text": "Kalıtım materyali",
+      "answer": "GENOM",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek cins",
+      "answer": "ERİL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Berabere kalma",
-      "answer": "PATA",
+      "text": "Başıboş",
+      "answer": "AVARE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Onay, izin, tasdik",
+      "answer": "OLUR",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok beyaz",
+      "answer": "APAK",
       "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sure bölümü",
-      "answer": "AYET",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Izgara et",
-      "answer": "KEBAP",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Parlak element",
-      "answer": "KROM",
-      "row": 0,
+      "text": "Bazıları",
+      "answer": "KİMİ",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ücretsiz yemekevi",
-      "answer": "AŞEVİ",
-      "row": 5,
+      "text": "Tam anlamıyla",
+      "answer": "HAZA",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ad çekme",
-      "answer": "KURA",
+      "text": "Ev arası yol",
+      "answer": "SOKAK",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yumuşak gövdeli",
-      "answer": "OTSU",
-      "row": 5,
+      "text": "Fars ülkesi",
+      "answer": "İRAN",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tarladaki tahıl",
-      "answer": "EKİN",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Cinsel çekicilik",
-      "answer": "SEKSİ",
-      "row": 5,
+      "text": "İran'ın başkenti",
+      "answer": "TAHRAN",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -169,31 +169,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 4
     },
     {
       "row": 0,
-      "col": 2
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
-      "col": 0
+      "col": 7
     },
     {
       "row": 2,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
+      "col": 7
     },
     {
       "row": 10,
-      "col": 6
+      "col": 7
     }
   ],
   "difficulty": "orta",

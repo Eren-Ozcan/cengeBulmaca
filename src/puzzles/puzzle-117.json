@@ -1,0 +1,245 @@
+{
+  "id": "puzzle-117",
+  "title": "Bulmaca 117",
+  "rows": 12,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "Norveç'in başkenti",
+      "answer": "OSLO",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Spor bahsi",
+      "answer": "TOTO",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşırı büyümüş",
+      "answer": "AZMAN",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kural, ölçüt",
+      "answer": "NORM",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Nişastalı bulamaç",
+      "answer": "LAPA",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kağıtlı kumar",
+      "answer": "POKER",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Belediye kolluğu",
+      "answer": "ZABITA",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Basın açıklaması",
+      "answer": "DEMEÇ",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Beden etkinliği",
+      "answer": "SPOR",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yeşil yapraklı sebze",
+      "answer": "ISPANAK",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ara bozan",
+      "answer": "FİTNECİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yetim koruyucusu",
+      "answer": "VASİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Basit çizim",
+      "answer": "ŞEMA",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Taze, yeni",
+      "answer": "KÖRPE",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyükanne",
+      "answer": "NİNE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Niteleme sözcüğü",
+      "answer": "SIFAT",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ansızın, birdenbire",
+      "answer": "LARP",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yatay konum",
+      "answer": "APSİS",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Geçişme olayı",
+      "answer": "OZMOZ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Görme ile",
+      "answer": "OPTİK",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Saat yüzü",
+      "answer": "KADRAN",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Öğrenci",
+      "answer": "TALEBE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yayımlama",
+      "answer": "NEŞR",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Tamirat",
+      "answer": "ONARIM",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Acaba",
+      "answer": "ACEP",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Reaksiyon",
+      "answer": "TEPKİME",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Odunsu bitki",
+      "answer": "AĞAÇ",
+      "row": 2,
+      "col": 8,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 8
+    },
+    {
+      "row": 8,
+      "col": 8
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
+      "row": 11,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 8
+    }
+  ],
+  "difficulty": "zor",
+  "order": 245
+}

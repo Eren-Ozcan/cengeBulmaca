@@ -5,149 +5,163 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kenar püskülü",
-      "answer": "SAÇAK",
-      "row": 0,
+      "text": "İstemsiz kasılma",
+      "answer": "KRAMP",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Sakin, huzurlu, rahat",
-      "answer": "ASUDE",
+      "text": "Yan, cephe",
+      "answer": "TARAF",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yaban öküzü",
-      "answer": "BİZON",
+      "text": "Yetke",
+      "answer": "OTORİTE",
       "row": 3,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nem",
-      "answer": "RUTUBET",
+      "text": "Esenlik",
+      "answer": "SELAMET",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Özel bölme",
-      "answer": "LOCA",
-      "row": 4,
+      "text": "Anlama yetisi",
+      "answer": "ZEKA",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Para kuruluşu",
-      "answer": "BANKA",
-      "row": 6,
+      "text": "İrmik tatlısı",
+      "answer": "HELVA",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Değişken kâğıt",
-      "answer": "JOKER",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dünya, evren",
-      "answer": "ACUN",
+      "text": "Sözleşme bozma",
+      "answer": "FESİH",
       "row": 8,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Çok büyük",
-      "answer": "DEVASA",
+      "text": "Makinedeki bozukluk",
+      "answer": "ARIZA",
       "row": 9,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Baş aşağı",
-      "answer": "AMUT",
+      "text": "Sistemli bilgi",
+      "answer": "BİLİM",
       "row": 10,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ara süresi",
-      "answer": "TATİL",
+      "text": "Toplam olarak",
+      "answer": "CEMAN",
       "row": 11,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Otomatik makine",
-      "answer": "ROBOT",
-      "row": 3,
+      "text": "Kır koşusu",
+      "answer": "KROS",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kısa sürede",
-      "answer": "ÇABUCAK",
-      "row": 0,
+      "text": "Az zararlı",
+      "answer": "EHVEN",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dergâh",
+      "answer": "TEKKE",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İstanbul'un eski adı",
-      "answer": "ASİTANE",
+      "text": "Halka biçimli mercan adası",
+      "answer": "ATOL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Koyun yavrusu",
-      "answer": "KUZU",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Gömlek aksesuarı",
-      "answer": "KRAVAT",
+      "text": "Harf dizisi",
+      "answer": "ALFABE",
       "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hastalık",
+      "answer": "MARAZ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Açık sözlü",
-      "answer": "DOBRA",
-      "row": 1,
-      "col": 5,
+      "text": "Randıman",
+      "answer": "VERİM",
+      "row": 6,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İbadet yeri",
-      "answer": "CAMİ",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağız kemiği",
-      "answer": "ÇENE",
+      "text": "Ek kazanç",
+      "answer": "PRİM",
       "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ara, aralık",
+      "answer": "FASILA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanma olayı, od",
+      "answer": "ATEŞ",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İzlenen yol",
-      "answer": "USUL",
+      "text": "Verilen özgürlük",
+      "answer": "İZİN",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Güvence",
-      "answer": "TEMİNAT",
-      "row": 3,
+      "text": "Yıkım, felaket",
+      "answer": "AFET",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Yahudi görevlisi",
+      "answer": "HAHAM",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -155,35 +169,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
       "col": 0
     },
     {
-      "row": 2,
-      "col": 7
+      "row": 0,
+      "col": 2
     },
     {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 5,
+      "row": 0,
       "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
     },
     {
       "row": 6,
@@ -194,24 +192,12 @@
       "col": 0
     },
     {
-      "row": 8,
-      "col": 2
-    },
-    {
       "row": 9,
       "col": 0
     },
     {
       "row": 10,
       "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
-    },
-    {
-      "row": 10,
-      "col": 2
     },
     {
       "row": 11,

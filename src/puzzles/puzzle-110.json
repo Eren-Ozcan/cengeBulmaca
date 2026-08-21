@@ -1,0 +1,158 @@
+{
+  "id": "puzzle-110",
+  "title": "Bulmaca 110",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Gösteriş",
+      "answer": "FİYAKA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aşırı ilgi",
+      "answer": "KÜLT",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Şans çekilişi",
+      "answer": "PİYANGO",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kaçmış kimse",
+      "answer": "KAÇKIN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Delikli kepçe",
+      "answer": "KEVGİR",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Esirgemeden veren",
+      "answer": "CÖMERT",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aşınmış yazı",
+      "answer": "SİLİK",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yeni olma",
+      "answer": "YENİLİK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Horoz tacı",
+      "answer": "İBİK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sakalsız erkek",
+      "answer": "KÖSE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kokulu beyaz çiçek",
+      "answer": "YASEMİN",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Su akıtma borusu",
+      "answer": "AKAÇ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sorumlu kimse",
+      "answer": "VELİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Toprak boru",
+      "answer": "KÜNK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Izgara",
+      "answer": "GRİL",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İdrak",
+      "answer": "ALGI",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İçten gelen dürtü",
+      "answer": "İTKİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Toz mürekkep",
+      "answer": "TONER",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 238
+}

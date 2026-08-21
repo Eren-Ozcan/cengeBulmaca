@@ -5,127 +5,120 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Tropik yeşil meyve",
-      "answer": "AVOKADO",
+      "text": "Mürekkep kabı",
+      "answer": "HOKKA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Başarı armağanı",
-      "answer": "ÖDÜL",
+      "text": "Aydınlatma aracı",
+      "answer": "LAMBA",
       "row": 2,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Gövdenin arka yüzü",
-      "answer": "SIRT",
+      "text": "Üzüm bitkisi",
+      "answer": "ASMA",
       "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kaynak",
-      "answer": "MEMBA",
-      "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Katmerli sebze",
-      "answer": "LAHANA",
+      "text": "Saat zinciri",
+      "answer": "KÖSTEK",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Birlikte",
+      "answer": "BERABER",
       "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Oyuk bölüm",
-      "answer": "KOVUK",
-      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Süvari",
-      "answer": "BİNİCİ",
-      "row": 8,
+      "text": "Sıra sayısı",
+      "answer": "NUMARA",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Küçük, sevimli",
-      "answer": "MİNİK",
-      "row": 8,
+      "text": "Cinnet",
+      "answer": "DELİLİK",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Arı yetiştiricisi",
-      "answer": "ARICI",
+      "text": "Şarkı topluluğu",
+      "answer": "KORO",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tahsisat",
+      "answer": "ÖDENEK",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstün, seçkin",
+      "answer": "KLAS",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Giriş holü",
-      "answer": "LOBİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yardımcı",
-      "answer": "MUAVİN",
-      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sakalsız erkek",
-      "answer": "KÖSE",
+      "text": "Dürülmüş kağıt",
+      "answer": "RULO",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hindistan'da sınıf",
+      "answer": "KAST",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sıvı aracı",
-      "answer": "HUNİ",
+      "text": "Üst görevli",
+      "answer": "AMİR",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yürüme hareketi",
-      "answer": "ADIM",
+      "text": "Kamu",
+      "answer": "AMME",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yarı değerli taş",
-      "answer": "AKİK",
+      "text": "Gece eğlencesi",
+      "answer": "BALO",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Uzağı gösteren",
-      "answer": "DÜRBÜN",
-      "row": 0,
+      "text": "Tek hücreli mikrop",
+      "answer": "BAKTERİ",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Balık aracı",
-      "answer": "OLTA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ermiş, kutsal kişi",
-      "answer": "AZİZ",
+      "text": "Aslan sütü",
+      "answer": "RAKI",
       "row": 5,
       "col": 6,
       "arrow": "down"
@@ -138,19 +131,27 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 2,
-      "col": 1
+      "col": 0
     },
     {
       "row": 3,
-      "col": 1
+      "col": 6
     },
     {
-      "row": 7,
-      "col": 5
+      "row": 4,
+      "col": 6
     },
     {
       "row": 9,

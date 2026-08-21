@@ -5,170 +5,170 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Kesme aracı",
-      "answer": "MAKAS",
-      "row": 1,
+      "text": "Geyik derisi",
+      "answer": "GÜDERİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Belirti, jest",
+      "answer": "İŞARET",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Deneyimsiz, toy",
-      "answer": "ACEMİ",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlı saray görevlisi",
-      "answer": "ÇUHADAR",
+      "text": "Yenilikten yana",
+      "answer": "İLERİCİ",
       "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Görmeye gitme",
-      "answer": "ZİYARET",
-      "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yönetime dair",
-      "answer": "İDARİ",
+      "text": "Kullanışlı",
+      "answer": "PRATİK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Güzel karşıtı",
+      "answer": "ÇİRKİN",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çoban abası",
-      "answer": "KEPENEK",
+      "text": "Eski dilde tören",
+      "answer": "RESM",
       "row": 6,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Teşhis",
-      "answer": "TANI",
+      "text": "Kedi, köpek ayağı",
+      "answer": "PATİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Uzun, dar tahta",
+      "answer": "LATA",
       "row": 7,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Köyden büyük yer",
-      "answer": "KASABA",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Yalvarma, yakarma",
+      "answer": "NİYAZ",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "İleti",
-      "answer": "MESAJ",
+      "text": "Armağan",
+      "answer": "HEDİYE",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yüksek bilim kurumu",
-      "answer": "AKADEMİ",
+      "text": "Ülkü uğruna ölen",
+      "answer": "ŞEHİT",
       "row": 10,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yiyecek odası",
-      "answer": "KİLER",
+      "text": "Nağme",
+      "answer": "TERANE",
       "row": 11,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ağız üstü",
-      "answer": "DAMAK",
-      "row": 6,
+      "text": "Mısır anıtı",
+      "answer": "PİRAMİT",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yakın karşıtı",
-      "answer": "UZAK",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Taş oturak",
-      "answer": "SEKİ",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Mısır'ın başkenti",
-      "answer": "KAHİRE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Esas, temel",
-      "answer": "ASAL",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tuhaf, garip",
-      "answer": "ACAYİP",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Divan şiirinde şarap",
-      "answer": "BADE",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ses (eski dilde)",
-      "answer": "SEDA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük raflı dolap",
-      "answer": "ETAJER",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yat limanı",
-      "answer": "MARİNA",
+      "text": "Kavgacı",
+      "answer": "ŞİRRET",
       "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gök ada",
+      "answer": "GALAKSİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Mal çıkarma",
+      "answer": "ÜRETİM",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sevinç, keyif",
+      "answer": "NEŞE",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sığ karşıtı",
+      "answer": "DERİN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Önder",
+      "answer": "LİDER",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ahlak kuralları",
+      "answer": "ETİK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Pamuk ipliği",
-      "answer": "TİRE",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Saf kimse",
-      "answer": "ENAYİ",
+      "text": "Eski dilde koku",
+      "answer": "RAYİHA",
       "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Belirleme, atama",
+      "answer": "TAYİN",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ziynet eşyası",
-      "answer": "TAKI",
-      "row": 3,
+      "text": "Amacıyla, maksadıyla",
+      "answer": "İÇİN",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Günlük haber yayını",
+      "answer": "GAZETE",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -188,63 +188,59 @@
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 8
+      "col": 7
     },
     {
       "row": 1,
-      "col": 8
-    },
-    {
-      "row": 2,
       "col": 0
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 1
     },
     {
       "row": 2,
-      "col": 8
+      "col": 7
     },
     {
-      "row": 6,
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 8
+      "col": 2
     },
     {
       "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 8
+      "col": 0
     },
     {
       "row": 10,
-      "col": 8
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 2
     },
     {
       "row": 11,
-      "col": 6
+      "col": 0
     },
     {
       "row": 11,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 8
+      "col": 1
     }
   ],
   "difficulty": "zor",

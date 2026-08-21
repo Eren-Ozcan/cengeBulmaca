@@ -5,128 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Büyük deniz",
-      "answer": "OKYANUS",
+      "text": "Çengel oyunu",
+      "answer": "BULMACA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Harflerle anlatım",
-      "answer": "YAZI",
+      "text": "Dinden bağımsız",
+      "answer": "LAİK",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yürekli olmayan",
-      "answer": "KORKAK",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Antinomi",
-      "answer": "ÇATIŞKI",
-      "row": 3,
+      "text": "Mürekkep balığı",
+      "answer": "KALAMAR",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mahluk",
-      "answer": "YARATIK",
-      "row": 5,
+      "text": "Asker su kabı",
+      "answer": "MATARA",
+      "row": 4,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Risk",
-      "answer": "RİZİKO",
+      "text": "Karar gücü",
+      "answer": "İRADE",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Osmanlı deniz askeri",
+      "answer": "LEVENT",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bebek ayakkabısı",
-      "answer": "PATİK",
+      "text": "İsa'nın öğrencisi",
+      "answer": "HAVARİ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İlmikli ip",
-      "answer": "KEMENT",
+      "text": "Arap yazısı işareti",
+      "answer": "HAREKE",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Oyuncak bebek",
-      "answer": "KUKA",
+      "text": "Kategori",
+      "answer": "ULAM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kamış içkisi",
-      "answer": "ARAK",
+      "text": "Tanrı",
+      "answer": "İLAH",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yetke",
-      "answer": "OTORİTE",
-      "row": 2,
+      "text": "Erkek dadı",
+      "answer": "LALA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Farklı",
-      "answer": "AYRI",
+      "text": "Yakışır görülen",
+      "answer": "REVA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Son tarih",
+      "answer": "MİAT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yenme kararlılığı",
-      "answer": "AZİM",
+      "text": "Kafkasya'da bir halk",
+      "answer": "AVAR",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İşleme, nakış",
-      "answer": "NAKŞ",
+      "text": "Akış hâli",
+      "answer": "AKMA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Küçük lokma",
-      "answer": "TİKE",
+      "text": "Çaydan küçük akarsu",
+      "answer": "DERE",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mesafe ölçüsü",
-      "answer": "UZAKLIK",
-      "row": 0,
+      "text": "Zehirli element",
+      "answer": "ARSENİK",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gevşek karşıtı",
-      "answer": "SIKI",
+      "text": "Bedeni saran hale",
+      "answer": "AURA",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Soyluluk unvanı",
-      "answer": "KONT",
-      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -134,15 +134,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 5
     },
     {
-      "row": 2,
+      "row": 5,
       "col": 0
     },
     {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
       "row": 8,
-      "col": 5
+      "col": 6
     }
   ],
   "difficulty": "kolay",

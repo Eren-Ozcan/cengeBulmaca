@@ -5,135 +5,121 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Karanlık hapis",
-      "answer": "ZİNDAN",
+      "text": "Yüz ar",
+      "answer": "HEKTAR",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hafif ağrı",
+      "answer": "SIZI",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Katlı yatak",
+      "answer": "RANZA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sicilya yanardağı",
+      "answer": "ETNA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Posta idaresi",
+      "answer": "POSTANE",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kanıtlanan önerme",
+      "answer": "TEOREM",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kargaşa",
+      "answer": "HENGAME",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
       "text": "Pars",
       "answer": "LEOPAR",
-      "row": 2,
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Komisyoncu",
-      "answer": "SİMSAR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Delik açma aracı",
-      "answer": "MATKAP",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Parasız",
-      "answer": "BEDAVA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yer altı sığınağı",
-      "answer": "KAZAMAT",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İrmikli şerbetli tatlı",
-      "answer": "REVANİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çevreyi dolaşma",
-      "answer": "KOLAÇAN",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bilim, bilgi",
-      "answer": "İLİM",
+      "text": "Görgüsüz, kaba",
+      "answer": "HIRT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Avukatlar birliği",
-      "answer": "BARO",
+      "text": "Konaklama işletmesi",
+      "answer": "OTEL",
       "row": 5,
       "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Namaza çağrı",
+      "answer": "EZAN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yıl",
+      "answer": "SENE",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Boyama bitkisi",
+      "answer": "KINA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Afrika'da küçük ülke",
+      "answer": "TOGO",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Viran",
+      "answer": "HARAP",
+      "row": 4,
+      "col": 4,
       "arrow": "down"
     },
     {
       "text": "Büyüme, gelişme, çoğalma",
       "answer": "NEMA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Öncesizlik",
-      "answer": "EZEL",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Arkadaş, gönüldeş",
-      "answer": "DOST",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Mahkemelik anlaşmazlık",
-      "answer": "DAVA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çok beyaz",
-      "answer": "APAK",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Erek, gaye",
-      "answer": "AMAÇ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Haykırma, bağırma",
-      "answer": "NARA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Boru musluğu",
-      "answer": "VANA",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "78 numaralı element",
-      "answer": "PLATİN",
-      "row": 3,
+      "text": "Yük eyeri",
+      "answer": "SEMER",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -141,15 +127,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 5,
       "col": 0
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 5
     }
   ],
   "difficulty": "kolay",

@@ -5,163 +5,191 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Ayrılık sözü",
-      "answer": "ELVEDA",
+      "text": "Sıvı metal",
+      "answer": "CIVA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ayakkabı demiri",
-      "answer": "NALÇA",
+      "text": "Ters, huysuz",
+      "answer": "AKSİ",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Pirinçli süt tatlısı",
+      "answer": "SÜTLAÇ",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ter kabarcığı",
-      "answer": "İSİLİK",
+      "text": "Akışkan madde",
+      "answer": "SIVI",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şehvet uyandıran",
-      "answer": "EROTİK",
+      "text": "Sindirim organı",
+      "answer": "MİDE",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Tuzlu bisküvi",
+      "answer": "KRAKER",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Allah adıyla sözü",
-      "answer": "BESMELE",
-      "row": 4,
+      "text": "Zehirli böcek",
+      "answer": "AKREP",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
-    },
-    {
-      "text": "Verilen söz",
-      "answer": "VAAT",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Şeker, para",
-      "answer": "SAÇI",
-      "row": 6,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tutsaklık",
-      "answer": "ESARET",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
     },
     {
       "text": "Tempolu jimnastik",
       "answer": "AEROBİK",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Öznel",
+      "answer": "İNDİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sanat akımı",
+      "answer": "EKOL",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Fransız idam aracı",
+      "answer": "GİYOTİN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Konu dışı",
-      "answer": "AFAKİ",
+      "text": "Yeter, elverir",
+      "answer": "KAFİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alçalan yol",
+      "answer": "İNİŞ",
       "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Güldürücü, gülünç",
+      "answer": "KOMİK",
+      "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Doğru, gerçek",
-      "answer": "ESSAH",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yazılı dizi",
-      "answer": "LİSTE",
+      "text": "Işık çizgisi",
+      "answer": "IŞIN",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bağımsız",
-      "answer": "AZADE",
-      "row": 6,
+      "text": "Tel yumağı",
+      "answer": "KANGAL",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ekvator uzaklığı",
-      "answer": "ENLEM",
+      "text": "Tekrarlanan söz",
+      "answer": "REDİF",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kızgın, somurtkan (yüz)",
+      "answer": "ASIK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Açık bölüm",
-      "answer": "TERAS",
-      "row": 6,
+      "text": "Mahlul",
+      "answer": "ERİYİK",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Konut bölümü",
-      "answer": "DAİRE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Geniş hol",
-      "answer": "SOFA",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Alkollü içki",
-      "answer": "ALKOL",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İlk vakit",
-      "answer": "SABAH",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sağlama, bulma",
-      "answer": "TEDARİK",
+      "text": "Banka işlemi",
+      "answer": "REPO",
       "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Fırlatma",
+      "answer": "ATMA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Tasvir",
+      "answer": "BETİM",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hizip",
+      "answer": "KLİK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Savaştan dönen",
-      "answer": "GAZİ",
+      "text": "İki parça mayo",
+      "answer": "BİKİNİ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Şekersiz kahve",
+      "answer": "SADE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Çivi aleti",
-      "answer": "ÇEKİÇ",
+      "text": "Koni biçimli",
+      "answer": "KONİK",
       "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bilerek yapma",
-      "answer": "KASIT",
-      "row": 3,
+      "text": "Muhteva",
+      "answer": "İÇERİK",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     }
@@ -173,55 +201,31 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 4
     },
     {
-      "row": 0,
-      "col": 8
+      "row": 4,
+      "col": 0
     },
     {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 8
-    },
-    {
-      "row": 2,
-      "col": 8
+      "row": 5,
+      "col": 5
     },
     {
       "row": 5,
       "col": 7
     },
     {
-      "row": 6,
-      "col": 2
-    },
-    {
-      "row": 6,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 0
+      "row": 7,
+      "col": 8
     },
     {
       "row": 9,
       "col": 8
     },
     {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 8
-    },
-    {
       "row": 11,
-      "col": 6
+      "col": 0
     },
     {
       "row": 11,

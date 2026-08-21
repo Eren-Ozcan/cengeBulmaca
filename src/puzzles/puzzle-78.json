@@ -5,135 +5,142 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Motif",
-      "answer": "DESEN",
+      "text": "Yurt sevgisi",
+      "answer": "HAMİYET",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Olta ipi",
+      "answer": "MİSİNA",
       "row": 1,
-      "col": 2,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Sağlıklı",
-      "answer": "ESEN",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Cimri kimse",
-      "answer": "PİNTİ",
+      "text": "Yırtıcı masal yaratığı",
+      "answer": "CANAVAR",
       "row": 3,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ferahlatıcı esans",
-      "answer": "KOLONYA",
+      "text": "Cankurtaran sandalı",
+      "answer": "FİLİKA",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gelenek, âdet",
-      "answer": "TÖRE",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
+      "text": "Anılar",
+      "answer": "HATIRAT",
+      "row": 6,
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Atlı spor",
-      "answer": "CİRİT",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tütsülenmiş besin",
-      "answer": "FÜME",
-      "row": 6,
+      "text": "Sağlama, bulma",
+      "answer": "TEDARİK",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Su sığırı",
-      "answer": "MANDA",
-      "row": 8,
+      "text": "Yüzeye etkiyen güç",
+      "answer": "BASINÇ",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yazım kuralları",
-      "answer": "İMLA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dış alım",
-      "answer": "İTHALAT",
+      "text": "Çarşı sokağı",
+      "answer": "ARASTA",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Karaciğer hastalığı",
-      "answer": "SİROZ",
+      "text": "Yergi, taşlama",
+      "answer": "HİCİV",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Okuma bilmeyen",
-      "answer": "ÜMMİ",
+      "text": "Boşa gitme",
+      "answer": "HEBA",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çimlendirilmiş arpa",
-      "answer": "MALT",
-      "row": 6,
+      "text": "Esas, temel",
+      "answer": "ASAL",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Saklama yeri",
-      "answer": "DEPO",
+      "text": "Yer bulucu",
+      "answer": "RADAR",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük, sevimli",
+      "answer": "MİNİK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kanat",
-      "answer": "CENAH",
-      "row": 5,
+      "text": "Kaygı, dert",
+      "answer": "TASA",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hafif yel",
-      "answer": "ESİNTİ",
+      "text": "Dogma",
+      "answer": "İNAK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ortaçağ derebeyi",
-      "answer": "SENYÖR",
+      "text": "Kısa adımlı yürüyüş",
+      "answer": "TIRIS",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yağsız, sade",
+      "answer": "YAVAN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tek parça giysi",
-      "answer": "ENTARİ",
-      "row": 0,
+      "text": "Zevk düşkünü",
+      "answer": "RİNT",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyazımsı",
+      "answer": "AKÇA",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ahlak kuralları",
-      "answer": "ETİK",
-      "row": 4,
+      "text": "Gözlem",
+      "answer": "RASAT",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -145,62 +152,42 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 6
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 0
-    },
-    {
       "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 2
-    },
-    {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
       "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
     },
     {
       "row": 8,
-      "col": 6
+      "col": 7
     },
     {
       "row": 9,
-      "col": 4
+      "col": 7
     },
     {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
+      "row": 10,
       "col": 7
     }
   ],

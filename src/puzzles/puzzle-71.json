@@ -5,128 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Besin ögesi",
-      "answer": "VİTAMİN",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eğlence etkinliği",
-      "answer": "OYUN",
-      "row": 2,
+      "text": "İçme kabı",
+      "answer": "YALAK",
+      "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Zurna çalan",
-      "answer": "ZURNACI",
+      "text": "Çağlayan",
+      "answer": "ŞELALE",
       "row": 2,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Tel bölme",
-      "answer": "KAFES",
+      "text": "Koruyucu kap",
+      "answer": "KILIF",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalaylı sac",
+      "answer": "TENEKE",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bulunulan hâl",
+      "answer": "DURUM",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Oruç ayı",
+      "answer": "RAMAZAN",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yırtıcı kedigil",
+      "answer": "VAŞAK",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yığılma",
+      "answer": "BİRİKİM",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sağaltma",
+      "answer": "TEDAVİ",
+      "row": 3,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Dev Kaliforniya ağacı",
-      "answer": "SEKOYA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Odun kömür",
-      "answer": "YAKACAK",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Rüzgârlı fırtına",
-      "answer": "BORAN",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zeytinyağlı fasulye",
-      "answer": "PİLAKİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sinirli, öfkeli",
-      "answer": "ASABİ",
-      "row": 5,
-      "col": 0,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Dönme kuvveti",
-      "answer": "TORK",
+      "text": "Dümen kolu",
+      "answer": "YEKE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sanat akımı",
-      "answer": "EKOL",
+      "text": "Çare",
+      "answer": "UMAR",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yansıtıcı cam",
-      "answer": "AYNA",
+      "text": "Yüz üstü",
+      "answer": "ALIN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Siyah",
-      "answer": "KARA",
+      "text": "Rüşvet veren",
+      "answer": "RAŞİ",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yükümlülük dışı",
-      "answer": "MUAF",
+      "text": "Süs çiçeği",
+      "answer": "LALE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İlk ay",
-      "answer": "OCAK",
+      "text": "Yakın karşıtı",
+      "answer": "UZAK",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kalın karşıtı",
-      "answer": "İNCE",
+      "text": "Şaşkın, ahmak",
+      "answer": "ALIK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Demek oluyor ki",
-      "answer": "YANİ",
+      "text": "Madagaskar maymunu",
+      "answer": "MAKİ",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kuru karşıtı",
-      "answer": "ISLAK",
-      "row": 2,
+      "text": "Ölü bezi",
+      "answer": "KEFEN",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -134,22 +134,30 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 4,
       "col": 0
     },
     {
-      "row": 8,
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
       "col": 6
     },
     {
-      "row": 9,
+      "row": 8,
       "col": 6
     }
   ],

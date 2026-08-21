@@ -5,142 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Kiralık katil",
-      "answer": "TETİKÇİ",
+      "text": "Çoban abası",
+      "answer": "KEPENEK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Vahşi hayvan gezisi",
+      "answer": "SAFARİ",
       "row": 1,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Katıksız, temiz",
-      "answer": "SAFİ",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Çoban köpeği",
-      "answer": "KARABAŞ",
+      "text": "Gizli ihbarcı",
+      "answer": "İSPİYON",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gelinin yardımcısı",
-      "answer": "NEDİME",
+      "text": "Davranış, işlem",
+      "answer": "MUAMELE",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ruhsal kriz",
-      "answer": "HİSTERİ",
-      "row": 4,
+      "text": "Yolcu taşıtı",
+      "answer": "VAPUR",
+      "row": 5,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İplik sarılan",
+      "answer": "MAKARA",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tren platformu",
-      "answer": "PERON",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İşve",
-      "answer": "CİLVE",
+      "text": "Ürün listesi",
+      "answer": "KATALOG",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Utanmaz, yüzsüz",
-      "answer": "ARSIZ",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
+      "text": "Diyelim ki",
+      "answer": "FARAZA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Bağlayan parça",
-      "answer": "KENET",
+      "text": "Tenis oynayan",
+      "answer": "TENİSÇİ",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Meşrubat",
-      "answer": "İÇECEK",
-      "row": 4,
+      "text": "Yerine geçen",
+      "answer": "KAİM",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kokulu sıvı",
-      "answer": "ESANS",
+      "text": "Bedensel özürlü",
+      "answer": "SAKAT",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yazık, eyvah",
+      "answer": "EFSUS",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Zırhlı kule",
-      "answer": "TARET",
+      "text": "Kenarları eşit dörtgen",
+      "answer": "KARE",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Katoliklerin lideri",
+      "answer": "PAPA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İş düzeni",
-      "answer": "PLAN",
-      "row": 6,
+      "text": "Yurt",
+      "answer": "VATAN",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Anlatım, açıklama",
-      "answer": "İFADE",
+      "text": "Menzil",
+      "answer": "ERİM",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Aşama, safha",
-      "answer": "EVRE",
-      "row": 6,
+      "text": "Yeryüzü toprağı",
+      "answer": "ARAZİ",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gurur",
-      "answer": "KİBİR",
+      "text": "Niçin",
+      "answer": "NİYE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Meydan okuma",
-      "answer": "REST",
-      "row": 6,
+      "text": "Lüks otel",
+      "answer": "PALAS",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Seyirci coşturucusu",
-      "answer": "AMİGO",
+      "text": "Erzurum ilçesi",
+      "answer": "OLTU",
       "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Besleme, bakma",
-      "answer": "İAŞE",
+      "text": "Kan emen asalak",
+      "answer": "KENE",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Çekişme, anlaşmazlık, kavga",
-      "answer": "NİZA",
-      "row": 6,
+      "text": "On beşerli spor",
+      "answer": "RAGBİ",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -152,42 +166,18 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
       "row": 5,
-      "col": 7
-    },
-    {
-      "row": 6,
       "col": 0
-    },
-    {
-      "row": 6,
-      "col": 2
     },
     {
       "row": 7,
-      "col": 0
-    },
-    {
-      "row": 8,
       "col": 6
     },
     {
       "row": 9,
-      "col": 0
-    },
-    {
-      "row": 10,
       "col": 6
     }
   ],

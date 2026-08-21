@@ -5,149 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Püskürtme sıvısı",
-      "answer": "SPREY",
+      "text": "Köyden büyük yer",
+      "answer": "KASABA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Akyuvar hastalığı",
-      "answer": "LÖSEMİ",
+      "text": "Dağ dizisi",
+      "answer": "SIRADAĞ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Saf, bön",
-      "answer": "AVANAK",
+      "text": "Araba süren",
+      "answer": "ARABACI",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kasa görevlisi",
-      "answer": "KASİYER",
+      "text": "Torik öncesi balık",
+      "answer": "PALAMUT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Başkent dışı",
-      "answer": "TAŞRA",
-      "row": 5,
+      "text": "Yüz kılları",
+      "answer": "SAKAL",
+      "row": 6,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Güreş alanı",
-      "answer": "ARENA",
-      "row": 7,
-      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Zurnalı oyun",
-      "answer": "HALAY",
+      "text": "Gelinin yardımcısı",
+      "answer": "NEDİME",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bakanlık görevlisi",
+      "answer": "BAKAN",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Akıllı kadın",
-      "answer": "AKİLE",
+      "text": "Açık, apaçık",
+      "answer": "ALENİ",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Hoşluk",
-      "answer": "LETAFET",
+      "text": "Mabet",
+      "answer": "TAPINAK",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gramofon diski",
-      "answer": "PLAK",
+      "text": "Sinir sistemi",
+      "answer": "ASAP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gezgin derviş",
-      "answer": "ABDAL",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İkinci karşılaşma",
-      "answer": "RÖVANŞ",
+      "text": "Özelliksiz",
+      "answer": "SIRADAN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Temel öz",
-      "answer": "ESAS",
+      "text": "Kuruyan Orta Asya gölü",
+      "answer": "ARAL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Huzur, sıkıntısızlık",
-      "answer": "RAHAT",
+      "text": "Izgara et",
+      "answer": "KEBAP",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eski karşıtı",
-      "answer": "YENİ",
+      "text": "Erkek ebeveyn",
+      "answer": "BABA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İri bezelye",
-      "answer": "ARAKA",
+      "text": "Ada sakini",
+      "answer": "ADALI",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kabartma maddesi",
-      "answer": "MAYA",
+      "text": "Erkek insan, kişi",
+      "answer": "ADAM",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Mantar-yosun bitkisi",
+      "answer": "LİKEN",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Dünya, evren",
+      "answer": "ACUN",
       "row": 1,
-      "col": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İlk Arap harfi",
-      "answer": "ELİF",
+      "text": "Anlam",
+      "answer": "MANA",
       "row": 6,
-      "col": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ayarlanmış maç",
-      "answer": "ŞİKE",
+      "text": "Ölüm ezgisi",
+      "answer": "AĞIT",
       "row": 0,
-      "col": 6,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İnleme, inilti",
-      "answer": "NALE",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Söylenti",
-      "answer": "RİVAYET",
-      "row": 3,
+      "text": "Yenilmiş, aşınmış",
+      "answer": "YENİK",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -155,23 +155,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 7
+      "col": 6
     },
     {
       "row": 5,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 1
     },
     {
       "row": 7,
@@ -182,8 +174,16 @@
       "col": 0
     },
     {
+      "row": 8,
+      "col": 1
+    },
+    {
       "row": 9,
       "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
     }
   ],
   "difficulty": "orta",

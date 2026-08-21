@@ -5,113 +5,127 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Değiş tokuş",
-      "answer": "TAKAS",
+      "text": "Özverili",
+      "answer": "FEDAKAR",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ayak tabanı cezası",
-      "answer": "FALAKA",
+      "text": "Meksika içkisi",
+      "answer": "TEKİLA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sıkıntı, çarpıntı",
-      "answer": "HAFAKAN",
-      "row": 2,
+      "text": "Öbür dünya",
+      "answer": "AHİRET",
+      "row": 3,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Musluklu yıkama yeri",
-      "answer": "LAVABO",
+      "text": "Gazete yazısı",
+      "answer": "MAKALE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Vücut örtüsü",
-      "answer": "DERİ",
-      "row": 5,
+      "text": "Az bulunur",
+      "answer": "NADİDE",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Meyve tatlısı",
+      "answer": "REÇEL",
+      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Gemi omurgası",
-      "answer": "KARİNA",
-      "row": 6,
+      "text": "Ekleme, ulama",
+      "answer": "İLAVE",
+      "row": 7,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Boya tahtası",
+      "answer": "PALET",
+      "row": 9,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Alışılagelmiş uygulama",
-      "answer": "GÖRENEK",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çiçek düzenleme",
-      "answer": "İKEBANA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Şaşkın, bilemeyen",
-      "answer": "AFAL",
+      "text": "Delikli kumaş",
+      "answer": "ETAMİN",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kasır",
-      "answer": "KÖŞK",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Görüş ortağı",
-      "answer": "KAFADAR",
+      "text": "Üstün zekâ",
+      "answer": "DEHA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Elden ele geçme",
-      "answer": "ALAVERE",
+      "text": "Ortadoğu halkı",
+      "answer": "ARAP",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yarı değerli taş",
+      "answer": "AKİK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yapay tatlandırıcı",
-      "answer": "SAKARİN",
+      "text": "İlaç, çare",
+      "answer": "DEVA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kullanım ücreti",
+      "answer": "KİRA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bakanlar kurulu",
-      "answer": "KABİNE",
-      "row": 1,
+      "text": "Mersin'in eski adı",
+      "answer": "İÇEL",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bayağı, olağan",
+      "answer": "ALELADE",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tiyatro sahnesi",
-      "answer": "ŞANO",
+      "text": "Başarısız olmuş",
+      "answer": "RATE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Beyazımsı",
-      "answer": "AKÇA",
+      "text": "Ayrıcalıklı kesim",
+      "answer": "ELİT",
       "row": 5,
       "col": 6,
       "arrow": "down"
@@ -119,28 +133,16 @@
   ],
   "blocks": [
     {
-      "row": 0,
-      "col": 5
-    },
-    {
       "row": 5,
       "col": 0
     },
     {
       "row": 8,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
       "col": 5
+    },
+    {
+      "row": 9,
+      "col": 0
     }
   ],
   "difficulty": "kolay",

@@ -5,135 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Selçuklu lalası",
-      "answer": "ATABEY",
+      "text": "Bateri çubuğu",
+      "answer": "BAGET",
       "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Pişmanlık",
-      "answer": "NEDAMET",
+      "text": "Gece uçan memeli",
+      "answer": "YARASA",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeterlilik",
-      "answer": "KİFAYET",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kadın hükümdar",
-      "answer": "MELİKE",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gündüz karşıtı",
-      "answer": "GECE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mal getirme",
-      "answer": "İTHAL",
-      "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çabuk, tez",
-      "answer": "ATİK",
-      "row": 7,
+      "text": "Kenar mahalle",
+      "answer": "VAROŞ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tenzilat",
+      "answer": "İNDİRİM",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnleme, inilti",
+      "answer": "NALE",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Tıpla ilgili",
-      "answer": "TIBBİ",
+      "text": "Satış noktası",
+      "answer": "BAYİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Boksta yıkılış",
+      "answer": "NAKAVT",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Parazit",
+      "answer": "ASALAK",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Süt hayvanı",
-      "answer": "İNEK",
+      "text": "Gündelikçi işçi",
+      "answer": "AMELE",
       "row": 9,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "'Aksi takdirde' bağlacı",
-      "answer": "YOKSA",
+      "text": "Ayrıştırılamayan madde",
+      "answer": "ELEMENT",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Japon çizgi filmi",
-      "answer": "ANİME",
-      "row": 0,
+      "text": "Avusturya'nın başkenti",
+      "answer": "VİYANA",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yüksek faizci",
-      "answer": "TEFECİ",
+      "text": "Belli, aşikâr",
+      "answer": "AYAN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hak, hukuk",
-      "answer": "ADALET",
+      "text": "Meşru",
+      "answer": "YASAL",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Korunma duruşu",
+      "answer": "GARD",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Satış noktası",
-      "answer": "BAYİ",
+      "text": "Yerine koyma",
+      "answer": "İKAME",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Morfin türevi",
+      "answer": "EROİN",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kötü, alçak, soysuz",
-      "answer": "HABİS",
-      "row": 5,
+      "text": "Eski dilde dünya",
+      "answer": "ALEM",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çaba, uğraş",
-      "answer": "EMEK",
+      "text": "Başkent dışı",
+      "answer": "TAŞRA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 5,
+      "text": "İskambilde bacak",
+      "answer": "VALE",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yeterince olan",
-      "answer": "YETERLİ",
-      "row": 0,
+      "text": "Akım geçiren",
+      "answer": "İLETKEN",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Burun duyumu",
-      "answer": "KOKU",
-      "row": 6,
+      "text": "Ezgi, melodi",
+      "answer": "NAĞME",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -145,43 +159,31 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 1,
-      "col": 7
+      "col": 6
     },
     {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 7
+      "row": 2,
+      "col": 0
     },
     {
       "row": 6,
-      "col": 0
+      "col": 7
     },
     {
       "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 1
-    },
-    {
-      "row": 7,
-      "col": 2
+      "col": 7
     },
     {
       "row": 8,
-      "col": 6
+      "col": 7
     },
     {
       "row": 9,
@@ -189,15 +191,7 @@
     },
     {
       "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 6
+      "col": 7
     }
   ],
   "difficulty": "orta",

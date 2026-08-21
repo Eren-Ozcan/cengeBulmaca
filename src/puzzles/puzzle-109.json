@@ -1,0 +1,158 @@
+{
+  "id": "puzzle-109",
+  "title": "Bulmaca 109",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Yayla",
+      "answer": "PLATO",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şifahi",
+      "answer": "SÖZLÜ",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Üzüm suyu",
+      "answer": "ŞIRA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Anane",
+      "answer": "GELENEK",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gelin çeyiz parası",
+      "answer": "DRAHOMA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tapınma",
+      "answer": "İBADET",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşağı karşıtı",
+      "answer": "YUKARI",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dokuma aracı",
+      "answer": "MEKİK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çorbalık hamur",
+      "answer": "ŞEHRİYE",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gerçek, esas",
+      "answer": "ASIL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Saçma sapan",
+      "answer": "ABUK",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gelenek, âdet",
+      "answer": "TÖRE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeşilimsi kahverengi",
+      "answer": "HAKİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Şair",
+      "answer": "OZAN",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Işınların toplandığı nokta",
+      "answer": "ODAK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Buğday rengi",
+      "answer": "ESMER",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Türkiye'nin halkı",
+      "answer": "TÜRK",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Nabız vuruşu",
+      "answer": "ATIŞ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 5
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 237
+}

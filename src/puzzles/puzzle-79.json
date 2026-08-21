@@ -5,163 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Zarafet",
-      "answer": "İNCELİK",
+      "text": "Dinî yorum kolu",
+      "answer": "MEZHEP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Nezaket gösterisi",
-      "answer": "SELAM",
+      "text": "Sakin, huzurlu, rahat",
+      "answer": "ASUDE",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Karma sahne gösterisi",
-      "answer": "VARYETE",
+      "text": "Dil",
+      "answer": "LİSAN",
       "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sarı maden",
-      "answer": "ALTIN",
-      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kalın destek",
-      "answer": "DİREK",
+      "text": "Selamet",
+      "answer": "ESENLİK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tokmaklı telli çalgı",
+      "answer": "SANTUR",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İnsan, şahıs",
-      "answer": "KİŞİ",
+      "text": "Myanmar para birimi",
+      "answer": "KYAT",
       "row": 6,
-      "col": 3,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Eşin babası",
-      "answer": "KAYNATA",
+      "text": "Ayı oynatıcı",
+      "answer": "AYICI",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eylem, hareket",
-      "answer": "AKSİYON",
+      "text": "Küba dansı",
+      "answer": "RUMBA",
       "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Süreç adımı",
+      "answer": "AŞAMA",
+      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Donanma",
-      "answer": "ARMADA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Aptal, dengesiz",
-      "answer": "SALAK",
+      "text": "Ezgili söz",
+      "answer": "ŞARKI",
       "row": 11,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yivli eleman",
-      "answer": "VİDA",
-      "row": 2,
+      "text": "Nefis",
+      "answer": "ENFES",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Doğu Anadolu ilimiz",
-      "answer": "KARS",
-      "row": 7,
+      "text": "Sevinç sözü",
+      "answer": "YAŞA",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Akış hâli",
-      "answer": "AKMA",
-      "row": 7,
+      "text": "Hükümdar yapısı",
+      "answer": "SARAY",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gizli sır",
-      "answer": "ESRAR",
+      "text": "Hâlihazırda",
+      "answer": "HALEN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yumuşak başlı",
-      "answer": "UYSAL",
+      "text": "Saç kesimi",
+      "answer": "TIRAŞ",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Göçmen kuş",
-      "answer": "LEYLEK",
+      "text": "Hafif yel",
+      "answer": "ESİNTİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Seslenme, çağırma; ünlem",
-      "answer": "NİDA",
+      "text": "Perşembeden sonraki gün",
+      "answer": "CUMA",
       "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Açı ölçme aracı",
-      "answer": "İLETKİ",
+      "text": "Hafif sisli",
+      "answer": "PUSLU",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bacak ucu",
-      "answer": "AYAK",
-      "row": 7,
+      "text": "Hayvan bakımı",
+      "answer": "TIMAR",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Maddenin sert hâli",
-      "answer": "KATI",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kafka romanı",
-      "answer": "ŞATO",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Olumsuz",
-      "answer": "MENFİ",
+      "text": "Konut bölümü",
+      "answer": "DAİRE",
       "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Görsel duyum",
+      "answer": "RENK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Şefkatli davranan",
-      "answer": "ANAÇ",
-      "row": 7,
+      "text": "Haşarı, yaramaz",
+      "answer": "UÇARI",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -169,34 +162,34 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 2,
       "col": 0
     },
     {
-      "row": 4,
+      "row": 3,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 2
+      "row": 5,
+      "col": 7
     },
     {
       "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {
@@ -205,7 +198,11 @@
     },
     {
       "row": 11,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 1
     }
   ],
   "difficulty": "kolay",

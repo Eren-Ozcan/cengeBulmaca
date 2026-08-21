@@ -5,128 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Hizmetli",
-      "answer": "HADEME",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "At binicisi",
-      "answer": "JOKEY",
-      "row": 2,
-      "col": 0,
+      "text": "Dört kişilik masa oyunu",
+      "answer": "OKEY",
+      "row": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Erden kız",
-      "answer": "BAKİRE",
+      "text": "Emek kazancı",
+      "answer": "PARA",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Giyim",
+      "answer": "KIYAFET",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sıra sayısı",
-      "answer": "NUMARA",
+      "text": "Çiçek halkası",
+      "answer": "ÇELENK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Geniş başlı çivi",
-      "answer": "RAPTİYE",
+      "text": "Yapay tatlandırıcı",
+      "answer": "SAKARİN",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çizilen görüntü",
-      "answer": "RESİM",
+      "text": "Kurallı durum",
+      "answer": "DÜZEN",
       "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Japon giysisi",
-      "answer": "KİMONO",
-      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Doğrusu, esasen",
-      "answer": "ZATEN",
+      "text": "Ermiş hüneri",
+      "answer": "KERAMET",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Silah parçası",
+      "answer": "TETİK",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Notluk defter",
-      "answer": "AJANDA",
+      "text": "Ekşimsi orman meyvesi",
+      "answer": "ALIÇ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hücre topluluğu",
-      "answer": "DOKU",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Fiş yuvası",
-      "answer": "PRİZ",
+      "text": "Sayı, tane",
+      "answer": "ADET",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dünya",
+      "answer": "YERKÜRE",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Onuncu ay",
-      "answer": "EKİM",
+      "text": "Rengarenk taş",
+      "answer": "OPAL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Asıl konu",
-      "answer": "TEMA",
+      "text": "Serbest bırakma",
+      "answer": "AZAT",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Otlak",
-      "answer": "MERA",
+      "text": "Kahve içilen yer",
+      "answer": "KAFE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Urfa biberi",
-      "answer": "İSOT",
+      "text": "Kağıt oyunu",
+      "answer": "REMİ",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hayvan koltuğu",
-      "answer": "EYER",
+      "text": "Ermiş, veli",
+      "answer": "EREN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gene",
-      "answer": "YİNE",
+      "text": "Süt hayvanı",
+      "answer": "İNEK",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dağ lalesi",
-      "answer": "ANEMON",
-      "row": 3,
+      "text": "Yeteneği olan",
+      "answer": "YATKIN",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -134,23 +134,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
     },
     {
       "row": 1,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 6
+      "col": 0
     },
     {
       "row": 7,
-      "col": 0
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 6
     }
   ],
   "difficulty": "kolay",

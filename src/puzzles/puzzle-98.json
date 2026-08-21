@@ -5,135 +5,142 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Toparlak",
-      "answer": "TOMBUL",
+      "text": "Taş oturak",
+      "answer": "SEKİ",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Karton kutu",
-      "answer": "KOLİ",
+      "text": "Anlaşılmaz gürültü",
+      "answer": "UĞULTU",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Teçhizat",
-      "answer": "DONANIM",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Rahmetli",
+      "answer": "MERHUM",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Para torbası",
-      "answer": "KESE",
+      "text": "Boğaz çalkalama",
+      "answer": "GARGARA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eş, zevce",
-      "answer": "KARI",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sıvı kese",
-      "answer": "KİST",
-      "row": 6,
+      "text": "Aldırış etme",
+      "answer": "UMUR",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yolculuk çantası",
-      "answer": "BAVUL",
+      "text": "Kimyada reaktif",
+      "answer": "AYIRAÇ",
       "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Araba süren",
-      "answer": "ARABACI",
-      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zeki deniz memelisi",
-      "answer": "YUNUS",
+      "text": "Kalem içi",
+      "answer": "GRAFİT",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kolay anlatım",
+      "answer": "AKICI",
       "row": 9,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Toplu kalabalık",
-      "answer": "KİTLE",
+      "text": "Zariflik",
+      "answer": "ZARAFET",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Pis kokulu hayvan",
-      "answer": "KOKARCA",
-      "row": 1,
+      "text": "Kin, hınç, garez",
+      "answer": "GARAZ",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Toz mürekkep",
-      "answer": "TONER",
+      "text": "Ekşi baharat",
+      "answer": "SUMAK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Muhtemel",
-      "answer": "OLASI",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bellek birimi",
-      "answer": "BAYT",
+      "text": "Boyun bölümü",
+      "answer": "YAKA",
       "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şayet",
+      "answer": "EĞER",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Diş dokusu",
-      "answer": "MİNE",
+      "text": "Değersiz sayı",
+      "answer": "SIFIR",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Olay örgüsü",
+      "answer": "KURGU",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Razı olma",
-      "answer": "KABUL",
-      "row": 5,
+      "text": "Dileme, yalvarma",
+      "answer": "RİCA",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Deli, kaçık",
-      "answer": "DİVANE",
-      "row": 4,
+      "text": "Esin",
+      "answer": "İLHAM",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Su satıcısı",
-      "answer": "SUCU",
-      "row": 5,
+      "text": "Kaynak gösterme",
+      "answer": "ATIF",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ekşi narenciye",
+      "answer": "TURUNÇ",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tuzsuz su",
-      "answer": "TATLISU",
-      "row": 3,
+      "text": "Para oyunu",
+      "answer": "KUMAR",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -149,15 +156,7 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
     },
     {
       "row": 1,
@@ -165,43 +164,43 @@
     },
     {
       "row": 2,
-      "col": 5
+      "col": 0
     },
     {
-      "row": 2,
-      "col": 6
+      "row": 3,
+      "col": 0
     },
     {
-      "row": 2,
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
       "col": 7
     },
     {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 2
-    },
-    {
       "row": 7,
-      "col": 0
+      "col": 7
     },
     {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 10,
+      "row": 8,
       "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "orta",

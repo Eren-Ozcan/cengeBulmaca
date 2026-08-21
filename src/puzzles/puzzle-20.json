@@ -5,128 +5,121 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Yer halkı",
-      "answer": "AHALİ",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yemek isteği",
-      "answer": "İŞTAH",
-      "row": 1,
+      "text": "Bacak ucu",
+      "answer": "AYAK",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Işık yayma",
-      "answer": "IŞIMA",
-      "row": 3,
+      "text": "Yürüyen kimse",
+      "answer": "YAYA",
+      "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Belirti, jest",
-      "answer": "İŞARET",
+      "text": "İçeri karşıtı",
+      "answer": "DIŞARI",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sahne yapıtı",
+      "answer": "OPERA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İstinat noktası",
-      "answer": "DAYANAK",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ödev",
-      "answer": "VAZİFE",
-      "row": 7,
+      "text": "Düzen ve güvenlik",
+      "answer": "ASAYİŞ",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İnce yapağılı koyun",
-      "answer": "MERİNOS",
-      "row": 7,
+      "text": "Uyandıran",
+      "answer": "UYARICI",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Açık, apaçık",
-      "answer": "ALENİ",
-      "row": 9,
-      "col": 1,
+      "text": "Leylek sesi",
+      "answer": "LAKLAK",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ekleme, ulama",
-      "answer": "İLAVE",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
+      "text": "Büyük kara kütlesi",
+      "answer": "KITA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Nabız vuruşu",
-      "answer": "ATIŞ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dokudaki bozulma, bere",
-      "answer": "YARA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Asla sözü",
-      "answer": "HAŞA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Görevden alma",
-      "answer": "AZİL",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvan barınağı",
-      "answer": "AHIR",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyükanne",
-      "answer": "NİNE",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ses yükseltici",
-      "answer": "MEGAFON",
+      "text": "Doğrudan olmayan",
+      "answer": "DOLAYLI",
       "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Utanç veren, yakışıksız",
+      "answer": "AYIP",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Zaman aracı",
+      "answer": "SAAT",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Damga, mühür",
+      "answer": "KAŞE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ön karşıtı",
+      "answer": "ARKA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sömestir",
+      "answer": "YARIYIL",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Boş ağırlık",
+      "answer": "DARA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gelirli mülk",
-      "answer": "İRAT",
-      "row": 0,
-      "col": 6,
+      "text": "Yeni yaratım",
+      "answer": "İCAT",
+      "row": 5,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kesik",
-      "answer": "KESİ",
-      "row": 5,
+      "text": "Aydınlık enerjisi",
+      "answer": "IŞIK",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -134,23 +127,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 5
+      "col": 4
     },
     {
-      "row": 3,
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
       "row": 9,
-      "col": 0
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "kolay",

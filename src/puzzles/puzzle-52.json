@@ -5,177 +5,163 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Mücadele, savaş",
-      "answer": "CENK",
+      "text": "Parasız",
+      "answer": "BEDAVA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mayhoş ağaç",
-      "answer": "İĞDE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Alet, vasıta",
-      "answer": "ARAÇ",
+      "text": "Toplu kalabalık",
+      "answer": "KİTLE",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Küçük at",
-      "answer": "MİDİLLİ",
+      "text": "Tropik sarı meyve",
+      "answer": "PAPAYA",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Duygulu",
-      "answer": "HİSLİ",
+      "text": "Açık sözlü",
+      "answer": "DOBRA",
       "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çabukluk",
+      "answer": "ACELE",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Beyaz kuş",
-      "answer": "MARTI",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Leş yiyen kuş",
-      "answer": "AKBABA",
+      "text": "Işık saçan şenlik",
+      "answer": "MAYTAP",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kore başkenti",
-      "answer": "SEUL",
+      "text": "İnatçı hayvan",
+      "answer": "KEÇİ",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Savaş tutsağı",
-      "answer": "ESİR",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Dik karşıtı",
-      "answer": "EĞİK",
+      "text": "Taşkınlık",
+      "answer": "İFRAT",
       "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kent",
-      "answer": "ŞEHİR",
+      "text": "Ucuza kapatılan",
+      "answer": "KELEPİR",
       "row": 9,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Güçlü inanç",
-      "answer": "İNAN",
+      "text": "İki parçalı",
+      "answer": "İKİLİ",
       "row": 10,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Dikkatli, özenli",
-      "answer": "TİTİZ",
+      "text": "Kesik süt peyniri",
+      "answer": "ÇÖKELEK",
       "row": 11,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sol elli",
-      "answer": "SOLAK",
+      "text": "Basılı parça",
+      "answer": "KUPON",
       "row": 6,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "İş verme",
-      "answer": "İHALE",
+      "text": "Bağımsız",
+      "answer": "AZADE",
       "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ender",
-      "answer": "NADİR",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Haşarı, yaramaz",
-      "answer": "UÇARI",
+      "text": "Çivi aleti",
+      "answer": "ÇEKİÇ",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Billur",
-      "answer": "KRİSTAL",
+      "text": "Yüksek bilim kurumu",
+      "answer": "AKADEMİ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yanak boyası",
-      "answer": "ALLIK",
-      "row": 1,
+      "text": "Alto keman",
+      "answer": "VİYOLA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Aynı değerde",
-      "answer": "EŞİT",
+      "text": "Kemik dokusu",
+      "answer": "İLİK",
       "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hassas kişi",
-      "answer": "İÇLİ",
+      "text": "Selçuklu lalası",
+      "answer": "ATABEY",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zevk, hoşlanma",
-      "answer": "BEĞENİ",
-      "row": 5,
+      "text": "Adana ilçesi",
+      "answer": "FEKE",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Öğüt",
-      "answer": "NASİHAT",
-      "row": 4,
+      "text": "Kayırma",
+      "answer": "TORPİL",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İki parça mayo",
-      "answer": "BİKİNİ",
-      "row": 5,
+      "text": "Çok büyük",
+      "answer": "DEVASA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kenarları eşit",
-      "answer": "EŞKENAR",
-      "row": 0,
+      "text": "Ev halkı",
+      "answer": "AİLE",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Ortodoks başı",
+      "answer": "PATRİK",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -187,7 +173,7 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 2
     },
     {
       "row": 0,
@@ -195,46 +181,42 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 8
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 6
     },
     {
+      "row": 1,
+      "col": 8
+    },
+    {
       "row": 2,
-      "col": 7
+      "col": 8
     },
     {
       "row": 3,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 8
     },
     {
       "row": 4,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 8
     },
     {
       "row": 8,
       "col": 1
     },
     {
-      "row": 8,
-      "col": 8
-    },
-    {
-      "row": 9,
-      "col": 1
-    },
-    {
       "row": 10,
-      "col": 1
-    },
-    {
-      "row": 10,
-      "col": 8
-    },
-    {
-      "row": 11,
       "col": 1
     }
   ],

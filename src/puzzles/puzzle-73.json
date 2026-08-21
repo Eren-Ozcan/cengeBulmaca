@@ -5,148 +5,155 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Yumurtalı sos",
-      "answer": "MAYONEZ",
+      "text": "Kusur",
+      "answer": "KABAHAT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Olay, durum",
-      "answer": "VAKA",
+      "text": "Fransız unvanı",
+      "answer": "MADAM",
       "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Oturulacak şey",
+      "answer": "OTURAK",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Havayla ilgili",
-      "answer": "HAVAİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bire bir kopya",
-      "answer": "REPLİKA",
+      "text": "Zabıt",
+      "answer": "TUTANAK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Süt organı",
-      "answer": "MEME",
+      "text": "Yapı örtüsü",
+      "answer": "ÇATI",
       "row": 5,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Alım satım",
-      "answer": "TİCARET",
-      "row": 6,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yeni olma",
-      "answer": "YENİLİK",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Toprak kurdu",
-      "answer": "SOLUCAN",
-      "row": 9,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Doyum sağlama",
-      "answer": "TATMİN",
+      "text": "Bir ABD eyaleti",
+      "answer": "UTAH",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hafif topal",
+      "answer": "AKSAK",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Keseli memeli",
+      "answer": "KOALA",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ekran işaretçisi",
+      "answer": "İMLEÇ",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tarım",
+      "answer": "ZİRAAT",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Başıboş",
-      "answer": "AVARE",
+      "text": "Hava gazı",
+      "answer": "AZOT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sınav türü",
-      "answer": "TEST",
-      "row": 6,
+      "text": "Yuvarlak uçlu silah",
+      "answer": "TOPUZ",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Saçma söz",
-      "answer": "YAVE",
-      "row": 0,
+      "text": "Para yüzü",
+      "answer": "TURA",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Amerika tahılı",
-      "answer": "KİNOA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Zürafa akrabası",
-      "answer": "OKAPİ",
+      "text": "Baş aşağı",
+      "answer": "AMUT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Deri",
-      "answer": "CİLT",
+      "text": "Değersiz",
+      "answer": "HAKİR",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Baç",
+      "answer": "HARAÇ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilinç kaybı",
+      "answer": "KOMA",
       "row": 6,
-      "col": 3,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ulaşmış, kavuşmuş",
-      "answer": "NAİL",
+      "text": "Kebap ilimiz",
+      "answer": "ADANA",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bilinen şey",
-      "answer": "MALUM",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yenilikten yana",
-      "answer": "İLERİCİ",
-      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sıvı verme",
-      "answer": "ZERK",
+      "text": "Minareden okunan sela",
+      "answer": "SALA",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Güç, derman",
+      "answer": "TAKAT",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bulunulan yer",
-      "answer": "MEKAN",
-      "row": 5,
+      "text": "Araç, avadanlık",
+      "answer": "ALET",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sayı, tane",
-      "answer": "ADET",
+      "text": "Pens, kerpeten",
+      "answer": "KISKAÇ",
       "row": 3,
       "col": 7,
       "arrow": "down"
@@ -155,7 +162,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 2
     },
     {
       "row": 0,
@@ -167,23 +174,19 @@
     },
     {
       "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 5,
       "col": 0
     },
     {
-      "row": 6,
+      "row": 7,
       "col": 0
     },
     {
       "row": 8,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 0
     },
     {
       "row": 10,

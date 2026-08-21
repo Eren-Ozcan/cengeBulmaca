@@ -1,0 +1,221 @@
+{
+  "id": "puzzle-150",
+  "title": "Bulmaca 150",
+  "rows": 12,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Çekicilik",
+      "answer": "CAZİBE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "El yazısı",
+      "answer": "İMZA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Koruyucu giysi",
+      "answer": "ÖNLÜK",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hiç değilse",
+      "answer": "BARİ",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Vefalı",
+      "answer": "VEFAKAR",
+      "row": 4,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yeniden çiğneme",
+      "answer": "GEVİŞ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sığınılacak yer",
+      "answer": "BARINAK",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Açılış töreni",
+      "answer": "GALA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yazılı tabela",
+      "answer": "LEVHA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Süslü fener",
+      "answer": "FANUS",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Manevi sorumluluk",
+      "answer": "VEBAL",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Azık",
+      "answer": "NEVALE",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Mısır hükümdarı",
+      "answer": "FİRAVUN",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüzbaşının üstü",
+      "answer": "BİNBAŞI",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ev, arsa",
+      "answer": "EMLAK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayırtı",
+      "answer": "NÜANS",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun boyunlu hayvan",
+      "answer": "ZÜRAFA",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yoksul",
+      "answer": "FAKİR",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Toplu öldürme",
+      "answer": "KIRIM",
+      "row": 6,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 1
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 2
+    },
+    {
+      "row": 10,
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 6
+    }
+  ],
+  "difficulty": "orta",
+  "order": 278
+}

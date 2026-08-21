@@ -5,156 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Konuk",
-      "answer": "MİSAFİR",
+      "text": "Eziyet çektiren",
+      "answer": "CEFAKAR",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ayak tabanı cezası",
+      "answer": "FALAKA",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Köpüklü içki",
-      "answer": "BİRA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Karşı çıkma",
-      "answer": "İTİRAZ",
+      "text": "İnce yapağılı koyun",
+      "answer": "MERİNOS",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Borca güvence",
-      "answer": "KEFALET",
+      "text": "Gösterge çizelgesi",
+      "answer": "SKALA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gömü yeri",
-      "answer": "MEZAR",
+      "text": "Atış uzaklığı",
+      "answer": "ATIM",
       "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sarı, tüylü meyve",
-      "answer": "AYVA",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ayrılış selamlaması",
-      "answer": "VEDA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ilıca",
-      "answer": "KAPLICA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "El vuruşu",
-      "answer": "SİLLE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dinden bağımsız",
-      "answer": "LAİK",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Özbekistan'ın başkenti",
-      "answer": "TAŞKENT",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Horoz tacı",
-      "answer": "İBİK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Meksika içkisi",
-      "answer": "TEKİLA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Öfkesiz kırgınlık",
-      "answer": "SİTEM",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gürültülü çekişme",
-      "answer": "DALAŞ",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Önceki gün",
-      "answer": "ARİFE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Duvar lambası",
-      "answer": "APLİK",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Diyelim ki",
-      "answer": "FARAZA",
-      "row": 0,
       "col": 4,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "İz, benek",
-      "answer": "LEKE",
+      "text": "Hız kesici",
+      "answer": "FREN",
+      "row": 6,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çarpan sayı",
+      "answer": "KATSAYI",
       "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şümul",
+      "answer": "KAPSAM",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Cambaz",
+      "answer": "AKROBAT",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Güçlü inanç",
+      "answer": "İNAN",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Cam gibi saydam",
+      "answer": "CAMSI",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Aykırılık bağlacı",
+      "answer": "FAKAT",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Eleme aracı",
+      "answer": "ELEK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İş paydaşı",
+      "answer": "ORTAK",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Süprüntü küreği",
+      "answer": "FARAŞ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Güldüren söz",
+      "answer": "ESPRİ",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Akıllı, bilge",
+      "answer": "AKİL",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Müstehzi",
-      "answer": "ALAYCI",
-      "row": 2,
+      "text": "Rakıya koku veren",
+      "answer": "ANASON",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeter bulma",
+      "answer": "KANAAT",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yedek kaynak",
-      "answer": "REZERV",
-      "row": 0,
+      "text": "Harman savurma aracı",
+      "answer": "YABA",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Mutedil iklim",
+      "answer": "ILIMAN",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Peşin para",
-      "answer": "AVANS",
-      "row": 5,
+      "text": "Resim sanatçısı",
+      "answer": "RESSAM",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -162,47 +162,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
+      "col": 6
     },
     {
       "row": 2,
-      "col": 7
+      "col": 6
     },
     {
-      "row": 3,
-      "col": 7
+      "row": 4,
+      "col": 6
     },
     {
       "row": 5,
       "col": 0
     },
     {
+      "row": 6,
+      "col": 0
+    },
+    {
       "row": 7,
-      "col": 6
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 5
+      "col": 7
     },
     {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 6
+      "row": 11,
+      "col": 0
     },
     {
       "row": 11,

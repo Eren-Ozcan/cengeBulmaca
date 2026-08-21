@@ -1,0 +1,199 @@
+{
+  "id": "puzzle-115",
+  "title": "Bulmaca 115",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Duvar yarığı",
+      "answer": "GEDİK",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yivli eleman",
+      "answer": "VİDA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yiğit derviş",
+      "answer": "ALPEREN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Harf değiştirme oyunu",
+      "answer": "ANAGRAM",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Nesne",
+      "answer": "OBJE",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Benekli kedi",
+      "answer": "ÇİTA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yaka bağlayan",
+      "answer": "KÖPRÜ",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Frekans birimi",
+      "answer": "HERTZ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ekin sapı",
+      "answer": "ANIZ",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Eskrim kılıcı",
+      "answer": "FLÖRE",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Daha uygun",
+      "answer": "EVLA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "En iyisi",
+      "answer": "İDEAL",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sayfa altı açıklama",
+      "answer": "DİPNOT",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Felsefede düşünce",
+      "answer": "İDEA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Baharat satıcısı",
+      "answer": "AKTAR",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Taşınan yük",
+      "answer": "KARGO",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İşi yapan öge",
+      "answer": "ÖZNE",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İşten anlayan",
+      "answer": "ERBAP",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ton kapasitesi",
+      "answer": "TONAJ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Nasip, azık",
+      "answer": "RIZK",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemek listesi",
+      "answer": "MENÜ",
+      "row": 3,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 7
+    }
+  ],
+  "difficulty": "orta",
+  "order": 243
+}

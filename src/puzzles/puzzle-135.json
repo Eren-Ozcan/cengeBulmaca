@@ -1,0 +1,236 @@
+{
+  "id": "puzzle-135",
+  "title": "Bulmaca 135",
+  "rows": 12,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "Anlatım, açıklama",
+      "answer": "İFADE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saç örgüsü",
+      "answer": "BELİK",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Terlemiş olan",
+      "answer": "TERLİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yaklaşık kestirme",
+      "answer": "TAHMİN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnsan, şahıs",
+      "answer": "KİŞİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Giriş holü",
+      "answer": "LOBİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yapı tasarımcısı",
+      "answer": "MİMAR",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşk",
+      "answer": "SEVİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ayarlanmış maç",
+      "answer": "ŞİKE",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yemek kabı",
+      "answer": "TABAK",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Etkileyicilik",
+      "answer": "KARİZMA",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Çok fazla",
+      "answer": "AŞIRI",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Soruşturma özeti",
+      "answer": "FEZLEKE",
+      "row": 11,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Fiyat kâğıdı",
+      "answer": "ETİKET",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Alaca, lekeli",
+      "answer": "ABRAŞ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bırakılan mülk",
+      "answer": "VAKIF",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hindistan başkenti",
+      "answer": "DELHİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Anlatan söz",
+      "answer": "İBARE",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Acıklı, üzücü",
+      "answer": "ELİM",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sonradan ortaya çıkan",
+      "answer": "ARIZ",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağ, münasebet",
+      "answer": "İLİŞKİ",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İktisat",
+      "answer": "EKONOMİ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Koruma emeği",
+      "answer": "BAKIM",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Sağlık görevlisi",
+      "answer": "HEMŞİRE",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 8
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 8
+    },
+    {
+      "row": 11,
+      "col": 0
+    }
+  ],
+  "difficulty": "zor",
+  "order": 263
+}

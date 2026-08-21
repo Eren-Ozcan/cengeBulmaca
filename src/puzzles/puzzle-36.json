@@ -5,149 +5,149 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Gülünç duruma düşen",
-      "answer": "MASKARA",
-      "row": 1,
+      "text": "Bağlaşma",
+      "answer": "İTTİFAK",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Görgüsüz, kaba",
-      "answer": "HIRT",
+      "text": "Odun kırıntısı",
+      "answer": "TALAŞ",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yaz rüzgârı",
-      "answer": "MELTEM",
+      "text": "Dikenli sebze",
+      "answer": "ENGİNAR",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eğimli bölüm",
-      "answer": "RAMPA",
+      "text": "Gemi omurgası",
+      "answer": "KARİNA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eski ağırlık ölçüsü",
-      "answer": "OKKA",
+      "text": "Olmaksızın",
+      "answer": "BİLA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Parlak kâğıt",
-      "answer": "KUŞE",
-      "row": 5,
-      "col": 4,
-      "arrow": "down-right"
+      "text": "Askerlik belgesi",
+      "answer": "TEZKERE",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Kibarlık",
-      "answer": "NEZAKET",
+      "text": "Yardım sözü",
+      "answer": "AMAN",
       "row": 7,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İsa'nın öğrencisi",
-      "answer": "HAVARİ",
+      "text": "Güney Amerika devesi",
+      "answer": "ALPAKA",
       "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Hayır",
-      "answer": "İYİLİK",
+      "text": "Kuru, sert soğuk",
+      "answer": "AYAZ",
       "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Takılarak konuşan",
+      "answer": "KEKEME",
+      "row": 10,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yönerge",
-      "answer": "TALİMAT",
-      "row": 9,
+      "text": "Öğretmen",
+      "answer": "HOCA",
+      "row": 6,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "down"
     },
     {
-      "text": "Vaktinden önce",
-      "answer": "ERKEN",
-      "row": 2,
+      "text": "Eleştiri",
+      "answer": "TENKİT",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Davranış kuralları",
-      "answer": "AHLAK",
-      "row": 0,
+      "text": "Kuru peksimet",
+      "answer": "GALETA",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yetkin, uzman",
-      "answer": "EHİL",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sivrisinek hastalığı",
-      "answer": "SITMA",
+      "text": "Karşı çıkma",
+      "answer": "İTİRAZ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kaybolma",
-      "answer": "ZAYİ",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yumurtalı tatlı",
-      "answer": "KREP",
+      "text": "Geçici, ölümlü",
+      "answer": "FANİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Etnik topluluk",
-      "answer": "KAVİM",
+      "text": "Örtme nesnesi",
+      "answer": "KAPAK",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Fırlatma",
-      "answer": "ATMA",
+      "text": "Saha, meydan",
+      "answer": "ALAN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bilgiçlik taslayan",
-      "answer": "UKALA",
+      "text": "Sırlı kap",
+      "answer": "EMAYE",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dar kumaş",
-      "answer": "ŞERİT",
+      "text": "Siyah",
+      "answer": "KARA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sayı işareti",
+      "answer": "RAKAM",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Güzellik bilimi",
-      "answer": "ESTETİK",
-      "row": 2,
+      "text": "Gömülecek ölü",
+      "answer": "CENAZE",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -155,43 +155,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 2
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 2,
-      "col": 6
+      "row": 1,
+      "col": 7
     },
     {
       "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 10,
       "col": 7
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 2
     }
   ],
   "difficulty": "orta",

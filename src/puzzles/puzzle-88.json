@@ -5,149 +5,135 @@
   "cols": 8,
   "clues": [
     {
-      "text": "İtici neden",
-      "answer": "SAİK",
+      "text": "Müddet",
+      "answer": "SÜRE",
       "row": 0,
-      "col": 4,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Tuzlanmış torik",
-      "answer": "LAKERDA",
-      "row": 2,
+      "text": "Motif",
+      "answer": "DESEN",
+      "row": 1,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kalın kâğıt",
-      "answer": "KARTON",
+      "text": "Özel söz",
+      "answer": "TERİM",
       "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hürmetli",
-      "answer": "SAYGILI",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Seçim sorusu",
-      "answer": "HANGİ",
-      "row": 4,
+      "text": "Askerî yönetim",
+      "answer": "KOMUTA",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yalan söyleyen",
-      "answer": "YALANCI",
+      "text": "Mikroskop camı",
+      "answer": "LAMEL",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Allah adıyla sözü",
+      "answer": "BESMELE",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Temelsiz",
-      "answer": "ASILSIZ",
+      "text": "51 numaralı element",
+      "answer": "ANTİMON",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kızartma kabı",
-      "answer": "TAVA",
+      "text": "İç taraf",
+      "answer": "İÇERİ",
       "row": 9,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Mabet",
-      "answer": "TAPINAK",
+      "text": "Bin gram",
+      "answer": "KİLO",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Akan tükürük",
-      "answer": "SALYA",
-      "row": 3,
+      "text": "Omuz atkısı",
+      "answer": "ETOL",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Türk hükümdarı",
-      "answer": "HAKAN",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Üzüm bitkisi",
-      "answer": "ASMA",
+      "text": "Oturma sırası",
+      "answer": "BANK",
       "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dönen derviş",
+      "answer": "SEMAZEN",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tasalı",
-      "answer": "KAYGILI",
-      "row": 1,
+      "text": "Tedavi sıvısı",
+      "answer": "SERUM",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Nesne gösterisi",
-      "answer": "SERGİ",
+      "text": "Tarz, üslup",
+      "answer": "STİL",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Birlik, bölüm",
+      "answer": "ÜNİTE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Beşten sonraki sayı",
-      "answer": "ALTI",
+      "text": "Gemide tayfa yamağı",
+      "answer": "MİÇO",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Toplama işareti",
-      "answer": "ARTI",
-      "row": 0,
+      "text": "Gereç",
+      "answer": "MALZEME",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Düşünen canlı",
-      "answer": "İNSAN",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Çok sevilen",
-      "answer": "İDOL",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıvı metal",
-      "answer": "CIVA",
+      "text": "İngiliz unvanı",
+      "answer": "LORT",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İnanç, görüş",
-      "answer": "KANI",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kar taşıtı",
-      "answer": "KIZAK",
-      "row": 5,
+      "text": "Hiç kullanılmamış",
+      "answer": "YEPYENİ",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -163,19 +149,35 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
-      "col": 0
+      "col": 7
     },
     {
-      "row": 1,
-      "col": 1
+      "row": 2,
+      "col": 6
     },
     {
       "row": 3,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
     },
     {
       "row": 5,
@@ -190,8 +192,12 @@
       "col": 0
     },
     {
-      "row": 9,
-      "col": 1
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "kolay",

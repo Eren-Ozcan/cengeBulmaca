@@ -5,135 +5,142 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Konut",
-      "answer": "MESKEN",
-      "row": 0,
+      "text": "Gemi yapım yeri",
+      "answer": "TERSANE",
+      "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Savaş tutsağı",
+      "answer": "ESİR",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Dağ arası",
+      "answer": "VADİ",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Osmanlı sınır askeri",
+      "answer": "SEKBAN",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Çimlendirilmiş arpa",
+      "answer": "MALT",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Müzikte uyum",
-      "answer": "ARMONİ",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ülke insanları",
-      "answer": "HALK",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Musluk takımı",
-      "answer": "ARMATÜR",
-      "row": 4,
+      "text": "Yaygınlaşmış haber",
+      "answer": "ŞAYİ",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Simsiyah",
-      "answer": "KAPKARA",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağırlaşan durum",
-      "answer": "VAHAMET",
+      "text": "Yumurtalı domates yemeği",
+      "answer": "MENEMEN",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yontma aracı",
-      "answer": "KESKİ",
+      "text": "Küçük ölçek",
+      "answer": "MAKET",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Söylence",
-      "answer": "EFSANE",
+      "text": "Buyruk",
+      "answer": "EMİR",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Duyuru",
-      "answer": "İLAN",
+      "text": "Taban, yer",
+      "answer": "ZEMİN",
       "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sulu boya",
-      "answer": "AKVAREL",
-      "row": 3,
+      "text": "Ücretsiz yemekevi",
+      "answer": "AŞEVİ",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çöl",
-      "answer": "SAHRA",
-      "row": 0,
+      "text": "Hayvanlar kralı",
+      "answer": "ASLAN",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İstemsiz kasılma",
-      "answer": "KRAMP",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ters, huysuz",
-      "answer": "AKSİ",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ev, arsa",
-      "answer": "EMLAK",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Anlam çevirisi",
-      "answer": "MEAL",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Cümle işareti",
-      "answer": "NOKTA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Süre, sıra",
-      "answer": "ESNA",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Çok üreten",
-      "answer": "ÜRETKEN",
+      "text": "Vejetaryen",
+      "answer": "ETYEMEZ",
       "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gönderme, yönlendirme",
+      "answer": "SEVK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tespih başlığı",
+      "answer": "İMAME",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sinirli, öfkeli",
+      "answer": "ASABİ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Onuncu ay",
+      "answer": "EKİM",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Seslenme, çağırma; ünlem",
+      "answer": "NİDA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Uygulama, yapma",
-      "answer": "İCRA",
-      "row": 1,
+      "text": "Teklif",
+      "answer": "ÖNERİ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıkıntısız, huzurlu",
+      "answer": "ERİNÇ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -141,31 +148,35 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 6
+      "col": 2
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 6
+      "col": 3
     },
     {
       "row": 2,
       "col": 0
     },
     {
+      "row": 2,
+      "col": 1
+    },
+    {
       "row": 3,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 2
+      "row": 3,
+      "col": 1
     },
     {
       "row": 6,
@@ -181,6 +192,10 @@
     },
     {
       "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 7
     },
     {
@@ -189,7 +204,7 @@
     },
     {
       "row": 10,
-      "col": 7
+      "col": 1
     }
   ],
   "difficulty": "orta",

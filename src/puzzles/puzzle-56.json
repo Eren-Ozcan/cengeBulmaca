@@ -5,128 +5,135 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Ajan",
-      "answer": "CASUS",
+      "text": "Akyuvar hastalığı",
+      "answer": "LÖSEMİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bando",
-      "answer": "MIZIKA",
+      "text": "Kısa ceket",
+      "answer": "BOLERO",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sıradan",
-      "answer": "OLAĞAN",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Temel kanun",
-      "answer": "ANAYASA",
-      "row": 3,
+      "text": "Ölü yıkama tahtası",
+      "answer": "TENEŞİR",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Onarım işleri",
-      "answer": "TAMİRAT",
+      "text": "İlmikli ip",
+      "answer": "KEMENT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Egzama",
+      "answer": "MAYASIL",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Askerî yönetim",
-      "answer": "KOMUTA",
+      "text": "Tımar aracı",
+      "answer": "KAŞAĞI",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İnce zıddı",
-      "answer": "KALIN",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kuş gübresi",
-      "answer": "GUANO",
-      "row": 8,
+      "text": "Şımartılmış",
+      "answer": "ŞIMARIK",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Keskin kokulu gaz",
-      "answer": "AMONYAK",
+      "text": "Dişi geyik",
+      "answer": "MARAL",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Küme, grup",
+      "answer": "ÖBEK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Özlenen memleket",
-      "answer": "SILA",
+      "text": "Yük hareketi",
+      "answer": "AKIM",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "14 dizeli şiir",
+      "answer": "SONE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kahve türü",
-      "answer": "MOKA",
+      "text": "Onarım parçası",
+      "answer": "YAMA",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gök boşluğu",
-      "answer": "UZAY",
+      "text": "Keder, üzüntü",
+      "answer": "ELEM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dinî inanç",
-      "answer": "İMAN",
+      "text": "Osmanlı'da öşür",
+      "answer": "AŞAR",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kapasite",
-      "answer": "SIĞA",
+      "text": "Palamut ağacı",
+      "answer": "MEŞE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dürülmüş kağıt",
-      "answer": "RULO",
+      "text": "Tutarık hastalığı",
+      "answer": "SARA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çok sert",
-      "answer": "KASKATI",
-      "row": 1,
+      "text": "Yaradaki cerahat",
+      "answer": "İRİN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İnek yavrusu",
-      "answer": "DANA",
-      "row": 0,
-      "col": 6,
+      "text": "Yavaşça akan",
+      "answer": "IĞIL",
+      "row": 5,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Adet",
-      "answer": "TANE",
-      "row": 5,
+      "text": "Çevre, etraf",
+      "answer": "ORTALIK",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     }
@@ -134,11 +141,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 6
     },
     {
       "row": 9,
-      "col": 5
+      "col": 6
     }
   ],
   "difficulty": "kolay",

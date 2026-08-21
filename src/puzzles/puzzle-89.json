@@ -5,154 +5,158 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Sevecenlik",
-      "answer": "ŞEFKAT",
+      "text": "Tohum artığı",
+      "answer": "KÜSPE",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bulgar parası",
-      "answer": "LEVA",
+      "text": "Kenar süsü dikişi",
+      "answer": "PİKO",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kıvırcık köpek",
-      "answer": "KANİŞ",
+      "text": "Uzak göremeyen",
+      "answer": "MİYOP",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İçki yiyeceği",
-      "answer": "MEZE",
+      "text": "Derin çanak",
+      "answer": "KASE",
       "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çay demleme kabı",
-      "answer": "SEMAVER",
-      "row": 4,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sahne dansı",
-      "answer": "BALE",
+      "text": "Baba",
+      "answer": "PEDER",
       "row": 5,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Yılın altıncı ayı",
-      "answer": "HAZİRAN",
-      "row": 7,
+      "text": "Yönetme",
+      "answer": "İDARE",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yargıç",
-      "answer": "HAKİM",
-      "row": 7,
+      "text": "Dinî inanç",
+      "answer": "İMAN",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Osmanlı yönetim birimi",
-      "answer": "EYALET",
+      "text": "Eskil",
+      "answer": "ARKAİK",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Su içilen cam",
+      "answer": "BARDAK",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yol oteli",
-      "answer": "MOTEL",
-      "row": 9,
+      "text": "Güneşte kurutulmuş tuğla",
+      "answer": "KERPİÇ",
+      "row": 10,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Aynı",
-      "answer": "TIPKI",
+      "text": "Yağma",
+      "answer": "TALAN",
       "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Aşırı şişman",
-      "answer": "OBEZ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Alan; oyun yeri",
-      "answer": "SAHA",
-      "row": 4,
+      "text": "Sürekli olarak",
+      "answer": "DAİMA",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Büyük yıkım",
-      "answer": "FELAKET",
-      "row": 3,
+      "text": "Sert çarpma",
+      "answer": "DARBE",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Üstün nitelik",
-      "answer": "MEZİYET",
+      "text": "Gösteri levhası",
+      "answer": "PANKART",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İşaret bayrağı",
-      "answer": "FLAMA",
+      "text": "Haber sunucusu",
+      "answer": "SPİKER",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Üstü kapalı",
-      "answer": "İMALI",
-      "row": 6,
+      "text": "Bira tahılı",
+      "answer": "ARPA",
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Lifli halat bitkisi",
-      "answer": "KENEVİR",
+      "text": "Yaya asker",
+      "answer": "PİYADE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tavan lambası",
-      "answer": "AVİZE",
+      "text": "Kır şiiri",
+      "answer": "İDİL",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kareli kumaş",
+      "answer": "EKOSE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Uyum, düzen, armoni",
-      "answer": "AHENK",
-      "row": 6,
+      "text": "Ne fiyata",
+      "answer": "KAÇA",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Alt yüklenici",
-      "answer": "TAŞERON",
-      "row": 0,
+      "text": "Hafif müzikli oyun",
+      "answer": "OPERET",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
     {
       "row": 0,
       "col": 1
@@ -166,6 +170,18 @@
       "col": 3
     },
     {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
       "row": 2,
       "col": 1
     },
@@ -175,19 +191,31 @@
     },
     {
       "row": 3,
-      "col": 1
+      "col": 0
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 2
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
     },
     {
       "row": 8,
       "col": 7
     },
     {
-      "row": 10,
-      "col": 5
+      "row": 9,
+      "col": 0
     },
     {
       "row": 10,

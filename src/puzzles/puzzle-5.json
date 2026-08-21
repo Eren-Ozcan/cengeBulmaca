@@ -5,128 +5,100 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Hutbe merdiveni",
-      "answer": "MİNBER",
+      "text": "Sözleşme, bağıt",
+      "answer": "AKİT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üretilen şey",
-      "answer": "ÜRÜN",
+      "text": "Ara bozuculuk",
+      "answer": "FESAT",
       "row": 2,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Öğüt verme",
-      "answer": "TAVSİYE",
+      "text": "Kara zift",
+      "answer": "KATRAN",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yarık, delik",
-      "answer": "PATLAK",
+      "text": "Yararlanılan buhar",
+      "answer": "İSTİM",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağılı",
+      "answer": "ZEHİRLİ",
       "row": 4,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "El işi mesleği",
+      "answer": "ZANAAT",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Osmanlı hükümdarı",
-      "answer": "PADİŞAH",
-      "row": 5,
+      "text": "Uyarı aleti",
+      "answer": "SİREN",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Koruma, kayırma",
-      "answer": "HİMAYE",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hak etme",
-      "answer": "LİYAKAT",
-      "row": 7,
+      "text": "Hafif, ince yağmur",
+      "answer": "ÇİSE",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yağma",
-      "answer": "TALAN",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
+      "text": "Yıpratıcı, üstün",
+      "answer": "EZİCİ",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
     },
     {
-      "text": "Paylama, azarlama",
-      "answer": "İTAP",
+      "text": "Övünme",
+      "answer": "İFTİHAR",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yemin, ant",
-      "answer": "AHİT",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Çalışma nöbeti",
-      "answer": "VARDİYA",
-      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Baş, göğüs heykeli",
-      "answer": "BÜST",
+      "text": "Aksine",
+      "answer": "TERSİNE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Üretim işlemi",
-      "answer": "İMAL",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Erkek cins",
-      "answer": "ERİL",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Latife",
-      "answer": "ŞAKA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Düş",
-      "answer": "RÜYA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Belli, aşikâr",
-      "answer": "AYAN",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İyileşme dönemi",
-      "answer": "NEKAHET",
+      "text": "Şah mat oyunu",
+      "answer": "SATRANÇ",
       "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İç giysi",
+      "answer": "FANİLA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Efsane, söylence, mit",
+      "answer": "MİTOS",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     }
@@ -134,11 +106,43 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
     },
     {
       "row": 0,
       "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
     },
     {
       "row": 9,

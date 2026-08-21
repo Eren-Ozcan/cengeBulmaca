@@ -1,0 +1,159 @@
+{
+  "id": "puzzle-124",
+  "title": "Bulmaca 124",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Alınan ders",
+      "answer": "İBRET",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Beyaz etli balık",
+      "answer": "LEVREK",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Toza bulanmış",
+      "answer": "TOZLU",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Görünmeyen, bilinmeyen",
+      "answer": "GAİP",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Işık geçiren",
+      "answer": "ŞEFFAF",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kollu sandık çalgısı",
+      "answer": "LATERNA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zola romanı",
+      "answer": "NANA",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kibarlık",
+      "answer": "NEZAKET",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İnternet günlüğü",
+      "answer": "BLOG",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dağ evi",
+      "answer": "ŞALE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Rezillik",
+      "answer": "REZALET",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Evlenmiş olan",
+      "answer": "EVLİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kötü",
+      "answer": "FENA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Oyuncu topluluğu",
+      "answer": "TRUP",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun etekli tören ceketi",
+      "answer": "FRAK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ana, valide",
+      "answer": "ANNE",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağışlanma dileme",
+      "answer": "ŞEFAAT",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 5
+    },
+    {
+      "row": 4,
+      "col": 5
+    },
+    {
+      "row": 5,
+      "col": 0
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 252
+}

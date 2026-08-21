@@ -5,127 +5,141 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Abidevi",
-      "answer": "ANITSAL",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İçme tadı",
-      "answer": "İÇİM",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Dişli kesici",
-      "answer": "TESTERE",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Söz",
-      "answer": "KELAM",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Asker birliği",
-      "answer": "MANGA",
-      "row": 5,
+      "text": "Müzik makamı",
+      "answer": "HİCAZ",
+      "row": 1,
       "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ödünç para",
+      "answer": "KREDİ",
+      "row": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hanım unvanı",
-      "answer": "LEYDİ",
+      "text": "İyilikbilmez",
+      "answer": "NANKÖR",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Konuşma yeri",
+      "answer": "KÜRSÜ",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Savaştan dönen",
+      "answer": "GAZİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Beyaz eşya markası",
+      "answer": "BEKO",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Saat onaran",
-      "answer": "SAATÇİ",
+      "text": "Hak, hukuk",
+      "answer": "ADALET",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tuz üretimi",
-      "answer": "TUZLA",
-      "row": 8,
+      "text": "Vasıf",
+      "answer": "NİTELİK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Miras",
+      "answer": "KALIT",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sahne gösterisi",
-      "answer": "REVÜ",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
+      "text": "Eşin annesi",
+      "answer": "KAYNANA",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
     },
     {
-      "text": "Ses işareti",
-      "answer": "NOTA",
+      "text": "Az önce",
+      "answer": "HENÜZ",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sorumlu",
-      "answer": "MESUL",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuru, sert soğuk",
-      "answer": "AYAZ",
-      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Rezalet olayı",
-      "answer": "SKANDAL",
-      "row": 2,
+      "text": "Adaletli",
+      "answer": "ADİL",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yönetime dair",
+      "answer": "İDARİ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Toplu konut",
-      "answer": "SİTE",
+      "text": "Dışarıda gecelemek",
+      "answer": "YATI",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstün, kaliteli",
+      "answer": "CİNS",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Perdeli çalgı",
-      "answer": "GİTAR",
+      "text": "Erkek balerin",
+      "answer": "BALET",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kokusuz süs çiçeği",
-      "answer": "AÇELYA",
-      "row": 0,
+      "text": "Global",
+      "answer": "KÜRESEL",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Para birimimiz",
-      "answer": "LİRA",
-      "row": 0,
+      "text": "Kesin, değişmez",
+      "answer": "KATİ",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hoşnut kimse",
-      "answer": "MEMNUN",
+      "text": "Elektrik dönüştürücü",
+      "answer": "TRAFO",
       "row": 1,
       "col": 7,
       "arrow": "down"
@@ -134,11 +148,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
-      "col": 3
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 0,
@@ -146,59 +168,35 @@
     },
     {
       "row": 2,
-      "col": 0
+      "col": 6
     },
     {
-      "row": 2,
-      "col": 2
+      "row": 3,
+      "col": 0
     },
     {
       "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
       "col": 6
     },
     {
       "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 6
+      "col": 7
     },
     {
       "row": 8,
       "col": 7
     },
     {
-      "row": 9,
+      "row": 10,
       "col": 5
     },
     {
-      "row": 9,
+      "row": 10,
       "col": 6
     },
     {
-      "row": 9,
+      "row": 10,
       "col": 7
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 2
     }
   ],
   "difficulty": "orta",

@@ -1,0 +1,155 @@
+{
+  "id": "puzzle-145",
+  "title": "Bulmaca 145",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Desenli örtü",
+      "answer": "POŞU",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Moda gösterisi",
+      "answer": "DEFİLE",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kendine önem veren",
+      "answer": "GURURLU",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Meyve özü",
+      "answer": "NEKTAR",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sanırım",
+      "answer": "GALİBA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Küçük taşıt",
+      "answer": "PİKAP",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yumuşak gövdeli",
+      "answer": "OTSU",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tabelalarda parlayan gaz",
+      "answer": "NEON",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yakacak parça",
+      "answer": "ODUN",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kumaş cilalama",
+      "answer": "APRE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Onurlu",
+      "answer": "ŞEREFLİ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gök-yer çizgisi",
+      "answer": "UFUK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dini tasvir; simge",
+      "answer": "İKON",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağlantı",
+      "answer": "İRTİBAT",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ne olursa olsun",
+      "answer": "İLLA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İrin birikintisi",
+      "answer": "APSE",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Avrupa Birliği parası",
+      "answer": "EURO",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 273
+}

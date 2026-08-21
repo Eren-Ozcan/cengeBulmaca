@@ -5,156 +5,142 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Veciz",
-      "answer": "ÖZLÜ",
-      "row": 1,
+      "text": "Ortaya çıkmış",
+      "answer": "PEYDA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Merhamet duygusu",
+      "answer": "ACIMA",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ege incisi",
-      "answer": "İZMİR",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Şekersiz kahve",
-      "answer": "SADE",
+      "text": "Senato üyesi",
+      "answer": "SENATÖR",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dar olan",
-      "answer": "ENSİZ",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
+      "text": "Küçük boru",
+      "answer": "ZIVANA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Uzun gagalı balık",
-      "answer": "ZARGANA",
+      "text": "Karesi verilen sayı",
+      "answer": "KAREKÖK",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Namaz görevlisi",
-      "answer": "İMAM",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Şehir bölgesi",
-      "answer": "SEMT",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uzaktan görülen",
-      "answer": "KARARTI",
+      "text": "Tahta üflemeli çalgı",
+      "answer": "KLARNET",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İrticalen söyleme",
-      "answer": "DOĞAÇ",
-      "row": 8,
+      "text": "Canlı birimi",
+      "answer": "HÜCRE",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Eşsiz, tek",
+      "answer": "BİRİCİK",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zan, zehap",
-      "answer": "SANI",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Araştırma kurumu",
-      "answer": "ENSTİTÜ",
+      "text": "Kopya",
+      "answer": "SURET",
       "row": 11,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Anasız çocuk",
-      "answer": "ÖKSÜZ",
+      "text": "Alçak",
+      "answer": "BASIK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kareli kumaş",
-      "answer": "EKOSE",
+      "text": "Çalışan, faal",
+      "answer": "AKTİF",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hediye",
-      "answer": "ARMAĞAN",
-      "row": 4,
+      "text": "Yanıt",
+      "answer": "CEVAP",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Önder",
-      "answer": "LİDER",
+      "text": "Kaynak su",
+      "answer": "PINAR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bilinç durumu",
-      "answer": "TRANS",
+      "text": "Konuşulan konu",
+      "answer": "BAHİS",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eyer ayaklığı",
-      "answer": "ÜZENGİ",
+      "text": "Geçici bırakılan",
+      "answer": "EMANET",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kapı, pencere açıklığı",
-      "answer": "AÇIT",
+      "text": "Geri dönme",
+      "answer": "RÜCU",
       "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kürklü hayvan",
-      "answer": "SAMUR",
-      "row": 3,
+      "text": "Döşek",
+      "answer": "YATAK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Özen",
-      "answer": "İTİNA",
-      "row": 1,
-      "col": 6,
+      "text": "Tohumlu meyve",
+      "answer": "İNCİR",
+      "row": 6,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Esnek giysi",
-      "answer": "TAYT",
+      "text": "Enerji",
+      "answer": "ERKE",
       "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Fiyatı arttırılmış",
-      "answer": "ZAMLI",
-      "row": 3,
+      "text": "Yıllık ürün",
+      "answer": "REKOLTE",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -170,10 +156,6 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
@@ -182,35 +164,39 @@
     },
     {
       "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 7
+      "col": 0
     },
     {
       "row": 2,
-      "col": 0
+      "col": 6
     },
     {
       "row": 4,
+      "col": 6
+    },
+    {
+      "row": 6,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 5
+      "row": 6,
+      "col": 6
     },
     {
-      "row": 9,
-      "col": 7
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 2
     },
     {
       "row": 10,
-      "col": 5
+      "col": 7
     },
     {
-      "row": 10,
-      "col": 7
+      "row": 11,
+      "col": 0
     }
   ],
   "difficulty": "zor",

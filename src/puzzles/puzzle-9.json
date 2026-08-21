@@ -5,163 +5,184 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Akciğer hastalığı",
-      "answer": "VEREM",
+      "text": "Peru parası",
+      "answer": "İNTİ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Osmanlı gece bekçisi",
+      "answer": "ASES",
       "row": 1,
-      "col": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Taharri",
-      "answer": "ARAMA",
+      "text": "Su geçirmez mont",
+      "answer": "ANORAK",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ama",
-      "answer": "LAKİN",
+      "text": "Şehir bölgesi",
+      "answer": "SEMT",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çalışma mobilyası",
+      "answer": "MASA",
       "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Saç kıvırıcı",
+      "answer": "BİGUDİ",
+      "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Toplu gösteri",
-      "answer": "MİTİNG",
+      "text": "Dudak kabarcığı",
+      "answer": "UÇUK",
       "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Erkek keçi",
+      "answer": "TEKE",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Erler topluluğu",
+      "answer": "ERAT",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Egemen toprak",
-      "answer": "ÜLKE",
-      "row": 5,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Amerika kedigili",
-      "answer": "JAGUAR",
+      "text": "Bir yerde oturma",
+      "answer": "İKAMET",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Konser",
-      "answer": "DİNLETİ",
+      "text": "Kazanılan başarı",
+      "answer": "ZAFER",
       "row": 8,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yeğinlik",
-      "answer": "ŞİDDET",
-      "row": 8,
+      "text": "Kaleyi koruyan",
+      "answer": "KALECİ",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Dışkı yakıtı",
+      "answer": "TEZEK",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ani saldırı, hücum",
+      "answer": "AKIN",
+      "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güçlü çalma",
-      "answer": "FORTE",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kötü",
-      "answer": "FENA",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hafif, ince yağmur",
-      "answer": "ÇİSE",
+      "text": "Kavisli kılıç",
+      "answer": "PALA",
       "row": 11,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Tüylü kumaş",
-      "answer": "KADİFE",
-      "row": 5,
+      "text": "Ayakkabı kaşığı",
+      "answer": "ÇEKECEK",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "El bavulu",
-      "answer": "VALİZ",
+      "text": "Halk müziği çalgısı",
+      "answer": "TAMBURA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yön kolu",
-      "answer": "GİDON",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Erler topluluğu",
-      "answer": "ERAT",
+      "text": "Öç alma",
+      "answer": "İNTİKAM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kutup bitki örtüsü",
-      "answer": "TUNDRA",
+      "text": "Karşıtlık",
+      "answer": "TEZAT",
       "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yarışan kimse",
-      "answer": "RAKİP",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Araç, avadanlık",
-      "answer": "ALET",
+      "text": "Sonbahar meyvesi",
+      "answer": "ARMUT",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İsteme",
+      "answer": "TALEP",
       "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Güvenli",
-      "answer": "EMİN",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Jeneratör",
-      "answer": "ÜRETEÇ",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kömür ateşliği",
-      "answer": "MANGAL",
+      "text": "Mutluluk",
+      "answer": "SAADET",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yerine geçen",
-      "answer": "KAİM",
-      "row": 5,
+      "text": "Uzay",
+      "answer": "FEZA",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Noksan",
+      "answer": "EKSİK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kalın taban derisi",
-      "answer": "KÖSELE",
-      "row": 0,
+      "text": "Ölüm vakti",
+      "answer": "ECEL",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Dolap, oyun",
+      "answer": "ENTRİKA",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     }
@@ -169,79 +190,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 7
+      "col": 4
     },
     {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 7,
+      "row": 0,
       "col": 8
+    },
+    {
+      "row": 2,
+      "col": 8
+    },
+    {
+      "row": 6,
+      "col": 7
     },
     {
       "row": 8,
-      "col": 8
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
     },
     {
       "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 8
+      "col": 0
     },
     {
       "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 8
+      "col": 2
     }
   ],
   "difficulty": "zor",

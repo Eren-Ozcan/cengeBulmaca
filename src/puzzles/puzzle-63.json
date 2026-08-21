@@ -5,142 +5,156 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Hat ustası",
-      "answer": "HATTAT",
+      "text": "Yargıç",
+      "answer": "HAKİM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Merkez nokta",
-      "answer": "ORTA",
+      "text": "Ses bilgisi",
+      "answer": "FONETİK",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şeffaf mineral",
-      "answer": "MİKA",
+      "text": "Elden ele geçme",
+      "answer": "ALAVERE",
       "row": 3,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kızıl metal",
-      "answer": "BAKIR",
+      "text": "Sözleşme",
+      "answer": "KONTRAT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kırmızı işaret",
-      "answer": "KARO",
+      "text": "Kalabalığın toplu saldırısı",
+      "answer": "LİNÇ",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yüzer araç",
-      "answer": "DUBA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Koruyucu kutu",
-      "answer": "MAHFAZA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Doğuş bayramı",
-      "answer": "NOEL",
-      "row": 8,
-      "col": 0,
+      "text": "Uçtan geniş etek",
+      "answer": "EVAZE",
+      "row": 7,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ürün toprağı",
-      "answer": "TARLA",
+      "text": "Odun baltası",
+      "answer": "NACAK",
       "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Saydam görüntü",
+      "answer": "SLAYT",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ev, aile",
+      "answer": "HANE",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kaçmış kimse",
-      "answer": "KAÇKIN",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Baldızın kocası",
-      "answer": "BACANAK",
-      "row": 3,
+      "text": "Konu dışı",
+      "answer": "AFAKİ",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kağıt rulosu",
-      "answer": "TOMAR",
+      "text": "Kazıma süslemesi",
+      "answer": "OYMA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dikey destek",
+      "answer": "KOLON",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Balkan oyunu",
-      "answer": "HORA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Örme kumaş",
-      "answer": "TRİKO",
+      "text": "Bağlı düşünce",
+      "answer": "İNANÇ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İnme",
-      "answer": "FELÇ",
+      "text": "Boyun arkası",
+      "answer": "ENSE",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Boyun örtüsü",
-      "answer": "ATKI",
+      "text": "Eski dilde ölüm",
+      "answer": "MEVT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Lenf organı",
-      "answer": "DALAK",
+      "text": "Yumurta biçimli",
+      "answer": "OVAL",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Askerî hücum",
-      "answer": "TAARRUZ",
-      "row": 0,
+      "text": "Arka yüz",
+      "answer": "TERS",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bakanlık görevlisi",
-      "answer": "BAKAN",
+      "text": "Güçlü, becerikli",
+      "answer": "ACAR",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çünkü",
+      "answer": "ZİRA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Gök boşluğu",
+      "answer": "UZAY",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sıvı parçası",
-      "answer": "DAMLA",
+      "text": "Katmerli çörek",
+      "answer": "KETE",
       "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Canı her şeyi çeken",
+      "answer": "EKTİ",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -148,63 +162,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 2,
+      "row": 6,
       "col": 0
     },
     {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
+      "row": 6,
+      "col": 2
     },
     {
       "row": 7,
-      "col": 7
+      "col": 0
     },
     {
       "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 7
+      "col": 0
     },
     {
       "row": 10,
-      "col": 7
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 6
     }
   ],
   "difficulty": "zor",

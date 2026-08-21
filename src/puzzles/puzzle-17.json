@@ -5,128 +5,135 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Az önce",
-      "answer": "HENÜZ",
+      "text": "Yürüme desteği",
+      "answer": "BASTON",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Belirsiz çokluk",
-      "answer": "NİCE",
+      "text": "Ürün toprağı",
+      "answer": "TARLA",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dernek, topluluk",
-      "answer": "CEMİYET",
+      "text": "Aşırı tutkun",
+      "answer": "FANATİK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Züğürt",
-      "answer": "FUKARA",
+      "text": "Örtülü, kapanmış",
+      "answer": "KAPALI",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Arap başörtüsü",
-      "answer": "KEFİYE",
+      "text": "Nüans",
+      "answer": "AYIRTI",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Fabrika üretimi",
-      "answer": "İMALAT",
+      "text": "Kesin yargı",
+      "answer": "KARAR",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çam sakızı",
-      "answer": "REÇİNE",
-      "row": 8,
+      "text": "Cilt bağı",
+      "answer": "ŞİRAZE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "'Asla' ünlemi",
+      "answer": "SAKIN",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
       "text": "Girişken, çevik",
       "answer": "ATAK",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Pişmanlık, üzüntü",
-      "answer": "ESEF",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kullanım ücreti",
-      "answer": "KİRA",
+      "text": "Yansıma",
+      "answer": "AKİS",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Para işleri görevlisi",
-      "answer": "MUTEMET",
-      "row": 2,
+      "text": "'Sen'in yönelme hâli",
+      "answer": "SANA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tek, eşsiz",
-      "answer": "ÜNİK",
+      "text": "Dokudaki bozulma, bere",
+      "answer": "YARA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hendek, tuzak",
+      "answer": "TRAP",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Görünüm, kılık",
-      "answer": "FAÇA",
+      "text": "Uzak",
+      "answer": "IRAK",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Işık",
-      "answer": "ZİYA",
+      "text": "Balık aracı",
+      "answer": "OLTA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kemik dokusu",
-      "answer": "İLİK",
+      "text": "Kabul eden",
+      "answer": "RAZI",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Akım",
-      "answer": "CEREYAN",
-      "row": 1,
+      "text": "Ulaşmış, kavuşmuş",
+      "answer": "NAİL",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İkinci Yunan harfi",
-      "answer": "BETA",
-      "row": 0,
-      "col": 6,
+      "text": "Raylı taşıt",
+      "answer": "TREN",
+      "row": 5,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Uçucu sıvı",
-      "answer": "ETER",
-      "row": 5,
+      "text": "Sahil",
+      "answer": "KIYI",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -134,19 +141,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 6
     },
     {
-      "row": 0,
-      "col": 5
+      "row": 1,
+      "col": 6
     },
     {
       "row": 5,
       "col": 0
     },
     {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
       "row": 9,
-      "col": 5
+      "col": 6
     }
   ],
   "difficulty": "kolay",

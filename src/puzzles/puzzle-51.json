@@ -5,156 +5,163 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Aşama, derece",
-      "answer": "MERTEBE",
+      "text": "Ruhsal tedavi",
+      "answer": "TERAPİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Terbiyeli davranış",
-      "answer": "EDEP",
+      "text": "Koyun derisi",
+      "answer": "MEŞİN",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kalsiyum maddesi",
-      "answer": "KİREÇ",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tropik ağaç",
-      "answer": "PALMİYE",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hayvan besleme",
-      "answer": "BESİ",
-      "row": 4,
+      "text": "Tercüme",
+      "answer": "ÇEVİRİ",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eşlik etme",
-      "answer": "REFAKAT",
+      "text": "Kürek çeken",
+      "answer": "KÜREKÇİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kaldırma makinesi",
+      "answer": "LİFT",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İşleme, nakış",
+      "answer": "NAKŞ",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dağ arası",
-      "answer": "VADİ",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Çam meyvesi",
-      "answer": "KOZALAK",
-      "row": 7,
-      "col": 1,
+      "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Devingen",
-      "answer": "DİNAMİK",
+      "text": "Oluşan, meydana gelen",
+      "answer": "İBARET",
       "row": 8,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Matematik eşitliği",
-      "answer": "DENKLEM",
+      "text": "Alt kurul",
+      "answer": "KOMİTE",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Harap yapı",
+      "answer": "VİRANE",
       "row": 10,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Bilirkişi",
-      "answer": "EKSPER",
+      "text": "Pişirme kabı",
+      "answer": "KAZAN",
+      "row": 11,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Güneydoğu Asya ülkesi",
+      "answer": "LAOS",
+      "row": 5,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Bedeniyle çalışan",
+      "answer": "EMEKÇİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ölçek",
-      "answer": "KİLE",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Oje çıkarıcı",
-      "answer": "ASETON",
-      "row": 3,
+      "text": "Sahne gösterisi",
+      "answer": "REVÜ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Öneri",
-      "answer": "TEKLİF",
+      "text": "Serbest vuruş",
+      "answer": "FRİKİK",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Oymak, kabile",
+      "answer": "AŞİRET",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yapıştırıcı madde",
-      "answer": "ZAMK",
+      "text": "Şiddetli fırtına",
+      "answer": "BORA",
       "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eylem",
-      "answer": "EDİM",
+      "text": "Sıçrayan asalak böcek",
+      "answer": "PİRE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sıradan halk",
-      "answer": "AVAM",
-      "row": 5,
+      "text": "Günlük ibadet",
+      "answer": "NAMAZ",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Öte karşıtı",
-      "answer": "BERİ",
+      "text": "İnmiş, sönmüş",
+      "answer": "İNİK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ürün niteliği",
-      "answer": "KALİTE",
+      "text": "Yat limanı",
+      "answer": "MARİNA",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Oldukça çok",
-      "answer": "EPEY",
+      "text": "Dokuma bitkisi",
+      "answer": "KETEN",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Katıksız, temiz",
+      "answer": "SAFİ",
       "row": 0,
-      "col": 6,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Adanan şey, nezir",
-      "answer": "ADAK",
+      "text": "Gösterme sözü",
+      "answer": "İŞTE",
       "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kabuklu pirinç",
-      "answer": "ÇELTİK",
-      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -162,47 +169,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
       "col": 6
     },
     {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 4
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
       "row": 10,
       "col": 7
+    },
+    {
+      "row": 11,
+      "col": 0
     },
     {
       "row": 11,

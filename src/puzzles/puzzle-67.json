@@ -5,205 +5,198 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Büyük hayal kırıklığı",
-      "answer": "HÜSRAN",
+      "text": "Nakit değil",
+      "answer": "AYNİ",
       "row": 0,
-      "col": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kor aracı",
-      "answer": "MAŞA",
+      "text": "Kaba yün kumaş",
+      "answer": "KEBE",
       "row": 1,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Üstün, kaliteli",
-      "answer": "CİNS",
+      "text": "El vuruşu",
+      "answer": "SİLLE",
       "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Zarar ihtimali",
-      "answer": "TEHLİKE",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yapışkan şerit",
-      "answer": "BANT",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Minik çocuk",
-      "answer": "BEBE",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Uyku giysisi",
-      "answer": "GECELİK",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Oy verme",
-      "answer": "SEÇİM",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Endüstri",
-      "answer": "SANAYİ",
-      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Şerbetli yufka tatlısı",
-      "answer": "BAKLAVA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Körpe bitki",
-      "answer": "FİDE",
-      "row": 9,
+      "text": "Kesintisiz miktar",
+      "answer": "BRÜT",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Küçük orman",
-      "answer": "KORU",
-      "row": 10,
+      "text": "Büyük kardeş",
+      "answer": "ABLA",
+      "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Hücum",
-      "answer": "SALDIRI",
-      "row": 11,
+      "text": "Gelişmemiş, iptidai",
+      "answer": "İLKEL",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yanıltıcı gösterme",
+      "answer": "BLÖF",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ritmik egzersiz",
+      "answer": "STEP",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sert içki",
+      "answer": "VOTKA",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İdrar torbası",
+      "answer": "MESANE",
+      "row": 6,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çabucak",
+      "answer": "HEMEN",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kertik",
+      "answer": "ÇENTİK",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sevinç, keyif",
-      "answer": "NEŞE",
+      "text": "Yuvarlak, şişkin",
+      "answer": "YUMRU",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Başka",
+      "answer": "ÖZGE",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Cl simgeli element",
+      "answer": "KLOR",
       "row": 11,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cam kap",
-      "answer": "ŞİŞE",
+      "text": "Uşak ilçesi",
+      "answer": "EŞME",
       "row": 12,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yapılan yanlış",
-      "answer": "HATA",
+      "text": "Yöresel",
+      "answer": "YEREL",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Giysi",
-      "answer": "ELBİSE",
+      "text": "Bilinmeyen",
+      "answer": "MEÇHUL",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tembel, üşenen",
-      "answer": "ÜŞENGEÇ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ad ortağı",
-      "answer": "ADAŞ",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Taklit, düzme",
-      "answer": "SAHTE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gemilerin yanaştığı yer",
-      "answer": "İSKELE",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüz güzelliği",
-      "answer": "CEMAL",
+      "text": "Borç kapatma",
+      "answer": "ÖDEME",
       "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Düzgün yığın",
+      "answer": "İSTİF",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ortaçağ derebeyi",
+      "answer": "SENYÖR",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Emme çanağı",
+      "answer": "VANTUZ",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Şaşılacak şey",
-      "answer": "ACİBE",
+      "text": "Korna",
+      "answer": "KLAKSON",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İplik işleme",
-      "answer": "NAKIŞ",
-      "row": 7,
+      "text": "Hayal",
+      "answer": "İMGE",
+      "row": 8,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gümüş element",
-      "answer": "NİKEL",
+      "text": "Tabii ki",
+      "answer": "ELBETTE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Şampiyon adayı",
-      "answer": "FAVORİ",
-      "row": 6,
+      "text": "Çocuk yuvası",
+      "answer": "KREŞ",
+      "row": 8,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Peygamber",
-      "answer": "NEBİ",
-      "row": 1,
+      "text": "Hafıza",
+      "answer": "BELLEK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yarışma",
-      "answer": "YARIŞ",
-      "row": 7,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Tohumlu tarla",
-      "answer": "EKİLİ",
-      "row": 3,
+      "text": "Kapalı çarşı",
+      "answer": "PASAJ",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     }
@@ -211,7 +204,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
       "row": 0,
@@ -219,35 +212,39 @@
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 0,
       "col": 8
     },
     {
-      "row": 1,
+      "row": 2,
       "col": 8
     },
     {
-      "row": 5,
+      "row": 6,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 6,
+      "row": 7,
       "col": 7
     },
     {
       "row": 8,
-      "col": 0
+      "col": 7
     },
     {
       "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
       "col": 8
+    },
+    {
+      "row": 11,
+      "col": 7
     },
     {
       "row": 11,

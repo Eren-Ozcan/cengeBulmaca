@@ -5,169 +5,190 @@
   "cols": 9,
   "clues": [
     {
-      "text": "Tamirat",
-      "answer": "ONARIM",
+      "text": "Çek başkenti",
+      "answer": "PRAG",
       "row": 0,
-      "col": 3,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Keçe şapka",
-      "answer": "FÖTR",
+      "text": "Şeffaf mineral",
+      "answer": "MİKA",
       "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Süslü sanat üslubu",
-      "answer": "ROKOKO",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Güç, tesir",
-      "answer": "ETKİ",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Şiş işi",
-      "answer": "ÖRGÜ",
-      "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Uyarlayıcı parça",
-      "answer": "ADAPTÖR",
+      "text": "Viraj",
+      "answer": "DÖNEMEÇ",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayvan barınağı",
+      "answer": "AHIR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Teşhis",
+      "answer": "TANI",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Gözetim",
+      "answer": "NEZARET",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Rus ve Leh soydaşı",
+      "answer": "SLAV",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sıra bütünü",
+      "answer": "DİZİ",
       "row": 5,
-      "col": 1,
-      "arrow": "right"
+      "col": 4,
+      "arrow": "down-right"
     },
     {
-      "text": "Yineleme",
-      "answer": "TEKRAR",
+      "text": "En büyük kıta",
+      "answer": "ASYA",
       "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gürcistan para birimi",
+      "answer": "LARİ",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Akaryakıt gemisi",
+      "answer": "TANKER",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tek parça giysi",
+      "answer": "ENTARİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Neşesi yerinde",
+      "answer": "KEYİFLİ",
+      "row": 10,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Uzun kuyruklu kuş",
-      "answer": "SÜLÜN",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Karşı davranış",
-      "answer": "TEPKİ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Toprak sürme aracı",
-      "answer": "PULLUK",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İş süresi",
-      "answer": "MESAİ",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ufak yuvarlak hamur",
-      "answer": "KUSKUS",
+      "text": "Bıkma, usanma",
+      "answer": "GINA",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üçten sonraki sayı",
-      "answer": "DÖRT",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Saç kırıntısı",
-      "answer": "KEPEK",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Avuç vuruşu",
-      "answer": "TOKAT",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gizli tuzak",
-      "answer": "PUSU",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Salepgil süs çiçeği",
-      "answer": "ORKİDE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Üstün, seçkin",
-      "answer": "KLAS",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Terslik",
-      "answer": "AKSİLİK",
+      "text": "Yazılı dizi",
+      "answer": "LİSTE",
       "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Namına, hesabına",
+      "answer": "ADINA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses yansıması",
+      "answer": "YANKI",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Vazife",
+      "answer": "GÖREV",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dalga aleti",
+      "answer": "ANTEN",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Taş kütlesi",
+      "answer": "KAYA",
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yaka bağlayan",
-      "answer": "KÖPRÜ",
-      "row": 2,
+      "text": "Satılan mal",
+      "answer": "META",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çevre, etraf",
-      "answer": "ORTALIK",
-      "row": 2,
+      "text": "Geri karşıtı",
+      "answer": "İLERİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bayındırlık",
+      "answer": "İMAR",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Görüş gücü",
-      "answer": "GÖRÜ",
-      "row": 3,
+      "text": "Hoşa giden",
+      "answer": "ZARİF",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Lifli halat bitkisi",
+      "answer": "KENEVİR",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Damga aracı",
-      "answer": "MÜHÜR",
+      "text": "Kapı, pencere açıklığı",
+      "answer": "AÇIT",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Silah ucu",
-      "answer": "NAMLU",
+      "text": "Alkollü içecek",
+      "answer": "İÇKİ",
       "row": 6,
       "col": 8,
       "arrow": "down"
@@ -176,47 +197,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
       "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 4
-    },
-    {
-      "row": 2,
-      "col": 7
     },
     {
       "row": 5,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 5
+      "col": 8
     },
     {
       "row": 8,
@@ -228,19 +217,23 @@
     },
     {
       "row": 10,
+      "col": 0
+    },
+    {
+      "row": 11,
       "col": 5
     },
     {
-      "row": 10,
+      "row": 11,
       "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
     },
     {
       "row": 11,
       "col": 7
+    },
+    {
+      "row": 11,
+      "col": 8
     }
   ],
   "difficulty": "zor",

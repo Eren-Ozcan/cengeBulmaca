@@ -5,100 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "İç giysi",
-      "answer": "FANİLA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çomak bakteri",
-      "answer": "BASİL",
-      "row": 2,
+      "text": "Tek sanatçı dinletisi",
+      "answer": "RESİTAL",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kira ödeyen",
-      "answer": "KİRACI",
+      "text": "Kırıcı söz",
+      "answer": "AZAR",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Irmak, çay, dere",
+      "answer": "AKARSU",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalabalıksız, ıssız",
+      "answer": "TENHA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şafak vakti",
-      "answer": "SEHER",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kavimle ilgili",
-      "answer": "ETNİK",
+      "text": "Kesme hamur",
+      "answer": "ERİŞTE",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çek başkenti",
-      "answer": "PRAG",
-      "row": 6,
+      "text": "Doğa",
+      "answer": "TABİAT",
+      "row": 7,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Kız kardeşin kocası",
-      "answer": "ENİŞTE",
+      "text": "İşve",
+      "answer": "CİLVE",
       "row": 8,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Normalden küçük",
-      "answer": "UFAK",
+      "text": "İç kumaş",
+      "answer": "ASTAR",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Atletizm sporcusu",
+      "answer": "ATLET",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Japon içkisi",
+      "answer": "SAKE",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ermiş, veli",
-      "answer": "EREN",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hekim yardımcısı",
-      "answer": "ASİSTAN",
-      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Üçgenleme noktası",
-      "answer": "NİRENGİ",
-      "row": 1,
+      "text": "Hint unvanı",
+      "answer": "RACA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Anlayış, sağduyu",
+      "answer": "İZAN",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dinî ezgi",
-      "answer": "İLAHİ",
-      "row": 1,
+      "text": "Bataklık kuşu",
+      "answer": "İBİS",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çiçek bölümü",
+      "answer": "TARH",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Düğmeli giysi",
-      "answer": "CEKET",
-      "row": 3,
+      "text": "Armağan levhası",
+      "answer": "ŞİLT",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapı arazisi",
+      "answer": "ARSA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Karşılıksız iyilik",
-      "answer": "HAYIR",
-      "row": 0,
+      "text": "Kızartma kabı",
+      "answer": "TAVA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kâfi",
+      "answer": "YETER",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -106,71 +134,31 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 5
+      "row": 2,
+      "col": 6
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 9,
+      "row": 8,
       "col": 0
     },
     {
       "row": 9,
-      "col": 2
-    },
-    {
-      "row": 9,
-      "col": 3
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 0
     }
   ],
   "difficulty": "kolay",

@@ -1,0 +1,161 @@
+{
+  "id": "puzzle-142",
+  "title": "Bulmaca 142",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Hesaplı harcayan",
+      "answer": "TUTUMLU",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Halk dilinde çocuk",
+      "answer": "ÇAĞA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hastaneden çıkan",
+      "answer": "TABURCU",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zıt",
+      "answer": "KARŞIT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Doğru yoldan ayrılan",
+      "answer": "SAPKIN",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Leh dansı",
+      "answer": "MAZURKA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tütün içme aracı",
+      "answer": "PİPO",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaprak dökümü",
+      "answer": "HAZAN",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kanatlı hava taşıtı",
+      "answer": "UÇAK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak, ıssız",
+      "answer": "SAPA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tütün rengi",
+      "answer": "TABA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ermiş, kutsal kişi",
+      "answer": "AZİZ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İyi talih",
+      "answer": "UĞUR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Geminin arkası",
+      "answer": "PUPA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yürüyüş müziği",
+      "answer": "MARŞ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İskandinav parası",
+      "answer": "KRON",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sulanmış, biçimsiz",
+      "answer": "CIVIK",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ümit",
+      "answer": "UMUT",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Hükümdar vekili",
+      "answer": "NAİP",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 5
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 270
+}

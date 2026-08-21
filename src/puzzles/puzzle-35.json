@@ -5,128 +5,128 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Su geçirmez örtü",
-      "answer": "MUŞAMBA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Sahne arkası",
+      "answer": "KULİS",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Parayla ilgili",
-      "answer": "MALİ",
+      "text": "Dev deniz memelisi",
+      "answer": "BALİNA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zabıt",
-      "answer": "TUTANAK",
+      "text": "Müdafaa",
+      "answer": "SAVUNMA",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eski dilde koku",
-      "answer": "RAYİHA",
+      "text": "Eski kayıt ortamı",
+      "answer": "DİSKET",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İplik sarılan",
-      "answer": "MAKARA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
+      "text": "Keyifli",
+      "answer": "NEŞELİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Toprak altı yumrusu",
-      "answer": "PATATES",
+      "text": "Sahici",
+      "answer": "HAKİKİ",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kedi, köpek ayağı",
-      "answer": "PATİ",
+      "text": "Gözün renkli bölümü",
+      "answer": "İRİS",
       "row": 8,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Parmak uzaklığı",
-      "answer": "KARIŞ",
+      "text": "Uzun koltuk",
+      "answer": "KANEPE",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aldırış etme",
-      "answer": "UMUR",
-      "row": 0,
+      "text": "Duvar kireci",
+      "answer": "BADANA",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Pik",
-      "answer": "MAÇA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gösterişli görkem",
-      "answer": "ŞATAFAT",
+      "text": "Dayanıklı, güçlü",
+      "answer": "KAVİ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Eğlenme, dalga geçme",
-      "answer": "ALAY",
+      "text": "Tarladaki tahıl",
+      "answer": "EKİN",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Millet",
+      "answer": "ULUS",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Giriş bölmesi",
-      "answer": "KAPI",
+      "text": "Üzüm şırasından tatlı",
+      "answer": "ŞİRE",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Küçük, kısa",
-      "answer": "MİNİ",
+      "text": "İnternette bağlantı",
+      "answer": "LİNK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kâğıt klipsi",
-      "answer": "ATAŞ",
+      "text": "Takım, kadro",
+      "answer": "EKİP",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Öbür dünya",
-      "answer": "AHİRET",
-      "row": 2,
+      "text": "Felç",
+      "answer": "İNME",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ön karşıtı",
-      "answer": "ARKA",
-      "row": 0,
-      "col": 6,
+      "text": "Ortaokul sonrası",
+      "answer": "LİSE",
+      "row": 5,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Soylu, yüce",
-      "answer": "ASİL",
-      "row": 5,
+      "text": "Saat onaran",
+      "answer": "SAATÇİ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -134,15 +134,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 1,
+      "col": 0
     },
     {
       "row": 5,
       "col": 0
     },
     {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
       "row": 9,
-      "col": 5
+      "col": 6
     }
   ],
   "difficulty": "kolay",
