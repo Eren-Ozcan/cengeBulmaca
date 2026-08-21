@@ -190,3 +190,24 @@ aynı gerekçeyle 40 zorlama kelime silinmişti.
 
 **Hürriyet'in ipucu metinleri kopyalanmaz.** Sıklık verisi kelime seçimi için
 bir sinyal; ipuçları her zaman kendimiz yazılır.
+
+### Tur 10, parça 1 — worklist'in ilk 100 satırı (2026-08-21)
+
+78 kelime `dictionary.mjs`'e eklendi, 4 harfli katman 1181 → 1259
+(tavan 151 → 161). `check-dictionary.mjs` temiz: paylaşılan ipucu 0, 4
+kelimeden uzun ipucu 0, tekrar eden cevap 0.
+
+Eklerken altı ipucu çakışması çıktı ve yeniden yazıldı: SABA/NEVA, OKEY/REMİ,
+İKAZ/İHTAR, VAZO/SAKSI, ELİT/GÜZİDE, sonra VAZO/TARH.
+
+Elenen 22 kelime — bir daha değerlendirilmesin diye:
+
+- Fazla dar teknik/bölgesel: OKAR, ÇUKA, AKAK, RAMİ, RİNA, SKİF, LUTR, REYE,
+  AGEL, BREŞ, BUAT, FOŞA, JİPS, AKSE, STEN
+- Zayıf/gramer kalıbı ya da yaygın biçimi başka: KALA, YUMA, ANCA, DANE, EMAY
+- Argoya yakın ünlem: KEKA
+- Özel ada çok yakın: İNAL
+
+Sıradaki parti worklist'in 101. satırından başlar. Sözlük her partide
+büyüdüğü için bir sonraki turdan önce `regenerate-all.mjs --strict` koşmaya
+gerek yok — birkaç parti biriktikten sonra tek seferde koşmak daha verimli.
