@@ -13,6 +13,11 @@ import { dirname, join, resolve } from "node:path";
 import { WORDS } from "./dictionary.mjs";
 
 const MAX_WORD_LEN = 7;
+// Maskede bir hücrenin ipucu (blok) olma olasılığı. Yüksek değer kısa blok,
+// düşük değer uzun blok üretir; yani hangi harf katmanının tüketileceğini
+// doğrudan bu belirliyor. Setin talep karışımını sözlüğün arz karışımına
+// oturtmak için bulmaca başına değiştirilebilir (bkz. buildPuzzle profil).
+const DEFAULT_BLOCK_DENSITY = 0.17;
 // Aynı maske için denenecek doldurma sayısı (tracker varken).
 const FILL_TRIES = 6;
 
@@ -37,14 +42,14 @@ function shuffled(arr, rnd) {
 }
 
 // ---------- maske ----------
-function genMask(cols, rows, rnd) {
+function genMask(cols, rows, rnd, density = DEFAULT_BLOCK_DENSITY) {
   // '#' ipucu hücresi, '.' harf hücresi. İlk satır tamamen ipucu:
   // aşağı inen cevapların soruları oradan sorulur (klasik "üstten soru" düzeni).
   const mask = [];
   mask.push("#".repeat(cols).split(""));
   for (let r = 1; r < rows; r++) {
     const row = [];
-    for (let c = 0; c < cols; c++) row.push(rnd() < 0.17 ? "#" : ".");
+    for (let c = 0; c < cols; c++) row.push(rnd() < density ? "#" : ".");
     mask.push(row);
   }
   return mask;
@@ -155,6 +160,13 @@ function computeRuns(mask, cols, rows) {
 // bloğun bir hücresini ipucu hücresine çevirip bloğu ortadan kaldırmayı dener.
 const MIN_WORD_LEN = 4;
 
+// Mutlak taban. `shortBudget` verildiğinde ızgara MIN_WORD_LEN yerine buraya
+// kadar inebilir: 3 harfli katman (394 kelime) sıfır tekrar kuralı altında hiç
+// kullanılmıyordu, çünkü rastgele maske arzın kat kat üstünde kısa yuva
+// üretiyor. Bulmaca başına kotayla açıldığında bu katman darboğazdaki 4 harfli
+// talebini düşürüyor.
+const HARD_MIN_WORD_LEN = 3;
+
 // (r,c) '#' yapılırsa dik yöndeki komşu parçaların uzunlukları.
 function segmentLengths(mask, r, c, cols, rows, dir) {
   let before = 0;
@@ -203,15 +215,23 @@ function isCovered(mask, r, c, cols, rows) {
 // bulmaca boyunca defalarca çıkmasın diye bu geçiş, uzatılabilen 3'lükleri
 // belirli bir olasılıkla uzatarak talebi kırar. Uzatılamayan bloklar olduğu gibi
 // kalır — 3 harfli cevaplar yok olmuyor, yalnızca seyreliyor.
-function thinThreeRuns(mask, cols, rows, rnd, upTo = MIN_WORD_LEN) {
+function thinThreeRuns(
+  mask, cols, rows, rnd, upTo = MIN_WORD_LEN, budget = 0, keepLen = HARD_MIN_WORD_LEN,
+) {
   for (let iter = 0; iter < 20; iter++) {
-    const threes = computeRuns(mask, cols, rows).filter((s) => s.len <= upTo);
-    if (threes.length === 0) return;
+    const runs = computeRuns(mask, cols, rows).filter((s) => s.len <= upTo);
+    if (runs.length === 0) return;
+    // Kota kadar 3 harfli blok korunur; gerisi seyreltilir.
+    let spare = budget;
     let changed = false;
-    for (const run of shuffled(threes, rnd)) {
+    for (const run of shuffled(runs, rnd)) {
       // En kısa bloklar her zaman uzatılmaya çalışılır; sınırdakiler yarı yarıya
       // bırakılır, yoksa ızgara fazla seyrekleşiyor ve üretim tıkanıyor.
       if (run.len === upTo && rnd() < 0.5) continue;
+      if (run.len === keepLen && spare > 0) {
+        spare--;
+        continue;
+      }
       const opens = [];
       if (run.dir === "across") {
         if (run.col > 0 && mask[run.row][run.col - 1] === "#")
@@ -240,11 +260,20 @@ function thinThreeRuns(mask, cols, rows, rnd, upTo = MIN_WORD_LEN) {
   }
 }
 
-function shortenShortRuns(mask, cols, rows, rnd) {
+function shortenShortRuns(
+  mask, cols, rows, rnd,
+  floor = MIN_WORD_LEN, softMin = MIN_WORD_LEN, budget = 0,
+) {
   for (let iter = 0; iter < 80; iter++) {
-    const shorts = computeRuns(mask, cols, rows).filter(
-      (s) => s.len < MIN_WORD_LEN,
-    );
+    const runs = computeRuns(mask, cols, rows);
+    // `floor`un altındakiler her zaman giderilir; floor ile softMin
+    // arasındakiler kota kadar bırakılır, yalnızca fazlası giderilir.
+    const mandatory = runs.filter((s) => s.len < floor);
+    const optional = shuffled(
+      runs.filter((s) => s.len >= floor && s.len < softMin),
+      rnd,
+    ).slice(budget);
+    const shorts = [...mandatory, ...optional];
     if (shorts.length === 0) return;
     let changed = false;
     for (const run of shuffled(shorts, rnd)) {
@@ -290,8 +319,7 @@ function shortenShortRuns(mask, cols, rows, rnd) {
       const perp = run.dir === "across" ? "down" : "across";
       for (const [r, c] of shuffled(cells, rnd)) {
         const [a, b] = segmentLengths(mask, r, c, cols, rows, perp);
-        if ((a !== 0 && a < MIN_WORD_LEN) || (b !== 0 && b < MIN_WORD_LEN))
-          continue;
+        if ((a !== 0 && a < floor) || (b !== 0 && b < floor)) continue;
         mask[r][c] = "#";
         let ok = true;
         for (const [r2, c2] of cells) {
@@ -312,12 +340,18 @@ function shortenShortRuns(mask, cols, rows, rnd) {
   }
 }
 
-function maskProblems(mask, cols, rows, slots) {
+function maskProblems(
+  mask, cols, rows, slots,
+  floor = MIN_WORD_LEN, softMin = MIN_WORD_LEN, budget = 0,
+) {
   // uzunluk sınırı
+  let short = 0;
   for (const s of slots) {
     if (s.len > MAX_WORD_LEN) return `uzun blok (${s.len})`;
-    if (s.len < MIN_WORD_LEN) return `kısa blok (${s.len})`;
+    if (s.len < floor) return `kısa blok (${s.len})`;
+    if (s.len < softMin) short++;
   }
+  if (short > budget) return `kota üstü kısa blok (${short}/${budget})`;
   // her harf hücresi en az bir bloğa ait olmalı
   const covered = Array.from({ length: rows }, () => new Array(cols).fill(false));
   for (const s of slots) {
@@ -689,24 +723,41 @@ export function buildPuzzle({
   order,
   tracker = null,
   maxAttempts = 2000,
+  // Bu bulmacanın hedeflediği en kısa cevap ("profil"). 4 = varsayılan.
+  // Yükseltmek talebi uzun katmanlara kaydırır: setin talep karışımını
+  // sözlüğün arz karışımına oturtmanın asıl kaldıracı budur. Blok yoğunluğu
+  // değildir — maske onarım geçişleri onu zaten normalleştiriyor (ölçüldü).
+  minWordLen = MIN_WORD_LEN,
+  // minWordLen'in bir altındaki uzunluğa bulmaca başına kaç blok izin
+  // verildiği. 0 = hiç. Sert taban yakınsamıyor (kısa bloğu kaldırmak dik
+  // yöndeki parçaların da tabanı geçmesini istiyor), bu yüzden taban yumuşak
+  // tutulur: kotayı aşan kısa bloklar giderilir, kota kadarı kalır.
+  shortBudget = 0,
+  // Blok yoğunluğu; maske onarımı sonrası etkisi ölçülebilir değil, geriye
+  // dönük uyumluluk için duruyor.
+  blockDensity = DEFAULT_BLOCK_DENSITY,
 }) {
+  const softMin = Math.max(MIN_WORD_LEN, minWordLen);
+  const floor =
+    shortBudget > 0 ? Math.max(HARD_MIN_WORD_LEN, softMin - 1) : softMin;
+  const budget = floor < softMin ? shortBudget : 0;
   let result = null;
   let attempt = 0;
   const stats = { mask: 0, host: 0, fill: 0 };
   for (; attempt < maxAttempts && !result; attempt++) {
     const rnd = mulberry32(seed + attempt * 7919);
-    const mask = genMask(cols, rows, rnd);
+    const mask = genMask(cols, rows, rnd, blockDensity);
     repairMask(mask, cols, rows, rnd);
-    shortenShortRuns(mask, cols, rows, rnd);
+    shortenShortRuns(mask, cols, rows, rnd, floor, softMin, budget);
     // repairMask uzun blokları bölerken yeni kısa bloklar doğurabiliyor; son
     // sözü kısa blok temizliğine bırak (bu geçiş geçersiz maske üretmiyor:
-    // dik yöndeki parçalar ya kayboluyor ya da en az MIN_WORD_LEN kalıyor).
+    // dik yöndeki parçalar ya kayboluyor ya da en az floor kalıyor).
     repairMask(mask, cols, rows, rnd);
-    shortenShortRuns(mask, cols, rows, rnd);
-    thinThreeRuns(mask, cols, rows, rnd);
-    shortenShortRuns(mask, cols, rows, rnd);
+    shortenShortRuns(mask, cols, rows, rnd, floor, softMin, budget);
+    thinThreeRuns(mask, cols, rows, rnd, softMin, budget, floor);
+    shortenShortRuns(mask, cols, rows, rnd, floor, softMin, budget);
     const slots = computeRuns(mask, cols, rows);
-    if (maskProblems(mask, cols, rows, slots)) {
+    if (maskProblems(mask, cols, rows, slots, floor, softMin, budget)) {
       stats.mask++;
       continue;
     }
