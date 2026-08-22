@@ -1,153 +1,160 @@
 {
   "id": "puzzle-165",
-  "title": "Bulmaca 25",
+  "title": "Bulmaca 113",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Beyaz kır çiçeği",
-      "answer": "PAPATYA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İpek böceği yuvası",
-      "answer": "KOZA",
-      "row": 2,
+      "text": "Yılın sekizinci ayı",
+      "answer": "AĞUSTOS",
+      "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Karısına boyun eğen",
-      "answer": "KILIBIK",
+      "text": "İskambilde karo",
+      "answer": "ORYA",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Parlatma maddesi",
-      "answer": "CİLA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sıvı kabı",
-      "answer": "FIÇI",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Erkek ebeveyn",
-      "answer": "BABA",
-      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Öfkesiz kırgınlık",
-      "answer": "SİTEM",
-      "row": 7,
+      "text": "Müzik türü",
+      "answer": "CAZ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sınav türü",
+      "answer": "TEST",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bitiş kısmı",
+      "answer": "KENAR",
+      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Namına, hesabına",
-      "answer": "ADINA",
+      "text": "Duvar harcı",
+      "answer": "SIVA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eski Alman parası",
+      "answer": "MARK",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mikroskobik asalak",
+      "answer": "VİRÜS",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalın destek",
+      "answer": "DİREK",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Çiçek tozu",
-      "answer": "POLEN",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Uyumamış",
-      "answer": "UYANIK",
-      "row": 10,
+      "text": "Atom kümesi",
+      "answer": "MOLEKÜL",
+      "row": 8,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ses bulucu",
+      "answer": "SONAR",
+      "row": 10,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kolay anlatım",
-      "answer": "AKICI",
+      "text": "Metal karışımı",
+      "answer": "ALAŞIM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Burun duyumu",
-      "answer": "KOKU",
-      "row": 6,
+      "text": "Polis sopası",
+      "answer": "COP",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sigorta belgesi",
-      "answer": "POLİÇE",
-      "row": 0,
+      "text": "Arap harfi",
+      "answer": "VAV",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Şiddetli, tehlikeli",
-      "answer": "AZILI",
-      "row": 0,
+      "text": "Küçük deniz kabuklusu",
+      "answer": "KARİDES",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Uzak, ıssız",
-      "answer": "SAPA",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tütün rengi",
-      "answer": "TABA",
+      "text": "Yağda kavrulmuş yemek",
+      "answer": "SOTE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sac kap",
-      "answer": "BİDON",
+      "text": "Kaldırma aleti",
+      "answer": "KRİKO",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Leyli",
-      "answer": "YATILI",
-      "row": 4,
+      "text": "Eğilim, yönelim",
+      "answer": "TREND",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yüzey parlatma",
-      "answer": "AÇKI",
+      "text": "Üretilen şey",
+      "answer": "ÜRÜN",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hâlbuki",
+      "answer": "OYSA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ufak leke",
-      "answer": "BENEK",
-      "row": 5,
+      "text": "Minareden okunan dua",
+      "answer": "SELA",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Büyücü",
-      "answer": "ŞAMAN",
-      "row": 4,
+      "text": "Pers valisi",
+      "answer": "SATRAP",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -155,49 +162,41 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
     },
     {
       "row": 0,
-      "col": 7
+      "col": 2
     },
     {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 5
+      "row": 0,
+      "col": 3
     },
     {
       "row": 2,
-      "col": 7
+      "col": 2
     },
     {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 6,
-      "col": 0
+      "row": 5,
+      "col": 6
     },
     {
       "row": 7,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 0
+      "row": 7,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 0
+      "col": 7
     },
     {
       "row": 10,
-      "col": 7
+      "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 25
+  "difficulty": "orta",
+  "order": 113
 }

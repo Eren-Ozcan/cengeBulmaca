@@ -1,153 +1,160 @@
 {
   "id": "puzzle-48",
-  "title": "Bulmaca 83",
+  "title": "Bulmaca 91",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Kesilmiş ağaç gövdesi",
-      "answer": "TOMRUK",
-      "row": 0,
+      "text": "Beceri",
+      "answer": "MAHARET",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dinî ezgi",
-      "answer": "İLAHİ",
-      "row": 2,
-      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kalın karton",
-      "answer": "MUKAVVA",
+      "text": "Soyluluk",
+      "answer": "ASALET",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gümrük deposu",
+      "answer": "ANTREPO",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tek başına söyleyen",
-      "answer": "SOLİST",
+      "text": "Ağ atma",
+      "answer": "VOLİ",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Asıl konu",
+      "answer": "TEMA",
       "row": 4,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Soluk",
+      "answer": "NEFES",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eski dilde koku",
-      "answer": "RAYİHA",
-      "row": 5,
+      "text": "Düzey",
+      "answer": "SEVİYE",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce, zarif",
+      "answer": "NARİN",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Arap başörtüsü",
+      "answer": "KEFİYE",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kiralık katil",
-      "answer": "TETİKÇİ",
-      "row": 7,
+      "text": "Mor kokulu çiçek",
+      "answer": "MENEKŞE",
+      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Soy bakımından",
-      "answer": "ASLEN",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Açık, apaçık",
-      "answer": "ALENİ",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İnceltici kimyasal",
-      "answer": "TİNER",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Numaralı eser",
-      "answer": "OPUS",
+      "text": "Podyum modeli",
+      "answer": "MANKEN",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Nişancı",
-      "answer": "ATICI",
-      "row": 5,
+      "text": "Rutubet",
+      "answer": "NEM",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Boyun takısı",
-      "answer": "KOLYE",
-      "row": 2,
+      "text": "Alt görevli",
+      "answer": "AST",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İran para birimi",
-      "answer": "RİAL",
+      "text": "Uzaklık",
+      "answer": "MESAFE",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk dilinde ateş",
+      "answer": "HAR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Boyun eğme",
-      "answer": "İTAAT",
-      "row": 5,
+      "text": "Bravo",
+      "answer": "AFERİN",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yüce, manevi",
-      "answer": "ULVİ",
+      "text": "Ateş dili",
+      "answer": "ALEV",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Duygulu",
-      "answer": "HİSLİ",
+      "text": "Bulaşık teknesi",
+      "answer": "EVİYE",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yay biçimi",
-      "answer": "KAVS",
+      "text": "Banka işlemi",
+      "answer": "REPO",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Akıl yönünden",
-      "answer": "AKLEN",
+      "text": "Rahatsız böcek",
+      "answer": "SİNEK",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yapılan yanlış",
-      "answer": "HATA",
-      "row": 1,
+      "text": "Omuz atkısı",
+      "answer": "ETOL",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ağız kemiği",
-      "answer": "ÇENE",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Uyarı teli",
-      "answer": "SİNİR",
-      "row": 5,
+      "text": "Arkalıksız sandalye",
+      "answer": "İSKEMLE",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -155,41 +162,37 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
+      "row": 6,
+      "col": 6
     },
     {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 7
+      "row": 7,
+      "col": 0
     },
     {
       "row": 8,
-      "col": 0
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 0
+      "col": 6
     }
   ],
   "difficulty": "orta",
-  "order": 83
+  "order": 91
 }

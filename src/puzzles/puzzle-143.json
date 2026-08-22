@@ -1,160 +1,188 @@
 {
   "id": "puzzle-143",
-  "title": "Bulmaca 125",
+  "title": "Bulmaca 16",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Görünen hayal",
-      "answer": "HAYALET",
+      "text": "Ayarlanmış maç",
+      "answer": "ŞİKE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dönem",
-      "answer": "DEVRE",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sakınca",
-      "answer": "ÇEKİNCE",
+      "text": "Şerbetli yufka tatlısı",
+      "answer": "BAKLAVA",
       "row": 2,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Enteresan",
-      "answer": "İLGİNÇ",
-      "row": 4,
-      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Toplamada aktarılan sayı",
-      "answer": "ELDE",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Etiyopya para birimi",
-      "answer": "BİRR",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Baskı işi",
-      "answer": "BASI",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Padişah oğlu",
-      "answer": "ŞEHZADE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Rahat konuşamayan",
-      "answer": "TUTUK",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bilgisayar programı",
-      "answer": "YAZILIM",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kesme aracı",
-      "answer": "MAKAS",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Reis",
-      "answer": "BAŞKAN",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hristiyan mabedi",
-      "answer": "KİLİSE",
+      "text": "Benzer, benzeyen",
+      "answer": "GİBİ",
       "row": 2,
-      "col": 2,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Adaletli",
-      "answer": "ADİL",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Liman kıyısı",
-      "answer": "RIHTIM",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyük bakır kap",
-      "answer": "LENGER",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Gizli yer",
-      "answer": "ZULA",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ehlileştirilmiş hayvan",
-      "answer": "EVCİL",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Su altında",
-      "answer": "BATIK",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Eğilim, yönelim",
-      "answer": "TREND",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Rus parlamentosu",
-      "answer": "DUMA",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Dörtte bir",
-      "answer": "ÇEYREK",
+      "text": "Taraf, kenar",
+      "answer": "YAN",
       "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Enerji üretim yeri",
+      "answer": "SANTRAL",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kabul eden",
+      "answer": "RAZI",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Türk hükümdarı",
+      "answer": "HAKAN",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dünya ucu",
+      "answer": "KUTUP",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gönenç",
+      "answer": "REFAH",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Görünüm",
+      "answer": "MANZARA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Pik",
+      "answer": "MAÇA",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yol birleşimi",
+      "answer": "ÇAT",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Metal pişirme aracı",
+      "answer": "IZGARA",
+      "row": 11,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bataklık kuşu",
+      "answer": "İBİS",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ateşli hastalık",
+      "answer": "HUMMA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kusur",
+      "answer": "KABAHAT",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İki ışının kesişimi",
+      "answer": "AÇI",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tarladaki tahıl",
+      "answer": "EKİN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Açıkgöz",
+      "answer": "KURNAZ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sallanan barfiks",
+      "answer": "TRAPEZ",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yoğurt içeceği",
+      "answer": "AYRAN",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Görünüm, kılık",
+      "answer": "FAÇA",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Dinî öğüt",
+      "answer": "VAAZ",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ziyan",
+      "answer": "ZARAR",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Hatalı",
+      "answer": "YANLIŞ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapılan yanlış",
+      "answer": "HATA",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -162,45 +190,33 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 4
     },
     {
       "row": 0,
-      "col": 2
+      "col": 5
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 4,
-      "col": 0
+      "col": 4
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
+      "row": 8,
+      "col": 0
     },
     {
       "row": 11,
       "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 125
+  "difficulty": "kolay",
+  "order": 16
 }

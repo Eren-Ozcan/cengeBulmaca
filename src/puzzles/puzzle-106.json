@@ -1,132 +1,132 @@
 {
   "id": "puzzle-106",
-  "title": "Bulmaca 2",
+  "title": "Bulmaca 7",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Teklif",
-      "answer": "ÖNERİ",
+      "text": "En az",
+      "answer": "ASGARİ",
       "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kendine doğru çekme",
-      "answer": "CEZP",
+      "text": "Yumuşak karşıtı",
+      "answer": "SERT",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Garanti",
-      "answer": "GÜVENCE",
-      "row": 2,
+      "text": "İskambil oyunu",
+      "answer": "BRİÇ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İri yaratık",
+      "answer": "DEV",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aşılama",
-      "answer": "TELKİN",
+      "text": "İkinci şahıs",
+      "answer": "SEN",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bağlaşma",
+      "answer": "İTTİFAK",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sorun çözme yolu",
+      "answer": "ÇARE",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Güçlü inanç",
+      "answer": "İNAN",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tek geçiş kapısı",
+      "answer": "TURNİKE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Isıya dayanıklı lif",
+      "answer": "ASBEST",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Zenginlik",
+      "answer": "SERVET",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kül rengi",
+      "answer": "GRİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hangi sebeple",
+      "answer": "NİÇİN",
       "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Peygamber arkadaşı",
-      "answer": "SAHABE",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kalan, artan",
-      "answer": "BAKİYE",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hüzünlü, dokunaklı",
-      "answer": "HAZİN",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Teminat",
-      "answer": "GARANTİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Nasihat",
-      "answer": "ÖĞÜT",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Alan; oyun yeri",
-      "answer": "SAHA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Vefalı",
-      "answer": "VEFAKAR",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ölüm vakti",
-      "answer": "ECEL",
-      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Aynı çizgi",
-      "answer": "HİZA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Görsel duyum",
-      "answer": "RENK",
+      "text": "At yetiştiren kimse",
+      "answer": "ATÇI",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İbadet töreni",
-      "answer": "AYİN",
+      "text": "Geçici, ölümlü",
+      "answer": "FANİ",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İz süren",
-      "answer": "İZCİ",
+      "text": "Tarama aracı",
+      "answer": "TARAK",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ücretli çalışan",
+      "answer": "İŞÇİ",
       "row": 0,
-      "col": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Set, baraj",
-      "answer": "BENT",
+      "text": "Kan emen asalak",
+      "answer": "KENE",
       "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tırnaklı ayak",
-      "answer": "PENÇE",
-      "row": 1,
       "col": 6,
       "arrow": "down"
     }
@@ -138,25 +138,29 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 5
     },
     {
-      "row": 0,
-      "col": 6
+      "row": 2,
+      "col": 5
     },
     {
-      "row": 5,
+      "row": 3,
+      "col": 5
+    },
+    {
+      "row": 7,
       "col": 0
     },
     {
       "row": 7,
-      "col": 6
+      "col": 1
     },
     {
       "row": 8,
-      "col": 6
+      "col": 1
     }
   ],
   "difficulty": "kolay",
-  "order": 2
+  "order": 7
 }

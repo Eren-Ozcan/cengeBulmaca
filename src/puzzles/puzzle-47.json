@@ -1,132 +1,125 @@
 {
   "id": "puzzle-47",
-  "title": "Bulmaca 49",
+  "title": "Bulmaca 109",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Reaksiyon",
-      "answer": "TEPKİME",
-      "row": 0,
+      "text": "Parlak kaplama",
+      "answer": "VERNİK",
+      "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yankı",
+      "answer": "EKO",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Açılan koltuk",
+      "answer": "ÇEKYAT",
+      "row": 2,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gezi sektörü",
+      "answer": "TURİZM",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Para birimimiz",
-      "answer": "LİRA",
-      "row": 2,
-      "col": 1,
+      "text": "Gerçek, somut",
+      "answer": "REEL",
+      "row": 5,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Devlet gelirleri",
-      "answer": "MALİYE",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Adı bilinmeyen",
-      "answer": "ANONİM",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğulu müzik türü",
-      "answer": "ARABESK",
+      "text": "Kokulu mor çiçek",
+      "answer": "LAVANTA",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Osmanlı yönetim birimi",
-      "answer": "EYALET",
+      "text": "Ağacın kolu",
+      "answer": "DAL",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Serüven",
-      "answer": "MACERA",
-      "row": 8,
+      "text": "Kıyı evi",
+      "answer": "YALI",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tanıtım",
+      "answer": "REKLAM",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tokat",
-      "answer": "ŞAMAR",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gizli, özel",
-      "answer": "MAHREM",
+      "text": "Osmanlı saray görevlisi",
+      "answer": "ÇUHADAR",
       "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İş düzeni",
-      "answer": "PLAN",
+      "text": "Şayet",
+      "answer": "EĞER",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ankara ilçesi",
-      "answer": "AYAŞ",
+      "text": "İskambilde bacak",
+      "answer": "VALE",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bin gram",
-      "answer": "KİLO",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Duman yolu",
-      "answer": "BACA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaradaki cerahat",
-      "answer": "İRİN",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Keder, üzüntü",
-      "answer": "ELEM",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıvı",
-      "answer": "MAYİ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bitki camlığı",
-      "answer": "SERA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Eskiden beri çalışan",
-      "answer": "EMEKTAR",
+      "text": "Kiraya verilen",
+      "answer": "KİRALIK",
       "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ney çalan",
+      "answer": "NEYZEN",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir yerde oturma",
+      "answer": "İKAMET",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Blucin kumaşı",
+      "answer": "KOT",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Atık kanalı",
+      "answer": "LAĞIM",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -134,21 +127,37 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 6
+      "col": 3
     },
     {
       "row": 2,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
     }
   ],
-  "difficulty": "kolay",
-  "order": 49
+  "difficulty": "orta",
+  "order": 109
 }

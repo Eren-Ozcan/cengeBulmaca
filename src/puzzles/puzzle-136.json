@@ -1,110 +1,117 @@
 {
   "id": "puzzle-136",
-  "title": "Bulmaca 130",
+  "title": "Bulmaca 139",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Hamur tatlısı",
-      "answer": "PASTA",
+      "text": "İçme kabı",
+      "answer": "YALAK",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Küçük doğranmış et",
-      "answer": "KUŞBAŞI",
+      "text": "Seyrek karşıtı",
+      "answer": "SIK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zenginlik",
-      "answer": "SERVET",
+      "text": "İğne süsü",
+      "answer": "OYA",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İzin belgesi",
+      "answer": "RUHSAT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yaprak sigarası",
-      "answer": "PURO",
+      "text": "Yağlı çörek",
+      "answer": "AÇMA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gizli, kurnaz",
-      "answer": "SİNSİ",
+      "text": "Dolgun yüz",
+      "answer": "ABLAK",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tahıl tatlısı",
-      "answer": "AŞURE",
+      "text": "El çırpma",
+      "answer": "ALKIŞ",
       "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yumuşak, hoş",
-      "answer": "LATİF",
+      "text": "Tarımsal",
+      "answer": "ZİRAİ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Unvan",
-      "answer": "TİTR",
+      "text": "Aç olma",
+      "answer": "AÇLIK",
       "row": 9,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Konu, mesele",
-      "answer": "HUSUS",
+      "text": "Boya aracı",
+      "answer": "FIRÇA",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dinî hukuk",
-      "answer": "ŞERİAT",
+      "text": "Para biriktirme kabı",
+      "answer": "KUMBARA",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bronş iltihabı",
-      "answer": "BRONŞİT",
-      "row": 2,
+      "text": "Yün atan",
+      "answer": "HALLAÇ",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Rus ve Leh soydaşı",
-      "answer": "SLAV",
+      "text": "Güneydoğu Asya ülkesi",
+      "answer": "LAOS",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tasavvuf ehli",
-      "answer": "SUFİ",
+      "text": "Akıllı, bilge",
+      "answer": "AKİL",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kent",
-      "answer": "ŞEHİR",
+      "text": "Ses yansıması",
+      "answer": "YANKI",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ölüm ezgisi",
-      "answer": "AĞIT",
+      "text": "Myanmar para birimi",
+      "answer": "KYAT",
       "row": 0,
       "col": 6,
       "arrow": "down"
@@ -136,6 +143,10 @@
       "col": 0
     },
     {
+      "row": 2,
+      "col": 3
+    },
+    {
       "row": 5,
       "col": 6
     },
@@ -154,12 +165,8 @@
     {
       "row": 9,
       "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
     }
   ],
   "difficulty": "zor",
-  "order": 130
+  "order": 139
 }

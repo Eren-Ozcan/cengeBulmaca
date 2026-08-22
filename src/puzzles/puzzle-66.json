@@ -1,139 +1,118 @@
 {
   "id": "puzzle-66",
-  "title": "Bulmaca 35",
+  "title": "Bulmaca 96",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Geçici bırakılan",
-      "answer": "EMANET",
-      "row": 1,
+      "text": "Kesinlikle",
+      "answer": "MUTLAKA",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Boş ağırlık",
-      "answer": "DARA",
+      "text": "Saydam madde",
+      "answer": "CAM",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kazıklı humma",
-      "answer": "TETANOS",
+      "text": "Elden ele geçme",
+      "answer": "ALAVERE",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Alım satım ortamı",
-      "answer": "PİYASA",
+      "text": "Miras",
+      "answer": "KALIT",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dostça konuşma",
+      "answer": "SÖYLEŞİ",
       "row": 4,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Uyak",
-      "answer": "KAFİYE",
-      "row": 5,
-      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Ermiş hüneri",
-      "answer": "KERAMET",
+      "text": "Eşini kaybeden",
+      "answer": "DUL",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yanıt",
+      "answer": "CEVAP",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Azık",
-      "answer": "NEVALE",
+      "text": "Türk makamı",
+      "answer": "MAHUR",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Küçük raflı dolap",
-      "answer": "ETAJER",
+      "text": "Erkek cins",
+      "answer": "ERİL",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Terbiyeli davranış",
-      "answer": "EDEP",
-      "row": 0,
+      "text": "Borç kapatma",
+      "answer": "ÖDEME",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kan emen asalak",
-      "answer": "KENE",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Alım satım",
-      "answer": "TİCARET",
+      "text": "Savunma hücresi",
+      "answer": "AKYUVAR",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Göreve talip",
-      "answer": "ADAY",
-      "row": 0,
+      "text": "Yemin sözü",
+      "answer": "VALLAHİ",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bakla ezmesi",
-      "answer": "FAVA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Zola romanı",
-      "answer": "NANA",
+      "text": "Çabukluk",
+      "answer": "ACELE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İmge, görüntü",
-      "answer": "İMAJ",
-      "row": 5,
+      "text": "Zarfa yapıştırılan",
+      "answer": "PUL",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yunan aşk tanrısı",
-      "answer": "EROS",
+      "text": "Parmak uzaklığı",
+      "answer": "KARIŞ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "At kılları",
-      "answer": "YELE",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaygı, dert",
-      "answer": "TASA",
+      "text": "Mor süs taşı",
+      "answer": "AMETİST",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Uçucu sıvı",
-      "answer": "ETER",
-      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -141,17 +120,41 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
       "col": 2
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 35
+  "difficulty": "orta",
+  "order": 96
 }

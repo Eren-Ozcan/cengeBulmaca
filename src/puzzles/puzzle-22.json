@@ -1,181 +1,188 @@
 {
   "id": "puzzle-22",
-  "title": "Bulmaca 42",
+  "title": "Bulmaca 90",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Dış tabaka",
-      "answer": "KABUK",
+      "text": "Kızıl gezegen",
+      "answer": "MARS",
       "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ululuk",
-      "answer": "AZAMET",
-      "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yanlışlıkla",
-      "answer": "KAZARA",
+      "text": "Amme",
+      "answer": "KAMU",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ev halkı",
+      "answer": "AİLE",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kaynamakta olan",
+      "answer": "KAYNAR",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kan temizleme",
-      "answer": "DİYALİZ",
+      "text": "Dokunulmaz",
+      "answer": "TABU",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Beğenmeme haykırışı",
+      "answer": "YUH",
       "row": 4,
-      "col": 1,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kokulu bitki",
-      "answer": "NANE",
+      "text": "Peygamber arkadaşı",
+      "answer": "SAHABE",
       "row": 5,
-      "col": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Alıcı cihaz",
-      "answer": "ALMAÇ",
+      "text": "Manevi varlık",
+      "answer": "RUH",
       "row": 5,
-      "col": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Başkaldırı",
-      "answer": "İSYAN",
+      "text": "Dilimli et",
+      "answer": "SALAM",
       "row": 6,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Irak'ın başkenti",
-      "answer": "BAĞDAT",
-      "row": 8,
+      "text": "Silah parçası",
+      "answer": "TETİK",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "65 santimlik ölçü",
-      "answer": "ENDAZE",
+      "text": "Bitki bilimi",
+      "answer": "BOTANİK",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ekmekli çorba",
+      "answer": "PAPARA",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kanatlı hava taşıtı",
-      "answer": "UÇAK",
+      "text": "Dağ lalesi",
+      "answer": "ANEMON",
       "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Güzel koku",
-      "answer": "ITIR",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pamuk ipliği",
-      "answer": "TİRE",
+      "text": "Günlük haber yayını",
+      "answer": "GAZETE",
       "row": 11,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Isıya dayanıklı lif",
-      "answer": "ASBEST",
-      "row": 5,
+      "text": "Siyah dut",
+      "answer": "KARADUT",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Balık tutma ağı",
-      "answer": "DALYAN",
-      "row": 3,
+      "text": "Boşa gitme",
+      "answer": "HEBA",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kalıcı, ölümsüz",
-      "answer": "BAKİ",
+      "text": "Organ salgısı",
+      "answer": "MUKUS",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Haksızlığa uğramış",
-      "answer": "MAĞDUR",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gök boşluğu",
-      "answer": "UZAY",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hatıra kitapçığı",
-      "answer": "ANDAÇ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kâr",
-      "answer": "KAZANÇ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Serbest bırakma",
-      "answer": "AZAT",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Harç aracı",
-      "answer": "MALA",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Öbürü",
-      "answer": "ÖTEKİ",
+      "text": "Sarı değerli taş",
+      "answer": "TOPAZ",
       "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İstanbul'un eski adı",
+      "answer": "ASİTANE",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tren yolu",
+      "answer": "RAY",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Onur kırma",
+      "answer": "HAKARET",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İşaret",
+      "answer": "SİNYAL",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sıkıntısız, huzurlu",
-      "answer": "ERİNÇ",
+      "text": "Mektup",
+      "answer": "NAME",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Senli benli",
+      "answer": "LAUBALİ",
       "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bozulmamış, bayatlamamış",
-      "answer": "TAZE",
-      "row": 1,
+      "text": "Sürülen ilaç",
+      "answer": "MERHEM",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Cuma konuşması",
-      "answer": "HUTBE",
-      "row": 6,
+      "text": "Kalın ve dayanıklı",
+      "answer": "KUNT",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -187,55 +194,19 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 6
+      "col": 4
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 1
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
       "col": 7
     },
     {
       "row": 8,
-      "col": 7
+      "col": 0
     },
     {
       "row": 9,
@@ -243,9 +214,17 @@
     },
     {
       "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 11,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 42
+  "difficulty": "orta",
+  "order": 90
 }

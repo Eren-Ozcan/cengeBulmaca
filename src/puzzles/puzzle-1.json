@@ -1,139 +1,118 @@
 {
   "id": "puzzle-1",
-  "title": "Bulmaca 67",
+  "title": "Bulmaca 55",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Kebap ilimiz",
-      "answer": "ADANA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down-right"
+      "text": "Çay kıvamı",
+      "answer": "DEM",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Ayakkabı kaşığı",
-      "answer": "ÇEKECEK",
+      "text": "Yüce, büyük",
+      "answer": "ULU",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Duvar sıvayan",
-      "answer": "SIVACI",
+      "text": "Karakteristik",
+      "answer": "TİPİK",
       "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Haykırma, bağırma",
+      "answer": "NARA",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yarık, delik",
+      "answer": "PATLAK",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kolsuz üstlük",
-      "answer": "PELERİN",
-      "row": 3,
+      "text": "Dinî hukuk",
+      "answer": "ŞERİAT",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üniversite diploması",
-      "answer": "LİSANS",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Fabrika üretimi",
-      "answer": "İMALAT",
+      "text": "Dans",
+      "answer": "RAKS",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yüksek bilim kurumu",
-      "answer": "AKADEMİ",
+      "text": "Yün giysi",
+      "answer": "KAZAK",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mikroskop camı",
-      "answer": "LAMEL",
+      "text": "Tespih başlığı",
+      "answer": "İMAME",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Selamet",
-      "answer": "ESENLİK",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
+      "text": "Sahne yapıtı",
+      "answer": "OPERA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right-down"
     },
     {
-      "text": "Us, zihin",
-      "answer": "AKIL",
+      "text": "İpek böceğinin besini",
+      "answer": "DUT",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Üretim işlemi",
-      "answer": "İMAL",
-      "row": 5,
+      "text": "Yeryüzü toprağı",
+      "answer": "ARAZİ",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hörgüçlü çöl hayvanı",
-      "answer": "DEVE",
-      "row": 0,
+      "text": "Öç alma",
+      "answer": "İNTİKAM",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ses, seda",
-      "answer": "SADA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Güçlü, becerikli",
-      "answer": "ACAR",
-      "row": 0,
+      "text": "Asker kemeri",
+      "answer": "PALASKA",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde dünya",
-      "answer": "ALEM",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ne iş yapar sorusu",
-      "answer": "NECİ",
-      "row": 0,
+      "text": "Gelirli mülk",
+      "answer": "İRAT",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Mektup",
-      "answer": "NAME",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ani saldırı, hücum",
-      "answer": "AKIN",
+      "text": "Ev arası yol",
+      "answer": "SOKAK",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tarz, üslup",
-      "answer": "STİL",
-      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -148,14 +127,50 @@
       "col": 1
     },
     {
-      "row": 5,
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 3,
       "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
       "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 67
+  "difficulty": "kolay",
+  "order": 55
 }

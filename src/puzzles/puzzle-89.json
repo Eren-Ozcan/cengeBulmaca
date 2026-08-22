@@ -1,153 +1,174 @@
 {
   "id": "puzzle-89",
-  "title": "Bulmaca 73",
+  "title": "Bulmaca 35",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Karıştırma kaşığı",
-      "answer": "KEPÇE",
-      "row": 1,
+      "text": "Birlik, bölüm",
+      "answer": "ÜNİTE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yağsız, sade",
+      "answer": "YAVAN",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yedek kaynak",
+      "answer": "REZERV",
+      "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Zarar tehlikesi",
-      "answer": "RİSK",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Hareketli kimse",
-      "answer": "HOPPA",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yumru sebze",
-      "answer": "TURP",
+      "text": "Dudak kılları",
+      "answer": "BIYIK",
       "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İri palamut",
-      "answer": "TORİK",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Buhar banyosu",
-      "answer": "SAUNA",
-      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Esnek giysi",
-      "answer": "TAYT",
-      "row": 6,
+      "text": "Yenme kararlılığı",
+      "answer": "AZİM",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ekin aracı",
+      "answer": "ORAK",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tuzlu bisküvi",
-      "answer": "KRAKER",
+      "text": "Reddetme",
+      "answer": "VETO",
+      "row": 6,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gazete yazısı",
+      "answer": "MAKALE",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Su geçirmez mont",
-      "answer": "ANORAK",
+      "text": "Katmerli sebze",
+      "answer": "LAHANA",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Şişe kapağı aracı",
-      "answer": "AÇACAK",
-      "row": 10,
+      "text": "Satış karşıtı",
+      "answer": "ALIŞ",
+      "row": 9,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ayrılan para",
+      "answer": "FON",
+      "row": 10,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Ekmek yiyeceği",
-      "answer": "KATIK",
+      "text": "Tercüme",
+      "answer": "ÇEVİRİ",
       "row": 11,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İzinsiz şey",
-      "answer": "YASAK",
+      "text": "Maaş çizelgesi",
+      "answer": "BAREM",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sayfa şeridi",
-      "answer": "AYRAÇ",
-      "row": 5,
+      "text": "Makinedeki bozukluk",
+      "answer": "ARIZA",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Zabıt",
-      "answer": "TUTANAK",
-      "row": 4,
+      "text": "Ekşimsi orman meyvesi",
+      "answer": "ALIÇ",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaban güvercini",
+      "answer": "ÜVEYİK",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Artı yüklü parçacık",
-      "answer": "PROTON",
+      "text": "Damga, mühür",
+      "answer": "KAŞE",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ölçülü şiir",
+      "answer": "NAZIM",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eş, zevç",
-      "answer": "KOCA",
-      "row": 7,
+      "text": "Yazık ünlemi",
+      "answer": "VAH",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Akdeniz balığı",
-      "answer": "ÇİPURA",
+      "text": "Süt hayvanı",
+      "answer": "İNEK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Erler topluluğu",
-      "answer": "ERAT",
-      "row": 7,
+      "text": "Zararı giderme",
+      "answer": "TELAFİ",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Güldüren söz",
-      "answer": "ESPRİ",
-      "row": 0,
+      "text": "Tiz erkek sesi",
+      "answer": "TENOR",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Aslan sütü",
-      "answer": "RAKI",
-      "row": 7,
-      "col": 6,
+      "text": "Görüntü kaydı",
+      "answer": "VİDEO",
+      "row": 2,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kapıp kaçma",
-      "answer": "KAPKAÇ",
-      "row": 1,
+      "text": "Ansızın, beklenmedik",
+      "answer": "ANİ",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     }
@@ -167,7 +188,7 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 6
     },
     {
       "row": 0,
@@ -178,16 +199,12 @@
       "col": 0
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
+      "row": 1,
       "col": 1
     },
     {
       "row": 2,
-      "col": 2
+      "col": 6
     },
     {
       "row": 3,
@@ -195,41 +212,21 @@
     },
     {
       "row": 4,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 2
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 6,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 7
+      "row": 5,
+      "col": 6
     },
     {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
+      "row": 7,
       "col": 0
     },
     {
       "row": 11,
-      "col": 1
+      "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 73
+  "difficulty": "kolay",
+  "order": 35
 }

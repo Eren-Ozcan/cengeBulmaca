@@ -1,167 +1,188 @@
 {
   "id": "puzzle-40",
-  "title": "Bulmaca 121",
+  "title": "Bulmaca 123",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Leş yiyen kuş",
-      "answer": "AKBABA",
-      "row": 0,
+      "text": "Türkmenistan'ın başkenti",
+      "answer": "AŞKABAT",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Erke",
-      "answer": "ENERJİ",
+      "text": "Tahıl ucu",
+      "answer": "BAŞAK",
       "row": 2,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İlaç uzmanı",
-      "answer": "ECZACI",
+      "text": "Gaklayan kuş",
+      "answer": "KAZ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Belden aşağı giysi",
-      "answer": "ETEK",
-      "row": 4,
-      "col": 1,
+      "text": "Maksimum",
+      "answer": "AZAMİ",
+      "row": 3,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Aşırı ısınmış",
-      "answer": "AKKOR",
+      "text": "Kutlanan gün",
+      "answer": "BAYRAM",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Evlenen erkek, güveyi",
+      "answer": "DAMAT",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Orta boy etek",
-      "answer": "MİDİ",
+      "text": "Su altında",
+      "answer": "BATIK",
       "row": 6,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üniversite dersliği",
-      "answer": "AMFİ",
+      "text": "'Sen'in yönelme hâli",
+      "answer": "SANA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İs bulaşmış",
-      "answer": "İSLİ",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İç kumaş",
-      "answer": "ASTAR",
+      "text": "Tekerlek dışı",
+      "answer": "LASTİK",
       "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Salepgil süs çiçeği",
-      "answer": "ORKİDE",
-      "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Terazi gözü",
-      "answer": "KEFE",
+      "text": "Simsiyah",
+      "answer": "KAPKARA",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İngiliz sopalı oyunu",
+      "answer": "KRİKET",
       "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağırlık birimi",
+      "answer": "ONS",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saf kimse",
+      "answer": "ENAYİ",
+      "row": 11,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çabuk satma",
-      "answer": "ALSAT",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Para biriktirme kabı",
-      "answer": "KUMBARA",
-      "row": 4,
+      "text": "Ata, dede",
+      "answer": "AĞABABA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Süsleme motifi",
-      "answer": "BEZEK",
-      "row": 0,
+      "text": "Vakit",
+      "answer": "ZAMAN",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Vücut yapısı bilimi",
-      "answer": "ANATOMİ",
-      "row": 0,
+      "text": "Yataktan kalkamayan",
+      "answer": "YATALAK",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Maharet",
-      "answer": "BECERİ",
+      "text": "Mübalağa",
+      "answer": "ABARTI",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ön karşıtı",
-      "answer": "ARKA",
+      "text": "Kumaş cilalama",
+      "answer": "APRE",
       "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Zayıf, cılız",
-      "answer": "ARIK",
+      "text": "Yatak altı",
+      "answer": "BAZA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eski kayıt ortamı",
-      "answer": "DİSKET",
+      "text": "İyi kesen",
+      "answer": "KESKİN",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Düzgün yığın",
-      "answer": "İSTİF",
-      "row": 5,
+      "text": "Süreç adımı",
+      "answer": "AŞAMA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ünlü kadın sanatçı",
-      "answer": "DİVA",
+      "text": "Karadeniz teknesi",
+      "answer": "TAKA",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Eksiksiz",
+      "answer": "TAM",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kemik oyunu",
-      "answer": "LADES",
+      "text": "Fert",
+      "answer": "BİREY",
       "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Konut bölümü",
-      "answer": "DAİRE",
-      "row": 4,
+      "text": "Madde bilimi",
+      "answer": "KİMYA",
+      "row": 1,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Kesin, değişmez",
+      "answer": "KATİ",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -169,43 +190,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
-      "col": 6
+      "col": 2
     },
     {
       "row": 0,
-      "col": 8
+      "col": 3
     },
     {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 8
-    },
-    {
-      "row": 2,
-      "col": 8
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 3,
+      "row": 0,
       "col": 8
     },
     {
       "row": 4,
-      "col": 6
+      "col": 7
     },
     {
       "row": 5,
       "col": 7
+    },
+    {
+      "row": 6,
+      "col": 6
     },
     {
       "row": 8,
@@ -213,7 +222,7 @@
     },
     {
       "row": 8,
-      "col": 2
+      "col": 1
     },
     {
       "row": 9,
@@ -221,25 +230,9 @@
     },
     {
       "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 8
-    },
-    {
-      "row": 11,
-      "col": 6
-    },
-    {
-      "row": 11,
-      "col": 8
+      "col": 1
     }
   ],
   "difficulty": "zor",
-  "order": 121
+  "order": 123
 }

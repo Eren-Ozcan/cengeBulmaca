@@ -1,153 +1,167 @@
 {
   "id": "puzzle-170",
-  "title": "Bulmaca 58",
+  "title": "Bulmaca 38",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Ölü yıkama tahtası",
-      "answer": "TENEŞİR",
-      "row": 1,
+      "text": "Ulaşım belgesi",
+      "answer": "PASO",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "İçki dağıtıcı",
-      "answer": "SAKİ",
+      "text": "Bebek ayakkabısı",
+      "answer": "PATİK",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Buğday unu",
-      "answer": "İRMİK",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Akaryakıt gemisi",
-      "answer": "TANKER",
-      "row": 3,
+      "text": "Abartan erkek",
+      "answer": "MAÇO",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hazır mal",
-      "answer": "STOK",
-      "row": 5,
-      "col": 0,
+      "text": "Tomurcuk",
+      "answer": "GONCA",
+      "row": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sahip olan",
-      "answer": "HAİZ",
-      "row": 5,
+      "text": "Eşek yavrusu",
+      "answer": "SIPA",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Besleme, bakma",
-      "answer": "İAŞE",
+      "text": "Kalıtım birimi",
+      "answer": "GEN",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Uzaktan görülen",
+      "answer": "KARARTI",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Üst taraf",
+      "answer": "FEVK",
       "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Konuğu ağırlama",
-      "answer": "İKRAM",
+      "text": "Enerji çeviren düzenek",
+      "answer": "MAKİNE",
+      "row": 7,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kalabalık yatakhane",
+      "answer": "KOĞUŞ",
       "row": 8,
-      "col": 2,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Yağmur aracı",
-      "answer": "ŞEMSİYE",
-      "row": 9,
+      "text": "Surlu yapı",
+      "answer": "KALE",
+      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ses inceltici",
-      "answer": "DİYEZ",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sağgörü",
-      "answer": "BASİRET",
+      "text": "Yardım parası",
+      "answer": "İANE",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Düzen ve güvenlik",
-      "answer": "ASAYİŞ",
-      "row": 3,
+      "text": "Sonbahar",
+      "answer": "GÜZ",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Çok belirgin",
+      "answer": "APAÇIK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hafif yel",
-      "answer": "ESİNTİ",
+      "text": "Kahve türü",
+      "answer": "MOKA",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Baş kılları",
+      "answer": "SAÇ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ameliyat uyutması",
-      "answer": "NARKOZ",
+      "text": "Konuşan kuş",
+      "answer": "PAPAĞAN",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Terminal",
+      "answer": "OTOGAR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Şu hâlde, artık",
-      "answer": "İMDİ",
+      "text": "Yüksek yapı",
+      "answer": "KULE",
       "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Temel besin",
-      "answer": "EKMEK",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sihirli sıvı",
-      "answer": "İKSİR",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Manzum yapıt",
-      "answer": "ŞİİR",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Saray kölesi",
-      "answer": "CARİYE",
+      "text": "Herkesçe bilinen",
+      "answer": "AFİŞE",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Doku ölümü",
+      "answer": "KANGREN",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eğer",
-      "answer": "ŞAYET",
-      "row": 6,
+      "text": "Çizgi çizme aracı",
+      "answer": "CETVEL",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Vejetaryen",
-      "answer": "ETYEMEZ",
-      "row": 3,
+      "text": "Tıkanmış",
+      "answer": "TIKANIK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -155,61 +169,61 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 4
     },
     {
       "row": 0,
-      "col": 1
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
+      "row": 1,
+      "col": 4
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
+      "row": 1,
       "col": 6
     },
     {
       "row": 2,
-      "col": 7
-    },
-    {
-      "row": 4,
       "col": 6
     },
     {
-      "row": 5,
-      "col": 6
+      "row": 3,
+      "col": 4
     },
     {
       "row": 7,
       "col": 0
-    },
-    {
-      "row": 7,
-      "col": 2
     },
     {
       "row": 8,
-      "col": 0
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
     },
     {
       "row": 10,
-      "col": 1
+      "col": 5
     },
     {
-      "row": 11,
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 58
+  "difficulty": "kolay",
+  "order": 38
 }

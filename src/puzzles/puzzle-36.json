@@ -1,153 +1,160 @@
 {
   "id": "puzzle-36",
-  "title": "Bulmaca 86",
+  "title": "Bulmaca 105",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Yığılma",
-      "answer": "BİRİKİM",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Konuşma konusu",
-      "answer": "SADET",
-      "row": 2,
-      "col": 2,
+      "text": "Doku şişmesi",
+      "answer": "ÖDEM",
+      "row": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çay demleme kabı",
-      "answer": "SEMAVER",
+      "text": "Bakanlar kurulu",
+      "answer": "KABİNE",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Doğa",
-      "answer": "TABİAT",
+      "text": "Çarpma beresi",
+      "answer": "EZİK",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Altmış saniye",
+      "answer": "DAKİKA",
       "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Neşeli, sevinçli",
+      "answer": "ŞEN",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sivilce",
-      "answer": "AKNE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ödünç alma",
-      "answer": "İKTİBAS",
+      "text": "Sahici",
+      "answer": "HAKİKİ",
       "row": 6,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İlave, ek",
-      "answer": "DAHA",
+      "text": "İplik topu",
+      "answer": "YUMAK",
       "row": 7,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Olağan",
-      "answer": "NORMAL",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
+      "text": "Eli işe yatkın",
+      "answer": "HAMARAT",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Işık halkası",
-      "answer": "AYLA",
+      "text": "Yön bulma aracı",
+      "answer": "PUSULA",
       "row": 9,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eskil",
-      "answer": "ARKAİK",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
+      "text": "Yıkanacak giysi",
+      "answer": "ÇAMAŞIR",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Çin para birimi",
-      "answer": "YUAN",
-      "row": 6,
+      "text": "Gizli tuzak",
+      "answer": "PUSU",
+      "row": 0,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Açı ölçme aracı",
-      "answer": "İLETKİ",
-      "row": 0,
+      "text": "Katoliklerin lideri",
+      "answer": "PAPA",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Podyum modeli",
-      "answer": "MANKEN",
-      "row": 2,
+      "text": "Ayaklı bardak",
+      "answer": "KADEH",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hedefi vurma",
-      "answer": "İSABET",
-      "row": 0,
+      "text": "Fitilli araç",
+      "answer": "MUM",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dayanıklı, güçlü",
-      "answer": "KAVİ",
+      "text": "Küme, grup",
+      "answer": "ÖBEK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Anlayış, kavrayış",
-      "answer": "İDRAK",
+      "text": "Lira parçası",
+      "answer": "KURUŞ",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Felsefede düşünce",
-      "answer": "İDEA",
+      "text": "Sıra bütünü",
+      "answer": "DİZİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sivri sebze",
-      "answer": "BAMYA",
+      "text": "Üstü kapalı",
+      "answer": "İMALI",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Güvenilir, dürüst",
-      "answer": "MERT",
+      "text": "Kedi, köpek yavrusu",
+      "answer": "ENİK",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yer halkı",
-      "answer": "AHALİ",
+      "text": "Tren",
+      "answer": "KATAR",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Parazit",
-      "answer": "ASALAK",
-      "row": 4,
+      "text": "Kuvvet bilimi",
+      "answer": "MEKANİK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -155,33 +162,41 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 7
+      "col": 3
     },
     {
       "row": 1,
-      "col": 7
+      "col": 1
     },
     {
       "row": 3,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
       "col": 7
     },
     {
-      "row": 7,
-      "col": 1
+      "row": 9,
+      "col": 7
     },
     {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 2
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 86
+  "order": 105
 }

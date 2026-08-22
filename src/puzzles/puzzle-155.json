@@ -1,131 +1,131 @@
 {
   "id": "puzzle-155",
-  "title": "Bulmaca 16",
+  "title": "Bulmaca 40",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Nişasta bulamacı",
-      "answer": "KOLA",
-      "row": 1,
+      "text": "Söz, lakırdı",
+      "answer": "LAF",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yiyecek parçası",
-      "answer": "LOKMA",
+      "text": "Modası geçmiş",
+      "answer": "DEMODE",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Takat",
-      "answer": "DERMAN",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Güldüren kimse",
-      "answer": "SOYTARI",
-      "row": 3,
+      "text": "Zorunluluk",
+      "answer": "ZARURET",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İkinci ad",
-      "answer": "LAKAP",
-      "row": 5,
+      "text": "Sıvı aracı",
+      "answer": "HUNİ",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Besin",
+      "answer": "GIDA",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Katmerli sebze",
-      "answer": "LAHANA",
+      "text": "Geometrik sanat akımı",
+      "answer": "KÜBİZM",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dilbilimci",
+      "answer": "DİLCİ",
       "row": 7,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sonradan ortaya çıkan",
-      "answer": "ARIZ",
+      "text": "Yetişkin, reşit",
+      "answer": "ERGİN",
       "row": 8,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Tamirci",
-      "answer": "ONARICI",
+      "text": "24 saatlik süre",
+      "answer": "GÜN",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yer mantarı",
-      "answer": "DOMALAN",
-      "row": 2,
+      "text": "Ufak ada",
+      "answer": "ADACIK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sevinç ünlemi",
-      "answer": "OLEY",
+      "text": "Işıltı, parlaklık",
+      "answer": "FER",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Siyah",
-      "answer": "KARA",
-      "row": 5,
+      "text": "Doğal kuyu",
+      "answer": "DÜDEN",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İngiliz unvanı",
-      "answer": "LORT",
-      "row": 0,
+      "text": "Haber toplayan",
+      "answer": "MUHABİR",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hayvan barınağı",
-      "answer": "AHIR",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Akış hâli",
-      "answer": "AKMA",
+      "text": "Yöneltilen söz",
+      "answer": "SORU",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Biseps",
-      "answer": "PAZI",
+      "text": "İptal etme",
+      "answer": "İLGA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kenar boşluğu",
-      "answer": "MARJ",
+      "text": "Denizde çalışan",
+      "answer": "DENİZCİ",
       "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zan, zehap",
-      "answer": "SANI",
+      "text": "Resimde varlık biçimi",
+      "answer": "BETİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bina",
-      "answer": "YAPI",
+      "text": "Küçük, kısa",
+      "answer": "MİNİ",
       "row": 5,
       "col": 6,
       "arrow": "down"
@@ -134,29 +134,25 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
+      "col": 3
     },
     {
       "row": 0,
       "col": 5
     },
     {
-      "row": 2,
+      "row": 7,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 5
+      "row": 9,
+      "col": 3
     },
     {
-      "row": 8,
+      "row": 9,
       "col": 5
     }
   ],
   "difficulty": "kolay",
-  "order": 16
+  "order": 40
 }

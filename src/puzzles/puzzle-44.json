@@ -1,131 +1,117 @@
 {
   "id": "puzzle-44",
-  "title": "Bulmaca 14",
+  "title": "Bulmaca 124",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Erek, gaye",
-      "answer": "AMAÇ",
+      "text": "Gömülecek ölü",
+      "answer": "CENAZE",
       "row": 0,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İri kırmızı çiçek",
-      "answer": "ŞAKAYIK",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Salgın ishal hastalığı",
-      "answer": "KOLERA",
+      "text": "Kor aracı",
+      "answer": "MAŞA",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tiyatro oyunu",
+      "answer": "PİYES",
       "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dakikanın altmışta biri",
+      "answer": "SANİYE",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Vatandaş",
-      "answer": "YURTTAŞ",
-      "row": 3,
+      "text": "Çeşit, tür",
+      "answer": "TİP",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Betimleme",
-      "answer": "TASVİR",
+      "text": "Risk",
+      "answer": "RİZİKO",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "En iyisi",
-      "answer": "İDEAL",
-      "row": 7,
+      "text": "Yelken açtırma",
+      "answer": "FORA",
+      "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Açılan yol",
-      "answer": "KANAL",
+      "text": "Kare yüzlü cisim",
+      "answer": "KÜP",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dokuma bitkisi",
-      "answer": "KETEN",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
+      "text": "Mektup dağıtan",
+      "answer": "POSTACI",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Yankı bilimi",
-      "answer": "AKUSTİK",
-      "row": 1,
+      "text": "Akdeniz sıcak rüzgârı",
+      "answer": "SİROKO",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Müzikal uyum",
-      "answer": "AKOR",
-      "row": 0,
+      "text": "Nil kamışı kâğıdı",
+      "answer": "PAPİRÜS",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Adanan şey, nezir",
-      "answer": "ADAK",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çimlendirilmiş arpa",
-      "answer": "MALT",
+      "text": "Duadan sonra denen",
+      "answer": "AMİN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yıl",
-      "answer": "SENE",
+      "text": "Zorla el koyma",
+      "answer": "ZAPT",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sure bölümü",
-      "answer": "AYET",
+      "text": "Kaybolma",
+      "answer": "ZAYİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Verilen söz",
-      "answer": "VAAT",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tutuşturma parçası",
-      "answer": "ÇIRA",
+      "text": "Cinsiyet",
+      "answer": "EŞEY",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Mutlaka, illa",
-      "answer": "İLLE",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarı peynir",
-      "answer": "KAŞAR",
+      "text": "Oje çıkarıcı",
+      "answer": "ASETON",
       "row": 1,
       "col": 6,
       "arrow": "down"
@@ -134,33 +120,57 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
-      "row": 5,
+      "row": 2,
       "col": 0
     },
     {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 4
+    },
+    {
+      "row": 5,
+      "col": 5
+    },
+    {
       "row": 7,
-      "col": 6
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
     },
     {
       "row": 8,
       "col": 6
-    },
-    {
-      "row": 9,
-      "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 14
+  "difficulty": "zor",
+  "order": 124
 }

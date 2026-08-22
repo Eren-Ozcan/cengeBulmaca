@@ -1,188 +1,174 @@
 {
   "id": "puzzle-9",
-  "title": "Bulmaca 95",
+  "title": "Bulmaca 112",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Tasdik",
-      "answer": "ONAY",
+      "text": "Eskil söz kullanımı",
+      "answer": "ARKAİZM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eğlenme, dalga geçme",
-      "answer": "ALAY",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tarikat öğreticisi",
-      "answer": "MÜRŞİT",
+      "text": "Göğün katı",
+      "answer": "ARŞ",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Hayvan koltuğu",
-      "answer": "EYER",
+      "text": "Anlayış, kavrayış",
+      "answer": "İDRAK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Okyanus derinliği",
-      "answer": "ABİS",
+      "text": "Bugünden önceki gün",
+      "answer": "DÜN",
       "row": 3,
-      "col": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Asteğmenin üstü",
-      "answer": "TEĞMEN",
+      "text": "Aşırı şişmanlık",
+      "answer": "OBEZİTE",
       "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Destansı",
-      "answer": "EPİK",
+      "text": "Motif",
+      "answer": "DESEN",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kamış içkisi",
-      "answer": "ARAK",
-      "row": 5,
+      "text": "Küçük cami",
+      "answer": "MESCİT",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Saç tokası",
+      "answer": "FİRKETE",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çok sevilen",
+      "answer": "İDOL",
+      "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Birincil, esas",
-      "answer": "ASLİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Görevden ayrılma",
-      "answer": "İSTİFA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Karakteristik",
-      "answer": "TİPİK",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Fakire verilen",
-      "answer": "SADAKA",
+      "text": "Kulplu su tası",
+      "answer": "MAŞRAPA",
       "row": 9,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Huzur, sıkıntısızlık",
-      "answer": "RAHAT",
+      "text": "Saf, şaşkın",
+      "answer": "AVAL",
       "row": 10,
-      "col": 3,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yumuşak karşıtı",
-      "answer": "SERT",
+      "text": "Raylı taşıt",
+      "answer": "TREN",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Av köpeği",
-      "answer": "TAZI",
+      "text": "Tokat ilçesi",
+      "answer": "ZİLE",
       "row": 11,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Tatlı satılan yer",
-      "answer": "PASTANE",
+      "text": "Buyruk",
+      "answer": "EMİR",
       "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Mor süs taşı",
-      "answer": "AMETİST",
+      "text": "Araç gövdesi",
+      "answer": "KAROSER",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Cesur",
-      "answer": "YÜREKLİ",
+      "text": "Doğulu müzik türü",
+      "answer": "ARABESK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Oruç açma",
-      "answer": "İFTAR",
-      "row": 5,
+      "text": "Eziyet",
+      "answer": "İŞKENCE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Süreç adımı",
-      "answer": "AŞAMA",
-      "row": 0,
+      "text": "Karşı çıkma",
+      "answer": "İTİRAZ",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Üyelik ücreti",
-      "answer": "AİDAT",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Son adam",
-      "answer": "LİBERO",
+      "text": "Orta boy etek",
+      "answer": "MİDİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Değer, fiyat",
-      "answer": "PAHA",
-      "row": 7,
+      "text": "Sağaltma",
+      "answer": "TEDAVİ",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 0,
+      "text": "Kırışık gideren araç",
+      "answer": "ÜTÜ",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Dikkat çekme",
-      "answer": "İKAZ",
+      "text": "Rengarenk taş",
+      "answer": "OPAL",
       "row": 7,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Çok sert",
-      "answer": "KASKATI",
-      "row": 4,
+      "text": "İşi yapan öge",
+      "answer": "ÖZNE",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Soy sop",
+      "answer": "SÜLALE",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -194,15 +180,19 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
-      "col": 8
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 8
+      "col": 5
     },
     {
       "row": 6,
@@ -217,14 +207,26 @@
       "col": 2
     },
     {
+      "row": 8,
+      "col": 3
+    },
+    {
       "row": 9,
       "col": 0
     },
     {
       "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
       "col": 2
+    },
+    {
+      "row": 10,
+      "col": 3
     }
   ],
   "difficulty": "orta",
-  "order": 95
+  "order": 112
 }

@@ -1,181 +1,188 @@
 {
   "id": "puzzle-95",
-  "title": "Bulmaca 96",
+  "title": "Bulmaca 108",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Manisa ilçesi",
-      "answer": "SOMA",
+      "text": "Tasvir",
+      "answer": "BETİM",
       "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İplik sarılan",
+      "answer": "MAKARA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sırt kemiği",
+      "answer": "OMURGA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Nazlı, işveli",
+      "answer": "EDALI",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Küf kokulu",
-      "answer": "SASI",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yakışıksız davranış",
-      "answer": "HALT",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Koni biçimli başlık",
-      "answer": "KALPAK",
-      "row": 3,
+      "text": "Oymak, kabile",
+      "answer": "AŞİRET",
+      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Üstünlük",
-      "answer": "AVANTAJ",
-      "row": 4,
-      "col": 0,
+      "text": "Para yüzü",
+      "answer": "TURA",
+      "row": 6,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yanak içi",
-      "answer": "AVURT",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Donanma",
-      "answer": "ARMADA",
+      "text": "Çocuk dilinde idrar",
+      "answer": "ÇİŞ",
       "row": 6,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Klik",
+      "answer": "HİZİP",
+      "row": 7,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Açılış töreni",
-      "answer": "GALA",
-      "row": 7,
-      "col": 1,
+      "text": "Koyun-keçi",
+      "answer": "DAVAR",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Meydana gelme, vuku",
-      "answer": "OLUŞ",
-      "row": 7,
+      "text": "Diyelim ki",
+      "answer": "FARAZA",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üç zamanlı dans",
-      "answer": "VALS",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Hak, hukuk",
-      "answer": "ADALET",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sıvı metal",
-      "answer": "CIVA",
+      "text": "Tekrarlanan söz",
+      "answer": "REDİF",
       "row": 10,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mutedil iklim",
-      "answer": "ILIMAN",
+      "text": "Dokuma bitkisi",
+      "answer": "KETEN",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Havadaki akışkan",
+      "answer": "GAZ",
       "row": 11,
-      "col": 2,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Hamur açacağı",
-      "answer": "OKLAVA",
+      "text": "Yenilik düşkünlüğü",
+      "answer": "MODA",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yönetme",
+      "answer": "İDARE",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Üçüncü Yunan harfi",
+      "answer": "GAMA",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sibirya ırmağı",
-      "answer": "LENA",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Aksan",
-      "answer": "VURGU",
-      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kaos",
-      "answer": "KARMAŞA",
-      "row": 2,
+      "text": "Belirti, jest",
+      "answer": "İŞARET",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sarımsı at donu",
+      "answer": "KULA",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kaba, iri",
-      "answer": "HANTAL",
-      "row": 1,
+      "text": "Ödeme süresi",
+      "answer": "VADE",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sulh",
+      "answer": "BARIŞ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yalnızca, sadece; mutlak",
-      "answer": "SALT",
+      "text": "Hüzünlü, dokunaklı",
+      "answer": "HAZİN",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İş birimi",
+      "answer": "ERG",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dava eden",
-      "answer": "DAVACI",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Güney Amerika devesi",
-      "answer": "ALPAKA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Satın alma",
-      "answer": "ALIM",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Meslek çalışması",
-      "answer": "STAJ",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Bulgar parası",
-      "answer": "LEVA",
-      "row": 7,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Hekim yardımcısı",
-      "answer": "ASİSTAN",
+      "text": "Suçunu söyleme",
+      "answer": "İTİRAF",
       "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Askerî hücum",
+      "answer": "TAARRUZ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıkıntısız, huzurlu",
+      "answer": "ERİNÇ",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Söz söylenen kişi",
+      "answer": "MUHATAP",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     }
@@ -183,7 +190,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
     },
     {
       "row": 0,
@@ -191,57 +202,57 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 7
     },
     {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 2,
+      "row": 1,
       "col": 0
     },
     {
       "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
-      "col": 8
+      "col": 7
     },
     {
       "row": 3,
-      "col": 0
+      "col": 7
     },
     {
       "row": 5,
-      "col": 7
+      "col": 0
     },
     {
       "row": 6,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 2
-    },
-    {
-      "row": 10,
       "col": 3
     },
     {
-      "row": 11,
-      "col": 0
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 8
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 8
     }
   ],
   "difficulty": "orta",
-  "order": 96
+  "order": 108
 }

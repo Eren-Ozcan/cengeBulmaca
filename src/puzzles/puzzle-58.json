@@ -1,187 +1,173 @@
 {
   "id": "puzzle-58",
-  "title": "Bulmaca 113",
+  "title": "Bulmaca 117",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "İddia çürütme",
-      "answer": "CERH",
+      "text": "Yangı",
+      "answer": "İLTİHAP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Avrupa-Asya sınırı",
-      "answer": "URAL",
-      "row": 1,
-      "col": 4,
+      "text": "Sonradan çıkan",
+      "answer": "ARIZİ",
+      "row": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Koşullar bütünü",
-      "answer": "ORTAM",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Orta oyunu uşağı",
-      "answer": "İBİŞ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yansıma",
-      "answer": "AKİS",
+      "text": "Hak etme",
+      "answer": "LİYAKAT",
       "row": 3,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Uydurma sebep",
-      "answer": "BAHANE",
+      "text": "Gösterili eğlence yeri",
+      "answer": "KABARE",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kirpik boyası",
-      "answer": "RİMEL",
+      "text": "Arap para birimi",
+      "answer": "DİNAR",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şiirde göz",
-      "answer": "ÇEŞM",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Japon çizgi filmi",
-      "answer": "ANİME",
+      "text": "Perdeli çalgı",
+      "answer": "GİTAR",
       "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Hükümdar ailesi",
-      "answer": "HANEDAN",
+      "text": "Hayali canavar",
+      "answer": "ÖCÜ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Karar gücü",
+      "answer": "İRADE",
       "row": 8,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gemi onarımı",
-      "answer": "KALAFAT",
+      "text": "İkaz",
+      "answer": "UYARI",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Erden kız",
-      "answer": "BAKİRE",
+      "text": "Anlayış, sağduyu",
+      "answer": "İZAN",
       "row": 10,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Casus",
-      "answer": "AJAN",
+      "text": "Konuğu ağırlama",
+      "answer": "İKRAM",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sersem, alık",
-      "answer": "SEME",
+      "text": "Gelecek okuma",
+      "answer": "FAL",
       "row": 11,
-      "col": 4,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "İskambil oyunu",
-      "answer": "BRİÇ",
-      "row": 2,
+      "text": "Öç isteği",
+      "answer": "KİN",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bir selamlaşma sözü",
-      "answer": "MERHABA",
-      "row": 4,
+      "text": "Mücadele, savaş",
+      "answer": "CENK",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yağma",
+      "answer": "TALAN",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hatır sorma",
-      "answer": "HOŞBEŞ",
+      "text": "Kurbağa yavrusu",
+      "answer": "İRİBAŞ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Saha, meydan",
-      "answer": "ALAN",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yıllık",
-      "answer": "ALMANAK",
-      "row": 3,
+      "text": "Yeşil sebze",
+      "answer": "HIYAR",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir ABD eyaleti",
-      "answer": "UTAH",
+      "text": "Kıyafet",
+      "answer": "GİYİM",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırıcı söz",
+      "answer": "AZAR",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Lezzetli, mükemmel",
-      "answer": "NEFİS",
-      "row": 6,
+      "text": "Kırmızı, tatlı meyve",
+      "answer": "KİRAZ",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sayı işareti",
-      "answer": "RAKAM",
+      "text": "Dik dalış",
+      "answer": "PİKE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yönetme",
-      "answer": "İDARE",
+      "text": "Yan, cephe",
+      "answer": "TARAF",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Duadan sonra denen",
-      "answer": "AMİN",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Yas",
-      "answer": "MATEM",
+      "text": "Namına, hesabına",
+      "answer": "ADINA",
       "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Oy veren",
-      "answer": "SEÇMEN",
+      "text": "Arkalıksız iskemle",
+      "answer": "TABURE",
       "row": 2,
       "col": 8,
       "arrow": "down"
@@ -194,34 +180,58 @@
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 4
+      "col": 7
     },
     {
       "row": 0,
       "col": 8
     },
     {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
       "row": 5,
-      "col": 5
+      "col": 6
     },
     {
       "row": 5,
       "col": 7
     },
     {
-      "row": 7,
+      "row": 6,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 1
+      "row": 6,
+      "col": 2
     },
     {
-      "row": 8,
+      "row": 7,
+      "col": 2
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {
@@ -230,9 +240,13 @@
     },
     {
       "row": 10,
+      "col": 2
+    },
+    {
+      "row": 10,
       "col": 8
     }
   ],
   "difficulty": "zor",
-  "order": 113
+  "order": 117
 }

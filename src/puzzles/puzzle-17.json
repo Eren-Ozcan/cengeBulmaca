@@ -1,139 +1,111 @@
 {
   "id": "puzzle-17",
-  "title": "Bulmaca 8",
+  "title": "Bulmaca 128",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Dev Kaliforniya ağacı",
-      "answer": "SEKOYA",
+      "text": "Ufki",
+      "answer": "YATAY",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ordu görevlisi",
-      "answer": "SUBAY",
-      "row": 2,
-      "col": 0,
+      "text": "Yüz anlatımı",
+      "answer": "MİMİK",
+      "row": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bitki hücre maddesi",
-      "answer": "SELÜLOZ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ara, aralık",
-      "answer": "FASILA",
+      "text": "Özgür",
+      "answer": "HÜR",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ceset incelemesi",
-      "answer": "OTOPSİ",
+      "text": "Kurutulmuş meyve ezmesi",
+      "answer": "PESTİL",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kural",
+      "answer": "KAİDE",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İçme borusu",
-      "answer": "PİPET",
+      "text": "Katman",
+      "answer": "TABAKA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ekmekli çorba",
-      "answer": "PAPARA",
+      "text": "Yer bulucu",
+      "answer": "RADAR",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kapatma aleti",
-      "answer": "KİLİT",
+      "text": "Ağ tabaka",
+      "answer": "RETİNA",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Pişmanlık, üzüntü",
-      "answer": "ESEF",
-      "row": 0,
+      "text": "Yüz ar",
+      "answer": "HEKTAR",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Donuk, mat",
-      "answer": "OPAK",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarımsı at donu",
-      "answer": "KULA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kar fırtınası",
-      "answer": "TİPİ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Top mermisi",
-      "answer": "OBÜS",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Rengarenk taş",
-      "answer": "OPAL",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kıyı evi",
-      "answer": "YALI",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayali varlık",
-      "answer": "PERİ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Şaşkınlık sözü",
-      "answer": "AYOL",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Maçın oynandığı yapı",
-      "answer": "STAT",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaybolma",
-      "answer": "ZAYİ",
+      "text": "İzin",
+      "answer": "MÜSAADE",
       "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağlantı",
+      "answer": "İRTİBAT",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hayvan besini",
+      "answer": "YEM",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yönetime dair",
+      "answer": "İDARİ",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hareketli, canlı",
+      "answer": "İŞLEK",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Taşınan ağırlık",
+      "answer": "YÜK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -141,29 +113,57 @@
   "blocks": [
     {
       "row": 0,
-      "col": 6
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 1,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 4,
       "col": 6
     },
     {
       "row": 5,
-      "col": 0
+      "col": 6
     },
     {
-      "row": 7,
+      "row": 6,
       "col": 6
     },
     {
       "row": 8,
-      "col": 6
+      "col": 5
     },
     {
-      "row": 9,
+      "row": 8,
       "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 8
+  "difficulty": "zor",
+  "order": 128
 }

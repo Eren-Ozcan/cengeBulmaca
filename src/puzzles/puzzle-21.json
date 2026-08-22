@@ -1,160 +1,167 @@
 {
   "id": "puzzle-21",
-  "title": "Bulmaca 94",
+  "title": "Bulmaca 115",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Saflık derecesi",
-      "answer": "AYAR",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
+      "text": "Gerçekten",
+      "answer": "SAHİ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Sözleşme bozma",
-      "answer": "FESİH",
+      "text": "Güney Amerika dağları",
+      "answer": "AND",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İrmikli şerbetli tatlı",
+      "answer": "REVANİ",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sıradan",
-      "answer": "OLAĞAN",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dibe çöken madde",
-      "answer": "ÇÖKELTİ",
+      "text": "Kolsuz üstlük",
+      "answer": "PELERİN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Pişmanlık",
+      "answer": "NEDAMET",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ama",
-      "answer": "LAKİN",
+      "text": "Ödev",
+      "answer": "VAZİFE",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İntiba",
-      "answer": "İZLENİM",
-      "row": 7,
+      "text": "Albayın üstü",
+      "answer": "GENERAL",
+      "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Tespih başlığı",
-      "answer": "İMAME",
+      "text": "Kem göz",
+      "answer": "NAZAR",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Anapara",
-      "answer": "SERMAYE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Oldukça iyi",
-      "answer": "İYİCE",
-      "row": 10,
+      "text": "İşaret bayrağı",
+      "answer": "FLAMA",
+      "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Söyleyerek yazdırma",
-      "answer": "DİKTE",
-      "row": 10,
+      "text": "Açık oturum",
+      "answer": "PANEL",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İzmir'in tatil ilçesi",
-      "answer": "FOÇA",
+      "text": "Gümüş iplik",
+      "answer": "SİM",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Güreş alanı",
+      "answer": "ARENA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İplik lifi",
+      "answer": "ELYAF",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yılankavi kıvrım",
+      "answer": "HELEZON",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Acele yapılan",
+      "answer": "İVEDİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Nefis",
+      "answer": "ENFES",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Cennetle cehennem arası",
+      "answer": "ARAF",
       "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Mesaj",
-      "answer": "İLETİ",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kan kanseri",
-      "answer": "LÖKOZ",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Konu dışı",
-      "answer": "AFAKİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Üst sınır",
-      "answer": "LİMİT",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kardeş çocuğu",
-      "answer": "YEĞEN",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sırlı kap",
-      "answer": "EMAYE",
+      "text": "Yol yarışı",
+      "answer": "RALLİ",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Esas, temel",
-      "answer": "ASAL",
+      "text": "Japon çizgi filmi",
+      "answer": "ANİME",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Saf kimse",
-      "answer": "ENAYİ",
+      "text": "Üye",
+      "answer": "AZA",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyükanne",
+      "answer": "NİNE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kategori",
+      "answer": "ULAM",
       "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Zevk düşkünü",
-      "answer": "RİNT",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ortak emek",
-      "answer": "İMECE",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yerine koyma",
-      "answer": "İKAME",
-      "row": 3,
+      "text": "Doğru, isabetli",
+      "answer": "RAST",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -162,53 +169,49 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 4
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
       "col": 7
     },
     {
       "row": 2,
-      "col": 0
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
     },
     {
       "row": 5,
-      "col": 6
+      "col": 7
     },
     {
       "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 11,
+      "row": 10,
       "col": 5
     },
     {
+      "row": 10,
+      "col": 6
+    },
+    {
       "row": 11,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 94
+  "difficulty": "zor",
+  "order": 115
 }

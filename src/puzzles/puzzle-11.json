@@ -1,160 +1,153 @@
 {
   "id": "puzzle-11",
-  "title": "Bulmaca 79",
+  "title": "Bulmaca 77",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Yıpratıcı, üstün",
-      "answer": "EZİCİ",
+      "text": "Basın",
+      "answer": "MATBUAT",
       "row": 0,
-      "col": 3,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gömülecek ölü",
-      "answer": "CENAZE",
+      "text": "Çizgi",
+      "answer": "HAT",
       "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Din büyüğü öyküsü",
+      "answer": "MENKIBE",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Alt yüklenici",
-      "answer": "TAŞERON",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Geçmiş bilimi",
+      "answer": "TARİH",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Çam meyvesi",
-      "answer": "KOZALAK",
+      "text": "Büyük toprak sahibi",
+      "answer": "AĞA",
       "row": 4,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Banka işlemi",
-      "answer": "REPO",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sim işlemeli kumaş",
-      "answer": "LAME",
-      "row": 5,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kadın peşinde koşan",
-      "answer": "ZAMPARA",
+      "text": "Vücut yapısı bilimi",
+      "answer": "ANATOMİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yinelenen bölüm",
+      "answer": "NAKARAT",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İfade",
-      "answer": "ANLATIM",
+      "text": "Silme aracı",
+      "answer": "SİLGİ",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Halka biçimli mercan adası",
+      "answer": "ATOL",
       "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Makinedeki bozukluk",
-      "answer": "ARIZA",
+      "text": "Renkli, benekli",
+      "answer": "ALA",
       "row": 9,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yaylı çalgı",
-      "answer": "KEMAN",
+      "text": "Tabelalarda parlayan gaz",
+      "answer": "NEON",
       "row": 10,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İlk ay",
-      "answer": "OCAK",
+      "text": "Hediye",
+      "answer": "ARMAĞAN",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bağımsız",
-      "answer": "AZADE",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Spor giysisi",
-      "answer": "EŞOFMAN",
-      "row": 1,
+      "text": "Rakıya koku veren",
+      "answer": "ANASON",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Edirne ilçesi",
-      "answer": "ENEZ",
+      "text": "Set, baraj",
+      "answer": "BENT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ev, arsa",
-      "answer": "EMLAK",
+      "text": "Akıllı kadın",
+      "answer": "AKİLE",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ziyan",
-      "answer": "ZARAR",
-      "row": 0,
+      "text": "Yırtıcı iri kuş",
+      "answer": "KARTAL",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Parça",
-      "answer": "PARE",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yalıtılmış olan",
-      "answer": "İZOLE",
+      "text": "Hayvan barınağı",
+      "answer": "AHIR",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Atış uzaklığı",
-      "answer": "ATIM",
-      "row": 6,
+      "text": "Vücut bölümü",
+      "answer": "ORGAN",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Saygı sözü",
-      "answer": "CENAP",
+      "text": "Bağlı, uyan",
+      "answer": "TABİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Onama, kabul",
-      "answer": "RIZA",
-      "row": 6,
+      "text": "Eğilimli, meyilli",
+      "answer": "MAİL",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çok iri",
-      "answer": "KOCAMAN",
-      "row": 3,
+      "text": "Gözdağı",
+      "answer": "TEHDİT",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -162,33 +155,41 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 7
     },
     {
-      "row": 1,
+      "row": 2,
       "col": 0
     },
     {
       "row": 2,
-      "col": 7
+      "col": 2
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 8,
+      "col": 7
     },
     {
       "row": 10,
       "col": 0
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 79
+  "order": 77
 }

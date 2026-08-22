@@ -1,124 +1,138 @@
 {
   "id": "puzzle-32",
-  "title": "Bulmaca 87",
+  "title": "Bulmaca 30",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Ter kabarcığı",
-      "answer": "İSİLİK",
+      "text": "Elâzığ ilçesi",
+      "answer": "PALU",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Türk boylarının atası",
-      "answer": "OĞUZ",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kalp atışı",
-      "answer": "NABIZ",
-      "row": 3,
+      "text": "Japon dövüş sanatı",
+      "answer": "KARATE",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Özellikle, bilhassa",
-      "answer": "HELE",
-      "row": 3,
+      "text": "Rehber",
+      "answer": "KILAVUZ",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Akademik son aşama",
-      "answer": "DOKTORA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kol eklemi",
-      "answer": "DİRSEK",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yanık şeker",
-      "answer": "KARAMEL",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Örtülü, kapanmış",
-      "answer": "KAPALI",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dikiş aracı",
-      "answer": "İĞNE",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Işınların toplandığı nokta",
-      "answer": "ODAK",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Soru",
-      "answer": "SUAL",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kullanım ücreti",
-      "answer": "KİRA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Loş, kuytu",
-      "answer": "İZBE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hendek, tuzak",
-      "answer": "TRAP",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Şen, fettan",
-      "answer": "YOSMA",
+      "text": "Odun kırıntısı",
+      "answer": "TALAŞ",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Oksijen birleşimi",
+      "answer": "OKSİT",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Leş yiyen kuş",
+      "answer": "AKBABA",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tek kişilik koltuk",
+      "answer": "BERJER",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Pantolon ucu",
+      "answer": "PAÇA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Karşılıklı anlaşma",
+      "answer": "AKIT",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce karşıtı",
+      "answer": "KABA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek dadı",
+      "answer": "LALA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Güldürü oyunu",
+      "answer": "SKEÇ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Avrupa-Asya sınırı",
+      "answer": "URAL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Borçtan aklama",
+      "answer": "İBRA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstünlük",
+      "answer": "AVANTAJ",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gerçek, somut",
-      "answer": "REEL",
-      "row": 5,
+      "text": "Güreş bitişi",
+      "answer": "TUŞ",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Saklanmış olan",
-      "answer": "SAKLI",
+      "text": "Dörtten sonraki sayı",
+      "answer": "BEŞ",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Pamuklu kumaş",
+      "answer": "BEZ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Osmanlı'da öşür",
+      "answer": "AŞAR",
       "row": 4,
       "col": 6,
       "arrow": "down"
@@ -127,10 +141,6 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 4
     },
     {
@@ -138,30 +148,18 @@
       "col": 5
     },
     {
-      "row": 0,
-      "col": 6
+      "row": 5,
+      "col": 5
     },
     {
-      "row": 2,
+      "row": 9,
       "col": 4
     },
     {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
+      "row": 9,
       "col": 6
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 5
     }
   ],
-  "difficulty": "orta",
-  "order": 87
+  "difficulty": "kolay",
+  "order": 30
 }

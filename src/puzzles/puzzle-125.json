@@ -1,125 +1,132 @@
 {
   "id": "puzzle-125",
-  "title": "Bulmaca 51",
+  "title": "Bulmaca 54",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Taşıt iskeleti",
-      "answer": "ŞASİ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Çeşit, cins",
+      "answer": "TÜR",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Can koruyucu",
-      "answer": "FEDAİ",
+      "text": "Aşk",
+      "answer": "SEVİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Istekalı masa oyunu",
-      "answer": "BİLARDO",
+      "text": "Garanti",
+      "answer": "GÜVENCE",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mumluk",
-      "answer": "ŞAMDAN",
+      "text": "Kale deliği",
+      "answer": "MAZGAL",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Koyun-keçi",
-      "answer": "DAVAR",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hurda alan",
-      "answer": "HURDACI",
-      "row": 6,
+      "text": "Bütünün parçası",
+      "answer": "CÜZ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Vazgeçilmez",
-      "answer": "ELZEM",
-      "row": 8,
-      "col": 1,
+      "text": "Mukaddes",
+      "answer": "KUTSAL",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Süslü seramik",
-      "answer": "ÇİNİ",
+      "text": "Yakışır görülen",
+      "answer": "REVA",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Normalden küçük",
+      "answer": "UFAK",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Parmak zili",
+      "answer": "ÇALPARA",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Herkesçe bilinen",
-      "answer": "AFİŞE",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Minareden okunan dua",
-      "answer": "SELA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Su boşaltma kanalı",
-      "answer": "DREN",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ölüm cezası",
-      "answer": "İDAM",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hukukla ilgili",
-      "answer": "ADLİ",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kayağan taş",
-      "answer": "ARDUVAZ",
+      "text": "Burun salgısı",
+      "answer": "SÜMÜK",
       "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Alçak gönüllülük",
+      "answer": "TEVAZU",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırmızı meyveli ağaç",
+      "answer": "ÜVEZ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Oyuncu topluluğu",
+      "answer": "TRUP",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Boks alanı",
+      "answer": "RİNG",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yivli eleman",
-      "answer": "VİDA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Acaba",
-      "answer": "ACEP",
+      "text": "Keyifli hâl",
+      "answer": "SEFA",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yırtıcı masal yaratığı",
+      "answer": "CANAVAR",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tamirat",
-      "answer": "ONARIM",
-      "row": 2,
+      "text": "Öncesizlik",
+      "answer": "EZEL",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yoldaki çukur",
+      "answer": "LAKA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -127,29 +134,37 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 5,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 4
+      "row": 0,
+      "col": 1
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 1
     }
   ],
   "difficulty": "kolay",
-  "order": 51
+  "order": 54
 }

@@ -1,132 +1,125 @@
 {
   "id": "puzzle-56",
-  "title": "Bulmaca 6",
+  "title": "Bulmaca 37",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Askerî olmayan",
-      "answer": "SİVİL",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaramaz çocuk",
-      "answer": "AFACAN",
-      "row": 1,
+      "text": "Hoşluk",
+      "answer": "LETAFET",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Karar gücü",
-      "answer": "İRADE",
-      "row": 3,
-      "col": 1,
+      "text": "Kuraklık tahılı",
+      "answer": "DARI",
+      "row": 2,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Asalak",
-      "answer": "PARAZİT",
+      "text": "Bilgin kimse",
+      "answer": "ALİM",
       "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tropik sarı meyve",
+      "answer": "PAPAYA",
+      "row": 3,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Asla",
+      "answer": "HİÇ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Devingen",
-      "answer": "DİNAMİK",
+      "text": "Pislik, is",
+      "answer": "KİR",
       "row": 5,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Tutulan kimse",
-      "answer": "REHİNE",
+      "text": "İzinsiz şey",
+      "answer": "YASAK",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yakıcı tat",
+      "answer": "ACI",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Güvence",
-      "answer": "TEMİNAT",
+      "text": "Onlu üleştirme sayısı",
+      "answer": "ONAR",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zırhlı kule",
-      "answer": "TARET",
+      "text": "Zürafa akrabası",
+      "answer": "OKAPİ",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Oymak, kabile",
-      "answer": "AŞİRET",
+      "text": "Tuşlu telli çalgı",
+      "answer": "PİYANO",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Başka, öteki, diğer",
-      "answer": "SAİR",
-      "row": 0,
+      "text": "Şişe kapağı aracı",
+      "answer": "AÇACAK",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Büyüme, gelişme, çoğalma",
-      "answer": "NEMA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Uygulama, yapma",
-      "answer": "İCRA",
+      "text": "Töre, görgü",
+      "answer": "ADAP",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sırada son",
-      "answer": "AHİR",
+      "text": "Dizi",
+      "answer": "SIRA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dinî öğüt",
-      "answer": "VAAZ",
+      "text": "Ayak tabanı cezası",
+      "answer": "FALAKA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Diş dokusu",
-      "answer": "MİNE",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Öznel",
-      "answer": "İNDİ",
+      "text": "Mahlul",
+      "answer": "ERİYİK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ayak direme",
-      "answer": "İNAT",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Fiyat kâğıdı",
-      "answer": "ETİKET",
-      "row": 2,
+      "text": "Hayvan bakımı",
+      "answer": "TIMAR",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -134,14 +127,50 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
       "col": 6
     },
     {
@@ -150,5 +179,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 6
+  "order": 37
 }

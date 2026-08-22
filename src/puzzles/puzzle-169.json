@@ -1,153 +1,160 @@
 {
   "id": "puzzle-169",
-  "title": "Bulmaca 72",
+  "title": "Bulmaca 116",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Ortaya koyma",
-      "answer": "İBRAZ",
+      "text": "Gizli sebep",
+      "answer": "GÜDÜ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Direnç",
-      "answer": "SEBAT",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Örme kumaş",
-      "answer": "TRİKO",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Vuzuh",
-      "answer": "AÇIKLIK",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sahne oyunu",
-      "answer": "DRAM",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Seslenme, çağırma; ünlem",
-      "answer": "NİDA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Baldızın kocası",
-      "answer": "BACANAK",
-      "row": 6,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Açık yeşil taş",
-      "answer": "YEŞİM",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Özelliksiz",
-      "answer": "SIRADAN",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Karaciğer hastalığı",
-      "answer": "SİROZ",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Evli olmayan",
-      "answer": "BEKAR",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvan besleme",
-      "answer": "BESİ",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yıkanacak giysi",
-      "answer": "ÇAMAŞIR",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bronş hastalığı",
-      "answer": "ASTIM",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Satış tutarı",
-      "answer": "CİRO",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıvı verme",
-      "answer": "ZERK",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Günlük ibadet",
-      "answer": "NAMAZ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Âlim",
-      "answer": "BİLGİN",
+      "text": "Bahçe engeli",
+      "answer": "ÇİT",
       "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Gelişmemiş, iptidai",
+      "answer": "İLKEL",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Şaşkına dönmüş",
+      "answer": "ŞOKE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Rüzgâr",
+      "answer": "YEL",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Pamuklu spor giysi",
+      "answer": "TİŞÖRT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yarı karanlık",
+      "answer": "LOŞ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Anlama yetisi",
+      "answer": "ZEKA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Dokuma aracı",
+      "answer": "MEKİK",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Örnek",
+      "answer": "MİSAL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zarar ihtimali",
+      "answer": "TEHLİKE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Cezaya dair",
+      "answer": "CEZAİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Başlangıçta",
+      "answer": "İLKİN",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yetke",
+      "answer": "OTORİTE",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İplik bağlantısı",
+      "answer": "DİKİŞ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sezgi",
+      "answer": "SEZİ",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bölüşülen pay",
+      "answer": "ÜLEŞ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yer, yöre",
+      "answer": "MAHAL",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hususiyet",
+      "answer": "ÖZELLİK",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Dörtte bir",
+      "answer": "ÇEYREK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Manzara yönü",
-      "answer": "BAKI",
+      "text": "Açı ölçme aracı",
+      "answer": "İLETKİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Gürültülü çekişme",
-      "answer": "DALAŞ",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağaç çekiç",
-      "answer": "TOKMAK",
-      "row": 1,
+      "text": "Osmanlı parası",
+      "answer": "AKÇE",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -155,11 +162,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
-      "col": 5
+      "col": 4
     },
     {
       "row": 0,
@@ -167,33 +174,37 @@
     },
     {
       "row": 2,
-      "col": 0
+      "col": 7
     },
     {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 8,
+      "row": 7,
       "col": 5
     },
     {
-      "row": 8,
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
       "col": 7
     },
     {
       "row": 10,
-      "col": 5
+      "col": 0
     },
     {
       "row": 10,
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 72
+  "difficulty": "zor",
+  "order": 116
 }

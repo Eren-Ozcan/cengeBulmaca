@@ -1,167 +1,174 @@
 {
   "id": "puzzle-99",
-  "title": "Bulmaca 55",
+  "title": "Bulmaca 93",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Mal paylaşımı",
-      "answer": "ZEKAT",
+      "text": "İyileştirici madde",
+      "answer": "İLAÇ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Suriye'nin başkenti",
+      "answer": "ŞAM",
       "row": 1,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Çirkin, acayip",
-      "answer": "UCUBE",
+      "text": "Şaşılacak şey",
+      "answer": "ACİBE",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Saygı gösterme",
-      "answer": "İHTİRAM",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Senli benli",
-      "answer": "LAUBALİ",
+      "text": "Yakacak parça",
+      "answer": "ODUN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çete önderi",
+      "answer": "ELEBAŞI",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çay ilimiz",
-      "answer": "RİZE",
+      "text": "Organ sancısı",
+      "answer": "KOLİK",
       "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Salgın ishal hastalığı",
+      "answer": "KOLERA",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Alçak yükselti",
+      "answer": "TEPE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Az karşıtı",
+      "answer": "ÇOK",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Su sığırı",
-      "answer": "MANDA",
-      "row": 7,
+      "text": "Zevk düşkünü",
+      "answer": "RİNT",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Tren platformu",
+      "answer": "PERON",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kıymet",
-      "answer": "DEĞER",
-      "row": 8,
-      "col": 2,
+      "text": "İğne yapraklı ağaç",
+      "answer": "ÇAM",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yazılı tabela",
+      "answer": "LEVHA",
+      "row": 11,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üstü kapalı",
-      "answer": "İMALI",
-      "row": 9,
+      "text": "Kemik oyunu",
+      "answer": "LADES",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Seke yürüyen",
+      "answer": "TOPAL",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Aceleci",
+      "answer": "ACUL",
+      "row": 0,
       "col": 2,
-      "arrow": "right"
+      "arrow": "down"
+    },
+    {
+      "text": "Takılarak konuşan",
+      "answer": "KEKEME",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük lüfer",
+      "answer": "ÇİNEKOP",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kısa ceket",
+      "answer": "BOLERO",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çağlayan",
+      "answer": "ŞELALE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapı kurma",
+      "answer": "İNŞA",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
     },
     {
       "text": "Sevimli",
       "answer": "ŞİRİN",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İstek",
-      "answer": "MERAM",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yok olan",
-      "answer": "ZAİL",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bağışık",
-      "answer": "İMMÜN",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Akarsu bölgesi",
-      "answer": "HAVZA",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Eşya kabı",
-      "answer": "KUTU",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaygı",
-      "answer": "ENDİŞE",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Şaşılacak şey",
-      "answer": "ACİBE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Mıknatıslı element",
-      "answer": "DEMİR",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Para yüzü",
-      "answer": "TURA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yer altı boşluğu",
-      "answer": "MAĞARA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sahne dansı",
-      "answer": "BALE",
-      "row": 1,
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Acıklı, üzücü",
-      "answer": "ELİM",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Deniz taşıtı",
-      "answer": "GEMİ",
+      "text": "Bando",
+      "answer": "MIZIKA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Bugünden sonraki",
-      "answer": "YARIN",
-      "row": 5,
+      "text": "Fıçı ağzı tıkacı",
+      "answer": "TIPA",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -169,11 +176,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 2
+      "col": 4
     },
     {
       "row": 0,
@@ -181,33 +184,37 @@
     },
     {
       "row": 2,
+      "col": 6
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
       "row": 6,
-      "col": 6
-    },
-    {
-      "row": 8,
       "col": 0
     },
     {
       "row": 9,
-      "col": 0
+      "col": 6
     },
     {
       "row": 10,
-      "col": 0
+      "col": 3
+    },
+    {
+      "row": 10,
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 6
     },
     {
       "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 7
+      "col": 6
     }
   ],
   "difficulty": "orta",
-  "order": 55
+  "order": 93
 }

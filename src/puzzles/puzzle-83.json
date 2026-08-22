@@ -1,132 +1,160 @@
 {
   "id": "puzzle-83",
-  "title": "Bulmaca 41",
+  "title": "Bulmaca 84",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Şümul",
-      "answer": "KAPSAM",
-      "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çift kamışlı çalgı",
-      "answer": "OBUA",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yengeç türü",
-      "answer": "ÇAĞANOZ",
-      "row": 2,
+      "text": "Ekin biçme",
+      "answer": "HASAT",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Abide",
-      "answer": "ANIT",
-      "row": 4,
-      "col": 3,
+      "text": "Öğüt",
+      "answer": "NASİHAT",
+      "row": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dişli kesici",
-      "answer": "TESTERE",
+      "text": "İhtiraslı",
+      "answer": "TUTKULU",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnsan yapısı",
+      "answer": "BİNA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Deri kaplı çalgı",
+      "answer": "DARBUKA",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yargı yeri",
-      "answer": "MAHKEME",
-      "row": 7,
+      "text": "Ad",
+      "answer": "İSİM",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Damar aracı",
+      "answer": "STENT",
+      "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Doğan zarar",
-      "answer": "HASAR",
+      "text": "İkinci ad",
+      "answer": "LAKAP",
       "row": 8,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çizge",
-      "answer": "GRAFİK",
+      "text": "Piknik yeri",
+      "answer": "MESİRE",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Geçmiş bilimi",
-      "answer": "TARİH",
+      "text": "Doğruluk belgesi",
+      "answer": "KANIT",
       "row": 10,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Enerji paketi",
-      "answer": "KUANTUM",
+      "text": "Panzehir",
+      "answer": "ANTİDOT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Beden sağlığı",
-      "answer": "SIHHAT",
-      "row": 4,
+      "text": "Buhar banyosu",
+      "answer": "SAUNA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eleme aracı",
+      "answer": "ELEK",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İç kumaş",
+      "answer": "ASTAR",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bölümlü eser",
-      "answer": "SONAT",
+      "text": "ABD uzay ajansı",
+      "answer": "NASA",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İstemsiz hareket",
+      "answer": "TİK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Baş",
-      "answer": "KAFA",
-      "row": 6,
+      "text": "Çok yorgun",
+      "answer": "BİTKİN",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hizmet alan",
-      "answer": "ABONE",
-      "row": 0,
+      "text": "Bitki toprağı",
+      "answer": "HUMUS",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Savaş tutsağı",
-      "answer": "ESİR",
-      "row": 6,
+      "text": "Bal böceği",
+      "answer": "ARI",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zararlı",
-      "answer": "MUZIR",
+      "text": "At demiri",
+      "answer": "NAL",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Madagaskar maymunu",
-      "answer": "MAKİ",
-      "row": 6,
+      "text": "Güreşçi pantolonu",
+      "answer": "KİSPET",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tekerlek",
-      "answer": "TEKER",
-      "row": 3,
+      "text": "Avuç miktarı",
+      "answer": "TUTAM",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -134,43 +162,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
+      "row": 7,
       "col": 7
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 2
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 2
     },
     {
       "row": 8,
@@ -178,7 +178,7 @@
     },
     {
       "row": 8,
-      "col": 1
+      "col": 7
     },
     {
       "row": 9,
@@ -190,9 +190,9 @@
     },
     {
       "row": 10,
-      "col": 1
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 41
+  "difficulty": "orta",
+  "order": 84
 }

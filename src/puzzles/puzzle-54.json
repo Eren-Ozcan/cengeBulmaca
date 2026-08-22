@@ -1,146 +1,167 @@
 {
   "id": "puzzle-54",
-  "title": "Bulmaca 116",
+  "title": "Bulmaca 86",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Musluklu yıkama yeri",
-      "answer": "LAVABO",
+      "text": "Kalan, artan",
+      "answer": "BAKİYE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dev fosil sürüngen",
-      "answer": "DİNOZOR",
+      "text": "Kokusuz süs çiçeği",
+      "answer": "AÇELYA",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Diyelim ki",
-      "answer": "FARAZA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Estetik",
+      "answer": "BEDİİ",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Sevgili kadın",
-      "answer": "CANAN",
+      "text": "Karmaşık",
+      "answer": "GİRİFT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bıkma, usanma",
-      "answer": "GINA",
+      "text": "Sorumlu kimse",
+      "answer": "VELİ",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İyi kesen",
-      "answer": "KESKİN",
+      "text": "Tekrar isteği",
+      "answer": "BİS",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Manzara yönü",
+      "answer": "BAKI",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yumurta biçimli",
-      "answer": "OVAL",
-      "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kahve satan",
-      "answer": "KAHVECİ",
+      "text": "Bahçeli ev",
+      "answer": "VİLLA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eşin babası",
+      "answer": "KAYNATA",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Erkek insan, kişi",
-      "answer": "ADAM",
+      "text": "Ağaç çekiç",
+      "answer": "TOKMAK",
       "row": 9,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Tek geçiş kapısı",
-      "answer": "TURNİKE",
+      "text": "El işi mesleği",
+      "answer": "ZANAAT",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ufak ada",
-      "answer": "ADACIK",
-      "row": 0,
+      "text": "Duvar yarığı",
+      "answer": "GEDİK",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Harap yapı",
-      "answer": "VİRANE",
+      "text": "Olanaklı, mümkün",
+      "answer": "KABİL",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tropik meyve",
-      "answer": "ANANAS",
+      "text": "Uzun, dar tahta",
+      "answer": "LATA",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İç taraf",
+      "answer": "İÇERİ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Darıdan içecek",
-      "answer": "BOZA",
+      "text": "Fransa'nın büyük kenti",
+      "answer": "LYON",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Altıdan sonraki sayı",
+      "answer": "YEDİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Arı yapısı",
-      "answer": "KOVAN",
+      "text": "Para kuruluşu",
+      "answer": "BANKA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Şair",
-      "answer": "OZAN",
+      "text": "Arap alfabesi",
+      "answer": "ELİFBA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Acele yapılan",
-      "answer": "İVEDİ",
-      "row": 5,
+      "text": "Gözleri görmeyen",
+      "answer": "AMA",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Odun baltası",
-      "answer": "NACAK",
-      "row": 5,
+      "text": "Kayıp",
+      "answer": "YİTİK",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Alaylı anlatım",
-      "answer": "İRONİ",
-      "row": 0,
-      "col": 7,
+      "text": "Lezzet",
+      "answer": "TAT",
+      "row": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Parça, dilim",
-      "answer": "LİME",
-      "row": 6,
+      "text": "Soğuk karşıtı",
+      "answer": "SICAK",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -148,45 +169,41 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
-      "col": 6
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
     },
     {
       "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 7,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 1
-    },
-    {
-      "row": 7,
-      "col": 2
+      "row": 3,
+      "col": 7
     },
     {
       "row": 9,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 2
+      "row": 10,
+      "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 116
+  "difficulty": "orta",
+  "order": 86
 }

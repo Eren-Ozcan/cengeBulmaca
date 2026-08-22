@@ -1,167 +1,160 @@
 {
   "id": "puzzle-51",
-  "title": "Bulmaca 65",
+  "title": "Bulmaca 134",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Modası geçmiş",
-      "answer": "DEMODE",
+      "text": "Satış belgesi",
+      "answer": "FATURA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hasılat",
-      "answer": "GELİR",
+      "text": "Koca, eş",
+      "answer": "BEY",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tartı aleti",
-      "answer": "TERAZİ",
+      "text": "Şişe tıkacı",
+      "answer": "TAPA",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tırnak bakımı",
-      "answer": "MANİKÜR",
+      "text": "Tenis oynayan",
+      "answer": "TENİSÇİ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İnmiş, sönmüş",
-      "answer": "İNİK",
+      "text": "İmrenme duygusu",
+      "answer": "GIPTA",
       "row": 5,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Üstün zekâlı",
-      "answer": "DAHİ",
+      "text": "Aydın ilçesi",
+      "answer": "SÖKE",
       "row": 6,
-      "col": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İkinci çoğul",
+      "answer": "SİZ",
+      "row": 6,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Saf, bön",
-      "answer": "AVANAK",
+      "text": "İran para birimi",
+      "answer": "RİAL",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ulusal",
+      "answer": "MİLLİ",
       "row": 8,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gazete yazısı",
-      "answer": "MAKALE",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Armağan",
-      "answer": "HEDİYE",
-      "row": 10,
+      "text": "Kuru peksimet",
+      "answer": "GALETA",
+      "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kimsesiz, boş",
-      "answer": "TEKİN",
+      "text": "İlk bilgi",
+      "answer": "ABECE",
       "row": 11,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalın karşıtı",
-      "answer": "İNCE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Hükümran",
-      "answer": "EGEMEN",
+      "text": "Bayındır, mamur",
+      "answer": "ABAT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Otlak",
-      "answer": "MERA",
+      "text": "Sarılmış tütün",
+      "answer": "SİGARA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yansıtma aygıtı",
+      "answer": "TEPEGÖZ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bir yerde oturma",
-      "answer": "İKAMET",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İmkân",
-      "answer": "OLANAK",
+      "text": "Uyumamış",
+      "answer": "UYANIK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ödeme süresi",
-      "answer": "VADE",
+      "text": "Palamut ağacı",
+      "answer": "MEŞE",
       "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sıra bütünü",
-      "answer": "DİZİ",
-      "row": 0,
+      "text": "Savaş gazı",
+      "answer": "İPERİT",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Zamanında olan",
-      "answer": "DAKİK",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ekşimsi yaz meyvesi",
-      "answer": "ERİK",
+      "text": "Gol pası",
+      "answer": "ASİST",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Endüstri",
-      "answer": "SANAYİ",
-      "row": 5,
+      "text": "Ekleme, ulama",
+      "answer": "İLAVE",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hâlihazırda",
-      "answer": "HALEN",
-      "row": 6,
+      "text": "Sofra aracı",
+      "answer": "ÇATAL",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yayımlama",
-      "answer": "NEŞR",
-      "row": 0,
+      "text": "Sıradan, kalitesiz",
+      "answer": "ADİ",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ayarlanmış maç",
-      "answer": "ŞİKE",
-      "row": 5,
+      "text": "Lifi olan",
+      "answer": "LİFLİ",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -169,7 +162,15 @@
   "blocks": [
     {
       "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
@@ -177,37 +178,45 @@
     },
     {
       "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 5,
       "col": 4
     },
     {
-      "row": 5,
+      "row": 2,
       "col": 6
     },
     {
-      "row": 7,
-      "col": 1
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
+      "row": 5,
       "col": 0
     },
     {
-      "row": 11,
+      "row": 5,
       "col": 7
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 2
+    },
+    {
+      "row": 10,
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 65
+  "difficulty": "zor",
+  "order": 134
 }

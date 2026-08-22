@@ -1,146 +1,160 @@
 {
   "id": "puzzle-137",
-  "title": "Bulmaca 46",
+  "title": "Bulmaca 33",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Ölü karşıtı",
-      "answer": "DİRİ",
+      "text": "Eşya bölümü",
+      "answer": "BAGAJ",
       "row": 0,
-      "col": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Telefon kulaklığı",
-      "answer": "AHİZE",
+      "text": "Ev üstü",
+      "answer": "DAM",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Faşizm yanlısı",
-      "answer": "FAŞİST",
+      "text": "Cilveli davranış",
+      "answer": "NAZ",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Renk dizisi",
+      "answer": "TAYF",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Verimli düzlük",
+      "answer": "OVA",
       "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İzlence",
+      "answer": "PROGRAM",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Özel söz",
+      "answer": "TERİM",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gecikme",
+      "answer": "RÖTAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Besleme, bakma",
+      "answer": "İAŞE",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce havlu",
+      "answer": "PEŞKİR",
+      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İki parça mayo",
-      "answer": "BİKİNİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Cennet kızı",
-      "answer": "HURİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Para oyunu",
-      "answer": "KUMAR",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Davranış, işlem",
-      "answer": "MUAMELE",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Veteriner",
-      "answer": "BAYTAR",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bedava, karşılıksız",
-      "answer": "CABA",
+      "text": "Prensip",
+      "answer": "İLKE",
       "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çam ormanı",
-      "answer": "ÇAMLIK",
+      "text": "Kalp düzensizliği",
+      "answer": "ARİTMİ",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Altın bilezik",
-      "answer": "BURMA",
-      "row": 3,
+      "text": "Uyarlayıcı parça",
+      "answer": "ADAPTÖR",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Mavi değerli taş",
-      "answer": "SAFİR",
+      "text": "Çaba",
+      "answer": "GAYRET",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ahenk",
-      "answer": "UYUM",
-      "row": 6,
-      "col": 2,
+      "text": "Sivri dipli testi",
+      "answer": "AMFORA",
+      "row": 0,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gerçek",
-      "answer": "HAKİKAT",
+      "text": "Teşebbüs",
+      "answer": "GİRİŞİM",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kural, ölçüt",
+      "answer": "NORM",
       "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yavru doğuran",
-      "answer": "DİŞİ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Korkutan hayal",
-      "answer": "UMACI",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Verilen özgürlük",
-      "answer": "İZİN",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Öğrenme isteği",
-      "answer": "MERAK",
-      "row": 5,
+      "text": "Akılla ilgili",
+      "answer": "AKLİ",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tek sanatçı dinletisi",
-      "answer": "RESİTAL",
+      "text": "Bakla ezmesi",
+      "answer": "FAVA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Gönenç",
-      "answer": "REFAH",
+      "text": "Kapı basamağı",
+      "answer": "EŞİK",
       "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapıştırıcı madde",
+      "answer": "ZAMK",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Amaç, hedef",
+      "answer": "EREK",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -148,55 +162,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 4
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
+      "row": 7,
       "col": 0
     },
     {
-      "row": 1,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 6,
-      "col": 0
+      "row": 7,
+      "col": 2
     },
     {
       "row": 8,
-      "col": 6
+      "col": 0
     },
     {
       "row": 9,
       "col": 1
+    },
+    {
+      "row": 9,
+      "col": 2
     },
     {
       "row": 10,
@@ -204,5 +198,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 46
+  "order": 33
 }

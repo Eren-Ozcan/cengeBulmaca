@@ -1,160 +1,188 @@
 {
   "id": "puzzle-45",
-  "title": "Bulmaca 92",
+  "title": "Bulmaca 104",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Dinî yorum kolu",
-      "answer": "MEZHEP",
+      "text": "Kahverengi benek",
+      "answer": "ÇİL",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ulaşmış, kavuşmuş",
-      "answer": "NAİL",
+      "text": "Kızıl at rengi",
+      "answer": "DORU",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hayvan semirten",
+      "answer": "BESİCİ",
       "row": 2,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Simit satan",
-      "answer": "SİMİTÇİ",
+      "text": "Saf, bön",
+      "answer": "AVANAK",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tanrı'ya ortak koşma",
-      "answer": "ŞİRK",
+      "text": "Eşlik etme",
+      "answer": "REFAKAT",
       "row": 4,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eski kalem",
-      "answer": "DİVİT",
+      "text": "Kot kumaşı",
+      "answer": "DENİM",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yapı tabanı",
-      "answer": "TEMEL",
+      "text": "Seyirci basamağı",
+      "answer": "TRİBÜN",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Baş, göğüs heykeli",
-      "answer": "BÜST",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sergileme camekânı",
-      "answer": "VİTRİN",
-      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Gevşeklik",
-      "answer": "REHAVET",
+      "text": "Bozulmamış, bayatlamamış",
+      "answer": "TAZE",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Adana ilçesi",
+      "answer": "FEKE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kötülük, fenalık",
+      "answer": "ŞER",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Çağdaş",
+      "answer": "MODERN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yeşillik karışımı",
-      "answer": "SALATA",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Uyum, düzen, armoni",
-      "answer": "AHENK",
-      "row": 10,
+      "text": "Havra",
+      "answer": "SİNAGOG",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Araştırma kurumu",
-      "answer": "ENSTİTÜ",
+      "text": "Vasıf",
+      "answer": "NİTELİK",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Anlatan söz",
+      "answer": "İBARE",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kuruntu",
-      "answer": "VESVESE",
-      "row": 4,
+      "text": "Biraz önce",
+      "answer": "DEMİN",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Osmanlı deniz askeri",
+      "answer": "LEVENT",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sınav",
-      "answer": "İMTİHAN",
-      "row": 4,
+      "text": "Daire tabanlı cisim",
+      "answer": "KONİ",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Mavi değerli taş",
+      "answer": "SAFİR",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kız kardeşin kocası",
-      "answer": "ENİŞTE",
+      "text": "İlgi kuran sözcük",
+      "answer": "EDAT",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Nitrogliserinli patlayıcı",
+      "answer": "DİNAMİT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Pudra minerali",
-      "answer": "TALK",
-      "row": 7,
+      "text": "Bir denizimiz",
+      "answer": "EGE",
+      "row": 8,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kedi, köpek ayağı",
-      "answer": "PATİ",
+      "text": "İlk ay",
+      "answer": "OCAK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İlk evre",
-      "answer": "LARVA",
+      "text": "En önemli rol",
+      "answer": "BAŞROL",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde içinde",
-      "answer": "İÇRE",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İstanbul'un otobüs idaresi",
-      "answer": "İETT",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kemik dokusu",
-      "answer": "İLİK",
+      "text": "Arap el yazısı",
+      "answer": "RİKA",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yönetim gaspı",
-      "answer": "CUNTA",
+      "text": "Eyer ayaklığı",
+      "answer": "ÜZENGİ",
       "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Toz mürekkep",
+      "answer": "TONER",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -162,41 +190,29 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 3
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 2
+      "col": 7
     },
     {
       "row": 6,
-      "col": 6
-    },
-    {
-      "row": 8,
       "col": 0
     },
     {
-      "row": 11,
-      "col": 5
+      "row": 9,
+      "col": 7
     },
     {
-      "row": 11,
+      "row": 10,
       "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 92
+  "order": 104
 }

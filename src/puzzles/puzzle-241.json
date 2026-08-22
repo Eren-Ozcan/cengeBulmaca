@@ -1,0 +1,225 @@
+{
+  "id": "puzzle-241",
+  "title": "Bulmaca 121",
+  "rows": 12,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Kolsuz üst giysi",
+      "answer": "JİLE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sindirim organı",
+      "answer": "MİDE",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Osmanlı göstergesi",
+      "answer": "TUĞ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Abide",
+      "answer": "ANIT",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sıkıntı, üzüntü",
+      "answer": "DERT",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yemek uzmanı",
+      "answer": "GURME",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Uyarı notu",
+      "answer": "ANDIÇ",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Maharet",
+      "answer": "BECERİ",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Şüphesiz olan",
+      "answer": "KESİN",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Şehir",
+      "answer": "KENT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Resim kenarlığı",
+      "answer": "ÇERÇEVE",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Beyaz eşya markası",
+      "answer": "BEKO",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kuvvet, kudret",
+      "answer": "GÜÇ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Yönlendirici belirti",
+      "answer": "İPUCU",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dövülmüş yün",
+      "answer": "KEÇE",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ufak leke",
+      "answer": "BENEK",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Orkestra şefi",
+      "answer": "MAESTRO",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Maden işçisi",
+      "answer": "MADENCİ",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Göğüs, bağır, yürek",
+      "answer": "SİNE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Muvazene",
+      "answer": "DENGE",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bezdirici söylenme",
+      "answer": "DIRDIR",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İstanbul'un otobüs idaresi",
+      "answer": "İETT",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Pis su",
+      "answer": "ÇİRKEF",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 4,
+      "col": 2
+    },
+    {
+      "row": 6,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 4
+    },
+    {
+      "row": 11,
+      "col": 5
+    },
+    {
+      "row": 11,
+      "col": 6
+    }
+  ],
+  "difficulty": "zor",
+  "order": 121
+}

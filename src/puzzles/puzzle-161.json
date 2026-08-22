@@ -1,141 +1,158 @@
 {
   "id": "puzzle-161",
-  "title": "Bulmaca 124",
+  "title": "Bulmaca 74",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Muasır",
-      "answer": "ÇAĞDAŞ",
+      "text": "Güzel, sevimli",
+      "answer": "HOŞ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gündoğusu yeli",
-      "answer": "SABA",
-      "row": 2,
+      "text": "Burun duyumu",
+      "answer": "KOKU",
+      "row": 1,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Omuzdan kesim",
-      "answer": "REGLAN",
+      "text": "Açılış töreni",
+      "answer": "GALA",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Eğitim yardımı",
+      "answer": "BURS",
       "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Mühür",
+      "answer": "DAMGA",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Alçak basınç fırtınası",
+      "answer": "SİKLON",
+      "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Marmara'da tatil adası",
-      "answer": "AVŞA",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Eli işe yatkın",
-      "answer": "HAMARAT",
-      "row": 4,
+      "text": "Yaradaki cerahat",
+      "answer": "İRİN",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Onarım işleri",
-      "answer": "TAMİRAT",
-      "row": 6,
+      "text": "Artı kutup",
+      "answer": "ANOT",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Haykırma, bağırma",
-      "answer": "NARA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sistem bütünü",
-      "answer": "DİZGE",
+      "text": "Gülmece",
+      "answer": "MİZAH",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Borç senedi",
-      "answer": "BONO",
-      "row": 8,
+      "text": "Deneme çalışması",
+      "answer": "PROVA",
+      "row": 9,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Buluşma sözü",
-      "answer": "RANDEVU",
+      "text": "Sayı işareti",
+      "answer": "RAKAM",
       "row": 10,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Boğa güreşçisi",
-      "answer": "MATADOR",
-      "row": 3,
+      "text": "Gözlem konusu",
+      "answer": "OLGU",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yat limanı",
-      "answer": "MARİNA",
+      "text": "Eğimli bölüm",
+      "answer": "RAMPA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Uyarı teli",
+      "answer": "SİNİR",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Savaşçı kadın",
-      "answer": "AMAZON",
-      "row": 4,
+      "text": "Dev fosil sürüngen",
+      "answer": "DİNOZOR",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "En az",
-      "answer": "ASGARİ",
+      "text": "Sürüngen sebze",
+      "answer": "KABAK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bol ağlı pantolon",
-      "answer": "ŞALVAR",
+      "text": "Kızartma kabı",
+      "answer": "TAVA",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Müspet",
+      "answer": "OLUMLU",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İlk olarak",
-      "answer": "BAŞTA",
-      "row": 1,
+      "text": "Adalet, hukuk",
+      "answer": "HAK",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Taşınan yük",
+      "answer": "KARGO",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İnek yavrusu",
-      "answer": "DANA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Toza bulanmış",
-      "answer": "TOZLU",
-      "row": 5,
+      "text": "Tokmaklı telli çalgı",
+      "answer": "SANTUR",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 1
-    },
     {
       "row": 0,
       "col": 2
@@ -146,31 +163,27 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 2,
       "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 2
     },
     {
       "row": 3,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 4
+      "row": 3,
+      "col": 2
     },
     {
-      "row": 7,
-      "col": 5
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
     },
     {
       "row": 7,
@@ -182,17 +195,17 @@
     },
     {
       "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
       "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 124
+  "difficulty": "orta",
+  "order": 74
 }

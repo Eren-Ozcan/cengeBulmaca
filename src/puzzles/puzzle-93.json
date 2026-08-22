@@ -1,152 +1,145 @@
 {
   "id": "puzzle-93",
-  "title": "Bulmaca 106",
+  "title": "Bulmaca 83",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Havasız ortam",
-      "answer": "VAKUM",
-      "row": 0,
+      "text": "Sinirli, öfkeli",
+      "answer": "ASABİ",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bacaksız sürüngen",
+      "answer": "YILAN",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Açıkça söyleme",
+      "answer": "İKRAR",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mücevherci",
-      "answer": "KUYUMCU",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Macar yemeği",
-      "answer": "GULAŞ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Cevizli sarımsaklı sos",
-      "answer": "TARATOR",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kısrak sütü",
-      "answer": "KIMIZ",
+      "text": "İşleme aracı",
+      "answer": "ÇAPA",
       "row": 5,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yaka iğnesi",
-      "answer": "BROŞ",
+      "text": "Bina bölümü",
+      "answer": "KAT",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İnek yavrusu",
+      "answer": "DANA",
       "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Emziren kadın",
-      "answer": "SÜTANNE",
+      "text": "Bereketli, kutsal",
+      "answer": "MÜBAREK",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Evlilik dışı ilişki",
-      "answer": "ZİNA",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Rahatsız böcek",
-      "answer": "SİNEK",
-      "row": 9,
+      "text": "Hükümdar oğlu",
+      "answer": "PRENS",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Boyun örtüsü",
-      "answer": "ATKI",
-      "row": 9,
+      "text": "Aşırı korku",
+      "answer": "FOBİ",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ani ve şiddetli",
-      "answer": "AKUT",
-      "row": 0,
+      "text": "Kuşak",
+      "answer": "NESİL",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dişli futbol ayakkabısı",
+      "answer": "KRAMPON",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gol pası",
-      "answer": "ASİST",
-      "row": 6,
-      "col": 0,
-      "arrow": "right-down"
-    },
-    {
-      "text": "İşitme organı",
-      "answer": "KULAK",
-      "row": 0,
+      "text": "Mezar yapısı",
+      "answer": "TÜRBE",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tek, eşsiz",
-      "answer": "ÜNİK",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İkaz",
-      "answer": "UYARI",
+      "text": "Kaya kütlesi",
+      "answer": "KAYAÇ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Teşhis",
-      "answer": "TANI",
+      "text": "Sakınca, zarar",
+      "answer": "BEİS",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Su geçirmez örtü",
-      "answer": "MUŞAMBA",
-      "row": 0,
+      "text": "Özelliksiz",
+      "answer": "SIRADAN",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Parmak ucu",
-      "answer": "TIRNAK",
-      "row": 3,
+      "text": "Arı ürünü",
+      "answer": "BAL",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Koruyucu gaz",
-      "answer": "OZON",
-      "row": 3,
+      "text": "Sınırlanmış arazi",
+      "answer": "PARSEL",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Uydurma sebep",
+      "answer": "BAHANE",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bilinç",
-      "answer": "ŞUUR",
+      "text": "On yüz",
+      "answer": "BİN",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ülkü uğruna ölen",
-      "answer": "ŞEHİT",
+      "text": "Su birikintisi",
+      "answer": "AKMAZ",
       "row": 5,
       "col": 7,
       "arrow": "down"
@@ -155,7 +148,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
     },
     {
       "row": 0,
@@ -163,19 +168,27 @@
     },
     {
       "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 5,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 1,
+      "col": 1
+    },
+    {
+      "row": 1,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 4,
+      "col": 7
     },
     {
       "row": 8,
@@ -183,21 +196,17 @@
     },
     {
       "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
       "col": 4
     },
     {
-      "row": 10,
-      "col": 5
+      "row": 9,
+      "col": 6
     },
     {
       "row": 10,
       "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 106
+  "difficulty": "orta",
+  "order": 83
 }

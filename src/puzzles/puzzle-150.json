@@ -1,139 +1,167 @@
 {
   "id": "puzzle-150",
-  "title": "Bulmaca 129",
+  "title": "Bulmaca 145",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Akdeniz sıcak rüzgârı",
-      "answer": "SİROKO",
+      "text": "Kitap bölümü",
+      "answer": "BAP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tüy karışımı",
-      "answer": "AĞDA",
+      "text": "Saf içki",
+      "answer": "SEK",
+      "row": 1,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gemi onarımı",
+      "answer": "KALAFAT",
       "row": 2,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yiğitlik, mertlik",
-      "answer": "ERLİK",
+      "text": "Yeşil ot örtüsü",
+      "answer": "ÇİM",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zehir",
+      "answer": "ZEHR",
       "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Batı Afrika ülkesi",
-      "answer": "GANA",
-      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Özel eğitimli asker",
-      "answer": "KOMANDO",
+      "text": "Gemi erzağı",
+      "answer": "KUMANYA",
       "row": 4,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Fikir",
-      "answer": "GÖRÜŞ",
-      "row": 5,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Ölü beden",
-      "answer": "KADAVRA",
+      "text": "Bebek sargısı",
+      "answer": "KUNDAK",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Rıza, izin",
+      "answer": "ONAM",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Anlama yetisi",
-      "answer": "ZEKA",
+      "text": "Onurluk",
+      "answer": "PLAKET",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dargınlık tohumu",
-      "answer": "NİFAK",
+      "text": "Zorba buyruk",
+      "answer": "DİKTA",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Troid hastalığı",
-      "answer": "GUATR",
-      "row": 11,
+      "text": "Gemide oda",
+      "answer": "KAMARA",
+      "row": 9,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Asma kütüğü",
+      "answer": "OMCA",
+      "row": 11,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çıkış noktası",
-      "answer": "KÖKEN",
-      "row": 4,
+      "text": "Yarı değerli taş",
+      "answer": "AKİK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İstemeyerek",
-      "answer": "ZORAKİ",
-      "row": 3,
+      "text": "Yol arkadaşı",
+      "answer": "YOLDAŞ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Beyaz koza",
+      "answer": "PAMUK",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Savunma",
-      "answer": "MÜDAFAA",
-      "row": 4,
+      "text": "Bolluk, rahatlık",
+      "answer": "NAİM",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Patlıcanlı fırın yemeği",
+      "answer": "MUSAKKA",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Anarşi",
-      "answer": "KARGAŞA",
+      "text": "Tatlı su balığı",
+      "answer": "SAZAN",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Erkek çocuk",
-      "answer": "OĞLAN",
+      "text": "Yer altı treni",
+      "answer": "METRO",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Nazik kimse",
+      "answer": "EFENDİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ağırbaşlılık",
-      "answer": "VAKAR",
-      "row": 6,
+      "text": "Yemek",
+      "answer": "TAAM",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İnancı güçlü",
-      "answer": "DİNDAR",
-      "row": 1,
+      "text": "Konak yöneticisi",
+      "answer": "KAHYA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çikolata maddesi",
-      "answer": "KAKAO",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Başkaları, yabancılar, eller",
-      "answer": "AĞYAR",
-      "row": 6,
+      "text": "Çift süren taşıt",
+      "answer": "TRAKTÖR",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -141,47 +169,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 3
     },
     {
       "row": 0,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
       "col": 6
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 1
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 4
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
@@ -192,30 +196,26 @@
       "col": 6
     },
     {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
-    },
-    {
-      "row": 10,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 4
+      "row": 9,
+      "col": 7
     },
     {
       "row": 10,
       "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
     },
     {
       "row": 11,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 2
     }
   ],
   "difficulty": "zor",
-  "order": 129
+  "order": 145
 }

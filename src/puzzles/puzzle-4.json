@@ -1,132 +1,132 @@
 {
   "id": "puzzle-4",
-  "title": "Bulmaca 15",
+  "title": "Bulmaca 61",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Güldürücü, gülünç",
-      "answer": "KOMİK",
+      "text": "Yaşlı bilge",
+      "answer": "AKSAKAL",
       "row": 0,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hızlı yol",
-      "answer": "OTOYOL",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sırt kemiği",
-      "answer": "OMURGA",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Geçiş yolu",
-      "answer": "TRANSİT",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kareli kumaş",
-      "answer": "EKOSE",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Tutsaklık",
-      "answer": "ESARET",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeryüzü toprağı",
-      "answer": "ARAZİ",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Terslik",
-      "answer": "AKSİLİK",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dönme kuvveti",
-      "answer": "TORK",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bilinç kaybı",
-      "answer": "KOMA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Temel öz",
-      "answer": "ESAS",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Eğlence etkinliği",
-      "answer": "OYUN",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kur'an okuyucusu",
-      "answer": "KARİ",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Denizaygırı",
-      "answer": "MORS",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağız yoluyla",
-      "answer": "ORAL",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Alaka",
-      "answer": "İLGİ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sezgi",
-      "answer": "SEZİ",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Biçimli vücutlu",
-      "answer": "ATLETİK",
+      "text": "Konuşma vurgusu",
+      "answer": "AKSAN",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mutluluk",
+      "answer": "SAADET",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yanak boyası",
+      "answer": "ALLIK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalın yün kumaş",
+      "answer": "ABA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Genişleyen etek",
+      "answer": "KLOŞ",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Mesaj",
+      "answer": "İLETİ",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sarmal girinti",
+      "answer": "YİV",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gizli cana kıyma",
+      "answer": "SUİKAST",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Köyden büyük yer",
+      "answer": "KASABA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gösterge çizelgesi",
+      "answer": "SKALA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Esas, temel",
+      "answer": "ASAL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hizip",
+      "answer": "KLİK",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Osmanlı yargıcı",
+      "answer": "KADI",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bulgar parası",
+      "answer": "LEVA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kısa fıkra",
+      "answer": "ANEKDOT",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Armağan levhası",
+      "answer": "ŞİLT",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -134,25 +134,29 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
     },
     {
       "row": 6,
       "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 5
     }
   ],
-  "difficulty": "kolay",
-  "order": 15
+  "difficulty": "orta",
+  "order": 61
 }

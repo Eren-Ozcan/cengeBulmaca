@@ -1,124 +1,131 @@
 {
   "id": "puzzle-113",
-  "title": "Bulmaca 71",
+  "title": "Bulmaca 24",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Güç, derman",
-      "answer": "TAKAT",
+      "text": "Titreyen",
+      "answer": "TİTREK",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hapishane",
+      "answer": "CEZAEVİ",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Japon güreşi",
-      "answer": "JUDO",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Açılmış yer",
-      "answer": "YARIK",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sıra sayısı",
-      "answer": "NUMARA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Atletizm sporcusu",
-      "answer": "ATLET",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ses uygunluğu",
-      "answer": "RİTİM",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Su boşaltma",
-      "answer": "SİFON",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Otlatma yeri",
-      "answer": "OTLAK",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Notluk defter",
-      "answer": "AJANDA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaş karşıtı",
-      "answer": "KURU",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Üçlü topluluk",
-      "answer": "TRİO",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yürüme hareketi",
-      "answer": "ADIM",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaldırma makinesi",
-      "answer": "LİFT",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Saç aracı",
-      "answer": "TOKA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Omuz atkısı",
-      "answer": "ETOL",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağ tabaka",
-      "answer": "RETİNA",
+      "text": "Tohum ekme makinesi",
+      "answer": "MİBZER",
       "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Konser",
+      "answer": "DİNLETİ",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Görüntü alıcısı",
+      "answer": "KAMERA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Peynirli hamur işi",
+      "answer": "POĞAÇA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şaka",
+      "answer": "LATİFE",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kirli olmayan",
+      "answer": "TEMİZ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Omuzdan ele uzanan",
+      "answer": "KOL",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Verilen özgürlük",
+      "answer": "İZİN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaplumbağa kabuğu",
+      "answer": "BAĞA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Satıcı tepsisi",
+      "answer": "TABLA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Satrançta yenilgi",
+      "answer": "MAT",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Menteşe",
+      "answer": "REZE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İnatçı hayvan",
+      "answer": "KEÇİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Olumlu yanıt",
+      "answer": "EVET",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Efsanevi kuş",
-      "answer": "ANKA",
+      "text": "Eşya konan yer",
+      "answer": "RAF",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yatay eleman",
+      "answer": "KİRİŞ",
       "row": 0,
       "col": 6,
       "arrow": "down"
@@ -127,15 +134,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 5
+      "col": 0
     },
     {
       "row": 5,
@@ -143,25 +142,21 @@
     },
     {
       "row": 5,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 0
     },
     {
       "row": 6,
       "col": 6
     },
     {
-      "row": 7,
-      "col": 0
-    },
-    {
       "row": 8,
       "col": 6
-    },
-    {
-      "row": 9,
-      "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 71
+  "difficulty": "kolay",
+  "order": 24
 }

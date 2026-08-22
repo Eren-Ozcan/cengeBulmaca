@@ -1,132 +1,125 @@
 {
   "id": "puzzle-81",
-  "title": "Bulmaca 19",
+  "title": "Bulmaca 28",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Sarıklı başlık",
-      "answer": "KAVUK",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Süslü başlık",
+      "answer": "HOTOZ",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Harflerle anlatım",
-      "answer": "YAZI",
+      "text": "Oda üstü",
+      "answer": "TAVAN",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Menfaatçi",
-      "answer": "ÇIKARCI",
+      "text": "Sürekli",
+      "answer": "DEVAMLI",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Duvar süsleyicisi",
-      "answer": "NAKKAŞ",
+      "text": "Hırdavatçı",
+      "answer": "NALBUR",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çok konuşan",
-      "answer": "GEVEZE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Süslü sanat üslubu",
-      "answer": "ROKOKO",
-      "row": 7,
+      "text": "Kimyada reaktif",
+      "answer": "AYIRAÇ",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cankurtaran sandalı",
-      "answer": "FİLİKA",
+      "text": "Yukarı karşıtı",
+      "answer": "AŞAĞI",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Eş, zevce",
+      "answer": "KARI",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gemi kıyısı",
-      "answer": "LİMAN",
+      "text": "Kısa süren",
+      "answer": "ANLIK",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Arap alfabesinde harf",
-      "answer": "AYIN",
-      "row": 0,
+      "text": "Kalabalıksız, ıssız",
+      "answer": "TENHA",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Erkek cins",
-      "answer": "ERİL",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Olay, durum",
-      "answer": "VAKA",
+      "text": "Gaz karışımı",
+      "answer": "HAVA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ağ atma",
-      "answer": "VOLİ",
+      "text": "Dokudaki bozulma, bere",
+      "answer": "YARA",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yakın karşıtı",
-      "answer": "UZAK",
+      "text": "Yumurta biçimli",
+      "answer": "OVAL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Onuncu ay",
-      "answer": "EKİM",
+      "text": "Işık çizgisi",
+      "answer": "IŞIN",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "39'dan sonraki sayı",
-      "answer": "KIRK",
+      "text": "Halk müziği çalgısı",
+      "answer": "TAMBURA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Balık yemi",
-      "answer": "ZOKA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Camlı bölme",
-      "answer": "CAMEKAN",
-      "row": 2,
+      "text": "On tanesi",
+      "answer": "ONLU",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Nabız vuruşu",
-      "answer": "ATIŞ",
-      "row": 0,
+      "text": "Vücuttaki sızı",
+      "answer": "AĞRI",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Irkçılık yanlısı",
+      "answer": "IRKÇI",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -134,19 +127,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 1,
-      "col": 5
+      "col": 0
     },
     {
       "row": 5,
-      "col": 6
+      "col": 0
     },
     {
-      "row": 6,
-      "col": 6
+      "row": 8,
+      "col": 4
     },
     {
       "row": 8,
@@ -154,9 +155,9 @@
     },
     {
       "row": 9,
-      "col": 6
+      "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 19
+  "order": 28
 }

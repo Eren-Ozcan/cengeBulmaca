@@ -1,153 +1,153 @@
 {
   "id": "puzzle-146",
-  "title": "Bulmaca 28",
+  "title": "Bulmaca 131",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Uzun boyunlu hayvan",
-      "answer": "ZÜRAFA",
+      "text": "Yağışsız, susuz",
+      "answer": "KURAK",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Erkek koyun",
+      "answer": "KOÇ",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kazıma süslemesi",
-      "answer": "OYMA",
+      "text": "Deriye konan ilaç",
+      "answer": "YAKI",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kerestelik ağaç",
-      "answer": "GÜRGEN",
+      "text": "Egzama",
+      "answer": "MAYASIL",
       "row": 3,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gövdenin arka yüzü",
-      "answer": "SIRT",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Pazarda satan",
-      "answer": "PAZARCI",
-      "row": 4,
-      "col": 1,
+      "text": "Azıcık",
+      "answer": "BİRAZ",
+      "row": 3,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İbadet yeri",
-      "answer": "CAMİ",
+      "text": "Sıtmaya tutulmuş",
+      "answer": "SITMALI",
       "row": 5,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Orkestra eseri",
-      "answer": "SENFONİ",
-      "row": 7,
-      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İpek şerit",
-      "answer": "KORDON",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kısa süren",
-      "answer": "ANLIK",
-      "row": 9,
+      "text": "Yazgı",
+      "answer": "KADER",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Teselli",
-      "answer": "AVUNTU",
-      "row": 9,
+      "text": "Toplama işareti",
+      "answer": "ARTI",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zorla el koyma",
-      "answer": "ZAPT",
-      "row": 0,
+      "text": "Köşeye çekilme",
+      "answer": "İNZİVA",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Çıkarsız, samimi",
+      "answer": "İÇTEN",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ekin sapı",
+      "answer": "ANIZ",
+      "row": 6,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Ulaşım belgesi",
-      "answer": "PASO",
-      "row": 4,
+      "text": "Polis amiri",
+      "answer": "KOMİSER",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dil bilgisi",
-      "answer": "GRAMER",
-      "row": 2,
+      "text": "Haşarı, yaramaz",
+      "answer": "UÇARI",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Karanlık hapis",
-      "answer": "ZİNDAN",
-      "row": 4,
+      "text": "Kar fırtınası",
+      "answer": "TİPİ",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeteneği olan",
+      "answer": "YATKIN",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kürek tutsağı",
-      "answer": "FORSA",
+      "text": "Kutsal pınar",
+      "answer": "AYAZMA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yazı karakteri",
-      "answer": "FONT",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Damızlık at",
-      "answer": "AYGIR",
+      "text": "Hareket dokusu",
+      "answer": "KAS",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "On tanesi",
-      "answer": "ONLU",
-      "row": 6,
+      "text": "Mahkeme binası",
+      "answer": "ADLİYE",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kırmızı deniz canlısı",
-      "answer": "MERCAN",
+      "text": "Dönülen yön",
+      "answer": "KIBLE",
       "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kıymalı hamur",
-      "answer": "MANTI",
+      "text": "On iki ay",
+      "answer": "YIL",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Prensip",
-      "answer": "İLKE",
-      "row": 6,
+      "text": "Rençper",
+      "answer": "IRGAT",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -155,11 +155,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
@@ -170,11 +166,11 @@
       "col": 6
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 7,
+      "col": 4
     },
     {
-      "row": 8,
+      "row": 7,
       "col": 6
     },
     {
@@ -182,10 +178,22 @@
       "col": 1
     },
     {
-      "row": 10,
+      "row": 9,
+      "col": 3
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
       "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 28
+  "difficulty": "zor",
+  "order": 131
 }

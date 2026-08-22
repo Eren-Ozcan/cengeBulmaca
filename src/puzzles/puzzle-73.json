@@ -1,146 +1,153 @@
 {
   "id": "puzzle-73",
-  "title": "Bulmaca 102",
+  "title": "Bulmaca 68",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Peygamber sözü",
-      "answer": "HADİS",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "İlave, ek",
+      "answer": "DAHA",
+      "row": 1,
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Gizli sapma",
-      "answer": "KAÇAMAK",
+      "text": "Müzik",
+      "answer": "MUSİKİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çiçek düzenleme",
-      "answer": "İKEBANA",
-      "row": 3,
+      "text": "Süs oyuğu",
+      "answer": "NİŞ",
+      "row": 2,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Soyluluk unvanı",
+      "answer": "KONT",
+      "row": 3,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Eylemci savunucu",
-      "answer": "MİLİTAN",
+      "text": "Tuzlanmış torik",
+      "answer": "LAKERDA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gülünç duruma düşen",
-      "answer": "MASKARA",
+      "text": "Okul büfesi",
+      "answer": "KANTİN",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kıvırcık köpek",
+      "answer": "KANİŞ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Araba süren",
+      "answer": "ARABACI",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Küçük, sevimli",
+      "answer": "MİNİK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eziyet çektiren",
+      "answer": "CEFAKAR",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sebep olan güç",
+      "answer": "AMİL",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yerine koyma",
+      "answer": "İKAME",
       "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "right-down"
     },
     {
-      "text": "Seke yürüyen",
-      "answer": "TOPAL",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Baş-boyun örtüsü",
-      "answer": "EŞARP",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Açık oda",
-      "answer": "EYVAN",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İlk Osmanlı başkenti",
-      "answer": "BURSA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sonuçsuz kalan",
-      "answer": "AKİM",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yasal, uygun",
-      "answer": "MEŞRU",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Altmış saniye",
-      "answer": "DAKİKA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Mersin'in eski adı",
-      "answer": "İÇEL",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ruhsal gerilim",
-      "answer": "STRES",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük çocuk",
-      "answer": "SABİ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Aynısı, taklit",
-      "answer": "KOPYA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Delik açma aracı",
-      "answer": "MATKAP",
+      "text": "Erkek hizmetçi",
+      "answer": "UŞAK",
       "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Anlayışlı, sezgili",
+      "answer": "ARİF",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eşin annesi",
+      "answer": "KAYNANA",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sivri çıkıntı",
+      "answer": "DİKEN",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Horoz tacı",
+      "answer": "İBİK",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses ayarı",
+      "answer": "AKORT",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "'Sen'in yönelme hâli",
-      "answer": "SANA",
+      "text": "Latife",
+      "answer": "ŞAKA",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyük kümes hayvanı",
+      "answer": "HİNDİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yer bulucu",
-      "answer": "RADAR",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tel yumağı",
-      "answer": "KANGAL",
-      "row": 1,
+      "text": "Bildik",
+      "answer": "TANIDIK",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -148,27 +155,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
     },
     {
       "row": 0,
       "col": 7
     },
     {
+      "row": 1,
+      "col": 0
+    },
+    {
       "row": 5,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 6,
+      "col": 6
     },
     {
-      "row": 8,
-      "col": 7
+      "row": 7,
+      "col": 6
     },
     {
-      "row": 10,
-      "col": 5
+      "row": 9,
+      "col": 6
     },
     {
       "row": 10,
@@ -176,5 +195,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 102
+  "order": 68
 }

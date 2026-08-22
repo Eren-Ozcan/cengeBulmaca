@@ -1,0 +1,200 @@
+{
+  "id": "puzzle-213",
+  "title": "Bulmaca 146",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Kapladığı boşluk",
+      "answer": "HACİM",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ayin dansı",
+      "answer": "SEMAH",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ara bozan",
+      "answer": "FİTNECİ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bulunmaz",
+      "answer": "EŞSİZ",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Söz",
+      "answer": "KELAM",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Boyun kürkü",
+      "answer": "BOA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Para türü",
+      "answer": "NAKİT",
+      "row": 6,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yakın çevre",
+      "answer": "CİVAR",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Söyleme yeteneği",
+      "answer": "NATIKA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tavuğun erkeği",
+      "answer": "HOROZ",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Taşlı masa oyunu",
+      "answer": "DOMİNO",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yok karşıtı",
+      "answer": "VAR",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İçten arzu",
+      "answer": "İSTEK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Batı savunma ittifakı",
+      "answer": "NATO",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çıkış yeri",
+      "answer": "MENŞE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sonradan ortaya çıkan",
+      "answer": "ARIZ",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İş, zanaat",
+      "answer": "MESLEK",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Üzücü olay",
+      "answer": "FACİA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Açıklama, izahat",
+      "answer": "İZAH",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Görme, yapma işi",
+      "answer": "HİZMET",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 7
+    }
+  ],
+  "difficulty": "zor",
+  "order": 146
+}

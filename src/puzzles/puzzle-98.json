@@ -1,146 +1,160 @@
 {
   "id": "puzzle-98",
-  "title": "Bulmaca 34",
+  "title": "Bulmaca 62",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Gelin çeyiz parası",
-      "answer": "DRAHOMA",
+      "text": "Harap yapı",
+      "answer": "VİRANE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sürüngen sebze",
-      "answer": "KABAK",
+      "text": "Ücretli otomobil",
+      "answer": "TAKSİ",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Mukavemet",
-      "answer": "DİRENÇ",
+      "text": "Yönerge",
+      "answer": "TALİMAT",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tat",
-      "answer": "LEZZET",
+      "text": "Tez canlı",
+      "answer": "ACELECİ",
       "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İnce, uzun tahta",
-      "answer": "ÇITA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Taht mirasçısı",
-      "answer": "VELİAHT",
-      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yazı aracı",
-      "answer": "KALEM",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ney çalan",
-      "answer": "NEYZEN",
-      "row": 9,
+      "text": "Geri çevirme",
+      "answer": "RET",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Evre, aşama",
-      "answer": "SAFHA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Küçük boru",
-      "answer": "ZIVANA",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Akıllı, bilge",
-      "answer": "AKİL",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvan ölümü",
-      "answer": "TELEF",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dalgalı çizgi",
-      "answer": "HARE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Leh karşıtı",
-      "answer": "ALEYH",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Aşırı şişman",
-      "answer": "OBEZ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "El yazısı",
-      "answer": "İMZA",
+      "text": "Tütsülenmiş besin",
+      "answer": "FÜME",
       "row": 6,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Araç bırakma yeri",
+      "answer": "OTOPARK",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaz meyvesi",
+      "answer": "KARPUZ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Zehirli element",
+      "answer": "ARSENİK",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Oruç açma",
+      "answer": "İFTAR",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Saç aracı",
+      "answer": "TOKA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İranlı",
+      "answer": "ACEM",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Azerbaycan'ın telli çalgısı",
+      "answer": "TAR",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Atletizm sporcusu",
+      "answer": "ATLET",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Nüfuz, itibar",
+      "answer": "FORS",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ulaşmış, kavuşmuş",
+      "answer": "NAİL",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Görünüm",
-      "answer": "MANZARA",
+      "text": "Yapmacık davranışlı",
+      "answer": "ZÜPPE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Temel besin",
+      "answer": "EKMEK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Osmanlı parası",
-      "answer": "AKÇE",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ev, aile",
-      "answer": "HANE",
+      "text": "Değerli kızıl ağaç",
+      "answer": "MAUN",
       "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Metal levha",
+      "answer": "SAC",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ölçülü davranış",
-      "answer": "TAKT",
-      "row": 3,
+      "text": "Giysi ustası",
+      "answer": "TERZİ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bitkin, tükenmiş",
+      "answer": "BİTİK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -148,57 +162,37 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 4
-    },
-    {
-      "row": 5,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 2,
+      "col": 0
     },
     {
-      "row": 8,
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 7,
       "col": 7
     },
     {
       "row": 9,
       "col": 7
-    },
-    {
-      "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 34
+  "difficulty": "orta",
+  "order": 62
 }

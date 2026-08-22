@@ -1,160 +1,153 @@
 {
   "id": "puzzle-108",
-  "title": "Bulmaca 17",
+  "title": "Bulmaca 10",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Düzensizlik, karışıklık",
-      "answer": "KAOS",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
+      "text": "Para torbası",
+      "answer": "KESE",
+      "row": 1,
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Haşlanan hamur",
-      "answer": "MAKARNA",
+      "text": "Nabız vuruşu",
+      "answer": "ATIŞ",
       "row": 2,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Menfi",
-      "answer": "OLUMSUZ",
+      "text": "Sıvı verme",
+      "answer": "ZERK",
       "row": 3,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Pürüz giderici",
-      "answer": "ZIMPARA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
+      "text": "Laf",
+      "answer": "LAKIRTI",
+      "row": 3,
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Yumruk sporu",
-      "answer": "BOKS",
+      "text": "Siyah",
+      "answer": "KARA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tek hücreli canlı",
-      "answer": "AMİP",
+      "text": "Başlangıç",
+      "answer": "MİLAT",
       "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyük acı, ıstırap",
+      "answer": "AZAP",
+      "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İzdivaç",
-      "answer": "EVLİLİK",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Deniz giysisi",
-      "answer": "MAYO",
+      "text": "Bilgi toplantısı",
+      "answer": "SEMİNER",
       "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ele giyilen giysi",
-      "answer": "ELDİVEN",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kesik",
-      "answer": "KESİ",
-      "row": 10,
-      "col": 3,
+      "text": "Yol yiyeceği",
+      "answer": "AZIK",
+      "row": 9,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Anıt mezar",
-      "answer": "MOZOLE",
-      "row": 1,
+      "text": "Çatı örtüsü",
+      "answer": "KİREMİT",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tren istasyonu",
+      "answer": "GAR",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Mikroskop parçası",
+      "answer": "LAM",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şaşkın, ahmak",
-      "answer": "ALIK",
-      "row": 1,
+      "text": "Tek parça giysi",
+      "answer": "ENTARİ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Havada vurma",
-      "answer": "VOLE",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kumlu kıyı",
-      "answer": "KUMSAL",
-      "row": 1,
+      "text": "Mürekkep balığı",
+      "answer": "KALAMAR",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çadır yeri",
-      "answer": "KAMP",
+      "text": "Hafriyat",
+      "answer": "KAZI",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yüz anlatımı",
-      "answer": "MİMİK",
+      "text": "Kutsal kadın",
+      "answer": "AZİZE",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yapı arazisi",
-      "answer": "ARSA",
+      "text": "Uçucu sıvı",
+      "answer": "ETER",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ekleme, ulama",
-      "answer": "İLAVE",
+      "text": "Kavram açıklaması",
+      "answer": "TANIM",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Şeref, haysiyet",
-      "answer": "ONUR",
+      "text": "Gövdenin arka yüzü",
+      "answer": "SIRT",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tiyatro oyunu",
-      "answer": "PİYES",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tatlı su balığı",
-      "answer": "SAZAN",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Daire tabanlı cisim",
-      "answer": "KONİ",
+      "text": "Tamam, olur",
+      "answer": "PEKİ",
       "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yol kesen haydut",
+      "answer": "EŞKIYA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -162,15 +155,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
     },
     {
       "row": 0,
@@ -178,29 +163,41 @@
     },
     {
       "row": 1,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
       "col": 1
     },
     {
-      "row": 10,
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 0
     },
     {
-      "row": 10,
+      "row": 7,
       "col": 1
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 17
+  "order": 10
 }

@@ -1,174 +1,160 @@
 {
   "id": "puzzle-84",
-  "title": "Bulmaca 69",
+  "title": "Bulmaca 138",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Kadın unvanı",
-      "answer": "BAYAN",
+      "text": "Beyazımsı",
+      "answer": "AKÇA",
       "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dolma kalem",
+      "answer": "STİLO",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bar görevlisi",
+      "answer": "BARMEN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gezgin derviş",
+      "answer": "ABDAL",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kırsal yerleşim",
+      "answer": "KÖY",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dileme, yalvarma",
+      "answer": "RİCA",
+      "row": 5,
       "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yarışma çekişmesi",
-      "answer": "REKABET",
-      "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Teçhizat",
-      "answer": "DONANIM",
-      "row": 3,
-      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yazı makinesi",
-      "answer": "DAKTİLO",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İskambilde bacak",
-      "answer": "VALE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Baç",
-      "answer": "HARAÇ",
+      "text": "Kadın rahip",
+      "answer": "RAHİBE",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Küçük, kısa",
-      "answer": "MİNİ",
+      "text": "Bakanlık görevlisi",
+      "answer": "BAKAN",
       "row": 7,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Karakter yapısı",
-      "answer": "KİŞİLİK",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
+      "text": "Kafa",
+      "answer": "BAŞ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Bereketli, kutsal",
-      "answer": "MÜBAREK",
+      "text": "Sirküler yazı",
+      "answer": "GENELGE",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gösteriş",
-      "answer": "FİYAKA",
+      "text": "Çünkü",
+      "answer": "ZİRA",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Biçim",
-      "answer": "ŞEKİL",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Rengarenk",
+      "answer": "ELVAN",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Halk hikâyecisi",
-      "answer": "MEDDAH",
+      "text": "Evrak dosyası",
+      "answer": "KLASÖR",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yük sepeti",
-      "answer": "KÜFE",
+      "text": "Hamur parçası",
+      "answer": "BEZE",
       "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Keseli memeli",
-      "answer": "KOALA",
+      "text": "Evcil olmayan",
+      "answer": "YABANİ",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Üzüm bitkisi",
+      "answer": "ASMA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Böcek",
+      "answer": "HAŞERE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kutlama",
+      "answer": "TEBRİK",
       "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Horoz tacı",
-      "answer": "İBİK",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Banka sahibi",
-      "answer": "BANKER",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaygınlaşmış haber",
-      "answer": "ŞAYİ",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bayındır, mamur",
-      "answer": "ABAT",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Deniz generali",
-      "answer": "AMİRAL",
-      "row": 5,
+      "text": "Değerli kırmızı taş",
+      "answer": "LAL",
+      "row": 8,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eski karşıtı",
-      "answer": "YENİ",
+      "text": "Salatalık yabani ot",
+      "answer": "HİNDİBA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kırmızı, küçük meyve",
-      "answer": "ÇİLEK",
-      "row": 5,
-      "col": 5,
+      "text": "Bilet satan büro",
+      "answer": "ACENTE",
+      "row": 3,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hareketsiz, işlevsiz",
-      "answer": "ATIL",
+      "text": "Din bilgini",
+      "answer": "MOLLA",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Evlilik işlemi",
-      "answer": "NİKAH",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Renkli taş bezeme",
-      "answer": "MOZAİK",
-      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -176,23 +162,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 7
+      "col": 4
     },
     {
-      "row": 5,
+      "row": 0,
       "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 7
     },
     {
       "row": 7,
       "col": 0
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
@@ -200,17 +202,21 @@
     },
     {
       "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
       "col": 5
     },
     {
-      "row": 11,
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
       "col": 7
+    },
+    {
+      "row": 11,
+      "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 69
+  "difficulty": "zor",
+  "order": 138
 }

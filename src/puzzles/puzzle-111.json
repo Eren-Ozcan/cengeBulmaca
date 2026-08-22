@@ -1,145 +1,166 @@
 {
   "id": "puzzle-111",
-  "title": "Bulmaca 112",
+  "title": "Bulmaca 20",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Yayla",
-      "answer": "PLATO",
+      "text": "Karbonatlı içecek",
+      "answer": "SODA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yatak altı",
-      "answer": "BAZA",
+      "text": "Küçük askerî grup",
+      "answer": "MÜFREZE",
       "row": 2,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Vaktinden önce",
-      "answer": "ERKEN",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İzmir'in bağ ilçesi",
-      "answer": "URLA",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Polonya dansı",
-      "answer": "POLKA",
-      "row": 4,
-      "col": 1,
+      "text": "Kur'an bölümü",
+      "answer": "SURE",
+      "row": 2,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Olmaksızın",
-      "answer": "BİLA",
+      "text": "Menekşe rengi",
+      "answer": "MOR",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Meslek derecesi",
+      "answer": "RÜTBE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Duyuru",
+      "answer": "İLAN",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Toplam miktar",
+      "answer": "TUTAR",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "'Aksi takdirde' bağlacı",
-      "answer": "YOKSA",
+      "text": "Madde ile",
+      "answer": "MADDİ",
       "row": 7,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gereğinden çok",
-      "answer": "FAZLA",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "En iyisi",
+      "answer": "İDEAL",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Cihaz",
-      "answer": "AYGIT",
+      "text": "Öyle olsa da",
+      "answer": "GERÇİ",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Pişmanlık ünlemi",
-      "answer": "KEŞKE",
+      "text": "Şampiyon adayı",
+      "answer": "FAVORİ",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "And Dağları ülkesi",
-      "answer": "PERU",
+      "text": "Omurga kemiği",
+      "answer": "OMUR",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaya asker",
-      "answer": "PİYADE",
-      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yıkıntı kalıntısı",
-      "answer": "MOLOZ",
-      "row": 3,
+      "text": "İslam bilginleri",
+      "answer": "ULEMA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğru sözlü",
+      "answer": "DÜRÜST",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Leylek sesi",
-      "answer": "LAKLAK",
-      "row": 4,
+      "text": "Yıkım, felaket",
+      "answer": "AFET",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yer altı çukuru",
-      "answer": "OBRUK",
-      "row": 0,
+      "text": "Seyirci coşturucusu",
+      "answer": "AMİGO",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek kardeş",
+      "answer": "BİRADER",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Koruma, yardım",
-      "answer": "SAYE",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hısım",
-      "answer": "AKRABA",
+      "text": "İstek, arzu",
+      "answer": "EMEL",
       "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kişiye ait",
-      "answer": "ÖZEL",
+      "text": "Vücut örtüsü",
+      "answer": "DERİ",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yunan rakısı",
+      "answer": "UZO",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Şefkatli davranan",
-      "answer": "ANAÇ",
+      "text": "Hatıra kitapçığı",
+      "answer": "ANDAÇ",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ermiş, veli",
+      "answer": "EREN",
       "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Erzurum ilçesi",
-      "answer": "OLTU",
+      "text": "Bilim, bilgi",
+      "answer": "İLİM",
       "row": 6,
       "col": 7,
       "arrow": "down"
@@ -148,15 +169,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
@@ -167,46 +180,22 @@
       "col": 7
     },
     {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 3,
-      "col": 1
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 6
+      "row": 1,
+      "col": 4
     },
     {
       "row": 7,
-      "col": 6
+      "col": 0
     },
     {
       "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 5
+      "col": 0
     },
     {
       "row": 10,
       "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 112
+  "difficulty": "kolay",
+  "order": 20
 }

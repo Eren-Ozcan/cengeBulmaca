@@ -1,89 +1,96 @@
 {
   "id": "puzzle-50",
-  "title": "Bulmaca 47",
+  "title": "Bulmaca 48",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Toplu kalabalık",
-      "answer": "KİTLE",
+      "text": "Söz söyleme sanatı",
+      "answer": "HİTABET",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yol hareketliliği",
-      "answer": "TRAFİK",
+      "text": "İki parçalı",
+      "answer": "İKİLİ",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Dolma kalem",
-      "answer": "STİLO",
-      "row": 2,
+      "text": "Taş tartısı",
+      "answer": "KIRAT",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Uzak Doğu ağırlık ölçüsü",
+      "answer": "TAEL",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Savaş gazı",
-      "answer": "İPERİT",
+      "text": "Defa, sefer",
+      "answer": "KEZ",
       "row": 4,
-      "col": 0,
-      "arrow": "right"
+      "col": 4,
+      "arrow": "down-right"
     },
     {
-      "text": "Ağırlaşan durum",
-      "answer": "VAHAMET",
+      "text": "Yaygın silis taşı",
+      "answer": "KUVARS",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gemide oda",
-      "answer": "KAMARA",
+      "text": "Japon giysisi",
+      "answer": "KİMONO",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kabarık olan",
-      "answer": "ŞİŞİK",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
+      "text": "Olağanüstü",
+      "answer": "HARİKA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Derme çatma yapı",
-      "answer": "BARAKA",
+      "text": "Fiyat çizelgesi",
+      "answer": "TARİFE",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bağlaşma",
-      "answer": "İTTİFAK",
-      "row": 0,
+      "text": "Dava vekili",
+      "answer": "AVUKAT",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yapmacık tavır",
-      "answer": "TRİP",
+      "text": "Küçük lokma",
+      "answer": "TİKE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Asla sözü",
-      "answer": "HAŞA",
+      "text": "Aralıksız, durmadan",
+      "answer": "VİRA",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Süs çiçeği",
-      "answer": "LALE",
+      "text": "Us, zihin",
+      "answer": "AKIL",
       "row": 0,
       "col": 3,
       "arrow": "down"
@@ -96,37 +103,37 @@
       "arrow": "down"
     },
     {
-      "text": "Güç harcama",
-      "answer": "EFOR",
+      "text": "Sayıların ilki",
+      "answer": "BİR",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kor aracı",
-      "answer": "MAŞA",
-      "row": 5,
+      "text": "Taslak çizim",
+      "answer": "KROKİ",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Muhteva",
-      "answer": "İÇERİK",
-      "row": 3,
+      "text": "Göz rengi",
+      "answer": "ELA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Karşılıklı anlaşma",
-      "answer": "AKIT",
-      "row": 0,
-      "col": 6,
+      "text": "Zanaat sahibi",
+      "answer": "ESNAF",
+      "row": 4,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Karadeniz teknesi",
-      "answer": "TAKA",
-      "row": 5,
+      "text": "Dikkatli, özenli",
+      "answer": "TİTİZ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -134,17 +141,21 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 1
     },
     {
-      "row": 1,
-      "col": 5
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 0
+      "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 47
+  "order": 48
 }

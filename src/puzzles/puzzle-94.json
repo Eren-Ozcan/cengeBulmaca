@@ -1,160 +1,181 @@
 {
   "id": "puzzle-94",
-  "title": "Bulmaca 75",
+  "title": "Bulmaca 58",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Küçük davul",
-      "answer": "TRAMPET",
+      "text": "Birden kesilme",
+      "answer": "SEKTE",
       "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Üçüncü ay",
-      "answer": "MART",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Katışıksız ırk",
-      "answer": "SAFKAN",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Üstüne örtülen",
-      "answer": "YORGAN",
-      "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Avukatlar birliği",
-      "answer": "BARO",
-      "row": 5,
+      "text": "Zar oyunu",
+      "answer": "TAVLA",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Boru musluğu",
-      "answer": "VANA",
-      "row": 5,
+      "text": "Kamış içkisi",
+      "answer": "ARAK",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İngiliz parası",
+      "answer": "STERLİN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce kılıç",
+      "answer": "MEÇ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yeşilimsi kahverengi",
-      "answer": "HAKİ",
-      "row": 7,
+      "text": "Kokulu bitki",
+      "answer": "NANE",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kök içeceği",
-      "answer": "SALEP",
+      "text": "Körpe bitki",
+      "answer": "FİDE",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Adına sunma",
+      "answer": "İTHAF",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Genetik kopya",
+      "answer": "KLON",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hatıra",
+      "answer": "ANI",
       "row": 8,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Meşrubat",
-      "answer": "İÇECEK",
+      "text": "Perişan olma",
+      "answer": "MAHV",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yetenek",
-      "answer": "YETİ",
+      "text": "Kabuklu besin",
+      "answer": "YUMURTA",
       "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yunan dansı",
-      "answer": "SİRTAKİ",
-      "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Jimnastik demiri",
-      "answer": "BARFİKS",
-      "row": 4,
+      "text": "Ağrılı deri hastalığı",
+      "answer": "ZONA",
+      "row": 11,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yoksul, perişan",
+      "answer": "SEFİL",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Belli, aşikâr",
-      "answer": "AYAN",
-      "row": 2,
+      "text": "Saat onaran",
+      "answer": "SAATÇİ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sivri dipli testi",
-      "answer": "AMFORA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İzleme",
-      "answer": "SEYR",
+      "text": "Kolun üst eklemi",
+      "answer": "OMUZ",
       "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Aşama, safha",
+      "answer": "EVRE",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Mikro karşıtı",
-      "answer": "MAKRO",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Gereklilik, ihtiyaç",
-      "answer": "HACET",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Çek başkenti",
-      "answer": "PRAG",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuru peksimet",
-      "answer": "GALETA",
+      "text": "Üreteç",
+      "answer": "DİNAMO",
       "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tahta üflemeli çalgı",
+      "answer": "KLARNET",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Attila'nın halkı",
+      "answer": "HUN",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Dönme hareketi",
+      "answer": "TAKLA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sicilya yanardağı",
-      "answer": "ETNA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Baharat bitkisi",
-      "answer": "KEKİK",
+      "text": "Yahudi ibadethanesi",
+      "answer": "HAVRA",
       "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Düşünen canlı",
+      "answer": "İNSAN",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kişi payı",
-      "answer": "NASİP",
-      "row": 3,
+      "text": "Ana, valide",
+      "answer": "ANNE",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Dünya futbol federasyonu",
+      "answer": "FIFA",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -170,57 +191,45 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 6
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 0
     },
     {
       "row": 2,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
       "col": 6
     },
     {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 2
-    },
-    {
-      "row": 8,
+      "row": 3,
       "col": 0
     },
     {
       "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
       "col": 0
     },
     {
-      "row": 10,
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 6
+    },
+    {
+      "row": 11,
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 75
+  "difficulty": "kolay",
+  "order": 58
 }

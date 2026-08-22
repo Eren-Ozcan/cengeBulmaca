@@ -1,125 +1,132 @@
 {
   "id": "puzzle-138",
-  "title": "Bulmaca 24",
+  "title": "Bulmaca 13",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Mazeret",
-      "answer": "ÖZÜR",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kokusuz süs çiçeği",
-      "answer": "AÇELYA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Akılla ilgili",
-      "answer": "AKLİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Saygısız",
-      "answer": "KÜSTAH",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Şehir alanı",
-      "answer": "MEYDAN",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ayakkabı",
-      "answer": "PABUÇ",
-      "row": 7,
+      "text": "Sakin, huzurlu, rahat",
+      "answer": "ASUDE",
+      "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Piknik yeri",
-      "answer": "MESİRE",
+      "text": "Baş aşağı",
+      "answer": "AMUT",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İşlem belgesi",
+      "answer": "EVRAK",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sağlam, dayanıklı",
+      "answer": "PEK",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağırbaşlılık",
+      "answer": "VAKAR",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Üst meclis",
+      "answer": "SENATO",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Döşek",
+      "answer": "YATAK",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bölge",
+      "answer": "MINTIKA",
       "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Fayda",
-      "answer": "YARAR",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Zehirli süs çalısı",
-      "answer": "ZAKKUM",
+      "text": "Mayhoş ağaç",
+      "answer": "İĞDE",
       "row": 0,
-      "col": 1,
+      "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Üç parçalı",
-      "answer": "ÜÇLÜ",
-      "row": 0,
+      "text": "Anne baba",
+      "answer": "EBEVEYN",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Oldukça çok",
-      "answer": "EPEY",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tekne kaptanı",
-      "answer": "REİS",
+      "text": "İddia, tez",
+      "answer": "SAV",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kanun",
-      "answer": "YASA",
-      "row": 5,
+      "text": "Uçma organı",
+      "answer": "KANAT",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Önlem",
-      "answer": "TEDBİR",
-      "row": 3,
+      "text": "Yılın her günü yapılan",
+      "answer": "UMRE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hâlbuki",
-      "answer": "OYSA",
+      "text": "Maddenin sert hâli",
+      "answer": "KATI",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yakarış, niyaz",
+      "answer": "DUA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bedeni saran hale",
-      "answer": "AURA",
-      "row": 5,
+      "text": "Çamur toprak",
+      "answer": "BATAK",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eğri kama",
-      "answer": "HANÇER",
-      "row": 3,
+      "text": "Güç, tesir",
+      "answer": "ETKİ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Salata yeşilliği",
+      "answer": "ROKA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -127,33 +134,25 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 1
     },
     {
       "row": 0,
-      "col": 6
+      "col": 2
     },
     {
-      "row": 1,
-      "col": 4
+      "row": 2,
+      "col": 1
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 4,
+      "col": 1
     },
     {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 9,
+      "row": 6,
       "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 24
+  "order": 13
 }

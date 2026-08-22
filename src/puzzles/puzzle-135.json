@@ -1,174 +1,181 @@
 {
   "id": "puzzle-135",
-  "title": "Bulmaca 119",
+  "title": "Bulmaca 142",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Su kabı",
-      "answer": "TESTİ",
+      "text": "Saç kırıntısı",
+      "answer": "KEPEK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bilme, anlama, sezgi",
-      "answer": "İRFAN",
+      "text": "Ayak altı",
+      "answer": "TABAN",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Alto keman",
+      "answer": "VİYOLA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Az bulunur",
+      "answer": "NADİDE",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Şeker hastalığı",
+      "answer": "DİYABET",
+      "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Hızlı olmayan",
-      "answer": "YAVAŞ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Geçimlik",
-      "answer": "NAFAKA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kement",
-      "answer": "LASO",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Karadeniz ilimiz",
-      "answer": "ORDU",
+      "text": "Sanal sohbet",
+      "answer": "CHAT",
       "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Negatif iyon",
-      "answer": "ANYON",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sınırlama miktarı",
-      "answer": "KOTA",
-      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tutarık hastalığı",
-      "answer": "SARA",
-      "row": 7,
+      "text": "Bitkinin gövdesi",
+      "answer": "SAP",
+      "row": 6,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Ezgi, melodi",
-      "answer": "NAĞME",
+      "text": "Suların donması",
+      "answer": "DON",
+      "row": 7,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağ, örgüt",
+      "answer": "ŞEBEKE",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tahta üflemeli çalgı",
-      "answer": "KLARNET",
+      "text": "Reklamla duyurma",
+      "answer": "TANITIM",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "ABD parası",
-      "answer": "DOLAR",
+      "text": "Hamam ocağı",
+      "answer": "KÜLHAN",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Akşam içen",
-      "answer": "AKŞAMCI",
+      "text": "Dış alım",
+      "answer": "İTHALAT",
       "row": 11,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Rakıya koku veren",
-      "answer": "ANASON",
-      "row": 2,
+      "text": "Bir kimya kökü",
+      "answer": "ETİL",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kongre ilimiz",
-      "answer": "SİVAS",
+      "text": "Hisse, parça",
+      "answer": "PAY",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dönme hareketi",
-      "answer": "TAKLA",
-      "row": 6,
+      "text": "Çağrılı",
+      "answer": "DAVETLİ",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Elektrik dönüştürücü",
-      "answer": "TRAFO",
+      "text": "Sert kauçuk",
+      "answer": "EBONİT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sık ağlayan",
-      "answer": "AĞLAK",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Açığa çıkarma",
-      "answer": "İFŞA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yürüyüş müziği",
-      "answer": "MARŞ",
+      "text": "Kader, yazgı",
+      "answer": "BAHT",
       "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyaz element",
+      "answer": "KALAY",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Müzik dinletisi",
-      "answer": "KONSER",
-      "row": 3,
+      "text": "Kanat",
+      "answer": "CENAH",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tarla dinlenmesi",
+      "answer": "NADAS",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zorla ücretsiz iş",
-      "answer": "ANGARYA",
-      "row": 0,
+      "text": "Boyama bitkisi",
+      "answer": "KINA",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Tapınma",
+      "answer": "İBADET",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tır kasası",
-      "answer": "DORSE",
-      "row": 4,
+      "text": "Saklama yeri",
+      "answer": "DEPO",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Karışık gürültü",
-      "answer": "CURCUNA",
+      "text": "Düz ayakkabı",
+      "answer": "BABET",
       "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "İyilik, lütuf",
+      "answer": "NİMET",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -176,11 +183,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 5
     },
     {
       "row": 0,
-      "col": 5
+      "col": 6
     },
     {
       "row": 0,
@@ -188,7 +195,7 @@
     },
     {
       "row": 1,
-      "col": 5
+      "col": 6
     },
     {
       "row": 1,
@@ -196,23 +203,27 @@
     },
     {
       "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 8,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 8
+      "row": 2,
+      "col": 7
     },
     {
-      "row": 10,
-      "col": 5
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 10,
@@ -221,10 +232,6 @@
     {
       "row": 10,
       "col": 7
-    },
-    {
-      "row": 10,
-      "col": 8
     },
     {
       "row": 11,
@@ -232,5 +239,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 119
+  "order": 142
 }

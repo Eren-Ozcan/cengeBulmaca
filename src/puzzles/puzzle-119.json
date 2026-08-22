@@ -1,209 +1,223 @@
 {
   "id": "puzzle-119",
-  "title": "Bulmaca 107",
+  "title": "Bulmaca 18",
   "rows": 13,
   "cols": 9,
   "clues": [
     {
-      "text": "Merkez",
-      "answer": "ÖZEK",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Toplu konut",
-      "answer": "SİTE",
+      "text": "En sıcak mevsim",
+      "answer": "YAZ",
       "row": 1,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Büyük erkek kardeş",
-      "answer": "AĞABEY",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Korunma duruşu",
-      "answer": "GARD",
-      "row": 2,
+      "text": "Ağız yoluyla",
+      "answer": "ORAL",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kurum simgesi",
-      "answer": "LOGO",
-      "row": 3,
+      "text": "Sanat akımı",
+      "answer": "EKOL",
+      "row": 2,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Padişah buyruğu",
-      "answer": "FERMAN",
+      "text": "Belirti",
+      "answer": "BELGİ",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kabuk kırığı",
+      "answer": "FAY",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yemek",
-      "answer": "TAAM",
+      "text": "İlk Arap harfi",
+      "answer": "ELİF",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Gebe",
+      "answer": "HAMİLE",
       "row": 5,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Vizon",
-      "answer": "MİNK",
-      "row": 6,
+      "text": "Uzak taraf",
+      "answer": "ÖTE",
+      "row": 5,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yönlendirici belirti",
-      "answer": "İPUCU",
-      "row": 7,
+      "text": "Bölünmüş sayı",
+      "answer": "KESİR",
+      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kenarları eşit",
-      "answer": "EŞKENAR",
+      "text": "İnceleme parçası",
+      "answer": "ÖRNEK",
       "row": 7,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Çalgılı meyhane",
-      "answer": "TAVERNA",
-      "row": 9,
+      "text": "Özellikle, bilhassa",
+      "answer": "HELE",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üstün zekâ",
-      "answer": "DEHA",
+      "text": "Gemi korkuluğu",
+      "answer": "KÜPEŞTE",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sinema eseri",
+      "answer": "FİLM",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kan pompası",
-      "answer": "KALP",
+      "text": "Başka, öteki, diğer",
+      "answer": "SAİR",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Nasip, azık",
-      "answer": "RIZK",
+      "text": "Tabii ki",
+      "answer": "ELBETTE",
       "row": 11,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sıçrayan asalak böcek",
-      "answer": "PİRE",
+      "text": "Düğün armağanı",
+      "answer": "DÜRÜ",
       "row": 11,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aydınlık enerjisi",
-      "answer": "IŞIK",
+      "text": "Kondisyon",
+      "answer": "FORM",
       "row": 12,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "İrade zayıflığı",
-      "answer": "ZAAF",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Alıcı",
-      "answer": "MÜŞTERİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Geçici",
-      "answer": "EĞRETİ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Üzüntü verme",
-      "answer": "KAHIR",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Saat yüzü",
-      "answer": "KADRAN",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Uçtan geniş etek",
-      "answer": "EVAZE",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Enerji çeviren düzenek",
-      "answer": "MAKİNE",
+      "text": "Savaşla alma",
+      "answer": "FETİH",
       "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Harman savurma aracı",
+      "answer": "YABA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kremalı pasta",
+      "answer": "EKLER",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Leh karşıtı",
+      "answer": "ALEYH",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Fâni",
+      "answer": "ÖLÜMLÜ",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Zehirli böcek",
+      "answer": "AKREP",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Nezaket gösterisi",
-      "answer": "SELAM",
-      "row": 0,
+      "text": "Hükümran",
+      "answer": "EGEMEN",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dinlenme alanı",
-      "answer": "PARK",
-      "row": 6,
+      "text": "Pişmanlık, üzüntü",
+      "answer": "ESEF",
+      "row": 8,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yüklü atom",
-      "answer": "İYON",
-      "row": 0,
+      "text": "Hristiyan mabedi",
+      "answer": "KİLİSE",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Uzun boyunlu kuş",
-      "answer": "TURNA",
-      "row": 5,
+      "text": "Kafka romanı",
+      "answer": "ŞATO",
+      "row": 8,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sabitleme maddesi",
-      "answer": "ALÇI",
+      "text": "Kemik dokusu",
+      "answer": "İLİK",
+      "row": 3,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Unvan",
+      "answer": "TİTR",
       "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Meclis çalışması",
-      "answer": "OTURUM",
-      "row": 2,
+      "text": "İstanbul balığı",
+      "answer": "LÜFER",
+      "row": 1,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Akciğer hastalığı",
+      "answer": "VEREM",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -211,10 +225,26 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
       "col": 7
     },
     {
@@ -222,42 +252,18 @@
       "col": 8
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 7
     },
     {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 5,
+      "row": 3,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 7
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 8
-    },
-    {
-      "row": 11,
-      "col": 5
-    },
-    {
-      "row": 11,
-      "col": 6
-    },
-    {
-      "row": 11,
-      "col": 8
+      "row": 7,
+      "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 107
+  "difficulty": "kolay",
+  "order": 18
 }

@@ -1,0 +1,169 @@
+{
+  "id": "puzzle-214",
+  "title": "Bulmaca 14",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "İyileşme",
+      "answer": "ŞİFA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Işık saçan şenlik",
+      "answer": "MAYTAP",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sacda pişen ekmek",
+      "answer": "BAZLAMA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sırada son",
+      "answer": "AHİR",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çivi aleti",
+      "answer": "ÇEKİÇ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tel tatlı",
+      "answer": "KADAYIF",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bıçak taşı",
+      "answer": "BİLEĞİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Batı",
+      "answer": "GARP",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Namaz görevlisi",
+      "answer": "İMAM",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gayret",
+      "answer": "ÇABA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Evre, safha",
+      "answer": "FAZ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Divan",
+      "answer": "SEDİR",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Işık halkası",
+      "answer": "AYLA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kan pompası",
+      "answer": "KALP",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Boşaltma",
+      "answer": "TAHLİYE",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Koruyucu, kayıran",
+      "answer": "HAMİ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kar kütlesi",
+      "answer": "ÇIĞ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Benekli postlu yırtıcı",
+      "answer": "PARS",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Hortumlu hayvan",
+      "answer": "FİL",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 14
+}

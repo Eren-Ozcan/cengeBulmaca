@@ -1,132 +1,139 @@
 {
   "id": "puzzle-110",
-  "title": "Bulmaca 10",
+  "title": "Bulmaca 3",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Tanksavar silah",
-      "answer": "BAZUKA",
-      "row": 0,
+      "text": "Renkli cam bezeme",
+      "answer": "VİTRAY",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Eski Alman parası",
-      "answer": "MARK",
+      "text": "Düş",
+      "answer": "RÜYA",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Eğe kemikleri",
-      "answer": "KABURGA",
+      "text": "Uyumlu düzen",
+      "answer": "İNSİCAM",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kalın kâğıt",
-      "answer": "KARTON",
+      "text": "Akdeniz balığı",
+      "answer": "ÇİPURA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Apartman görevlisi",
-      "answer": "KAPICI",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yeşil sapılı sebze",
-      "answer": "PIRASA",
+      "text": "Güldüren söz",
+      "answer": "ESPRİ",
       "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sarılı başlık",
-      "answer": "SARIK",
-      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yataktan kalkamayan",
-      "answer": "YATALAK",
-      "row": 8,
+      "text": "Mukavemet",
+      "answer": "DİRENÇ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sadaka isteyen",
+      "answer": "DİLENCİ",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bacak ucu",
-      "answer": "AYAK",
+      "text": "Konut",
+      "answer": "MESKEN",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yük kaldırma",
+      "answer": "VİNÇ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Uzun karşıtı",
-      "answer": "KISA",
+      "text": "Eylem",
+      "answer": "EDİM",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çeşni tozları",
-      "answer": "BAHARAT",
+      "text": "Zincirleme dizi",
+      "answer": "SİLSİLE",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Aldırış etme",
-      "answer": "UMUR",
+      "text": "Yapmacık tavır",
+      "answer": "TRİP",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Emek kazancı",
-      "answer": "PARA",
+      "text": "Baskı makinesi",
+      "answer": "PRES",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kimlik belgesi",
-      "answer": "KART",
+      "text": "Geri dönme",
+      "answer": "RÜCU",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Termik",
-      "answer": "ISIL",
+      "text": "Görsel duyum",
+      "answer": "RENK",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Jargon",
-      "answer": "ARGO",
+      "text": "Saflık derecesi",
+      "answer": "AYAR",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gösteriş, fiyaka",
-      "answer": "CAKA",
+      "text": "Kalın karşıtı",
+      "answer": "İNCE",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kan bulaşmış",
-      "answer": "KANLI",
-      "row": 1,
+      "text": "Dağ yanı",
+      "answer": "YAMAÇ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak Doğu ülkesi",
+      "answer": "ÇİN",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     }
@@ -134,25 +141,17 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
-      "col": 6
+      "col": 2
     },
     {
       "row": 5,
       "col": 0
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 10
+  "order": 3
 }

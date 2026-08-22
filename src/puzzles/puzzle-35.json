@@ -1,132 +1,139 @@
 {
   "id": "puzzle-35",
-  "title": "Bulmaca 11",
+  "title": "Bulmaca 17",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Harp",
-      "answer": "SAVAŞ",
-      "row": 1,
+      "text": "Arap yazısı işareti",
+      "answer": "HAREKE",
+      "row": 0,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Para gönderme",
-      "answer": "HAVALE",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Egzama",
-      "answer": "MAYASIL",
-      "row": 2,
+      "text": "Şölen",
+      "answer": "ZİYAFET",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gemi omurgası",
-      "answer": "KARİNA",
+      "text": "Uzun koltuk",
+      "answer": "KANEPE",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ölçülü davranış",
+      "answer": "TAKT",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hafif yel",
+      "answer": "ESİNTİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gönül vermiş",
+      "answer": "ALGIN",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Açık, apaçık",
+      "answer": "ALENİ",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Maharet, hüner",
+      "answer": "USTALIK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Öykü",
+      "answer": "HİKAYE",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bacak ucu",
+      "answer": "AYAK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Zaman aracı",
+      "answer": "SAAT",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Getirim, kazanç",
+      "answer": "RANT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ne olursa olsun",
+      "answer": "İLLA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Batı Anadolu yiğidi",
+      "answer": "EFE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Önleyen durum",
+      "answer": "ENGEL",
       "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mısır'ın başkenti",
-      "answer": "KAHİRE",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tuşlu telli çalgı",
-      "answer": "PİYANO",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Araç, avadanlık",
-      "answer": "ALET",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bando",
-      "answer": "MIZIKA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sahici",
-      "answer": "HAKİKİ",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ayakkabının üst yüzü",
-      "answer": "SAYA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuru, sert soğuk",
-      "answer": "AYAZ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kafkasya'da bir halk",
-      "answer": "AVAR",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Havlı dokuma",
-      "answer": "HALI",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yetim koruyucusu",
-      "answer": "VASİ",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Süt hayvanı",
-      "answer": "İNEK",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüz üstü",
-      "answer": "ALIN",
+      "text": "Mezuniyet başlığı",
+      "answer": "KEP",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İzlenecek yol",
-      "answer": "ROTA",
+      "text": "Ses özelliği",
+      "answer": "TINI",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çağlayan",
-      "answer": "ŞELALE",
+      "text": "Belden aşağı giysi",
+      "answer": "ETEK",
       "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İnmiş, sönmüş",
+      "answer": "İNİK",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -137,12 +144,8 @@
       "col": 0
     },
     {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 1,
-      "col": 0
+      "row": 4,
+      "col": 5
     },
     {
       "row": 5,
@@ -150,17 +153,9 @@
     },
     {
       "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 11
+  "order": 17
 }

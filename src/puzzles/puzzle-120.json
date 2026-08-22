@@ -1,153 +1,167 @@
 {
   "id": "puzzle-120",
-  "title": "Bulmaca 109",
+  "title": "Bulmaca 47",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Tarım aracı",
-      "answer": "SABAN",
+      "text": "Bitki camlığı",
+      "answer": "SERA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Büyük dükkân",
-      "answer": "MAĞAZA",
+      "text": "Zilli çalgı",
+      "answer": "TEF",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Hamam görevlisi",
+      "answer": "TELLAK",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Esmer renkli",
-      "answer": "YAĞIZ",
+      "text": "Ünlü kadın sanatçı",
+      "answer": "DİVA",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tasavvuf yolu",
-      "answer": "TARİKAT",
+      "text": "Direksiyon parçası",
+      "answer": "ROT",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Diş çöpü",
+      "answer": "KÜRDAN",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Soluk karşıtı",
-      "answer": "KOYU",
+      "text": "Yöntem",
+      "answer": "METOT",
       "row": 5,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Operada solo parça",
-      "answer": "ARYA",
+      "text": "Hafif sis",
+      "answer": "PUS",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yırtıcı av kuşu",
-      "answer": "ATMACA",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kokulu çay ağacı",
-      "answer": "IHLAMUR",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kem göz",
-      "answer": "NAZAR",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Olta ipi",
-      "answer": "MİSİNA",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Meraklı, hevesli",
-      "answer": "AMATÖR",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaplumbağa kabuğu",
-      "answer": "BAĞA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Soğanlı et",
-      "answer": "YAHNİ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Hafif karşıtı",
-      "answer": "AĞIR",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Harita kitabı",
-      "answer": "ATLAS",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Saygılı, kibar",
-      "answer": "NAZİK",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Geçmiş zaman",
-      "answer": "MAZİ",
+      "text": "Bilinç kaybı",
+      "answer": "KOMA",
       "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Mazot",
+      "answer": "MOTORİN",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Açılan yol",
+      "answer": "KANAL",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çabalama",
+      "answer": "CEHT",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çizgili kedi",
+      "answer": "TEKİR",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ahlak kuralları",
+      "answer": "ETİK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Korkutan hayal",
+      "answer": "UMACI",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sahne gösterisi",
+      "answer": "REVÜ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "14 dizeli şiir",
+      "answer": "SONE",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tehlike işareti",
+      "answer": "ALARM",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hükümdar koltuğu",
+      "answer": "TAHT",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Açık giyim",
+      "answer": "DEKOLTE",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Nüfuzlu kimse",
-      "answer": "KODAMAN",
-      "row": 3,
+      "text": "Cevizli sarımsaklı sos",
+      "answer": "TARATOR",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hükümdar yapısı",
-      "answer": "SARAY",
+      "text": "İktisat",
+      "answer": "EKONOMİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Küçük bağlama",
-      "answer": "CURA",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Toplam miktar",
-      "answer": "TUTAR",
-      "row": 3,
+      "text": "Toprak fırın",
+      "answer": "TANDIR",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -155,18 +169,10 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 4
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
       "col": 7
     },
     {
@@ -174,22 +180,26 @@
       "col": 7
     },
     {
-      "row": 7,
-      "col": 0
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 5
     },
     {
       "row": 9,
-      "col": 7
+      "col": 6
     },
     {
       "row": 10,
-      "col": 7
+      "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 109
+  "difficulty": "kolay",
+  "order": 47
 }

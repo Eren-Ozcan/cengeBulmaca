@@ -1,152 +1,152 @@
 {
   "id": "puzzle-42",
-  "title": "Bulmaca 54",
+  "title": "Bulmaca 67",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Tropik sarı meyve",
-      "answer": "PAPAYA",
-      "row": 1,
+      "text": "Aksine",
+      "answer": "TERSİNE",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Volkanik kaya",
-      "answer": "BAZALT",
+      "text": "Yuvarlak nesne",
+      "answer": "DİSK",
       "row": 2,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Semptom",
-      "answer": "BELİRTİ",
+      "text": "Köşe vuruşu",
+      "answer": "KORNER",
       "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Güreş tanıtıcısı",
-      "answer": "CAZGIR",
-      "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Osmanlı gece bekçisi",
-      "answer": "ASES",
+      "text": "Emziren kadın",
+      "answer": "SÜTANNE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Enerji ölçü birimi",
+      "answer": "KALORİ",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Odun kömür",
-      "answer": "YAKACAK",
-      "row": 7,
+      "text": "Kadın elbisesi",
+      "answer": "ROP",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yenilikten yana",
-      "answer": "İLERİCİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yetiştirici",
-      "answer": "ÜRETİCİ",
-      "row": 8,
+      "text": "Çarpan sayı",
+      "answer": "KATSAYI",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sebep, bahane",
-      "answer": "VESİLE",
+      "text": "İş verme",
+      "answer": "İHALE",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Koruyucu uygulama",
+      "answer": "AŞI",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bor tuzu",
+      "answer": "BORAKS",
       "row": 10,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Gidiş, ilerleyiş",
-      "answer": "SEYİR",
-      "row": 4,
+      "text": "Aç karşıtı",
+      "answer": "TOK",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Hükümdar yapısı",
+      "answer": "SARAY",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İlk bilgi",
-      "answer": "ABECE",
-      "row": 0,
+      "text": "İç çamaşırı",
+      "answer": "KÜLOT",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ateş dili",
-      "answer": "ALEV",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Lüks otel",
-      "answer": "PALAS",
-      "row": 0,
+      "text": "Ceset incelemesi",
+      "answer": "OTOPSİ",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Katmerli çörek",
-      "answer": "KETE",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ermiş, kutsal kişi",
-      "answer": "AZİZ",
+      "text": "Sidik",
+      "answer": "İDRAR",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hırslı, açgözlü",
-      "answer": "HARİS",
-      "row": 5,
+      "text": "Hattat kâğıdı cilası",
+      "answer": "AHAR",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Değerlendirme, hüküm",
-      "answer": "YARGI",
+      "text": "Uyutma türküsü",
+      "answer": "NİNNİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sevimli, hoş",
-      "answer": "CİCİ",
+      "text": "Sevinç sözü",
+      "answer": "YAŞA",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Beşten sonraki sayı",
-      "answer": "ALTI",
+      "text": "Sağlıklı",
+      "answer": "ESEN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İvedi",
-      "answer": "ACİL",
+      "text": "Soğuk-sıcak arası",
+      "answer": "ILIK",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bağımlı, düşkün",
-      "answer": "TİRYAKİ",
+      "text": "Süt tatlısı",
+      "answer": "KREMA",
       "row": 1,
       "col": 7,
       "arrow": "down"
@@ -155,11 +155,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 1
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
     },
     {
       "row": 0,
@@ -167,15 +171,31 @@
     },
     {
       "row": 2,
-      "col": 0
+      "col": 1
     },
     {
       "row": 5,
       "col": 6
     },
     {
-      "row": 6,
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
       "col": 0
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 2
     },
     {
       "row": 9,
@@ -186,6 +206,6 @@
       "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 54
+  "difficulty": "orta",
+  "order": 67
 }

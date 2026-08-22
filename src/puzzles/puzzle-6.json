@@ -1,153 +1,167 @@
 {
   "id": "puzzle-6",
-  "title": "Bulmaca 50",
+  "title": "Bulmaca 70",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Sinirli, öfkeli",
-      "answer": "ASABİ",
+      "text": "Devingen",
+      "answer": "DİNAMİK",
       "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalp düzensizliği",
-      "answer": "ARİTMİ",
+      "text": "Yüksek bilim kurumu",
+      "answer": "AKADEMİ",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yönetime dair",
-      "answer": "İDARİ",
+      "text": "Eylemci savunucu",
+      "answer": "MİLİTAN",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Alternatif",
-      "answer": "SEÇENEK",
+      "text": "Hüzünlü şiir",
+      "answer": "ELEJİ",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Demek oluyor ki",
-      "answer": "YANİ",
+      "text": "Erden kız",
+      "answer": "BAKİRE",
       "row": 5,
-      "col": 3,
-      "arrow": "right"
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Kalıcılık",
-      "answer": "BEKA",
-      "row": 5,
+      "text": "Toplantı yeri",
+      "answer": "LOKAL",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İnce yün",
-      "answer": "KAŞMİR",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bazik madde",
-      "answer": "ALKALİ",
+      "text": "Söylenti",
+      "answer": "RİVAYET",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zanaat öğrencisi",
-      "answer": "ÇIRAK",
+      "text": "Gelin çeyiz parası",
+      "answer": "DRAHOMA",
       "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ürün tanıtımı",
-      "answer": "LANSMAN",
-      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bilardo sopası",
-      "answer": "İSTEKA",
-      "row": 2,
+      "text": "Mantar-yosun bitkisi",
+      "answer": "LİKEN",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Masa oyunu",
+      "answer": "DAMA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şekersiz kahve",
-      "answer": "SADE",
+      "text": "Koyu kırmızı",
+      "answer": "BORDO",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Birden sonraki sayı",
+      "answer": "İKİ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bel-bacak arası",
-      "answer": "KALÇA",
-      "row": 5,
+      "text": "Değersiz",
+      "answer": "HAKİR",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Alet, vasıta",
-      "answer": "ARAÇ",
+      "text": "İnleme, inilti",
+      "answer": "NALE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sayı aşan",
-      "answer": "AŞKIN",
+      "text": "Çoban çalgısı",
+      "answer": "KAVAL",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Fert",
-      "answer": "BİREY",
+      "text": "Adaletli",
+      "answer": "ADİL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kızıl gezegen",
-      "answer": "MARS",
-      "row": 6,
+      "text": "Dinî ezgi",
+      "answer": "İLAHİ",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Özen",
-      "answer": "İTİNA",
+      "text": "Gök taşı",
+      "answer": "METEOR",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Mahkeme belgesi",
-      "answer": "İLAM",
-      "row": 6,
+      "text": "Var karşıtı",
+      "answer": "YOK",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dolap, oyun",
-      "answer": "ENTRİKA",
-      "row": 3,
+      "text": "İmge, görüntü",
+      "answer": "İMAJ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kumaş kesme",
-      "answer": "BİÇKİ",
+      "text": "Seçme aşaması",
+      "answer": "ELEME",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıtma ilacı",
+      "answer": "KİNİN",
       "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Alacakaranlık",
+      "answer": "TAN",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -158,19 +172,11 @@
       "col": 0
     },
     {
-      "row": 0,
-      "col": 1
+      "row": 4,
+      "col": 0
     },
     {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 2,
+      "row": 5,
       "col": 0
     },
     {
@@ -178,22 +184,10 @@
       "col": 7
     },
     {
-      "row": 7,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
+      "row": 10,
       "col": 0
-    },
-    {
-      "row": 9,
-      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 50
+  "difficulty": "orta",
+  "order": 70
 }

@@ -1,125 +1,118 @@
 {
   "id": "puzzle-20",
-  "title": "Bulmaca 9",
+  "title": "Bulmaca 106",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Cennetle cehennem arası",
-      "answer": "ARAF",
+      "text": "Boş inanç",
+      "answer": "HURAFE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yuvarlak başlık",
-      "answer": "BERE",
+      "text": "Ara, aralık",
+      "answer": "FASILA",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Anason kokulu bitki",
-      "answer": "REZENE",
-      "row": 3,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kokulu sıvı",
-      "answer": "ESANS",
+      "text": "İlmikli ip",
+      "answer": "KEMENT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Pars",
-      "answer": "LEOPAR",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Soruşturma özeti",
-      "answer": "FEZLEKE",
-      "row": 6,
+      "text": "Kemiyet",
+      "answer": "NİCELİK",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kara zift",
-      "answer": "KATRAN",
-      "row": 8,
+      "text": "Tanıtım levhası",
+      "answer": "TABELA",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Süre, sıra",
-      "answer": "ESNA",
-      "row": 8,
+      "text": "İçten bağlılık",
+      "answer": "SADAKAT",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tepke",
-      "answer": "REFLEKS",
-      "row": 2,
+      "text": "Evcil hayvan",
+      "answer": "PET",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kafiye",
+      "answer": "UYAK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gereksiz, yersiz",
-      "answer": "ABES",
-      "row": 0,
+      "text": "Paylama, azarlama",
+      "answer": "İTAP",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Namaz kilimi",
+      "answer": "SECCADE",
+      "row": 2,
       "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yük hareketi",
+      "answer": "AKIM",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ölçüler",
+      "answer": "EBAT",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Göçmen kuş",
+      "answer": "LEYLEK",
+      "row": 2,
+      "col": 4,
       "arrow": "down"
     },
     {
       "text": "Namaza çağrı",
       "answer": "EZAN",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Uzay",
-      "answer": "FEZA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Balık aracı",
-      "answer": "OLTA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Toprak işçisi",
-      "answer": "RENÇPER",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Göz merceği",
-      "answer": "LENS",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Su akıtma borusu",
-      "answer": "AKAÇ",
+      "text": "Mahkeme belgesi",
+      "answer": "İLAM",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ermiş, veli",
-      "answer": "EREN",
-      "row": 4,
+      "text": "Güç, derman",
+      "answer": "TAKAT",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     }
@@ -127,7 +120,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
@@ -143,15 +136,7 @@
     },
     {
       "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
       "col": 6
-    },
-    {
-      "row": 5,
-      "col": 0
     },
     {
       "row": 9,
@@ -162,6 +147,6 @@
       "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 9
+  "difficulty": "orta",
+  "order": 106
 }

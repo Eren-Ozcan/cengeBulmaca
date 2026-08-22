@@ -1,0 +1,271 @@
+{
+  "id": "puzzle-239",
+  "title": "Bulmaca 144",
+  "rows": 13,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "Manken yolu",
+      "answer": "PODYUM",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Öyle söyleyerek",
+      "answer": "DİYE",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tasavvuf ehli",
+      "answer": "SUFİ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hindistan halkından",
+      "answer": "HİNT",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Afrika'da küçük ülke",
+      "answer": "TOGO",
+      "row": 3,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yüreklilik",
+      "answer": "CESARET",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dişi geyik",
+      "answer": "MARAL",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kadar, değin",
+      "answer": "DEK",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hız dişlisi",
+      "answer": "VİTES",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ucuz karşıtı",
+      "answer": "PAHALI",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Dövme kabı",
+      "answer": "HAVAN",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Osmanlı atlı askeri",
+      "answer": "SİPAHİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Aynı çizgi",
+      "answer": "HİZA",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yelken ipi",
+      "answer": "ORSA",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Gömü yeri",
+      "answer": "MEZAR",
+      "row": 12,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çocuk dilinde kedi",
+      "answer": "PİSİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tören",
+      "answer": "MERASİM",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çocuk eğlencesi",
+      "answer": "OYUNCAK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Onay damgası",
+      "answer": "VİZE",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ciltli kâğıtlar",
+      "answer": "DEFTER",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hristiyan görevlisi",
+      "answer": "PAPAZ",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tropik çayır",
+      "answer": "SAVANA",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Baht, şans",
+      "answer": "TALİH",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Değersiz, aşağı",
+      "answer": "HOR",
+      "row": 9,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hareket düzeneği",
+      "answer": "MOTOR",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Onarım",
+      "answer": "TAMİR",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Umumi",
+      "answer": "GENEL",
+      "row": 3,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Otomatik makine",
+      "answer": "ROBOT",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Sivrisinek hastalığı",
+      "answer": "SITMA",
+      "row": 6,
+      "col": 8,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
+      "row": 12,
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 7
+    },
+    {
+      "row": 12,
+      "col": 8
+    }
+  ],
+  "difficulty": "zor",
+  "order": 144
+}

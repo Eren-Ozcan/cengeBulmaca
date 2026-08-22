@@ -1,200 +1,211 @@
 {
   "id": "puzzle-15",
-  "title": "Bulmaca 118",
+  "title": "Bulmaca 137",
   "rows": 13,
   "cols": 9,
   "clues": [
     {
-      "text": "Dur işareti",
-      "answer": "STOP",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çünkü",
-      "answer": "ZİRA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Akıllı kadın",
-      "answer": "AKİLE",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Eyer yapımcısı",
-      "answer": "SARAÇ",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Mermi ve barut",
-      "answer": "CEPHANE",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Katman",
-      "answer": "TABAKA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gözlem",
-      "answer": "RASAT",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Üreteç",
-      "answer": "DİNAMO",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tokat ilçesi",
-      "answer": "ZİLE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hattat kâğıdı cilası",
-      "answer": "AHAR",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Suçsuz, günahsız",
-      "answer": "MASUM",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İbadet",
-      "answer": "AMEL",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Soylu, yüce",
-      "answer": "ASİL",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Zarar verme",
-      "answer": "İHLAL",
-      "row": 12,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tacir",
-      "answer": "TÜCCAR",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Dikili direk",
-      "answer": "DİKME",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırlangıç benzeri kuş",
-      "answer": "EBABİL",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kapı önü örtüsü",
-      "answer": "PASPAS",
+      "text": "Muhteva",
+      "answer": "İÇERİK",
       "row": 0,
       "col": 3,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Az ıslak",
-      "answer": "NEMLİ",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüksek sesle gülme",
-      "answer": "KAHKAHA",
+      "text": "İşleme, nakış",
+      "answer": "NAKŞ",
       "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kişi, şahıs",
+      "answer": "ZAT",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Üretim tesisi",
+      "answer": "FABRİKA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mülkiyet belgesi",
+      "answer": "TAPU",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çin para birimi",
+      "answer": "YUAN",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Güneş örtüsü",
+      "answer": "TENTE",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Alçak, korkak",
+      "answer": "NAMERT",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Büyüme, gelişme, çoğalma",
+      "answer": "NEMA",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kapaklı pişirme kabı",
+      "answer": "TENCERE",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Güdülen erek",
+      "answer": "MAKSAT",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gemi dibi",
+      "answer": "SİNTİNE",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hareketsiz, işlevsiz",
+      "answer": "ATIL",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Müzikal uyum",
+      "answer": "AKOR",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Süt organı",
+      "answer": "MEME",
+      "row": 12,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Az pişmiş yumurta",
+      "answer": "RAFADAN",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Vizon",
+      "answer": "MİNK",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemek konan nesne",
+      "answer": "KAP",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanıcı gaz",
+      "answer": "METAN",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Resmî 'bu'",
+      "answer": "İŞBU",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eskiden beri çalışan",
+      "answer": "EMEKTAR",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Geçiş yolu",
+      "answer": "TRANSİT",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tarım",
-      "answer": "ZİRAAT",
+      "text": "İşkence",
+      "answer": "EZİYET",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Halk anlatısı",
-      "answer": "MASAL",
+      "text": "Sevgi seslenmesi",
+      "answer": "CANIM",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Duyuru",
-      "answer": "İLAN",
+      "text": "Tilki yüzlü hayvan",
+      "answer": "RAKUN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yeni doğum yapmış",
-      "answer": "LOHUSA",
+      "text": "Hesap kertiği",
+      "answer": "ÇETELE",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Meyve tatlısı",
-      "answer": "REÇEL",
+      "text": "Boyun eğme",
+      "answer": "İTAAT",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sebep olan güç",
-      "answer": "AMİL",
-      "row": 8,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırıcı söz",
-      "answer": "AZAR",
-      "row": 5,
+      "text": "Cerrah bıçağı",
+      "answer": "NEŞTER",
+      "row": 3,
       "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
     {
       "row": 0,
       "col": 2
@@ -209,27 +220,7 @@
     },
     {
       "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
       "col": 8
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 8
-    },
-    {
-      "row": 4,
-      "col": 8
-    },
-    {
-      "row": 5,
-      "col": 6
     },
     {
       "row": 6,
@@ -237,10 +228,18 @@
     },
     {
       "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
       "col": 7
     },
     {
@@ -248,14 +247,14 @@
       "col": 8
     },
     {
-      "row": 12,
-      "col": 0
+      "row": 11,
+      "col": 7
     },
     {
-      "row": 12,
+      "row": 11,
       "col": 8
     }
   ],
   "difficulty": "zor",
-  "order": 118
+  "order": 137
 }

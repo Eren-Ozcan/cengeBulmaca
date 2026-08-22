@@ -1,132 +1,146 @@
 {
   "id": "puzzle-2",
-  "title": "Bulmaca 22",
+  "title": "Bulmaca 2",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Mide kaynaması",
-      "answer": "BULANTI",
+      "text": "Sanat insanı",
+      "answer": "SANATÇI",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Erkek dadı",
-      "answer": "LALA",
+      "text": "Ortaokul sonrası",
+      "answer": "LİSE",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Laf",
-      "answer": "LAKIRTI",
+      "text": "Bilgisayar programı",
+      "answer": "YAZILIM",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bilinmeyen",
-      "answer": "MEÇHUL",
+      "text": "Gece uçan memeli",
+      "answer": "YARASA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Otomobil",
-      "answer": "ARABA",
-      "row": 6,
-      "col": 0,
+      "text": "Zarif, modern",
+      "answer": "ŞIK",
+      "row": 5,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Meksika içkisi",
-      "answer": "TEKİLA",
+      "text": "Oturma sırası",
+      "answer": "BANK",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Temsilci",
+      "answer": "DELEGE",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Deli, kaçık",
-      "answer": "DİVANE",
+      "text": "Dağ dizisi",
+      "answer": "SIRADAĞ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Japon dövüş sanatı",
-      "answer": "KARATE",
+      "text": "İdrar torbası",
+      "answer": "MESANE",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kategori",
-      "answer": "ULAM",
+      "text": "Eğlenme, dalga geçme",
+      "answer": "ALAY",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çabuk, tez",
-      "answer": "ATİK",
+      "text": "Yürüme hareketi",
+      "answer": "ADIM",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Cilalı deri",
-      "answer": "LAKE",
+      "text": "Çekişme, anlaşmazlık, kavga",
+      "answer": "NİZA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yakışır görülen",
-      "answer": "REVA",
+      "text": "Hangi yer",
+      "answer": "NERE",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ekşimsi orman meyvesi",
-      "answer": "ALIÇ",
+      "text": "Yüzyıl",
+      "answer": "ASIR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gelir taşınmazı",
-      "answer": "AKAR",
+      "text": "Üstün, seçkin",
+      "answer": "KLAS",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Resmî fiyat sınırı",
-      "answer": "NARH",
+      "text": "Acelecilik, heyecan",
+      "answer": "TELAŞ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İnsan yapısı",
-      "answer": "BİNA",
-      "row": 5,
+      "text": "İşve, naz",
+      "answer": "EDA",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ayakyolu",
-      "answer": "TUVALET",
+      "text": "Yakıcı tüylü ot",
+      "answer": "ISIRGAN",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Parlayan, ışıldayan",
-      "answer": "IŞIL",
+      "text": "Büyük akarsu, nehir",
+      "answer": "IRMAK",
       "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Törpü",
+      "answer": "EĞE",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     }
@@ -135,24 +149,8 @@
     {
       "row": 0,
       "col": 5
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 22
+  "order": 2
 }

@@ -1,152 +1,173 @@
 {
   "id": "puzzle-104",
-  "title": "Bulmaca 114",
+  "title": "Bulmaca 56",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Gökyüzü",
-      "answer": "SEMA",
+      "text": "Köpüklü içki",
+      "answer": "BİRA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sanatçı, oyuncu",
-      "answer": "ARTİST",
+      "text": "Doğum yardımcısı",
+      "answer": "EBE",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüz rengi",
+      "answer": "BENİZ",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Haber verme",
-      "answer": "İHBAR",
+      "text": "Masadaki çiçek kabı",
+      "answer": "VAZO",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Köpük tatlı",
+      "answer": "MUS",
       "row": 3,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Afrika maymunu",
-      "answer": "ŞEBEK",
+      "text": "Marangoz aracı",
+      "answer": "RENDE",
       "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ses (eski dilde)",
-      "answer": "SEDA",
-      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İlke",
-      "answer": "PRENSİP",
+      "text": "Eski karşıtı",
+      "answer": "YENİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güvence",
+      "answer": "TEMİNAT",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kastamonu ilçesi",
-      "answer": "CİDE",
+      "text": "Koruma, yardım",
+      "answer": "SAYE",
       "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Pişmanlık",
-      "answer": "NEDAMET",
+      "text": "Tropik yeşil meyve",
+      "answer": "AVOKADO",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çağdaş, modern",
-      "answer": "ASRİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Oksijen birleşimi",
-      "answer": "OKSİT",
-      "row": 10,
+      "text": "Ölü yıkama tahtası",
+      "answer": "TENEŞİR",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Antik Yunanlı",
-      "answer": "GREK",
-      "row": 10,
+      "text": "Gümüş balık",
+      "answer": "KEFAL",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Destekleyici",
-      "answer": "SPONSOR",
-      "row": 4,
+      "text": "Eğer",
+      "answer": "ŞAYET",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Oluşan, meydana gelen",
+      "answer": "İBARET",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Toplanma günü",
-      "answer": "MAHŞER",
+      "text": "Yanma olayı, od",
+      "answer": "ATEŞ",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Anason kokulu bitki",
+      "answer": "REZENE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Enerji",
-      "answer": "ERKE",
+      "text": "Dostluk bağlılığı",
+      "answer": "VEFA",
       "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gürültülü kavga",
-      "answer": "ARBEDE",
+      "text": "Adı bilinmeyen",
+      "answer": "ANONİM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yuvarlak nesne",
-      "answer": "DİSK",
+      "text": "Tasdik",
+      "answer": "ONAY",
       "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kısa silah",
-      "answer": "TABANCA",
-      "row": 1,
+      "text": "Gemilerin yanaştığı yer",
+      "answer": "İSKELE",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Üzüm şırasından tatlı",
-      "answer": "ŞİRE",
+      "text": "Ezerek yapılan yiyecek",
+      "answer": "EZME",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Susamlı çörek",
-      "answer": "SİMİT",
+      "text": "Cenaze, ölü beden",
+      "answer": "NAAŞ",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kural",
-      "answer": "KAİDE",
-      "row": 3,
+      "text": "İsteklendirme ünlemi",
+      "answer": "HAYDİ",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bal yapısı",
-      "answer": "PETEK",
+      "text": "Kanıtlanan önerme",
+      "answer": "TEOREM",
       "row": 5,
       "col": 7,
       "arrow": "down"
@@ -155,10 +176,6 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 4
     },
     {
@@ -170,24 +187,12 @@
       "col": 7
     },
     {
-      "row": 1,
+      "row": 2,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 7
-    },
-    {
       "row": 2,
-      "col": 0
-    },
-    {
-      "row": 3,
       "col": 7
-    },
-    {
-      "row": 4,
-      "col": 0
     },
     {
       "row": 4,
@@ -198,12 +203,8 @@
       "col": 0
     },
     {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
+      "row": 10,
+      "col": 5
     },
     {
       "row": 10,
@@ -211,21 +212,9 @@
     },
     {
       "row": 11,
-      "col": 4
-    },
-    {
-      "row": 11,
-      "col": 5
-    },
-    {
-      "row": 11,
       "col": 6
-    },
-    {
-      "row": 11,
-      "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 114
+  "difficulty": "kolay",
+  "order": 56
 }

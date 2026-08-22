@@ -1,202 +1,216 @@
 {
   "id": "puzzle-10",
-  "title": "Bulmaca 85",
+  "title": "Bulmaca 133",
   "rows": 13,
   "cols": 9,
   "clues": [
     {
-      "text": "Bebek yiyeceği",
-      "answer": "MAMA",
-      "row": 0,
+      "text": "Büyük erkek kardeş",
+      "answer": "AĞABEY",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hastalık tekrarı",
+      "answer": "NÜKS",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sarı, tüylü meyve",
-      "answer": "AYVA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Karışık renkli",
-      "answer": "ALACA",
+      "text": "Nişasta bulamacı",
+      "answer": "KOLA",
       "row": 2,
-      "col": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sınırı aşma",
-      "answer": "TECAVÜZ",
+      "text": "Öbür dünya",
+      "answer": "AHİRET",
       "row": 3,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Öğrenci",
-      "answer": "TALEBE",
+      "text": "Yasa yapma",
+      "answer": "YASAMA",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Edilgin",
+      "answer": "PASİF",
       "row": 4,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gürültü patırtı",
+      "answer": "ŞAMATA",
+      "row": 6,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Taharri",
-      "answer": "ARAMA",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Haydi",
-      "answer": "HADİ",
+      "text": "Çift karşıtı",
+      "answer": "TEK",
       "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Boşa gitme",
-      "answer": "HEBA",
+      "text": "Yasa",
+      "answer": "KANUN",
       "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "'Ben'in yönelme hâli",
-      "answer": "BANA",
-      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Elden ele geçme",
-      "answer": "ALAVERE",
+      "text": "Uydurma söz",
+      "answer": "YALAN",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kör bağırsak uzantısı",
+      "answer": "APANDİS",
       "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Uzun yol koşusu",
-      "answer": "MARATON",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gümüş balığı",
-      "answer": "ATERİNA",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Genelge",
-      "answer": "TAMİM",
-      "row": 12,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dil okulu",
-      "answer": "KOLEJ",
-      "row": 7,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Hükümdar koltuğu",
-      "answer": "TAHT",
-      "row": 3,
+      "text": "Satın alma",
+      "answer": "ALIM",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Uzak",
+      "answer": "IRAK",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kraliçe",
+      "answer": "ECE",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Aslan sütü",
+      "answer": "RAKI",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Korkusuz girişken",
+      "answer": "ATILGAN",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yaşadığımız gezegen",
+      "answer": "DÜNYA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Asker su kabı",
-      "answer": "MATARA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Evlenen erkek, güveyi",
-      "answer": "DAMAT",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bayağı, olağan",
-      "answer": "ALELADE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Uzun, dar tahta",
-      "answer": "LATA",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Deneyimsiz, toy",
-      "answer": "ACEMİ",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Maaş çizelgesi",
-      "answer": "BAREM",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Merak sözü",
-      "answer": "ACABA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İsa'nın öğrencisi",
-      "answer": "HAVARİ",
+      "text": "Osmanlı yönetim birimi",
+      "answer": "EYALET",
       "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Apartman görevlisi",
+      "answer": "KAPICI",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Düzen ve güvenlik",
+      "answer": "ASAYİŞ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Mikroskop camı",
+      "answer": "LAMEL",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıkıntı, çarpıntı",
+      "answer": "HAFAKAN",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yansıma",
+      "answer": "AKİS",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Saçma söz",
-      "answer": "YAVE",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kontrol",
-      "answer": "DENETİM",
+      "text": "Süt çiftliği",
+      "answer": "MANDIRA",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Üflemeli boru",
+      "answer": "BORAZAN",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Orta düzey soylu",
-      "answer": "BARON",
-      "row": 6,
+      "text": "Fars ülkesi",
+      "answer": "İRAN",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Keder, üzüntü",
+      "answer": "ELEM",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Despot",
-      "answer": "ZORBA",
-      "row": 2,
+      "text": "Esir",
+      "answer": "TUTSAK",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kavisli kısa kılıç",
+      "answer": "YATAĞAN",
+      "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Kuran'da altıncı sure",
-      "answer": "ENAM",
-      "row": 8,
+      "text": "En soğuk mevsim",
+      "answer": "KIŞ",
+      "row": 9,
       "col": 8,
       "arrow": "down"
     }
@@ -204,49 +218,29 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
     },
     {
       "row": 0,
       "col": 4
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
       "row": 3,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 7
-    },
-    {
       "row": 8,
-      "col": 1
+      "col": 8
     },
     {
       "row": 12,
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 85
+  "difficulty": "zor",
+  "order": 133
 }

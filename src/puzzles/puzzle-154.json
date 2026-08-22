@@ -1,195 +1,202 @@
 {
   "id": "puzzle-154",
-  "title": "Bulmaca 43",
+  "title": "Bulmaca 32",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Mat boya",
-      "answer": "GUAJ",
+      "text": "Tarikat lideri",
+      "answer": "ŞEYH",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tahta ayakkabı",
-      "answer": "SABO",
+      "text": "Taşınmaz mal",
+      "answer": "MÜLK",
       "row": 1,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Potansiyel",
-      "answer": "GİZİL",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yerine geçen",
-      "answer": "KAİM",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Su geçiren silindir",
-      "answer": "BORU",
+      "text": "Emzikli kap",
+      "answer": "İBRİK",
       "row": 3,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ses bilgisi",
-      "answer": "FONETİK",
+      "text": "Domates sosu",
+      "answer": "KETÇAP",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çengel oyunu",
+      "answer": "BULMACA",
+      "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Uygarlaşmamış",
-      "answer": "BARBAR",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Öğüt veren",
-      "answer": "VAİZ",
+      "text": "Kağıt oyunu",
+      "answer": "REMİ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şeker tadında",
-      "answer": "TATLI",
+      "text": "Su buharı",
+      "answer": "SİS",
       "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tekrarlanan söz",
-      "answer": "REDİF",
-      "row": 8,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Ad",
-      "answer": "İSİM",
+      "text": "Küçük gemi",
+      "answer": "BOT",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gerekme durumu",
+      "answer": "İCAP",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kahve içilen yer",
+      "answer": "KAFE",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cam kap",
-      "answer": "ŞİŞE",
+      "text": "Niçin",
+      "answer": "NİYE",
       "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sis inmiş",
-      "answer": "SİSLİ",
+      "text": "Patron",
+      "answer": "İŞVEREN",
       "row": 10,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Teyze çocuğu",
-      "answer": "BÖLE",
+      "text": "Arkadaş, gönüldeş",
+      "answer": "DOST",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çaydaki uyarıcı madde",
-      "answer": "TEİN",
+      "text": "Sınırlama miktarı",
+      "answer": "KOTA",
       "row": 11,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Peşin para",
-      "answer": "AVANS",
-      "row": 4,
+      "text": "Dik karşıtı",
+      "answer": "EĞİK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Taşkınlık",
-      "answer": "İFRAT",
+      "text": "Giyside omuz parçası",
+      "answer": "ROBA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Minik çocuk",
+      "answer": "BEBE",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hareketli, taşınabilir",
-      "answer": "MOBİL",
-      "row": 2,
+      "text": "Büro",
+      "answer": "OFİS",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Filin burnu",
+      "answer": "HORTUM",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Manzaralı ev",
-      "answer": "NAZIR",
-      "row": 3,
+      "text": "Çamaşır leğeni",
+      "answer": "TEŞT",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hassas kişi",
+      "answer": "İÇLİ",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İnternete ait",
-      "answer": "SİBER",
+      "text": "Yüksek görev",
+      "answer": "MAKAM",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Aynı değerde",
-      "answer": "EŞİT",
+      "text": "Binme aracı",
+      "answer": "BİNEK",
       "row": 7,
-      "col": 5,
-      "arrow": "down"
+      "col": 4,
+      "arrow": "right-down"
     },
     {
-      "text": "Hava gazı",
-      "answer": "AZOT",
-      "row": 0,
+      "text": "Oksit tabakası",
+      "answer": "PAS",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Olay",
-      "answer": "HADİSE",
-      "row": 5,
+      "text": "Satış tutarı",
+      "answer": "CİRO",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bilinmeyen kimse",
-      "answer": "BİRİ",
-      "row": 0,
+      "text": "Adam öldürme",
+      "answer": "CİNAYET",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Nakışlı, işlemeli",
-      "answer": "İŞLİ",
-      "row": 7,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Yağmur borusu",
-      "answer": "OLUK",
+      "text": "Gizli plan",
+      "answer": "KUMPAS",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Kahvedeki uyarıcı",
-      "answer": "KAFEİN",
-      "row": 5,
+      "text": "Mızrap",
+      "answer": "PENA",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -197,49 +204,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
     },
     {
       "row": 0,
       "col": 4
     },
     {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
       "row": 2,
-      "col": 1
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
     },
     {
       "row": 5,
-      "col": 7
+      "col": 0
     },
     {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 1
-    },
-    {
-      "row": 10,
-      "col": 2
+      "row": 7,
+      "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 43
+  "order": 32
 }

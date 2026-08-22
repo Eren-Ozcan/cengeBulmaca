@@ -1,138 +1,138 @@
 {
   "id": "puzzle-96",
-  "title": "Bulmaca 59",
+  "title": "Bulmaca 21",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Anı olarak kalan",
-      "answer": "YADİGAR",
+      "text": "En yüksek rütbe",
+      "answer": "MAREŞAL",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dokunma, ilişki",
-      "answer": "TEMAS",
+      "text": "Onarım yeri",
+      "answer": "DOK",
       "row": 2,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Şımartılmış",
-      "answer": "ŞIMARIK",
+      "text": "Çalgılı meyhane",
+      "answer": "TAVERNA",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gizli tertip",
-      "answer": "KOMPLO",
+      "text": "Şirket birliği",
+      "answer": "KARTEL",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Taklit yergi",
-      "answer": "PARODİ",
-      "row": 5,
-      "col": 1,
+      "text": "Tarikat kurucusu",
+      "answer": "PİR",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ani şiddetli yağmur",
-      "answer": "SAĞANAK",
+      "text": "Sürgün",
+      "answer": "İSHAL",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Pasta yapan",
+      "answer": "PASTACI",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kaynak su",
-      "answer": "PINAR",
+      "text": "Çukur yer",
+      "answer": "OYUK",
       "row": 8,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Elli dokuzdan sonra",
-      "answer": "ALTMIŞ",
+      "text": "Arnavutluk'un başkenti",
+      "answer": "TİRAN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kullanılmış madde",
-      "answer": "ATIK",
+      "text": "Konu dışı",
+      "answer": "AFAKİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Katoliklerin lideri",
-      "answer": "PAPA",
-      "row": 5,
+      "text": "Üst karşıtı",
+      "answer": "ALT",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tanıtım sürümü",
-      "answer": "DEMO",
-      "row": 0,
+      "text": "Damar hastalığı",
+      "answer": "VARİS",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Küçükbaş barınağı",
-      "answer": "AĞIL",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Namaz görevlisi",
-      "answer": "İMAM",
+      "text": "Bir malın fiyatı",
+      "answer": "EDER",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Getirim, kazanç",
-      "answer": "RANT",
+      "text": "Pencere perdesi",
+      "answer": "STOR",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Batı",
-      "answer": "GARP",
+      "text": "Kısa pantolon",
+      "answer": "ŞORT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Rıza, izin",
-      "answer": "ONAM",
+      "text": "Utanma, sıkılma",
+      "answer": "HAYA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gerçek, esas",
-      "answer": "ASIL",
+      "text": "Sivilce",
+      "answer": "AKNE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kuraklık tahılı",
-      "answer": "DARI",
+      "text": "Dünya, evren",
+      "answer": "ACUN",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Koni biçimli",
-      "answer": "KONİK",
+      "text": "Bardak altı",
+      "answer": "ALTLIK",
       "row": 2,
       "col": 6,
       "arrow": "down"
@@ -141,17 +141,21 @@
   "blocks": [
     {
       "row": 0,
-      "col": 6
+      "col": 2
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 0,
+      "col": 6
     },
     {
       "row": 8,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 59
+  "difficulty": "kolay",
+  "order": 21
 }

@@ -1,139 +1,125 @@
 {
   "id": "puzzle-16",
-  "title": "Bulmaca 82",
+  "title": "Bulmaca 8",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Anlatan söz",
-      "answer": "İBARE",
+      "text": "Yapı örtüsü",
+      "answer": "ÇATI",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güney karşıtı",
-      "answer": "KUZEY",
+      "text": "Sarı-mavi karışımı",
+      "answer": "YEŞİL",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Beddua",
-      "answer": "İLENÇ",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
+      "text": "Ayrı olma",
+      "answer": "AYRILIK",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Miğfer",
-      "answer": "TOLGA",
+      "text": "Akıl yönünden",
+      "answer": "AKLEN",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Büyük toplantı",
-      "answer": "KONGRE",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Görmeye gitme",
-      "answer": "ZİYARET",
+      "text": "Üstün derece",
+      "answer": "REKOR",
       "row": 6,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Müzik",
-      "answer": "MUSİKİ",
-      "row": 8,
+      "text": "Dükkân kapağı",
+      "answer": "KEPENK",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Küçük taşıt",
-      "answer": "PİKAP",
-      "row": 8,
+      "text": "Tropika",
+      "answer": "DÖNENCE",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Geri karşıtı",
-      "answer": "İLERİ",
+      "text": "İçki düşkünü",
+      "answer": "AYYAŞ",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Bazıları",
-      "answer": "KİMİ",
-      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sözleşme, bağıt",
-      "answer": "AKİT",
+      "text": "Toprak altı bölüm",
+      "answer": "KÖK",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bırakıp gitme",
+      "answer": "TERK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çukur yer",
-      "answer": "OYUK",
+      "text": "Almanya'dan geçen nehir",
+      "answer": "REN",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dürülmüş kağıt",
-      "answer": "RULO",
+      "text": "Parlayan, ışıldayan",
+      "answer": "IŞIL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "ABD uzay ajansı",
-      "answer": "NASA",
+      "text": "Oldukça çok",
+      "answer": "EPEY",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Öncesizlik",
-      "answer": "EZEL",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Salgın soğuk algınlığı",
-      "answer": "GRİP",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Üçgen başlı yılan",
-      "answer": "ENGEREK",
+      "text": "Akım geçiren",
+      "answer": "İLETKEN",
       "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüz üstü",
+      "answer": "ALIN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hilal",
-      "answer": "AYÇA",
-      "row": 0,
-      "col": 6,
+      "text": "O kadar",
+      "answer": "ONCA",
+      "row": 5,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bir kimya kökü",
-      "answer": "ETİL",
-      "row": 5,
+      "text": "Enerji",
+      "answer": "ERKE",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -141,17 +127,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 4
     },
     {
       "row": 0,
-      "col": 5
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 82
+  "difficulty": "kolay",
+  "order": 8
 }

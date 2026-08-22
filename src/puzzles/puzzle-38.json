@@ -1,139 +1,139 @@
 {
   "id": "puzzle-38",
-  "title": "Bulmaca 12",
+  "title": "Bulmaca 15",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Yemin sözü",
-      "answer": "VALLAHİ",
+      "text": "Paraya düşkün",
+      "answer": "PARAGÖZ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sürekli olarak",
-      "answer": "DAİMA",
+      "text": "Yivli eleman",
+      "answer": "VİDA",
       "row": 2,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Hoşnut kimse",
-      "answer": "MEMNUN",
+      "text": "Atlama şemsiyesi",
+      "answer": "PARAŞÜT",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yöntem, tabiye",
-      "answer": "TAKTİK",
+      "text": "Basma başörtü",
+      "answer": "YEMENİ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Evcil olmayan",
-      "answer": "YABANİ",
+      "text": "Hükümdar başlığı",
+      "answer": "TAÇ",
       "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Vasıf",
-      "answer": "NİTELİK",
-      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sonuç",
-      "answer": "NETİCE",
-      "row": 8,
+      "text": "Sarmal",
+      "answer": "SPİRAL",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Esenlik",
-      "answer": "SELAMET",
-      "row": 8,
+      "text": "Ayrıştırılamayan madde",
+      "answer": "ELEMENT",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sayı, tane",
-      "answer": "ADET",
+      "text": "Çarşı sokağı",
+      "answer": "ARASTA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Göreve talip",
+      "answer": "ADAY",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gene",
-      "answer": "YİNE",
+      "text": "Hiçbir zaman, kesinlikle",
+      "answer": "ASLA",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "And hayvanı",
-      "answer": "LAMA",
-      "row": 0,
+      "text": "Toprak işçisi",
+      "answer": "RENÇPER",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kırık desteği",
-      "answer": "ATEL",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İnternette bağlantı",
-      "answer": "LİNK",
+      "text": "Sıradan halk",
+      "answer": "AVAM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İkinci Yunan harfi",
-      "answer": "BETA",
-      "row": 5,
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
+      "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Baş aşağı",
-      "answer": "AMUT",
+      "text": "Bilet penceresi",
+      "answer": "GİŞE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bilgin kimse",
-      "answer": "ALİM",
+      "text": "Makine yağı",
+      "answer": "GRES",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Nerede, ne oldu",
-      "answer": "HANİ",
+      "text": "Geçici alınan",
+      "answer": "ÖDÜNÇ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Belirsiz çokluk",
-      "answer": "NİCE",
-      "row": 5,
+      "text": "Yemin",
+      "answer": "ANT",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İngiliz sopalı oyunu",
-      "answer": "KRİKET",
-      "row": 3,
+      "text": "Zaten",
+      "answer": "ZATİ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Balık aracı",
+      "answer": "OLTA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -141,17 +141,13 @@
   "blocks": [
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 6
+      "col": 2
     },
     {
       "row": 5,
-      "col": 0
+      "col": 3
     }
   ],
   "difficulty": "kolay",
-  "order": 12
+  "order": 15
 }

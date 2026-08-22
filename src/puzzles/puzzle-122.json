@@ -1,181 +1,160 @@
 {
   "id": "puzzle-122",
-  "title": "Bulmaca 36",
+  "title": "Bulmaca 143",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Çizgili etiket",
-      "answer": "BARKOD",
+      "text": "Çadır yeri",
+      "answer": "KAMP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İlgi kuran sözcük",
-      "answer": "EDAT",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Meyil",
-      "answer": "EĞİM",
-      "row": 2,
-      "col": 0,
+      "text": "Erdemce üstün",
+      "answer": "YÜCE",
+      "row": 0,
+      "col": 5,
       "arrow": "down-right"
     },
     {
-      "text": "Sorumlu kimse",
-      "answer": "VELİ",
+      "text": "Avrupa futbol birliği",
+      "answer": "UEFA",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Peygamber sözü",
+      "answer": "HADİS",
       "row": 3,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Beceri",
-      "answer": "MAHARET",
+      "text": "Kazanılmış yatkınlık",
+      "answer": "MELEKE",
       "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Eski din okulu",
-      "answer": "MEDRESE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Maden süslemesi",
-      "answer": "KAKMA",
-      "row": 6,
+      "text": "Randıman",
+      "answer": "VERİM",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Final",
-      "answer": "BİTİŞ",
-      "row": 6,
+      "text": "Çalma aracı",
+      "answer": "ZİL",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kanıt",
-      "answer": "İSPAT",
-      "row": 8,
+      "text": "Kapatma aleti",
+      "answer": "KİLİT",
+      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kokulu yeşillik",
-      "answer": "DEREOTU",
+      "text": "Nağme",
+      "answer": "TERANE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İşi olmayan",
+      "answer": "İŞSİZ",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çocuk, döl",
-      "answer": "EVLAT",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Erkek hizmetçi",
-      "answer": "UŞAK",
-      "row": 10,
+      "text": "Kuran'da altıncı sure",
+      "answer": "ENAM",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mevzu",
-      "answer": "KONU",
+      "text": "Kin tutan",
+      "answer": "KİNDAR",
       "row": 11,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Tarladaki tahıl",
-      "answer": "EKİN",
+      "text": "Sergileme camekânı",
+      "answer": "VİTRİN",
       "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yardım çağrısı",
-      "answer": "İMDAT",
-      "row": 2,
+      "text": "Davranış, işlem",
+      "answer": "MUAMELE",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Orta soylu unvan",
-      "answer": "MARKİ",
-      "row": 2,
+      "text": "Vuruş sesi",
+      "answer": "ŞAK",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Baba",
+      "answer": "PEDER",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sağlık görevlisi",
-      "answer": "HEMŞİRE",
-      "row": 3,
+      "text": "Devlete ait",
+      "answer": "RESMİ",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Cankurtaran sandalı",
+      "answer": "FİLİKA",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çok büyük",
-      "answer": "DEVASA",
+      "text": "Kokulu beyaz çiçek",
+      "answer": "YASEMİN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gönderme, yönlendirme",
-      "answer": "SEVK",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Çaydan küçük akarsu",
-      "answer": "DERE",
-      "row": 1,
+      "text": "Romanya parası",
+      "answer": "LEY",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Atlı top oyunu",
-      "answer": "POLO",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ay halkası",
-      "answer": "HALE",
+      "text": "Alevi ibadethanesi",
+      "answer": "CEMEVİ",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yurt",
-      "answer": "VATAN",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Dikkatli, özenli",
-      "answer": "TİTİZ",
-      "row": 1,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Borç teminatı",
-      "answer": "TUTU",
-      "row": 7,
+      "text": "Şeker tadında",
+      "answer": "TATLI",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -184,14 +163,6 @@
     {
       "row": 0,
       "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
     },
     {
       "row": 0,
@@ -207,37 +178,85 @@
     },
     {
       "row": 2,
-      "col": 1
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 7
-    },
-    {
-      "row": 6,
+      "row": 2,
       "col": 6
     },
     {
+      "row": 2,
+      "col": 8
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 8
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 8
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
       "row": 8,
       "col": 0
     },
     {
       "row": 8,
-      "col": 2
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
+      "row": 11,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 1
-    },
-    {
-      "row": 10,
-      "col": 2
+      "row": 11,
+      "col": 8
     }
   ],
-  "difficulty": "kolay",
-  "order": 36
+  "difficulty": "zor",
+  "order": 143
 }

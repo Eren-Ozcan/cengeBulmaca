@@ -1,153 +1,188 @@
 {
   "id": "puzzle-133",
-  "title": "Bulmaca 104",
+  "title": "Bulmaca 44",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Yol tümseği",
-      "answer": "KASİS",
+      "text": "Güldürücü, gülünç",
+      "answer": "KOMİK",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aynı biçimde",
+      "answer": "KEZA",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dinî görüş",
-      "answer": "FETVA",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sert içki",
-      "answer": "VOTKA",
+      "text": "Tropik ağaç",
+      "answer": "PALMİYE",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Alınan ders",
-      "answer": "İBRET",
+      "text": "51 numaralı element",
+      "answer": "ANTİMON",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yol yarışı",
-      "answer": "RALLİ",
+      "text": "Zırhlı taşıt",
+      "answer": "TANK",
       "row": 5,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Sebze satıcısı",
-      "answer": "MANAV",
-      "row": 6,
+      "text": "Yontma aracı",
+      "answer": "KESKİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şeker bitkisi",
+      "answer": "PANCAR",
+      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Tropik yeşil meyve",
-      "answer": "AVOKADO",
+      "text": "Sistem bütünü",
+      "answer": "DİZGE",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kasık-taban arası",
-      "answer": "BACAK",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Arkalıksız iskemle",
-      "answer": "TABURE",
-      "row": 9,
+      "text": "Su taşıyıcı",
+      "answer": "SAKA",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kum falı",
-      "answer": "REMİL",
-      "row": 11,
-      "col": 2,
+      "text": "Kelam",
+      "answer": "SÖZ",
+      "row": 9,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Durumlar, haller, vaziyetler",
-      "answer": "AHVAL",
+      "text": "Muvazeneli",
+      "answer": "DENGELİ",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce buz",
+      "answer": "KIRÇ",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gözenekli kumaş",
+      "answer": "TÜL",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Rezil",
+      "answer": "KEPAZE",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dinen yasak",
-      "answer": "HARAM",
+      "text": "Çocuk bakıcısı",
+      "answer": "DADI",
       "row": 7,
-      "col": 0,
-      "arrow": "right-down"
+      "col": 1,
+      "arrow": "down"
     },
     {
-      "text": "Asılsız suçlama",
-      "answer": "İFTİRA",
+      "text": "Şair",
+      "answer": "OZAN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Haber sunucusu",
+      "answer": "SPİKER",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çimlendirilmiş arpa",
+      "answer": "MALT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çok yiyen",
-      "answer": "OBUR",
-      "row": 7,
+      "text": "Kâr",
+      "answer": "KAZANÇ",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Osmanlı sınır askeri",
-      "answer": "SEKBAN",
+      "text": "Toplu gösteri",
+      "answer": "MİTİNG",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hava cihazı",
+      "answer": "KLİMA",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kenarları eşit dörtgen",
-      "answer": "KARE",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ürün toprağı",
-      "answer": "TARLA",
-      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İranlı",
-      "answer": "ACEM",
-      "row": 7,
+      "text": "Naaş",
+      "answer": "CESET",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ayrılık sözü",
-      "answer": "ELVEDA",
-      "row": 3,
+      "text": "Yontma parçası",
+      "answer": "YONGA",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Siyasal topluluk",
-      "answer": "PARTİ",
+      "text": "Diri karşıtı",
+      "answer": "ÖLÜ",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Uyum, düzen, armoni",
+      "answer": "AHENK",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Öğretim kurumu",
-      "answer": "OKUL",
-      "row": 7,
+      "text": "Utanılacak durumda",
+      "answer": "REZİL",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -155,11 +190,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
-      "col": 5
+      "col": 4
     },
     {
       "row": 0,
@@ -170,38 +205,10 @@
       "col": 6
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
       "row": 7,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 11,
       "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 104
+  "difficulty": "kolay",
+  "order": 44
 }

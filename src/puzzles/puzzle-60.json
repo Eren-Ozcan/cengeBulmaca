@@ -1,146 +1,153 @@
 {
   "id": "puzzle-60",
-  "title": "Bulmaca 122",
+  "title": "Bulmaca 82",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Baskı yöntemi",
-      "answer": "OFSET",
+      "text": "Açığa çıkarma",
+      "answer": "İFŞA",
       "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Din bilgini",
-      "answer": "MOLLA",
-      "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sanırım",
-      "answer": "GALİBA",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dokuma ürünü",
-      "answer": "KUMAŞ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mızrap",
-      "answer": "PENA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Beyaz eşya markası",
-      "answer": "BEKO",
-      "row": 5,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Araç bırakma yeri",
-      "answer": "OTOPARK",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sağlıklı olma",
-      "answer": "AFİYET",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İyi atış yapan",
-      "answer": "NİŞANCI",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kesim yüzeyi",
-      "answer": "KESİT",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kabuklu güz yemişi",
-      "answer": "KESTANE",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yenmeye hazır",
-      "answer": "OLGUN",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Büro",
-      "answer": "OFİS",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İşaret bayrağı",
-      "answer": "FLAMA",
-      "row": 0,
       "col": 3,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Kızartılmış hamur",
-      "answer": "PİŞİ",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Minareden okunan sela",
-      "answer": "SALA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Taze karşıtı",
-      "answer": "BAYAT",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Patron",
-      "answer": "İŞVEREN",
+      "text": "Asker yapısı",
+      "answer": "KIŞLA",
       "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İşlenmiş hayvan derisi",
+      "answer": "GÖN",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ürün toprağı",
+      "answer": "TARLA",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sarı maden",
+      "answer": "ALTIN",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kafkasya'da bir halk",
+      "answer": "AVAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mal getirme",
+      "answer": "İTHAL",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çok bilgili",
+      "answer": "ALLAME",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sevgili kadın",
+      "answer": "CANAN",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kokulu sıvı",
+      "answer": "ESANS",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Elektrik kaynağı",
+      "answer": "PİL",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Deri kabarcığı",
+      "answer": "SİVİLCE",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Harita kitabı",
+      "answer": "ATLAS",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kurutulmuş çorbalık",
+      "answer": "TARHANA",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ele geçirme",
+      "answer": "İŞGAL",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yardım sözü",
+      "answer": "AMAN",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Aşk yakınlaşması",
+      "answer": "FLÖRT",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kuzey Kıbrıs'ın kısaltması",
-      "answer": "KKTC",
-      "row": 5,
+      "text": "Göz merceği",
+      "answer": "LENS",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ünlü, şerefli",
+      "answer": "ŞANLI",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Şans bahsi",
-      "answer": "BANKO",
-      "row": 1,
+      "text": "Anket yapan",
+      "answer": "ANKETÖR",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -148,57 +155,49 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 3
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 2,
-      "col": 6
+      "row": 1,
+      "col": 1
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 2,
+      "col": 7
     },
     {
       "row": 4,
+      "col": 0
+    },
+    {
+      "row": 6,
       "col": 6
     },
     {
       "row": 7,
-      "col": 7
+      "col": 6
     },
     {
       "row": 8,
-      "col": 7
+      "col": 6
     },
     {
-      "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
+      "row": 9,
       "col": 6
     },
     {
       "row": 10,
-      "col": 7
+      "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 122
+  "difficulty": "orta",
+  "order": 82
 }

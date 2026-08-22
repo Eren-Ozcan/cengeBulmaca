@@ -1,146 +1,167 @@
 {
   "id": "puzzle-126",
-  "title": "Bulmaca 99",
+  "title": "Bulmaca 78",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "İşçi başlığı",
-      "answer": "BARET",
+      "text": "Süprüntü",
+      "answer": "ÇÖP",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sarı-mavi karışımı",
-      "answer": "YEŞİL",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yüzbaşının üstü",
-      "answer": "BİNBAŞI",
-      "row": 3,
+      "text": "Giriş bölmesi",
+      "answer": "KAPI",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Geçimlik",
+      "answer": "NAFAKA",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dikenli sebze",
-      "answer": "ENGİNAR",
+      "text": "Ucuza kapatılan",
+      "answer": "KELEPİR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bilgi",
+      "answer": "MALUMAT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dolar parçası",
-      "answer": "SENT",
-      "row": 5,
+      "text": "Çabuk satma",
+      "answer": "ALSAT",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Rüzgâr bezi",
+      "answer": "YELKEN",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sık dokuma bez",
+      "answer": "PATİSKA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Halk nefeslisi",
+      "answer": "MEY",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sanat alıştırması",
+      "answer": "MEŞK",
+      "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Nota işareti",
-      "answer": "BEMOL",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Japon çorbası çeşnisi",
-      "answer": "MİSO",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sığınak",
-      "answer": "KORUNAK",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Süslü ipek kumaş",
-      "answer": "DİBA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eğlenceli tören",
-      "answer": "ŞENLİK",
+      "text": "Vahşi hayvan gezisi",
+      "answer": "SAFARİ",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Minik çocuk",
-      "answer": "BEBE",
+      "text": "Mühim",
+      "answer": "ÖNEMLİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İplik bağlantısı",
-      "answer": "DİKİŞ",
-      "row": 5,
+      "text": "Tiz karşıtı",
+      "answer": "PES",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bildik, tanıdık",
-      "answer": "AŞİNA",
+      "text": "Lüks otel",
+      "answer": "PALAS",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Saklambaçta ebeleme",
-      "answer": "SOBE",
+      "text": "Yürüyen kimse",
+      "answer": "YAYA",
       "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Boks alanı",
-      "answer": "RİNG",
-      "row": 0,
+      "text": "Büyük yıkım",
+      "answer": "FELAKET",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Rüzgârlı fırtına",
-      "answer": "BORAN",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Giysi",
-      "answer": "ELBİSE",
+      "text": "Asker paltosu",
+      "answer": "KAPUT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dağ lalesi",
-      "answer": "ANEMON",
-      "row": 2,
+      "text": "Peru'nun başkenti",
+      "answer": "LİMA",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sonuçsuz kalan",
+      "answer": "AKİM",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tiyatro sahnesi",
-      "answer": "ŞANO",
-      "row": 2,
+      "text": "Büyük çivi",
+      "answer": "EKSER",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Emek kazancı",
+      "answer": "PARA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ses telleri yeri",
-      "answer": "GIRTLAK",
-      "row": 1,
+      "text": "Sirke tadında",
+      "answer": "EKŞİ",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Parmak ucu",
+      "answer": "TIRNAK",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -148,51 +169,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 3
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 2,
+      "col": 7
     },
     {
       "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
       "col": 0
     },
     {
       "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 7
+      "col": 0
     },
     {
       "row": 10,
@@ -200,5 +197,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 99
+  "order": 78
 }

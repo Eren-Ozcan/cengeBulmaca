@@ -1,125 +1,125 @@
 {
   "id": "puzzle-163",
-  "title": "Bulmaca 20",
+  "title": "Bulmaca 6",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Kıble nişi",
-      "answer": "MİHRAP",
+      "text": "Yenilikten yana",
+      "answer": "İLERİCİ",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kötü",
-      "answer": "FENA",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mücellit",
-      "answer": "CİLTÇİ",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Muvaffakiyet",
-      "answer": "BAŞARI",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üzüm posası",
-      "answer": "CİBRE",
-      "row": 6,
+      "text": "Taş kırıntısı",
+      "answer": "KUM",
+      "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Tohum ekme makinesi",
-      "answer": "MİBZER",
+      "text": "İnce lif",
+      "answer": "İPLİK",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ortak topluluk",
+      "answer": "CAMİA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Doğa",
+      "answer": "TABİAT",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sivri sebze",
+      "answer": "BAMYA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çalışma tasarısı",
-      "answer": "PROJE",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Zehirli element",
-      "answer": "ARSENİK",
-      "row": 8,
+      "text": "Film metni",
+      "answer": "SENARYO",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güç, takat",
-      "answer": "MECAL",
-      "row": 0,
+      "text": "Cevap",
+      "answer": "YANIT",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Selçuklu lalası",
+      "answer": "ATABEY",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Alçalan yol",
-      "answer": "İNİŞ",
+      "text": "Onuncu ay",
+      "answer": "EKİM",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Patates atıştırmalığı",
-      "answer": "CİPS",
+      "text": "'Ben'in yönelme hâli",
+      "answer": "BANA",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Babanın kız kardeşi",
-      "answer": "HALA",
+      "text": "Hindistan parası",
+      "answer": "RUPİ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gösterge çubuğu",
-      "answer": "İBRE",
+      "text": "Dinî inanç",
+      "answer": "İMAN",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hamsi ilimiz",
-      "answer": "TRABZON",
-      "row": 2,
+      "text": "Yazım kuralları",
+      "answer": "İMLA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "At yetiştiren kimse",
-      "answer": "ATÇI",
-      "row": 0,
-      "col": 5,
+      "text": "Farklı",
+      "answer": "AYRI",
+      "row": 5,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yönetmenlik işi",
-      "answer": "REJİ",
+      "text": "Esnek giysi",
+      "answer": "TAYT",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Lüzum",
-      "answer": "GEREK",
-      "row": 4,
+      "text": "Elverişli şart",
+      "answer": "İMKAN",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -127,29 +127,37 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 5
     },
     {
       "row": 2,
-      "col": 6
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 4,
+      "col": 5
     },
     {
       "row": 6,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 20
+  "order": 6
 }

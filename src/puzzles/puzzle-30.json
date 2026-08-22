@@ -1,146 +1,160 @@
 {
   "id": "puzzle-30",
-  "title": "Bulmaca 62",
+  "title": "Bulmaca 111",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Sıvı aracı",
-      "answer": "HUNİ",
+      "text": "Hınzır",
+      "answer": "DOMUZ",
       "row": 0,
-      "col": 4,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Eylem, hareket",
-      "answer": "AKSİYON",
+      "text": "Şehvet uyandıran",
+      "answer": "EROTİK",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hükümdar kızı",
-      "answer": "PRENSES",
+      "text": "Havada takla",
+      "answer": "PERENDE",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tüylü yaz meyvesi",
-      "answer": "ŞEFTALİ",
+      "text": "Dili dolaşan",
+      "answer": "PELTEK",
       "row": 4,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Keskin bıçak",
-      "answer": "KAMA",
+      "text": "Omuz örtüsü",
+      "answer": "ŞAL",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gürcistan para birimi",
-      "answer": "LARİ",
+      "text": "Dikeni olan",
+      "answer": "DİKENLİ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mafsal",
-      "answer": "EKLEM",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
+      "text": "Göz-kulak arası",
+      "answer": "ŞAKAK",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Doyum sağlama",
-      "answer": "TATMİN",
+      "text": "Leylek sesi",
+      "answer": "LAKLAK",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Turnusol kızartan",
-      "answer": "ASİT",
+      "text": "Patlayıcı madde",
+      "answer": "MERMİ",
       "row": 9,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yakalı üst giysi",
-      "answer": "GÖMLEK",
+      "text": "Takas",
+      "answer": "TRAMPA",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Alık, sünepe",
-      "answer": "ŞAPŞAL",
+      "text": "Giysi bölmesi",
+      "answer": "CEP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Süt tatlısı",
-      "answer": "KREMA",
+      "text": "Hak, hukuk",
+      "answer": "ADALET",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bire bir kopya",
+      "answer": "REPLİKA",
       "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Elçilik",
-      "answer": "SEFARET",
-      "row": 1,
+      "text": "Altın sarısı",
+      "answer": "DORE",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hindistan halkından",
-      "answer": "HİNT",
+      "text": "Maden süslemesi",
+      "answer": "KAKMA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Konaklama işletmesi",
+      "answer": "OTEL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eksiği tamamlama",
-      "answer": "İKMAL",
+      "text": "Mafsal",
+      "answer": "EKLEM",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yumuşak başlı",
-      "answer": "UYSAL",
+      "text": "Yakasız gömlek",
+      "answer": "MİNTAN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ortaokul sonrası",
-      "answer": "LİSE",
-      "row": 6,
+      "text": "Üçgen çalgı",
+      "answer": "ARP",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Doğuş bayramı",
-      "answer": "NOEL",
+      "text": "Çözülmemiş dert",
+      "answer": "UKDE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kedi, köpek yavrusu",
-      "answer": "ENİK",
-      "row": 6,
+      "text": "Yiyecek parçası",
+      "answer": "LOKMA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Uyumlu düzen",
-      "answer": "İNSİCAM",
-      "row": 0,
+      "text": "Canı her şeyi çeken",
+      "answer": "EKTİ",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -156,23 +170,15 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 7
     },
     {
       "row": 1,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 6
-    },
-    {
       "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 1
+      "col": 7
     },
     {
       "row": 8,
@@ -183,18 +189,10 @@
       "col": 0
     },
     {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 2
-    },
-    {
       "row": 10,
       "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 62
+  "order": 111
 }

@@ -1,167 +1,181 @@
 {
   "id": "puzzle-69",
-  "title": "Bulmaca 81",
+  "title": "Bulmaca 65",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Takılarak konuşan",
-      "answer": "KEKEME",
-      "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Enerji ölçü birimi",
-      "answer": "KALORİ",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İri yapılı",
-      "answer": "CÜSSELİ",
-      "row": 2,
+      "text": "Yumuşak oturak",
+      "answer": "PUF",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yatak giysisi",
-      "answer": "PİJAMA",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Altıdan sonraki sayı",
-      "answer": "YEDİ",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Defa",
-      "answer": "KERE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Halk dörtlüğü",
-      "answer": "MANİ",
-      "row": 6,
+      "text": "Üstün zekâlı",
+      "answer": "DAHİ",
+      "row": 0,
       "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Kargaşa",
-      "answer": "HENGAME",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kokulu bahar çiçeği",
-      "answer": "NERGİS",
-      "row": 9,
+      "text": "Taş mezar",
+      "answer": "LAHİT",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tedavi sıvısı",
-      "answer": "SERUM",
-      "row": 9,
+      "text": "Evliliğin ilk ayı",
+      "answer": "BALAYI",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Rezil",
-      "answer": "KEPAZE",
+      "text": "Gösterişli görkem",
+      "answer": "ŞATAFAT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ülke çizgisi",
+      "answer": "SINIR",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dede, cet",
+      "answer": "ATA",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yumurtalı tatlı",
+      "answer": "KREP",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sahne sanatı",
+      "answer": "TİYATRO",
+      "row": 7,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sergi salonu",
+      "answer": "GALERİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kalın tahta",
+      "answer": "KALAS",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Frekans birimi",
+      "answer": "HERTZ",
       "row": 11,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kabiliyet",
-      "answer": "YETENEK",
-      "row": 4,
+      "text": "Nakliyat",
+      "answer": "ULAŞIM",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bilirkişi",
-      "answer": "EKSPER",
+      "text": "Anıtsal kapı",
+      "answer": "TAK",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ve benzerleri",
+      "answer": "FALAN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hangi yer",
-      "answer": "NERE",
-      "row": 7,
+      "text": "Savunma aracı",
+      "answer": "SİLAH",
+      "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Övgü şiiri",
-      "answer": "KASİDE",
-      "row": 0,
+      "text": "Anımsama gücü",
+      "answer": "HATIR",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Küme",
-      "answer": "GRUP",
+      "text": "At kılları",
+      "answer": "YELE",
       "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hüzünlü şiir",
-      "answer": "ELEJİ",
+      "text": "Ülke, yurt",
+      "answer": "DİYAR",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yer altı kayacı",
-      "answer": "MAGMA",
+      "text": "Kesin yargı",
+      "answer": "KARAR",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ara verme",
-      "answer": "MOLA",
+      "text": "Kaynak gösterme",
+      "answer": "ATIF",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Koruyucu, kayıran",
-      "answer": "HAMİ",
+      "text": "Sanatçı, oyuncu",
+      "answer": "ARTİST",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Menzil",
-      "answer": "ERİM",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Cansız varlık",
-      "answer": "NESNE",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Nakit değil",
-      "answer": "AYNİ",
+      "text": "Ana yol",
+      "answer": "ARTER",
       "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayak direme",
+      "answer": "İNAT",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Köpek emri",
+      "answer": "APORT",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -169,43 +183,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 3
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 7
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 7
+      "col": 6
     },
     {
       "row": 10,
-      "col": 5
+      "col": 6
     },
     {
-      "row": 10,
-      "col": 7
+      "row": 11,
+      "col": 0
     },
     {
       "row": 11,
@@ -213,5 +219,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 81
+  "order": 65
 }

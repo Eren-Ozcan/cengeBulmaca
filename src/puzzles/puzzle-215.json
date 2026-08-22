@@ -1,0 +1,164 @@
+{
+  "id": "puzzle-215",
+  "title": "Bulmaca 66",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Özverili",
+      "answer": "FEDAKAR",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Deri hastalığı",
+      "answer": "UYUZ",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yıkıntı kalıntısı",
+      "answer": "MOLOZ",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yanlış kelime",
+      "answer": "GALAT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Saç kurutma",
+      "answer": "FÖN",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yeterince olan",
+      "answer": "YETERLİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Niğde'nin ilçesi",
+      "answer": "BOR",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Beyin oğlu",
+      "answer": "BEYZADE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Konar göçer",
+      "answer": "GÖÇEBE",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanma gazı",
+      "answer": "DUMAN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Deneyimsiz, acemi",
+      "answer": "TOY",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şaşkınlık sözü",
+      "answer": "AYOL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tuğla arası harç",
+      "answer": "DERZ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzaklık ölçüsü",
+      "answer": "KULAÇ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hava gazı",
+      "answer": "AZOT",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yolsuzluk kuşkusu",
+      "answer": "ŞAİBE",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 4
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    }
+  ],
+  "difficulty": "orta",
+  "order": 66
+}

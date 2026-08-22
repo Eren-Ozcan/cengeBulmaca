@@ -1,125 +1,139 @@
 {
   "id": "puzzle-162",
-  "title": "Bulmaca 60",
+  "title": "Bulmaca 29",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Para yatıran",
-      "answer": "MUDİ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çıkarsız, samimi",
-      "answer": "İÇTEN",
-      "row": 2,
+      "text": "Ödünç para",
+      "answer": "KREDİ",
+      "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Doruk",
-      "answer": "ZİRVE",
+      "text": "Ün, şöhret",
+      "answer": "ŞAN",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Dokuma yaygı",
+      "answer": "KİLİM",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Üst meclis",
-      "answer": "SENATO",
+      "text": "Mısır'ın başkenti",
+      "answer": "KAHİRE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sebep",
-      "answer": "NEDEN",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlı saray görevlisi",
-      "answer": "ÇUHADAR",
-      "row": 6,
+      "text": "Bir tutam",
+      "answer": "ELÇİM",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Atlı spor",
-      "answer": "CİRİT",
-      "row": 8,
+      "text": "Alım satım ortamı",
+      "answer": "PİYASA",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kap tutamağı",
-      "answer": "KULP",
-      "row": 8,
+      "text": "Ürün listesi",
+      "answer": "KATALOG",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Program takdimcisi",
-      "answer": "SUNUCU",
+      "text": "Gemi omurgası",
+      "answer": "KARİNA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Böcek sesi",
+      "answer": "VIZ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Koni biçimli başlık",
+      "answer": "KALPAK",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Mısra",
-      "answer": "DİZE",
+      "text": "Oyuncak bebek",
+      "answer": "KUKA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yetkin, uzman",
-      "answer": "EHİL",
+      "text": "Benekli kedi",
+      "answer": "ÇİTA",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Amacıyla, maksadıyla",
-      "answer": "İÇİN",
+      "text": "Yaşlı",
+      "answer": "İHTİYAR",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek başına olmayan",
+      "answer": "EŞLİ",
       "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dövme, vurma",
-      "answer": "DARP",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağır oyun türü",
-      "answer": "TRAJEDİ",
-      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde ölüm",
-      "answer": "MEVT",
+      "text": "Parayla ilgili",
+      "answer": "MALİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Konut bölümü",
+      "answer": "DAİRE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Batı savunma ittifakı",
-      "answer": "NATO",
-      "row": 5,
+      "text": "Bitiş, nihayet",
+      "answer": "SON",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tabelalarda parlayan gaz",
-      "answer": "NEON",
-      "row": 1,
+      "text": "Felç",
+      "answer": "İNME",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kuşların ağzı",
+      "answer": "GAGA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -131,41 +145,13 @@
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 3
     },
     {
       "row": 2,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 60
+  "difficulty": "kolay",
+  "order": 29
 }

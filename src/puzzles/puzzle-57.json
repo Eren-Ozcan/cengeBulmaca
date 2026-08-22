@@ -1,160 +1,174 @@
 {
   "id": "puzzle-57",
-  "title": "Bulmaca 31",
+  "title": "Bulmaca 122",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Renkli kanatlı böcek",
-      "answer": "KELEBEK",
-      "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Muhtemel",
-      "answer": "OLASI",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Saydam taş",
-      "answer": "BERİL",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kutsal tasvir",
-      "answer": "İKONA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaptırım",
-      "answer": "CEZA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ses çıkarmayan",
-      "answer": "SESSİZ",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yakasız gömlek",
-      "answer": "MİNTAN",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Uzun gagalı balık",
-      "answer": "ZARGANA",
-      "row": 8,
+      "text": "Temel öz",
+      "answer": "ESAS",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güçlü inanç",
-      "answer": "İNAN",
+      "text": "Tutulan kimse",
+      "answer": "REHİNE",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tuzlu bisküvi",
+      "answer": "KRAKER",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tedavi kurumu",
+      "answer": "HASTANE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Konuşma konusu",
+      "answer": "SADET",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Üzüm içkisi",
+      "answer": "ŞARAP",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kızartılmış hamur",
+      "answer": "PİŞİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İspanya'da bir halk",
+      "answer": "BASK",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Mal çıkarma",
+      "answer": "ÜRETİM",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Demirci aracı",
+      "answer": "ÖRS",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Evlilik dışı ilişki",
+      "answer": "ZİNA",
       "row": 10,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ayakkabı demiri",
-      "answer": "NALÇA",
+      "text": "Ölçülü davranma",
+      "answer": "TEMKİN",
       "row": 11,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Top cismi",
-      "answer": "KÜRE",
-      "row": 0,
+      "text": "Sert, kırıcı",
+      "answer": "HAŞİN",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Pik",
-      "answer": "MAÇA",
+      "text": "Dost",
+      "answer": "ARKADAŞ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Alt karşıtı",
+      "answer": "ÜST",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İşsiz güçsüz",
+      "answer": "SERSERİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bile, üstelik",
+      "answer": "HATTA",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İçkili meclis",
+      "answer": "BEZM",
       "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bölünmüş sayı",
-      "answer": "KESİR",
-      "row": 5,
-      "col": 1,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Giriş holü",
-      "answer": "LOBİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Varlıklı",
-      "answer": "ZENGİN",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Eleme aracı",
-      "answer": "ELEK",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "17-18. yüzyıl üslubu",
-      "answer": "BAROK",
+      "text": "Şeffaf mineral",
+      "answer": "MİKA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zihinde tasarlanan",
-      "answer": "SANAL",
-      "row": 6,
+      "text": "Kullanışlı",
+      "answer": "PRATİK",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İlham",
-      "answer": "ESİN",
-      "row": 0,
+      "text": "Nine",
+      "answer": "NENE",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bağlı düşünce",
-      "answer": "İNANÇ",
+      "text": "Yemek tepsisi",
+      "answer": "SİNİ",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yuvarlak başlık",
+      "answer": "BERE",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Bozulmamış, saf",
+      "answer": "AKMAN",
       "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Rehber",
-      "answer": "KILAVUZ",
-      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -162,11 +176,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 2
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 2,
@@ -177,42 +195,22 @@
       "col": 0
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 5,
+      "col": 7
     },
     {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
+      "row": 6,
       "col": 6
     },
     {
-      "row": 7,
-      "col": 0
-    },
-    {
       "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
       "col": 0
-    },
-    {
-      "row": 10,
-      "col": 7
     },
     {
       "row": 11,
       "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 31
+  "difficulty": "zor",
+  "order": 122
 }

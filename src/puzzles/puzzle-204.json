@@ -1,146 +1,174 @@
 {
   "id": "puzzle-204",
-  "title": "Bulmaca 101",
+  "title": "Bulmaca 102",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Karayipler'de ada ülkesi",
-      "answer": "KÜBA",
+      "text": "Yeter, elverir",
+      "answer": "KAFİ",
       "row": 0,
-      "col": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Delikanlı, yiğit",
-      "answer": "DADAŞ",
-      "row": 1,
+      "text": "Bira tahılı",
+      "answer": "ARPA",
+      "row": 2,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Moda gösterisi",
-      "answer": "DEFİLE",
+      "text": "Takat",
+      "answer": "DERMAN",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üçgenleme noktası",
-      "answer": "NİRENGİ",
+      "text": "Tarım",
+      "answer": "ZİRAAT",
       "row": 4,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kumaş kıvrımı",
-      "answer": "PİLE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yenilen ürün",
-      "answer": "MEYVE",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Alkollü içecek",
-      "answer": "İÇKİ",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Anasız çocuk",
-      "answer": "ÖKSÜZ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Diri, canlı",
-      "answer": "ZİNDE",
-      "row": 9,
+      "text": "Çentik işareti",
+      "answer": "KERTE",
+      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kesintisiz miktar",
-      "answer": "BRÜT",
+      "text": "Taraf, istikamet",
+      "answer": "YÖN",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Mahalle esnafı",
+      "answer": "BAKKAL",
+      "row": 6,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dinen izinli",
+      "answer": "HELAL",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şahsi",
+      "answer": "KİŞİSEL",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Utanç veren, yakışıksız",
+      "answer": "AYIP",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Olumsuz",
-      "answer": "MENFİ",
+      "text": "Antik Yunanlı",
+      "answer": "GREK",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Silindir kap",
+      "answer": "TÜP",
       "row": 11,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kot kumaşı",
-      "answer": "DENİM",
-      "row": 1,
+      "text": "Mısra",
+      "answer": "DİZE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Evli olmayan",
+      "answer": "BEKAR",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kaba yün kumaş",
-      "answer": "KEBE",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yolcu topluluğu",
-      "answer": "KAFİLE",
+      "text": "Zorunlu ibadet",
+      "answer": "FARZ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Fauna",
-      "answer": "DİREY",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bağ meyvesi",
-      "answer": "ÜZÜM",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Surlu yapı",
-      "answer": "KALE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hasta ziyareti",
-      "answer": "VİZİTE",
+      "text": "Devlet gelirleri",
+      "answer": "MALİYE",
       "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Buğday unu",
+      "answer": "İRMİK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemek aracı",
+      "answer": "KAŞIK",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Parça",
+      "answer": "PARE",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tembel, üşenen",
-      "answer": "ÜŞENGEÇ",
+      "text": "Şarkı filmi",
+      "answer": "KLİP",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sarı kafes kuşu",
+      "answer": "KANARYA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Belgelikçi",
-      "answer": "ARŞİVCİ",
-      "row": 0,
+      "text": "Zanaat çalışma yeri",
+      "answer": "ATÖLYE",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Dalga aleti",
+      "answer": "ANTEN",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük büyüteç",
+      "answer": "LUP",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     }
@@ -148,59 +176,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
       "col": 6
     },
     {
+      "row": 0,
+      "col": 7
+    },
+    {
       "row": 1,
-      "col": 0
+      "col": 6
     },
     {
       "row": 2,
       "col": 6
     },
     {
-      "row": 3,
-      "col": 6
-    },
-    {
       "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 6
+      "col": 1
     },
     {
       "row": 7,
-      "col": 2
+      "col": 7
     },
     {
       "row": 8,
       "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 0
     },
     {
       "row": 10,
@@ -209,16 +217,8 @@
     {
       "row": 10,
       "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 0
     }
   ],
   "difficulty": "orta",
-  "order": 101
+  "order": 102
 }

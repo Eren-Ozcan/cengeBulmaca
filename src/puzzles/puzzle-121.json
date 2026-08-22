@@ -1,139 +1,174 @@
 {
   "id": "puzzle-121",
-  "title": "Bulmaca 131",
+  "title": "Bulmaca 95",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Dinî sakınma",
-      "answer": "TAKVA",
+      "text": "Bağ, münasebet",
+      "answer": "İLİŞKİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dehşet verici",
-      "answer": "KORKUNÇ",
+      "text": "Akış hâli",
+      "answer": "AKMA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kramp",
+      "answer": "SPAZM",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Büyük akarsu, nehir",
-      "answer": "IRMAK",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Berber bıçağı",
-      "answer": "USTURA",
-      "row": 4,
+      "text": "Kale sayısı",
+      "answer": "GOL",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Melez hayvan",
-      "answer": "KATIR",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğu",
-      "answer": "ŞARK",
-      "row": 7,
+      "text": "Çalışma mobilyası",
+      "answer": "MASA",
+      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Haşarı, yaramaz",
-      "answer": "UÇARI",
+      "text": "Yılın son ayı",
+      "answer": "ARALIK",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Akşam yönü",
+      "answer": "BATI",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kıble nişi",
+      "answer": "MİHRAP",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yapışkan şerit",
+      "answer": "BANT",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Alçak basınç fırtınası",
-      "answer": "SİKLON",
+      "text": "Kaplıca",
+      "answer": "ILICA",
       "row": 9,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Aydın ilçesi",
-      "answer": "SÖKE",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Güç, takat",
+      "answer": "MECAL",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Aşırıya kaçmayan",
-      "answer": "ILIMLI",
+      "text": "Kin, garaz",
+      "answer": "HINÇ",
       "row": 11,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Pens, kerpeten",
-      "answer": "KISKAÇ",
-      "row": 2,
+      "text": "Kement",
+      "answer": "LASO",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Merkez nokta",
-      "answer": "ORTA",
+      "text": "Savaşçı kadın",
+      "answer": "AMAZON",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "78 numaralı element",
+      "answer": "PLATİN",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Asma aracı",
-      "answer": "ASKI",
-      "row": 7,
-      "col": 2,
+      "text": "Liman kıyısı",
+      "answer": "RIHTIM",
+      "row": 4,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Baharatlı şarap",
-      "answer": "VERMUT",
+      "text": "Toprak aleti",
+      "answer": "KAZMA",
       "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kamboçya para birimi",
-      "answer": "RİEL",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Düzensiz, karma",
-      "answer": "KARIŞIK",
-      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Züğürt",
-      "answer": "FUKARA",
-      "row": 1,
+      "text": "Aleyh karşıtı",
+      "answer": "LEH",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eksiği tamamlama",
+      "answer": "İKMAL",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Abartan erkek",
-      "answer": "MAÇO",
-      "row": 0,
+      "text": "Nişancı",
+      "answer": "ATICI",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sırbistan halkından",
+      "answer": "SIRP",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaşam gücü",
+      "answer": "CAN",
+      "row": 8,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok beyaz",
+      "answer": "APAK",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sınır savaşçısı",
-      "answer": "AKINCI",
-      "row": 5,
+      "text": "Toprak örtü malzemesi",
+      "answer": "MALÇ",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -141,23 +176,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
+      "col": 3
     },
     {
       "row": 0,
       "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
@@ -168,46 +199,30 @@
       "col": 0
     },
     {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
       "row": 6,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 10,
       "col": 4
     },
     {
-      "row": 10,
-      "col": 5
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
     },
     {
       "row": 10,
-      "col": 6
+      "col": 0
     },
     {
       "row": 11,
       "col": 0
+    },
+    {
+      "row": 11,
+      "col": 2
     }
   ],
-  "difficulty": "zor",
-  "order": 131
+  "difficulty": "orta",
+  "order": 95
 }

@@ -1,209 +1,195 @@
 {
   "id": "puzzle-196",
-  "title": "Bulmaca 108",
+  "title": "Bulmaca 140",
   "rows": 13,
   "cols": 9,
   "clues": [
     {
-      "text": "O biçimde",
-      "answer": "ÖYLE",
+      "text": "Dikişsiz kıyafet",
+      "answer": "İHRAM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Saat söylerken kullanılan",
-      "answer": "KALA",
-      "row": 1,
-      "col": 4,
+      "text": "Bağ meyvesi",
+      "answer": "ÜZÜM",
+      "row": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Zanaat sahibi",
-      "answer": "ESNAF",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Çağ, dönem",
-      "answer": "DEVR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İlaç, çare",
-      "answer": "DEVA",
+      "text": "Çok sarı",
+      "answer": "SAPSARI",
       "row": 3,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yılın altıncı ayı",
-      "answer": "HAZİRAN",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ürün sergisi",
-      "answer": "FUAR",
-      "row": 4,
+      "text": "Katıksız, arı",
+      "answer": "SAF",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Süs köpeği",
-      "answer": "FİNO",
-      "row": 5,
-      "col": 4,
+      "text": "Telefon kulaklığı",
+      "answer": "AHİZE",
+      "row": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yüz rengi",
-      "answer": "BENİZ",
+      "text": "Ses uygunluğu",
+      "answer": "RİTİM",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dokunma, ilişki",
+      "answer": "TEMAS",
       "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yumuşak deri",
-      "answer": "SÜET",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eşya deposu",
-      "answer": "ARDİYE",
-      "row": 8,
-      "col": 2,
+      "text": "Erkek keçi",
+      "answer": "TEKE",
+      "row": 7,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yanılma, dalgınlık",
-      "answer": "SEHV",
-      "row": 8,
+      "text": "Suni",
+      "answer": "YAPAY",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Külhanbeyi",
-      "answer": "APAŞ",
+      "text": "Küçük boru",
+      "answer": "ZIVANA",
       "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Pamuklu spor giysi",
-      "answer": "TİŞÖRT",
-      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eski dilde tuvalet",
-      "answer": "HELA",
-      "row": 10,
+      "text": "Zeki deniz memelisi",
+      "answer": "YUNUS",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Satış noktası",
-      "answer": "BAYİ",
-      "row": 11,
-      "col": 4,
+      "text": "Yakışıklı başrol",
+      "answer": "JÖN",
+      "row": 10,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Ucu eğri kanca",
-      "answer": "ÇENGEL",
+      "text": "Doğu Anadolu ilimiz",
+      "answer": "KARS",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çoğalma",
+      "answer": "ARTIŞ",
       "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Jeneratör",
-      "answer": "ÜRETEÇ",
+      "text": "Küçük kale",
+      "answer": "HİSAR",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tanksavar silah",
+      "answer": "BAZUKA",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yazılı tabela",
-      "answer": "LEVHA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çıkar aldatmacası",
-      "answer": "HİLE",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gizli sır",
-      "answer": "ESRAR",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıçrayan otçul",
-      "answer": "TAVŞAN",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tüylü kumaş",
-      "answer": "KADİFE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sert çarpma",
-      "answer": "DARBE",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bravo",
-      "answer": "AFERİN",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Geçersiz kılma",
-      "answer": "İPTAL",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tatlı kokusu",
-      "answer": "VANİLYA",
+      "text": "Duvara asılan ilan",
+      "answer": "AFİŞ",
       "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaynak su",
+      "answer": "PINAR",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanak içi",
+      "answer": "AVURT",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Elverişli",
+      "answer": "MÜSAİT",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yayvan, düz",
+      "answer": "YASSI",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıkıntı, güçlük",
+      "answer": "ZAHMET",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Seçiciler kurulu",
+      "answer": "JÜRİ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İleti",
+      "answer": "MESAJ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun saplı silah",
+      "answer": "MIZRAK",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Sert siyah ağaç",
-      "answer": "ABANOZ",
-      "row": 0,
-      "col": 8,
+      "text": "Parça, unsur",
+      "answer": "ÖGE",
+      "row": 9,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Birlikte olma",
-      "answer": "EŞLİK",
-      "row": 7,
+      "text": "Mevsim",
+      "answer": "SEZON",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -211,33 +197,73 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 6,
       "col": 2
     },
     {
-      "row": 7,
-      "col": 4
+      "row": 0,
+      "col": 3
     },
     {
-      "row": 10,
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 7
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 1,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 8
+    },
+    {
+      "row": 3,
+      "col": 8
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 11,
+      "col": 5
+    },
+    {
+      "row": 11,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 8
     },
     {
       "row": 12,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "zor",
-  "order": 108
+  "order": 140
 }

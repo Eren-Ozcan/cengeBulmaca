@@ -1,131 +1,131 @@
 {
   "id": "puzzle-53",
-  "title": "Bulmaca 127",
+  "title": "Bulmaca 34",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Karşı görüşlü",
-      "answer": "MUHALİF",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Tutarık hastalığı",
+      "answer": "SARA",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Sanatta tarz",
-      "answer": "JANR",
+      "text": "Öz olmayan",
+      "answer": "ÜVEY",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kabuklu besin",
-      "answer": "YUMURTA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Göz kapağı kılı",
-      "answer": "KİRPİK",
-      "row": 4,
+      "text": "Sözcük",
+      "answer": "KELİME",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nicelik",
-      "answer": "MİKTAR",
+      "text": "Burun boşluğu yangısı",
+      "answer": "SİNÜZİT",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gümüş element",
+      "answer": "NİKEL",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Alt kurul",
+      "answer": "KOMİTE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Lezzetli, mükemmel",
+      "answer": "NEFİS",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dev dalga",
+      "answer": "TSUNAMİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Faal olan",
+      "answer": "ETKİN",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İyiden iyiye",
+      "answer": "ENİKONU",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kan emici",
+      "answer": "SÜLÜK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Engelleme, yasak",
+      "answer": "MEN",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çok bilgili",
-      "answer": "ALLAME",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dörtnal koşu",
-      "answer": "GALOP",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Cilt bağı",
-      "answer": "ŞİRAZE",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dudak kabarcığı",
-      "answer": "UÇUK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Aylık ücret",
-      "answer": "MAAŞ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük at",
-      "answer": "MİDİLLİ",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İşlemede boşluk",
-      "answer": "AJUR",
-      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Cl simgeli element",
-      "answer": "KLOR",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ansızın, birdenbire",
-      "answer": "LARP",
+      "text": "Tavan lambası",
+      "answer": "AVİZE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Şişe tıkacı",
-      "answer": "TAPA",
-      "row": 5,
+      "text": "Yerine getirme",
+      "answer": "İFA",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Düzenlilik",
-      "answer": "İNTİZAM",
+      "text": "Kum falı",
+      "answer": "REMİL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Uzun etekli tören ceketi",
-      "answer": "FRAK",
+      "text": "Küçük ekip",
+      "answer": "TİM",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sure bölümü",
+      "answer": "AYET",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Menteşe",
-      "answer": "REZE",
+      "text": "Hayvan besleme",
+      "answer": "BESİ",
       "row": 5,
       "col": 6,
       "arrow": "down"
@@ -134,17 +134,29 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 5,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 1
     }
   ],
-  "difficulty": "zor",
-  "order": 127
+  "difficulty": "kolay",
+  "order": 34
 }

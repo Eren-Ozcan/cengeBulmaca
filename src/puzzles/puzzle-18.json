@@ -1,146 +1,174 @@
 {
   "id": "puzzle-18",
-  "title": "Bulmaca 105",
+  "title": "Bulmaca 53",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Mısır anıtı",
-      "answer": "PİRAMİT",
-      "row": 0,
+      "text": "Merdiven bölümü",
+      "answer": "BASAMAK",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Tropikal rüzgâr",
-      "answer": "ALİZE",
+      "text": "Derme çatma yapı",
+      "answer": "BARAKA",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yüksek görev",
-      "answer": "MAKAM",
+      "text": "İmkân",
+      "answer": "OLANAK",
       "row": 3,
       "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kusur",
-      "answer": "KABAHAT",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Masadaki çiçek kabı",
-      "answer": "VAZO",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yol korkuluğu",
-      "answer": "BARİYER",
-      "row": 6,
-      "col": 0,
       "arrow": "right"
     },
     {
       "text": "Sermaye",
       "answer": "ANAPARA",
-      "row": 7,
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Fransa'nın büyük kenti",
-      "answer": "LYON",
-      "row": 8,
+      "text": "Araç, avadanlık",
+      "answer": "ALET",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İrin birikintisi",
+      "answer": "APSE",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Cilveli kadın",
+      "answer": "ŞUH",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sim işlemeli kumaş",
+      "answer": "LAME",
+      "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Salahiyetli",
-      "answer": "YETKİLİ",
+      "text": "Vefalı",
+      "answer": "VEFAKAR",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İslam'ın beşinci şartı",
+      "answer": "HAC",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Boyama bitkisi",
-      "answer": "KINA",
-      "row": 10,
+      "text": "Taş kütlesi",
+      "answer": "KAYA",
+      "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gösterili eğlence yeri",
-      "answer": "KABARE",
+      "text": "Rezillik",
+      "answer": "REZALET",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kırmızı kan hücresi",
+      "answer": "ALYUVAR",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Oruç ayı",
-      "answer": "RAMAZAN",
+      "text": "Hizmet alan",
+      "answer": "ABONE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Devrilme",
-      "answer": "ALABORA",
+      "text": "Ses birimi",
+      "answer": "HECE",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeşillik karışımı",
+      "answer": "SALATA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Şeffaf mineral",
-      "answer": "MİKA",
+      "text": "Ortadoğu halkı",
+      "answer": "ARAP",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İnce lif",
-      "answer": "İPLİK",
+      "text": "Numara levhası",
+      "answer": "PLAKA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Açıklama, izahat",
-      "answer": "İZAH",
+      "text": "Anlam",
+      "answer": "MANA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yayı olan",
-      "answer": "YAYLI",
+      "text": "Yüz kılları",
+      "answer": "SAKAL",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Asıl konu",
-      "answer": "TEMA",
+      "text": "Gelir taşınmazı",
+      "answer": "AKAR",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Morfin türevi",
-      "answer": "EROİN",
+      "text": "Sırlı kap",
+      "answer": "EMAYE",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Arnavutluk'un başkenti",
-      "answer": "TİRAN",
-      "row": 3,
+      "text": "Çikolata maddesi",
+      "answer": "KAKAO",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Erler topluluğu",
+      "answer": "ERAT",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -148,49 +176,21 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
+      "col": 1
     },
     {
       "row": 2,
       "col": 0
-    },
-    {
-      "row": 2,
-      "col": 7
     },
     {
       "row": 3,
       "col": 0
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
-    },
-    {
-      "row": 10,
-      "col": 2
     }
   ],
-  "difficulty": "zor",
-  "order": 105
+  "difficulty": "kolay",
+  "order": 53
 }

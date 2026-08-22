@@ -1,159 +1,166 @@
 {
   "id": "puzzle-12",
-  "title": "Bulmaca 128",
+  "title": "Bulmaca 100",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Tekdüze",
-      "answer": "MONOTON",
+      "text": "Sebep, bahane",
+      "answer": "VESİLE",
       "row": 1,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Oyuncak bebek",
-      "answer": "KUKA",
+      "text": "Umut",
+      "answer": "ÜMİT",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Cilt maddesi",
-      "answer": "KREM",
+      "text": "Taharri",
+      "answer": "ARAMA",
       "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski dilde dünya",
+      "answer": "ALEM",
+      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yangın söndürme",
-      "answer": "İTFAİYE",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İzlenen yol",
-      "answer": "USUL",
+      "text": "Askerî yönetim",
+      "answer": "KOMUTA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Erkek bezi",
-      "answer": "PROSTAT",
+      "text": "Miktar sorusu",
+      "answer": "KAÇ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uzunluk birimi",
-      "answer": "METRE",
+      "text": "Bin kilogram",
+      "answer": "TON",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Çalışmaz durumda",
+      "answer": "BOZUK",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Askerî hücum",
-      "answer": "TAARRUZ",
+      "text": "Biçilmiş tomruk",
+      "answer": "KERESTE",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Karbonatlı içecek",
-      "answer": "SODA",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
+      "text": "Kişi resmi",
+      "answer": "PORTRE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Kütahya ilçesi",
-      "answer": "EMET",
+      "text": "Çaba, uğraş",
+      "answer": "EMEK",
       "row": 10,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bilmece",
-      "answer": "MUAMMA",
+      "text": "Berabere kalma",
+      "answer": "PATA",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güreşçi pantolonu",
-      "answer": "KİSPET",
-      "row": 2,
+      "text": "Kocaman",
+      "answer": "İRİ",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Süslü sanat üslubu",
+      "answer": "ROKOKO",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kakaolu pasta",
-      "answer": "TURTA",
-      "row": 3,
+      "text": "Özür",
+      "answer": "MAZERET",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bitki örtüsü",
-      "answer": "FLORA",
-      "row": 3,
+      "text": "Gökyüzü oyuncağı",
+      "answer": "UÇURTMA",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eski ağırlık ölçüsü",
-      "answer": "OKKA",
+      "text": "Çabukluk, hız",
+      "answer": "SÜRAT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bilinci bulanık",
-      "answer": "SERSEM",
-      "row": 5,
+      "text": "Defa",
+      "answer": "KERE",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gezgin konuk",
-      "answer": "TURİST",
+      "text": "Fabrika üretimi",
+      "answer": "İMALAT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İtalya'nın başkenti",
-      "answer": "ROMA",
+      "text": "Taş oturak",
+      "answer": "SEKİ",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dört kişilik masa oyunu",
-      "answer": "OKEY",
+      "text": "Parça, dilim",
+      "answer": "LİME",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sakin, huzurlu, rahat",
-      "answer": "ASUDE",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Alçak, korkak",
-      "answer": "NAMERT",
+      "text": "Delikli kumaş",
+      "answer": "ETAMİN",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Zaten",
-      "answer": "ZATİ",
+      "text": "49'dan sonraki sayı",
+      "answer": "ELLİ",
       "row": 7,
       "col": 7,
       "arrow": "down"
@@ -177,8 +184,16 @@
       "col": 3
     },
     {
+      "row": 1,
+      "col": 0
+    },
+    {
       "row": 2,
       "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
     },
     {
       "row": 2,
@@ -189,30 +204,22 @@
       "col": 0
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 2
+      "col": 6
     },
     {
       "row": 10,
-      "col": 1
-    },
-    {
-      "row": 10,
-      "col": 2
-    },
-    {
-      "row": 11,
       "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 128
+  "difficulty": "orta",
+  "order": 100
 }

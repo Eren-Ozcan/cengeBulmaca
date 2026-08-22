@@ -1,153 +1,174 @@
 {
   "id": "puzzle-27",
-  "title": "Bulmaca 133",
+  "title": "Bulmaca 51",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Manevi gelişme",
-      "answer": "FEYİZ",
+      "text": "Acayip, garip",
+      "answer": "TUHAF",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Destek kaması",
-      "answer": "TAKOZ",
+      "text": "Tuz üretimi",
+      "answer": "TUZLA",
       "row": 2,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Belge",
-      "answer": "VESİKA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Sonbahar meyvesi",
+      "answer": "ARMUT",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Ayın dolgun hâli",
-      "answer": "DOLUNAY",
+      "text": "Siyah-beyaz memeli",
+      "answer": "PANDA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kıvırcık köpek",
-      "answer": "KANİŞ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sonunda",
-      "answer": "NİHAYET",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Görüntü alıcısı",
-      "answer": "KAMERA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İletken madde",
-      "answer": "METAL",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dev deniz memelisi",
-      "answer": "BALİNA",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İlmikli ip",
-      "answer": "KEMENT",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sağlama, bulma",
-      "answer": "TEDARİK",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sipariş mal",
-      "answer": "FASON",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sallanan yatak",
-      "answer": "HAMAK",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tohumlu tarla",
-      "answer": "EKİLİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gündelikçi işçi",
-      "answer": "AMELE",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Eğimli yer",
-      "answer": "YOKUŞ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Babasız çocuk",
-      "answer": "YETİM",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Anlayış, sağduyu",
-      "answer": "İZAN",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Nağme",
-      "answer": "TERANE",
+      "text": "Yıllık",
+      "answer": "ALMANAK",
       "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boşa çıkarma",
+      "answer": "ISKA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Başsağlığı",
+      "answer": "TAZİYE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Konuşma organı",
+      "answer": "DİL",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Harç aracı",
+      "answer": "MALA",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Serbestlikçi",
+      "answer": "LİBERAL",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyücü kadın",
+      "answer": "CADI",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Üçgen başlı yılan",
+      "answer": "ENGEREK",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tavla küpü",
+      "answer": "ZAR",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Emilen şeker",
+      "answer": "PASTİL",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bazik madde",
+      "answer": "ALKALİ",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Arlanmaz",
+      "answer": "UTANMAZ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İşe yaramaz",
+      "answer": "HURDA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ortak emek",
+      "answer": "İMECE",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Aşırı büyümüş",
+      "answer": "AZMAN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yağma",
-      "answer": "TALAN",
+      "text": "Fayda",
+      "answer": "YARAR",
       "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Net karşıtı",
+      "answer": "FLU",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sayma işi",
-      "answer": "SAYIM",
+      "text": "Bayağı, olağan",
+      "answer": "ALELADE",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Girişken, çevik",
+      "answer": "ATAK",
       "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Şaşkın, ahmak",
+      "answer": "ALIK",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -155,61 +176,37 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 6
+      "col": 2
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 0
-    },
-    {
       "row": 2,
-      "col": 6
+      "col": 1
     },
     {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
+      "row": 6,
       "col": 7
     },
     {
       "row": 10,
-      "col": 7
+      "col": 0
     },
     {
-      "row": 11,
-      "col": 0
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 2
     }
   ],
-  "difficulty": "zor",
-  "order": 133
+  "difficulty": "kolay",
+  "order": 51
 }

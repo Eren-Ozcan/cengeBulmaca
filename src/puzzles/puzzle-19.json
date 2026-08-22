@@ -1,174 +1,230 @@
 {
   "id": "puzzle-19",
-  "title": "Bulmaca 126",
+  "title": "Bulmaca 89",
   "rows": 13,
   "cols": 9,
   "clues": [
     {
-      "text": "İl",
-      "answer": "VİLAYET",
+      "text": "Yankı bilimi",
+      "answer": "AKUSTİK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İkinci Yunan harfi",
+      "answer": "BETA",
       "row": 1,
-      "col": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sibirya ırmağı",
+      "answer": "LENA",
+      "row": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Şiddetli fırtına",
-      "answer": "BORA",
-      "row": 2,
+      "text": "Hoş koku",
+      "answer": "MİS",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuruyan Orta Asya gölü",
+      "answer": "ARAL",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İnanç, görüş",
+      "answer": "KANI",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Cilalı deri",
+      "answer": "LAKE",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ameliyat uyutması",
+      "answer": "NARKOZ",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Denizci",
+      "answer": "GEMİCİ",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İkiyüzlü",
-      "answer": "RİYAKAR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gece uçan memeli",
-      "answer": "YARASA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Buluş belgesi",
-      "answer": "PATENT",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hat ustası",
-      "answer": "HATTAT",
+      "text": "Suçlama",
+      "answer": "İTHAM",
       "row": 6,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bunalım",
-      "answer": "KRİZ",
-      "row": 7,
-      "col": 5,
       "arrow": "down-right"
     },
     {
-      "text": "Nazik kimse",
-      "answer": "EFENDİ",
+      "text": "Başıboş",
+      "answer": "AVARE",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşırı tutkun",
+      "answer": "FANATİK",
       "row": 9,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Devlet çalışanı",
-      "answer": "MEMUR",
+      "text": "Sürat",
+      "answer": "HIZ",
       "row": 10,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Alet takımı",
-      "answer": "EDEVAT",
+      "text": "Yaygınlaşmış haber",
+      "answer": "ŞAYİ",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Darıdan içecek",
+      "answer": "BOZA",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İbadet",
+      "answer": "AMEL",
       "row": 11,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kesin yargı",
-      "answer": "KARAR",
+      "text": "Dar keçiyolu",
+      "answer": "PATİKA",
       "row": 12,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kara",
-      "answer": "SİYAH",
+      "text": "Geçici bırakılan",
+      "answer": "EMANET",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Manyetik birim",
-      "answer": "GAUSS",
-      "row": 7,
+      "text": "Dikkat sözü",
+      "answer": "HOP",
+      "row": 9,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ufki",
-      "answer": "YATAY",
-      "row": 2,
+      "text": "Yunanistan'ın başkenti",
+      "answer": "ATİNA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Oluşan, meydana gelen",
-      "answer": "İBARET",
+      "text": "Beynin arşivi",
+      "answer": "HAFIZA",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok güçlü fırtına",
+      "answer": "KASIRGA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yiyecek",
-      "answer": "YEMEK",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Restoran",
-      "answer": "LOKANTA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Uğurda vazgeçme",
-      "answer": "FEDA",
+      "text": "Serbest bırakma",
+      "answer": "AZAT",
       "row": 8,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaylı çalgı",
+      "answer": "KEMAN",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çarşı sokağı",
-      "answer": "ARASTA",
+      "text": "Kayakta engel geçişi",
+      "answer": "SLALOM",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bel bağı",
-      "answer": "KEMER",
+      "text": "Yırtıcı kedigil",
+      "answer": "VAŞAK",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dokudaki bozulma, bere",
-      "answer": "YARA",
+      "text": "Tartı aleti",
+      "answer": "TERAZİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sıralı yarışma",
-      "answer": "TURNUVA",
-      "row": 5,
+      "text": "Tayin",
+      "answer": "ATAMA",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sidik",
-      "answer": "İDRAR",
-      "row": 7,
+      "text": "Dogma",
+      "answer": "İNAK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İçe doğma",
-      "answer": "ÖNSEZİ",
-      "row": 3,
+      "text": "Saray kölesi",
+      "answer": "CARİYE",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaleyi koruyan",
+      "answer": "KALECİ",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Tohumlu tarla",
+      "answer": "EKİLİ",
+      "row": 7,
       "col": 8,
       "arrow": "down"
     }
@@ -184,47 +240,7 @@
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 8
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 7
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 7,
-      "col": 0
+      "col": 4
     },
     {
       "row": 8,
@@ -232,33 +248,17 @@
     },
     {
       "row": 8,
-      "col": 2
+      "col": 1
     },
     {
       "row": 9,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 8
-    },
-    {
-      "row": 11,
-      "col": 0
-    },
-    {
       "row": 12,
-      "col": 0
-    },
-    {
-      "row": 12,
-      "col": 8
+      "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 126
+  "difficulty": "orta",
+  "order": 89
 }

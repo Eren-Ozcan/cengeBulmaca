@@ -1,132 +1,125 @@
 {
   "id": "puzzle-71",
-  "title": "Bulmaca 7",
+  "title": "Bulmaca 103",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Cezaevi, tutukluluk",
-      "answer": "HAPİS",
+      "text": "Kaba çizim",
+      "answer": "TASLAK",
       "row": 1,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gizli söz",
-      "answer": "PAROLA",
+      "text": "Şiir ustası",
+      "answer": "ŞAİR",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Oruç vakti",
-      "answer": "İMSAK",
-      "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ayak direyen",
-      "answer": "İNATÇI",
+      "text": "Ateş çöpü",
+      "answer": "KİBRİT",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Batı Afrika ülkesi",
+      "answer": "GANA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bağışlama, merhamet",
+      "answer": "RAHMET",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Silindir tavan",
+      "answer": "TONOZ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Pilavlık tane",
+      "answer": "PİRİNÇ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İşitme organı",
+      "answer": "KULAK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Beyaz süs çiçeği",
+      "answer": "KARTOPU",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bildik, tanıdık",
+      "answer": "AŞİNA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Mısır'dan geçen ırmak",
+      "answer": "NİL",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İlk vakit",
+      "answer": "SABAH",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzaktaki yer",
+      "answer": "ORA",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Mitolojik çalgı",
+      "answer": "LİR",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses sanatı",
+      "answer": "MÜZİK",
       "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ölü bezi",
-      "answer": "KEFEN",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tertemiz",
-      "answer": "LEKESİZ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mantar-yosun bitkisi",
-      "answer": "LİKEN",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çoban abası",
-      "answer": "KEPENEK",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gemilerin yanaştığı yer",
-      "answer": "İSKELE",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İhanet eden",
-      "answer": "HAİN",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Takım, kadro",
-      "answer": "EKİP",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Aile işareti",
-      "answer": "ARMA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Adana ilçesi",
-      "answer": "FEKE",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvan derisi",
-      "answer": "POST",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sağlıklı",
-      "answer": "ESEN",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İyileştirici madde",
-      "answer": "İLAÇ",
+      "text": "Önceki gün",
+      "answer": "ARİFE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Büyükanne",
-      "answer": "NİNE",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Reçineli madde",
-      "answer": "SAKIZ",
-      "row": 0,
+      "text": "Top askeri",
+      "answer": "TOPÇU",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -141,26 +134,30 @@
       "col": 1
     },
     {
-      "row": 1,
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
+      "row": 2,
+      "col": 6
     },
     {
       "row": 6,
-      "col": 6
+      "col": 5
     },
     {
-      "row": 8,
-      "col": 6
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 5
     }
   ],
-  "difficulty": "kolay",
-  "order": 7
+  "difficulty": "orta",
+  "order": 103
 }

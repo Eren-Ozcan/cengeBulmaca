@@ -1,139 +1,167 @@
 {
   "id": "puzzle-114",
-  "title": "Bulmaca 27",
+  "title": "Bulmaca 43",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Meclis teklifi",
-      "answer": "ÖNERGE",
+      "text": "Küçük ışık",
+      "answer": "SPOT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ayakkabı topuğu",
-      "answer": "ÖKÇE",
-      "row": 2,
-      "col": 3,
+      "text": "İnanç sistemi",
+      "answer": "DİN",
+      "row": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Ege incisi",
-      "answer": "İZMİR",
-      "row": 3,
+      "text": "Uçtan geniş etek",
+      "answer": "EVAZE",
+      "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Saç bağı şeridi",
-      "answer": "KURDELE",
+      "text": "Koruyucu başlık",
+      "answer": "KASK",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yozlaşmış, bozulmuş, dejenere",
+      "answer": "YOZ",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Taş çekme oyunu",
+      "answer": "TOMBALA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tek satıcılık",
-      "answer": "TEKEL",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeni karşıtı",
-      "answer": "ESKİ",
-      "row": 5,
+      "text": "Taş yolu",
+      "answer": "ŞOSE",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dört dizeli şiir",
-      "answer": "RUBAİ",
+      "text": "Tatlı çörek",
+      "answer": "KEK",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Uzun gezi",
+      "answer": "SEYAHAT",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tarama aracı",
-      "answer": "TARAK",
-      "row": 7,
+      "text": "Oturulacak şey",
+      "answer": "OTURAK",
+      "row": 8,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Maddenin sert hâli",
-      "answer": "KATI",
+      "text": "Gerekli gereçler",
+      "answer": "LEVAZIM",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Basit çizim",
-      "answer": "ŞEMA",
+      "text": "Külhanbeyi",
+      "answer": "APAŞ",
       "row": 10,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Dişi at",
-      "answer": "KISRAK",
-      "row": 3,
+      "text": "Yayla",
+      "answer": "PLATO",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Temel ilke",
-      "answer": "KURAL",
-      "row": 5,
+      "text": "Tek icra",
+      "answer": "SOLO",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kibar çevre",
+      "answer": "SOSYETE",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bağlantı",
-      "answer": "İRTİBAT",
-      "row": 2,
+      "text": "Ayakla vuruş",
+      "answer": "TEKME",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Favori",
-      "answer": "GÖZDE",
-      "row": 0,
+      "text": "Kuşların barınağı",
+      "answer": "YUVA",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Viran",
+      "answer": "HARAP",
+      "row": 5,
       "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kötek",
+      "answer": "DAYAK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Tam anlamıyla",
+      "answer": "HAZA",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yalıtılmış olan",
+      "answer": "İZOLE",
+      "row": 0,
+      "col": 6,
       "arrow": "down"
     },
     {
       "text": "Cereyan",
       "answer": "AKIŞ",
       "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Fırıncı",
-      "answer": "EKMEKÇİ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıkıntılı dönem",
-      "answer": "ÇİLE",
-      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yöresel",
-      "answer": "YEREL",
+      "text": "Kibarlık",
+      "answer": "NEZAKET",
       "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Halk dilinde çocuk",
-      "answer": "ÇAĞA",
-      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -141,59 +169,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 3,
-      "col": 0
+      "col": 4
     },
     {
       "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 6
+      "col": 0
     },
     {
       "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 7
     },
     {
       "row": 10,
@@ -201,9 +189,9 @@
     },
     {
       "row": 10,
-      "col": 1
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 27
+  "order": 43
 }

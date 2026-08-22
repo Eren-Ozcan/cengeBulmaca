@@ -1,125 +1,139 @@
 {
   "id": "puzzle-101",
-  "title": "Bulmaca 26",
+  "title": "Bulmaca 25",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Gösteri levhası",
-      "answer": "PANKART",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Kırmızı değerli taş",
+      "answer": "YAKUT",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Cenaze, ölü beden",
-      "answer": "NAAŞ",
+      "text": "Zevk, hoşlanma",
+      "answer": "BEĞENİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir tür şalvar",
-      "answer": "ÇAKŞIR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Bölük-alay arası",
+      "answer": "TABUR",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Uzun kulaklı hayvan",
-      "answer": "EŞEK",
+      "text": "Doktor kâğıdı",
+      "answer": "REÇETE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İç sıkıntısı",
-      "answer": "KASVET",
-      "row": 6,
+      "text": "Geniş karşıtı",
+      "answer": "DAR",
+      "row": 4,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "İskambilde sinek",
-      "answer": "İSPATİ",
+      "text": "Kâğıt klipsi",
+      "answer": "ATAŞ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Duvar kireci",
+      "answer": "BADANA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yapı parçası",
-      "answer": "MODÜL",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
+      "text": "Ayak düzeni",
+      "answer": "PEDAL",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Yer çizimi",
-      "answer": "HARİTA",
+      "text": "Arkasından gitme",
+      "answer": "TAKİP",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Anaya dayalı düzen",
-      "answer": "ANAERKİ",
-      "row": 0,
+      "text": "İstek, ilgi",
+      "answer": "RAĞBET",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İşleme, nakış",
-      "answer": "NAKŞ",
+      "text": "Kâfi",
+      "answer": "YETER",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Üzüm bitkisi",
-      "answer": "ASMA",
-      "row": 5,
+      "text": "Kara parçası",
+      "answer": "ADA",
+      "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Damga, mühür",
-      "answer": "KAŞE",
+      "text": "Odunsu bitki",
+      "answer": "AĞAÇ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Beden etkinliği",
-      "answer": "SPOR",
+      "text": "Adanan şey, nezir",
+      "answer": "ADAK",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Vurgun, tutkun",
-      "answer": "AŞIK",
+      "text": "Kaba yün kumaş",
+      "answer": "KEBE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dağ arası",
-      "answer": "VADİ",
+      "text": "İkincil, ikinci derece",
+      "answer": "TALİ",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İnceleme, araştırma",
-      "answer": "ETÜT",
-      "row": 5,
+      "text": "Çabuk unutan",
+      "answer": "UNUTKAN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Silahla ele geçirme",
-      "answer": "İSTİLA",
-      "row": 3,
+      "text": "Pamuk ipliği",
+      "answer": "TİRE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Zemin sıvası",
+      "answer": "ŞAP",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -127,33 +141,33 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
     },
     {
       "row": 0,
-      "col": 6
+      "col": 1
     },
     {
-      "row": 2,
-      "col": 5
+      "row": 1,
+      "col": 0
     },
     {
-      "row": 2,
-      "col": 6
+      "row": 3,
+      "col": 0
     },
     {
-      "row": 4,
-      "col": 5
-    },
-    {
-      "row": 5,
+      "row": 6,
       "col": 0
     },
     {
       "row": 8,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 26
+  "order": 25
 }

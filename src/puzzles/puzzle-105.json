@@ -1,195 +1,209 @@
 {
   "id": "puzzle-105",
-  "title": "Bulmaca 39",
+  "title": "Bulmaca 46",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "AB para birimi",
-      "answer": "AVRO",
+      "text": "Duyarlı",
+      "answer": "HASSAS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zorla alma",
-      "answer": "GASP",
-      "row": 1,
+      "text": "Eski konaklama yapısı",
+      "answer": "HAN",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ansızın, birdenbire",
+      "answer": "LARP",
+      "row": 2,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sınırlanmış arazi",
-      "answer": "PARSEL",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Örgü işi",
-      "answer": "ÖRME",
+      "text": "Bin gram",
+      "answer": "KİLO",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İlk Yunan harfi",
-      "answer": "ALFA",
+      "text": "Görevden alma",
+      "answer": "AZİL",
       "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Namaz topluluğu",
-      "answer": "CEMAAT",
+      "text": "Oyun aracı",
+      "answer": "TOP",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Beyaz element",
-      "answer": "KALAY",
+      "text": "Olay, durum",
+      "answer": "VAKA",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İlaç miktarı",
+      "answer": "DOZ",
       "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Merdiven bölümü",
-      "answer": "BASAMAK",
-      "row": 7,
-      "col": 0,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Din uğruna savaş",
-      "answer": "GAZA",
-      "row": 7,
+      "text": "Sıkıntılı dönem",
+      "answer": "ÇİLE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Davul takımı",
+      "answer": "BATERİ",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Vaka, hadise",
-      "answer": "OLAY",
+      "text": "Hâlihazırda",
+      "answer": "HALEN",
       "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Saydam kıvam maddesi",
-      "answer": "JELATİN",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kur'an bölümü",
-      "answer": "SURE",
-      "row": 9,
+      "text": "Bağış",
+      "answer": "HİBE",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "29'dan sonraki sayı",
-      "answer": "OTUZ",
+      "text": "Dışarıda gecelemek",
+      "answer": "YATI",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Cin çağıran",
+      "answer": "CİNCİ",
       "row": 10,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kutlama hareketi",
-      "answer": "TÖREN",
+      "text": "Gösteri çadırı",
+      "answer": "SİRK",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çiçek bölümü",
+      "answer": "TARH",
       "row": 11,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Temel bilgi",
-      "answer": "VERİ",
+      "text": "Yemin, ant",
+      "answer": "AHİT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Lamba siperi",
-      "answer": "ABAJUR",
+      "text": "Gerçek, hakiki",
+      "answer": "SAHİCİ",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yoğun ışık",
-      "answer": "LAZER",
-      "row": 5,
+      "text": "Oturma bölümü",
+      "answer": "SALON",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Petrol ihraç edenler örgütü",
-      "answer": "OPEC",
+      "text": "Rüya yorumlama",
+      "answer": "TABİR",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Züppe",
+      "answer": "SNOP",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Soyluluk",
-      "answer": "ASALET",
+      "text": "Çiçek halkası",
+      "answer": "ÇELENK",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Taşınabilir nesneler",
-      "answer": "EŞYA",
-      "row": 3,
+      "text": "Üzüm şırasından tatlı",
+      "answer": "ŞİRE",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kilogramın binde biri",
-      "answer": "GRAM",
+      "text": "Rus ve Leh soydaşı",
+      "answer": "SLAV",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hareket düzeneği",
-      "answer": "MOTOR",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Hiçbir zaman, kesinlikle",
-      "answer": "ASLA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ürün niteliği",
-      "answer": "KALİTE",
+      "text": "Kahverengi kömür",
+      "answer": "LİNYİT",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağımsız",
+      "answer": "AZADE",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Keyifli hâl",
-      "answer": "SEFA",
+      "text": "Örme kumaş",
+      "answer": "TRİKO",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yasa",
-      "answer": "KANUN",
+      "text": "Erkek sanatçı",
+      "answer": "AKTÖR",
       "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "78 numaralı element",
-      "answer": "PLATİN",
-      "row": 0,
+      "text": "İş merkezi",
+      "answer": "PLAZA",
+      "row": 1,
       "col": 8,
       "arrow": "down"
     }
@@ -197,41 +211,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 4
     },
     {
-      "row": 4,
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 5
-    },
-    {
-      "row": 5,
-      "col": 7
+      "row": 7,
+      "col": 6
     },
     {
       "row": 7,
       "col": 8
     },
     {
-      "row": 9,
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
       "col": 8
     },
     {
-      "row": 11,
-      "col": 0
+      "row": 10,
+      "col": 6
     },
     {
-      "row": 11,
+      "row": 10,
       "col": 8
     }
   ],
   "difficulty": "kolay",
-  "order": 39
+  "order": 46
 }

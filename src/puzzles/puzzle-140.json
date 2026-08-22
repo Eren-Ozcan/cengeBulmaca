@@ -1,132 +1,132 @@
 {
   "id": "puzzle-140",
-  "title": "Bulmaca 68",
+  "title": "Bulmaca 75",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Minicik",
-      "answer": "KÜÇÜCÜK",
+      "text": "Gerçek",
+      "answer": "HAKİKAT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zarf-fiil",
-      "answer": "ULAÇ",
+      "text": "Yoğrulmuş un",
+      "answer": "HAMUR",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Amaç",
-      "answer": "HEDEF",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Çok fazla",
-      "answer": "AŞIRI",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Elverişli",
-      "answer": "MÜSAİT",
-      "row": 5,
-      "col": 1,
+      "text": "Kirli mutfak eşyası",
+      "answer": "BULAŞIK",
+      "row": 2,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yuvarlak kap",
-      "answer": "VARİL",
+      "text": "Temenni",
+      "answer": "DİLEK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kale vuruşu",
+      "answer": "ŞUT",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çok büyük",
+      "answer": "DEVASA",
       "row": 6,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Uzaklaştırma cezası",
-      "answer": "SÜRGÜN",
+      "text": "Saçma sapan",
+      "answer": "ABUK",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Otlak",
+      "answer": "MERA",
       "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Patates atıştırmalığı",
+      "answer": "CİPS",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ses yansıması",
-      "answer": "YANKI",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bağlayan parça",
-      "answer": "KENET",
+      "text": "Böğürtlen benzeri meyve",
+      "answer": "AHUDUDU",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Çalışma mobilyası",
-      "answer": "MASA",
-      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İnce yün kumaş",
-      "answer": "ÇUHA",
+      "text": "Ürün niteliği",
+      "answer": "KALİTE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Üretilen şey",
-      "answer": "ÜRÜN",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bölüşülen pay",
-      "answer": "ÜLEŞ",
+      "text": "Üretim işlemi",
+      "answer": "İMAL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gösteri çadırı",
-      "answer": "SİRK",
+      "text": "Baştan çıkaran kadın",
+      "answer": "VAMP",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Büyücü kadın",
-      "answer": "CADI",
+      "text": "Parlak kâğıt",
+      "answer": "KUŞE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İdrak",
-      "answer": "ALGI",
+      "text": "Gereksiz, yersiz",
+      "answer": "ABES",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Üçlü paylaştırma",
-      "answer": "ÜÇER",
+      "text": "Zayıf, cılız",
+      "answer": "ARIK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Şiddetli rüzgâr",
-      "answer": "FIRTINA",
-      "row": 2,
+      "text": "Kale duvarı",
+      "answer": "SUR",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Aykırılık bağlacı",
+      "answer": "FAKAT",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -134,19 +134,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
-      "row": 5,
-      "col": 5
+      "row": 2,
+      "col": 6
     },
     {
       "row": 7,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
     },
     {
       "row": 9,
@@ -154,5 +158,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 68
+  "order": 75
 }

@@ -1,146 +1,160 @@
 {
   "id": "puzzle-78",
-  "title": "Bulmaca 90",
+  "title": "Bulmaca 88",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Düşmanlık",
-      "answer": "HUSUMET",
-      "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bıçak taşı",
-      "answer": "BİLEĞİ",
+      "text": "Uyarı",
+      "answer": "İHTAR",
       "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Japon savaşçısı",
-      "answer": "SAMURAY",
-      "row": 3,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İplik sarılan",
-      "answer": "MAKARA",
+      "text": "Bekleme bölümü",
+      "answer": "FUAYE",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yağmur suyu deposu",
+      "answer": "SARNIÇ",
       "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski Osmanlı başkenti",
+      "answer": "EDİRNE",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ekin zararlısı böcek",
+      "answer": "SÜNE",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ekonomi bilimi",
-      "answer": "İKTİSAT",
+      "text": "Karaciğer yangısı",
+      "answer": "HEPATİT",
       "row": 6,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "51 numaralı element",
-      "answer": "ANTİMON",
+      "text": "Karışık renkli",
+      "answer": "ALACA",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Muayene yeri",
+      "answer": "KLİNİK",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Havada duran",
+      "answer": "ASILI",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Formda, zinde",
+      "answer": "FİT",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Yönetici",
+      "answer": "ŞEF",
       "row": 7,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sağaltıcı",
-      "answer": "ŞİFALI",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Cemaatten kovma",
-      "answer": "AFOROZ",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük kale",
-      "answer": "HİSAR",
-      "row": 0,
-      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yapı kurma",
-      "answer": "İNŞA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Haber götüren kimse",
-      "answer": "ULAK",
-      "row": 0,
+      "text": "Sana göre",
+      "answer": "SENCE",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çalışan, faal",
-      "answer": "AKTİF",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ayin dansı",
-      "answer": "SEMAH",
+      "text": "Anlatım, açıklama",
+      "answer": "İFADE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kirli sudan bulaşan hastalık",
-      "answer": "TİFO",
+      "text": "Kavisli kılıç",
+      "answer": "PALA",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İyi talih",
-      "answer": "UĞUR",
+      "text": "Cennet kızı",
+      "answer": "HURİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yapı tasarımcısı",
-      "answer": "MİMAR",
+      "text": "Saf, temiz",
+      "answer": "HALİS",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mal, mülk",
-      "answer": "MİRAS",
+      "text": "Allah",
+      "answer": "TANRI",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tek icra",
-      "answer": "SOLO",
+      "text": "Teşhis",
+      "answer": "TANI",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ekin sapı",
-      "answer": "ANIZ",
-      "row": 6,
+      "text": "Arap alfabesinde harf",
+      "answer": "AYIN",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Cesur, mert",
-      "answer": "YİĞİT",
-      "row": 2,
+      "text": "Kayıt kütüğü",
+      "answer": "SİCİL",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Meyve tatlısı",
+      "answer": "REÇEL",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Ziynet eşyası",
+      "answer": "TAKI",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -148,31 +162,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 6
+      "col": 2
     },
     {
-      "row": 0,
-      "col": 7
+      "row": 1,
+      "col": 1
     },
     {
       "row": 2,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 6
+      "col": 1
     },
     {
       "row": 6,
@@ -180,17 +182,13 @@
     },
     {
       "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 7
+      "col": 1
     },
     {
       "row": 10,
-      "col": 7
+      "col": 1
     }
   ],
   "difficulty": "orta",
-  "order": 90
+  "order": 88
 }

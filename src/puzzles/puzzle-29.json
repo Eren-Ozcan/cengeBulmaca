@@ -1,96 +1,145 @@
 {
   "id": "puzzle-29",
-  "title": "Bulmaca 132",
+  "title": "Bulmaca 26",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Dokuma aracı",
-      "answer": "MEKİK",
-      "row": 1,
-      "col": 1,
+      "text": "Ağırlaşan durum",
+      "answer": "VAHAMET",
+      "row": 0,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Efsanedeki talih kuşu",
-      "answer": "HÜMA",
+      "text": "Övgü şiiri",
+      "answer": "KASİDE",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Koşut",
+      "answer": "PARALEL",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bel-kalça arası",
-      "answer": "BASEN",
+      "text": "Daire genişliği",
+      "answer": "ÇAP",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yer altı sığınağı",
-      "answer": "KAZAMAT",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ağ, örgüt",
-      "answer": "ŞEBEKE",
+      "text": "Züğürt",
+      "answer": "FUKARA",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dogma",
-      "answer": "İNAK",
+      "text": "Sıradan",
+      "answer": "OLAĞAN",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tavan lambası",
-      "answer": "AVİZE",
+      "text": "Uyandıran",
+      "answer": "UYARICI",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Su geçirmez mont",
+      "answer": "ANORAK",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mahkeme görevlisi",
-      "answer": "MÜBAŞİR",
-      "row": 1,
+      "text": "Su akıtma borusu",
+      "answer": "AKAÇ",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dönen derviş",
-      "answer": "SEMAZEN",
+      "text": "Sahte parlaklık",
+      "answer": "FOYA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "At çiftliği",
+      "answer": "HARA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Köyden büyük yer",
-      "answer": "KASABA",
-      "row": 1,
+      "text": "Kaba seslenme sözü",
+      "answer": "ULAN",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sinir sistemi",
+      "answer": "ASAP",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bedeniyle çalışan",
-      "answer": "EMEKÇİ",
-      "row": 3,
+      "text": "Kırmızı işaret",
+      "answer": "KARO",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Metal çubuk",
+      "answer": "MİL",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gösterişli ev",
-      "answer": "KONAK",
-      "row": 1,
+      "text": "Göğüs",
+      "answer": "BAĞIR",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Terbiyeli davranış",
+      "answer": "EDEP",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Annenin kız kardeşi",
-      "answer": "TEYZE",
+      "text": "Hint unvanı",
+      "answer": "RACA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Metal iplik",
+      "answer": "TEL",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Şahit",
+      "answer": "TANIK",
       "row": 4,
       "col": 6,
       "arrow": "down"
@@ -98,74 +147,10 @@
   ],
   "blocks": [
     {
-      "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 4
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 9,
+      "row": 5,
       "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 132
+  "difficulty": "kolay",
+  "order": 26
 }

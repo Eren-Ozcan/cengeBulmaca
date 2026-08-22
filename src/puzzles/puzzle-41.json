@@ -1,132 +1,132 @@
 {
   "id": "puzzle-41",
-  "title": "Bulmaca 63",
+  "title": "Bulmaca 42",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Nil kamışı kâğıdı",
-      "answer": "PAPİRÜS",
+      "text": "Cümle âlem",
+      "answer": "HERKES",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dinî inanç",
-      "answer": "İMAN",
+      "text": "Dolaşma",
+      "answer": "TUR",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Baklagillerden ağaç",
-      "answer": "AKASYA",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çentik işareti",
-      "answer": "KERTE",
+      "text": "Kalın gemi halatı",
+      "answer": "PALAMAR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sigorta belgesi",
+      "answer": "POLİÇE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Irmak, çay, dere",
-      "answer": "AKARSU",
+      "text": "Son adam",
+      "answer": "LİBERO",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yapay tatlandırıcı",
+      "answer": "SAKARİN",
       "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yeter bulma",
-      "answer": "KANAAT",
-      "row": 7,
+      "text": "Hastalık",
+      "answer": "MARAZ",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nükteli hikâye",
-      "answer": "FIKRA",
+      "text": "Erdem",
+      "answer": "FAZİLET",
       "row": 8,
-      "col": 1,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Noksan",
-      "answer": "EKSİK",
-      "row": 9,
+      "text": "Yarışta aşama",
+      "answer": "ETAP",
+      "row": 0,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Hafif topal",
-      "answer": "AKSAK",
+      "text": "And hayvanı",
+      "answer": "LAMA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dürülmüş kağıt",
+      "answer": "RULO",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dikkat çekme",
+      "answer": "İKAZ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ülke hükümdarı",
+      "answer": "KRAL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hiç değilse",
+      "answer": "BARİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğal katı madde",
+      "answer": "MİNERAL",
       "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Dik dalış",
-      "answer": "PİKE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kahve içilen yer",
-      "answer": "KAFE",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bayındırlık",
-      "answer": "İMAR",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hazır, amade",
-      "answer": "ANIK",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğru, isabetli",
-      "answer": "RAST",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dans",
-      "answer": "RAKS",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ordu ilçesi",
-      "answer": "ÜNYE",
+      "text": "Sert vuruş",
+      "answer": "SMAÇ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hint giysisi",
-      "answer": "SARİ",
+      "text": "Çay ilimiz",
+      "answer": "RİZE",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tutma yeri",
-      "answer": "TUTAK",
-      "row": 4,
+      "text": "Mağaza bölümü",
+      "answer": "REYON",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -134,18 +134,14 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 4
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
+      "row": 1,
       "col": 6
     },
     {
@@ -154,13 +150,9 @@
     },
     {
       "row": 8,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 0
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 63
+  "difficulty": "kolay",
+  "order": 42
 }

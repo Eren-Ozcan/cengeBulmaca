@@ -1,160 +1,181 @@
 {
   "id": "puzzle-74",
-  "title": "Bulmaca 100",
+  "title": "Bulmaca 31",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Yasa dışı taşıyan",
-      "answer": "KAÇAKÇI",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eğilimli, meyilli",
-      "answer": "MAİL",
-      "row": 2,
-      "col": 2,
+      "text": "Delik açma aracı",
+      "answer": "MATKAP",
+      "row": 1,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Hayat tarzı",
-      "answer": "YAŞANTI",
+      "text": "Kırmızı taneli meyve",
+      "answer": "NAR",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tırnak cilası",
+      "answer": "OJE",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Zan, zehap",
+      "answer": "SANI",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kaçık",
-      "answer": "MANYAK",
+      "text": "İçkili mekân",
+      "answer": "BAR",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Şah mat oyunu",
+      "answer": "SATRANÇ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eşin babası",
-      "answer": "KAYNATA",
-      "row": 5,
-      "col": 1,
+      "text": "Akışkan madde",
+      "answer": "SIVI",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gemi demiri",
-      "answer": "ÇIPA",
+      "text": "Yas",
+      "answer": "MATEM",
       "row": 6,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Bedensel özürlü",
-      "answer": "SAKAT",
+      "text": "Tatlı satılan yer",
+      "answer": "PASTANE",
       "row": 8,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ücretsiz yemekevi",
-      "answer": "AŞEVİ",
+      "text": "Adam kayırma",
+      "answer": "İLTİMAS",
       "row": 9,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Karşı karşıya olan",
-      "answer": "MARUZ",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tahıl deposu",
-      "answer": "AMBAR",
-      "row": 10,
+      "text": "Bilardo sopası",
+      "answer": "İSTEKA",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sıradan halk",
-      "answer": "AVAM",
+      "text": "Çevrilen oyuncak",
+      "answer": "TOPAÇ",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Deri sertleşmesi",
+      "answer": "NASIR",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dans, yarış",
+      "answer": "PİST",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sebze satıcısı",
+      "answer": "MANAV",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Büklüm",
-      "answer": "KIVRIM",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Üzüm içkisi",
-      "answer": "ŞARAP",
-      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yardım sözü",
-      "answer": "AMAN",
+      "text": "Havada dönme",
+      "answer": "SALTO",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Rafinaj",
+      "answer": "ARITIM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yasa yapma",
-      "answer": "YASAMA",
-      "row": 5,
+      "text": "Ritmik egzersiz",
+      "answer": "STEP",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Derin vadi",
-      "answer": "KANYON",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlı'da öşür",
-      "answer": "AŞAR",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Benekli kedi",
-      "answer": "ÇİTA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ordu mensubu",
-      "answer": "ASKER",
+      "text": "Eski değerli eşya",
+      "answer": "ANTİKA",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Mavi boya elementi",
+      "answer": "KOBALT",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Soğuk-sıcak arası",
-      "answer": "ILIK",
+      "text": "Erek, gaye",
+      "answer": "AMAÇ",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Casus",
+      "answer": "AJAN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "El içi",
-      "answer": "AVUÇ",
-      "row": 7,
+      "text": "Sicilya yanardağı",
+      "answer": "ETNA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hristiyan töreni",
-      "answer": "VAFTİZ",
-      "row": 4,
+      "text": "Kâkül",
+      "answer": "PERÇEM",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeni karşıtı",
+      "answer": "ESKİ",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -162,49 +183,37 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
-      "col": 7
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
     },
     {
       "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 5,
       "col": 0
     },
     {
-      "row": 5,
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 10,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
       "row": 11,
-      "col": 5
-    },
-    {
-      "row": 11,
-      "col": 7
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 100
+  "difficulty": "kolay",
+  "order": 31
 }

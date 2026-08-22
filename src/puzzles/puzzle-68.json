@@ -1,124 +1,131 @@
 {
   "id": "puzzle-68",
-  "title": "Bulmaca 37",
+  "title": "Bulmaca 85",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Boyun atkısı",
-      "answer": "KAŞKOL",
+      "text": "Öğrenci",
+      "answer": "TALEBE",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Olay",
+      "answer": "HADİSE",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Nazlı, işveli",
-      "answer": "EDALI",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Basılı parça",
-      "answer": "KUPON",
+      "text": "Yol korkuluğu",
+      "answer": "BARİYER",
       "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Zurna çalan",
-      "answer": "ZURNACI",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uyku hastalığı sineği",
-      "answer": "ÇEÇE",
-      "row": 4,
+      "text": "İki parça mayo",
+      "answer": "BİKİNİ",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Patlıcanlı fırın yemeği",
-      "answer": "MUSAKKA",
-      "row": 7,
+      "text": "Birinci, öncü",
+      "answer": "İLK",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nazarlık bitkisi",
-      "answer": "ÜZERLİK",
+      "text": "Saklanmış olan",
+      "answer": "SAKLI",
+      "row": 6,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Selamet",
+      "answer": "ESENLİK",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bilgiçlik taslayan",
-      "answer": "UKALA",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
+      "text": "Sancak taşıyan",
+      "answer": "ALEMDAR",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Beddua, kargış",
-      "answer": "LANET",
+      "text": "Kazakistan'ın başkenti",
+      "answer": "ASTANA",
       "row": 10,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kutsal kadın",
-      "answer": "AZİZE",
+      "text": "Doğal",
+      "answer": "TABİİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Taşınmaz mal",
-      "answer": "MÜLK",
+      "text": "Sıkıntılı durum",
+      "answer": "BELA",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sonu olmayan",
-      "answer": "UÇSUZ",
-      "row": 3,
+      "text": "Adağı olan",
+      "answer": "ADAKLI",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Acımtırak, buruk",
-      "answer": "KEKRE",
+      "text": "İşitsel titreşim",
+      "answer": "SES",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Duygu dolu",
+      "answer": "LİRİK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kore başkenti",
-      "answer": "SEUL",
+      "text": "Şehir bölgesi",
+      "answer": "SEMT",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yakacak parça",
-      "answer": "ODUN",
+      "text": "İlham",
+      "answer": "ESİN",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tanıtıcı işaret",
-      "answer": "MARKA",
+      "text": "Su sığırı",
+      "answer": "MANDA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Nişastalı bulamaç",
-      "answer": "LAPA",
+      "text": "İki dize",
+      "answer": "BEYİT",
       "row": 0,
       "col": 5,
       "arrow": "down"
@@ -131,30 +138,16 @@
       "arrow": "down"
     },
     {
-      "text": "Özel bölme",
-      "answer": "LOCA",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ölçek",
-      "answer": "KİLE",
+      "text": "Para birimimiz",
+      "answer": "LİRA",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ses özelliği",
-      "answer": "TINI",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Aykırılık bağlacı",
-      "answer": "FAKAT",
-      "row": 5,
+      "text": "Kaş boyası",
+      "answer": "RASTIK",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -162,37 +155,49 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 0,
+      "col": 7
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
     },
     {
       "row": 5,
-      "col": 5
+      "col": 6
     },
     {
       "row": 6,
       "col": 0
     },
     {
-      "row": 9,
+      "row": 7,
       "col": 0
     },
     {
+      "row": 9,
+      "col": 7
+    },
+    {
       "row": 10,
-      "col": 0
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 37
+  "difficulty": "orta",
+  "order": 85
 }

@@ -1,167 +1,174 @@
 {
   "id": "puzzle-116",
-  "title": "Bulmaca 44",
+  "title": "Bulmaca 141",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Gerçek, hakiki",
-      "answer": "SAHİCİ",
+      "text": "Tutturmalı küpe",
+      "answer": "KLİPS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yazım kuralları",
-      "answer": "İMLA",
+      "text": "Işınların toplandığı nokta",
+      "answer": "ODAK",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Uçsuz geniş",
-      "answer": "ENGİN",
+      "text": "İnce kadın sesi",
+      "answer": "SOPRANO",
       "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Harf değiştirme oyunu",
+      "answer": "ANAGRAM",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Rus parası",
+      "answer": "RUBLE",
+      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bilgelik sevgisi",
-      "answer": "FELSEFE",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kendinden geçme",
-      "answer": "CEZBE",
-      "row": 4,
+      "text": "Erkek ebeveyn",
+      "answer": "BABA",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Olabilir ki",
-      "answer": "BELKİ",
-      "row": 6,
+      "text": "Uzay",
+      "answer": "FEZA",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Akım elemanı",
+      "answer": "DİYOT",
+      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Olumlu yanıt",
-      "answer": "EVET",
-      "row": 6,
+      "text": "Leyli",
+      "answer": "YATILI",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bulgaristan parası",
+      "answer": "LEV",
+      "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Büyükle küçük arası",
-      "answer": "ORTANCA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Fazilet",
-      "answer": "ERDEM",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Talih",
-      "answer": "ŞANS",
+      "text": "Küçük bağlama",
+      "answer": "CURA",
       "row": 10,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Babaya dayalı düzen",
-      "answer": "ATAERKİ",
+      "text": "İplik işleme",
+      "answer": "NAKIŞ",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Önceki gün",
-      "answer": "ARİFE",
+      "text": "Eski kitapçı",
+      "answer": "SAHAF",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Japon parası",
+      "answer": "YEN",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüklü atom",
+      "answer": "İYON",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İleri geri",
-      "answer": "VOLTA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Akılda tutma",
-      "answer": "EZBER",
-      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tabii ki",
-      "answer": "ELBETTE",
+      "text": "Parasız",
+      "answer": "BEDAVA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Asalak",
+      "answer": "PARAZİT",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eşeysel",
-      "answer": "CİNSEL",
+      "text": "Soruşturma",
+      "answer": "SORGU",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Keman yayı",
-      "answer": "ARŞE",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayal",
-      "answer": "İMGE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kin tutan",
-      "answer": "KİNDAR",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Lifi olan",
-      "answer": "LİFLİ",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Mücadele, savaş",
-      "answer": "CENK",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yardım parası",
-      "answer": "İANE",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Karadeniz balığı",
-      "answer": "HAMSİ",
+      "text": "Ayı oynatıcı",
+      "answer": "AYICI",
       "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sert çarpma",
+      "answer": "DARBE",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Meydana gelme, vuku",
+      "answer": "OLUŞ",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Zihinde tasarlanan",
+      "answer": "SANAL",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun yol kamyonu",
+      "answer": "TIR",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Güldürü",
+      "answer": "KOMEDİ",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -169,7 +176,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
@@ -177,37 +184,41 @@
     },
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 6,
       "col": 6
     },
     {
-      "row": 2,
+      "row": 8,
       "col": 0
     },
     {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 5,
+      "row": 8,
       "col": 7
     },
     {
       "row": 9,
-      "col": 0
+      "col": 7
     },
     {
-      "row": 10,
-      "col": 0
+      "row": 11,
+      "col": 6
     },
     {
-      "row": 10,
-      "col": 2
+      "row": 11,
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 44
+  "difficulty": "zor",
+  "order": 141
 }

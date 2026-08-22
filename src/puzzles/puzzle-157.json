@@ -5,85 +5,92 @@
   "cols": 7,
   "clues": [
     {
-      "text": "Kırgızistan'ın başkenti",
-      "answer": "BİŞKEK",
+      "text": "Hasta tedavicisi",
+      "answer": "TABİP",
       "row": 0,
-      "col": 1,
+      "col": 2,
       "arrow": "down-right"
     },
     {
-      "text": "Işık",
-      "answer": "ZİYA",
+      "text": "Hortum fırtınası",
+      "answer": "TORNADO",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İşveren direnişi",
-      "answer": "LOKAVT",
+      "text": "Aday",
+      "answer": "NAMZET",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yanıcı gaz",
-      "answer": "METAN",
+      "text": "Geminin arkası",
+      "answer": "PUPA",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kıymet piyasası",
-      "answer": "BORSA",
+      "text": "Tır kasası",
+      "answer": "DORSE",
       "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Arlanmaz",
-      "answer": "UTANMAZ",
-      "row": 6,
+      "text": "Uçak barınağı",
+      "answer": "HANGAR",
+      "row": 7,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sert vuruş",
-      "answer": "SMAÇ",
-      "row": 8,
-      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sırt dayanağı",
-      "answer": "ARKALIK",
+      "text": "Donanma",
+      "answer": "ARMADA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yeşil yapraklı sebze",
+      "answer": "ISPANAK",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "El-kol arası",
-      "answer": "BİLEK",
-      "row": 0,
+      "text": "Şeref, haysiyet",
+      "answer": "ONUR",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "I simgeli element",
-      "answer": "İYOT",
+      "text": "Katıksız, saf",
+      "answer": "HAS",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hendek, tuzak",
+      "answer": "TRAP",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İspanya'da bir halk",
-      "answer": "BASK",
+      "text": "Dövme, vurma",
+      "answer": "DARP",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Latife",
-      "answer": "ŞAKA",
+      "text": "Hatırlama töreni",
+      "answer": "ANMA",
       "row": 0,
       "col": 3,
       "arrow": "down"
@@ -96,23 +103,44 @@
       "arrow": "down"
     },
     {
-      "text": "Olağan dışı",
-      "answer": "ANORMAL",
-      "row": 2,
+      "text": "Asit karşıtı",
+      "answer": "BAZ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Şeker, para",
-      "answer": "SAÇI",
+      "text": "İnce halat",
+      "answer": "URGAN",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Felsefede düşünce",
+      "answer": "İDEA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses, seda",
+      "answer": "SADA",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sarı değerli taş",
-      "answer": "TOPAZ",
-      "row": 2,
+      "text": "Poker parası",
+      "answer": "POT",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Öğrenme isteği",
+      "answer": "MERAK",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -124,31 +152,15 @@
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 4,
-      "col": 5
+      "col": 1
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 6
+      "row": 6,
+      "col": 0
     }
   ],
   "difficulty": "orta",

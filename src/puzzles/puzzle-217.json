@@ -1,0 +1,206 @@
+{
+  "id": "puzzle-217",
+  "title": "Bulmaca 36",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Amacıyla, maksadıyla",
+      "answer": "İÇİN",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çiğneme organı",
+      "answer": "DİŞ",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yassı, mayalı ekmek",
+      "answer": "PİDE",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Merkez",
+      "answer": "ÖZEK",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tüylü kumaş",
+      "answer": "KADİFE",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ardıl",
+      "answer": "HALEF",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ezik, bere",
+      "answer": "ZEDE",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İvedi",
+      "answer": "ACİL",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yer değiştirme",
+      "answer": "BECAYİŞ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Güney Amerika devesi",
+      "answer": "ALPAKA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Başarı armağanı",
+      "answer": "ÖDÜL",
+      "row": 2,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyük kardeş",
+      "answer": "ABLA",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Koza ipliği",
+      "answer": "İPEK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Acaba",
+      "answer": "ACEP",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Evlilik işlemi",
+      "answer": "NİKAH",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kısa anlatım",
+      "answer": "İCAZ",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Saçsız kafa",
+      "answer": "DAZLAK",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Moda gösterisi",
+      "answer": "DEFİLE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Zeytinden çıkan",
+      "answer": "YAĞ",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Can koruyucu",
+      "answer": "FEDAİ",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Minare balkonu",
+      "answer": "ŞEREFE",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Damla sesi",
+      "answer": "ŞIP",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 2
+    },
+    {
+      "row": 10,
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 36
+}

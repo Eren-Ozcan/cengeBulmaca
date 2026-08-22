@@ -1,0 +1,178 @@
+{
+  "id": "puzzle-212",
+  "title": "Bulmaca 4",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Uzun karşıtı",
+      "answer": "KISA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tutu",
+      "answer": "İPOTEK",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Acı yemek",
+      "answer": "ACILI",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ünlü oyuncu",
+      "answer": "STAR",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tehirli, gecikmiş",
+      "answer": "GEÇ",
+      "row": 4,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İskambilde sinek",
+      "answer": "İSPATİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Karton kutu",
+      "answer": "KOLİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek balerin",
+      "answer": "BALET",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kaplı tatlı",
+      "answer": "DRAJE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ortodoks başı",
+      "answer": "PATRİK",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Eş, zevç",
+      "answer": "KOCA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Isınma aracı",
+      "answer": "SOBA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Güzel koku",
+      "answer": "ITIR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kumsal",
+      "answer": "PLAJ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Taşkın su",
+      "answer": "SEL",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıkıntı, dert, üzüntü",
+      "answer": "GAİLE",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Son, sonuç",
+      "answer": "AKIBET",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek karşıtı",
+      "answer": "ÇİFT",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 4
+}

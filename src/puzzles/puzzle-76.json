@@ -1,131 +1,145 @@
 {
   "id": "puzzle-76",
-  "title": "Bulmaca 48",
+  "title": "Bulmaca 1",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Kol biçimli uzantı",
-      "answer": "DOKUNAÇ",
+      "text": "Bebek yiyeceği",
+      "answer": "MAMA",
       "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ismarlama",
+      "answer": "SİPARİŞ",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kaya kütlesi",
-      "answer": "KAYAÇ",
-      "row": 2,
+      "text": "Kuş midesi",
+      "answer": "KURSAK",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kriz",
-      "answer": "BUNALIM",
-      "row": 2,
+      "text": "Hat ustası",
+      "answer": "HATTAT",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tenis aracı",
-      "answer": "RAKET",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kutsal pınar",
-      "answer": "AYAZMA",
+      "text": "Eksiklik",
+      "answer": "KUSUR",
       "row": 6,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "El işi mesleği",
-      "answer": "ZANAAT",
+      "text": "Yanlışlıkla",
+      "answer": "KAZARA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İskambilde karo",
-      "answer": "ORYA",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
+      "text": "Yer mantarı",
+      "answer": "DOMALAN",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Yemek pişirilen yer",
-      "answer": "MUTFAK",
+      "text": "Duvar kaplaması",
+      "answer": "FAYANS",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Okuyucu",
-      "answer": "OKUR",
+      "text": "Küçük taşıt",
+      "answer": "PİKAP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yenme kararlılığı",
-      "answer": "AZİM",
-      "row": 5,
+      "text": "İçi boş, değersiz",
+      "answer": "KOF",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sarı kafes kuşu",
-      "answer": "KANARYA",
-      "row": 0,
+      "text": "Heykel, sanem",
+      "answer": "PUT",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kafiye",
-      "answer": "UYAK",
+      "text": "Keskin bıçak",
+      "answer": "KAMA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Üçüncü ay",
+      "answer": "MART",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Artı kutup",
-      "answer": "ANOT",
+      "text": "Gök boşluğu",
+      "answer": "UZAY",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İnleme, inilti",
-      "answer": "NALE",
+      "text": "Yapı arazisi",
+      "answer": "ARSA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mektup kesesi",
-      "answer": "ZARF",
+      "text": "Minareden okunan sela",
+      "answer": "SALA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kapı, pencere açıklığı",
-      "answer": "AÇIT",
+      "text": "Son tarih",
+      "answer": "MİAT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kabartma maddesi",
-      "answer": "MAYA",
+      "text": "Sanayi, endüstri",
+      "answer": "URAN",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Döşek",
-      "answer": "YATAK",
+      "text": "Sevda",
+      "answer": "AŞK",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilinç durumu",
+      "answer": "TRANS",
       "row": 4,
       "col": 6,
       "arrow": "down"
@@ -134,21 +148,21 @@
   "blocks": [
     {
       "row": 0,
-      "col": 6
+      "col": 0
     },
     {
-      "row": 2,
-      "col": 6
+      "row": 0,
+      "col": 2
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 8,
+      "row": 6,
       "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 48
+  "order": 1
 }

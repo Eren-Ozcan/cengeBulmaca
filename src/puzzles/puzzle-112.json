@@ -1,132 +1,139 @@
 {
   "id": "puzzle-112",
-  "title": "Bulmaca 74",
+  "title": "Bulmaca 64",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Zehirli böcek",
-      "answer": "AKREP",
-      "row": 1,
+      "text": "Para işleri görevlisi",
+      "answer": "MUTEMET",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Önceki görevli",
+      "answer": "SELEF",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cinsiyet",
-      "answer": "EŞEY",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Aksine",
-      "answer": "TERSİNE",
+      "text": "Eğlence yeri",
+      "answer": "GAZİNO",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ölçülü davranma",
-      "answer": "TEMKİN",
+      "text": "Türkiye'nin halkı",
+      "answer": "TÜRK",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kadın rahip",
-      "answer": "RAHİBE",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bağırsak dürümü",
-      "answer": "KOKOREÇ",
+      "text": "Dal izi",
+      "answer": "BUDAK",
       "row": 6,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Ölünün yeri",
-      "answer": "KABİR",
-      "row": 8,
+      "text": "Yüksek faizci",
+      "answer": "TEFECİ",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sık dokuma bez",
-      "answer": "PATİSKA",
-      "row": 8,
+      "text": "Sık ağaçlı yer",
+      "answer": "KORULUK",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yıkım, felaket",
-      "answer": "AFET",
+      "text": "Anma, söyleme",
+      "answer": "ZİKİR",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bıkkınlık duygusu",
+      "answer": "USANÇ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Salata yeşilliği",
-      "answer": "ROKA",
-      "row": 5,
+      "text": "İnce parçacık",
+      "answer": "TOZ",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Eşlik etme",
-      "answer": "REFAKAT",
-      "row": 2,
+      "text": "Önerme, sav",
+      "answer": "TEZ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde tören",
-      "answer": "RESM",
+      "text": "Öte karşıtı",
+      "answer": "BERİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayrıcalıklı kesim",
+      "answer": "ELİT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Uğraşı, merak",
-      "answer": "HOBİ",
+      "text": "Gök-yer çizgisi",
+      "answer": "UFUK",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kapı basamağı",
-      "answer": "EŞİK",
+      "text": "Yemek listesi",
+      "answer": "MENÜ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gözün renkli bölümü",
-      "answer": "İRİS",
+      "text": "Aklını yitirmiş",
+      "answer": "DELİ",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sterlin parçası",
-      "answer": "PENİ",
+      "text": "Güç harcama",
+      "answer": "EFOR",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sert, katı",
-      "answer": "BERK",
+      "text": "Hıyara benzer sebze",
+      "answer": "ACUR",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kıskaçlı deniz hayvanı",
-      "answer": "YENGEÇ",
-      "row": 1,
+      "text": "Baharat bitkisi",
+      "answer": "KEKİK",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     }
@@ -134,25 +141,29 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 0
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 8,
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 6
     }
   ],
   "difficulty": "orta",
-  "order": 74
+  "order": 64
 }

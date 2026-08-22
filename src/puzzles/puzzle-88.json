@@ -1,146 +1,160 @@
 {
   "id": "puzzle-88",
-  "title": "Bulmaca 93",
+  "title": "Bulmaca 92",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Algı yolu",
-      "answer": "DUYU",
+      "text": "Haydi",
+      "answer": "HADİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kazanılmış yatkınlık",
-      "answer": "MELEKE",
+      "text": "Cam gibi saydam",
+      "answer": "CAMSI",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çok çirkin",
-      "answer": "GUDUBET",
+      "text": "Aklanma",
+      "answer": "BERAAT",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sorun",
-      "answer": "MESELE",
+      "text": "Tanıtıcı işaret",
+      "answer": "MARKA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İl yöneticisi",
-      "answer": "VALİ",
+      "text": "Katı karşıtı",
+      "answer": "ESNEK",
       "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağlanmış çiçekler",
-      "answer": "DEMET",
-      "row": 6,
       "col": 2,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "At binicisi",
-      "answer": "JOKEY",
+      "text": "Marmara'da tatil adası",
+      "answer": "AVŞA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eşin annesi",
-      "answer": "KAYNANA",
+      "text": "Yılan sesi",
+      "answer": "TIS",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Nişan yüzüğü",
+      "answer": "ALYANS",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Akış hızı",
-      "answer": "DEBİ",
-      "row": 8,
+      "text": "Gürcistan'ın başkenti",
+      "answer": "TİFLİS",
+      "row": 9,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Sel basması",
-      "answer": "TAŞKIN",
+      "text": "Kapıp kaçma",
+      "answer": "KAPKAÇ",
       "row": 10,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bütün, herkes",
-      "answer": "UMUM",
+      "text": "Deneyimsiz, toy",
+      "answer": "ACEMİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Uzay aracı",
-      "answer": "ROKET",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yardımcı parça",
-      "answer": "YEDEK",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce karşıtı",
-      "answer": "KABA",
+      "text": "Güç birimi",
+      "answer": "VAT",
       "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Boş ağırlık",
+      "answer": "DARA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Millet",
-      "answer": "ULUS",
+      "text": "Birlikte olma",
+      "answer": "EŞLİK",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bayındırlık",
+      "answer": "İMAR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İfade biçimi",
-      "answer": "DEYİŞ",
+      "text": "Kitap yaprağı",
+      "answer": "SAYFA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Anne baba",
-      "answer": "EBEVEYN",
+      "text": "Hareketsiz, durgun",
+      "answer": "SAKİN",
       "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Söz",
-      "answer": "KELAM",
-      "row": 1,
+      "text": "Yiğit, kahraman",
+      "answer": "ALP",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyük kara kütlesi",
+      "answer": "KITA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hesap kertiği",
-      "answer": "ÇETELE",
-      "row": 0,
+      "text": "Kavimle ilgili",
+      "answer": "ETNİK",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ders anlatısı",
+      "answer": "KISSA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Adına sunma",
-      "answer": "İTHAF",
-      "row": 4,
+      "text": "Uçan küre",
+      "answer": "BALON",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -152,53 +166,45 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 1,
-      "col": 7
+      "col": 6
     },
     {
       "row": 2,
-      "col": 7
+      "col": 6
     },
     {
       "row": 3,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 5
+      "row": 6,
+      "col": 7
     },
     {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 4
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 7
     },
     {
       "row": 10,
-      "col": 7
+      "col": 0
     }
   ],
   "difficulty": "orta",
-  "order": 93
+  "order": 92
 }

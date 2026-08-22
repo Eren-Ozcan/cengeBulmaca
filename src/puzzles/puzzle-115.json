@@ -1,153 +1,167 @@
 {
   "id": "puzzle-115",
-  "title": "Bulmaca 111",
+  "title": "Bulmaca 120",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Yöntem",
-      "answer": "METOT",
+      "text": "Yunan dansı",
+      "answer": "SİRTAKİ",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gösteriş, fiyaka",
+      "answer": "CAKA",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şarkı topluluğu",
-      "answer": "KORO",
+      "text": "Kedisiyle ünlü ilimiz",
+      "answer": "VAN",
       "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Bebek zıplatan",
+      "answer": "HOPPALA",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yeşil yapraklı sebze",
-      "answer": "ISPANAK",
-      "row": 2,
+      "text": "Duyuru tahtası",
+      "answer": "PANO",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Temel eğitim yeri",
-      "answer": "İLKOKUL",
+      "text": "Sanı, şüphe",
+      "answer": "ZAN",
       "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağrılı deri hastalığı",
-      "answer": "ZONA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Baştan çıkaran kadın",
-      "answer": "VAMP",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Prens unvanı",
-      "answer": "ALTES",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Toplumsal konum",
-      "answer": "STATÜ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eklentisi olan",
-      "answer": "EKLİ",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hükümdar oğlu",
-      "answer": "PRENS",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çıkarma işareti",
-      "answer": "EKSİ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ana yol",
-      "answer": "ARTER",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Cemiyet",
-      "answer": "TOPLUM",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ekin aracı",
-      "answer": "ORAK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kayma ayakkabısı",
-      "answer": "PATEN",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Silindir tavan",
-      "answer": "TONOZ",
-      "row": 0,
       "col": 4,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Gösterişli yaşayış",
-      "answer": "LÜKS",
+      "text": "Resmî fiyat sınırı",
+      "answer": "NARH",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Saha dışı",
+      "answer": "AUT",
       "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Adını belirterek",
+      "answer": "İSMEN",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Divan şiiri ölçüsü",
+      "answer": "ARUZ",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bağlanmış çiçekler",
+      "answer": "DEMET",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Biçimli vücutlu",
+      "answer": "ATLETİK",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sığ yemek kabı",
+      "answer": "SAHAN",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İnceleme, araştırma",
+      "answer": "ETÜT",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kutsal tasvir",
+      "answer": "İKONA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sonuç yazısı",
+      "answer": "RAPOR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Geri verme",
+      "answer": "İADE",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Özlem",
+      "answer": "HASRET",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ses ayarı",
-      "answer": "AKORT",
-      "row": 2,
+      "text": "Yüksek ses",
+      "answer": "AVAZ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Toplam",
-      "answer": "YEKUN",
+      "text": "Genel",
+      "answer": "UMUMİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Saat söylerken kullanılan",
+      "answer": "KALA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ayrıcalıklı kesim",
-      "answer": "ELİT",
-      "row": 6,
+      "text": "Dışkı yakıtı",
+      "answer": "TEZEK",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Güneydoğu Asya ülkesi",
-      "answer": "LAOS",
-      "row": 3,
+      "text": "Bağlı düşünce",
+      "answer": "İNANÇ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -155,39 +169,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
     },
     {
       "row": 0,
+      "col": 4
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 6,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 7
+      "row": 7,
+      "col": 0
     },
     {
       "row": 8,
-      "col": 5
+      "col": 0
     },
     {
       "row": 8,
       "col": 7
-    },
-    {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 5
     },
     {
       "row": 10,
@@ -195,5 +205,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 111
+  "order": 120
 }

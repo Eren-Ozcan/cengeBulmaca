@@ -1,138 +1,159 @@
 {
   "id": "puzzle-168",
-  "title": "Bulmaca 57",
+  "title": "Bulmaca 50",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Eşya bölümü",
-      "answer": "BAGAJ",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
+      "text": "Ödünç alma",
+      "answer": "İKTİBAS",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Öldürücü hastalık",
-      "answer": "VEBA",
+      "text": "Seslenme",
+      "answer": "HİTAP",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kıbrıs peyniri",
-      "answer": "HELLİM",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kale deliği",
-      "answer": "MAZGAL",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ekşi sıvı",
-      "answer": "SİRKE",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Üzüm suyu",
-      "answer": "ŞIRA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İçinde bulunan",
-      "answer": "DAHİL",
-      "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Geminin rüzgâraltı yanı",
-      "answer": "BOCA",
-      "row": 8,
+      "text": "Çevre, etraf",
+      "answer": "ORTALIK",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yumurtalı domates yemeği",
+      "answer": "MENEMEN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yiyecek",
+      "answer": "YEMEK",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Maç bölümü",
+      "answer": "SET",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Düzensizlik, karışıklık",
+      "answer": "KAOS",
+      "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kısa sürede",
-      "answer": "ÇABUCAK",
+      "text": "Şu biçimde",
+      "answer": "ŞÖYLE",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Omuzdaki rütbe",
+      "answer": "APOLET",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İstemsiz olay",
-      "answer": "KAZA",
+      "text": "Ağzı sıkı",
+      "answer": "KETUM",
       "row": 10,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Saz örtüsü",
-      "answer": "HASIR",
-      "row": 2,
+      "text": "Yardım şenliği",
+      "answer": "KERMES",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Osmanlı görevlisi",
-      "answer": "VEZİR",
-      "row": 1,
+      "text": "Yersiz davranış",
+      "answer": "GAF",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapı tabanı",
+      "answer": "TEMEL",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sırbistan'ın başkenti",
-      "answer": "BELGRAD",
+      "text": "Hainlik",
+      "answer": "İHANET",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dolgun yüz",
-      "answer": "ABLAK",
+      "text": "Ani sarsıntı",
+      "answer": "ŞOK",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "El-kol arası",
+      "answer": "BİLEK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Saçma sapan",
-      "answer": "ABUK",
+      "text": "Emir tutsağı",
+      "answer": "KÖLE",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sıkıntı, dert, üzüntü",
-      "answer": "GAİLE",
+      "text": "Atış uzaklığı",
+      "answer": "ATIM",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Öğretmen",
-      "answer": "HOCA",
-      "row": 6,
+      "text": "Pek, çok",
+      "answer": "GAYET",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kısa anlatım",
-      "answer": "İCAZ",
+      "text": "Japon içkisi",
+      "answer": "SAKE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Erzurum ilçesi",
+      "answer": "OLTU",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kesinlikle",
-      "answer": "MUTLAKA",
+      "text": "'Önemi yok' sözü",
+      "answer": "NEYSE",
       "row": 3,
       "col": 7,
       "arrow": "down"
@@ -141,47 +162,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
       "col": 7
     },
     {
       "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 2,
       "col": 7
-    },
-    {
-      "row": 4,
-      "col": 6
     },
     {
       "row": 5,
@@ -196,26 +185,14 @@
       "col": 0
     },
     {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 2
+      "row": 9,
+      "col": 7
     },
     {
       "row": 10,
       "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
-    },
-    {
-      "row": 10,
-      "col": 2
     }
   ],
-  "difficulty": "orta",
-  "order": 57
+  "difficulty": "kolay",
+  "order": 50
 }

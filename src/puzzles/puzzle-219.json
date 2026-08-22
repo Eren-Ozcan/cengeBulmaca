@@ -1,0 +1,217 @@
+{
+  "id": "puzzle-219",
+  "title": "Bulmaca 59",
+  "rows": 12,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Suçsuz, günahsız",
+      "answer": "MASUM",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Su satıcısı",
+      "answer": "SUCU",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kelime oyunu",
+      "answer": "CİNAS",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ocak gazı",
+      "answer": "GRİZU",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Uzak Doğu bilgesi",
+      "answer": "BUDA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Öldürücü hastalık",
+      "answer": "VEBA",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yer altı boşluğu",
+      "answer": "MAĞARA",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Üç zamanlı dans",
+      "answer": "VALS",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yer kabartısı",
+      "answer": "DAĞ",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Zeki, uslu",
+      "answer": "AKILLI",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gevşek karşıtı",
+      "answer": "SIKI",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Donmuş su",
+      "answer": "BUZ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "İş bırakma",
+      "answer": "GREV",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ev, arsa",
+      "answer": "EMLAK",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Buluş yapan",
+      "answer": "MUCİT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Basılış biçimi",
+      "answer": "BASKI",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gücü yetmeyen, güçsüz",
+      "answer": "ACİZ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Üzüm yeri",
+      "answer": "BAĞ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Program takdimcisi",
+      "answer": "SUNUCU",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Şu adı taşıyan",
+      "answer": "ADLI",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Değişmeyen",
+      "answer": "DURAL",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Olta ipi",
+      "answer": "MİSİNA",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Hafif karşıtı",
+      "answer": "AĞIR",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 2
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 4
+    },
+    {
+      "row": 11,
+      "col": 6
+    }
+  ],
+  "difficulty": "orta",
+  "order": 59
+}

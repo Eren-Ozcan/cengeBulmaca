@@ -1,160 +1,181 @@
 {
   "id": "puzzle-8",
-  "title": "Bulmaca 88",
+  "title": "Bulmaca 11",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Yırtıcı kuş",
-      "answer": "ŞAHİN",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yemek kabı",
-      "answer": "TABAK",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Görüş ortağı",
-      "answer": "KAFADAR",
-      "row": 2,
+      "text": "Susamlı çörek",
+      "answer": "SİMİT",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Estetik",
-      "answer": "BEDİİ",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ayrıştırılamayan madde",
-      "answer": "ELEMENT",
-      "row": 5,
+      "text": "Tertemiz",
+      "answer": "LEKESİZ",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Karar verme",
-      "answer": "NİYET",
+      "text": "Gümüş balığı",
+      "answer": "ATERİNA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ulak",
+      "answer": "HABERCİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Saçsız",
+      "answer": "KEL",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ucu eğri kanca",
+      "answer": "ÇENGEL",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "En hızlı koşu",
-      "answer": "DÖRTNAL",
+      "text": "Güçlü, becerikli",
+      "answer": "ACAR",
       "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sıcaklık",
-      "answer": "HARARET",
-      "row": 8,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yanıt",
-      "answer": "CEVAP",
-      "row": 10,
-      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İstinat noktası",
-      "answer": "DAYANAK",
-      "row": 10,
+      "text": "Piyasaya sürme",
+      "answer": "ARZ",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yer altı cevheri",
-      "answer": "MADEN",
-      "row": 1,
+      "text": "Ön karşıtı",
+      "answer": "ARKA",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sürekli olarak",
+      "answer": "DAİMA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Havalandırma pervanesi",
+      "answer": "FAN",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eti çok",
+      "answer": "ETLİ",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Acımtırak, buruk",
+      "answer": "KEKRE",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tanrı",
+      "answer": "İLAH",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bilgisayarda veri",
-      "answer": "DATA",
-      "row": 7,
+      "text": "Dallardan barınak",
+      "answer": "ÇARDAK",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şekerli içki",
-      "answer": "LİKÖR",
-      "row": 4,
+      "text": "Satılan mal",
+      "answer": "META",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Selçuklu lalası",
-      "answer": "ATABEY",
+      "text": "İlaç satılan yer",
+      "answer": "ECZANE",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çiçek düzenleme",
+      "answer": "İKEBANA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hint unvanı",
-      "answer": "RACA",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hizmetli",
-      "answer": "HADEME",
+      "text": "Salata bitkisi",
+      "answer": "TERE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Raylı taşıt",
-      "answer": "TREN",
-      "row": 7,
+      "text": "Dil bilgisi",
+      "answer": "GRAMER",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tapınma",
-      "answer": "İBADET",
-      "row": 0,
+      "text": "Ekşi sıvı",
+      "answer": "SİRKE",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ses, ahenk, nağme",
-      "answer": "NEVA",
+      "text": "Başarısız olmuş",
+      "answer": "RATE",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İnce, zarif",
-      "answer": "NARİN",
-      "row": 0,
+      "text": "Zarafet",
+      "answer": "İNCELİK",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Girişken, çevik",
-      "answer": "ATAK",
+      "text": "Yok olan",
+      "answer": "ZAİL",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "İbadet töreni",
+      "answer": "AYİN",
       "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Mal getirme",
-      "answer": "İTHAL",
-      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -162,49 +183,33 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 5
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
+      "col": 6
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 4,
+      "row": 5,
       "col": 0
     },
     {
       "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 0
+      "col": 7
     },
     {
       "row": 9,
-      "col": 7
+      "col": 6
     },
     {
       "row": 11,
-      "col": 7
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 88
+  "difficulty": "kolay",
+  "order": 11
 }

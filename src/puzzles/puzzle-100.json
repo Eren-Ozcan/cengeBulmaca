@@ -1,188 +1,174 @@
 {
   "id": "puzzle-100",
-  "title": "Bulmaca 84",
+  "title": "Bulmaca 118",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Suyu olmayan",
-      "answer": "SUSUZ",
+      "text": "Talih",
+      "answer": "ŞANS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bulaşık teknesi",
-      "answer": "EVİYE",
+      "text": "İddia çürütme",
+      "answer": "CERH",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Peşin para",
+      "answer": "AVANS",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırmızı değerli taş",
-      "answer": "YAKUT",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Aferin",
-      "answer": "BRAVO",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Üreme hücresi",
-      "answer": "GAMET",
-      "row": 4,
-      "col": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Görüşme",
-      "answer": "MÜLAKAT",
+      "text": "Endüstri",
+      "answer": "SANAYİ",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Pertavsız",
+      "answer": "BÜYÜTEÇ",
       "row": 5,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Başka",
-      "answer": "ÖZGE",
+      "text": "Aile işareti",
+      "answer": "ARMA",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski, kadim",
+      "answer": "ANTİK",
       "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tek karşıtı",
-      "answer": "ÇİFT",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Türkmenistan'ın başkenti",
-      "answer": "AŞKABAT",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Beden-zihin sistemi",
-      "answer": "YOGA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ofis",
-      "answer": "BÜRO",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Nişan yüzüğü",
-      "answer": "ALYANS",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Maç sonucu",
-      "answer": "SKOR",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski topuz",
-      "answer": "GÜRZ",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarmal",
-      "answer": "SPİRAL",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuşların ağzı",
-      "answer": "GAGA",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "En yüksek rütbe",
-      "answer": "MAREŞAL",
-      "row": 4,
       "col": 3,
-      "arrow": "down"
+      "arrow": "right"
+    },
+    {
+      "text": "Et suyu çorbası",
+      "answer": "KONSOME",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Durgun su",
+      "answer": "GÖL",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Duvar birleşimi",
+      "answer": "KÖŞE",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
       "text": "Ege efesi",
       "answer": "ZEYBEK",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Elde tutulan üstünlük",
+      "answer": "KOZ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Sarı, tüylü meyve",
+      "answer": "AYVA",
       "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Görme organı",
+      "answer": "GÖZ",
+      "row": 8,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "En saygın yer",
+      "answer": "BAŞKÖŞE",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yayın denetimi",
+      "answer": "SANSÜR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sevinç ünlemi",
+      "answer": "OLEY",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Muhasebeci",
+      "answer": "SAYMAN",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tehlikeli durum",
-      "answer": "VARTA",
-      "row": 1,
+      "text": "Ayırtı",
+      "answer": "NÜANS",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gayret",
-      "answer": "ÇABA",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Arap el yazısı",
-      "answer": "RİKA",
+      "text": "Atalar",
+      "answer": "ECDAT",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Seyirci basamağı",
-      "answer": "TRİBÜN",
-      "row": 5,
+      "text": "İri palamut",
+      "answer": "TORİK",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kuşların barınağı",
-      "answer": "YUVA",
-      "row": 1,
+      "text": "Babasız çocuk",
+      "answer": "YETİM",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kaba güldürü",
-      "answer": "FARS",
-      "row": 7,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Reddetme",
-      "answer": "VETO",
+      "text": "Deniz koyu",
+      "answer": "HALİÇ",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Köken mahallesi",
-      "answer": "GETTO",
-      "row": 5,
+      "text": "Bel bağı",
+      "answer": "KEMER",
+      "row": 6,
       "col": 8,
       "arrow": "down"
     }
@@ -190,11 +176,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
@@ -206,29 +192,53 @@
     },
     {
       "row": 2,
-      "col": 1
+      "col": 2
     },
     {
-      "row": 3,
-      "col": 1
+      "row": 2,
+      "col": 5
     },
     {
-      "row": 6,
+      "row": 2,
       "col": 7
     },
     {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 11,
+      "row": 4,
       "col": 0
     },
     {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
       "row": 11,
-      "col": 8
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 84
+  "difficulty": "zor",
+  "order": 118
 }

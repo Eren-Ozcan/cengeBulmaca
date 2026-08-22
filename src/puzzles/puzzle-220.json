@@ -1,0 +1,248 @@
+{
+  "id": "puzzle-220",
+  "title": "Bulmaca 132",
+  "rows": 12,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "Şiirde iki dize",
+      "answer": "BEYT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Miyavlayan hayvan",
+      "answer": "KEDİ",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Operada solo parça",
+      "answer": "ARYA",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Dudak boyası",
+      "answer": "RUJ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Düstur",
+      "answer": "ŞİAR",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Avrupa Birliği parası",
+      "answer": "EURO",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Denizaygırı",
+      "answer": "MORS",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Asker birliği",
+      "answer": "MANGA",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kasır",
+      "answer": "KÖŞK",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Belge geçer",
+      "answer": "FAKS",
+      "row": 6,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Önce karşıtı",
+      "answer": "SONRA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Irmak, çay, dere",
+      "answer": "AKARSU",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "19'dan sonraki sayı",
+      "answer": "YİRMİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dikenli çiçek",
+      "answer": "GÜL",
+      "row": 10,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Suç topluluğu",
+      "answer": "ÇETE",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Tedavi sıvısı",
+      "answer": "SERUM",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Canlı kalıntısı",
+      "answer": "FOSİL",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sabit",
+      "answer": "DURAĞAN",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Jant cıvatası",
+      "answer": "BİJON",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İstemsiz kasılma",
+      "answer": "KRAMP",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İçki dağıtıcı",
+      "answer": "SAKİ",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağzı kapatan örtü",
+      "answer": "YAŞMAK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Üçlü topluluk",
+      "answer": "TRİO",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Meclis teklifi",
+      "answer": "ÖNERGE",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yarışma",
+      "answer": "YARIŞ",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyaz besin",
+      "answer": "SÜT",
+      "row": 8,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaba güldürü",
+      "answer": "FARS",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Baharatlı tohum",
+      "answer": "KAKULE",
+      "row": 5,
+      "col": 8,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 11,
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 2
+    }
+  ],
+  "difficulty": "zor",
+  "order": 132
+}

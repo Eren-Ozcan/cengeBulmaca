@@ -1,125 +1,139 @@
 {
   "id": "puzzle-160",
-  "title": "Bulmaca 40",
+  "title": "Bulmaca 5",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Basmakalıp söz",
-      "answer": "KLİŞE",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ritimli dans",
-      "answer": "TANGO",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yiyecek odası",
-      "answer": "KİLER",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Pilavlık tane",
-      "answer": "PİRİNÇ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Üzücü olay",
-      "answer": "FACİA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tacı olan",
-      "answer": "TAÇLI",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Demir minerali",
-      "answer": "PİRİT",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Japon giysisi",
-      "answer": "KİMONO",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kullanışlı",
-      "answer": "PRATİK",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İçten gelen dürtü",
-      "answer": "İTKİ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yürürlükteki",
-      "answer": "CARİ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Şiir ustası",
-      "answer": "ŞAİR",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İçme tadı",
-      "answer": "İÇİM",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Geniş",
-      "answer": "ENLİ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalın kadın sesi",
-      "answer": "ALTO",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaşlı karşıtı",
-      "answer": "GENÇ",
+      "text": "Millet",
+      "answer": "ULUS",
       "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Renkli taş bezeme",
+      "answer": "MOZAİK",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Güneş batışı",
+      "answer": "GURUP",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saf, deneyimsiz, toy",
+      "answer": "NAİF",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Saç kıvırıcı",
+      "answer": "BİGUDİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Petrol merhemi",
+      "answer": "VAZELİN",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yeter bulma",
+      "answer": "KANAAT",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalsiyum maddesi",
+      "answer": "KİREÇ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aldırış etme",
+      "answer": "UMUR",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalıcı, ölümsüz",
+      "answer": "BAKİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tuzsuz peynir",
+      "answer": "LOR",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bezmiş, usanmış, bıkmış",
+      "answer": "BİZAR",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kısa karşıtı",
+      "answer": "UZUN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yine",
+      "answer": "GENE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak, ıssız",
+      "answer": "SAPA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Zarf-fiil",
+      "answer": "ULAÇ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sav",
+      "answer": "İDDİA",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Geri verilecek para",
-      "answer": "BORÇ",
-      "row": 0,
+      "text": "Efsanevi dağ",
+      "answer": "KAF",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Peru parası",
+      "answer": "İNTİ",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -127,45 +141,33 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
       "col": 5
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 0,
+      "col": 6
     },
     {
-      "row": 3,
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 4,
       "col": 0
     },
     {
       "row": 5,
-      "col": 6
+      "col": 0
     },
     {
-      "row": 6,
+      "row": 9,
       "col": 5
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 40
+  "order": 5
 }

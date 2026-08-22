@@ -1,153 +1,160 @@
 {
   "id": "puzzle-7",
-  "title": "Bulmaca 80",
+  "title": "Bulmaca 63",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Desenli kumaş",
-      "answer": "BASMA",
+      "text": "Açık mor",
+      "answer": "EFLATUN",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yük hayvanı katarı",
-      "answer": "KERVAN",
+      "text": "Güzel sanat",
+      "answer": "SANAT",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Hapishane",
-      "answer": "CEZAEVİ",
+      "text": "Sihirli sıvı",
+      "answer": "İKSİR",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Açık kahverengi",
+      "answer": "BEJ",
       "row": 3,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Açılan koltuk",
-      "answer": "ÇEKYAT",
+      "text": "Şampiyonluk ödülü",
+      "answer": "KUPA",
       "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İsviçre'de ırmak",
-      "answer": "AARE",
-      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Boşa çıkarma",
-      "answer": "ISKA",
+      "text": "İnceltici kimyasal",
+      "answer": "TİNER",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Karşılaşmalar kümesi",
+      "answer": "LİG",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şehir",
-      "answer": "KENT",
+      "text": "Sığınak",
+      "answer": "KORUNAK",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Okul büfesi",
-      "answer": "KANTİN",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dinden bağımsız",
-      "answer": "LAİK",
-      "row": 9,
-      "col": 0,
+      "text": "Üst sınır",
+      "answer": "LİMİT",
+      "row": 8,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Süpermarket",
-      "answer": "MARKET",
+      "text": "Aile adı",
+      "answer": "SOYADI",
       "row": 9,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gösterge çizelgesi",
-      "answer": "SKALA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Güldürü oyunu",
-      "answer": "SKEÇ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bitiş kısmı",
-      "answer": "KENAR",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İçki yiyeceği",
-      "answer": "MEZE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski, kadim",
-      "answer": "ANTİK",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
       "text": "İri bezelye",
       "answer": "ARAKA",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ses bilgisi",
+      "answer": "FONETİK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kadın parasıyla geçinen",
+      "answer": "JİGOLO",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Baş kaldıran",
+      "answer": "ASİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İkiyüzlülük",
+      "answer": "RİYA",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yarım küre başlık",
+      "answer": "TAKKE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Küçük lokma",
-      "answer": "TİKE",
+      "text": "Çare",
+      "answer": "UMAR",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ya da",
-      "answer": "VEYA",
-      "row": 1,
+      "text": "Öge",
+      "answer": "UNSUR",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Başıboş",
-      "answer": "AVARE",
-      "row": 1,
+      "text": "Seslenme, çağırma; ünlem",
+      "answer": "NİDA",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hükümdar vekili",
+      "answer": "NAİP",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Birlik, bölüm",
-      "answer": "ÜNİTE",
-      "row": 0,
-      "col": 7,
+      "text": "Kullanılmış madde",
+      "answer": "ATIK",
+      "row": 6,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Zehir",
-      "answer": "ZEHR",
-      "row": 6,
+      "text": "Yol hareketliliği",
+      "answer": "TRAFİK",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -155,53 +162,41 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 2,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
+      "row": 5,
       "col": 6
     },
     {
       "row": 8,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 7
     },
     {
       "row": 10,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
     }
   ],
   "difficulty": "orta",
-  "order": 80
+  "order": 63
 }

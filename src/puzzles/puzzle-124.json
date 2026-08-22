@@ -1,168 +1,160 @@
 {
   "id": "puzzle-124",
-  "title": "Bulmaca 38",
+  "title": "Bulmaca 80",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Namaz öncesi arınma",
-      "answer": "ABDEST",
+      "text": "Fakire verilen",
+      "answer": "SADAKA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Omurga kemiği",
-      "answer": "OMUR",
+      "text": "Şehir dışı",
+      "answer": "KIR",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Vurma demiri",
+      "answer": "MUŞTA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Destek verme",
+      "answer": "KATKI",
+      "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Az önce",
-      "answer": "HENÜZ",
-      "row": 3,
-      "col": 1,
+      "text": "Bin kere bin",
+      "answer": "MİLYON",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sahip",
-      "answer": "MALİK",
+      "text": "Yanardağ",
+      "answer": "VOLKAN",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Pars",
+      "answer": "LEOPAR",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mevcudiyet",
+      "answer": "VARLIK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ani ve şiddetli",
+      "answer": "AKUT",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ara verme",
+      "answer": "MOLA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İç karşıtı",
+      "answer": "DIŞ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yiyecek odası",
+      "answer": "KİLER",
       "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Utanmaz",
-      "answer": "EDEPSİZ",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kalın destek",
-      "answer": "DİREK",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeniliğe karşı",
-      "answer": "GERİCİ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kirli olmayan",
-      "answer": "TEMİZ",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Süre",
-      "answer": "MÜDDET",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Katar'ın başkenti",
-      "answer": "DOHA",
-      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İrlanda'nın kendi adı",
-      "answer": "EİRE",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İstek, arzu",
-      "answer": "EMEL",
+      "text": "Arka, geri",
+      "answer": "ART",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ek kazanç",
-      "answer": "PRİM",
-      "row": 5,
+      "text": "Alkollü içki",
+      "answer": "ALKOL",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yapay",
-      "answer": "SUNİ",
-      "row": 0,
+      "text": "Temel donanım",
+      "answer": "ALTYAPI",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Nesirde uyak",
-      "answer": "SECİ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Teknik hile",
-      "answer": "TRÜK",
-      "row": 0,
+      "text": "Gösterişli ev",
+      "answer": "KONAK",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Aynı doğumlu",
-      "answer": "İKİZ",
-      "row": 5,
-      "col": 5,
+      "text": "Ekmek yeri",
+      "answer": "FIRIN",
+      "row": 1,
+      "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 6
-    },
-    {
       "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 6
+      "col": 5
     },
     {
       "row": 3,
-      "col": 0
+      "col": 5
     },
     {
       "row": 4,
-      "col": 6
+      "col": 0
     },
     {
       "row": 5,
-      "col": 6
+      "col": 0
     },
     {
       "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
       "col": 6
     },
     {
@@ -170,6 +162,6 @@
       "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 38
+  "difficulty": "orta",
+  "order": 80
 }

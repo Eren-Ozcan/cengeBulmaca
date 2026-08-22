@@ -1,146 +1,167 @@
 {
   "id": "puzzle-24",
-  "title": "Bulmaca 45",
+  "title": "Bulmaca 107",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Sacda pişen ekmek",
-      "answer": "BAZLAMA",
-      "row": 1,
+      "text": "Otomobil",
+      "answer": "ARABA",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Anlayışlı, sezgili",
-      "answer": "ARİF",
+      "text": "Gezgin konuk",
+      "answer": "TURİST",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Miyavlayan hayvan",
-      "answer": "KEDİ",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yumuşak kumaş",
-      "answer": "FLANEL",
-      "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Dahi sözü",
-      "answer": "BİLE",
-      "row": 4,
+      "text": "Bütçeye uygun",
+      "answer": "HESAPLI",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bisiklet koltuğu",
+      "answer": "SELE",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kesin, değişmez",
-      "answer": "KATİ",
+      "text": "Deri sıvısı",
+      "answer": "TER",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Zola romanı",
+      "answer": "NANA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yolculuk çantası",
+      "answer": "BAVUL",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Konuk",
-      "answer": "MİSAFİR",
+      "text": "Açık yeşil taş",
+      "answer": "YEŞİM",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ve benzerleri",
-      "answer": "FALAN",
+      "text": "Ruhsal tedavi",
+      "answer": "TERAPİ",
       "row": 8,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eylem",
-      "answer": "EDİM",
+      "text": "Yuvarlak kap",
+      "answer": "VARİL",
       "row": 9,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Müzikte hız",
-      "answer": "TEMPO",
+      "text": "Yatak giysisi",
+      "answer": "PİJAMA",
       "row": 10,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İki parçalı",
-      "answer": "İKİLİ",
-      "row": 4,
+      "text": "Saygı uyandıran görünüş",
+      "answer": "HEYBET",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ödeme yetersizliği",
-      "answer": "İFLAS",
-      "row": 2,
+      "text": "Kırık desteği",
+      "answer": "ATEL",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hoşluk",
-      "answer": "LETAFET",
-      "row": 3,
+      "text": "Ücretsiz yemekevi",
+      "answer": "AŞEVİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Öpücük",
+      "answer": "BUSE",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yoldaki çukur",
-      "answer": "LAKA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Anlatım, açıklama",
-      "answer": "İFADE",
+      "text": "Dönemeç",
+      "answer": "VİRAJ",
       "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Boşluk, aralık",
+      "answer": "ARA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Güreş alanı",
-      "answer": "ARENA",
-      "row": 0,
+      "text": "Sıra sayısı",
+      "answer": "NUMARA",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Geçersiz kılma",
+      "answer": "İPTAL",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bilim, bilgi",
-      "answer": "İLİM",
+      "text": "Tutturucu çubuk",
+      "answer": "PİM",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Soy bakımından",
+      "answer": "ASLEN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Olmaksızın",
+      "answer": "BİLA",
       "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sindirim organı",
-      "answer": "MİDE",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İstemsiz kasılma",
-      "answer": "KRAMP",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Gösterişli, havalı",
-      "answer": "AFİLİ",
-      "row": 0,
+      "text": "Saç kesimi",
+      "answer": "TIRAŞ",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -148,39 +169,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 2
+      "col": 5
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 1
-    },
-    {
-      "row": 6,
       "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 7,
@@ -188,7 +193,7 @@
     },
     {
       "row": 8,
-      "col": 0
+      "col": 7
     },
     {
       "row": 9,
@@ -200,13 +205,9 @@
     },
     {
       "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 45
+  "difficulty": "orta",
+  "order": 107
 }

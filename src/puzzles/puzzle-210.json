@@ -1,174 +1,181 @@
 {
   "id": "puzzle-210",
-  "title": "Bulmaca 120",
+  "title": "Bulmaca 114",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Eritme kabı",
-      "answer": "POTA",
+      "text": "Dondurma kabı",
+      "answer": "KUP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Veciz",
-      "answer": "ÖZLÜ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ok atma oyunu",
-      "answer": "DART",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yol kesişimi",
-      "answer": "KAVŞAK",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dinen uygun",
-      "answer": "CAİZ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Onay damgası",
-      "answer": "VİZE",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Dümen kolu",
-      "answer": "YEKE",
-      "row": 6,
+      "text": "Müşahhas",
+      "answer": "SOMUT",
+      "row": 1,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çağdaş",
-      "answer": "MODERN",
-      "row": 6,
+      "text": "Ütülenmiş olan",
+      "answer": "ÜTÜLÜ",
+      "row": 2,
       "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Alışılagelmiş, sıradan",
+      "answer": "RUTİN",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayrıntılı yazı",
+      "answer": "ŞERH",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bebek yatağı",
+      "answer": "BEŞİK",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Süt organı",
-      "answer": "MEME",
+      "text": "Sözünde durmayan",
+      "answer": "KALLEŞ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Görme ile",
+      "answer": "OPTİK",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Keman yayı",
+      "answer": "ARŞE",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Öyle söyleyerek",
-      "answer": "DİYE",
+      "text": "Yapay",
+      "answer": "SUNİ",
       "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kırık çizgi",
-      "answer": "ZİKZAK",
+      "text": "Püskürtme sıvısı",
+      "answer": "SPREY",
       "row": 9,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Fransızca pasta",
-      "answer": "GATO",
+      "text": "Pelte kıvamı",
+      "answer": "JEL",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Askerlikten bırakma",
-      "answer": "TERHİS",
-      "row": 11,
-      "col": 0,
+      "text": "Kırmızı, sulu meyve",
+      "answer": "ELMA",
+      "row": 10,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kurum hizmetlisi",
-      "answer": "ODACI",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Açık artırma",
-      "answer": "MEZAT",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kızartma kabı",
-      "answer": "TAVA",
-      "row": 0,
+      "text": "Yanlar, taraflar, çevre",
+      "answer": "ETRAF",
+      "row": 11,
       "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Alt kurul",
-      "answer": "KOMİTE",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Belge saklama",
-      "answer": "ARŞİV",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
       "text": "Süsleme düzeni",
       "answer": "DEKOR",
-      "row": 6,
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çam yaprağı",
+      "answer": "PÜR",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Alık, sünepe",
+      "answer": "ŞAPŞAL",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Doldurulmuş döşek",
+      "answer": "ŞİLTE",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Başsağlığı",
-      "answer": "TAZİYE",
-      "row": 1,
+      "text": "Devamlı",
+      "answer": "SÜREKLİ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Küçük sarı meyve",
-      "answer": "ZERDALİ",
-      "row": 4,
+      "text": "Onay, izin, tasdik",
+      "answer": "OLUR",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Uygulama yolu",
-      "answer": "TEKNİK",
-      "row": 3,
+      "text": "Bilirkişi",
+      "answer": "EKSPER",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Korkunç",
+      "answer": "MÜTHİŞ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yüksek düzeyde",
-      "answer": "ÜSTÜN",
-      "row": 0,
-      "col": 8,
+      "text": "İzmir'in bağ ilçesi",
+      "answer": "URLA",
+      "row": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bereket, ilerleme",
-      "answer": "FEYZ",
-      "row": 6,
+      "text": "Böcek evresi",
+      "answer": "NEMF",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Ermiş",
+      "answer": "EVLİYA",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     }
@@ -176,31 +183,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 1
     },
     {
       "row": 0,
-      "col": 6
+      "col": 3
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 2,
-      "col": 5
+      "row": 0,
+      "col": 8
     },
     {
       "row": 2,
-      "col": 6
+      "col": 0
     },
     {
       "row": 2,
       "col": 7
+    },
+    {
+      "row": 2,
+      "col": 8
     },
     {
       "row": 3,
-      "col": 7
+      "col": 0
     },
     {
       "row": 4,
@@ -208,39 +219,27 @@
     },
     {
       "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
       "col": 7
     },
     {
       "row": 6,
-      "col": 0
-    },
-    {
-      "row": 7,
       "col": 7
     },
     {
       "row": 9,
-      "col": 7
+      "col": 1
     },
     {
       "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
+      "col": 3
     },
     {
       "row": 11,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 11,
+      "col": 1
     },
     {
       "row": 11,
@@ -248,5 +247,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 120
+  "order": 114
 }

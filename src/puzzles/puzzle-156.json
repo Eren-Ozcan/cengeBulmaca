@@ -1,146 +1,153 @@
 {
   "id": "puzzle-156",
-  "title": "Bulmaca 77",
+  "title": "Bulmaca 101",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Yazlık yer",
-      "answer": "SAYFİYE",
-      "row": 1,
+      "text": "Yol kaplaması",
+      "answer": "ASFALT",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Lezzet minerali",
+      "answer": "TUZ",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Toprak örtü malzemesi",
-      "answer": "MALÇ",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İlaç kabı",
-      "answer": "KAPSÜL",
+      "text": "Tek başına söyleyen",
+      "answer": "SOLİST",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kurutulmuş meyve ezmesi",
-      "answer": "PESTİL",
+      "text": "Yer altı sığınağı",
+      "answer": "KAZAMAT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eş, zevce",
-      "answer": "KARI",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Perişan olma",
-      "answer": "MAHV",
-      "row": 6,
+      "text": "Bilinmeyen kimse",
+      "answer": "BİRİ",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ayrılan bölüm",
-      "answer": "PARÇA",
-      "row": 7,
+      "text": "Öğrenci bölümü",
+      "answer": "SINIF",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Seyrek görülen",
-      "answer": "ENDER",
+      "text": "Örtme nesnesi",
+      "answer": "KAPAK",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İri kırmızı çiçek",
+      "answer": "ŞAKAYIK",
       "row": 8,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hürmet",
-      "answer": "SAYGI",
+      "text": "Orman hayvanı",
+      "answer": "AYI",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalın tahta",
-      "answer": "KALAS",
+      "text": "Âdet kesilmesi",
+      "answer": "MENOPOZ",
       "row": 10,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kör bağırsak uzantısı",
-      "answer": "APANDİS",
-      "row": 2,
+      "text": "Hazır mal",
+      "answer": "STOK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Akım birimi",
-      "answer": "AMPER",
+      "text": "Hayat",
+      "answer": "YAŞAM",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İpek eşarp",
+      "answer": "FULAR",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yayvan, düz",
-      "answer": "YASSI",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Haberci",
-      "answer": "PEYK",
+      "text": "Rütbe, derece",
+      "answer": "PAYE",
       "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ermiş, kutsal kişi",
+      "answer": "AZİZ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Üflemeli çalgı",
-      "answer": "FLÜT",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Asker birliği",
-      "answer": "MANGA",
+      "text": "'Asla' ünlemi",
+      "answer": "SAKIN",
       "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Suç geçmişi",
+      "answer": "SABIKA",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hassas kişi",
-      "answer": "İÇLİ",
+      "text": "Doyum sağlama",
+      "answer": "TATMİN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çıkarım sonucu",
-      "answer": "ARDIL",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağız",
-      "answer": "LEHÇE",
+      "text": "Arı yetiştiricisi",
+      "answer": "ARICI",
       "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Damar hastalığı",
-      "answer": "VARİS",
-      "row": 5,
+      "text": "Yumuşak, hoş",
+      "answer": "LATİF",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kor parçası",
+      "answer": "KÖZ",
+      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -148,11 +155,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
+      "col": 4
     },
     {
       "row": 0,
@@ -163,50 +166,34 @@
       "col": 7
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 6
     },
     {
       "row": 2,
-      "col": 7
+      "col": 6
     },
     {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 6,
+      "row": 5,
       "col": 0
-    },
-    {
-      "row": 6,
-      "col": 2
     },
     {
       "row": 7,
-      "col": 0
+      "col": 5
     },
     {
-      "row": 8,
-      "col": 0
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
     },
     {
       "row": 9,
       "col": 6
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
     }
   ],
   "difficulty": "orta",
-  "order": 77
+  "order": 101
 }

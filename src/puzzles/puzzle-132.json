@@ -1,125 +1,132 @@
 {
   "id": "puzzle-132",
-  "title": "Bulmaca 5",
+  "title": "Bulmaca 12",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Yolculuk",
-      "answer": "SEFER",
-      "row": 1,
+      "text": "Yumurtalı tava yemeği",
+      "answer": "KAYGANA",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Ev çalışması",
-      "answer": "ÖDEV",
+      "text": "Bağlanabilen kap",
+      "answer": "TORBA",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yararlanılan buhar",
-      "answer": "İSTİM",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kayırma",
-      "answer": "TORPİL",
+      "text": "Ev eşyası",
+      "answer": "MOBİLYA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sakat, engelli",
+      "answer": "MALUL",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sıcak su torbası",
-      "answer": "BUYOT",
+      "text": "Şifre, simge",
+      "answer": "KOD",
       "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bol, zengin",
+      "answer": "GANİ",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Küf kokulu",
+      "answer": "SASI",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mevlevi büyüğü",
-      "answer": "ÇELEBİ",
-      "row": 7,
+      "text": "Nâzım Hikmet'in soyadı",
+      "answer": "RAN",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dünya ucu",
-      "answer": "KUTUP",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Minare balkonu",
-      "answer": "ŞEREFE",
+      "text": "Tuş takımı",
+      "answer": "KLAVYE",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Aynı tondaki eser",
-      "answer": "SÜİT",
+      "text": "Madde parçacığı",
+      "answer": "ATOM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Uçmak işi",
-      "answer": "UÇUŞ",
+      "text": "Dinlenme alanı",
+      "answer": "PARK",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kibar çevre",
-      "answer": "SOSYETE",
-      "row": 2,
+      "text": "Bağnaz kimse",
+      "answer": "YOBAZ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Keçe şapka",
-      "answer": "FÖTR",
+      "text": "Su taşıtı",
+      "answer": "SAL",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Izgara",
+      "answer": "GRİL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Onay, izin, tasdik",
-      "answer": "OLUR",
+      "text": "Bıkma, usanma",
+      "answer": "GINA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Edebiyatçı, yazar",
-      "answer": "EDİP",
+      "text": "Kuşatma",
+      "answer": "ABLUKA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Alçak yükselti",
-      "answer": "TEPE",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kağıt oyunu",
-      "answer": "REMİ",
+      "text": "Esnek yapay madde",
+      "answer": "NAYLON",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Şaka",
-      "answer": "LATİFE",
-      "row": 3,
+      "text": "Mezopotamya nehri",
+      "answer": "DİCLE",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -127,31 +134,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
       "col": 6
     },
     {
       "row": 2,
-      "col": 0
+      "col": 6
     },
     {
       "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
       "col": 5
     },
     {
-      "row": 6,
-      "col": 5
+      "row": 8,
+      "col": 4
     },
     {
       "row": 8,
@@ -159,5 +162,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 5
+  "order": 12
 }

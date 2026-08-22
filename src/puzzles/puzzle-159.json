@@ -1,167 +1,174 @@
 {
   "id": "puzzle-159",
-  "title": "Bulmaca 56",
+  "title": "Bulmaca 79",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Geçiş kapağı",
-      "answer": "SUPAP",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Erkek evlat",
-      "answer": "OĞUL",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Araştırma sonucu",
-      "answer": "BULGU",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bal katılmış",
-      "answer": "BALLI",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Avrupa nehri",
-      "answer": "TUNA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ayak arkası",
-      "answer": "TOPUK",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Erkek keçi",
-      "answer": "TEKE",
-      "row": 6,
+      "text": "Kedi, köpek ayağı",
+      "answer": "PATİ",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dünya",
-      "answer": "YERKÜRE",
+      "text": "Fotoğraf duruşu",
+      "answer": "POZ",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Soruşturma özeti",
+      "answer": "FEZLEKE",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Silindir biçimli tahıl kulesi",
+      "answer": "SİLO",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gemisiyle ünlü peygamber",
+      "answer": "NUH",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Salahiyetli",
+      "answer": "YETKİLİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bozukluk, kusur",
+      "answer": "DEFO",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zirve",
+      "answer": "PİK",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yoga uygulayıcısı",
+      "answer": "YOGİ",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Önceden ödenen",
+      "answer": "PEŞİN",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yapı bölmesi",
-      "answer": "DUVAR",
+      "text": "Pasif",
+      "answer": "EDİLGEN",
       "row": 9,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sallanan barfiks",
-      "answer": "TRAPEZ",
+      "text": "Hasta bölümü",
+      "answer": "REVİR",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tamamlanmış olan",
-      "answer": "HAZIR",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Damga aracı",
-      "answer": "MÜHÜR",
-      "row": 0,
+      "text": "Çok sıkıntı çeken",
+      "answer": "ÇİLEKEŞ",
+      "row": 10,
       "col": 0,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Doğrulama",
-      "answer": "TEYİT",
-      "row": 5,
+      "text": "Sağlıklı olma",
+      "answer": "AFİYET",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kullanımı engelli",
-      "answer": "BLOKE",
-      "row": 3,
+      "text": "Hayali varlık",
+      "answer": "PERİ",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hayvan ölümü",
+      "answer": "TELEF",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Isınma aracı",
-      "answer": "SOBA",
+      "text": "Sert tartışma",
+      "answer": "CEDEL",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Aynı atom numarası",
+      "answer": "İZOTOP",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Parlatma",
-      "answer": "PERDAH",
+      "text": "Yöresel söyleyiş",
+      "answer": "ŞİVE",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hayır",
+      "answer": "İYİLİK",
       "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Anlaşılmaz gürültü",
-      "answer": "UĞULTU",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Şampiyonluk ödülü",
-      "answer": "KUPA",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Toprak sürme aracı",
-      "answer": "PULLUK",
+      "text": "Sterlin parçası",
+      "answer": "PENİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kırmızı meyveli ağaç",
-      "answer": "ÜVEZ",
-      "row": 7,
+      "text": "Büyük toplantı",
+      "answer": "KONGRE",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gönül vermiş",
-      "answer": "ALGIN",
+      "text": "Öğretim kurumu",
+      "answer": "OKUL",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kabul eden",
-      "answer": "RAZI",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Güzel kokulu",
-      "answer": "AMBER",
-      "row": 4,
+      "text": "Ağılı",
+      "answer": "ZEHİRLİ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -169,39 +176,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 4
     },
     {
-      "row": 0,
-      "col": 2
+      "row": 5,
+      "col": 6
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 1
+      "row": 6,
+      "col": 0
     },
     {
       "row": 6,
       "col": 6
     },
     {
-      "row": 9,
+      "row": 7,
       "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 6
     },
     {
       "row": 10,
@@ -209,13 +212,9 @@
     },
     {
       "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 1
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 56
+  "order": 79
 }

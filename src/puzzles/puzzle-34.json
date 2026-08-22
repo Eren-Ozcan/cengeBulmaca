@@ -1,195 +1,202 @@
 {
   "id": "puzzle-34",
-  "title": "Bulmaca 29",
+  "title": "Bulmaca 49",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Gelirli mülk",
-      "answer": "İRAT",
+      "text": "Küme",
+      "answer": "GRUP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Umutsuz karamsarlık",
-      "answer": "YEİS",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
+      "text": "Azerbaycan'ın başkenti",
+      "answer": "BAKÜ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
     },
     {
-      "text": "Sürekli",
-      "answer": "DEVAMLI",
+      "text": "Yemek kabı",
+      "answer": "TABAK",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Saf, şaşkın",
-      "answer": "AVAL",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ukrayna'nın başkenti",
-      "answer": "KİEV",
+      "text": "Faşizm yanlısı",
+      "answer": "FAŞİST",
       "row": 3,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kokulu mor çiçek",
-      "answer": "LAVANTA",
+      "text": "Çember",
+      "answer": "HALKA",
       "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Satış karşıtı",
-      "answer": "ALIŞ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Japon içkisi",
-      "answer": "SAKE",
+      "text": "Yufka sarması",
+      "answer": "DÜRÜM",
       "row": 5,
-      "col": 4,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Yemin, ant",
-      "answer": "AHİT",
+      "text": "Ara süresi",
+      "answer": "TATİL",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnternete ait",
+      "answer": "SİBER",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cinayet işleyen",
-      "answer": "CANİ",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
+      "text": "Ağız demiri",
+      "answer": "GEM",
+      "row": 6,
+      "col": 6,
+      "arrow": "down-right"
     },
     {
-      "text": "Hainlik",
-      "answer": "İHANET",
+      "text": "Meslek yolu",
+      "answer": "KARİYER",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tanıtım levhası",
-      "answer": "TABELA",
+      "text": "Kötü",
+      "answer": "FENA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hayâlı, utangaç",
+      "answer": "ARLI",
       "row": 9,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Serbestlikçi",
-      "answer": "LİBERAL",
+      "text": "Kafa vurma",
+      "answer": "TOS",
       "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Deri tabaklama",
-      "answer": "SEPİ",
-      "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Taş mezar",
-      "answer": "LAHİT",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
+      "text": "Tekne kaptanı",
+      "answer": "REİS",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Ada sakini",
-      "answer": "ADALI",
+      "text": "Motorlu testere",
+      "answer": "BIÇKI",
+      "row": 11,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Fiyat kâğıdı",
+      "answer": "ETİKET",
+      "row": 5,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Bir ABD eyaleti",
+      "answer": "UTAH",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İş verme",
-      "answer": "İHALE",
-      "row": 6,
+      "text": "Sert siyah ağaç",
+      "answer": "ABANOZ",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Acelecilik, heyecan",
-      "answer": "TELAŞ",
+      "text": "Osmanlı komutanı",
+      "answer": "PAŞA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hasta tedavicisi",
-      "answer": "TABİP",
-      "row": 6,
+      "text": "Açık bölüm",
+      "answer": "TERAS",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Peygamber",
-      "answer": "NEBİ",
-      "row": 7,
+      "text": "Tebliğ",
+      "answer": "BİLDİRİ",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Boyun bölümü",
-      "answer": "YAKA",
+      "text": "Kantar",
+      "answer": "BASKÜL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çabukluk",
-      "answer": "ACELE",
-      "row": 5,
+      "text": "İkide bir",
+      "answer": "YARI",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Güvenli",
-      "answer": "EMİN",
+      "text": "Baharat satıcısı",
+      "answer": "AKTAR",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tren",
-      "answer": "KATAR",
-      "row": 5,
+      "text": "Gerekli malzeme",
+      "answer": "GEREÇ",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Akım geçiren",
-      "answer": "İLETKEN",
-      "row": 0,
+      "text": "Nazarlık bitkisi",
+      "answer": "ÜZERLİK",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Duvar harcı",
-      "answer": "SIVA",
+      "text": "Duygu sözcüğü",
+      "answer": "ÜNLEM",
       "row": 0,
       "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Çok sevilen",
-      "answer": "İDOL",
-      "row": 6,
+      "text": "Sıcaklık derecesi",
+      "answer": "ISI",
+      "row": 8,
       "col": 8,
       "arrow": "down"
     }
@@ -204,38 +211,38 @@
       "col": 4
     },
     {
-      "row": 5,
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 6,
       "col": 8
     },
     {
-      "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
+      "row": 11,
       "col": 0
     },
     {
       "row": 11,
-      "col": 5
-    },
-    {
-      "row": 11,
-      "col": 6
-    },
-    {
-      "row": 11,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 8
+      "col": 1
     }
   ],
   "difficulty": "kolay",
-  "order": 29
+  "order": 49
 }

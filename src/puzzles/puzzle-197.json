@@ -1,146 +1,160 @@
 {
   "id": "puzzle-197",
-  "title": "Bulmaca 89",
+  "title": "Bulmaca 110",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Küp biçimli",
-      "answer": "KÜBİK",
+      "text": "İtici neden",
+      "answer": "SAİK",
       "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yük taşıyıcı",
-      "answer": "HAMAL",
-      "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yasak uyarıcı",
-      "answer": "DOPİNG",
+      "text": "Ev çalışması",
+      "answer": "ÖDEV",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dondurucu",
+      "answer": "BUZLUK",
       "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yapıştırıcı",
-      "answer": "TUTKAL",
-      "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Küçük ışık",
-      "answer": "SPOT",
+      "text": "Eski bez",
+      "answer": "PAÇAVRA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kısa hatırlatma",
+      "answer": "NOT",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ara bozuculuk",
-      "answer": "FESAT",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Süvari",
-      "answer": "BİNİCİ",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük açıklık",
-      "answer": "DELİK",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük lüfer",
-      "answer": "ÇİNEKOP",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çiğ balıklı Japon yemeği",
-      "answer": "SUŞİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Süslü başlık",
-      "answer": "HOTOZ",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Asker paltosu",
-      "answer": "KAPUT",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Körpe bitki",
-      "answer": "FİDE",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Umut",
-      "answer": "ÜMİT",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Deney canlısı",
-      "answer": "DENEK",
+      "text": "Orta saha oyuncusu",
+      "answer": "HAF",
       "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Baskı sayısı",
+      "answer": "TİRAJ",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yük eyeri",
+      "answer": "SEMER",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Küçük ölçek",
+      "answer": "MAKET",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaka kenar şeridi",
+      "answer": "BİYE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zor karşıtı",
+      "answer": "KOLAY",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Söz dalaşı",
+      "answer": "POLEMİK",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Direnç",
+      "answer": "SEBAT",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Deniz giysisi",
+      "answer": "MAYO",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "El içi",
+      "answer": "AVUÇ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek satıcılık",
+      "answer": "TEKEL",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Saklanan tahıl",
+      "answer": "ZAHİRE",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Para kuruluşu",
-      "answer": "BANKA",
+      "text": "Yarış şeridi",
+      "answer": "KULVAR",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Silindir biçimli tahıl kulesi",
-      "answer": "SİLO",
-      "row": 6,
+      "text": "Kuşu örten yapı",
+      "answer": "TÜY",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İptal etme",
-      "answer": "İLGA",
+      "text": "Şanlıurfa'nın kısa adı",
+      "answer": "URFA",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalıcılık",
+      "answer": "BEKA",
       "row": 0,
-      "col": 6,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Şaşırtıcı, tuhaf",
-      "answer": "ACİP",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tekerlek dışı",
-      "answer": "LASTİK",
-      "row": 3,
+      "text": "Tekerlek çemberi",
+      "answer": "JANT",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -156,43 +170,39 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 4
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 5,
       "col": 6
     },
     {
-      "row": 6,
-      "col": 1
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 0
     },
     {
       "row": 7,
-      "col": 1
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
-      "col": 1
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 6
     },
     {
       "row": 10,
@@ -200,5 +210,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 89
+  "order": 110
 }
