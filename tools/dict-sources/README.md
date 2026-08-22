@@ -462,3 +462,57 @@ koşuları sonlandırıyor), her turdan sonra `check-puzzles.mjs` →
 Sıfır tekrar kuralının gevşetilmesi kullanıcı tarafından açıkça reddedildi;
 gerçek yayımlanmış bulmacaların cevap başına 2.87 kez tekrar ettiği ölçülmüş
 olsa da bu yol kapalı.
+
+## Tur 13 — 633'lük artık listenin elden geçirilmesi (2026-08-22)
+
+`4letter-remaining-rejected.tsv`'deki 632 madde tek tek okundu. Alınan 24
+kelime:
+
+```
+ACUR NATO SELA ŞİRK
+ADLI ALIŞ BARK DARP EKLİ EŞLİ FİNK GAZA KALA NECİ
+OLEY OLUŞ ONAR OTLU POPO ULAN UÇLU İLLE İSLİ ZİNA
+```
+
+Kalan 608'in dağılımı: 252 `esk.`/`ağz.` etiketli, 216 salt yönlendirme
+(`RİNA ► tırpana` gibi), 51 fiil-isim (`ÖPÜŞ`, `UMUŞ`), 39 düzeltme işaretli
+(klavyede yazılamıyor), gerisi bitki/balık/denizcilik jargonu (`RAMİ`, `FOŞA`,
+`AŞOZ`) ve hiç bilinmeyen maddeler (`ACVE`, `BOCİ`, `DÜSE`).
+
+Dört harfli katman 1547 → 1571. **Kelime kaynakları bu noktada tamamen
+tükendi.**
+
+## Kapasite: tavan tahmini gerçeği yansıtmıyor (2026-08-22)
+
+Önceki ölçüm koşusu 190-193 bulmacalık bir tavan söylüyordu. Gerçek üretim bunu
+doğrulamadı:
+
+- `--tries=40 --giveup=40 --apply` koşusu ~2,5 saat CPU harcayıp yalnızca 13
+  yeni bulmaca ekledi. 163-210 arası 48 numara denendi, 13'ü tuttu.
+- Son aşamada bulmaca başına süre 10 dakikayı aştı; koşu elle durduruldu.
+
+Yani sınır sözlük değil, doldurma aramasının maliyeti. Set 125 → 134'e çıktı
+(2738 soru).
+
+**Kayıp:** 67, 123, 131 ve 144 numaralı bulmacalar koşu sırasında yeniden
+üretilemedi, eski içeriklerini korudular ve yeni setle 50 cevapta çakıştılar.
+Bozuk yayınlamak yerine silindiler. `tools/rebuild-puzzles.mjs` tek tek onarım
+için yazıldı ama havuz bu kadar daraldığında o dördünü de dolduramadı.
+
+**Grow koşusu öncesi/sonrası şart olanlar:** önce `src/puzzles/` yedeklenir;
+sonra `node tools/check-puzzles.mjs`, `node tools/audit-puzzles.mjs`,
+`node tools/reorder-puzzles.mjs --apply`, `npm run puzzles:manifest`,
+`npx vitest run`.
+
+## Bulmaca sırası artık ölçülen zorluğa göre (2026-08-22)
+
+`tools/reorder-puzzles.mjs` bütün seti dört sinyalle puanlayıp `order`, `title`
+ve `difficulty` alanlarını yeniden yazıyor; 1. bulmaca en kolay, sonuncusu en
+zor. Dosya adları ve `id` alanları değişmiyor, çünkü oyuncu ilerlemesi `id`'ye
+bağlı.
+
+Sinyaller: cevabın sözlükte tek ipuçlu olması (yani toplu TDK çekiminden gelmesi,
+elle derlenmiş çekirdek kelime olmaması), sözlükteki derinliği, kesişen hücre
+oranının tersi ve ızgara alanı. Cevap uzunluğu bilerek kullanılmıyor — bu
+sözlükte 4 harfli katman elle derlenmiş çekirdek, 5-7 harfli katmanlar %99-100
+toplu çekim, dolayısıyla uzunluk ilk sinyalin tersten kopyası olurdu.
