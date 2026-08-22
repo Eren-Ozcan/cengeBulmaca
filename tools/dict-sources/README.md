@@ -516,3 +516,68 @@ elle derlenmiş çekirdek kelime olmaması), sözlükteki derinliği, kesişen h
 oranının tersi ve ızgara alanı. Cevap uzunluğu bilerek kullanılmıyor — bu
 sözlükte 4 harfli katman elle derlenmiş çekirdek, 5-7 harfli katmanlar %99-100
 toplu çekim, dolayısıyla uzunluk ilk sinyalin tersten kopyası olurdu.
+
+## 3 harfli katman açıldı: set 146 bulmacaya çıktı (2026-08-22)
+
+Sözlükteki 2 ve 3 harfli 475 kelime hiç kullanılmıyordu. Sebep `generate.mjs`
+içindeki `MIN_WORD_LEN = 4`: maske onarım geçişleri 4'ten kısa her bloğu ya
+uzatıyor ya yok ediyordu, yani ızgarada o boyda yuva hiç açılmıyordu.
+
+O kuralın gerekçesi arz-talep uyumsuzluğuydu. Rastgele maske ipuçlarının
+~%31'ini 2 harflik yapıyor; Türkçede 2 harfli kelime 81, 3 harfli 394 tane.
+Sıfır tekrar kuralı altında bu talep karşılanamıyor, kural gevşetilirse aynı
+cevap onlarca kez tekrarlıyordu.
+
+Çözüm kota: `buildPuzzle` artık `minWordLen` (hedeflenen en kısa cevap) ve
+`shortBudget` (bir alt uzunluğa bulmaca başına kaç blok izni) alıyor. Taban
+yumuşak tutuluyor — kotayı aşan kısa bloklar giderilir, kota kadarı kalır.
+`shortBudget = 0` eski davranışın birebir aynısı (8 tohumda çıktı karşılaştırması
+ile doğrulandı).
+
+Bulmaca başına 3 harfli kotası 3 ile koşulan üretim: **134 → 146 bulmaca,
+2738 → 3140 soru**, tekrar 0. Katman tüketimi 3h 394/394, 4h 963/1571,
+5h 814/2308, 6h 565/1456, 7h 404/1272. Koşu 4 harfli katman bittiği için değil,
+3 harfli katman tükendiği için durdu.
+
+## Profil karışımı denemesi başarısız (2026-08-22)
+
+146'lık setin talep karışımı sözlüğün arz karışımına oturmuyordu: 3 harfli
+katman arz payının 2 katı hızda tüketiliyor, 5 ve 7 harfli katmanların üçte
+biri hiç kullanılmadan kalıyordu. Talep arza birebir oturursa teorik tavan
+7001 kelime ÷ 21.5 soru ≈ 325 bulmaca.
+
+Önce blok yoğunluğu (`genMask` içindeki 0.17) kaldıraç sanıldı — değil. 0.08
+ile 0.20 arasında süpürüldü, katman dağılımı değişmedi; `repairMask`,
+`shortenShortRuns` ve `thinThreeRuns` maskeyi başlangıç yoğunluğundan bağımsız
+olarak aynı dağılıma yakınsatıyor. Parametre geriye dönük uyumluluk için duruyor.
+
+Gerçek kaldıraç `minWordLen`. Sert taban çalışmıyor (min5 sert: 25 tohumda 0
+üretim — kısa bloğu kaldırma yolu dik yöndeki parçaların da tabanı geçmesini
+istiyor). Yumuşak tabanla ölçülen profiller, bulmaca başına talep:
+
+| profil | 3h | 4h | 5h | 6h | 7h | soru | başarı |
+|---|---|---|---|---|---|---|---|
+| kisa (min4 kota3) | 2.72 | 6.48 | 7.04 | 3.88 | 4.04 | 24.2 | 25/25 |
+| uzun (min5 kota4) | 0 | 3.77 | 5.46 | 5.31 | 4.38 | 18.9 | 13/25 |
+| cokuzun (min5 kota2) | 0 | 1.83 | 8.50 | 4.17 | 4.83 | 19.3 | 6/25 |
+
+LP karışımı 145 kısa + 157 uzun ≈ 302 bulmaca söylüyordu. Gerçek koşu **91
+bulmaca, 1605 soru** verdi — 146'lık setten belirgin kötü, geri alındı.
+
+İki bağımsız hata:
+
+1. **Seçici hiç geçiş yapmadı** (`profil dagilimi: uzun=91`). "En çok bulmaca
+   sürdürebilen profili seç" kuralı açgözlü: `kisa`nın kapasitesi baştan 144.9'da
+   sabit (3 harfli katman bağlıyor ve onu yalnızca `kisa` tüketiyor), `uzun`
+   274'ten başlıyor. `uzun`un kapasitesi 144.9'un altına ancak ~129 bulmaca
+   sonra inerdi; koşu 91'de öldü. 3 harfli katman 0/394 kaldı.
+2. **Koşu havuz bittiği için değil, arama tıkandığı için durdu.** Bitişte 4h
+   %21, 5h %22 kullanılmıştı. 1. aşamada 146 denemenin 63'ü (%43) başarısız —
+   min5 ızgarasında hücre başına kesişim arttığı için doldurma çözülemiyor.
+
+Mekanizmanın kendisi doğru çalıştı: koşu sırasında ölçülen talep payları arz
+paylarına oturmuştu (3h %4.0/%5.6, 4h %24.6/%22.4, 5h %31.0/%33.0,
+6h %23.2/%20.8, 7h %17.3/%18.2). Sorun seçim kuralında ve `uzun` profilinin
+arama maliyetinde. Bir sonraki deneme için: seçiciyi açgözlü kural yerine
+hesaplanan LP oranına bağla, ve `uzun` yerine daha ucuz `min5 kota6` profilini
+(16/25 başarı, 4h talebi 5.44) ölç.
