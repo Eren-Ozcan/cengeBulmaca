@@ -1,160 +1,153 @@
 {
   "id": "puzzle-63",
-  "title": "Bulmaca 221",
+  "title": "Bulmaca 66",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Yargıç",
-      "answer": "HAKİM",
+      "text": "Uzun koltuk",
+      "answer": "KANEPE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ses bilgisi",
-      "answer": "FONETİK",
+      "text": "Divan şiiri ölçüsü",
+      "answer": "ARUZ",
       "row": 2,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Elden ele geçme",
-      "answer": "ALAVERE",
+      "text": "Tel kadayıf tatlısı",
+      "answer": "KÜNEFE",
       "row": 3,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sözleşme",
-      "answer": "KONTRAT",
+      "text": "Yol engeli",
+      "answer": "BARİKAT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalabalığın toplu saldırısı",
-      "answer": "LİNÇ",
-      "row": 4,
+      "text": "Koza ipliği",
+      "answer": "İPEK",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Devletler antlaşması",
+      "answer": "PAKT",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uçtan geniş etek",
-      "answer": "EVAZE",
+      "text": "Hamam nalını",
+      "answer": "TAKUNYA",
       "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Odun baltası",
-      "answer": "NACAK",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Saydam görüntü",
-      "answer": "SLAYT",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ev, aile",
-      "answer": "HANE",
-      "row": 9,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Konu dışı",
-      "answer": "AFAKİ",
-      "row": 0,
+      "text": "Resim sanatçısı",
+      "answer": "RESSAM",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski değerli eşya",
+      "answer": "ANTİKA",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yol yiyeceği",
+      "answer": "AZIK",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yönetici itaati",
+      "answer": "BİAT",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kazıma süslemesi",
-      "answer": "OYMA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Dikey destek",
-      "answer": "KOLON",
-      "row": 0,
+      "text": "Simsiyah",
+      "answer": "KAPKARA",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bağlı düşünce",
-      "answer": "İNANÇ",
-      "row": 0,
+      "text": "Çok üreten",
+      "answer": "ÜRETKEN",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Boyun arkası",
-      "answer": "ENSE",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski dilde ölüm",
-      "answer": "MEVT",
+      "text": "Büyük korku",
+      "answer": "PANİK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yumurta biçimli",
-      "answer": "OVAL",
-      "row": 5,
+      "text": "İşin ehli",
+      "answer": "USTA",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Arka yüz",
-      "answer": "TERS",
-      "row": 1,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Güçlü, becerikli",
-      "answer": "ACAR",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Çünkü",
-      "answer": "ZİRA",
+      "text": "Amaç, hedef",
+      "answer": "EREK",
       "row": 0,
-      "col": 6,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gök boşluğu",
-      "answer": "UZAY",
+      "text": "Dar olan",
+      "answer": "ENSİZ",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Normalden küçük",
+      "answer": "UFAK",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Katmerli çörek",
-      "answer": "KETE",
-      "row": 1,
+      "text": "Deriye konan ilaç",
+      "answer": "YAKI",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ana hatlar",
+      "answer": "ÖZET",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Canı her şeyi çeken",
-      "answer": "EKTİ",
-      "row": 6,
+      "text": "Yardımcı kimse",
+      "answer": "YAMAK",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -162,22 +155,30 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 1
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
       "col": 2
     },
     {
-      "row": 7,
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
       "col": 0
     },
     {
@@ -185,14 +186,22 @@
       "col": 0
     },
     {
-      "row": 10,
-      "col": 4
+      "row": 9,
+      "col": 0
     },
     {
       "row": 10,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 2
     }
   ],
-  "difficulty": "zor",
-  "order": 221
+  "difficulty": "orta",
+  "order": 66
 }

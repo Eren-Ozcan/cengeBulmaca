@@ -1,104 +1,132 @@
 {
   "id": "puzzle-5",
-  "title": "Bulmaca 5",
+  "title": "Bulmaca 117",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Sözleşme, bağıt",
-      "answer": "AKİT",
-      "row": 0,
+      "text": "Terzi şeridi",
+      "answer": "MEZURA",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ara bozuculuk",
-      "answer": "FESAT",
-      "row": 2,
-      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kara zift",
-      "answer": "KATRAN",
+      "text": "Delikli kumaş",
+      "answer": "ETAMİN",
       "row": 2,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yararlanılan buhar",
-      "answer": "İSTİM",
-      "row": 4,
-      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ağılı",
-      "answer": "ZEHİRLİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "El işi mesleği",
-      "answer": "ZANAAT",
-      "row": 6,
+      "text": "Kira ödeyen",
+      "answer": "KİRACI",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uyarı aleti",
-      "answer": "SİREN",
-      "row": 6,
+      "text": "Yinelenen bölüm",
+      "answer": "NAKARAT",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hafif, ince yağmur",
-      "answer": "ÇİSE",
+      "text": "Buğday unu özü",
+      "answer": "NİŞASTA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şirket birliği",
+      "answer": "KARTEL",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Uzak Doğu ağırlık ölçüsü",
+      "answer": "TAEL",
       "row": 8,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Yıpratıcı, üstün",
-      "answer": "EZİCİ",
-      "row": 4,
+      "text": "Yer kabuğu tozu",
+      "answer": "TOPRAK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuvvet bilimi",
+      "answer": "MEKANİK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Övünme",
-      "answer": "İFTİHAR",
+      "text": "Ahlak kuralları",
+      "answer": "ETİK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Aksine",
-      "answer": "TERSİNE",
+      "text": "Kafka romanı",
+      "answer": "ŞATO",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sivas ilçesi",
+      "answer": "ZARA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Şah mat oyunu",
-      "answer": "SATRANÇ",
-      "row": 1,
+      "text": "Ortadoğu halkı",
+      "answer": "ARAP",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çare",
+      "answer": "UMAR",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İç giysi",
-      "answer": "FANİLA",
+      "text": "Odun hacim ölçüsü",
+      "answer": "STER",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Dileme, yalvarma",
+      "answer": "RİCA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Efsane, söylence, mit",
-      "answer": "MİTOS",
-      "row": 3,
+      "text": "Astar arası bez",
+      "answer": "TELA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Abidevi",
+      "answer": "ANITSAL",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -106,49 +134,17 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 5
+      "col": 0
     },
     {
       "row": 8,
-      "col": 2
+      "col": 0
     },
     {
       "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
       "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 5
+  "difficulty": "zor",
+  "order": 117
 }

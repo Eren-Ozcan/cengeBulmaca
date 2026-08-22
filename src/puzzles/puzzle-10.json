@@ -1,216 +1,202 @@
 {
   "id": "puzzle-10",
-  "title": "Bulmaca 203",
+  "title": "Bulmaca 85",
   "rows": 13,
   "cols": 9,
   "clues": [
     {
-      "text": "Doğru, isabetli",
-      "answer": "RAST",
+      "text": "Bebek yiyeceği",
+      "answer": "MAMA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Deriye konan ilaç",
-      "answer": "YAKI",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Süregelen düzen",
-      "answer": "STATÜKO",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Normalden küçük",
-      "answer": "UFAK",
-      "row": 2,
-      "col": 0,
+      "text": "Sarı, tüylü meyve",
+      "answer": "AYVA",
+      "row": 0,
+      "col": 5,
       "arrow": "down-right"
     },
     {
-      "text": "Sivas ilçesi",
-      "answer": "ZARA",
-      "row": 3,
-      "col": 4,
+      "text": "Karışık renkli",
+      "answer": "ALACA",
+      "row": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Doğulu müzik türü",
-      "answer": "ARABESK",
+      "text": "Sınırı aşma",
+      "answer": "TECAVÜZ",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Öğrenci",
+      "answer": "TALEBE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gök zirvesi",
-      "answer": "AYYUK",
+      "text": "Taharri",
+      "answer": "ARAMA",
       "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Haydi",
+      "answer": "HADİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boşa gitme",
+      "answer": "HEBA",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "'Ben'in yönelme hâli",
+      "answer": "BANA",
+      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Harita kitabı",
-      "answer": "ATLAS",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Abide",
-      "answer": "ANIT",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bilyeli yatak",
-      "answer": "RULMAN",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Süslü ipek kumaş",
-      "answer": "DİBA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Etkin, çalışkan",
-      "answer": "FAAL",
+      "text": "Elden ele geçme",
+      "answer": "ALAVERE",
       "row": 9,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yataktan kalkamayan",
-      "answer": "YATALAK",
+      "text": "Uzun yol koşusu",
+      "answer": "MARATON",
       "row": 10,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çatallı bitki",
-      "answer": "ÇALI",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Vurgun, tutkun",
-      "answer": "AŞIK",
+      "text": "Gümüş balığı",
+      "answer": "ATERİNA",
       "row": 11,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ekşi, sarı meyve",
-      "answer": "LİMON",
+      "text": "Genelge",
+      "answer": "TAMİM",
       "row": 12,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yol kaplaması",
-      "answer": "ASFALT",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Suudi parası",
-      "answer": "RİYAL",
+      "text": "Dil okulu",
+      "answer": "KOLEJ",
       "row": 7,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Hükümdar koltuğu",
+      "answer": "TAHT",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ünlü oyuncu",
-      "answer": "STAR",
+      "text": "Asker su kabı",
+      "answer": "MATARA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Senli benli",
-      "answer": "LAUBALİ",
-      "row": 5,
+      "text": "Evlenen erkek, güveyi",
+      "answer": "DAMAT",
+      "row": 7,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Karadeniz teknesi",
-      "answer": "TAKA",
+      "text": "Bayağı, olağan",
+      "answer": "ALELADE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İfade",
-      "answer": "ANLATIM",
-      "row": 5,
+      "text": "Uzun, dar tahta",
+      "answer": "LATA",
+      "row": 8,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Basılıp çoğaltma",
-      "answer": "BASIM",
-      "row": 3,
+      "text": "Deneyimsiz, toy",
+      "answer": "ACEMİ",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Satıh",
-      "answer": "YÜZEY",
+      "text": "Maaş çizelgesi",
+      "answer": "BAREM",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Merak sözü",
+      "answer": "ACABA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yaprak dökmeyen çalı",
-      "answer": "TAFLAN",
+      "text": "İsa'nın öğrencisi",
+      "answer": "HAVARİ",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Baklagillerden ağaç",
-      "answer": "AKASYA",
+      "text": "Saçma söz",
+      "answer": "YAVE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Cenaze, ölü beden",
-      "answer": "NAAŞ",
-      "row": 7,
+      "text": "Kontrol",
+      "answer": "DENETİM",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tehlike kaygısı",
-      "answer": "KORKU",
-      "row": 0,
+      "text": "Orta düzey soylu",
+      "answer": "BARON",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Karşılıklı anlaşma",
-      "answer": "AKIT",
+      "text": "Despot",
+      "answer": "ZORBA",
+      "row": 2,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Kuran'da altıncı sure",
+      "answer": "ENAM",
       "row": 8,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Görevli topluluk",
-      "answer": "KURUL",
-      "row": 4,
       "col": 8,
       "arrow": "down"
     }
@@ -218,7 +204,15 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 4
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 0,
@@ -226,33 +220,33 @@
     },
     {
       "row": 2,
-      "col": 8
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 7,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 2,
       "col": 7
     },
     {
-      "row": 10,
-      "col": 8
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 1
     },
     {
       "row": 12,
-      "col": 6
-    },
-    {
-      "row": 12,
-      "col": 8
+      "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 203
+  "difficulty": "orta",
+  "order": 85
 }

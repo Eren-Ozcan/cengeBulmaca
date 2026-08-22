@@ -1,167 +1,202 @@
 {
   "id": "puzzle-52",
-  "title": "Bulmaca 218",
+  "title": "Bulmaca 53",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Parasız",
-      "answer": "BEDAVA",
+      "text": "Kalın değnek",
+      "answer": "SOPA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Toplu kalabalık",
-      "answer": "KİTLE",
-      "row": 2,
-      "col": 2,
+      "text": "İyi karşıtı",
+      "answer": "KÖTÜ",
+      "row": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Tropik sarı meyve",
-      "answer": "PAPAYA",
+      "text": "Gemi yöneticisi",
+      "answer": "KAPTAN",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Duyuru tahtası",
+      "answer": "PANO",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Açık sözlü",
-      "answer": "DOBRA",
+      "text": "Toprak kölesi",
+      "answer": "SERF",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kâkül",
+      "answer": "PERÇEM",
       "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Çabukluk",
-      "answer": "ACELE",
-      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Işık saçan şenlik",
-      "answer": "MAYTAP",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İnatçı hayvan",
-      "answer": "KEÇİ",
-      "row": 6,
+      "text": "Doldurulmuş döşek",
+      "answer": "ŞİLTE",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Taşkınlık",
-      "answer": "İFRAT",
+      "text": "Boyun bağı",
+      "answer": "TASMA",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ev ayakkabısı",
+      "answer": "TERLİK",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Gözlem konusu",
+      "answer": "OLGU",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Anlam",
+      "answer": "MANA",
       "row": 8,
-      "col": 3,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Ucuza kapatılan",
-      "answer": "KELEPİR",
+      "text": "Yatak kasası",
+      "answer": "KARYOLA",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İki parçalı",
-      "answer": "İKİLİ",
+      "text": "İsviçre'nin başkenti",
+      "answer": "BERN",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kural, ölçüt",
+      "answer": "NORM",
       "row": 10,
-      "col": 3,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kesik süt peyniri",
-      "answer": "ÇÖKELEK",
+      "text": "Sözcük",
+      "answer": "KELİME",
       "row": 11,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Basılı parça",
-      "answer": "KUPON",
-      "row": 6,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Bağımsız",
-      "answer": "AZADE",
-      "row": 2,
+      "text": "Zürafa akrabası",
+      "answer": "OKAPİ",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çivi aleti",
-      "answer": "ÇEKİÇ",
+      "text": "Egemen toprak",
+      "answer": "ÜLKE",
       "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Açık oturum",
+      "answer": "PANEL",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yüksek bilim kurumu",
-      "answer": "AKADEMİ",
+      "text": "Suya batma",
+      "answer": "GARK",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Köpek emri",
+      "answer": "APORT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Alto keman",
-      "answer": "VİYOLA",
-      "row": 0,
+      "text": "Gezici tur",
+      "answer": "TURNE",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Suç topluluğu",
+      "answer": "ÇETE",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kemik dokusu",
-      "answer": "İLİK",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Selçuklu lalası",
-      "answer": "ATABEY",
+      "text": "Derin çanak",
+      "answer": "KASE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Adana ilçesi",
-      "answer": "FEKE",
-      "row": 7,
+      "text": "Müzikte uyum",
+      "answer": "ARMONİ",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kayırma",
-      "answer": "TORPİL",
+      "text": "Ehemmiyet",
+      "answer": "ÖNEM",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kayakta engel geçişi",
+      "answer": "SLALOM",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çok büyük",
-      "answer": "DEVASA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Ev halkı",
-      "answer": "AİLE",
-      "row": 7,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Ortodoks başı",
-      "answer": "PATRİK",
+      "text": "Ezan kulesi",
+      "answer": "MİNARE",
       "row": 5,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayak tabanı cezası",
+      "answer": "FALAKA",
+      "row": 2,
       "col": 8,
       "arrow": "down"
     }
@@ -169,57 +204,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 4
     },
     {
       "row": 0,
-      "col": 2
+      "col": 7
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 1,
       "col": 8
     },
     {
       "row": 2,
-      "col": 8
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 8
+      "col": 7
     },
     {
       "row": 4,
+      "col": 7
+    },
+    {
+      "row": 6,
       "col": 0
     },
     {
-      "row": 4,
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 9,
       "col": 8
     },
     {
-      "row": 8,
-      "col": 1
+      "row": 11,
+      "col": 0
     },
     {
-      "row": 10,
-      "col": 1
+      "row": 11,
+      "col": 8
     }
   ],
-  "difficulty": "zor",
-  "order": 218
+  "difficulty": "kolay",
+  "order": 53
 }

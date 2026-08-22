@@ -1,145 +1,152 @@
 {
   "id": "puzzle-93",
-  "title": "Bulmaca 231",
+  "title": "Bulmaca 106",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Çekingen",
-      "answer": "UTANGAÇ",
-      "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kural",
-      "answer": "KAİDE",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Onarım işleri",
-      "answer": "TAMİRAT",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Herkesçe bilinen",
-      "answer": "AFİŞE",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sanayi, endüstri",
-      "answer": "URAN",
-      "row": 4,
+      "text": "Havasız ortam",
+      "answer": "VAKUM",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tek satıcılık",
-      "answer": "TEKEL",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Diz üstü şort",
-      "answer": "BERMUDA",
-      "row": 8,
+      "text": "Mücevherci",
+      "answer": "KUYUMCU",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ortaya koyma",
-      "answer": "İBRAZ",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
+      "text": "Macar yemeği",
+      "answer": "GULAŞ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Hamur tatlısı",
-      "answer": "PASTA",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kılavuz",
-      "answer": "REHBER",
+      "text": "Cevizli sarımsaklı sos",
+      "answer": "TARATOR",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kısrak sütü",
+      "answer": "KIMIZ",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaka iğnesi",
+      "answer": "BROŞ",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Emziren kadın",
+      "answer": "SÜTANNE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Evlilik dışı ilişki",
+      "answer": "ZİNA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Rahatsız böcek",
+      "answer": "SİNEK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boyun örtüsü",
+      "answer": "ATKI",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ani ve şiddetli",
+      "answer": "AKUT",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bozulmamış, saf",
-      "answer": "AKMAN",
+      "text": "Gol pası",
+      "answer": "ASİST",
+      "row": 6,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "İşitme organı",
+      "answer": "KULAK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek, eşsiz",
+      "answer": "ÜNİK",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İkaz",
+      "answer": "UYARI",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yapmacık tavır",
-      "answer": "TRİP",
+      "text": "Teşhis",
+      "answer": "TANI",
       "row": 6,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Saf, deneyimsiz, toy",
-      "answer": "NAİF",
+      "text": "Su geçirmez örtü",
+      "answer": "MUŞAMBA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kaynak",
-      "answer": "MEMBA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Methal",
-      "answer": "GİRİŞ",
-      "row": 0,
+      "text": "Parmak ucu",
+      "answer": "TIRNAK",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eğitim programı",
-      "answer": "KURS",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ad ortağı",
-      "answer": "ADAŞ",
-      "row": 0,
+      "text": "Koruyucu gaz",
+      "answer": "OZON",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İlgi kuran sözcük",
-      "answer": "EDAT",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Suç topluluğu",
-      "answer": "ÇETE",
+      "text": "Bilinç",
+      "answer": "ŞUUR",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "İş merkezi",
-      "answer": "PLAZA",
+      "text": "Ülkü uğruna ölen",
+      "answer": "ŞEHİT",
       "row": 5,
       "col": 7,
       "arrow": "down"
@@ -148,49 +155,49 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 5
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 5,
       "col": 6
     },
     {
-      "row": 6,
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 2
+      "row": 8,
+      "col": 4
     },
     {
-      "row": 7,
-      "col": 0
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 6
     },
     {
       "row": 10,
-      "col": 0
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 6
     }
   ],
   "difficulty": "zor",
-  "order": 231
+  "order": 106
 }

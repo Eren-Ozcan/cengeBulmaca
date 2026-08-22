@@ -1,166 +1,159 @@
 {
   "id": "puzzle-94",
-  "title": "Bulmaca 33",
+  "title": "Bulmaca 75",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Zarf-fiil",
-      "answer": "ULAÇ",
-      "row": 0,
+      "text": "Küçük davul",
+      "answer": "TRAMPET",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Ordu görevlisi",
-      "answer": "SUBAY",
+      "text": "Üçüncü ay",
+      "answer": "MART",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İş verme",
-      "answer": "İHALE",
+      "text": "Katışıksız ırk",
+      "answer": "SAFKAN",
       "row": 3,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tekerlek dışı",
-      "answer": "LASTİK",
+      "text": "Üstüne örtülen",
+      "answer": "YORGAN",
       "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Uzun karşıtı",
-      "answer": "KISA",
+      "text": "Avukatlar birliği",
+      "answer": "BARO",
       "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Boru musluğu",
+      "answer": "VANA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yeşilimsi kahverengi",
+      "answer": "HAKİ",
+      "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Reçineli madde",
-      "answer": "SAKIZ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yelken açtırma",
-      "answer": "FORA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bitirme belgesi",
-      "answer": "DİPLOMA",
+      "text": "Kök içeceği",
+      "answer": "SALEP",
       "row": 8,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Biçimli vücutlu",
-      "answer": "ATLETİK",
+      "text": "Meşrubat",
+      "answer": "İÇECEK",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kesme aracı",
-      "answer": "MAKAS",
+      "text": "Yetenek",
+      "answer": "YETİ",
       "row": 10,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Küçük lüfer",
-      "answer": "ÇİNEKOP",
+      "text": "Yunan dansı",
+      "answer": "SİRTAKİ",
       "row": 11,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Karbonatlı içecek",
-      "answer": "SODA",
-      "row": 5,
+      "text": "Jimnastik demiri",
+      "answer": "BARFİKS",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Soylu, yüce",
-      "answer": "ASİL",
-      "row": 0,
+      "text": "Belli, aşikâr",
+      "answer": "AYAN",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kalp düzensizliği",
-      "answer": "ARİTMİ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce yün kumaş",
-      "answer": "ÇUHA",
+      "text": "Sivri dipli testi",
+      "answer": "AMFORA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çizgili yırtıcı",
-      "answer": "KAPLAN",
-      "row": 5,
+      "text": "İzleme",
+      "answer": "SEYR",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Basılış biçimi",
-      "answer": "BASKI",
-      "row": 1,
+      "text": "Mikro karşıtı",
+      "answer": "MAKRO",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İz, benek",
-      "answer": "LEKE",
-      "row": 7,
+      "text": "Gereklilik, ihtiyaç",
+      "answer": "HACET",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Altılı doğum",
-      "answer": "ALTIZ",
-      "row": 1,
+      "text": "Çek başkenti",
+      "answer": "PRAG",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Halk dilinde çadır",
-      "answer": "OTAK",
-      "row": 7,
+      "text": "Kuru peksimet",
+      "answer": "GALETA",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Umutsuz karamsarlık",
-      "answer": "YEİS",
-      "row": 1,
+      "text": "Sicilya yanardağı",
+      "answer": "ETNA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Japon çorbası çeşnisi",
-      "answer": "MİSO",
-      "row": 7,
+      "text": "Baharat bitkisi",
+      "answer": "KEKİK",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sütün üstü",
-      "answer": "KAYMAK",
+      "text": "Kişi payı",
+      "answer": "NASİP",
       "row": 3,
       "col": 7,
       "arrow": "down"
@@ -169,26 +162,18 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 4
+      "col": 2
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
       "col": 7
     },
     {
@@ -197,11 +182,11 @@
     },
     {
       "row": 2,
-      "col": 7
+      "col": 1
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 2,
+      "col": 7
     },
     {
       "row": 4,
@@ -209,11 +194,23 @@
     },
     {
       "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 6
+      "row": 7,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 7
     },
     {
       "row": 10,
@@ -224,6 +221,6 @@
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 33
+  "difficulty": "orta",
+  "order": 75
 }

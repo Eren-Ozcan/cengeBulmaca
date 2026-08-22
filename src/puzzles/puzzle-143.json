@@ -1,155 +1,165 @@
 {
   "id": "puzzle-143",
-  "title": "Bulmaca 143",
+  "title": "Bulmaca 125",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Üreme tanesi",
-      "answer": "TOHUM",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Negatif iyon",
-      "answer": "ANYON",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Olağan",
-      "answer": "NORMAL",
-      "row": 3,
+      "text": "Görünen hayal",
+      "answer": "HAYALET",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Numara levhası",
-      "answer": "PLAKA",
-      "row": 5,
+      "text": "Dönem",
+      "answer": "DEVRE",
+      "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Hamsi ilimiz",
-      "answer": "TRABZON",
-      "row": 6,
+      "text": "Sakınca",
+      "answer": "ÇEKİNCE",
+      "row": 2,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Enteresan",
+      "answer": "İLGİNÇ",
+      "row": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Arlanmaz",
-      "answer": "UTANMAZ",
+      "text": "Toplamada aktarılan sayı",
+      "answer": "ELDE",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Etiyopya para birimi",
+      "answer": "BİRR",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Baskı işi",
+      "answer": "BASI",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Padişah oğlu",
+      "answer": "ŞEHZADE",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Osmanlı kolluğu",
-      "answer": "ZAPTİYE",
+      "text": "Rahat konuşamayan",
+      "answer": "TUTUK",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yakın yer",
-      "answer": "BURA",
+      "text": "Bilgisayar programı",
+      "answer": "YAZILIM",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Göz-kulak arası",
-      "answer": "ŞAKAK",
+      "text": "Kesme aracı",
+      "answer": "MAKAS",
       "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Köpek emri",
-      "answer": "APORT",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kısa karşıtı",
-      "answer": "UZUN",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gecikme",
-      "answer": "RÖTAR",
+      "text": "Reis",
+      "answer": "BAŞKAN",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hristiyan mabedi",
+      "answer": "KİLİSE",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Takas",
-      "answer": "TRAMPA",
+      "text": "Adaletli",
+      "answer": "ADİL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Külhanbeyi",
-      "answer": "APAŞ",
-      "row": 7,
+      "text": "Liman kıyısı",
+      "answer": "RIHTIM",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Nal çakan",
-      "answer": "NALBANT",
-      "row": 2,
+      "text": "Büyük bakır kap",
+      "answer": "LENGER",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tembel, yaramaz",
-      "answer": "HAYLAZ",
+      "text": "Gizli yer",
+      "answer": "ZULA",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ehlileştirilmiş hayvan",
+      "answer": "EVCİL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Vizon",
-      "answer": "MİNK",
-      "row": 7,
+      "text": "Su altında",
+      "answer": "BATIK",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zor karşıtı",
-      "answer": "KOLAY",
-      "row": 4,
+      "text": "Eğilim, yönelim",
+      "answer": "TREND",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yakasız gömlek",
-      "answer": "MİNTAN",
-      "row": 0,
-      "col": 7,
+      "text": "Rus parlamentosu",
+      "answer": "DUMA",
+      "row": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Haz, keyif",
-      "answer": "ZEVK",
-      "row": 7,
+      "text": "Dörtte bir",
+      "answer": "ÇEYREK",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 0
-    },
     {
       "row": 0,
       "col": 1
@@ -160,49 +170,37 @@
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 4,
       "col": 0
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
-      "col": 6
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
+      "row": 6,
       "col": 6
+    },
+    {
+      "row": 10,
+      "col": 7
     },
     {
       "row": 11,
       "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 271
+  "difficulty": "zor",
+  "order": 125
 }

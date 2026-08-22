@@ -1,188 +1,195 @@
 {
   "id": "puzzle-15",
-  "title": "Bulmaca 206",
+  "title": "Bulmaca 118",
   "rows": 13,
   "cols": 9,
   "clues": [
     {
-      "text": "Bükülü iplik",
-      "answer": "BÜKME",
+      "text": "Dur işareti",
+      "answer": "STOP",
       "row": 0,
-      "col": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ekmekli çorba",
-      "answer": "PAPARA",
-      "row": 1,
-      "col": 1,
+      "text": "Çünkü",
+      "answer": "ZİRA",
+      "row": 0,
+      "col": 5,
       "arrow": "down-right"
     },
     {
-      "text": "İstikbal",
-      "answer": "GELECEK",
+      "text": "Akıllı kadın",
+      "answer": "AKİLE",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Yeşillik karışımı",
-      "answer": "SALATA",
+      "text": "Eyer yapımcısı",
+      "answer": "SARAÇ",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Mermi ve barut",
+      "answer": "CEPHANE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hayvan derisi",
-      "answer": "POST",
+      "text": "Katman",
+      "answer": "TABAKA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Nişasta bulamacı",
-      "answer": "KOLA",
-      "row": 5,
+      "text": "Gözlem",
+      "answer": "RASAT",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Üreteç",
+      "answer": "DİNAMO",
+      "row": 7,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tokat ilçesi",
+      "answer": "ZİLE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hattat kâğıdı cilası",
+      "answer": "AHAR",
+      "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Para torbası",
-      "answer": "KESE",
-      "row": 6,
-      "col": 1,
+      "text": "Suçsuz, günahsız",
+      "answer": "MASUM",
+      "row": 10,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Enerji çeviren düzenek",
-      "answer": "MAKİNE",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hoşluk",
-      "answer": "LETAFET",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Vücut yapısı bilimi",
-      "answer": "ANATOMİ",
+      "text": "İbadet",
+      "answer": "AMEL",
       "row": 10,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İşkence",
-      "answer": "EZİYET",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bando",
-      "answer": "MIZIKA",
-      "row": 11,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Amerika parası",
-      "answer": "PESO",
-      "row": 1,
+      "text": "Soylu, yüce",
+      "answer": "ASİL",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Zarar verme",
+      "answer": "İHLAL",
+      "row": 12,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tacir",
+      "answer": "TÜCCAR",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Harç aracı",
-      "answer": "MALA",
-      "row": 6,
+      "text": "Dikili direk",
+      "answer": "DİKME",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Asker kemeri",
-      "answer": "PALASKA",
+      "text": "Kırlangıç benzeri kuş",
+      "answer": "EBABİL",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kapı önü örtüsü",
+      "answer": "PASPAS",
       "row": 0,
-      "col": 2,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Edirne ilçesi",
-      "answer": "ENEZ",
-      "row": 8,
-      "col": 2,
+      "text": "Az ıslak",
+      "answer": "NEMLİ",
+      "row": 7,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dili dolaşan",
-      "answer": "PELTEK",
+      "text": "Yüksek sesle gülme",
+      "answer": "KAHKAHA",
       "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Av köpeği",
-      "answer": "TAZI",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Duman yolu",
-      "answer": "BACA",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kalça siniri",
-      "answer": "SİYATİK",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Çok üreten",
-      "answer": "ÜRETKEN",
+      "text": "Tarım",
+      "answer": "ZİRAAT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sahte parlaklık",
-      "answer": "FOYA",
-      "row": 8,
+      "text": "Halk anlatısı",
+      "answer": "MASAL",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çikolata maddesi",
-      "answer": "KAKAO",
+      "text": "Duyuru",
+      "answer": "İLAN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Seçme aşaması",
-      "answer": "ELEME",
+      "text": "Yeni doğum yapmış",
+      "answer": "LOHUSA",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Unvan",
-      "answer": "TİTR",
+      "text": "Meyve tatlısı",
+      "answer": "REÇEL",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Sebep olan güç",
+      "answer": "AMİL",
       "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Çete önderi",
-      "answer": "ELEBAŞI",
-      "row": 0,
+      "text": "Kırıcı söz",
+      "answer": "AZAR",
+      "row": 5,
       "col": 8,
       "arrow": "down"
     }
@@ -190,39 +197,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
       "row": 0,
-      "col": 1
+      "col": 4
     },
     {
       "row": 0,
-      "col": 3
+      "col": 8
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
+      "row": 2,
       "col": 0
     },
     {
       "row": 2,
-      "col": 7
+      "col": 8
     },
     {
       "row": 3,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 8
     },
     {
       "row": 4,
-      "col": 7
+      "col": 8
     },
     {
-      "row": 6,
-      "col": 0
+      "row": 5,
+      "col": 6
     },
     {
       "row": 6,
@@ -230,31 +237,19 @@
     },
     {
       "row": 7,
-      "col": 7
-    },
-    {
-      "row": 8,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 8
-    },
-    {
-      "row": 9,
-      "col": 8
+      "row": 7,
+      "col": 7
     },
     {
       "row": 10,
       "col": 8
     },
     {
-      "row": 11,
-      "col": 8
-    },
-    {
       "row": 12,
-      "col": 6
+      "col": 0
     },
     {
       "row": 12,
@@ -262,5 +257,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 206
+  "order": 118
 }

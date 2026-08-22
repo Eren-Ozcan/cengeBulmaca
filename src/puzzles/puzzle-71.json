@@ -1,131 +1,131 @@
 {
   "id": "puzzle-71",
-  "title": "Bulmaca 125",
+  "title": "Bulmaca 7",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "İçme kabı",
-      "answer": "YALAK",
+      "text": "Cezaevi, tutukluluk",
+      "answer": "HAPİS",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çağlayan",
-      "answer": "ŞELALE",
+      "text": "Gizli söz",
+      "answer": "PAROLA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Koruyucu kap",
-      "answer": "KILIF",
+      "text": "Oruç vakti",
+      "answer": "İMSAK",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kalaylı sac",
-      "answer": "TENEKE",
+      "text": "Ayak direyen",
+      "answer": "İNATÇI",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bulunulan hâl",
-      "answer": "DURUM",
+      "text": "Ölü bezi",
+      "answer": "KEFEN",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Oruç ayı",
-      "answer": "RAMAZAN",
+      "text": "Tertemiz",
+      "answer": "LEKESİZ",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yırtıcı kedigil",
-      "answer": "VAŞAK",
+      "text": "Mantar-yosun bitkisi",
+      "answer": "LİKEN",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yığılma",
-      "answer": "BİRİKİM",
+      "text": "Çoban abası",
+      "answer": "KEPENEK",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sağaltma",
-      "answer": "TEDAVİ",
+      "text": "Gemilerin yanaştığı yer",
+      "answer": "İSKELE",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dümen kolu",
-      "answer": "YEKE",
+      "text": "İhanet eden",
+      "answer": "HAİN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çare",
-      "answer": "UMAR",
+      "text": "Takım, kadro",
+      "answer": "EKİP",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yüz üstü",
-      "answer": "ALIN",
+      "text": "Aile işareti",
+      "answer": "ARMA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Rüşvet veren",
-      "answer": "RAŞİ",
+      "text": "Adana ilçesi",
+      "answer": "FEKE",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Süs çiçeği",
-      "answer": "LALE",
+      "text": "Hayvan derisi",
+      "answer": "POST",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yakın karşıtı",
-      "answer": "UZAK",
+      "text": "Sağlıklı",
+      "answer": "ESEN",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Şaşkın, ahmak",
-      "answer": "ALIK",
+      "text": "İyileştirici madde",
+      "answer": "İLAÇ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Madagaskar maymunu",
-      "answer": "MAKİ",
+      "text": "Büyükanne",
+      "answer": "NİNE",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ölü bezi",
-      "answer": "KEFEN",
+      "text": "Reçineli madde",
+      "answer": "SAKIZ",
       "row": 0,
       "col": 6,
       "arrow": "down"
@@ -161,6 +161,6 @@
       "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 125
+  "difficulty": "kolay",
+  "order": 7
 }

@@ -1,139 +1,146 @@
 {
   "id": "puzzle-137",
-  "title": "Bulmaca 137",
+  "title": "Bulmaca 46",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Mevsimlik rüzgâr",
-      "answer": "MUSON",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Üstün eser",
-      "answer": "ŞAHESER",
-      "row": 1,
-      "col": 0,
+      "text": "Ölü karşıtı",
+      "answer": "DİRİ",
+      "row": 0,
+      "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Ritimli dans",
-      "answer": "TANGO",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kısa silah",
-      "answer": "TABANCA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çenesi düşük",
-      "answer": "ÇALÇENE",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tahta üflemeli",
-      "answer": "FAGOT",
-      "row": 6,
+      "text": "Telefon kulaklığı",
+      "answer": "AHİZE",
+      "row": 2,
       "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Faşizm yanlısı",
+      "answer": "FAŞİST",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İki parça mayo",
+      "answer": "BİKİNİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Cennet kızı",
+      "answer": "HURİ",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Görme yetisi",
-      "answer": "GÖRÜM",
+      "text": "Para oyunu",
+      "answer": "KUMAR",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Davranış, işlem",
+      "answer": "MUAMELE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Veteriner",
+      "answer": "BAYTAR",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kümes hayvanı",
-      "answer": "TAVUK",
+      "text": "Bedava, karşılıksız",
+      "answer": "CABA",
       "row": 9,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ana yol",
-      "answer": "ARTER",
+      "text": "Çam ormanı",
+      "answer": "ÇAMLIK",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ölçüm aleti",
-      "answer": "SAYAÇ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Keçe şapka",
-      "answer": "FÖTR",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Çeşni tozları",
-      "answer": "BAHARAT",
+      "text": "Altın bilezik",
+      "answer": "BURMA",
       "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Mavi değerli taş",
+      "answer": "SAFİR",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İletken madde",
-      "answer": "METAL",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kumaş böceği",
-      "answer": "GÜVE",
+      "text": "Ahenk",
+      "answer": "UYUM",
       "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gerçek",
+      "answer": "HAKİKAT",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bıkkınlık duygusu",
-      "answer": "USANÇ",
+      "text": "Yavru doğuran",
+      "answer": "DİŞİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Omurga kemiği",
-      "answer": "OMUR",
-      "row": 6,
+      "text": "Korkutan hayal",
+      "answer": "UMACI",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sana göre",
-      "answer": "SENCE",
+      "text": "Verilen özgürlük",
+      "answer": "İZİN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Vücut bölümü",
-      "answer": "ORGAN",
+      "text": "Öğrenme isteği",
+      "answer": "MERAK",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek sanatçı dinletisi",
+      "answer": "RESİTAL",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Küçük raflı dolap",
-      "answer": "ETAJER",
-      "row": 4,
+      "text": "Gönenç",
+      "answer": "REFAH",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -145,14 +152,38 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
     },
     {
       "row": 0,
       "col": 7
     },
     {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 1
+    },
+    {
       "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 4,
       "col": 7
     },
     {
@@ -160,38 +191,18 @@
       "col": 0
     },
     {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
       "row": 8,
       "col": 6
     },
     {
       "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 5
+      "col": 1
     },
     {
       "row": 10,
       "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 265
+  "difficulty": "kolay",
+  "order": 46
 }

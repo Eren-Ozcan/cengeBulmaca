@@ -1,160 +1,146 @@
 {
   "id": "puzzle-73",
-  "title": "Bulmaca 26",
+  "title": "Bulmaca 102",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Kusur",
-      "answer": "KABAHAT",
+      "text": "Peygamber sözü",
+      "answer": "HADİS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Fransız unvanı",
-      "answer": "MADAM",
+      "text": "Gizli sapma",
+      "answer": "KAÇAMAK",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Oturulacak şey",
-      "answer": "OTURAK",
+      "text": "Çiçek düzenleme",
+      "answer": "İKEBANA",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zabıt",
-      "answer": "TUTANAK",
+      "text": "Eylemci savunucu",
+      "answer": "MİLİTAN",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yapı örtüsü",
-      "answer": "ÇATI",
-      "row": 5,
-      "col": 3,
+      "text": "Gülünç duruma düşen",
+      "answer": "MASKARA",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir ABD eyaleti",
-      "answer": "UTAH",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hafif topal",
-      "answer": "AKSAK",
+      "text": "Seke yürüyen",
+      "answer": "TOPAL",
       "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Keseli memeli",
-      "answer": "KOALA",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
+      "text": "Baş-boyun örtüsü",
+      "answer": "EŞARP",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Ekran işaretçisi",
-      "answer": "İMLEÇ",
+      "text": "Açık oda",
+      "answer": "EYVAN",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Tarım",
-      "answer": "ZİRAAT",
-      "row": 10,
+      "text": "İlk Osmanlı başkenti",
+      "answer": "BURSA",
+      "row": 9,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Hava gazı",
-      "answer": "AZOT",
+      "text": "Sonuçsuz kalan",
+      "answer": "AKİM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yuvarlak uçlu silah",
-      "answer": "TOPUZ",
+      "text": "Yasal, uygun",
+      "answer": "MEŞRU",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Para yüzü",
-      "answer": "TURA",
-      "row": 2,
+      "text": "Altmış saniye",
+      "answer": "DAKİKA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Baş aşağı",
-      "answer": "AMUT",
+      "text": "Mersin'in eski adı",
+      "answer": "İÇEL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Değersiz",
-      "answer": "HAKİR",
+      "text": "Ruhsal gerilim",
+      "answer": "STRES",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Baç",
-      "answer": "HARAÇ",
+      "text": "Küçük çocuk",
+      "answer": "SABİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bilinç kaybı",
-      "answer": "KOMA",
-      "row": 6,
+      "text": "Aynısı, taklit",
+      "answer": "KOPYA",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kebap ilimiz",
-      "answer": "ADANA",
-      "row": 0,
+      "text": "Delik açma aracı",
+      "answer": "MATKAP",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Minareden okunan sela",
-      "answer": "SALA",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Güç, derman",
-      "answer": "TAKAT",
+      "text": "'Sen'in yönelme hâli",
+      "answer": "SANA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Araç, avadanlık",
-      "answer": "ALET",
-      "row": 6,
+      "text": "Yer bulucu",
+      "answer": "RADAR",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Pens, kerpeten",
-      "answer": "KISKAÇ",
-      "row": 3,
+      "text": "Tel yumağı",
+      "answer": "KANGAL",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -162,37 +148,33 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 7,
+      "row": 5,
       "col": 0
     },
     {
       "row": 8,
-      "col": 0
+      "col": 5
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 10,
+      "col": 5
     },
     {
       "row": 10,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 26
+  "difficulty": "orta",
+  "order": 102
 }

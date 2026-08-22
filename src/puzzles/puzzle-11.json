@@ -1,166 +1,159 @@
 {
   "id": "puzzle-11",
-  "title": "Bulmaca 105",
+  "title": "Bulmaca 79",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Çay ilimiz",
-      "answer": "RİZE",
+      "text": "Yıpratıcı, üstün",
+      "answer": "EZİCİ",
       "row": 0,
-      "col": 0,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Akdeniz sıcak rüzgârı",
-      "answer": "SİROKO",
+      "text": "Gömülecek ölü",
+      "answer": "CENAZE",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hayır",
-      "answer": "İYİLİK",
-      "row": 3,
+      "text": "Alt yüklenici",
+      "answer": "TAŞERON",
+      "row": 2,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Bilgi",
-      "answer": "MALUMAT",
+      "text": "Çam meyvesi",
+      "answer": "KOZALAK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Arap el yazısı",
-      "answer": "RİKA",
+      "text": "Banka işlemi",
+      "answer": "REPO",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kuşların ağzı",
-      "answer": "GAGA",
+      "text": "Sim işlemeli kumaş",
+      "answer": "LAME",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mücevher",
-      "answer": "CEVAHİR",
+      "text": "Kadın peşinde koşan",
+      "answer": "ZAMPARA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sermaye",
-      "answer": "ANAPARA",
+      "text": "İfade",
+      "answer": "ANLATIM",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üflemeli boru",
-      "answer": "BORAZAN",
+      "text": "Makinedeki bozukluk",
+      "answer": "ARIZA",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Camlı bölme",
-      "answer": "CAMEKAN",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Yaylı çalgı",
+      "answer": "KEMAN",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Ad",
-      "answer": "İSİM",
+      "text": "İlk ay",
+      "answer": "OCAK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Merak sözü",
-      "answer": "ACABA",
+      "text": "Bağımsız",
+      "answer": "AZADE",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Işık",
-      "answer": "ZİYA",
-      "row": 0,
+      "text": "Spor giysisi",
+      "answer": "EŞOFMAN",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kalıtım materyali",
-      "answer": "GENOM",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Erkek cins",
-      "answer": "ERİL",
+      "text": "Edirne ilçesi",
+      "answer": "ENEZ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Başıboş",
-      "answer": "AVARE",
+      "text": "Ev, arsa",
+      "answer": "EMLAK",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Onay, izin, tasdik",
-      "answer": "OLUR",
-      "row": 1,
+      "text": "Ziyan",
+      "answer": "ZARAR",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çok beyaz",
-      "answer": "APAK",
+      "text": "Parça",
+      "answer": "PARE",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bazıları",
-      "answer": "KİMİ",
-      "row": 1,
+      "text": "Yalıtılmış olan",
+      "answer": "İZOLE",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tam anlamıyla",
-      "answer": "HAZA",
+      "text": "Atış uzaklığı",
+      "answer": "ATIM",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ev arası yol",
-      "answer": "SOKAK",
+      "text": "Saygı sözü",
+      "answer": "CENAP",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Fars ülkesi",
-      "answer": "İRAN",
+      "text": "Onama, kabul",
+      "answer": "RIZA",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İran'ın başkenti",
-      "answer": "TAHRAN",
+      "text": "Çok iri",
+      "answer": "KOCAMAN",
       "row": 3,
       "col": 7,
       "arrow": "down"
@@ -169,11 +162,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
     },
     {
       "row": 0,
-      "col": 5
+      "col": 2
     },
     {
       "row": 0,
@@ -181,17 +174,21 @@
     },
     {
       "row": 1,
-      "col": 7
+      "col": 0
     },
     {
       "row": 2,
       "col": 7
     },
     {
+      "row": 9,
+      "col": 0
+    },
+    {
       "row": 10,
-      "col": 7
+      "col": 0
     }
   ],
   "difficulty": "orta",
-  "order": 105
+  "order": 79
 }

@@ -1,132 +1,132 @@
 {
   "id": "puzzle-61",
-  "title": "Bulmaca 22",
+  "title": "Bulmaca 32",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Otlak",
-      "answer": "MERA",
+      "text": "Zariflik",
+      "answer": "ZARAFET",
       "row": 0,
-      "col": 3,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tutu",
-      "answer": "İPOTEK",
+      "text": "Ara süresi",
+      "answer": "TATİL",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Banka sahibi",
-      "answer": "BANKER",
-      "row": 3,
+      "text": "Osmanlı deniz askeri",
+      "answer": "LEVENT",
+      "row": 2,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Silahla ele geçirme",
-      "answer": "İSTİLA",
+      "text": "Şişmiş",
+      "answer": "ŞİŞKİN",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yer çizimi",
-      "answer": "HARİTA",
+      "text": "Karaciğer yangısı",
+      "answer": "HEPATİT",
       "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Endüstri",
-      "answer": "SANAYİ",
-      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Süsleme düzeni",
-      "answer": "DEKOR",
+      "text": "Mal satan",
+      "answer": "SATICI",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yuvarlak parça",
+      "answer": "TOPAK",
       "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gürültü patırtı",
+      "answer": "ŞAMATA",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Odun hacim ölçüsü",
-      "answer": "STER",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Benzer, benzeyen",
-      "answer": "GİBİ",
+      "text": "Savaşa ara",
+      "answer": "ATEŞKES",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Haydi",
-      "answer": "HADİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tatlı satılan yer",
-      "answer": "PASTANE",
-      "row": 1,
+      "text": "Nakleden kimse",
+      "answer": "RAVİ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kalın dış giysi",
-      "answer": "MONT",
+      "text": "Berabere kalma",
+      "answer": "PATA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanma olayı, od",
+      "answer": "ATEŞ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dans",
-      "answer": "RAKS",
+      "text": "Madde parçacığı",
+      "answer": "ATOM",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Güç, tesir",
-      "answer": "ETKİ",
+      "text": "Gönlünce gezme deyiminde",
+      "answer": "FİNK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "I simgeli element",
-      "answer": "İYOT",
+      "text": "Fıçı ağzı tıkacı",
+      "answer": "TIPA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gerçek, somut",
-      "answer": "REEL",
+      "text": "Kayının eşi",
+      "answer": "ELTİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Pamuk ipliği",
-      "answer": "TİRE",
+      "text": "Yeni yaratım",
+      "answer": "İCAT",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hısım",
-      "answer": "AKRABA",
-      "row": 0,
+      "text": "Söyleme yeteneği",
+      "answer": "NATIKA",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     }
@@ -134,33 +134,17 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 6
     },
     {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
+      "row": 2,
       "col": 6
     },
     {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
       "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 22
+  "order": 32
 }

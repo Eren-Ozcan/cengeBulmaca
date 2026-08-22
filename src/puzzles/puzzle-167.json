@@ -1,0 +1,162 @@
+{
+  "id": "puzzle-167",
+  "title": "Bulmaca 33",
+  "rows": 10,
+  "cols": 7,
+  "clues": [
+    {
+      "text": "Kaşık yapan",
+      "answer": "KAŞIKÇI",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güneş yönü",
+      "answer": "DOĞU",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mahzur",
+      "answer": "SAKINCA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dili dolaşan",
+      "answer": "PELTEK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sert olmayan",
+      "answer": "YUMUŞAK",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gülmece",
+      "answer": "MİZAH",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "'Yarım' sözü",
+      "answer": "BUÇUK",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güçlendirici ilaç",
+      "answer": "TONİK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Töre, görgü",
+      "answer": "ADAP",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ümit",
+      "answer": "UMUT",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Şaşkına dönmüş",
+      "answer": "ŞOKE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gemide tayfa yamağı",
+      "answer": "MİÇO",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yavaşça akan",
+      "answer": "IĞIL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kısa karşıtı",
+      "answer": "UZUN",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalın ve dayanıklı",
+      "answer": "KUNT",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Haydut, eşkıya",
+      "answer": "ŞAKİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kanat",
+      "answer": "CENAH",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak",
+      "answer": "IRAK",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 33
+}

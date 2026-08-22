@@ -1,160 +1,146 @@
 {
   "id": "puzzle-30",
-  "title": "Bulmaca 111",
+  "title": "Bulmaca 62",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Para işleri görevlisi",
-      "answer": "MUTEMET",
-      "row": 1,
+      "text": "Sıvı aracı",
+      "answer": "HUNİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eylem, hareket",
+      "answer": "AKSİYON",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Saçma söz",
-      "answer": "YAVE",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ulak",
-      "answer": "HABERCİ",
+      "text": "Hükümdar kızı",
+      "answer": "PRENSES",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Alerji yapan madde",
-      "answer": "ALERJEN",
+      "text": "Tüylü yaz meyvesi",
+      "answer": "ŞEFTALİ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Arap alfabesinde harf",
-      "answer": "AYIN",
+      "text": "Keskin bıçak",
+      "answer": "KAMA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yalnızca sözü",
-      "answer": "ANCAK",
+      "text": "Gürcistan para birimi",
+      "answer": "LARİ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Karmaşık",
-      "answer": "GİRİFT",
+      "text": "Mafsal",
+      "answer": "EKLEM",
       "row": 7,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bardak altı",
-      "answer": "ALTLIK",
+      "text": "Doyum sağlama",
+      "answer": "TATMİN",
       "row": 8,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uyku hastalığı sineği",
-      "answer": "ÇEÇE",
+      "text": "Turnusol kızartan",
+      "answer": "ASİT",
       "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ekmek yeri",
-      "answer": "FIRIN",
+      "text": "Yakalı üst giysi",
+      "answer": "GÖMLEK",
       "row": 10,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bebek yiyeceği",
-      "answer": "MAMA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Utanma, sıkılma",
-      "answer": "HAYA",
-      "row": 2,
+      "text": "Alık, sünepe",
+      "answer": "ŞAPŞAL",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çabuk gücenen",
-      "answer": "ALINGAN",
-      "row": 2,
+      "text": "Süt tatlısı",
+      "answer": "KREMA",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kendini düşünen",
-      "answer": "BENCİL",
-      "row": 2,
+      "text": "Elçilik",
+      "answer": "SEFARET",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hayvan koltuğu",
-      "answer": "EYER",
+      "text": "Hindistan halkından",
+      "answer": "HİNT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Öncü karşıtı",
-      "answer": "ARTÇI",
+      "text": "Eksiği tamamlama",
+      "answer": "İKMAL",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kenar boşluğu",
-      "answer": "MARJ",
+      "text": "Yumuşak başlı",
+      "answer": "UYSAL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yiyecek odası",
-      "answer": "KİLER",
-      "row": 5,
+      "text": "Ortaokul sonrası",
+      "answer": "LİSE",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ev halkıyla",
-      "answer": "EVCEK",
+      "text": "Doğuş bayramı",
+      "answer": "NOEL",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sıvı kabı",
-      "answer": "FIÇI",
+      "text": "Kedi, köpek yavrusu",
+      "answer": "ENİK",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çaydaki uyarıcı madde",
-      "answer": "TEİN",
+      "text": "Uyumlu düzen",
+      "answer": "İNSİCAM",
       "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Faktör",
-      "answer": "ETKEN",
-      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -166,10 +152,6 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
@@ -177,7 +159,27 @@
       "col": 3
     },
     {
-      "row": 2,
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {
@@ -185,10 +187,14 @@
       "col": 1
     },
     {
+      "row": 9,
+      "col": 2
+    },
+    {
       "row": 10,
-      "col": 1
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 111
+  "order": 62
 }

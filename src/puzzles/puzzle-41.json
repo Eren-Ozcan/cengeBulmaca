@@ -1,131 +1,131 @@
 {
   "id": "puzzle-41",
-  "title": "Bulmaca 15",
+  "title": "Bulmaca 63",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Tek sanatçı dinletisi",
-      "answer": "RESİTAL",
+      "text": "Nil kamışı kâğıdı",
+      "answer": "PAPİRÜS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kırıcı söz",
-      "answer": "AZAR",
+      "text": "Dinî inanç",
+      "answer": "İMAN",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Irmak, çay, dere",
-      "answer": "AKARSU",
+      "text": "Baklagillerden ağaç",
+      "answer": "AKASYA",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalabalıksız, ıssız",
-      "answer": "TENHA",
+      "text": "Çentik işareti",
+      "answer": "KERTE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kesme hamur",
-      "answer": "ERİŞTE",
+      "text": "Irmak, çay, dere",
+      "answer": "AKARSU",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Doğa",
-      "answer": "TABİAT",
+      "text": "Yeter bulma",
+      "answer": "KANAAT",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İşve",
-      "answer": "CİLVE",
+      "text": "Nükteli hikâye",
+      "answer": "FIKRA",
       "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İç kumaş",
-      "answer": "ASTAR",
+      "text": "Noksan",
+      "answer": "EKSİK",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Atletizm sporcusu",
-      "answer": "ATLET",
+      "text": "Hafif topal",
+      "answer": "AKSAK",
       "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Japon içkisi",
-      "answer": "SAKE",
+      "text": "Dik dalış",
+      "answer": "PİKE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hint unvanı",
-      "answer": "RACA",
+      "text": "Kahve içilen yer",
+      "answer": "KAFE",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Anlayış, sağduyu",
-      "answer": "İZAN",
+      "text": "Bayındırlık",
+      "answer": "İMAR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bataklık kuşu",
-      "answer": "İBİS",
+      "text": "Hazır, amade",
+      "answer": "ANIK",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çiçek bölümü",
-      "answer": "TARH",
+      "text": "Doğru, isabetli",
+      "answer": "RAST",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Armağan levhası",
-      "answer": "ŞİLT",
+      "text": "Dans",
+      "answer": "RAKS",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yapı arazisi",
-      "answer": "ARSA",
+      "text": "Ordu ilçesi",
+      "answer": "ÜNYE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kızartma kabı",
-      "answer": "TAVA",
+      "text": "Hint giysisi",
+      "answer": "SARİ",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kâfi",
-      "answer": "YETER",
+      "text": "Tutma yeri",
+      "answer": "TUTAK",
       "row": 4,
       "col": 6,
       "arrow": "down"
@@ -161,6 +161,6 @@
       "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 15
+  "difficulty": "orta",
+  "order": 63
 }

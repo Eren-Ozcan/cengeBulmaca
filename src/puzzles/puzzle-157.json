@@ -1,125 +1,118 @@
 {
   "id": "puzzle-157",
-  "title": "Bulmaca 157",
+  "title": "Bulmaca 76",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Manisa ilçesi",
-      "answer": "SOMA",
+      "text": "Kırgızistan'ın başkenti",
+      "answer": "BİŞKEK",
       "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Rütbeli asker",
-      "answer": "ERBAŞ",
-      "row": 2,
       "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Satış bankosu",
-      "answer": "TEZGAH",
-      "row": 2,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Akım azaltıcı",
-      "answer": "REOSTA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Beceri",
-      "answer": "MAHARET",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Güldürü",
-      "answer": "KOMEDİ",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bitkin, tükenmiş",
-      "answer": "BİTİK",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Şarkı filmi",
-      "answer": "KLİP",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yiyecek stoku",
-      "answer": "ERZAK",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İçki yiyeceği",
-      "answer": "MEZE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Uğraşı, merak",
-      "answer": "HOBİ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Jargon",
-      "answer": "ARGO",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tek hücreli canlı",
-      "answer": "AMİP",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sağgörü",
-      "answer": "BASİRET",
+      "text": "Işık",
+      "answer": "ZİYA",
       "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İşveren direnişi",
+      "answer": "LOKAVT",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yanıcı gaz",
+      "answer": "METAN",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kıymet piyasası",
+      "answer": "BORSA",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Arlanmaz",
+      "answer": "UTANMAZ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sert vuruş",
+      "answer": "SMAÇ",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sırt dayanağı",
+      "answer": "ARKALIK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "El-kol arası",
+      "answer": "BİLEK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "I simgeli element",
+      "answer": "İYOT",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İspanya'da bir halk",
+      "answer": "BASK",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Latife",
+      "answer": "ŞAKA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İyileşme, şifa",
+      "answer": "ONMA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Olağan dışı",
+      "answer": "ANORMAL",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kader, yazgı",
-      "answer": "BAHT",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Edebiyatçı, yazar",
-      "answer": "EDİP",
+      "text": "Şeker, para",
+      "answer": "SAÇI",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eski, kadim",
-      "answer": "ANTİK",
-      "row": 3,
+      "text": "Sarı değerli taş",
+      "answer": "TOPAZ",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -127,7 +120,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
@@ -135,21 +128,29 @@
     },
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 2,
+      "col": 5
     },
     {
-      "row": 9,
-      "col": 4
+      "row": 4,
+      "col": 5
     },
     {
-      "row": 9,
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 8,
       "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 285
+  "difficulty": "orta",
+  "order": 76
 }

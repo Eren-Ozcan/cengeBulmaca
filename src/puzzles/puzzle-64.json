@@ -1,153 +1,160 @@
 {
   "id": "puzzle-64",
-  "title": "Bulmaca 23",
+  "title": "Bulmaca 123",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Teminat",
-      "answer": "GARANTİ",
+      "text": "Okyanus fırtınası",
+      "answer": "TAYFUN",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gök taşı",
+      "answer": "METEOR",
       "row": 1,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "İranlı",
-      "answer": "ACEM",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Söz söylenen kişi",
-      "answer": "MUHATAP",
+      "text": "Gerilim",
+      "answer": "VOLTAJ",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "El bavulu",
-      "answer": "VALİZ",
+      "text": "Dışa taşan bölüm",
+      "answer": "BALKON",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cümle işareti",
-      "answer": "NOKTA",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Anason kokulu bitki",
-      "answer": "REZENE",
+      "text": "Gizli ihbar",
+      "answer": "JURNAL",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tütün alkaloidi",
-      "answer": "NİKOTİN",
+      "text": "Resimde varlık biçimi",
+      "answer": "BETİ",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kahve tortusu",
+      "answer": "TELVE",
       "row": 8,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sıradan",
-      "answer": "OLAĞAN",
+      "text": "Kutlu",
+      "answer": "UĞURLU",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kurban taşı",
-      "answer": "SUNAK",
+      "text": "İsrail parası",
+      "answer": "ŞEKEL",
       "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yarışan kimse",
+      "answer": "RAKİP",
+      "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Görünen hayal",
-      "answer": "HAYALET",
-      "row": 10,
+      "text": "Veda töreni",
+      "answer": "JÜBİLE",
+      "row": 5,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "down"
     },
     {
-      "text": "Üçüncü Yunan harfi",
-      "answer": "GAMA",
+      "text": "Alçak gönüllülük",
+      "answer": "TEVAZU",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Parlayan yıldız",
-      "answer": "NOVA",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Aceleci",
-      "answer": "ACUL",
+      "text": "Halka biçimli mercan adası",
+      "answer": "ATOL",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yok olan",
-      "answer": "ZAİL",
+      "text": "Fotoğraf düzeltmesi",
+      "answer": "RÖTUŞ",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tutulan kimse",
-      "answer": "REHİNE",
+      "text": "Rüzgâr bezi",
+      "answer": "YELKEN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Para dolabı",
-      "answer": "KASA",
+      "text": "Şayet",
+      "answer": "EĞER",
       "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Savaşçı kadın",
-      "answer": "AMAZON",
+      "text": "Fotoğraf",
+      "answer": "FOTO",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Erkek evlat",
-      "answer": "OĞUL",
-      "row": 7,
+      "text": "Kuşatma",
+      "answer": "ABLUKA",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kabuklu güz yemişi",
-      "answer": "KESTANE",
-      "row": 4,
+      "text": "Sanayi, endüstri",
+      "answer": "URAN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ayak direme",
-      "answer": "İNAT",
-      "row": 7,
+      "text": "Beyaz etli balık",
+      "answer": "LEVREK",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Teli olan",
+      "answer": "TELLİ",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "78 numaralı element",
-      "answer": "PLATİN",
-      "row": 2,
+      "text": "Tüylü yeşil meyve",
+      "answer": "KİVİ",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -159,10 +166,6 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
@@ -170,12 +173,16 @@
       "col": 7
     },
     {
-      "row": 2,
-      "col": 5
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
       "col": 6
+    },
+    {
+      "row": 2,
+      "col": 7
     },
     {
       "row": 4,
@@ -183,25 +190,25 @@
     },
     {
       "row": 5,
-      "col": 1
-    },
-    {
-      "row": 6,
       "col": 6
     },
     {
       "row": 7,
-      "col": 0
+      "col": 1
     },
     {
-      "row": 9,
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 10,
       "col": 7
     },
     {
       "row": 11,
-      "col": 7
+      "col": 1
     }
   ],
-  "difficulty": "kolay",
-  "order": 23
+  "difficulty": "zor",
+  "order": 123
 }

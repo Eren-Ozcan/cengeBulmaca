@@ -1,146 +1,146 @@
 {
   "id": "puzzle-98",
-  "title": "Bulmaca 134",
+  "title": "Bulmaca 34",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Taş oturak",
-      "answer": "SEKİ",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
+      "text": "Gelin çeyiz parası",
+      "answer": "DRAHOMA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Anlaşılmaz gürültü",
-      "answer": "UĞULTU",
+      "text": "Sürüngen sebze",
+      "answer": "KABAK",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Rahmetli",
-      "answer": "MERHUM",
+      "text": "Mukavemet",
+      "answer": "DİRENÇ",
       "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Boğaz çalkalama",
-      "answer": "GARGARA",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Aldırış etme",
-      "answer": "UMUR",
-      "row": 5,
-      "col": 3,
+      "text": "Tat",
+      "answer": "LEZZET",
+      "row": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kimyada reaktif",
-      "answer": "AYIRAÇ",
+      "text": "İnce, uzun tahta",
+      "answer": "ÇITA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Taht mirasçısı",
+      "answer": "VELİAHT",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalem içi",
-      "answer": "GRAFİT",
+      "text": "Yazı aracı",
+      "answer": "KALEM",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kolay anlatım",
-      "answer": "AKICI",
+      "text": "Ney çalan",
+      "answer": "NEYZEN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zariflik",
-      "answer": "ZARAFET",
-      "row": 10,
+      "text": "Evre, aşama",
+      "answer": "SAFHA",
+      "row": 9,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kin, hınç, garez",
-      "answer": "GARAZ",
-      "row": 5,
+      "text": "Küçük boru",
+      "answer": "ZIVANA",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ekşi baharat",
-      "answer": "SUMAK",
+      "text": "Akıllı, bilge",
+      "answer": "AKİL",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Boyun bölümü",
-      "answer": "YAKA",
-      "row": 6,
+      "text": "Hayvan ölümü",
+      "answer": "TELEF",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Şayet",
-      "answer": "EĞER",
+      "text": "Dalgalı çizgi",
+      "answer": "HARE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Değersiz sayı",
-      "answer": "SIFIR",
+      "text": "Leh karşıtı",
+      "answer": "ALEYH",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Olay örgüsü",
-      "answer": "KURGU",
+      "text": "Aşırı şişman",
+      "answer": "OBEZ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dileme, yalvarma",
-      "answer": "RİCA",
+      "text": "El yazısı",
+      "answer": "İMZA",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Esin",
-      "answer": "İLHAM",
+      "text": "Görünüm",
+      "answer": "MANZARA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kaynak gösterme",
-      "answer": "ATIF",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ekşi narenciye",
-      "answer": "TURUNÇ",
-      "row": 1,
+      "text": "Osmanlı parası",
+      "answer": "AKÇE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Para oyunu",
-      "answer": "KUMAR",
-      "row": 0,
+      "text": "Ev, aile",
+      "answer": "HANE",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ölçülü davranış",
+      "answer": "TAKT",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -148,47 +148,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
-      "col": 0
+      "col": 7
     },
     {
       "row": 2,
       "col": 0
     },
     {
-      "row": 3,
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 4,
       "col": 0
     },
     {
       "row": 5,
-      "col": 0
+      "col": 4
     },
     {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 7,
-      "col": 7
+      "row": 5,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 6
+      "col": 5
     },
     {
       "row": 8,
@@ -196,13 +188,17 @@
     },
     {
       "row": 9,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 9,
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 134
+  "difficulty": "kolay",
+  "order": 34
 }

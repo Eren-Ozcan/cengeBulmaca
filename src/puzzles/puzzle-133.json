@@ -1,166 +1,152 @@
 {
   "id": "puzzle-133",
-  "title": "Bulmaca 133",
+  "title": "Bulmaca 104",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Savaşla alma",
-      "answer": "FETİH",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
+      "text": "Yol tümseği",
+      "answer": "KASİS",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Aferin",
-      "answer": "BRAVO",
+      "text": "Dinî görüş",
+      "answer": "FETVA",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Başlangıçta",
-      "answer": "İLKİN",
-      "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sahibine verme",
-      "answer": "TESLİM",
+      "text": "Sert içki",
+      "answer": "VOTKA",
       "row": 3,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kanun",
-      "answer": "YASA",
-      "row": 5,
-      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yaşlı bilge",
-      "answer": "AKSAKAL",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yelken ipi",
-      "answer": "ORSA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kapaklı pişirme kabı",
-      "answer": "TENCERE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eşeysel",
-      "answer": "CİNSEL",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Akılsız kimse",
-      "answer": "AHMAK",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kakaolu pasta",
-      "answer": "TURTA",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gösterge çubuğu",
-      "answer": "İBRE",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sanatçı, oyuncu",
-      "answer": "ARTİST",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yetmiş dokuzdan sonra",
-      "answer": "SEKSEN",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İşi yapan",
-      "answer": "FAİL",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kürklü küçük yırtıcı",
-      "answer": "SANSAR",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ermiş",
-      "answer": "EVLİYA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Çabalama",
-      "answer": "CEHT",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağaç çekiç",
-      "answer": "TOKMAK",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırmızı, sulu meyve",
-      "answer": "ELMA",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Başka, öteki, diğer",
-      "answer": "SAİR",
+      "text": "Alınan ders",
+      "answer": "İBRET",
       "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yol yarışı",
+      "answer": "RALLİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sebze satıcısı",
+      "answer": "MANAV",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tropik yeşil meyve",
+      "answer": "AVOKADO",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kasık-taban arası",
+      "answer": "BACAK",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Arkalıksız iskemle",
+      "answer": "TABURE",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kum falı",
+      "answer": "REMİL",
+      "row": 11,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Durumlar, haller, vaziyetler",
+      "answer": "AHVAL",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dinen yasak",
+      "answer": "HARAM",
+      "row": 7,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Asılsız suçlama",
+      "answer": "İFTİRA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok yiyen",
+      "answer": "OBUR",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Osmanlı sınır askeri",
+      "answer": "SEKBAN",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kenarları eşit dörtgen",
+      "answer": "KARE",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ürün toprağı",
+      "answer": "TARLA",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İranlı",
+      "answer": "ACEM",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayrılık sözü",
+      "answer": "ELVEDA",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kaba, iri",
-      "answer": "HANTAL",
+      "text": "Siyasal topluluk",
+      "answer": "PARTİ",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yeni karşıtı",
-      "answer": "ESKİ",
+      "text": "Öğretim kurumu",
+      "answer": "OKUL",
       "row": 7,
       "col": 7,
       "arrow": "down"
@@ -169,11 +155,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
       "row": 0,
-      "col": 2
+      "col": 5
     },
     {
       "row": 0,
@@ -181,29 +167,41 @@
     },
     {
       "row": 1,
-      "col": 0
+      "col": 6
     },
     {
       "row": 2,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 0
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
+      "row": 6,
       "col": 0
     },
     {
-      "row": 11,
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 2
+    },
+    {
+      "row": 10,
       "col": 6
+    },
+    {
+      "row": 11,
+      "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 261
+  "difficulty": "zor",
+  "order": 104
 }

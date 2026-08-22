@@ -1,132 +1,125 @@
 {
   "id": "puzzle-113",
-  "title": "Bulmaca 113",
+  "title": "Bulmaca 71",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Olasılık",
-      "answer": "İHTİMAL",
+      "text": "Güç, derman",
+      "answer": "TAKAT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üyelik ücreti",
-      "answer": "AİDAT",
+      "text": "Japon güreşi",
+      "answer": "JUDO",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dirim bilimci",
-      "answer": "BİYOLOG",
+      "text": "Açılmış yer",
+      "answer": "YARIK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Acımasız, zulmeden",
-      "answer": "ZALİM",
+      "text": "Sıra sayısı",
+      "answer": "NUMARA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "En yüksek rütbe",
-      "answer": "MAREŞAL",
-      "row": 5,
+      "text": "Atletizm sporcusu",
+      "answer": "ATLET",
+      "row": 6,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Tek başına söyleyen",
-      "answer": "SOLİST",
+      "text": "Ses uygunluğu",
+      "answer": "RİTİM",
       "row": 7,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kuraklık tahılı",
-      "answer": "DARI",
+      "text": "Su boşaltma",
+      "answer": "SİFON",
       "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bravo",
-      "answer": "AFERİN",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sahip olan",
-      "answer": "HAİZ",
+      "text": "Otlatma yeri",
+      "answer": "OTLAK",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Notluk defter",
+      "answer": "AJANDA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hiçbir zaman, kesinlikle",
-      "answer": "ASLA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sahne sanatı",
-      "answer": "TİYATRO",
+      "text": "Yaş karşıtı",
+      "answer": "KURU",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çok sevilen",
-      "answer": "İDOL",
+      "text": "Üçlü topluluk",
+      "answer": "TRİO",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yürüme hareketi",
+      "answer": "ADIM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Toplamada aktarılan sayı",
-      "answer": "ELDE",
+      "text": "Kaldırma makinesi",
+      "answer": "LİFT",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Parayla ilgili",
-      "answer": "MALİ",
+      "text": "Saç aracı",
+      "answer": "TOKA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Düstur",
-      "answer": "ŞİAR",
+      "text": "Omuz atkısı",
+      "answer": "ETOL",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Madde parçacığı",
-      "answer": "ATOM",
+      "text": "Ağ tabaka",
+      "answer": "RETİNA",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Efsanevi kuş",
+      "answer": "ANKA",
       "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Çağdaş, modern",
-      "answer": "ASRİ",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarı maden",
-      "answer": "ALTIN",
-      "row": 4,
       "col": 6,
       "arrow": "down"
     }
@@ -134,17 +127,41 @@
   "blocks": [
     {
       "row": 0,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 5
     },
     {
       "row": 2,
+      "col": 5
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
       "col": 6
     },
     {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
       "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
       "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 241
+  "difficulty": "orta",
+  "order": 71
 }

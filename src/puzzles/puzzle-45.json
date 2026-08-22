@@ -1,160 +1,160 @@
 {
   "id": "puzzle-45",
-  "title": "Bulmaca 116",
+  "title": "Bulmaca 92",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Manastır papazı",
-      "answer": "RAHİP",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
+      "text": "Dinî yorum kolu",
+      "answer": "MEZHEP",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Göz yanılması",
-      "answer": "SERAP",
+      "text": "Ulaşmış, kavuşmuş",
+      "answer": "NAİL",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Logo",
-      "answer": "İMLEK",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Çöl",
-      "answer": "SAHRA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hakkında",
-      "answer": "DAİR",
-      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ceza vuruşu",
-      "answer": "PENALTI",
-      "row": 5,
-      "col": 1,
+      "text": "Simit satan",
+      "answer": "SİMİTÇİ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tanrı'ya ortak koşma",
+      "answer": "ŞİRK",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski kalem",
+      "answer": "DİVİT",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ayakkabının üst yüzü",
-      "answer": "SAYA",
+      "text": "Yapı tabanı",
+      "answer": "TEMEL",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Baş, göğüs heykeli",
+      "answer": "BÜST",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dokunma, ilişki",
-      "answer": "TEMAS",
+      "text": "Sergileme camekânı",
+      "answer": "VİTRİN",
       "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gevşeklik",
+      "answer": "REHAVET",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bıçak taşı",
-      "answer": "BİLEĞİ",
-      "row": 8,
+      "text": "Yeşillik karışımı",
+      "answer": "SALATA",
+      "row": 10,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Uyum, düzen, armoni",
+      "answer": "AHENK",
+      "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Göbek bölgesi",
-      "answer": "KARIN",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gümrük deposu",
-      "answer": "ANTREPO",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tutuşturma parçası",
-      "answer": "ÇIRA",
+      "text": "Araştırma kurumu",
+      "answer": "ENSTİTÜ",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Dar keçiyolu",
-      "answer": "PATİKA",
-      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Toprak kayması",
-      "answer": "HEYELAN",
+      "text": "Kuruntu",
+      "answer": "VESVESE",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tekne kaptanı",
-      "answer": "REİS",
-      "row": 0,
+      "text": "Sınav",
+      "answer": "İMTİHAN",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Alçak, korkak",
-      "answer": "NAMERT",
+      "text": "Kız kardeşin kocası",
+      "answer": "ENİŞTE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Pudra minerali",
+      "answer": "TALK",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kedi, köpek ayağı",
+      "answer": "PATİ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İlk evre",
+      "answer": "LARVA",
       "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Donanma",
-      "answer": "ARMADA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hafif karşıtı",
-      "answer": "AĞIR",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ayak bileziği",
-      "answer": "HALHAL",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Göğüs, bağır, yürek",
-      "answer": "SİNE",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Savaş gazı",
-      "answer": "İPERİT",
-      "row": 0,
+      "text": "Eski dilde içinde",
+      "answer": "İÇRE",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çalışkanlığıyla bilinen böcek",
-      "answer": "KARINCA",
-      "row": 2,
+      "text": "İstanbul'un otobüs idaresi",
+      "answer": "İETT",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kemik dokusu",
+      "answer": "İLİK",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Yönetim gaspı",
+      "answer": "CUNTA",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -162,53 +162,41 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 7
+      "col": 3
     },
     {
-      "row": 1,
-      "col": 1
+      "row": 0,
+      "col": 6
     },
     {
-      "row": 3,
-      "col": 1
-    },
-    {
-      "row": 4,
-      "col": 1
-    },
-    {
-      "row": 5,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 6,
       "col": 6
     },
     {
       "row": 8,
-      "col": 6
+      "col": 0
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 11,
+      "col": 5
     },
     {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
+      "row": 11,
       "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 116
+  "order": 92
 }

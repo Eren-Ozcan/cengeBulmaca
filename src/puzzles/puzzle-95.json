@@ -1,167 +1,181 @@
 {
   "id": "puzzle-95",
-  "title": "Bulmaca 133",
+  "title": "Bulmaca 96",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Ayakla vuruş",
-      "answer": "TEKME",
+      "text": "Manisa ilçesi",
+      "answer": "SOMA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Küf kokulu",
+      "answer": "SASI",
       "row": 1,
-      "col": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Erginlik",
-      "answer": "RÜŞT",
+      "text": "Yakışıksız davranış",
+      "answer": "HALT",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "En az",
-      "answer": "ASGARİ",
-      "row": 2,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zarafet",
-      "answer": "İNCELİK",
+      "text": "Koni biçimli başlık",
+      "answer": "KALPAK",
       "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Et suyu ekmeği",
-      "answer": "TİRİT",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Erginleşmemiş tavuk",
-      "answer": "PİLİÇ",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tat",
-      "answer": "LEZZET",
-      "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Hayvanlı öğüt öyküsü",
-      "answer": "FABL",
+      "text": "Üstünlük",
+      "answer": "AVANTAJ",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yanak içi",
+      "answer": "AVURT",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Donanma",
+      "answer": "ARMADA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Açılış töreni",
+      "answer": "GALA",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Meydana gelme, vuku",
+      "answer": "OLUŞ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Marmara'da tatil adası",
-      "answer": "AVŞA",
+      "text": "Üç zamanlı dans",
+      "answer": "VALS",
       "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Prens unvanı",
-      "answer": "ALTES",
+      "text": "Hak, hukuk",
+      "answer": "ADALET",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ekşimsi yaz meyvesi",
-      "answer": "ERİK",
+      "text": "Sıvı metal",
+      "answer": "CIVA",
       "row": 10,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Ağız-burun arası",
-      "answer": "GENİZ",
+      "text": "Mutedil iklim",
+      "answer": "ILIMAN",
       "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Acıklı, korkunç",
-      "answer": "FECİ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski değerli eşya",
-      "answer": "ANTİKA",
-      "row": 2,
+      "text": "Hamur açacağı",
+      "answer": "OKLAVA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Resmî kayıt",
-      "answer": "TESCİL",
-      "row": 0,
+      "text": "Sibirya ırmağı",
+      "answer": "LENA",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Aksan",
+      "answer": "VURGU",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Vur kaç savaşçısı",
-      "answer": "GERİLLA",
+      "text": "Kaos",
+      "answer": "KARMAŞA",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kadın hükümdar eşi",
-      "answer": "KRALİÇE",
-      "row": 0,
+      "text": "Kaba, iri",
+      "answer": "HANTAL",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Şeyh öğrencisi",
-      "answer": "MÜRİT",
+      "text": "Yalnızca, sadece; mutlak",
+      "answer": "SALT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Doğrusu, esasen",
-      "answer": "ZATEN",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kapı basamağı",
-      "answer": "EŞİK",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Fedakârlık",
-      "answer": "ÖZVERİ",
+      "text": "Dava eden",
+      "answer": "DAVACI",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Güney Amerika devesi",
+      "answer": "ALPAKA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bulunmaz",
-      "answer": "EŞSİZ",
-      "row": 6,
+      "text": "Satın alma",
+      "answer": "ALIM",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Meslek çalışması",
+      "answer": "STAJ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Mektup hizmeti",
-      "answer": "POSTA",
-      "row": 3,
+      "text": "Bulgar parası",
+      "answer": "LEVA",
+      "row": 7,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Hekim yardımcısı",
+      "answer": "ASİSTAN",
+      "row": 4,
       "col": 8,
       "arrow": "down"
     }
@@ -169,11 +183,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
@@ -181,27 +191,19 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 4
     },
     {
       "row": 0,
       "col": 8
     },
     {
-      "row": 1,
+      "row": 2,
       "col": 0
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 8
     },
     {
       "row": 2,
-      "col": 0
+      "col": 2
     },
     {
       "row": 2,
@@ -209,27 +211,23 @@
     },
     {
       "row": 3,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 7
+      "col": 0
     },
     {
       "row": 5,
       "col": 7
     },
     {
-      "row": 9,
-      "col": 1
+      "row": 6,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 8
+      "col": 0
     },
     {
       "row": 10,
-      "col": 1
+      "col": 0
     },
     {
       "row": 10,
@@ -241,13 +239,9 @@
     },
     {
       "row": 11,
-      "col": 1
-    },
-    {
-      "row": 11,
-      "col": 8
+      "col": 0
     }
   ],
   "difficulty": "orta",
-  "order": 133
+  "order": 96
 }

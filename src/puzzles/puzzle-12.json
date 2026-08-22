@@ -1,159 +1,159 @@
 {
   "id": "puzzle-12",
-  "title": "Bulmaca 106",
+  "title": "Bulmaca 128",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Güldüren kimse",
-      "answer": "SOYTARI",
+      "text": "Tekdüze",
+      "answer": "MONOTON",
       "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gereksiz, yersiz",
-      "answer": "ABES",
+      "text": "Oyuncak bebek",
+      "answer": "KUKA",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kimi",
-      "answer": "BAZI",
+      "text": "Cilt maddesi",
+      "answer": "KREM",
       "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bilgi toplantısı",
-      "answer": "SEMİNER",
+      "text": "Yangın söndürme",
+      "answer": "İTFAİYE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bakla ezmesi",
-      "answer": "FAVA",
+      "text": "İzlenen yol",
+      "answer": "USUL",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kol takısı",
-      "answer": "BİLEZİK",
+      "text": "Erkek bezi",
+      "answer": "PROSTAT",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Boynuzlu memeli",
-      "answer": "GEYİK",
+      "text": "Uzunluk birimi",
+      "answer": "METRE",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dokuma sanayisi",
-      "answer": "TEKSTİL",
+      "text": "Askerî hücum",
+      "answer": "TAARRUZ",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mızrap",
-      "answer": "PENA",
+      "text": "Karbonatlı içecek",
+      "answer": "SODA",
       "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Temel öz",
-      "answer": "ESAS",
+      "text": "Kütahya ilçesi",
+      "answer": "EMET",
       "row": 10,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Mayalı süt",
-      "answer": "YOĞURT",
+      "text": "Bilmece",
+      "answer": "MUAMMA",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hedefi vurma",
-      "answer": "İSABET",
+      "text": "Güreşçi pantolonu",
+      "answer": "KİSPET",
       "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bulaşık teknesi",
-      "answer": "EVİYE",
+      "text": "Kakaolu pasta",
+      "answer": "TURTA",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sahip",
-      "answer": "MALİK",
+      "text": "Bitki örtüsü",
+      "answer": "FLORA",
       "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bağlı, uyan",
-      "answer": "TABİ",
+      "text": "Eski ağırlık ölçüsü",
+      "answer": "OKKA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bilirkişi",
-      "answer": "EKSPER",
+      "text": "Bilinci bulanık",
+      "answer": "SERSEM",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sert siyah ağaç",
-      "answer": "ABANOZ",
+      "text": "Gezgin konuk",
+      "answer": "TURİST",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sınav türü",
-      "answer": "TEST",
+      "text": "İtalya'nın başkenti",
+      "answer": "ROMA",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Menteşe",
-      "answer": "REZE",
+      "text": "Dört kişilik masa oyunu",
+      "answer": "OKEY",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Özen",
-      "answer": "İTİNA",
+      "text": "Sakin, huzurlu, rahat",
+      "answer": "ASUDE",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Diş izi",
-      "answer": "ISIRIK",
+      "text": "Alçak, korkak",
+      "answer": "NAMERT",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Kement",
-      "answer": "LASO",
+      "text": "Zaten",
+      "answer": "ZATİ",
       "row": 7,
       "col": 7,
       "arrow": "down"
@@ -213,6 +213,6 @@
       "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 106
+  "difficulty": "zor",
+  "order": 128
 }

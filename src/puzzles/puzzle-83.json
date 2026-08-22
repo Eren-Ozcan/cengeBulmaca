@@ -1,153 +1,132 @@
 {
   "id": "puzzle-83",
-  "title": "Bulmaca 129",
+  "title": "Bulmaca 41",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Muazzam",
-      "answer": "KOSKOCA",
+      "text": "Şümul",
+      "answer": "KAPSAM",
       "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tarama aracı",
-      "answer": "TARAK",
+      "text": "Çift kamışlı çalgı",
+      "answer": "OBUA",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Maksimum",
-      "answer": "AZAMİ",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Öğretim, alıştırma",
-      "answer": "TALİM",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Konut",
-      "answer": "MESKEN",
-      "row": 5,
+      "text": "Yengeç türü",
+      "answer": "ÇAĞANOZ",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İngiliz sopalı oyunu",
-      "answer": "KRİKET",
+      "text": "Abide",
+      "answer": "ANIT",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Dişli kesici",
+      "answer": "TESTERE",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yargı yeri",
+      "answer": "MAHKEME",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Saniyenin altmışta biri",
-      "answer": "SALİSE",
+      "text": "Doğan zarar",
+      "answer": "HASAR",
       "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çizge",
+      "answer": "GRAFİK",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tansiyon",
-      "answer": "GERİLİM",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Başlangıç",
-      "answer": "MİLAT",
+      "text": "Geçmiş bilimi",
+      "answer": "TARİH",
       "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Konya ilçesi",
-      "answer": "KULU",
+      "text": "Enerji paketi",
+      "answer": "KUANTUM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Büyük çivi",
-      "answer": "EKSER",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Direnme, üsteleme",
-      "answer": "ISRAR",
+      "text": "Beden sağlığı",
+      "answer": "SIHHAT",
       "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Maçın oynandığı yapı",
-      "answer": "STAT",
-      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dokuma yaygı",
-      "answer": "KİLİM",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İstemsiz olay",
-      "answer": "KAZA",
+      "text": "Bölümlü eser",
+      "answer": "SONAT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tohumlu tarla",
-      "answer": "EKİLİ",
-      "row": 5,
+      "text": "Baş",
+      "answer": "KAFA",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ağız yoluyla",
-      "answer": "ORAL",
+      "text": "Hizmet alan",
+      "answer": "ABONE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kuşak",
-      "answer": "NESİL",
-      "row": 5,
+      "text": "Savaş tutsağı",
+      "answer": "ESİR",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ortak topluluk",
-      "answer": "CAMİA",
+      "text": "Zararlı",
+      "answer": "MUZIR",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Asıl konu",
-      "answer": "TEMA",
+      "text": "Madagaskar maymunu",
+      "answer": "MAKİ",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sonuçsuz kalan",
-      "answer": "AKİM",
-      "row": 0,
+      "text": "Tekerlek",
+      "answer": "TEKER",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -162,32 +141,44 @@
       "col": 2
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 0,
+      "col": 3
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 2
     },
     {
       "row": 4,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 7
+      "row": 4,
+      "col": 2
     },
     {
       "row": 6,
-      "col": 7
+      "col": 0
     },
     {
-      "row": 7,
-      "col": 7
+      "row": 6,
+      "col": 2
     },
     {
       "row": 8,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
     },
     {
       "row": 9,
@@ -196,8 +187,12 @@
     {
       "row": 10,
       "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 129
+  "difficulty": "kolay",
+  "order": 41
 }

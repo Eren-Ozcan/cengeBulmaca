@@ -1,146 +1,153 @@
 {
   "id": "puzzle-120",
-  "title": "Bulmaca 120",
+  "title": "Bulmaca 109",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "İstemeyerek",
-      "answer": "ZORAKİ",
+      "text": "Tarım aracı",
+      "answer": "SABAN",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ateşli hastalık",
-      "answer": "HUMMA",
+      "text": "Büyük dükkân",
+      "answer": "MAĞAZA",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bay",
-      "answer": "ERKEK",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
+      "text": "Esmer renkli",
+      "answer": "YAĞIZ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Erin üstü",
-      "answer": "ONBAŞI",
+      "text": "Tasavvuf yolu",
+      "answer": "TARİKAT",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uçma organı",
-      "answer": "KANAT",
+      "text": "Soluk karşıtı",
+      "answer": "KOYU",
       "row": 5,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ağırlaşan durum",
-      "answer": "VAHAMET",
-      "row": 6,
-      "col": 1,
+      "text": "Operada solo parça",
+      "answer": "ARYA",
+      "row": 5,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Taşıma kabı",
-      "answer": "KOVA",
+      "text": "Yırtıcı av kuşu",
+      "answer": "ATMACA",
       "row": 7,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "İnce ekmek",
-      "answer": "LAVAŞ",
-      "row": 9,
+      "text": "Kokulu çay ağacı",
+      "answer": "IHLAMUR",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Süslü seramik",
-      "answer": "ÇİNİ",
+      "text": "Kem göz",
+      "answer": "NAZAR",
       "row": 9,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Karanlık hapis",
-      "answer": "ZİNDAN",
+      "text": "Olta ipi",
+      "answer": "MİSİNA",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Meraklı, hevesli",
+      "answer": "AMATÖR",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağ atma",
-      "answer": "VOLİ",
-      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dövme kabı",
-      "answer": "HAVAN",
+      "text": "Kaplumbağa kabuğu",
+      "answer": "BAĞA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Soğanlı et",
+      "answer": "YAHNİ",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Uyum, düzen, armoni",
-      "answer": "AHENK",
+      "text": "Hafif karşıtı",
+      "answer": "AĞIR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kapsayan",
-      "answer": "HAVİ",
-      "row": 6,
+      "text": "Harita kitabı",
+      "answer": "ATLAS",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çift yaşamlı hayvan",
-      "answer": "KURBAĞA",
+      "text": "Saygılı, kibar",
+      "answer": "NAZİK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Elverişli şart",
-      "answer": "İMKAN",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kor aracı",
-      "answer": "MAŞA",
+      "text": "Geçmiş zaman",
+      "answer": "MAZİ",
       "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Nüfuzlu kimse",
+      "answer": "KODAMAN",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yanan sopa",
-      "answer": "MEŞALE",
-      "row": 1,
+      "text": "Hükümdar yapısı",
+      "answer": "SARAY",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Enerji maddesi",
-      "answer": "YAKIT",
-      "row": 0,
-      "col": 7,
+      "text": "Küçük bağlama",
+      "answer": "CURA",
+      "row": 6,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Soya peyniri",
-      "answer": "TOFU",
-      "row": 6,
+      "text": "Toplam miktar",
+      "answer": "TUTAR",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -148,49 +155,41 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 5
     },
     {
       "row": 0,
-      "col": 2
+      "col": 7
     },
     {
-      "row": 0,
-      "col": 6
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 1
+      "col": 7
     },
     {
-      "row": 3,
-      "col": 1
-    },
-    {
-      "row": 5,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 6
+      "row": 7,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 7
     },
     {
       "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 6
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 248
+  "difficulty": "zor",
+  "order": 109
 }

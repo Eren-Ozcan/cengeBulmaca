@@ -1,137 +1,156 @@
 {
   "id": "puzzle-44",
-  "title": "Bulmaca 16",
+  "title": "Bulmaca 14",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Su üstü çiçeği",
-      "answer": "NİLÜFER",
+      "text": "Erek, gaye",
+      "answer": "AMAÇ",
       "row": 0,
+      "col": 2,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İri kırmızı çiçek",
+      "answer": "ŞAKAYIK",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Doktor kâğıdı",
-      "answer": "REÇETE",
-      "row": 2,
+      "text": "Salgın ishal hastalığı",
+      "answer": "KOLERA",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Neşeli, sokulgan",
-      "answer": "CİVELEK",
-      "row": 2,
+      "text": "Vatandaş",
+      "answer": "YURTTAŞ",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Derme çatma yapı",
-      "answer": "BARAKA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağ, örgüt",
-      "answer": "ŞEBEKE",
+      "text": "Betimleme",
+      "answer": "TASVİR",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yöntem",
-      "answer": "METOT",
+      "text": "En iyisi",
+      "answer": "İDEAL",
       "row": 7,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uzak Doğu ağırlık ölçüsü",
-      "answer": "TAEL",
-      "row": 7,
+      "text": "Açılan yol",
+      "answer": "KANAL",
+      "row": 8,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Kozalaklı ağaç",
-      "answer": "LADİN",
+      "text": "Dokuma bitkisi",
+      "answer": "KETEN",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kurbağa yavrusu",
-      "answer": "İRİBAŞ",
-      "row": 0,
+      "text": "Yankı bilimi",
+      "answer": "AKUSTİK",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bulgar parası",
-      "answer": "LEVA",
+      "text": "Müzikal uyum",
+      "answer": "AKOR",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İstek, arzu",
-      "answer": "EMEL",
+      "text": "Adanan şey, nezir",
+      "answer": "ADAK",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Üçlü paylaştırma",
-      "answer": "ÜÇER",
+      "text": "Çimlendirilmiş arpa",
+      "answer": "MALT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sıkıntılı durum",
-      "answer": "BELA",
+      "text": "Yıl",
+      "answer": "SENE",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Büyük yıkım",
-      "answer": "FELAKET",
+      "text": "Sure bölümü",
+      "answer": "AYET",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Belden aşağı giysi",
-      "answer": "ETEK",
+      "text": "Verilen söz",
+      "answer": "VAAT",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tutuşturma parçası",
+      "answer": "ÇIRA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Garson yardımcısı",
-      "answer": "KOMİ",
+      "text": "Mutlaka, illa",
+      "answer": "İLLE",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yarışma çekişmesi",
-      "answer": "REKABET",
-      "row": 0,
+      "text": "Sarı peynir",
+      "answer": "KAŞAR",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
       "row": 5,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
@@ -143,5 +162,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 16
+  "order": 14
 }

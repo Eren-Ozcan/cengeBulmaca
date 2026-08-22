@@ -1,0 +1,243 @@
+{
+  "id": "puzzle-196",
+  "title": "Bulmaca 108",
+  "rows": 13,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "O biçimde",
+      "answer": "ÖYLE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saat söylerken kullanılan",
+      "answer": "KALA",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Zanaat sahibi",
+      "answer": "ESNAF",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Çağ, dönem",
+      "answer": "DEVR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İlaç, çare",
+      "answer": "DEVA",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yılın altıncı ayı",
+      "answer": "HAZİRAN",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ürün sergisi",
+      "answer": "FUAR",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Süs köpeği",
+      "answer": "FİNO",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüz rengi",
+      "answer": "BENİZ",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yumuşak deri",
+      "answer": "SÜET",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eşya deposu",
+      "answer": "ARDİYE",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yanılma, dalgınlık",
+      "answer": "SEHV",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Külhanbeyi",
+      "answer": "APAŞ",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Pamuklu spor giysi",
+      "answer": "TİŞÖRT",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski dilde tuvalet",
+      "answer": "HELA",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Satış noktası",
+      "answer": "BAYİ",
+      "row": 11,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ucu eğri kanca",
+      "answer": "ÇENGEL",
+      "row": 12,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Jeneratör",
+      "answer": "ÜRETEÇ",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yazılı tabela",
+      "answer": "LEVHA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çıkar aldatmacası",
+      "answer": "HİLE",
+      "row": 8,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gizli sır",
+      "answer": "ESRAR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıçrayan otçul",
+      "answer": "TAVŞAN",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tüylü kumaş",
+      "answer": "KADİFE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sert çarpma",
+      "answer": "DARBE",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bravo",
+      "answer": "AFERİN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Geçersiz kılma",
+      "answer": "İPTAL",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tatlı kokusu",
+      "answer": "VANİLYA",
+      "row": 2,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Sert siyah ağaç",
+      "answer": "ABANOZ",
+      "row": 0,
+      "col": 8,
+      "arrow": "down"
+    },
+    {
+      "text": "Birlikte olma",
+      "answer": "EŞLİK",
+      "row": 7,
+      "col": 8,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 7
+    },
+    {
+      "row": 12,
+      "col": 7
+    }
+  ],
+  "difficulty": "zor",
+  "order": 108
+}

@@ -1,153 +1,139 @@
 {
   "id": "puzzle-114",
-  "title": "Bulmaca 114",
+  "title": "Bulmaca 27",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Sert vuruş",
-      "answer": "SMAÇ",
-      "row": 1,
+      "text": "Meclis teklifi",
+      "answer": "ÖNERGE",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Hız dişlisi",
-      "answer": "VİTES",
+      "text": "Ayakkabı topuğu",
+      "answer": "ÖKÇE",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gösterişli, havalı",
-      "answer": "AFİLİ",
+      "text": "Ege incisi",
+      "answer": "İZMİR",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Enerji üretim yeri",
-      "answer": "SANTRAL",
+      "text": "Saç bağı şeridi",
+      "answer": "KURDELE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Aşırı istek",
-      "answer": "HIRS",
-      "row": 4,
+      "text": "Tek satıcılık",
+      "answer": "TEKEL",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yeni karşıtı",
+      "answer": "ESKİ",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sahne dansı",
-      "answer": "BALE",
-      "row": 5,
-      "col": 4,
-      "arrow": "down-right"
+      "text": "Dört dizeli şiir",
+      "answer": "RUBAİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "İçten bağlılık",
-      "answer": "SADAKAT",
-      "row": 6,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mazot",
-      "answer": "MOTORİN",
+      "text": "Tarama aracı",
+      "answer": "TARAK",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ofis",
-      "answer": "BÜRO",
+      "text": "Maddenin sert hâli",
+      "answer": "KATI",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bolluk",
-      "answer": "BEREKET",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Basit çizim",
+      "answer": "ŞEMA",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Çiçek kabı",
-      "answer": "SAKSI",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Saklambaçta ebeleme",
-      "answer": "SOBE",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Musluk takımı",
-      "answer": "ARMATÜR",
+      "text": "Dişi at",
+      "answer": "KISRAK",
       "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Temel ilke",
+      "answer": "KURAL",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Peşin para",
-      "answer": "AVANS",
-      "row": 0,
+      "text": "Bağlantı",
+      "answer": "İRTİBAT",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Altın sarısı",
-      "answer": "DORE",
+      "text": "Favori",
+      "answer": "GÖZDE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Cereyan",
+      "answer": "AKIŞ",
       "row": 6,
-      "col": 3,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tek karşıtı",
-      "answer": "ÇİFT",
+      "text": "Fırıncı",
+      "answer": "EKMEKÇİ",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "17-18. yüzyıl üslubu",
-      "answer": "BAROK",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bağımlı, düşkün",
-      "answer": "TİRYAKİ",
-      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde tuvalet",
-      "answer": "HELA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Beddua, kargış",
-      "answer": "LANET",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Karaltı",
-      "answer": "SİLÜET",
+      "text": "Sıkıntılı dönem",
+      "answer": "ÇİLE",
       "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yöresel",
+      "answer": "YEREL",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk dilinde çocuk",
+      "answer": "ÇAĞA",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -155,7 +141,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
@@ -163,15 +149,23 @@
     },
     {
       "row": 0,
-      "col": 5
+      "col": 3
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 2,
       "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 2
     },
     {
       "row": 3,
@@ -179,11 +173,19 @@
     },
     {
       "row": 6,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 7
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
@@ -191,13 +193,17 @@
     },
     {
       "row": 9,
-      "col": 7
+      "col": 6
     },
     {
       "row": 10,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 242
+  "difficulty": "kolay",
+  "order": 27
 }

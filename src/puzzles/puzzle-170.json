@@ -1,0 +1,215 @@
+{
+  "id": "puzzle-170",
+  "title": "Bulmaca 58",
+  "rows": 12,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Ölü yıkama tahtası",
+      "answer": "TENEŞİR",
+      "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İçki dağıtıcı",
+      "answer": "SAKİ",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Buğday unu",
+      "answer": "İRMİK",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Akaryakıt gemisi",
+      "answer": "TANKER",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hazır mal",
+      "answer": "STOK",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sahip olan",
+      "answer": "HAİZ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Besleme, bakma",
+      "answer": "İAŞE",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Konuğu ağırlama",
+      "answer": "İKRAM",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yağmur aracı",
+      "answer": "ŞEMSİYE",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ses inceltici",
+      "answer": "DİYEZ",
+      "row": 10,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sağgörü",
+      "answer": "BASİRET",
+      "row": 10,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Düzen ve güvenlik",
+      "answer": "ASAYİŞ",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hafif yel",
+      "answer": "ESİNTİ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ameliyat uyutması",
+      "answer": "NARKOZ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Şu hâlde, artık",
+      "answer": "İMDİ",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Temel besin",
+      "answer": "EKMEK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sihirli sıvı",
+      "answer": "İKSİR",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Manzum yapıt",
+      "answer": "ŞİİR",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Saray kölesi",
+      "answer": "CARİYE",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Eğer",
+      "answer": "ŞAYET",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Vejetaryen",
+      "answer": "ETYEMEZ",
+      "row": 3,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
+    },
+    {
+      "row": 11,
+      "col": 7
+    }
+  ],
+  "difficulty": "orta",
+  "order": 58
+}

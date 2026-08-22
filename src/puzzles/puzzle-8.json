@@ -1,159 +1,159 @@
 {
   "id": "puzzle-8",
-  "title": "Bulmaca 104",
+  "title": "Bulmaca 88",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "İçinde bulunan",
-      "answer": "DAHİL",
+      "text": "Yırtıcı kuş",
+      "answer": "ŞAHİN",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Düzgün konuşan",
-      "answer": "FASİH",
+      "text": "Yemek kabı",
+      "answer": "TABAK",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Başkalaşma",
-      "answer": "DEĞİŞİM",
+      "text": "Görüş ortağı",
+      "answer": "KAFADAR",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uydurma söz",
-      "answer": "YALAN",
+      "text": "Estetik",
+      "answer": "BEDİİ",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gümüş balığı",
-      "answer": "ATERİNA",
+      "text": "Ayrıştırılamayan madde",
+      "answer": "ELEMENT",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ekmek yiyeceği",
-      "answer": "KATIK",
+      "text": "Karar verme",
+      "answer": "NİYET",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gagası keseli kuş",
-      "answer": "PELİKAN",
+      "text": "En hızlı koşu",
+      "answer": "DÖRTNAL",
       "row": 7,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Boğa güreşçisi",
-      "answer": "MATADOR",
+      "text": "Sıcaklık",
+      "answer": "HARARET",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sebze satıcısı",
-      "answer": "MANAV",
+      "text": "Yanıt",
+      "answer": "CEVAP",
       "row": 10,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Söz dalaşı",
-      "answer": "POLEMİK",
+      "text": "İstinat noktası",
+      "answer": "DAYANAK",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yok olma",
-      "answer": "HELAK",
+      "text": "Yer altı cevheri",
+      "answer": "MADEN",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ulaşım belgesi",
-      "answer": "PASO",
+      "text": "Bilgisayarda veri",
+      "answer": "DATA",
       "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Zırhlı kule",
-      "answer": "TARET",
+      "text": "Şekerli içki",
+      "answer": "LİKÖR",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sağlıklı olma",
-      "answer": "AFİYET",
+      "text": "Selçuklu lalası",
+      "answer": "ATABEY",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sim işlemeli kumaş",
-      "answer": "LAME",
+      "text": "Hint unvanı",
+      "answer": "RACA",
       "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yaramaz",
-      "answer": "HAŞARI",
+      "text": "Hizmetli",
+      "answer": "HADEME",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ölüm cezası",
-      "answer": "İDAM",
+      "text": "Raylı taşıt",
+      "answer": "TREN",
       "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ter kabarcığı",
-      "answer": "İSİLİK",
+      "text": "Tapınma",
+      "answer": "İBADET",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Daire tabanlı cisim",
-      "answer": "KONİ",
+      "text": "Ses, ahenk, nağme",
+      "answer": "NEVA",
       "row": 7,
       "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Gemi kıyısı",
-      "answer": "LİMAN",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kamış içkisi",
-      "answer": "ARAK",
-      "row": 7,
-      "col": 6,
       "arrow": "down"
     },
     {
       "text": "İnce, zarif",
       "answer": "NARİN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Girişken, çevik",
+      "answer": "ATAK",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Mal getirme",
+      "answer": "İTHAL",
       "row": 3,
       "col": 7,
       "arrow": "down"
@@ -206,5 +206,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 104
+  "order": 88
 }

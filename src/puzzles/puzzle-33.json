@@ -1,174 +1,167 @@
 {
   "id": "puzzle-33",
-  "title": "Bulmaca 112",
+  "title": "Bulmaca 78",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Maden süslemesi",
-      "answer": "KAKMA",
+      "text": "Kırkılmış koyun yünü",
+      "answer": "YAPAĞI",
       "row": 1,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Babaya dayalı düzen",
-      "answer": "ATAERKİ",
+      "text": "Uydurma söz",
+      "answer": "YALAN",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gülünç duruma düşen",
-      "answer": "MASKARA",
+      "text": "Gece kuşu",
+      "answer": "BAYKUŞ",
       "row": 3,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Türkmenistan'ın başkenti",
-      "answer": "AŞKABAT",
+      "text": "Yırtıcı iri kuş",
+      "answer": "KARTAL",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kuran'da altıncı sure",
-      "answer": "ENAM",
+      "text": "Hastalık",
+      "answer": "MARAZ",
       "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Dönme aktaran mil",
-      "answer": "ŞAFT",
-      "row": 5,
+      "text": "İnanmış",
+      "answer": "KANİ",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Perşembeden sonraki gün",
+      "answer": "CUMA",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dur işareti",
-      "answer": "STOP",
-      "row": 6,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çalgılı meyhane",
-      "answer": "TAVERNA",
-      "row": 7,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dolaylı anlatım",
-      "answer": "KİNAYE",
+      "text": "Leh dansı",
+      "answer": "MAZURKA",
       "row": 8,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Çin'in başkenti",
-      "answer": "PEKİN",
+      "text": "Vahşi hayvan gezisi",
+      "answer": "SAFARİ",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Askerî yönetim",
+      "answer": "KOMUTA",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Istekalı masa oyunu",
-      "answer": "BİLARDO",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Gümüş element",
+      "answer": "NİKEL",
+      "row": 11,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Gemide oda",
-      "answer": "KAMARA",
-      "row": 0,
+      "text": "Ağzı sıkı",
+      "answer": "KETUM",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kar fırtınası",
-      "answer": "TİPİ",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kâğıt klipsi",
-      "answer": "ATAŞ",
+      "text": "Harman savurma aracı",
+      "answer": "YABA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yumuşak kumaş",
-      "answer": "FLANEL",
-      "row": 5,
+      "text": "Masonluk üyesi",
+      "answer": "MASON",
+      "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Siperli başlık",
-      "answer": "KASKET",
+      "text": "Tehlike işareti",
+      "answer": "ALARM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Olay, durum",
-      "answer": "VAKA",
+      "text": "Maksimum",
+      "answer": "AZAMİ",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eğri bacaklı",
+      "answer": "PAYTAK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gök-yer çizgisi",
+      "answer": "UFUK",
       "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bulunulan yer",
-      "answer": "MEKAN",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gidiş, ilerleyiş",
-      "answer": "SEYİR",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Otomobil",
-      "answer": "ARABA",
+      "text": "Türkiye'nin başkenti",
+      "answer": "ANKARA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eğilim, yönelim",
-      "answer": "TREND",
-      "row": 6,
+      "text": "Başarısız olmuş",
+      "answer": "RATE",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dişli futbol ayakkabısı",
-      "answer": "KRAMPON",
-      "row": 1,
+      "text": "Kaba seslenme sözü",
+      "answer": "ULAN",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yönetici itaati",
-      "answer": "BİAT",
-      "row": 0,
-      "col": 7,
+      "text": "Ülke hükümdarı",
+      "answer": "KRAL",
+      "row": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Pantolon ucu",
-      "answer": "PAÇA",
-      "row": 6,
+      "text": "Tarımsal",
+      "answer": "ZİRAİ",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -180,23 +173,43 @@
     },
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
-      "row": 5,
+      "row": 0,
       "col": 7
     },
     {
-      "row": 7,
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
       "row": 9,
-      "col": 6
+      "col": 0
     },
     {
       "row": 10,
-      "col": 6
+      "col": 7
+    },
+    {
+      "row": 11,
+      "col": 0
     },
     {
       "row": 11,
@@ -204,5 +217,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 112
+  "order": 78
 }

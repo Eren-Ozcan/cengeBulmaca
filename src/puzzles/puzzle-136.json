@@ -1,110 +1,110 @@
 {
   "id": "puzzle-136",
-  "title": "Bulmaca 136",
+  "title": "Bulmaca 130",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Sevindirici haber",
-      "answer": "MÜJDE",
+      "text": "Hamur tatlısı",
+      "answer": "PASTA",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kısa gezi",
-      "answer": "GEZİNTİ",
+      "text": "Küçük doğranmış et",
+      "answer": "KUŞBAŞI",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aralıklı",
-      "answer": "SEYREK",
+      "text": "Zenginlik",
+      "answer": "SERVET",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gökyüzünün rengi",
-      "answer": "MAVİ",
+      "text": "Yaprak sigarası",
+      "answer": "PURO",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ege incisi",
-      "answer": "İZMİR",
+      "text": "Gizli, kurnaz",
+      "answer": "SİNSİ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Taslak",
-      "answer": "ESKİZ",
+      "text": "Tahıl tatlısı",
+      "answer": "AŞURE",
       "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Vaktinden önce",
-      "answer": "ERKEN",
+      "text": "Yumuşak, hoş",
+      "answer": "LATİF",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Getirim, kazanç",
-      "answer": "RANT",
+      "text": "Unvan",
+      "answer": "TİTR",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İş süresi",
-      "answer": "MESAİ",
+      "text": "Konu, mesele",
+      "answer": "HUSUS",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Boşboğaz",
-      "answer": "ZEVZEK",
+      "text": "Dinî hukuk",
+      "answer": "ŞERİAT",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Nikbin",
-      "answer": "İYİMSER",
+      "text": "Bronş iltihabı",
+      "answer": "BRONŞİT",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sanatta tarz",
-      "answer": "JANR",
+      "text": "Rus ve Leh soydaşı",
+      "answer": "SLAV",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İnandırma, kandırma",
-      "answer": "İKNA",
+      "text": "Tasavvuf ehli",
+      "answer": "SUFİ",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kuram",
-      "answer": "TEORİ",
+      "text": "Kent",
+      "answer": "ŞEHİR",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dik karşıtı",
-      "answer": "EĞİK",
+      "text": "Ölüm ezgisi",
+      "answer": "AĞIT",
       "row": 0,
       "col": 6,
       "arrow": "down"
@@ -160,6 +160,6 @@
       "col": 1
     }
   ],
-  "difficulty": "kolay",
-  "order": 264
+  "difficulty": "zor",
+  "order": 130
 }

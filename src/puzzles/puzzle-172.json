@@ -1,0 +1,246 @@
+{
+  "id": "puzzle-172",
+  "title": "Bulmaca 64",
+  "rows": 12,
+  "cols": 9,
+  "clues": [
+    {
+      "text": "Kader, yazgı",
+      "answer": "BAHT",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bölge çevresi",
+      "answer": "YÖRE",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sır ortağı",
+      "answer": "SIRDAŞ",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Aynı biçimde",
+      "answer": "KEZA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Türkiye'nin halkı",
+      "answer": "TÜRK",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Toprak fırın",
+      "answer": "TANDIR",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sansargillerden hayvan",
+      "answer": "PORSUK",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Üniversite öğreticisi",
+      "answer": "OKUTMAN",
+      "row": 6,
+      "col": 2,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mülkiyet belgesi",
+      "answer": "TAPU",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yılın her günü yapılan",
+      "answer": "UMRE",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Tatlı su kabuklusu",
+      "answer": "KEREVİT",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dizi",
+      "answer": "SIRA",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İşlenmiş eşya",
+      "answer": "MAMUL",
+      "row": 11,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Oje çıkarıcı",
+      "answer": "ASETON",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yük hareketi",
+      "answer": "AKIM",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kereste bıçkısı",
+      "answer": "HIZAR",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sahne yapıtı",
+      "answer": "OPERA",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilinç durumu",
+      "answer": "TRANS",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilimsel açıklama",
+      "answer": "KURAM",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Berrak",
+      "answer": "DURU",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eğik durumda",
+      "answer": "YATIK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Gerilmiş kumaş",
+      "answer": "TUVAL",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ürün vergisi",
+      "answer": "ÖŞÜR",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Okuma bilmeyen",
+      "answer": "ÜMMİ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Öncü karşıtı",
+      "answer": "ARTÇI",
+      "row": 6,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Bakanlar kurulu",
+      "answer": "KABİNE",
+      "row": 2,
+      "col": 8,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 8
+    },
+    {
+      "row": 10,
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 8
+    },
+    {
+      "row": 11,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 8
+    }
+  ],
+  "difficulty": "orta",
+  "order": 64
+}

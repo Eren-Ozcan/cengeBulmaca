@@ -1,144 +1,141 @@
 {
   "id": "puzzle-161",
-  "title": "Bulmaca 161",
+  "title": "Bulmaca 124",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Rahatlatıcı ovma",
-      "answer": "MASAJ",
+      "text": "Muasır",
+      "answer": "ÇAĞDAŞ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bölüşülen pay",
-      "answer": "ÜLEŞ",
+      "text": "Gündoğusu yeli",
+      "answer": "SABA",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İtalya'nın başkenti",
-      "answer": "ROMA",
+      "text": "Omuzdan kesim",
+      "answer": "REGLAN",
       "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Havadaki yaşam gazı",
-      "answer": "OKSİJEN",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dördüncü ay",
-      "answer": "NİSAN",
-      "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kuvvet bilimi",
-      "answer": "MEKANİK",
-      "row": 7,
-      "col": 0,
+      "text": "Marmara'da tatil adası",
+      "answer": "AVŞA",
+      "row": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Büyük sel",
-      "answer": "TUFAN",
-      "row": 7,
+      "text": "Eli işe yatkın",
+      "answer": "HAMARAT",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yuvarlak nesne",
-      "answer": "DİSK",
-      "row": 9,
+      "text": "Onarım işleri",
+      "answer": "TAMİRAT",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ayrık durum",
-      "answer": "İSTİSNA",
+      "text": "Haykırma, bağırma",
+      "answer": "NARA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sistem bütünü",
+      "answer": "DİZGE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Borç senedi",
+      "answer": "BONO",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Buluşma sözü",
+      "answer": "RANDEVU",
       "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Aşırı ısınmış",
-      "answer": "AKKOR",
-      "row": 0,
+      "text": "Boğa güreşçisi",
+      "answer": "MATADOR",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Para yatıran",
-      "answer": "MUDİ",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Lezzetli, mükemmel",
-      "answer": "NEFİS",
-      "row": 5,
+      "text": "Yat limanı",
+      "answer": "MARİNA",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gizli cana kıyma",
-      "answer": "SUİKAST",
-      "row": 3,
+      "text": "Savaşçı kadın",
+      "answer": "AMAZON",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Seçiciler kurulu",
-      "answer": "JÜRİ",
+      "text": "En az",
+      "answer": "ASGARİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gibi gösteren",
-      "answer": "SANKİ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kurum konutu",
-      "answer": "LOJMAN",
-      "row": 1,
+      "text": "Bol ağlı pantolon",
+      "answer": "ŞALVAR",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sersem, alık",
-      "answer": "SEME",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Söz kesme",
-      "answer": "NİŞAN",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Talih",
-      "answer": "ŞANS",
+      "text": "İlk olarak",
+      "answer": "BAŞTA",
       "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İnek yavrusu",
+      "answer": "DANA",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Toza bulanmış",
+      "answer": "TOZLU",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
     {
       "row": 0,
       "col": 2
@@ -149,15 +146,15 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 2,
       "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
     },
     {
       "row": 2,
@@ -168,28 +165,24 @@
       "col": 0
     },
     {
-      "row": 3,
-      "col": 2
+      "row": 7,
+      "col": 4
     },
     {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 8,
+      "row": 7,
       "col": 5
     },
     {
+      "row": 7,
+      "col": 6
+    },
+    {
       "row": 8,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
     },
     {
       "row": 9,
@@ -197,9 +190,9 @@
     },
     {
       "row": 9,
-      "col": 7
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 289
+  "difficulty": "zor",
+  "order": 124
 }

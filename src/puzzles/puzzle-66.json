@@ -1,132 +1,139 @@
 {
   "id": "puzzle-66",
-  "title": "Bulmaca 222",
+  "title": "Bulmaca 35",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Yol ayrımı",
-      "answer": "SAPAK",
+      "text": "Geçici bırakılan",
+      "answer": "EMANET",
       "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Deney hayvanı",
-      "answer": "KOBAY",
-      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kiralık katil",
-      "answer": "TETİKÇİ",
+      "text": "Boş ağırlık",
+      "answer": "DARA",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kazıklı humma",
+      "answer": "TETANOS",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kahramanlık anlatısı",
-      "answer": "DESTAN",
+      "text": "Alım satım ortamı",
+      "answer": "PİYASA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İrmikli şerbetli tatlı",
-      "answer": "REVANİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeni doğan",
-      "answer": "BEBEK",
-      "row": 7,
+      "text": "Uyak",
+      "answer": "KAFİYE",
+      "row": 5,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Ata, dede",
-      "answer": "AĞABABA",
-      "row": 7,
+      "text": "Ermiş hüneri",
+      "answer": "KERAMET",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ara süresi",
-      "answer": "TATİL",
-      "row": 9,
-      "col": 1,
+      "text": "Azık",
+      "answer": "NEVALE",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Elem",
-      "answer": "KEDER",
-      "row": 1,
+      "text": "Küçük raflı dolap",
+      "answer": "ETAJER",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Terbiyeli davranış",
+      "answer": "EDEP",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yağda kavrulmuş yemek",
-      "answer": "SOTE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ölçüler",
-      "answer": "EBAT",
+      "text": "Kan emen asalak",
+      "answer": "KENE",
       "row": 5,
-      "col": 2,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Okyanus derinliği",
-      "answer": "ABİS",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Öldürücü hastalık",
-      "answer": "VEBA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Devletler antlaşması",
-      "answer": "PAKT",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bayındır, mamur",
-      "answer": "ABAT",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hilal",
-      "answer": "AYÇA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Peygamber",
-      "answer": "NEBİ",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Geçiş",
-      "answer": "İNTİKAL",
+      "text": "Alım satım",
+      "answer": "TİCARET",
       "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Göreve talip",
+      "answer": "ADAY",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bakla ezmesi",
+      "answer": "FAVA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Zola romanı",
+      "answer": "NANA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İmge, görüntü",
+      "answer": "İMAJ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yunan aşk tanrısı",
+      "answer": "EROS",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "At kılları",
+      "answer": "YELE",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaygı, dert",
+      "answer": "TASA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Uçucu sıvı",
+      "answer": "ETER",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     }
@@ -138,25 +145,13 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 0
+      "col": 2
     },
     {
       "row": 5,
       "col": 0
-    },
-    {
-      "row": 9,
-      "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 222
+  "difficulty": "kolay",
+  "order": 35
 }

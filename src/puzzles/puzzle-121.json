@@ -1,153 +1,139 @@
 {
   "id": "puzzle-121",
-  "title": "Bulmaca 121",
+  "title": "Bulmaca 131",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Klik",
-      "answer": "HİZİP",
+      "text": "Dinî sakınma",
+      "answer": "TAKVA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kan alma",
-      "answer": "HACAMAT",
-      "row": 2,
+      "text": "Dehşet verici",
+      "answer": "KORKUNÇ",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Medeni",
-      "answer": "UYGAR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Göz kapağı çıbanı",
-      "answer": "ARPACIK",
+      "text": "Büyük akarsu, nehir",
+      "answer": "IRMAK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hamile",
-      "answer": "GEBE",
-      "row": 5,
+      "text": "Berber bıçağı",
+      "answer": "USTURA",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Toplumsal konum",
-      "answer": "STATÜ",
+      "text": "Melez hayvan",
+      "answer": "KATIR",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Doğu",
+      "answer": "ŞARK",
       "row": 7,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Amca çocuğu",
-      "answer": "KUZEN",
-      "row": 8,
-      "col": 2,
+      "text": "Haşarı, yaramaz",
+      "answer": "UÇARI",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alçak basınç fırtınası",
+      "answer": "SİKLON",
+      "row": 9,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Terbiye, öğretim",
-      "answer": "EĞİTİM",
+      "text": "Aydın ilçesi",
+      "answer": "SÖKE",
       "row": 9,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Cinayet işleyen",
-      "answer": "CANİ",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İyiden iyiye",
-      "answer": "ENİKONU",
+      "text": "Aşırıya kaçmayan",
+      "answer": "ILIMLI",
       "row": 11,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yeniden canlandırma",
-      "answer": "İHYA",
-      "row": 0,
+      "text": "Pens, kerpeten",
+      "answer": "KISKAÇ",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Arazi girintisi",
-      "answer": "ENGEBE",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hırvatistan'ın başkenti",
-      "answer": "ZAGREB",
-      "row": 0,
+      "text": "Merkez nokta",
+      "answer": "ORTA",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gerekme durumu",
-      "answer": "İCAP",
+      "text": "Asma aracı",
+      "answer": "ASKI",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Baharatlı şarap",
+      "answer": "VERMUT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eski eşya alıcısı",
-      "answer": "ESKİCİ",
-      "row": 5,
+      "text": "Kamboçya para birimi",
+      "answer": "RİEL",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kısa imza",
-      "answer": "PARAF",
-      "row": 0,
+      "text": "Düzensiz, karma",
+      "answer": "KARIŞIK",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tutma yeri",
-      "answer": "TUTAK",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Eğlence yeri",
-      "answer": "GAZİNO",
-      "row": 5,
+      "text": "Züğürt",
+      "answer": "FUKARA",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Cep bıçağı",
-      "answer": "ÇAKI",
+      "text": "Abartan erkek",
+      "answer": "MAÇO",
       "row": 0,
-      "col": 6,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Elde etme",
-      "answer": "TEMİN",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Paylaşımcı topluluk",
-      "answer": "KOMÜN",
-      "row": 3,
+      "text": "Sınır savaşçısı",
+      "answer": "AKINCI",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -155,49 +141,73 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 5
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 1,
-      "col": 5
+      "col": 6
     },
     {
-      "row": 1,
-      "col": 7
+      "row": 2,
+      "col": 0
     },
     {
-      "row": 3,
-      "col": 5
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
     },
     {
       "row": 5,
       "col": 6
     },
     {
-      "row": 7,
-      "col": 0
+      "row": 6,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 0
+      "col": 5
     },
     {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 0
+      "row": 8,
+      "col": 6
     },
     {
       "row": 10,
-      "col": 7
+      "col": 4
+    },
+    {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 249
+  "difficulty": "zor",
+  "order": 131
 }

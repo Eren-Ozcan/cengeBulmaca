@@ -1,153 +1,146 @@
 {
   "id": "puzzle-18",
-  "title": "Bulmaca 107",
+  "title": "Bulmaca 105",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Köyden büyük yer",
-      "answer": "KASABA",
+      "text": "Mısır anıtı",
+      "answer": "PİRAMİT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dağ dizisi",
-      "answer": "SIRADAĞ",
+      "text": "Tropikal rüzgâr",
+      "answer": "ALİZE",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Araba süren",
-      "answer": "ARABACI",
+      "text": "Yüksek görev",
+      "answer": "MAKAM",
       "row": 3,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Torik öncesi balık",
-      "answer": "PALAMUT",
+      "text": "Kusur",
+      "answer": "KABAHAT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yüz kılları",
-      "answer": "SAKAL",
+      "text": "Masadaki çiçek kabı",
+      "answer": "VAZO",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yol korkuluğu",
+      "answer": "BARİYER",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gelinin yardımcısı",
-      "answer": "NEDİME",
+      "text": "Sermaye",
+      "answer": "ANAPARA",
       "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bakanlık görevlisi",
-      "answer": "BAKAN",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Açık, apaçık",
-      "answer": "ALENİ",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Mabet",
-      "answer": "TAPINAK",
-      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sinir sistemi",
-      "answer": "ASAP",
-      "row": 0,
+      "text": "Fransa'nın büyük kenti",
+      "answer": "LYON",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Salahiyetli",
+      "answer": "YETKİLİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Boyama bitkisi",
+      "answer": "KINA",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gösterili eğlence yeri",
+      "answer": "KABARE",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Özelliksiz",
-      "answer": "SIRADAN",
+      "text": "Oruç ayı",
+      "answer": "RAMAZAN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kuruyan Orta Asya gölü",
-      "answer": "ARAL",
+      "text": "Devrilme",
+      "answer": "ALABORA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Izgara et",
-      "answer": "KEBAP",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Erkek ebeveyn",
-      "answer": "BABA",
+      "text": "Şeffaf mineral",
+      "answer": "MİKA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ada sakini",
-      "answer": "ADALI",
+      "text": "İnce lif",
+      "answer": "İPLİK",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Erkek insan, kişi",
-      "answer": "ADAM",
+      "text": "Açıklama, izahat",
+      "answer": "İZAH",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Mantar-yosun bitkisi",
-      "answer": "LİKEN",
+      "text": "Yayı olan",
+      "answer": "YAYLI",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dünya, evren",
-      "answer": "ACUN",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Anlam",
-      "answer": "MANA",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ölüm ezgisi",
-      "answer": "AĞIT",
+      "text": "Asıl konu",
+      "answer": "TEMA",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yenilmiş, aşınmış",
-      "answer": "YENİK",
+      "text": "Morfin türevi",
+      "answer": "EROİN",
       "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Arnavutluk'un başkenti",
+      "answer": "TİRAN",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -155,37 +148,49 @@
   "blocks": [
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
       "col": 1
     },
     {
-      "row": 7,
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
       "col": 0
     },
     {
       "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 1
+      "col": 2
     },
     {
       "row": 9,
+      "col": 7
+    },
+    {
+      "row": 10,
       "col": 0
     },
     {
-      "row": 9,
+      "row": 10,
       "col": 1
+    },
+    {
+      "row": 10,
+      "col": 2
     }
   ],
-  "difficulty": "orta",
-  "order": 107
+  "difficulty": "zor",
+  "order": 105
 }

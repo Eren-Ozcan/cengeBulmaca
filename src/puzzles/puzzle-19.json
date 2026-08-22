@@ -1,195 +1,174 @@
 {
   "id": "puzzle-19",
-  "title": "Bulmaca 207",
+  "title": "Bulmaca 126",
   "rows": 13,
   "cols": 9,
   "clues": [
     {
-      "text": "Romanya'nın başkenti",
-      "answer": "BÜKREŞ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ani ve şiddetli",
-      "answer": "AKUT",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Güzellik bilimi",
-      "answer": "ESTETİK",
-      "row": 2,
+      "text": "İl",
+      "answer": "VİLAYET",
+      "row": 1,
       "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Egemen toprak",
-      "answer": "ÜLKE",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Şefkatli davranan",
-      "answer": "ANAÇ",
-      "row": 4,
-      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Boşuna",
-      "answer": "NAFİLE",
-      "row": 5,
+      "text": "Şiddetli fırtına",
+      "answer": "BORA",
+      "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İmkân",
-      "answer": "OLANAK",
+      "text": "İkiyüzlü",
+      "answer": "RİYAKAR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gece uçan memeli",
+      "answer": "YARASA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Buluş belgesi",
+      "answer": "PATENT",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hat ustası",
+      "answer": "HATTAT",
       "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bunalım",
+      "answer": "KRİZ",
+      "row": 7,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Nazik kimse",
+      "answer": "EFENDİ",
+      "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yüz",
-      "answer": "SURAT",
-      "row": 7,
-      "col": 0,
+      "text": "Devlet çalışanı",
+      "answer": "MEMUR",
+      "row": 10,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Hoşgörülü, güvenilir",
-      "answer": "BABACAN",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Anı",
-      "answer": "HATIRA",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kastamonu ilçesi",
-      "answer": "CİDE",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ankara ilçesi",
-      "answer": "AYAŞ",
+      "text": "Alet takımı",
+      "answer": "EDEVAT",
       "row": 11,
-      "col": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Zararı giderme",
-      "answer": "TELAFİ",
+      "text": "Kesin yargı",
+      "answer": "KARAR",
       "row": 12,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Değerli taş",
-      "answer": "ELMAS",
+      "text": "Kara",
+      "answer": "SİYAH",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Manyetik birim",
+      "answer": "GAUSS",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ufki",
+      "answer": "YATAY",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yemin, ant",
-      "answer": "AHİT",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Koruyucu başlık",
-      "answer": "KASK",
+      "text": "Oluşan, meydana gelen",
+      "answer": "İBARET",
       "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Divan şiirinde şarap",
-      "answer": "BADE",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tiz erkek sesi",
-      "answer": "TENOR",
-      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kırık desteği",
-      "answer": "ATEL",
-      "row": 8,
+      "text": "Yiyecek",
+      "answer": "YEMEK",
+      "row": 7,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Müstehzi",
-      "answer": "ALAYCI",
-      "row": 4,
+      "text": "Restoran",
+      "answer": "LOKANTA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gösterişli görkem",
-      "answer": "ŞATAFAT",
+      "text": "Uğurda vazgeçme",
+      "answer": "FEDA",
+      "row": 8,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çarşı sokağı",
+      "answer": "ARASTA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Cennetle cehennem arası",
-      "answer": "ARAF",
-      "row": 8,
+      "text": "Bel bağı",
+      "answer": "KEMER",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sıtma ilacı",
-      "answer": "KİNİN",
-      "row": 1,
+      "text": "Dokudaki bozulma, bere",
+      "answer": "YARA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Saf kimse",
-      "answer": "ENAYİ",
+      "text": "Sıralı yarışma",
+      "answer": "TURNUVA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sidik",
+      "answer": "İDRAR",
       "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bilgiçlik taslayan",
-      "answer": "UKALA",
-      "row": 1,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Odun ölçüsü",
-      "answer": "ÇEKİ",
+      "text": "İçe doğma",
+      "answer": "ÖNSEZİ",
       "row": 3,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Sanat alıştırması",
-      "answer": "MEŞK",
-      "row": 8,
       "col": 8,
       "arrow": "down"
     }
@@ -197,19 +176,15 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 2
     },
     {
       "row": 0,
@@ -221,41 +196,69 @@
     },
     {
       "row": 1,
-      "col": 8
+      "col": 0
     },
     {
       "row": 2,
-      "col": 0
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 8
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 7
     },
     {
       "row": 5,
-      "col": 0
+      "col": 7
     },
     {
       "row": 6,
-      "col": 0
+      "col": 7
     },
     {
       "row": 7,
-      "col": 7
+      "col": 0
     },
     {
       "row": 8,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
     },
     {
       "row": 9,
-      "col": 7
+      "col": 0
     },
     {
       "row": 10,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 8
+    },
+    {
+      "row": 11,
+      "col": 0
     },
     {
       "row": 12,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 12,
+      "col": 8
     }
   ],
   "difficulty": "zor",
-  "order": 207
+  "order": 126
 }

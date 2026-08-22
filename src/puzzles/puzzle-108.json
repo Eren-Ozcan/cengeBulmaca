@@ -1,138 +1,159 @@
 {
   "id": "puzzle-108",
-  "title": "Bulmaca 236",
+  "title": "Bulmaca 17",
   "rows": 11,
   "cols": 8,
   "clues": [
     {
-      "text": "Katlanan",
-      "answer": "SABIRLI",
+      "text": "Düzensizlik, karışıklık",
+      "answer": "KAOS",
       "row": 0,
-      "col": 1,
+      "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Sıkıntılı dönem",
-      "answer": "ÇİLE",
-      "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hayat",
-      "answer": "YAŞAM",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Böcek",
-      "answer": "HAŞERE",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Boğuk boğaz sesi",
-      "answer": "HIRILTI",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Şiir dizesi",
-      "answer": "MISRA",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Akım birimi",
-      "answer": "AMPER",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ama",
-      "answer": "LAKİN",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kara",
-      "answer": "SİYAH",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Termik",
-      "answer": "ISIL",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Metal karışımı",
-      "answer": "ALAŞIM",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İnsanoğlu",
-      "answer": "BEŞER",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski Alman parası",
-      "answer": "MARK",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Rafinaj",
-      "answer": "ARITIM",
+      "text": "Haşlanan hamur",
+      "answer": "MAKARNA",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Menfi",
+      "answer": "OLUMSUZ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Pürüz giderici",
+      "answer": "ZIMPARA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yumruk sporu",
+      "answer": "BOKS",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tek hücreli canlı",
+      "answer": "AMİP",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İzdivaç",
+      "answer": "EVLİLİK",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Deniz giysisi",
+      "answer": "MAYO",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ele giyilen giysi",
+      "answer": "ELDİVEN",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kesik",
+      "answer": "KESİ",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Anıt mezar",
+      "answer": "MOZOLE",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Şaşkın, ahmak",
+      "answer": "ALIK",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Havada vurma",
+      "answer": "VOLE",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kumlu kıyı",
+      "answer": "KUMSAL",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çadır yeri",
+      "answer": "KAMP",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kirpik boyası",
-      "answer": "RİMEL",
+      "text": "Yüz anlatımı",
+      "answer": "MİMİK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapı arazisi",
+      "answer": "ARSA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Aracın kontrolsüz dönüşü",
-      "answer": "SPİN",
-      "row": 6,
+      "text": "Ekleme, ulama",
+      "answer": "İLAVE",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Salata bitkisi",
-      "answer": "TERE",
-      "row": 4,
+      "text": "Şeref, haysiyet",
+      "answer": "ONUR",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Irkçılık yanlısı",
-      "answer": "IRKÇI",
+      "text": "Tiyatro oyunu",
+      "answer": "PİYES",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tatlı su balığı",
+      "answer": "SAZAN",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Aile işareti",
-      "answer": "ARMA",
+      "text": "Daire tabanlı cisim",
+      "answer": "KONİ",
       "row": 6,
       "col": 7,
       "arrow": "down"
@@ -145,26 +166,22 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 1
     },
     {
       "row": 0,
-      "col": 6
+      "col": 2
     },
     {
-      "row": 2,
-      "col": 6
+      "row": 0,
+      "col": 3
     },
     {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 6,
+      "row": 1,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 6,
       "col": 0
     },
     {
@@ -172,26 +189,18 @@
       "col": 0
     },
     {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 2
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
+      "row": 8,
+      "col": 1
     },
     {
       "row": 10,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 1
     }
   ],
-  "difficulty": "zor",
-  "order": 236
+  "difficulty": "kolay",
+  "order": 17
 }

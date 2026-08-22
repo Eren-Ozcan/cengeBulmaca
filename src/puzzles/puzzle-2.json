@@ -1,61 +1,61 @@
 {
   "id": "puzzle-2",
-  "title": "Bulmaca 2",
+  "title": "Bulmaca 22",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Çengel oyunu",
-      "answer": "BULMACA",
+      "text": "Mide kaynaması",
+      "answer": "BULANTI",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dinden bağımsız",
-      "answer": "LAİK",
+      "text": "Erkek dadı",
+      "answer": "LALA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mürekkep balığı",
-      "answer": "KALAMAR",
+      "text": "Laf",
+      "answer": "LAKIRTI",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Asker su kabı",
-      "answer": "MATARA",
+      "text": "Bilinmeyen",
+      "answer": "MEÇHUL",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Karar gücü",
-      "answer": "İRADE",
+      "text": "Otomobil",
+      "answer": "ARABA",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Osmanlı deniz askeri",
-      "answer": "LEVENT",
+      "text": "Meksika içkisi",
+      "answer": "TEKİLA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İsa'nın öğrencisi",
-      "answer": "HAVARİ",
+      "text": "Deli, kaçık",
+      "answer": "DİVANE",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Arap yazısı işareti",
-      "answer": "HAREKE",
+      "text": "Japon dövüş sanatı",
+      "answer": "KARATE",
       "row": 9,
       "col": 0,
       "arrow": "right"
@@ -68,15 +68,15 @@
       "arrow": "down"
     },
     {
-      "text": "Tanrı",
-      "answer": "İLAH",
+      "text": "Çabuk, tez",
+      "answer": "ATİK",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Erkek dadı",
-      "answer": "LALA",
+      "text": "Cilalı deri",
+      "answer": "LAKE",
       "row": 0,
       "col": 2,
       "arrow": "down"
@@ -89,43 +89,43 @@
       "arrow": "down"
     },
     {
-      "text": "Son tarih",
-      "answer": "MİAT",
+      "text": "Ekşimsi orman meyvesi",
+      "answer": "ALIÇ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kafkasya'da bir halk",
-      "answer": "AVAR",
+      "text": "Gelir taşınmazı",
+      "answer": "AKAR",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Akış hâli",
-      "answer": "AKMA",
+      "text": "Resmî fiyat sınırı",
+      "answer": "NARH",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çaydan küçük akarsu",
-      "answer": "DERE",
+      "text": "İnsan yapısı",
+      "answer": "BİNA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Zehirli element",
-      "answer": "ARSENİK",
+      "text": "Ayakyolu",
+      "answer": "TUVALET",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bedeni saran hale",
-      "answer": "AURA",
+      "text": "Parlayan, ışıldayan",
+      "answer": "IŞIL",
       "row": 0,
       "col": 6,
       "arrow": "down"
@@ -154,5 +154,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 2
+  "order": 22
 }

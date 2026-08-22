@@ -1,195 +1,174 @@
 {
   "id": "puzzle-117",
-  "title": "Bulmaca 117",
+  "title": "Bulmaca 97",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Norveç'in başkenti",
-      "answer": "OSLO",
+      "text": "Küçük, sevimli",
+      "answer": "MİNİK",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Spor bahsi",
-      "answer": "TOTO",
+      "text": "Çanakkale ilçesi",
+      "answer": "BİGA",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Aşırı büyümüş",
-      "answer": "AZMAN",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kural, ölçüt",
-      "answer": "NORM",
-      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Nişastalı bulamaç",
-      "answer": "LAPA",
-      "row": 3,
+      "text": "Rüşvet veren",
+      "answer": "RAŞİ",
+      "row": 2,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kağıtlı kumar",
-      "answer": "POKER",
+      "text": "Muayene yeri",
+      "answer": "KLİNİK",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Oyuncu topluluğu",
+      "answer": "TRUP",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Pencere perdesi",
+      "answer": "STOR",
       "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Bağlı, uyan",
+      "answer": "TABİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Onur kırma",
+      "answer": "HAKARET",
+      "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Belediye kolluğu",
-      "answer": "ZABITA",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Basın açıklaması",
-      "answer": "DEMEÇ",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Beden etkinliği",
-      "answer": "SPOR",
+      "text": "Kıyı",
+      "answer": "SAHİL",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yeşil yapraklı sebze",
-      "answer": "ISPANAK",
-      "row": 8,
+      "text": "Sığ karşıtı",
+      "answer": "DERİN",
+      "row": 7,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Ara bozan",
-      "answer": "FİTNECİ",
+      "text": "Kırmızı, tatlı meyve",
+      "answer": "KİRAZ",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yetim koruyucusu",
-      "answer": "VASİ",
+      "text": "Yatay karşıtı",
+      "answer": "DİKEY",
       "row": 9,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Basit çizim",
-      "answer": "ŞEMA",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Taze, yeni",
-      "answer": "KÖRPE",
+      "text": "Doğrusu, esasen",
+      "answer": "ZATEN",
       "row": 11,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Büyükanne",
-      "answer": "NİNE",
-      "row": 2,
-      "col": 0,
+      "text": "Makro karşıtı",
+      "answer": "MİKRO",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Niteleme sözcüğü",
-      "answer": "SIFAT",
+      "text": "Yediden sonraki sayı",
+      "answer": "SEKİZ",
       "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ansızın, birdenbire",
-      "answer": "LARP",
+      "text": "Kardan kulübe",
+      "answer": "İGLU",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yatay konum",
-      "answer": "APSİS",
+      "text": "Olağanüstü",
+      "answer": "HARİKA",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Geçişme olayı",
-      "answer": "OZMOZ",
+      "text": "Hükümdar vekili",
+      "answer": "NAİP",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Görme ile",
-      "answer": "OPTİK",
-      "row": 6,
+      "text": "Öbür dünya",
+      "answer": "AHİRET",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Saat yüzü",
-      "answer": "KADRAN",
-      "row": 3,
+      "text": "Dolaylı anlatım",
+      "answer": "KİNAYE",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Öğrenci",
-      "answer": "TALEBE",
+      "text": "Billur",
+      "answer": "KRİSTAL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yayımlama",
-      "answer": "NEŞR",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tamirat",
-      "answer": "ONARIM",
-      "row": 0,
+      "text": "Baharat satıcısı",
+      "answer": "AKTAR",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Acaba",
-      "answer": "ACEP",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Reaksiyon",
-      "answer": "TEPKİME",
-      "row": 4,
+      "text": "Aşırı şişmanlık",
+      "answer": "OBEZİTE",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Odunsu bitki",
-      "answer": "AĞAÇ",
-      "row": 2,
+      "text": "Kötü cin",
+      "answer": "İFRİT",
+      "row": 1,
       "col": 8,
       "arrow": "down"
     }
@@ -197,7 +176,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
@@ -205,6 +184,10 @@
     },
     {
       "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
       "col": 7
     },
     {
@@ -212,12 +195,20 @@
       "col": 8
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 7
     },
     {
       "row": 5,
-      "col": 1
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 7,
@@ -225,21 +216,49 @@
     },
     {
       "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
       "col": 8
+    },
+    {
+      "row": 9,
+      "col": 6
     },
     {
       "row": 9,
       "col": 8
     },
     {
+      "row": 10,
+      "col": 5
+    },
+    {
+      "row": 10,
+      "col": 6
+    },
+    {
+      "row": 10,
+      "col": 8
+    },
+    {
       "row": 11,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 11,
+      "col": 7
     },
     {
       "row": 11,
       "col": 8
     }
   ],
-  "difficulty": "zor",
-  "order": 245
+  "difficulty": "orta",
+  "order": 97
 }

@@ -1,132 +1,125 @@
 {
   "id": "puzzle-101",
-  "title": "Bulmaca 135",
+  "title": "Bulmaca 26",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Tekdüze",
-      "answer": "MONOTON",
+      "text": "Gösteri levhası",
+      "answer": "PANKART",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şampiyonluk ödülü",
-      "answer": "KUPA",
+      "text": "Cenaze, ölü beden",
+      "answer": "NAAŞ",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çok çirkin",
-      "answer": "GUDUBET",
+      "text": "Bir tür şalvar",
+      "answer": "ÇAKŞIR",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kira ödeyen",
-      "answer": "KİRACI",
+      "text": "Uzun kulaklı hayvan",
+      "answer": "EŞEK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tropik çayır",
-      "answer": "SAVANA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Salgın ishal hastalığı",
-      "answer": "KOLERA",
+      "text": "İç sıkıntısı",
+      "answer": "KASVET",
       "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ünite",
-      "answer": "BİRİM",
-      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ödev",
-      "answer": "VAZİFE",
-      "row": 8,
+      "text": "İskambilde sinek",
+      "answer": "İSPATİ",
+      "row": 7,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Çukur yer",
-      "answer": "OYUK",
+      "text": "Yapı parçası",
+      "answer": "MODÜL",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yer çizimi",
+      "answer": "HARİTA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Anaya dayalı düzen",
+      "answer": "ANAERKİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Isınma aracı",
-      "answer": "SOBA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kan temizleme",
-      "answer": "DİYALİZ",
-      "row": 2,
+      "text": "İşleme, nakış",
+      "answer": "NAKŞ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Okuyucu",
-      "answer": "OKUR",
+      "text": "Üzüm bitkisi",
+      "answer": "ASMA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Damga, mühür",
+      "answer": "KAŞE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Temel bilgi",
-      "answer": "VERİ",
+      "text": "Beden etkinliği",
+      "answer": "SPOR",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Pistonlu çalgı",
-      "answer": "TUBA",
+      "text": "Vurgun, tutkun",
+      "answer": "AŞIK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Anlayışlı, sezgili",
-      "answer": "ARİF",
+      "text": "Dağ arası",
+      "answer": "VADİ",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Petrol ihraç edenler örgütü",
-      "answer": "OPEC",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Mektup",
-      "answer": "NAME",
+      "text": "İnceleme, araştırma",
+      "answer": "ETÜT",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Söyleme yeteneği",
-      "answer": "NATIKA",
-      "row": 0,
+      "text": "Silahla ele geçirme",
+      "answer": "İSTİLA",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     }
@@ -134,25 +127,33 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 5
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 6
-    },
-    {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 135
+  "difficulty": "kolay",
+  "order": 26
 }

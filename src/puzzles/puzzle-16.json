@@ -1,138 +1,138 @@
 {
   "id": "puzzle-16",
-  "title": "Bulmaca 6",
+  "title": "Bulmaca 82",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Bildik, tanıdık",
-      "answer": "AŞİNA",
+      "text": "Anlatan söz",
+      "answer": "İBARE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İşlenmiş eşya",
-      "answer": "MAMUL",
+      "text": "Güney karşıtı",
+      "answer": "KUZEY",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Gol pası",
-      "answer": "ASİST",
+      "text": "Beddua",
+      "answer": "İLENÇ",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kışlık giysi",
-      "answer": "MANTO",
+      "text": "Miğfer",
+      "answer": "TOLGA",
       "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kalın taban derisi",
-      "answer": "KÖSELE",
+      "text": "Büyük toplantı",
+      "answer": "KONGRE",
       "row": 5,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Reklamla duyurma",
-      "answer": "TANITIM",
+      "text": "Görmeye gitme",
+      "answer": "ZİYARET",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kadın hükümdar",
-      "answer": "MELİKE",
+      "text": "Müzik",
+      "answer": "MUSİKİ",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yük taşıyıcı",
-      "answer": "HAMAL",
+      "text": "Küçük taşıt",
+      "answer": "PİKAP",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Telefon kulaklığı",
-      "answer": "AHİZE",
+      "text": "Geri karşıtı",
+      "answer": "İLERİ",
       "row": 0,
       "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Keskin bıçak",
-      "answer": "KAMA",
+      "text": "Bazıları",
+      "answer": "KİMİ",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Namaz görevlisi",
-      "answer": "İMAM",
+      "text": "Sözleşme, bağıt",
+      "answer": "AKİT",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ehemmiyet",
-      "answer": "ÖNEM",
+      "text": "Çukur yer",
+      "answer": "OYUK",
       "row": 5,
       "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dürülmüş kağıt",
+      "answer": "RULO",
+      "row": 0,
+      "col": 3,
       "arrow": "down"
     },
     {
       "text": "ABD uzay ajansı",
       "answer": "NASA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Özlenen memleket",
-      "answer": "SILA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Duadan sonra denen",
-      "answer": "AMİN",
+      "text": "Öncesizlik",
+      "answer": "EZEL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir kimya kökü",
-      "answer": "ETİL",
+      "text": "Salgın soğuk algınlığı",
+      "answer": "GRİP",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Maharet, hüner",
-      "answer": "USTALIK",
+      "text": "Üçgen başlı yılan",
+      "answer": "ENGEREK",
       "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kalın kadın sesi",
-      "answer": "ALTO",
+      "text": "Hilal",
+      "answer": "AYÇA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çaba, uğraş",
-      "answer": "EMEK",
+      "text": "Bir kimya kökü",
+      "answer": "ETİL",
       "row": 5,
       "col": 6,
       "arrow": "down"
@@ -152,6 +152,6 @@
       "col": 5
     }
   ],
-  "difficulty": "kolay",
-  "order": 6
+  "difficulty": "orta",
+  "order": 82
 }

@@ -1,144 +1,145 @@
 {
   "id": "puzzle-56",
-  "title": "Bulmaca 20",
+  "title": "Bulmaca 6",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Akyuvar hastalığı",
-      "answer": "LÖSEMİ",
-      "row": 0,
+      "text": "Askerî olmayan",
+      "answer": "SİVİL",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaramaz çocuk",
+      "answer": "AFACAN",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kısa ceket",
-      "answer": "BOLERO",
-      "row": 2,
-      "col": 0,
+      "text": "Karar gücü",
+      "answer": "İRADE",
+      "row": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ölü yıkama tahtası",
-      "answer": "TENEŞİR",
-      "row": 2,
+      "text": "Asalak",
+      "answer": "PARAZİT",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İlmikli ip",
-      "answer": "KEMENT",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Egzama",
-      "answer": "MAYASIL",
+      "text": "Devingen",
+      "answer": "DİNAMİK",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tımar aracı",
-      "answer": "KAŞAĞI",
+      "text": "Tutulan kimse",
+      "answer": "REHİNE",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şımartılmış",
-      "answer": "ŞIMARIK",
+      "text": "Güvence",
+      "answer": "TEMİNAT",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dişi geyik",
-      "answer": "MARAL",
+      "text": "Zırhlı kule",
+      "answer": "TARET",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Küme, grup",
-      "answer": "ÖBEK",
-      "row": 0,
+      "text": "Oymak, kabile",
+      "answer": "AŞİRET",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yük hareketi",
-      "answer": "AKIM",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "14 dizeli şiir",
-      "answer": "SONE",
+      "text": "Başka, öteki, diğer",
+      "answer": "SAİR",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Onarım parçası",
-      "answer": "YAMA",
+      "text": "Büyüme, gelişme, çoğalma",
+      "answer": "NEMA",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Keder, üzüntü",
-      "answer": "ELEM",
+      "text": "Uygulama, yapma",
+      "answer": "İCRA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Osmanlı'da öşür",
-      "answer": "AŞAR",
+      "text": "Sırada son",
+      "answer": "AHİR",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Palamut ağacı",
-      "answer": "MEŞE",
+      "text": "Dinî öğüt",
+      "answer": "VAAZ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tutarık hastalığı",
-      "answer": "SARA",
+      "text": "Diş dokusu",
+      "answer": "MİNE",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yaradaki cerahat",
-      "answer": "İRİN",
+      "text": "Öznel",
+      "answer": "İNDİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yavaşça akan",
-      "answer": "IĞIL",
+      "text": "Ayak direme",
+      "answer": "İNAT",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çevre, etraf",
-      "answer": "ORTALIK",
-      "row": 1,
+      "text": "Fiyat kâğıdı",
+      "answer": "ETİKET",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
     {
       "row": 0,
       "col": 6
@@ -149,5 +150,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 20
+  "order": 6
 }

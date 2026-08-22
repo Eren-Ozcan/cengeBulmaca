@@ -1,188 +1,181 @@
 {
   "id": "puzzle-122",
-  "title": "Bulmaca 122",
+  "title": "Bulmaca 36",
   "rows": 12,
   "cols": 9,
   "clues": [
     {
-      "text": "Alkollü içki",
-      "answer": "ALKOL",
+      "text": "Çizgili etiket",
+      "answer": "BARKOD",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ses, seda",
-      "answer": "SADA",
-      "row": 1,
-      "col": 5,
+      "text": "İlgi kuran sözcük",
+      "answer": "EDAT",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Meyil",
+      "answer": "EĞİM",
+      "row": 2,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Haber toplayan",
-      "answer": "MUHABİR",
+      "text": "Sorumlu kimse",
+      "answer": "VELİ",
       "row": 3,
-      "col": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Uyak",
-      "answer": "KAFİYE",
+      "text": "Beceri",
+      "answer": "MAHARET",
       "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kalın destek",
-      "answer": "DİREK",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Acı-tatlı sebze",
-      "answer": "BİBER",
-      "row": 5,
       "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski din okulu",
+      "answer": "MEDRESE",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bilimsel açıklama",
-      "answer": "KURAM",
+      "text": "Maden süslemesi",
+      "answer": "KAKMA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Final",
+      "answer": "BİTİŞ",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cam silen kol",
-      "answer": "SİLECEK",
+      "text": "Kanıt",
+      "answer": "İSPAT",
       "row": 8,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ağırlıkça eşit",
-      "answer": "DENK",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Urfa biberi",
-      "answer": "İSOT",
+      "text": "Kokulu yeşillik",
+      "answer": "DEREOTU",
       "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kesilmiş ağaç gövdesi",
-      "answer": "TOMRUK",
-      "row": 10,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Güvenli",
-      "answer": "EMİN",
+      "text": "Çocuk, döl",
+      "answer": "EVLAT",
+      "row": 10,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek hizmetçi",
+      "answer": "UŞAK",
       "row": 10,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "29'dan sonraki sayı",
-      "answer": "OTUZ",
+      "text": "Mevzu",
+      "answer": "KONU",
       "row": 11,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Güzel kokulu",
-      "answer": "AMBER",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Öpücük",
-      "answer": "BUSE",
-      "row": 5,
+      "text": "Tarladaki tahıl",
+      "answer": "EKİN",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İçeri girmiş bölüm",
-      "answer": "GİRİNTİ",
-      "row": 4,
+      "text": "Yardım çağrısı",
+      "answer": "İMDAT",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yağmur borusu",
-      "answer": "OLUK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dışa taşan bölüm",
-      "answer": "BALKON",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hizmetli",
-      "answer": "HADEME",
+      "text": "Orta soylu unvan",
+      "answer": "MARKİ",
       "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sağlık görevlisi",
+      "answer": "HEMŞİRE",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mavi değerli taş",
-      "answer": "SAFİR",
-      "row": 1,
+      "text": "Çok büyük",
+      "answer": "DEVASA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Satış tutarı",
-      "answer": "CİRO",
+      "text": "Gönderme, yönlendirme",
+      "answer": "SEVK",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ölünün yeri",
-      "answer": "KABİR",
-      "row": 0,
+      "text": "Çaydan küçük akarsu",
+      "answer": "DERE",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Mutlu",
-      "answer": "MESUT",
+      "text": "Atlı top oyunu",
+      "answer": "POLO",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ay halkası",
+      "answer": "HALE",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Yurt",
+      "answer": "VATAN",
       "row": 6,
-      "col": 6,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Öyle söyleyerek",
-      "answer": "DİYE",
+      "text": "Dikkatli, özenli",
+      "answer": "TİTİZ",
       "row": 1,
-      "col": 7,
+      "col": 8,
       "arrow": "down"
     },
     {
-      "text": "Burun duyumu",
-      "answer": "KOKU",
+      "text": "Borç teminatı",
+      "answer": "TUTU",
       "row": 7,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kımıldanma",
-      "answer": "HAREKET",
-      "row": 0,
       "col": 8,
       "arrow": "down"
     }
@@ -198,41 +191,53 @@
     },
     {
       "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
       "row": 0,
-      "col": 5
+      "col": 6
     },
     {
       "row": 0,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 5,
       "col": 7
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 4,
-      "col": 1
     },
     {
       "row": 6,
-      "col": 7
+      "col": 6
     },
     {
       "row": 8,
-      "col": 8
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 0
     },
     {
       "row": 10,
-      "col": 8
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 2
     }
   ],
-  "difficulty": "zor",
-  "order": 250
+  "difficulty": "kolay",
+  "order": 36
 }

@@ -1,132 +1,125 @@
 {
   "id": "puzzle-138",
-  "title": "Bulmaca 138",
+  "title": "Bulmaca 24",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Kazanılmış yatkınlık",
-      "answer": "MELEKE",
+      "text": "Mazeret",
+      "answer": "ÖZÜR",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yalnızca, sadece; mutlak",
-      "answer": "SALT",
+      "text": "Kokusuz süs çiçeği",
+      "answer": "AÇELYA",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Esrarlı",
-      "answer": "GİZEMLİ",
+      "text": "Akılla ilgili",
+      "answer": "AKLİ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Göz kapağı kılı",
-      "answer": "KİRPİK",
+      "text": "Saygısız",
+      "answer": "KÜSTAH",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ayaklı bardak",
-      "answer": "KADEH",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Az pişmiş yumurta",
-      "answer": "RAFADAN",
+      "text": "Şehir alanı",
+      "answer": "MEYDAN",
       "row": 6,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Hasta bölümü",
-      "answer": "REVİR",
+      "text": "Ayakkabı",
+      "answer": "PABUÇ",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Piknik yeri",
+      "answer": "MESİRE",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mürekkepli mühür yastığı",
-      "answer": "ISTAMPA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Fayda",
+      "answer": "YARAR",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Çarpma beresi",
-      "answer": "EZİK",
+      "text": "Zehirli süs çalısı",
+      "answer": "ZAKKUM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Doğu Anadolu ilimiz",
-      "answer": "KARS",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Şölen",
-      "answer": "ZİYAFET",
-      "row": 2,
+      "text": "Üç parçalı",
+      "answer": "ÜÇLÜ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ortaya konan yapıt",
-      "answer": "ESER",
+      "text": "Oldukça çok",
+      "answer": "EPEY",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tekne kaptanı",
+      "answer": "REİS",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Mahkemelik anlaşmazlık",
-      "answer": "DAVA",
+      "text": "Kanun",
+      "answer": "YASA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çadır yeri",
-      "answer": "KAMP",
-      "row": 0,
+      "text": "Önlem",
+      "answer": "TEDBİR",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eylem",
-      "answer": "EDİM",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "49'dan sonraki sayı",
-      "answer": "ELLİ",
+      "text": "Hâlbuki",
+      "answer": "OYSA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Savaş",
-      "answer": "HARP",
+      "text": "Bedeni saran hale",
+      "answer": "AURA",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Küçük lokma",
-      "answer": "TİKE",
-      "row": 1,
+      "text": "Eğri kama",
+      "answer": "HANÇER",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     }
@@ -134,10 +127,18 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 4
     },
     {
       "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 1,
       "col": 6
     },
     {
@@ -145,14 +146,14 @@
       "col": 0
     },
     {
-      "row": 6,
-      "col": 6
+      "row": 7,
+      "col": 0
     },
     {
-      "row": 8,
-      "col": 6
+      "row": 9,
+      "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 266
+  "order": 24
 }

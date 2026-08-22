@@ -1,131 +1,138 @@
 {
   "id": "puzzle-109",
-  "title": "Bulmaca 109",
+  "title": "Bulmaca 13",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Yayla",
-      "answer": "PLATO",
+      "text": "Örnek",
+      "answer": "MİSAL",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şifahi",
-      "answer": "SÖZLÜ",
+      "text": "Karakter",
+      "answer": "SECİYE",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Üzüm suyu",
-      "answer": "ŞIRA",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Anane",
-      "answer": "GELENEK",
-      "row": 3,
+      "text": "Toprak kurdu",
+      "answer": "SOLUCAN",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gelin çeyiz parası",
-      "answer": "DRAHOMA",
+      "text": "Kalaylı sac",
+      "answer": "TENEKE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Duvar kireci",
+      "answer": "BADANA",
       "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hız dişlisi",
+      "answer": "VİTES",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tapınma",
-      "answer": "İBADET",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Aşağı karşıtı",
-      "answer": "YUKARI",
+      "text": "Çocuk bakıcısı",
+      "answer": "DADI",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dokuma aracı",
-      "answer": "MEKİK",
+      "text": "İnsanoğlu",
+      "answer": "BEŞER",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çorbalık hamur",
-      "answer": "ŞEHRİYE",
-      "row": 2,
+      "text": "Urfa biberi",
+      "answer": "İSOT",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gerçek, esas",
-      "answer": "ASIL",
+      "text": "Temizlik aracı",
+      "answer": "BİDE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bisiklet koltuğu",
+      "answer": "SELE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Saçma sapan",
-      "answer": "ABUK",
+      "text": "Kâğıt klipsi",
+      "answer": "ATAŞ",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gelenek, âdet",
-      "answer": "TÖRE",
+      "text": "Dünya, evren",
+      "answer": "ACUN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yeşilimsi kahverengi",
-      "answer": "HAKİ",
+      "text": "Büyükbaba",
+      "answer": "DEDE",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Şair",
-      "answer": "OZAN",
+      "text": "Diyarbakır ilçesi",
+      "answer": "LİCE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Işınların toplandığı nokta",
-      "answer": "ODAK",
+      "text": "Yüzyıl",
+      "answer": "ASIR",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Buğday rengi",
-      "answer": "ESMER",
-      "row": 3,
+      "text": "Uzak karşıtı",
+      "answer": "YAKIN",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Türkiye'nin halkı",
-      "answer": "TÜRK",
+      "text": "Yine",
+      "answer": "GENE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Nabız vuruşu",
-      "answer": "ATIŞ",
+      "text": "Hatırlama töreni",
+      "answer": "ANMA",
       "row": 5,
       "col": 6,
       "arrow": "down"
@@ -134,19 +141,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 5
     },
     {
-      "row": 1,
-      "col": 5
-    },
-    {
-      "row": 2,
+      "row": 5,
       "col": 0
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 5
     },
     {
       "row": 9,
@@ -154,5 +161,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 237
+  "order": 13
 }

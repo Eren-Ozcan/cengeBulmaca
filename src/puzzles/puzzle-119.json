@@ -1,188 +1,209 @@
 {
   "id": "puzzle-119",
-  "title": "Bulmaca 119",
+  "title": "Bulmaca 107",
   "rows": 13,
   "cols": 9,
   "clues": [
     {
-      "text": "Sanat insanı",
-      "answer": "SANATÇI",
+      "text": "Merkez",
+      "answer": "ÖZEK",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Toplu konut",
+      "answer": "SİTE",
       "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Doktor",
-      "answer": "HEKİM",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Beynin arşivi",
-      "answer": "HAFIZA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Direnç",
-      "answer": "SEBAT",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük kemirgen",
-      "answer": "FARE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ev çalışması",
-      "answer": "ÖDEV",
-      "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Fiyat çizelgesi",
-      "answer": "TARİFE",
-      "row": 6,
-      "col": 2,
+      "text": "Büyük erkek kardeş",
+      "answer": "AĞABEY",
+      "row": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Rezil",
-      "answer": "KEPAZE",
-      "row": 7,
+      "text": "Korunma duruşu",
+      "answer": "GARD",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kurum simgesi",
+      "answer": "LOGO",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Padişah buyruğu",
+      "answer": "FERMAN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yemek",
+      "answer": "TAAM",
+      "row": 5,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Kemiyet",
-      "answer": "NİCELİK",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Şuur",
-      "answer": "BİLİNÇ",
-      "row": 10,
+      "text": "Vizon",
+      "answer": "MİNK",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kaybolma",
-      "answer": "ZAYİ",
-      "row": 10,
+      "text": "Yönlendirici belirti",
+      "answer": "İPUCU",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kenarları eşit",
+      "answer": "EŞKENAR",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hörgüçlü çöl hayvanı",
-      "answer": "DEVE",
+      "text": "Çalgılı meyhane",
+      "answer": "TAVERNA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Üstün zekâ",
+      "answer": "DEHA",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kan pompası",
+      "answer": "KALP",
+      "row": 10,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Nasip, azık",
+      "answer": "RIZK",
       "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Marangoz aracı",
-      "answer": "RENDE",
-      "row": 12,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Doğan zarar",
-      "answer": "HASAR",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
+      "text": "Sıçrayan asalak böcek",
+      "answer": "PİRE",
+      "row": 11,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "İnce, nazik",
-      "answer": "KİBAR",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yolculuk",
-      "answer": "SEFER",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Karakter",
-      "answer": "SECİYE",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Son, sonuç",
-      "answer": "AKIBET",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Acı bitki",
-      "answer": "PELİN",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çekişme, anlaşmazlık, kavga",
-      "answer": "NİZA",
-      "row": 0,
+      "text": "Aydınlık enerjisi",
+      "answer": "IŞIK",
+      "row": 12,
       "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İrade zayıflığı",
+      "answer": "ZAAF",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yer halkı",
-      "answer": "AHALİ",
+      "text": "Alıcı",
+      "answer": "MÜŞTERİ",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Geçici",
+      "answer": "EĞRETİ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Üzüntü verme",
+      "answer": "KAHIR",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Saat yüzü",
+      "answer": "KADRAN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Uçtan geniş etek",
+      "answer": "EVAZE",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Enerji çeviren düzenek",
+      "answer": "MAKİNE",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Meraklı, hevesli",
-      "answer": "AMATÖR",
+      "text": "Nezaket gösterisi",
+      "answer": "SELAM",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Diri, canlı",
-      "answer": "ZİNDE",
-      "row": 7,
+      "text": "Dinlenme alanı",
+      "answer": "PARK",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İstek yazısı",
-      "answer": "DİLEKÇE",
-      "row": 4,
+      "text": "Yüklü atom",
+      "answer": "İYON",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Pis su",
-      "answer": "ÇİRKEF",
-      "row": 0,
+      "text": "Uzun boyunlu kuş",
+      "answer": "TURNA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sabitleme maddesi",
+      "answer": "ALÇI",
+      "row": 8,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Gereksiz gürültü",
-      "answer": "VELVELE",
-      "row": 4,
+      "text": "Meclis çalışması",
+      "answer": "OTURUM",
+      "row": 2,
       "col": 8,
       "arrow": "down"
     }
@@ -190,77 +211,53 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 4
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 8
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 8
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
       "col": 7
     },
     {
-      "row": 8,
+      "row": 0,
+      "col": 8
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 6,
       "col": 7
     },
     {
       "row": 9,
-      "col": 7
+      "col": 8
     },
     {
-      "row": 10,
-      "col": 7
+      "row": 11,
+      "col": 5
     },
     {
-      "row": 12,
+      "row": 11,
       "col": 6
     },
     {
-      "row": 12,
-      "col": 7
-    },
-    {
-      "row": 12,
+      "row": 11,
       "col": 8
     }
   ],
   "difficulty": "zor",
-  "order": 247
+  "order": 107
 }

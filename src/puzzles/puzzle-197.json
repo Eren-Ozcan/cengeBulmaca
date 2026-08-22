@@ -1,0 +1,204 @@
+{
+  "id": "puzzle-197",
+  "title": "Bulmaca 89",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Küp biçimli",
+      "answer": "KÜBİK",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yük taşıyıcı",
+      "answer": "HAMAL",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yasak uyarıcı",
+      "answer": "DOPİNG",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yapıştırıcı",
+      "answer": "TUTKAL",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Küçük ışık",
+      "answer": "SPOT",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ara bozuculuk",
+      "answer": "FESAT",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Süvari",
+      "answer": "BİNİCİ",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Küçük açıklık",
+      "answer": "DELİK",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Küçük lüfer",
+      "answer": "ÇİNEKOP",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çiğ balıklı Japon yemeği",
+      "answer": "SUŞİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Süslü başlık",
+      "answer": "HOTOZ",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Asker paltosu",
+      "answer": "KAPUT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Körpe bitki",
+      "answer": "FİDE",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Umut",
+      "answer": "ÜMİT",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Deney canlısı",
+      "answer": "DENEK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Para kuruluşu",
+      "answer": "BANKA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Silindir biçimli tahıl kulesi",
+      "answer": "SİLO",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İptal etme",
+      "answer": "İLGA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Şaşırtıcı, tuhaf",
+      "answer": "ACİP",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tekerlek dışı",
+      "answer": "LASTİK",
+      "row": 3,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 7
+    }
+  ],
+  "difficulty": "orta",
+  "order": 89
+}

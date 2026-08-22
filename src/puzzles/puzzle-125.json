@@ -1,132 +1,125 @@
 {
   "id": "puzzle-125",
-  "title": "Bulmaca 125",
+  "title": "Bulmaca 51",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Amaç",
-      "answer": "HEDEF",
+      "text": "Taşıt iskeleti",
+      "answer": "ŞASİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Peynirli hamur işi",
-      "answer": "POĞAÇA",
+      "text": "Can koruyucu",
+      "answer": "FEDAİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Anma, söyleme",
-      "answer": "ZİKİR",
+      "text": "Istekalı masa oyunu",
+      "answer": "BİLARDO",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kumlu kıyı",
-      "answer": "KUMSAL",
+      "text": "Mumluk",
+      "answer": "ŞAMDAN",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Duyarlı",
-      "answer": "HASSAS",
+      "text": "Koyun-keçi",
+      "answer": "DAVAR",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Hurda alan",
+      "answer": "HURDACI",
       "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Alenen",
-      "answer": "AÇIKÇA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tamam, olur",
-      "answer": "PEKİ",
+      "text": "Vazgeçilmez",
+      "answer": "ELZEM",
       "row": 8,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çok belirgin",
-      "answer": "APAÇIK",
-      "row": 9,
+      "text": "Süslü seramik",
+      "answer": "ÇİNİ",
+      "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Destansı",
-      "answer": "EPİK",
+      "text": "Herkesçe bilinen",
+      "answer": "AFİŞE",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gaz karışımı",
-      "answer": "HAVA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kol biçimli uzantı",
-      "answer": "DOKUNAÇ",
+      "text": "Minareden okunan dua",
+      "answer": "SELA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Meyil",
-      "answer": "EĞİM",
+      "text": "Su boşaltma kanalı",
+      "answer": "DREN",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ölüm cezası",
+      "answer": "İDAM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eşek yavrusu",
-      "answer": "SIPA",
+      "text": "Hukukla ilgili",
+      "answer": "ADLİ",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kaba güldürü",
-      "answer": "FARS",
+      "text": "Kayağan taş",
+      "answer": "ARDUVAZ",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yivli eleman",
+      "answer": "VİDA",
       "row": 0,
-      "col": 4,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Güldürü oyunu",
-      "answer": "SKEÇ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüzey parlatma",
-      "answer": "AÇKI",
+      "text": "Acaba",
+      "answer": "ACEP",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eğilimli, meyilli",
-      "answer": "MAİL",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İtici neden",
-      "answer": "SAİK",
-      "row": 5,
+      "text": "Tamirat",
+      "answer": "ONARIM",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     }
@@ -134,25 +127,29 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 1,
-      "col": 5
-    },
-    {
-      "row": 3,
-      "col": 5
+      "col": 6
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 0
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 253
+  "order": 51
 }

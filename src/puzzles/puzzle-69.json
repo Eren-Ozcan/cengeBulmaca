@@ -1,153 +1,167 @@
 {
   "id": "puzzle-69",
-  "title": "Bulmaca 223",
+  "title": "Bulmaca 81",
   "rows": 12,
   "cols": 8,
   "clues": [
     {
-      "text": "Tuzsuz su",
-      "answer": "TATLISU",
-      "row": 0,
+      "text": "Takılarak konuşan",
+      "answer": "KEKEME",
+      "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Enerji ölçü birimi",
+      "answer": "KALORİ",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İri yapılı",
+      "answer": "CÜSSELİ",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Doğu",
-      "answer": "ŞARK",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Dokunaklı, elim",
-      "answer": "ACIKLI",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Aylık ücret",
-      "answer": "MAAŞ",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kimse, tip, yüz",
-      "answer": "SİMA",
+      "text": "Yatak giysisi",
+      "answer": "PİJAMA",
       "row": 4,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Terazi gözü",
-      "answer": "KEFE",
+      "text": "Altıdan sonraki sayı",
+      "answer": "YEDİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Defa",
+      "answer": "KERE",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İstemeye istemeye",
-      "answer": "KERHEN",
+      "text": "Halk dörtlüğü",
+      "answer": "MANİ",
+      "row": 6,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kargaşa",
+      "answer": "HENGAME",
       "row": 7,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "İş planı",
-      "answer": "TASAR",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Meşrubat",
-      "answer": "İÇECEK",
+      "text": "Kokulu bahar çiçeği",
+      "answer": "NERGİS",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bilme süreci",
-      "answer": "BİLİŞ",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
+      "text": "Tedavi sıvısı",
+      "answer": "SERUM",
+      "row": 9,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Öncesizlik",
-      "answer": "EZEL",
+      "text": "Rezil",
+      "answer": "KEPAZE",
       "row": 11,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cinsel çekicilik",
-      "answer": "SEKSİ",
+      "text": "Kabiliyet",
+      "answer": "YETENEK",
       "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Önceki gün",
-      "answer": "ARİFE",
-      "row": 2,
+      "text": "Bilirkişi",
+      "answer": "EKSPER",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Aşama, derece",
-      "answer": "MERTEBE",
-      "row": 4,
+      "text": "Hangi yer",
+      "answer": "NERE",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Övgü şiiri",
+      "answer": "KASİDE",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Işık yayma",
-      "answer": "IŞIMA",
+      "text": "Küme",
+      "answer": "GRUP",
+      "row": 7,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hüzünlü şiir",
+      "answer": "ELEJİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mal alıkoyma",
-      "answer": "HACİZ",
+      "text": "Yer altı kayacı",
+      "answer": "MAGMA",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Su taşıyıcı",
-      "answer": "SAKA",
+      "text": "Ara verme",
+      "answer": "MOLA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sorun",
-      "answer": "MESELE",
+      "text": "Koruyucu, kayıran",
+      "answer": "HAMİ",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İzmir'in bağ ilçesi",
-      "answer": "URLA",
+      "text": "Menzil",
+      "answer": "ERİM",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Taşıma",
-      "answer": "NAKİL",
+      "text": "Cansız varlık",
+      "answer": "NESNE",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Asker yapısı",
-      "answer": "KIŞLA",
-      "row": 1,
+      "text": "Nakit değil",
+      "answer": "AYNİ",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -155,31 +169,19 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 3,
-      "col": 0
+      "row": 1,
+      "col": 7
     },
     {
       "row": 4,
@@ -190,12 +192,8 @@
       "col": 6
     },
     {
-      "row": 7,
-      "col": 7
-    },
-    {
       "row": 8,
-      "col": 0
+      "col": 7
     },
     {
       "row": 9,
@@ -203,25 +201,17 @@
     },
     {
       "row": 10,
-      "col": 0
+      "col": 5
     },
     {
       "row": 10,
-      "col": 1
-    },
-    {
-      "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 1
+      "col": 7
     },
     {
       "row": 11,
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 223
+  "difficulty": "orta",
+  "order": 81
 }

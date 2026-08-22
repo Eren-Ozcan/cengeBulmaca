@@ -1,125 +1,132 @@
 {
   "id": "puzzle-81",
-  "title": "Bulmaca 227",
+  "title": "Bulmaca 19",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Perdeli çalgı",
-      "answer": "GİTAR",
+      "text": "Sarıklı başlık",
+      "answer": "KAVUK",
       "row": 0,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kâkül",
-      "answer": "PERÇEM",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bilinci bulanık",
-      "answer": "SERSEM",
-      "row": 3,
+      "text": "Harflerle anlatım",
+      "answer": "YAZI",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çağrılı",
-      "answer": "DAVETLİ",
-      "row": 3,
+      "text": "Menfaatçi",
+      "answer": "ÇIKARCI",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sarmal",
-      "answer": "SPİRAL",
-      "row": 6,
+      "text": "Duvar süsleyicisi",
+      "answer": "NAKKAŞ",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hüzünlü şiir",
-      "answer": "ELEJİ",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
+      "text": "Çok konuşan",
+      "answer": "GEVEZE",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Ateşli salgın hastalık",
-      "answer": "DANG",
+      "text": "Süslü sanat üslubu",
+      "answer": "ROKOKO",
       "row": 7,
       "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Cankurtaran sandalı",
+      "answer": "FİLİKA",
+      "row": 7,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bel-kuyruk arası",
-      "answer": "SAĞRI",
+      "text": "Gemi kıyısı",
+      "answer": "LİMAN",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kokulu sıvı",
-      "answer": "ESANS",
-      "row": 1,
+      "text": "Arap alfabesinde harf",
+      "answer": "AYIN",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İş bırakma",
-      "answer": "GREV",
+      "text": "Erkek cins",
+      "answer": "ERİL",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Olay, durum",
+      "answer": "VAKA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kıvrım dikiş",
-      "answer": "PENS",
+      "text": "Ağ atma",
+      "answer": "VOLİ",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Eski dilde içinde",
-      "answer": "İÇRE",
+      "text": "Yakın karşıtı",
+      "answer": "UZAK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İptal etme",
-      "answer": "İLGA",
+      "text": "Onuncu ay",
+      "answer": "EKİM",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dişli kesici",
-      "answer": "TESTERE",
+      "text": "39'dan sonraki sayı",
+      "answer": "KIRK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İbadet",
-      "answer": "AMEL",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İşlemede boşluk",
-      "answer": "AJUR",
+      "text": "Balık yemi",
+      "answer": "ZOKA",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Camlı bölme",
+      "answer": "CAMEKAN",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ulusal",
-      "answer": "MİLLİ",
-      "row": 2,
+      "text": "Nabız vuruşu",
+      "answer": "ATIŞ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     }
@@ -127,23 +134,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 5
     },
     {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 6
+      "row": 1,
+      "col": 5
     },
     {
       "row": 5,
-      "col": 0
+      "col": 6
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 6,
+      "col": 6
     },
     {
       "row": 8,
@@ -151,9 +154,9 @@
     },
     {
       "row": 9,
-      "col": 0
+      "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 227
+  "difficulty": "kolay",
+  "order": 19
 }

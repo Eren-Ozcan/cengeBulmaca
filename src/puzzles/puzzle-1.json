@@ -1,40 +1,40 @@
 {
   "id": "puzzle-1",
-  "title": "Bulmaca 1",
+  "title": "Bulmaca 67",
   "rows": 10,
   "cols": 7,
   "clues": [
     {
-      "text": "Kaza sigortası",
-      "answer": "KASKO",
+      "text": "Kebap ilimiz",
+      "answer": "ADANA",
       "row": 0,
       "col": 2,
       "arrow": "down-right"
     },
     {
-      "text": "Cevizli sarımsaklı sos",
-      "answer": "TARATOR",
+      "text": "Ayakkabı kaşığı",
+      "answer": "ÇEKECEK",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gizli söz",
-      "answer": "PAROLA",
+      "text": "Duvar sıvayan",
+      "answer": "SIVACI",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bale sanatçısı",
-      "answer": "BALERİN",
+      "text": "Kolsuz üstlük",
+      "answer": "PELERİN",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "On iki parça",
-      "answer": "DÜZİNE",
+      "text": "Üniversite diploması",
+      "answer": "LİSANS",
       "row": 6,
       "col": 0,
       "arrow": "right"
@@ -47,92 +47,92 @@
       "arrow": "right"
     },
     {
-      "text": "İstanbul'un eski adı",
-      "answer": "ASİTANE",
+      "text": "Yüksek bilim kurumu",
+      "answer": "AKADEMİ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İnceltici kimyasal",
-      "answer": "TİNER",
+      "text": "Mikroskop camı",
+      "answer": "LAMEL",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kör bağırsak uzantısı",
-      "answer": "APANDİS",
+      "text": "Selamet",
+      "answer": "ESENLİK",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ülke hükümdarı",
-      "answer": "KRAL",
+      "text": "Us, zihin",
+      "answer": "AKIL",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Umut",
-      "answer": "ÜMİT",
+      "text": "Üretim işlemi",
+      "answer": "İMAL",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İsviçre'de ırmak",
-      "answer": "AARE",
+      "text": "Hörgüçlü çöl hayvanı",
+      "answer": "DEVE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Zaten",
-      "answer": "ZATİ",
+      "text": "Ses, seda",
+      "answer": "SADA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Pencere perdesi",
-      "answer": "STOR",
+      "text": "Güçlü, becerikli",
+      "answer": "ACAR",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Duyuru",
-      "answer": "İLAN",
+      "text": "Eski dilde dünya",
+      "answer": "ALEM",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Karton kutu",
-      "answer": "KOLİ",
+      "text": "Ne iş yapar sorusu",
+      "answer": "NECİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kokulu bitki",
-      "answer": "NANE",
+      "text": "Mektup",
+      "answer": "NAME",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Nispet",
-      "answer": "ORAN",
+      "text": "Ani saldırı, hücum",
+      "answer": "AKIN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Uçucu sıvı",
-      "answer": "ETER",
+      "text": "Tarz, üslup",
+      "answer": "STİL",
       "row": 5,
       "col": 6,
       "arrow": "down"
@@ -156,6 +156,6 @@
       "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 1
+  "difficulty": "orta",
+  "order": 67
 }

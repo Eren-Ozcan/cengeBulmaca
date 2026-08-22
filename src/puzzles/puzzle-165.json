@@ -1,0 +1,203 @@
+{
+  "id": "puzzle-165",
+  "title": "Bulmaca 25",
+  "rows": 11,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Beyaz kır çiçeği",
+      "answer": "PAPATYA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İpek böceği yuvası",
+      "answer": "KOZA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Karısına boyun eğen",
+      "answer": "KILIBIK",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Parlatma maddesi",
+      "answer": "CİLA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sıvı kabı",
+      "answer": "FIÇI",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Erkek ebeveyn",
+      "answer": "BABA",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Öfkesiz kırgınlık",
+      "answer": "SİTEM",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Namına, hesabına",
+      "answer": "ADINA",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çiçek tozu",
+      "answer": "POLEN",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Uyumamış",
+      "answer": "UYANIK",
+      "row": 10,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kolay anlatım",
+      "answer": "AKICI",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Burun duyumu",
+      "answer": "KOKU",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sigorta belgesi",
+      "answer": "POLİÇE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şiddetli, tehlikeli",
+      "answer": "AZILI",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak, ıssız",
+      "answer": "SAPA",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tütün rengi",
+      "answer": "TABA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sac kap",
+      "answer": "BİDON",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Leyli",
+      "answer": "YATILI",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüzey parlatma",
+      "answer": "AÇKI",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ufak leke",
+      "answer": "BENEK",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyücü",
+      "answer": "ŞAMAN",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 10,
+      "col": 7
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 25
+}
