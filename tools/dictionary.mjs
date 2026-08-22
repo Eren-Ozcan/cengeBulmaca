@@ -7188,4 +7188,35 @@ export const WORDS = [
   { a: "RİEL", c: ["Kamboçya para birimi"] },
   { a: "TAEL", c: ["Uzak Doğu ağırlık ölçüsü"] },
   { a: "YUAN", c: ["Çin para birimi"] },
+
+  // ---- 4 harf: 633'lük artık listeden elle onaylananlar (tur 13) ----
+  // TDK'nın kalan dört harfli maddeleri baştan sona tarandı; geri kalanı
+  // eskimiş, yöresel, salt yönlendirme ya da bitki/balık jargonu olduğu
+  // için alınmadı.
+  { a: "ACUR", c: ["Hıyara benzer sebze"] },
+  { a: "NATO", c: ["Batı savunma ittifakı"] },
+  { a: "SELA", c: ["Minareden okunan dua"] },
+  { a: "ŞİRK", c: ["Tanrı'ya ortak koşma"] },
+
+  // ---- 4 harf: 633'lük artık listeden onaylanan ikinci grup (tur 13, parça 2) ----
+  { a: "ADLI", c: ["Şu adı taşıyan"] },
+  { a: "ALIŞ", c: ["Satış karşıtı"] },
+  { a: "BARK", c: ["Ev ile anılan söz"] },
+  { a: "DARP", c: ["Dövme, vurma"] },
+  { a: "EKLİ", c: ["Eklentisi olan"] },
+  { a: "EŞLİ", c: ["Tek başına olmayan"] },
+  { a: "FİNK", c: ["Gönlünce gezme deyiminde"] },
+  { a: "GAZA", c: ["Din uğruna savaş"] },
+  { a: "KALA", c: ["Saat söylerken kullanılan"] },
+  { a: "NECİ", c: ["Ne iş yapar sorusu"] },
+  { a: "OLEY", c: ["Sevinç ünlemi"] },
+  { a: "OLUŞ", c: ["Meydana gelme, vuku"] },
+  { a: "ONAR", c: ["Onlu üleştirme sayısı"] },
+  { a: "OTLU", c: ["Otu bulunan"] },
+  { a: "POPO", c: ["Kaba et"] },
+  { a: "ULAN", c: ["Kaba seslenme sözü"] },
+  { a: "UÇLU", c: ["Ucu olan"] },
+  { a: "İLLE", c: ["Mutlaka, illa"] },
+  { a: "İSLİ", c: ["İs bulaşmış"] },
+  { a: "ZİNA", c: ["Evlilik dışı ilişki"] },
 ];
