@@ -165,7 +165,13 @@ const MIN_WORD_LEN = 4;
 // kullanılmıyordu, çünkü rastgele maske arzın kat kat üstünde kısa yuva
 // üretiyor. Bulmaca başına kotayla açıldığında bu katman darboğazdaki 4 harfli
 // talebini düşürüyor.
-const HARD_MIN_WORD_LEN = 3;
+const HARD_MIN_WORD_LEN = 2;
+
+// targetMix modunda kısa blok kotasına hedefin üstüne verilen pay. 0 ölçüldü:
+// 1 ve 2 payı, 3 harfli talebi 1.55'ten 1.90 ve 2.23'e çıkarıyor, set tavanı
+// 252'den 207 ve 177'ye düşüyor. Kotayı hedefin tavanında tutmak doldurmayı da
+// bozmuyor (40/40 başarı). Ölçüm için CB_SHORT_SLACK ile ezilebilir.
+const SHORT_SLACK = Number(process.env.CB_SHORT_SLACK ?? 0);
 
 // (r,c) '#' yapılırsa dik yöndeki komşu parçaların uzunlukları.
 function segmentLengths(mask, r, c, cols, rows, dir) {
@@ -337,6 +343,166 @@ function shortenShortRuns(
       }
     }
     if (!changed) return;
+  }
+}
+
+// Slot-length shaping pass.
+//
+// The passes above only look *below* the floor: they remove or stretch runs
+// that are too short and leave everything else alone. Nothing shapes the
+// 4/5/6/7 distribution, which is why a random mask always over-consumes the
+// 4-letter layer while a third of the 5h and 7h layers is never touched.
+//
+// This pass takes a target histogram (answers wanted per length, for this
+// puzzle) and walks the mask towards it with local moves: open a clue cell, or
+// close a letter cell. The target is rescaled to the mask's current slot count
+// each round, so the pass only redistributes lengths - it does not try to
+// change how many answers the grid holds (that is bounded by the host cells).
+//
+// Moves keep every invariant maskProblems checks, so it can run last.
+// Bir satırın yatay / bir sütunun dikey blokları. Tek hücre çevrildiğinde
+// yalnızca o satırın yatay ve o sütunun dikey blokları değişir; şekillendirme
+// geçişi histogramı bu iki dilimden artımlı günceller (tam computeRuns her
+// adayda çok pahalı: maske denemesi zaten çoğu zaman doldurmada eleniyor).
+function lineRuns(mask, cols, rows, r, c) {
+  const out = [];
+  let i = 0;
+  while (i < cols) {
+    if (mask[r][i] === ".") {
+      let len = 0;
+      while (i + len < cols && mask[r][i + len] === ".") len++;
+      if (len >= 2) out.push(len);
+      i += len;
+    } else i++;
+  }
+  let j = 0;
+  while (j < rows) {
+    if (mask[j][c] === ".") {
+      let len = 0;
+      while (j + len < rows && mask[j + len][c] === ".") len++;
+      if (len >= 2) out.push(len);
+      j += len;
+    } else j++;
+  }
+  return out;
+}
+
+// Slot-length shaping pass.
+//
+// The passes above only look *below* the floor: they stretch or remove runs
+// that are too short and leave everything else alone. Nothing shapes the
+// 4/5/6/7 distribution, which is why a random mask always over-consumes the
+// 4-letter layer while a third of the 5h and 7h layers is never touched.
+//
+// This pass takes a target histogram (answers wanted per length, for this
+// puzzle) and walks the mask towards it with local moves: open a clue cell at
+// the end of a run (lengthen it) or close an interior cell (split it). The
+// target is rescaled to the mask's own slot count each round, so the pass only
+// redistributes lengths - it does not try to change how many answers the grid
+// holds (that is bounded by the host cells).
+//
+// Moves keep every invariant maskProblems checks, so it can run last.
+function shapeRuns(mask, cols, rows, rnd, target, floor, softMin, budget) {
+  if (!target) return;
+  let want = 0;
+  for (const v of target.values()) want += v;
+  if (want <= 0) return;
+
+  const hist = new Map();
+  let count = 0;
+  for (const s of computeRuns(mask, cols, rows)) {
+    hist.set(s.len, (hist.get(s.len) ?? 0) + 1);
+    count++;
+  }
+  const add = (lens, sign) => {
+    for (const l of lens) {
+      hist.set(l, (hist.get(l) ?? 0) + sign);
+      count += sign;
+    }
+  };
+  // Distance to the target, rescaled to the current slot count. The error is
+  // *relative*: one answer too many costs more on a thin layer than on a fat
+  // one. That is the quantity that actually matters - how many puzzles the set
+  // can still hold is min over layers of supply/demand, and the target is
+  // proportional to supply, so 1/target is proportional to 1/supply.
+  const measure = () => {
+    const scale = count / want;
+    let err = 0;
+    for (let l = HARD_MIN_WORD_LEN; l <= MAX_WORD_LEN; l++) {
+      const w = (target.get(l) ?? 0) * scale;
+      err += Math.abs((hist.get(l) ?? 0) - w) / Math.max(w, 0.25);
+    }
+    return err;
+  };
+  // Short runs must still respect the quota maskProblems enforces.
+  const quotaOk = () => {
+    let short = 0;
+    for (const [l, n] of hist) {
+      if (n <= 0) continue;
+      if (l < floor || l > MAX_WORD_LEN) return false;
+      if (l < softMin) short += n;
+    }
+    return short <= budget;
+  };
+  // Every letter cell touched by the flip must still belong to a run.
+  const coveredOk = (r, c) => {
+    for (const [r2, c2] of [[r, c], [r - 1, c], [r + 1, c], [r, c - 1], [r, c + 1]]) {
+      if (r2 < 0 || c2 < 0 || r2 >= rows || c2 >= cols) continue;
+      if (mask[r2][c2] === "." && !isCovered(mask, r2, c2, cols, rows)) return false;
+    }
+    return true;
+  };
+
+  let err = measure();
+  for (let iter = 0; iter < 30 && err > 0.5; iter++) {
+    const scale = count / want;
+    const surplus = (l) => {
+      const w = (target.get(l) ?? 0) * scale;
+      return ((hist.get(l) ?? 0) - w) / Math.max(w, 0.25);
+    };
+    // Work on the most over-represented lengths first: those are the runs that
+    // have to become longer or shorter.
+    const runs = computeRuns(mask, cols, rows);
+    const order = shuffled(runs, rnd)
+      .filter((s) => surplus(s.len) > 0)
+      .sort((a, b) => surplus(b.len) - surplus(a.len));
+    let moved = false;
+    let evals = 0;
+    for (const run of order) {
+      const flips = [];
+      if (run.dir === "across") {
+        if (run.col > 0) flips.push([run.row, run.col - 1]);
+        if (run.col + run.len < cols) flips.push([run.row, run.col + run.len]);
+        for (let i = 1; i < run.len - 1; i++) flips.push([run.row, run.col + i]);
+      } else {
+        if (run.row > 1) flips.push([run.row - 1, run.col]);
+        if (run.row + run.len < rows) flips.push([run.row + run.len, run.col]);
+        for (let i = 1; i < run.len - 1; i++) flips.push([run.row + i, run.col]);
+      }
+      for (const [r, c] of shuffled(flips, rnd)) {
+        if (r < 1) continue;
+        if (evals++ > 30) break;
+        const was = mask[r][c];
+        const before = lineRuns(mask, cols, rows, r, c);
+        mask[r][c] = was === "#" ? "." : "#";
+        const after = lineRuns(mask, cols, rows, r, c);
+        add(before, -1);
+        add(after, +1);
+        if (quotaOk() && coveredOk(r, c)) {
+          const e = measure();
+          if (e < err - 1e-9) {
+            err = e;
+            moved = true;
+            break;
+          }
+        }
+        add(after, -1);
+        add(before, +1);
+        mask[r][c] = was;
+      }
+      if (moved || evals > 30) break;
+    }
+    if (!moved) return;
   }
 }
 
@@ -521,14 +687,65 @@ function popcount(x) {
   return (Math.imul(x, 0x01010101) >> 24) & 0x3f;
 }
 
-function fillGrid(slots, cols, rows, rnd, tracker, widen = 1) {
+// preferEasy: bir kelimenin "kolay" sayılması, sözlükte birden fazla ipucu
+// varyantı olmasıdır - günlük kelimeler böyle. Uzunluk ile nadirlik neredeyse
+// aynı eksen (5h/6h/7h'nin ~%100'ü tek ipuçlu), bu yüzden zorluk eğrisi fiilen
+// yalnızca 3h/4h katmanında şekillendirilebiliyor. true = çok ipuçlu kelimeler
+// ucuz, false = tek ipuçlu ucuz, null = yanlılık yok.
+const isEasyWord = (w) => w.c.length > 1;
+
+// Kelimenin "esnekliği": harf deseninin ne kadar yaygın olduğu. Yaygın harfli
+// bir kelime çok sayıda ızgara konumuna oturur, nadir harfli (Ğ, J, F) kelime
+// az sayıda. Sıfır tekrar kuralı altında koşu havuz bittiği için değil arama
+// tıkandığı için ölüyor: sona kalan kelimeler tuhaf desenli artıklar oluyor.
+// Katı kelimeleri ızgara henüz serbestken harcamak, finalde doldurulabilir
+// kelime bırakıyor. Uzunluk başına medyan eşik alınır, yarısı "katı" sayılır.
+const flexScore = new Map();
+const rigidCut = new Map();
+{
+  const freq = new Map(); // uzunluk -> konum -> harf -> sayı
+  for (const w of WORDS) {
+    const chars = [...w.a];
+    const len = chars.length;
+    if (!freq.has(len)) freq.set(len, []);
+    const pos = freq.get(len);
+    chars.forEach((ch, i) => {
+      if (!pos[i]) pos[i] = new Map();
+      pos[i].set(ch, (pos[i].get(ch) ?? 0) + 1);
+    });
+  }
+  const byLenScores = new Map();
+  for (const w of WORDS) {
+    const chars = [...w.a];
+    const pos = freq.get(chars.length);
+    let sc = 0;
+    chars.forEach((ch, i) => (sc += Math.log(pos[i].get(ch) ?? 1)));
+    flexScore.set(w.a, sc);
+    if (!byLenScores.has(chars.length)) byLenScores.set(chars.length, []);
+    byLenScores.get(chars.length).push(sc);
+  }
+  for (const [len, arr] of byLenScores) {
+    arr.sort((x, y) => x - y);
+    rigidCut.set(len, arr[Math.floor(arr.length / 2)]);
+  }
+}
+// true = katı (nadir desenli) kelime.
+const isRigidWord = (w) =>
+  (flexScore.get(w.a) ?? 0) <= (rigidCut.get([...w.a].length) ?? 0);
+
+function fillGrid(slots, cols, rows, rnd, tracker, widen = 1, preferEasy = null, nodeLimit = 0, preferRigid = false) {
   const letters = Array.from({ length: rows }, () => new Array(cols).fill(null));
   const assigned = new Array(slots.length).fill(null);
   let nodes = 0;
   // Küresel yayılma önceliği bazen çözülemez bir ön eke saplanıyor; düşük düğüm
   // sınırı böyle denemeleri hızla iptal edip yeni tohumla yeniden başlatmayı
   // sağlıyor (yeniden deneme, uzun geri izlemeden ucuz).
-  const NODE_LIMIT = tracker ? 20000 : 300000;
+  // Düğüm sınırı: erken denemelerde düşük tutmak doğru (yeni tohumla yeniden
+  // başlamak uzun geri izlemeden ucuz), ama havuz daraldıkça tersine dönüyor -
+  // 151. bulmacada sözlüğün %57'si boştaydı ve koşu havuz bittiği için değil
+  // doldurma tıkandığı için durdu. buildPuzzle sınırı deneme sayısıyla
+  // büyütüyor, böylece geç bulmacalarda derin geri izlemeye izin veriliyor.
+  const NODE_LIMIT = nodeLimit > 0 ? nodeLimit : tracker ? 20000 : 300000;
 
   const cellsOf = (s) => {
     const out = [];
@@ -559,7 +776,13 @@ function fillGrid(slots, cols, rows, rnd, tracker, widen = 1) {
     }
     const hist = [];
     for (let i = 0; i < idx.n; i++) {
-      const c = wordCost(tracker, idx.list[i]);
+      // Yanlılık maliyete +1 olarak biniyor: eşik hesabı istenen kovayı tek
+      // başına kapsıyorsa doldurucu önce onu deniyor, tıkanırsa gerisine
+      // düşüyor. Havuz daraltılmıyor, yalnızca sıra değişiyor.
+      let bias =
+        preferEasy === null || isEasyWord(idx.list[i]) === preferEasy ? 0 : 1;
+      if (preferRigid && !isRigidWord(idx.list[i])) bias += 1;
+      const c = wordCost(tracker, idx.list[i]) + bias;
       arr[i] = c;
       hist[c] = (hist[c] ?? 0) + 1;
     }
@@ -733,14 +956,48 @@ export function buildPuzzle({
   // yöndeki parçaların da tabanı geçmesini istiyor), bu yüzden taban yumuşak
   // tutulur: kotayı aşan kısa bloklar giderilir, kota kadarı kalır.
   shortBudget = 0,
+  // Bu bulmacanın hedeflediği uzunluk dağılımı: Map(uzunluk -> istenen cevap
+  // sayısı). Verilirse maske, kısa blok temizliğinden sonra bu histograma
+  // doğru şekillendirilir (bkz. shapeRuns) ve `shortBudget` hedefin 3 harfli
+  // bileşeninden türetilir. Talep karışımını sözlüğün arz karışımına oturtmanın
+  // asıl kaldıracı budur: sert taban/profil anahtarı çok kaba kalıyor.
+  targetMix = null,
+  // Zorluk ekseni: bu bulmaca çok ipuçlu (kolay) cevapları mı, tek ipuçlu
+  // (zor) cevapları mı tercih etsin. null = yanlılık yok. Yalnızca her iki
+  // kovanın da dolu olduğu 3h/4h katmanında fark yaratır.
+  preferEasy = null,
+  // Katı (nadir harf desenli) kelimeleri önce harca; esnek olanlar finale
+  // kalsın. Havuz daraldıkça doldurmanın tıkanmasını geciktirir.
+  preferRigid = false,
   // Blok yoğunluğu; maske onarımı sonrası etkisi ölçülebilir değil, geriye
   // dönük uyumluluk için duruyor.
   blockDensity = DEFAULT_BLOCK_DENSITY,
 }) {
+  const mix = targetMix ? new Map(Object.entries(targetMix).map(([k, v]) => [Number(k), v])) : null;
   const softMin = Math.max(MIN_WORD_LEN, minWordLen);
-  const floor =
-    shortBudget > 0 ? Math.max(HARD_MIN_WORD_LEN, softMin - 1) : softMin;
-  const budget = floor < softMin ? shortBudget : 0;
+  // Hedef karışımda taban ve kota tek bir yerden türüyor: taban, hedefi
+  // kayda değer olan en kısa uzunluk; kota, softMin altındaki bütün
+  // uzunlukların hedef toplamı. Böylece 2 harfli katman da hedefte payı
+  // olduğunda kendiliğinden açılıyor, payı bitince kendiliğinden kapanıyor.
+  let shortWanted = shortBudget;
+  let mixFloor = softMin;
+  if (mix) {
+    let toplam = 0;
+    for (let l = HARD_MIN_WORD_LEN; l < softMin; l++) {
+      const v = mix.get(l) ?? 0;
+      if (v <= 0.05) continue;
+      if (l < mixFloor) mixFloor = l;
+      toplam += v;
+    }
+    shortWanted = Math.ceil(toplam);
+  }
+  const floor = mix ? mixFloor : shortWanted > 0 ? Math.max(HARD_MIN_WORD_LEN, softMin - 1) : softMin;
+  // targetMix verildiğinde kotayı sıkı tutmanın anlamı yok: hedefe yaklaştırmak
+  // shapeRuns'ın işi ve o, 3 harfliyi diğer uzunluklar gibi ele alıyor. Kota
+  // sıkı olduğunda maske denemelerinin %90'ından fazlası maskeProblems'ta
+  // eleniyordu (9x13'te bulmaca başına 646 deneme). Burada yalnızca üst sınır.
+  const budget =
+    floor < softMin ? (mix ? shortWanted + SHORT_SLACK : shortWanted) : 0;
   let result = null;
   let attempt = 0;
   const stats = { mask: 0, host: 0, fill: 0 };
@@ -756,6 +1013,7 @@ export function buildPuzzle({
     shortenShortRuns(mask, cols, rows, rnd, floor, softMin, budget);
     thinThreeRuns(mask, cols, rows, rnd, softMin, budget, floor);
     shortenShortRuns(mask, cols, rows, rnd, floor, softMin, budget);
+    shapeRuns(mask, cols, rows, rnd, mix, floor, softMin, budget);
     const slots = computeRuns(mask, cols, rows);
     if (maskProblems(mask, cols, rows, slots, floor, softMin, budget)) {
       stats.mask++;
@@ -769,6 +1027,10 @@ export function buildPuzzle({
     // Deneme başarısızsa bir sonrakinde eşiği hızla genişlet; birkaç denemede
     // fiilen tüm sözlüğe açılır.
     const widen = 1 + attempt;
+    // Yeniden denemeler işe yaramıyorsa arama derinliğini büyüt.
+    const nodeLimit = tracker
+      ? Math.min(300000, 20000 * (1 + Math.floor(attempt / 40)))
+      : 300000;
     // Aynı maske için birkaç farklı doldurma dene ve küresel olarak en az
     // kullanılmış ipuçlarını içereni seç: geri izleme sırasında kesişim
     // kısıtları yüzünden sık kullanılmış kelimelere düşmek kaçınılmaz, ama
@@ -777,7 +1039,7 @@ export function buildPuzzle({
     if (tracker) {
       let bestScore = Infinity;
       for (let k = 0; k < FILL_TRIES; k++) {
-        const f = fillGrid(slots, cols, rows, rnd, tracker, widen);
+        const f = fillGrid(slots, cols, rows, rnd, tracker, widen, preferEasy, nodeLimit, preferRigid);
         if (!f) continue;
         let score = 0;
         for (const w of f.assigned) score += wordCost(tracker, w);
@@ -788,7 +1050,7 @@ export function buildPuzzle({
         if (bestScore === 0) break;
       }
     } else {
-      filled = fillGrid(slots, cols, rows, rnd, tracker, widen);
+      filled = fillGrid(slots, cols, rows, rnd, tracker, widen, preferEasy, nodeLimit, preferRigid);
     }
     if (!filled) {
       stats.fill++;
