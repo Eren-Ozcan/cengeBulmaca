@@ -7,7 +7,10 @@
 //          "derin" kelime olması. Çekirdek kelimeler 4-5 ipuçlu.
 //   depth  cevabın sözlükteki sırası; sözlük yaygından nadire doğru büyüdü.
 //   cross  kesişen hücre oranı; kesişim çözücüye yardım eder, tersi zorluktur.
-//   size   ızgara alanı; büyük ızgara ilk bulmaca için caydırıcı.
+//
+// Izgara alanı eskiden dördüncü sinyaldi, ama set tek bir 8x10 şekle geçtikten
+// sonra bütün bulmacalarda aynı değeri aldı ve sıralamaya hiçbir katkısı
+// kalmadı; ağırlığı diğer üç sinyale oranlı şekilde dağıtıldı.
 //
 // Kullanım: node tools/reorder-puzzles.mjs [--apply]
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
@@ -30,7 +33,7 @@ const ARROW = {
 // derlenmiş çekirdek kelimelerden oluşuyor (%68'i çok ipuçlu), 5-7 harfli
 // katmanların tamamına yakını ise TDK'dan toplu çekilmiş derin kelimeler.
 // Yani uzunluk, "rare" sinyalinin tersten kopyası olurdu.
-const WEIGHTS = { rare: 0.45, depth: 0.25, cross: 0.18, size: 0.12 };
+const WEIGHTS = { rare: 0.51, depth: 0.29, cross: 0.20 };
 
 const puzzlesDir = join(dirname(fileURLToPath(import.meta.url)), "..", "src", "puzzles");
 const files = readdirSync(puzzlesDir)
@@ -60,7 +63,6 @@ const rows = files.map((file) => {
       clues.length,
     // ters çevrildi: kesişim ne kadar azsa o kadar zor
     cross: 1 - cells.filter((v) => v > 1).length / cells.length,
-    size: data.rows * data.cols,
   };
 });
 
