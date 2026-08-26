@@ -1,5 +1,9 @@
 # YouTube promo video — upload settings
 
+**Published:** https://www.youtube.com/watch?v=bC4Sxftnyg0 — channel
+@YilkGames, uploaded 2026-08-26. This is the URL Play Console's "Promo video"
+field takes; the `youtu.be` short link Studio offers is not accepted there.
+
 Play Console does not accept a video file: its "Promo video" field takes a
 YouTube URL. This is what to upload and how to set it up. The video itself is
 `docs/store-assets-originals/promo-1920x1080.mp4` (1920×1080, 18 s, with the

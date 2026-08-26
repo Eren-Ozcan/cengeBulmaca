@@ -97,8 +97,9 @@ bulmaca, çengel bulmaca, kare bulmaca, kelime oyunu, Türkçe
   540×960 for the repo (home, gameplay, cats, map, newspaper theme).
 - [ ] Tablet screenshots (7"/10", 1600×2560) — `play-tablet/`, optional, but
   without them Play shows a "not optimized for large screens" notice.
-- [ ] Promo video: `promo-1920x1080.mp4` is cut and ready (with the game's own
-  CC0 background music), but Play only accepts
+- [x] Promo video: published at
+  https://www.youtube.com/watch?v=bC4Sxftnyg0 (channel @YilkGames). What is
+  left is pasting that URL into the listing. Play only accepts
   a YouTube URL, so it has to be uploaded to the studio's channel first.
 - The icon and the feature graphic come from `npm run icons` and
   `python scripts/make_feature_graphic.py`; the screenshots and the video are
