@@ -186,14 +186,20 @@ What was declared:
 - Tablet screenshots and the promo video are rendered locally (see above); what
   is left is uploading the video to YouTube and pasting its URL into the
   listing.
-- ⏳ **GitHub secret scanning alert (Google API Key, `src/referral.ts` —
-  Firebase `apiKey`)**: closed as `wont_fix` on GitHub (this key is the
-  client-side, non-secret identifier of the Firebase web SDK — security is
-  enforced by Firestore rules). Permanent fix: restrict this key in the Google
-  Cloud Console with API restrictions (Identity Toolkit + Cloud Firestore API)
-  and, if possible, application restrictions. Not done yet due to an access
-  problem with the `yilkgamesstudio@gmail.com` account — to be completed once
-  the account issue is resolved.
+- [x] **GitHub secret scanning alert (Google API Key — the Firebase web
+  `apiKey`)**: closed as `wont_fix` on GitHub (the key is the client-side,
+  non-secret identifier of the Firebase web SDK — security is enforced by
+  Firestore rules). Hardened on 2026-08-26 anyway: the browser key
+  (`0f12db72-…`) is now restricted to the four APIs the app actually calls —
+  Identity Toolkit, Token Service, Cloud Firestore and Firebase Installations
+  — with `gcloud services api-keys update`, and cloud save was verified on the
+  device afterwards (auth and Firestore both answer 200).
+
+  No **application** restriction was added on purpose: the app talks to
+  Firebase through the web SDK inside the Capacitor WebView, so an "Android
+  apps" restriction would not match its requests and would break sign-in. The
+  Android key keeps Firebase's default service list, which the native auth
+  plugin needs.
 
 ## Other
 
