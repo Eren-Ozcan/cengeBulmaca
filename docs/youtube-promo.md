@@ -4,7 +4,10 @@ Play Console does not accept a video file: its "Promo video" field takes a
 YouTube URL. This is what to upload and how to set it up. The video itself is
 `docs/store-assets-originals/promo-1920x1080.mp4` (1920×1080, 18 s, with the
 game's own CC0 music), and the thumbnail is
-`docs/store-assets-originals/youtube-thumbnail-1280x720.png`.
+`docs/store-assets-originals/youtube-thumbnail-1280x720.png`. Its end card
+carries Google's official Turkish "İNDİRİN Google Play" badge, used as
+delivered — never recoloured, stretched or rotated, and kept clear of other
+elements, per play.google.com/intl/en_us/badges.
 
 > The copy below is deliberately Turkish — the listing and the audience are
 > Turkish. Only the surrounding documentation is in English.

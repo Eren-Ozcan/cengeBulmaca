@@ -61,6 +61,13 @@ python scripts/make_feature_graphic.py     # 1024x500
 python scripts/make_promo_video.py         # 1920x1080 promo cut: phone, captions, music
 ```
 
+The promo cut ends on Google's official Play badge, which is not in the repo;
+fetch it once into the (gitignored) assets folder:
+
+```bash
+curl -o docs/store-assets-originals/google-play-badge-tr.png   https://play.google.com/intl/tr_tr/badges/static/images/badges/tr_badge_web_generic.png
+```
+
 `showcase.mjs` seeds a showcase save (31 puzzles solved, a 12-day streak, 8 of
 15 cats) before the app boots and drives a headless Chrome through the screens,
 so nothing depends on a personal save file. Everything lands in

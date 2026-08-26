@@ -39,6 +39,13 @@ INTRO, OUTRO = 2.0, 2.6
 # Morris (OpenGameArt), the same file the app ships in public/music.
 MUSIC = ROOT / "public" / "music" / "anadolu-loop.ogg"
 
+# Google's official Turkish "Get it on Google Play" badge. It is Google's
+# artwork: used as delivered, never recoloured, stretched or rotated, and kept
+# clear of other elements — see play.google.com/intl/en_us/badges. Download it
+# once with:
+#   curl -o docs/store-assets-originals/google-play-badge-tr.png #     https://play.google.com/intl/tr_tr/badges/static/images/badges/tr_badge_web_generic.png
+BADGE = ASSETS / "google-play-badge-tr.png"
+
 PURPLE = (111, 90, 235)
 PURPLE_DEEP = (72, 52, 190)
 CREAM = (247, 243, 234)
@@ -133,7 +140,7 @@ def draw_beat(canvas: Image.Image, title: str, subtitle: str, x: int, alpha: flo
     canvas.alpha_composite(layer)
 
 
-def card(text: str, sub: str) -> Image.Image:
+def card(text: str, sub: str, badge: bool = False) -> Image.Image:
     """Title/end card: the wordmark centred on the same purple field."""
     canvas = gradient().convert("RGBA")
     draw = ImageDraw.Draw(canvas)
@@ -155,6 +162,14 @@ def card(text: str, sub: str) -> Image.Image:
     draw.text((x, y), text, font=font, fill=CREAM, stroke_width=round(5 * S), stroke_fill=(38, 26, 92))
     draw.rectangle([x + 4 * S, y + 116 * S, x + 4 * S + min(tw, 150 * S), y + 124 * S], fill=AMBER)
     draw.text((x, y + 148 * S), sub, font=body, fill=(226, 219, 255))
+
+    if badge:
+        if not BADGE.exists():
+            sys.exit(f"{BADGE.name} yok — dosyanın başındaki curl komutuyla indir")
+        art = Image.open(BADGE).convert("RGBA")
+        h = round(104 * S)
+        art = art.resize((round(art.width * h / art.height), h), Image.LANCZOS)
+        canvas.alpha_composite(art, (x - round(6 * S), round(y + 196 * S)))
     return canvas
 
 
@@ -171,7 +186,7 @@ def main() -> None:
 
     base = gradient().convert("RGBA")
     intro = card("Çengel Bulmaca", "Türkçe çengel bulmaca · 200+ bulmaca")
-    outro = card("Hemen oyna", "Google Play'de ücretsiz")
+    outro = card("Hemen oyna", "Ücretsiz", badge=True)
 
     total = INTRO + body_len + OUTRO
     n = 0
