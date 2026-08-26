@@ -7,7 +7,7 @@ character limit: 500 characters per language.
 > pasted as-is into the Turkish Play Store listing. Only the surrounding
 > documentation is in English.
 
-## 1.3.0 (versionCode 6)
+## 1.3.1 (versionCode 7)
 
 ```
 Bu sürümde:
@@ -24,3 +24,7 @@ gerçekten zorlaşıyor.
 
 İyi bulmacalar!
 ```
+
+Version 1.3.0 (versionCode 6) shipped the same note. Its build carried an
+earlier render of the puzzle set; 1.3.1 is the same release with the set the
+repository actually holds, so the note did not change.
