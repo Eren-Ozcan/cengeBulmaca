@@ -180,9 +180,13 @@ What was declared:
 
 - ⏳ Publishing to the Production track — bank verification is done, this is
   the next step (currently only on the Internal testing channel).
-- ⏳ The Play Console "Payments profile" page shows an **enroll in the 15%
-  service fee program** notice (it appears optional but should be reviewed —
-  it requires creating an account group and accepting the service fee terms).
+- [x] **15% service fee**: nothing to enrol in. Since July 2021 the reduced
+  15% rate on the first $1M of yearly earnings applies to every developer
+  automatically; the enrolment step only ever existed for developers who have
+  to join several developer accounts into one account group. The notice that
+  was seen earlier is no longer on the Payments profile page (checked
+  2026-08-26), so this is settled. If it ever comes back, the proof either way
+  is the fee shown on a transaction in Financial reports.
 - Tablet screenshots and the promo video are rendered locally (see above); what
   is left is uploading the video to YouTube and pasting its URL into the
   listing.
