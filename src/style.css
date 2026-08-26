@@ -964,6 +964,29 @@ button {
   overflow-wrap: normal;
   word-break: keep-all;
   font-weight: 600;
+  /* the fitter may scale the text down when the font size cannot shrink
+     further; it should shrink towards the middle of its cell */
+  transform-origin: center;
+}
+
+/* While the font is being fitted the clamp is lifted: inside a clamped
+   -webkit-box, scrollHeight/scrollWidth report the truncated size, so an
+   overflowing clue looks like it fits and never shrinks. */
+.clue-text.fitting {
+  display: block;
+  -webkit-line-clamp: none;
+}
+
+/* off-screen probe used to measure a single word at a candidate font size */
+.clue-fit-probe {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  visibility: hidden;
+  display: inline-block;
+  white-space: nowrap;
+  -webkit-line-clamp: none;
+  pointer-events: none;
 }
 
 .clue-md {

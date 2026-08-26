@@ -1443,7 +1443,16 @@ export class App {
       if (texts.length === 0 || allCached) continue;
 
       // reset any leftover fixed font sizes if the screen width changed
-      for (const t of texts) t.style.fontSize = "";
+      for (const t of texts) {
+        t.style.fontSize = "";
+        applyClueScale(t, 1);
+        t.classList.add("fitting");
+      }
+      // A word that is too wide to wrap only overflows the line box, which
+      // scrollWidth does not report, so the widest word of each clue is
+      // measured on its own with an off-screen probe.
+      const probe = el("span", "clue-text clue-fit-probe");
+      grid.appendChild(probe);
       const overflows = () =>
         texts.some((t) => {
           const part = t.parentElement!;
@@ -1456,8 +1465,12 @@ export class App {
             part.clientWidth -
             parseFloat(ps.paddingLeft) -
             parseFloat(ps.paddingRight);
+          probe.style.fontSize = t.style.fontSize;
+          probe.textContent = widestWord(t);
           return (
-            t.scrollHeight > availH + 0.5 || t.scrollWidth > availW + 0.5
+            t.scrollHeight > availH + 0.5 ||
+            t.scrollWidth > availW + 0.5 ||
+            probe.getBoundingClientRect().width > availW + 0.5
           );
         });
       const apply = (size: number) => {
@@ -1470,12 +1483,43 @@ export class App {
       // shrinks on small cells.
       let size = 22;
       apply(size);
-      while (size > 5 && overflows()) {
+      while (size > MIN_CLUE_FONT && overflows()) {
         size -= 0.5;
         apply(size);
       }
-      for (const key of keys) this.clueFontCache.set(key, `${size}px`);
+      // Android WebView refuses to render text below its minimum font size
+      // (8px by default), so on small grids the loop can bottom out while the
+      // text still overflows. The remainder is taken out with a transform,
+      // which that minimum does not apply to.
+      const scale = overflows() ? this.clueTextScale(texts, probe) : 1;
+      for (const t of texts) applyClueScale(t, scale);
+      probe.remove();
+      for (const t of texts) t.classList.remove("fitting");
+      for (const key of keys) this.clueFontCache.set(key, `${size}px ${scale}`);
     }
+  }
+
+  /**
+   * How much the clue text still has to be scaled down after the font size hit
+   * the renderer's minimum: the widest ratio between what the text needs and
+   * what its cell offers.
+   */
+  private clueTextScale(texts: HTMLElement[], probe: HTMLElement): number {
+    let needed = 1;
+    for (const t of texts) {
+      const part = t.parentElement!;
+      const ps = getComputedStyle(part);
+      const availH =
+        part.clientHeight - parseFloat(ps.paddingTop) - parseFloat(ps.paddingBottom);
+      const availW =
+        part.clientWidth - parseFloat(ps.paddingLeft) - parseFloat(ps.paddingRight);
+      probe.style.fontSize = getComputedStyle(t).fontSize;
+      probe.textContent = widestWord(t);
+      const wordW = probe.getBoundingClientRect().width;
+      if (availW > 0) needed = Math.max(needed, t.scrollWidth / availW, wordW / availW);
+      if (availH > 0) needed = Math.max(needed, t.scrollHeight / availH);
+    }
+    return Math.max(0.4, Math.min(1, 1 / needed));
   }
 
   /** Refreshes the grid width and clue font sizes when the window is resized */
@@ -1550,7 +1594,11 @@ export class App {
           const text = el("span", "clue-text", clue.text);
           text.classList.add(sizeClass(clue.text));
           const cached = this.clueFontCache.get(part.dataset.fitKey);
-          if (cached) text.style.fontSize = cached;
+          if (cached) {
+            const [size, scale] = cached.split(" ");
+            text.style.fontSize = size;
+            applyClueScale(text, Number(scale));
+          }
           part.appendChild(text);
           const selectClue = () => {
             if (this.tutorialBlocks("cell", cell.row, cell.col)) return;
@@ -1926,6 +1974,37 @@ function timeGreeting(): string {
   if (h >= 18 && h < 23) return "İyi akşamlar";
   return "İyi geceler";
 }
+
+/**
+ * Scales a clue text down without letting its own box shrink with it: the box
+ * is widened by the same factor first, so the scaled text still gets the full
+ * width of the cell to wrap in instead of being clipped by its own edge.
+ */
+function applyClueScale(text: HTMLElement, scale: number): void {
+  if (scale >= 1) {
+    text.style.transform = "";
+    text.style.width = "";
+    text.style.flex = "";
+    return;
+  }
+  text.style.transform = `scale(${scale})`;
+  text.style.width = `${(100 / scale).toFixed(2)}%`;
+  text.style.flex = "none";
+}
+
+/** The longest word of a clue: the part that decides whether it can wrap. */
+function widestWord(t: HTMLElement): string {
+  let widest = "";
+  for (const w of (t.textContent ?? "").split(/\s+/))
+    if (w.length > widest.length) widest = w;
+  return widest;
+}
+
+/**
+ * Floor of the font-size search. Android WebView clamps rendered text to a
+ * minimum size (8px by default), so shrinking past it changes nothing.
+ */
+const MIN_CLUE_FONT = 8;
 
 function sizeClass(text: string): string {
   if (text.length <= 12) return "clue-md";
