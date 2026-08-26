@@ -1,0 +1,177 @@
+{
+  "id": "puzzle-246",
+  "title": "Bulmaca 111",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Şeffaf ambalaj",
+      "answer": "SELOFAN",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yurt",
+      "answer": "VATAN",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Uyku sesi",
+      "answer": "HORULTU",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Rüya yorumlama",
+      "answer": "TABİR",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Derme çatma yapı",
+      "answer": "BARAKA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yer, yöre",
+      "answer": "MAHAL",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yönlendirici belirti",
+      "answer": "İPUCU",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Veraset",
+      "answer": "KALITIM",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Alan; oyun yeri",
+      "answer": "SAHA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yol yiyeceği",
+      "answer": "AZIK",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Et yiyen",
+      "answer": "ETOBUR",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gürcistan para birimi",
+      "answer": "LARİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sebep olan güç",
+      "answer": "AMİL",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Şeref, haysiyet",
+      "answer": "ONUR",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Giriş bölmesi",
+      "answer": "KAPI",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Veya",
+      "answer": "YAHUT",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalın kadın sesi",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yakıcı tat",
+      "answer": "ACI",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilinen şey",
+      "answer": "MALUM",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    }
+  ],
+  "difficulty": "orta",
+  "order": 111
+}

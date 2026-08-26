@@ -1,146 +1,146 @@
 {
   "id": "puzzle-93",
-  "title": "Bulmaca 83",
-  "rows": 11,
+  "title": "Bulmaca 117",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Sinirli, öfkeli",
-      "answer": "ASABİ",
+      "text": "Eğitim bilimci",
+      "answer": "PEDAGOG",
+      "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yunan rakısı",
+      "answer": "UZO",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bacaksız sürüngen",
-      "answer": "YILAN",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Açıkça söyleme",
-      "answer": "İKRAR",
-      "row": 3,
+      "text": "Savaş gazı",
+      "answer": "İPERİT",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İşleme aracı",
-      "answer": "ÇAPA",
-      "row": 5,
-      "col": 2,
+      "text": "Bayağı, olağan",
+      "answer": "ALELADE",
+      "row": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bina bölümü",
-      "answer": "KAT",
+      "text": "Bayındır, mamur",
+      "answer": "ABAT",
       "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İnek yavrusu",
-      "answer": "DANA",
-      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bereketli, kutsal",
-      "answer": "MÜBAREK",
+      "text": "Çekme ev",
+      "answer": "KARAVAN",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Buluş belgesi",
+      "answer": "PATENT",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hükümdar oğlu",
-      "answer": "PRENS",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Aşırı korku",
-      "answer": "FOBİ",
-      "row": 8,
+      "text": "Harflerle anlatım",
+      "answer": "YAZI",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kuşak",
-      "answer": "NESİL",
-      "row": 10,
+      "text": "Giysi bölmesi",
+      "answer": "CEP",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Çok ince",
+      "answer": "KILCAL",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dişli futbol ayakkabısı",
-      "answer": "KRAMPON",
-      "row": 3,
+      "text": "Geminin arkası",
+      "answer": "PUPA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Mezar yapısı",
-      "answer": "TÜRBE",
+      "text": "Çok beyaz",
+      "answer": "APAK",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Öncesizlik",
+      "answer": "EZEL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kabul eden",
+      "answer": "RAZI",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kaya kütlesi",
-      "answer": "KAYAÇ",
+      "text": "Altın sarısı",
+      "answer": "DORE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sakınca, zarar",
-      "answer": "BEİS",
-      "row": 6,
+      "text": "Hareketsiz, işlevsiz",
+      "answer": "ATIL",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Özelliksiz",
-      "answer": "SIRADAN",
-      "row": 1,
+      "text": "Ekleme, ulama",
+      "answer": "İLAVE",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Arı ürünü",
-      "answer": "BAL",
-      "row": 0,
+      "text": "Kısa silah",
+      "answer": "TABANCA",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sınırlanmış arazi",
-      "answer": "PARSEL",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Uydurma sebep",
-      "answer": "BAHANE",
-      "row": 1,
+      "text": "İnce örgü işi",
+      "answer": "DANTEL",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "On yüz",
-      "answer": "BİN",
+      "text": "Üreme hücresi",
+      "answer": "GAMET",
       "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Su birikintisi",
-      "answer": "AKMAZ",
-      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -152,61 +152,33 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
-      "col": 1
-    },
-    {
-      "row": 1,
-      "col": 2
-    },
-    {
       "row": 2,
-      "col": 0
+      "col": 6
     },
     {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 4,
+      "row": 6,
       "col": 7
     },
     {
-      "row": 8,
-      "col": 6
+      "row": 7,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 6
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 83
+  "order": 117
 }

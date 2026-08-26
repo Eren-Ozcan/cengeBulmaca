@@ -1,160 +1,132 @@
 {
   "id": "puzzle-30",
-  "title": "Bulmaca 111",
-  "rows": 11,
+  "title": "Bulmaca 16",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Hınzır",
-      "answer": "DOMUZ",
+      "text": "Enteresan",
+      "answer": "İLGİNÇ",
       "row": 0,
-      "col": 3,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şehvet uyandıran",
-      "answer": "EROTİK",
+      "text": "Altıdan sonraki sayı",
+      "answer": "YEDİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Havada takla",
-      "answer": "PERENDE",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dili dolaşan",
-      "answer": "PELTEK",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Omuz örtüsü",
-      "answer": "ŞAL",
-      "row": 4,
+      "text": "Ses bulucu",
+      "answer": "SONAR",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dikeni olan",
-      "answer": "DİKENLİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Göz-kulak arası",
-      "answer": "ŞAKAK",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Leylek sesi",
-      "answer": "LAKLAK",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Patlayıcı madde",
-      "answer": "MERMİ",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Takas",
-      "answer": "TRAMPA",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Giysi bölmesi",
-      "answer": "CEP",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hak, hukuk",
-      "answer": "ADALET",
+      "text": "Hangi yer",
+      "answer": "NERE",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kahverengi kömür",
+      "answer": "LİNYİT",
+      "row": 5,
       "col": 1,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Bire bir kopya",
-      "answer": "REPLİKA",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Altın sarısı",
-      "answer": "DORE",
-      "row": 0,
+      "text": "İleri karşıtı",
+      "answer": "GERİ",
+      "row": 6,
       "col": 3,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Maden süslemesi",
-      "answer": "KAKMA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Konaklama işletmesi",
-      "answer": "OTEL",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Mafsal",
-      "answer": "EKLEM",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yakasız gömlek",
-      "answer": "MİNTAN",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Üçgen çalgı",
-      "answer": "ARP",
+      "text": "Eylemci savunucu",
+      "answer": "MİLİTAN",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Batı Anadolu yiğidi",
+      "answer": "EFE",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sonuç yazısı",
+      "answer": "RAPOR",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Fransa'nın büyük kenti",
+      "answer": "LYON",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Omurga kemiği",
+      "answer": "OMUR",
+      "row": 6,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Umumi",
+      "answer": "GENEL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yönetime dair",
+      "answer": "İDARİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Üçgenleme noktası",
+      "answer": "NİRENGİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kâfi",
+      "answer": "YETER",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çözülmemiş dert",
-      "answer": "UKDE",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yiyecek parçası",
-      "answer": "LOKMA",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Canı her şeyi çeken",
-      "answer": "EKTİ",
+      "text": "Suçunu söyleme",
+      "answer": "İTİRAF",
       "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Vilayet",
+      "answer": "İL",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "İnceltici kimyasal",
+      "answer": "TİNER",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -162,37 +134,53 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 5
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 3,
+      "col": 5
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 7
+      "row": 6,
+      "col": 2
     },
     {
       "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 7
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 111
+  "difficulty": "kolay",
+  "order": 16
 }

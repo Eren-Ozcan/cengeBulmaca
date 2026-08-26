@@ -1,186 +1,149 @@
 {
   "id": "puzzle-135",
-  "title": "Bulmaca 142",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 116",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Saç kırıntısı",
-      "answer": "KEPEK",
+      "text": "Kırbaç",
+      "answer": "KAMÇI",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Ayak altı",
-      "answer": "TABAN",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Alto keman",
-      "answer": "VİYOLA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Az bulunur",
-      "answer": "NADİDE",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Şeker hastalığı",
-      "answer": "DİYABET",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sanal sohbet",
-      "answer": "CHAT",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bitkinin gövdesi",
-      "answer": "SAP",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Suların donması",
-      "answer": "DON",
-      "row": 7,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağ, örgüt",
-      "answer": "ŞEBEKE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Reklamla duyurma",
-      "answer": "TANITIM",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hamam ocağı",
-      "answer": "KÜLHAN",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dış alım",
-      "answer": "İTHALAT",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir kimya kökü",
-      "answer": "ETİL",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hisse, parça",
-      "answer": "PAY",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çağrılı",
-      "answer": "DAVETLİ",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sert kauçuk",
-      "answer": "EBONİT",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kader, yazgı",
-      "answer": "BAHT",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Beyaz element",
-      "answer": "KALAY",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kanat",
-      "answer": "CENAH",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tarla dinlenmesi",
-      "answer": "NADAS",
+      "text": "İslam'ın beşinci şartı",
+      "answer": "HAC",
       "row": 1,
-      "col": 5,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Boyama bitkisi",
-      "answer": "KINA",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tapınma",
-      "answer": "İBADET",
+      "text": "Ağılı",
+      "answer": "ZEHİRLİ",
       "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Saha, meydan",
+      "answer": "ALAN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sıva resmi",
+      "answer": "FRESK",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Delik kapatan",
+      "answer": "TIKAÇ",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayak tabanı cezası",
+      "answer": "FALAKA",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Genişlik",
+      "answer": "EN",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Deri sertleşmesi",
+      "answer": "NASIR",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Rezil",
+      "answer": "KEPAZE",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yanlışlıkla",
+      "answer": "KAZARA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çabukluk",
+      "answer": "ACELE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tedavi kurumu",
+      "answer": "HASTANE",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Köklü değişiklik",
+      "answer": "İNKILAP",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Para dolabı",
+      "answer": "KASA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Reçineli madde",
+      "answer": "SAKIZ",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Saklama yeri",
-      "answer": "DEPO",
-      "row": 3,
+      "text": "Şaşırtıcı, tuhaf",
+      "answer": "ACİP",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Düz ayakkabı",
-      "answer": "BABET",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "İyilik, lütuf",
-      "answer": "NİMET",
-      "row": 6,
-      "col": 8,
+      "text": "Sorun çözme yolu",
+      "answer": "ÇARE",
+      "row": 5,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
     {
       "row": 0,
       "col": 5
@@ -190,54 +153,30 @@
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
       "row": 1,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 7
+      "row": 2,
+      "col": 5
     },
     {
       "row": 2,
       "col": 6
-    },
-    {
-      "row": 2,
-      "col": 7
     },
     {
       "row": 4,
+      "col": 5
+    },
+    {
+      "row": 6,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
+      "row": 9,
       "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 142
+  "difficulty": "orta",
+  "order": 116
 }

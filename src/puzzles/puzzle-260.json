@@ -1,0 +1,182 @@
+{
+  "id": "puzzle-260",
+  "title": "Bulmaca 107",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Kaygı",
+      "answer": "ENDİŞE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hız değişimi",
+      "answer": "İVME",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Hafıza",
+      "answer": "BELLEK",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tek parça giysi",
+      "answer": "ENTARİ",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Belli alan",
+      "answer": "BÖLGE",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kocanın kız kardeşi",
+      "answer": "GÖRÜMCE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Nargile bölümü",
+      "answer": "LÜLE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Esprili",
+      "answer": "NÜKTELİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Orijinal",
+      "answer": "ÖZGÜN",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Duvar yuvası",
+      "answer": "DÜBEL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Diri karşıtı",
+      "answer": "ÖLÜ",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Üçgen başlı yılan",
+      "answer": "ENGEREK",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Doldurulmuş döşek",
+      "answer": "ŞİLTE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Daha uygun",
+      "answer": "EVLA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hayal",
+      "answer": "İMGE",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Güvenilir, dürüst",
+      "answer": "MERT",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Odun ölçüsü",
+      "answer": "ÇEKİ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Hayvan besleme",
+      "answer": "BESİ",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 4
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    }
+  ],
+  "difficulty": "orta",
+  "order": 107
+}

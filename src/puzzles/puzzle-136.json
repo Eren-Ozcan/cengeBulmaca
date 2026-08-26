@@ -1,119 +1,140 @@
 {
   "id": "puzzle-136",
-  "title": "Bulmaca 139",
+  "title": "Bulmaca 108",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "İçme kabı",
-      "answer": "YALAK",
+      "text": "Camlı bölme",
+      "answer": "CAMEKAN",
       "row": 1,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Seyrek karşıtı",
-      "answer": "SIK",
+      "text": "Anlam",
+      "answer": "MANA",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İğne süsü",
-      "answer": "OYA",
-      "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İzin belgesi",
-      "answer": "RUHSAT",
-      "row": 4,
+      "text": "Güçlü tutku",
+      "answer": "İHTİRAS",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yağlı çörek",
-      "answer": "AÇMA",
+      "text": "Öncü karşıtı",
+      "answer": "ARTÇI",
       "row": 4,
-      "col": 0,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Gazete yazısı",
+      "answer": "MAKALE",
+      "row": 5,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Dolgun yüz",
-      "answer": "ABLAK",
+      "text": "Divan şiiri",
+      "answer": "GAZEL",
       "row": 6,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kadın şarkıcı",
+      "answer": "ŞANTÖZ",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "El çırpma",
-      "answer": "ALKIŞ",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Tarımsal",
-      "answer": "ZİRAİ",
-      "row": 7,
+      "text": "Beyaz kuş",
+      "answer": "MARTI",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aç olma",
-      "answer": "AÇLIK",
+      "text": "Yemek, çorba",
+      "answer": "AŞ",
       "row": 9,
-      "col": 1,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Boya aracı",
-      "answer": "FIRÇA",
-      "row": 1,
+      "text": "Dinen uygun",
+      "answer": "CAİZ",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Para biriktirme kabı",
-      "answer": "KUMBARA",
-      "row": 2,
+      "text": "Kor aracı",
+      "answer": "MAŞA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kırıcı söz",
+      "answer": "AZAR",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yün atan",
-      "answer": "HALLAÇ",
-      "row": 3,
+      "text": "Özbekistan'ın başkenti",
+      "answer": "TAŞKENT",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Güneydoğu Asya ülkesi",
-      "answer": "LAOS",
+      "text": "Buyruk",
+      "answer": "EMİR",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Akıllı, bilge",
-      "answer": "AKİL",
+      "text": "Beşten sonraki sayı",
+      "answer": "ALTI",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ses yansıması",
-      "answer": "YANKI",
-      "row": 2,
+      "text": "Şirket birliği",
+      "answer": "KARTEL",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Myanmar para birimi",
-      "answer": "KYAT",
+      "text": "Şefkatli davranan",
+      "answer": "ANAÇ",
       "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kimyasal, ilaç",
+      "answer": "ECZA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Biçim soran söz",
+      "answer": "NASIL",
+      "row": 0,
+      "col": 7,
       "arrow": "down"
     }
   ],
@@ -124,10 +145,6 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
@@ -135,38 +152,38 @@
       "col": 3
     },
     {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 1,
+      "row": 2,
       "col": 0
     },
     {
       "row": 2,
-      "col": 3
+      "col": 2
+    },
+    {
+      "row": 4,
+      "col": 0
     },
     {
       "row": 5,
-      "col": 6
+      "col": 0
     },
     {
       "row": 6,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 8,
+      "row": 7,
       "col": 5
     },
     {
-      "row": 8,
-      "col": 6
+      "row": 7,
+      "col": 7
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 8,
+      "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 139
+  "difficulty": "orta",
+  "order": 108
 }

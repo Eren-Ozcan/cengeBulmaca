@@ -1,126 +1,140 @@
 {
   "id": "puzzle-26",
-  "title": "Bulmaca 57",
+  "title": "Bulmaca 27",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Kenar süsü dikişi",
-      "answer": "PİKO",
+      "text": "Dost konuşması",
+      "answer": "SOHBET",
       "row": 0,
-      "col": 2,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Göçebe yerleşimi",
-      "answer": "OBA",
+      "text": "Kalın değnek",
+      "answer": "SOPA",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Görüntü yüzeyi",
-      "answer": "EKRAN",
+      "text": "Osmanlı deniz askeri",
+      "answer": "LEVENT",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Güzel söz",
-      "answer": "İLTİFAT",
+      "text": "Kalp atımı",
+      "answer": "VURU",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Boyun bölümü",
-      "answer": "YAKA",
+      "text": "Saygılı, kibar",
+      "answer": "NAZİK",
       "row": 5,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Odun kömür",
-      "answer": "YAKACAK",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Gösterişli yaşayış",
+      "answer": "LÜKS",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "İşveren direnişi",
-      "answer": "LOKAVT",
+      "text": "Egzama",
+      "answer": "MAYASIL",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Teminat",
-      "answer": "GARANTİ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Yeni doğum yapmış",
+      "answer": "LOHUSA",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Aydınlık, ışık",
-      "answer": "NUR",
+      "text": "Yılın altıncı ayı",
+      "answer": "HAZİRAN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gövdenin ortası",
-      "answer": "BEL",
-      "row": 1,
+      "text": "Nefes alıp verme",
+      "answer": "SOLUNUM",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Saha, meydan",
-      "answer": "ALAN",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Devletler antlaşması",
-      "answer": "PAKT",
+      "text": "Sahne yapıtı",
+      "answer": "OPERA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Küçük orman",
-      "answer": "KORU",
-      "row": 5,
+      "text": "Renkli, benekli",
+      "answer": "ALA",
+      "row": 6,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İkiyüzlü",
-      "answer": "RİYAKAR",
-      "row": 2,
+      "text": "Suni göl",
+      "answer": "HAVUZ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yaramaz çocuk",
-      "answer": "AFACAN",
-      "row": 2,
+      "text": "Yozlaşmış, bozulmuş, dejenere",
+      "answer": "YOZ",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dinî ezgi",
+      "answer": "İLAHİ",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Boksta yıkılış",
-      "answer": "NAKAVT",
-      "row": 2,
+      "text": "Artan bölüm",
+      "answer": "KÜSUR",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yöntem, tabiye",
-      "answer": "TAKTİK",
-      "row": 3,
+      "text": "Unvan",
+      "answer": "TİTR",
+      "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun karşıtı",
+      "answer": "KISA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Hayvanlar kralı",
+      "answer": "ASLAN",
+      "row": 4,
+      "col": 7,
       "arrow": "down"
     }
   ],
@@ -131,14 +145,6 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 4
     },
     {
@@ -147,25 +153,37 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
-      "col": 6
+      "col": 7
     },
     {
       "row": 2,
-      "col": 6
-    },
-    {
-      "row": 9,
       "col": 4
     },
     {
-      "row": 9,
+      "row": 2,
       "col": 5
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 57
+  "order": 27
 }

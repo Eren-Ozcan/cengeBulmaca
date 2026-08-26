@@ -1,167 +1,139 @@
 {
   "id": "puzzle-241",
-  "title": "Bulmaca 121",
-  "rows": 12,
+  "title": "Bulmaca 160",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kolsuz üst giysi",
-      "answer": "JİLE",
+      "text": "Yolculuktaki kimse",
+      "answer": "YOLCU",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sindirim organı",
-      "answer": "MİDE",
+      "text": "Seyrek görülen",
+      "answer": "ENDER",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlı göstergesi",
-      "answer": "TUĞ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Abide",
-      "answer": "ANIT",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Sıkıntı, üzüntü",
-      "answer": "DERT",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yemek uzmanı",
-      "answer": "GURME",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uyarı notu",
-      "answer": "ANDIÇ",
-      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Maharet",
-      "answer": "BECERİ",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Şüphesiz olan",
-      "answer": "KESİN",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Şehir",
-      "answer": "KENT",
-      "row": 8,
+      "text": "Perişan olma",
+      "answer": "MAHV",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Resim kenarlığı",
-      "answer": "ÇERÇEVE",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Beyaz eşya markası",
-      "answer": "BEKO",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kuvvet, kudret",
-      "answer": "GÜÇ",
+      "text": "Karesi verilen sayı",
+      "answer": "KAREKÖK",
       "row": 4,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Yönlendirici belirti",
-      "answer": "İPUCU",
+      "text": "İkincil, ikinci derece",
+      "answer": "TALİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kâr",
+      "answer": "KAZANÇ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Parça sanatı",
+      "answer": "KOLAJ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Onurlu",
+      "answer": "ŞEREFLİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Toplam miktar",
+      "answer": "TUTAR",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Işınların toplandığı nokta",
+      "answer": "ODAK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dövülmüş yün",
-      "answer": "KEÇE",
-      "row": 7,
+      "text": "Atletizm dalı",
+      "answer": "KOŞU",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ufak leke",
-      "answer": "BENEK",
-      "row": 6,
+      "text": "Görünen hayal",
+      "answer": "HAYALET",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Orkestra şefi",
-      "answer": "MAESTRO",
-      "row": 4,
+      "text": "Eziyet, sıkıntı",
+      "answer": "CEVR",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Maden işçisi",
-      "answer": "MADENCİ",
-      "row": 1,
+      "text": "Sivas ilçesi",
+      "answer": "ZARA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Öğütülmüş tahıl",
+      "answer": "UN",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Göğüs, bağır, yürek",
-      "answer": "SİNE",
-      "row": 0,
-      "col": 5,
+      "text": "Küçük raflı dolap",
+      "answer": "ETAJER",
+      "row": 3,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Muvazene",
-      "answer": "DENGE",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bezdirici söylenme",
-      "answer": "DIRDIR",
+      "text": "Fakülte yöneticisi",
+      "answer": "DEKAN",
       "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ölçüsü alınmış",
+      "answer": "ÖLÇÜLÜ",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İstanbul'un otobüs idaresi",
-      "answer": "İETT",
+      "text": "Taslak çizim",
+      "answer": "KROKİ",
       "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Pis su",
-      "answer": "ÇİRKEF",
-      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -173,53 +145,41 @@
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 4,
-      "col": 2
-    },
-    {
-      "row": 6,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 11,
-      "col": 4
-    },
-    {
-      "row": 11,
       "col": 5
     },
     {
-      "row": 11,
+      "row": 0,
       "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "zor",
-  "order": 121
+  "order": 160
 }

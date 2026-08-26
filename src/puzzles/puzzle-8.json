@@ -1,181 +1,125 @@
 {
   "id": "puzzle-8",
-  "title": "Bulmaca 11",
-  "rows": 12,
+  "title": "Bulmaca 40",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Susamlı çörek",
-      "answer": "SİMİT",
+      "text": "Yeşil ot örtüsü",
+      "answer": "ÇİM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tertemiz",
-      "answer": "LEKESİZ",
+      "text": "Üçgen çalgı",
+      "answer": "ARP",
+      "row": 0,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güçlü inanç",
+      "answer": "İNAN",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Gümüş balığı",
-      "answer": "ATERİNA",
+      "text": "İnce buz",
+      "answer": "KIRÇ",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kedi sesi",
+      "answer": "MİYAV",
       "row": 3,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Ulak",
-      "answer": "HABERCİ",
-      "row": 4,
+      "text": "Elçilik",
+      "answer": "SEFARET",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Saçsız",
-      "answer": "KEL",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ucu eğri kanca",
-      "answer": "ÇENGEL",
+      "text": "Güreş alanı",
+      "answer": "ARENA",
       "row": 6,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Güçlü, becerikli",
-      "answer": "ACAR",
+      "text": "Sert tartışma",
+      "answer": "CEDEL",
       "row": 7,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Piyasaya sürme",
-      "answer": "ARZ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ön karşıtı",
-      "answer": "ARKA",
+      "text": "Tropikal rüzgâr",
+      "answer": "ALİZE",
       "row": 8,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sürekli olarak",
-      "answer": "DAİMA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Havalandırma pervanesi",
-      "answer": "FAN",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eti çok",
-      "answer": "ETLİ",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Acımtırak, buruk",
-      "answer": "KEKRE",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tanrı",
-      "answer": "İLAH",
-      "row": 0,
+      "text": "Bilardo sopası",
+      "answer": "İSTEKA",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dallardan barınak",
-      "answer": "ÇARDAK",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Satılan mal",
-      "answer": "META",
+      "text": "Deniz yumuşakçası",
+      "answer": "MİDYE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İlaç satılan yer",
-      "answer": "ECZANE",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çiçek düzenleme",
-      "answer": "İKEBANA",
-      "row": 0,
+      "text": "Yaramaz çocuk",
+      "answer": "AFACAN",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Salata bitkisi",
-      "answer": "TERE",
+      "text": "Sulu boya",
+      "answer": "AKVAREL",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hatıra",
+      "answer": "ANI",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Dil bilgisi",
-      "answer": "GRAMER",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ekşi sıvı",
-      "answer": "SİRKE",
-      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Başarısız olmuş",
-      "answer": "RATE",
-      "row": 7,
+      "text": "Tekrarlanan söz",
+      "answer": "REDİF",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zarafet",
-      "answer": "İNCELİK",
-      "row": 1,
+      "text": "Edirne ilçesi",
+      "answer": "ENEZ",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yok olan",
-      "answer": "ZAİL",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "İbadet töreni",
-      "answer": "AYİN",
-      "row": 7,
+      "text": "İsteme",
+      "answer": "TALEP",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -183,7 +127,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
     },
     {
       "row": 0,
@@ -194,22 +146,50 @@
       "col": 7
     },
     {
-      "row": 5,
+      "row": 1,
+      "col": 3
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
-      "row": 6,
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 2,
       "col": 7
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 4
     },
     {
       "row": 9,
       "col": 6
-    },
-    {
-      "row": 11,
-      "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 11
+  "order": 40
 }

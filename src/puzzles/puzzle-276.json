@@ -1,0 +1,186 @@
+{
+  "id": "puzzle-276",
+  "title": "Bulmaca 127",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Karın çukuru",
+      "answer": "GÖBEK",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İsteme",
+      "answer": "TALEP",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Damga aracı",
+      "answer": "MÜHÜR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şaka",
+      "answer": "LATİFE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hastalık tekrarı",
+      "answer": "NÜKS",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Geleceği bildirme",
+      "answer": "KEHANET",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ezik, bere",
+      "answer": "ZEDE",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çenesi düşük",
+      "answer": "ÇALÇENE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Aydın'ın bir ilçesi",
+      "answer": "ÇİNE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Başarı armağanı",
+      "answer": "ÖDÜL",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İnatçı hayvan",
+      "answer": "KEÇİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hükümdar ailesi",
+      "answer": "HANEDAN",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İnceleme, araştırma",
+      "answer": "ETÜT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Özellikle, bilhassa",
+      "answer": "HELE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gemi omurgası",
+      "answer": "KARİNA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ateşleme kapsülü",
+      "answer": "FÜNYE",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağ, örgüt",
+      "answer": "ŞEBEKE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ruhsal gerilim",
+      "answer": "STRES",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "orta",
+  "order": 127
+}

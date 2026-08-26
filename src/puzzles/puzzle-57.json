@@ -1,174 +1,146 @@
 {
   "id": "puzzle-57",
-  "title": "Bulmaca 122",
-  "rows": 12,
+  "title": "Bulmaca 66",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Temel öz",
-      "answer": "ESAS",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tutulan kimse",
-      "answer": "REHİNE",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Tuzlu bisküvi",
-      "answer": "KRAKER",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Tedavi kurumu",
-      "answer": "HASTANE",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Konuşma konusu",
-      "answer": "SADET",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üzüm içkisi",
-      "answer": "ŞARAP",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kızartılmış hamur",
-      "answer": "PİŞİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İspanya'da bir halk",
-      "answer": "BASK",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Mal çıkarma",
-      "answer": "ÜRETİM",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Demirci aracı",
-      "answer": "ÖRS",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Evlilik dışı ilişki",
-      "answer": "ZİNA",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ölçülü davranma",
-      "answer": "TEMKİN",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sert, kırıcı",
-      "answer": "HAŞİN",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Dost",
-      "answer": "ARKADAŞ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Alt karşıtı",
-      "answer": "ÜST",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İşsiz güçsüz",
-      "answer": "SERSERİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bile, üstelik",
-      "answer": "HATTA",
+      "text": "Evre, aşama",
+      "answer": "SAFHA",
       "row": 1,
-      "col": 4,
-      "arrow": "down"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "İçkili meclis",
-      "answer": "BEZM",
+      "text": "Ek kazanç",
+      "answer": "PRİM",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yarı karanlık",
+      "answer": "LOŞ",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Herkesçe bilinen",
+      "answer": "AFİŞE",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Basmalı düğme",
+      "answer": "ÇITÇIT",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bolluk",
+      "answer": "BEREKET",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Döşem",
+      "answer": "TESİSAT",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaban güvercini",
+      "answer": "ÜVEYİK",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mülk devri",
+      "answer": "FERAĞ",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Toplama işareti",
+      "answer": "ARTI",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İnceleme, araştırma",
+      "answer": "ETÜT",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Türemiş şey",
+      "answer": "TÜREV",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sert vuruş",
+      "answer": "SMAÇ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Pişmanlık, üzüntü",
+      "answer": "ESEF",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Su püskürteci",
+      "answer": "FISKİYE",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Şeffaf mineral",
-      "answer": "MİKA",
+      "text": "Sinek ilacı",
+      "answer": "FLİT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kullanışlı",
-      "answer": "PRATİK",
+      "text": "Savaş tutsağı",
+      "answer": "ESİR",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Nine",
-      "answer": "NENE",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yemek tepsisi",
-      "answer": "SİNİ",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yuvarlak başlık",
-      "answer": "BERE",
+      "text": "Güzel, sevimli",
+      "answer": "HOŞ",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bozulmamış, saf",
-      "answer": "AKMAN",
-      "row": 6,
+      "text": "Karadeniz teknesi",
+      "answer": "TAKA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ücretsiz yemekevi",
+      "answer": "AŞEVİ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -176,41 +148,33 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
     },
     {
       "row": 0,
       "col": 4
     },
     {
-      "row": 0,
+      "row": 4,
       "col": 6
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 7
     },
     {
       "row": 6,
-      "col": 6
+      "col": 7
     },
     {
       "row": 8,
-      "col": 0
+      "col": 7
     },
     {
-      "row": 11,
+      "row": 9,
       "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 122
+  "difficulty": "kolay",
+  "order": 66
 }

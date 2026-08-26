@@ -1,244 +1,188 @@
 {
   "id": "puzzle-13",
-  "title": "Bulmaca 136",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 47",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Çabuk, tez",
-      "answer": "ATİK",
+      "text": "İçkiye düşkün",
+      "answer": "ALKOLİK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uğraşı, merak",
-      "answer": "HOBİ",
-      "row": 1,
-      "col": 4,
+      "text": "Tayin",
+      "answer": "ATAMA",
+      "row": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yerinelemeli anlatım",
-      "answer": "ALEGORİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ehemmiyet",
-      "answer": "ÖNEM",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Maçın oynandığı yapı",
-      "answer": "STAT",
+      "text": "Gürültü patırtı",
+      "answer": "ŞAMATA",
       "row": 3,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Toplumsal konum",
-      "answer": "STATÜ",
+      "text": "Halk dilinde çocuk",
+      "answer": "ÇAĞA",
       "row": 4,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Matematik eşitliği",
-      "answer": "DENKLEM",
+      "text": "Zeytinden çıkan",
+      "answer": "YAĞ",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mal, mülk",
-      "answer": "MİRAS",
+      "text": "Rehber",
+      "answer": "KILAVUZ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mizaç, tabiat",
-      "answer": "HUY",
+      "text": "Deneyimsiz, toy",
+      "answer": "ACEMİ",
       "row": 7,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gemi yöneticisi",
-      "answer": "KAPTAN",
+      "text": "Isırık hastalığı",
+      "answer": "KUDUZ",
       "row": 8,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sıvı",
-      "answer": "MAYİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Birey",
-      "answer": "FERT",
+      "text": "Japon çizgi filmi",
+      "answer": "ANİME",
       "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Gezici",
-      "answer": "SEYYAR",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Katmerli çörek",
-      "answer": "KETE",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İnternette bağlantı",
-      "answer": "LİNK",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İki kişilik bisiklet",
-      "answer": "TANDEM",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Derin çanak",
-      "answer": "KASE",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Birliktelik bağlacı",
-      "answer": "İLE",
-      "row": 0,
       "col": 2,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Sonunda",
-      "answer": "NİHAYET",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kötü, fena",
-      "answer": "KEM",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kumarhane görevlisi",
-      "answer": "KRUPİYE",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Saydam görüntü",
-      "answer": "SLAYT",
+      "text": "Bir tür şalvar",
+      "answer": "ÇAKŞIR",
       "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tımar aracı",
+      "answer": "KAŞAĞI",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Padişah çadırı",
+      "answer": "OTAĞ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yoldaki çukur",
+      "answer": "LAKA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "And hayvanı",
+      "answer": "LAMA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kabin memuru",
-      "answer": "HOSTES",
+      "text": "Dünya, evren",
+      "answer": "ACUN",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstü kapalı anlatma",
+      "answer": "İMA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Şaşkın, bilemeyen",
-      "answer": "AFAL",
-      "row": 7,
+      "text": "Acele yapılan",
+      "answer": "İVEDİ",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Koşullar bütünü",
-      "answer": "ORTAM",
+      "text": "Maddenin sert hâli",
+      "answer": "KATI",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Teklif",
-      "answer": "ÖNERİ",
-      "row": 6,
+      "text": "Bütün, herkes",
+      "answer": "UMUM",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yönetici itaati",
-      "answer": "BİAT",
-      "row": 0,
+      "text": "Kutsal kadın",
+      "answer": "AZİZE",
+      "row": 4,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce seyrek bez",
-      "answer": "TÜLBENT",
-      "row": 2,
-      "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 1
     },
     {
       "row": 0,
-      "col": 8
-    },
-    {
-      "row": 5,
       "col": 7
     },
     {
-      "row": 6,
+      "row": 1,
       "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 0
     },
     {
       "row": 7,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 7
-    },
-    {
       "row": 8,
-      "col": 7
+      "col": 0
     },
     {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 8
+      "row": 9,
+      "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 136
+  "difficulty": "kolay",
+  "order": 47
 }

@@ -1,174 +1,132 @@
 {
   "id": "puzzle-64",
-  "title": "Bulmaca 135",
-  "rows": 12,
+  "title": "Bulmaca 141",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Sözleşme, bağıt",
-      "answer": "AKİT",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tanrı hizmetkârı",
-      "answer": "KUL",
+      "text": "Dava vekili",
+      "answer": "AVUKAT",
       "row": 1,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bilgiçlik taslayan",
-      "answer": "UKALA",
+      "text": "Osmanlı gece bekçisi",
+      "answer": "ASES",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Savaş tutsağı",
-      "answer": "ESİR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Metal kızgınlığı",
-      "answer": "TAV",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Dolap, oyun",
-      "answer": "ENTRİKA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski ağırlık ölçüsü",
-      "answer": "OKKA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dünya",
-      "answer": "YERKÜRE",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yakın karşıtı",
-      "answer": "UZAK",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yol engeli",
-      "answer": "BARİKAT",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Geleceği bildirme",
-      "answer": "KEHANET",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kumar oyunu",
-      "answer": "RULET",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Toprak parçası",
-      "answer": "KESEK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Akılda tutma",
-      "answer": "EZBER",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yadsıma",
-      "answer": "İNKAR",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ceylan",
-      "answer": "AHU",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kakaolu pasta",
-      "answer": "TURTA",
-      "row": 0,
       "col": 3,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Temel ilke",
-      "answer": "KURAL",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
+      "text": "Reklamla duyurma",
+      "answer": "TANITIM",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "On iki parça",
-      "answer": "DÜZİNE",
+      "text": "Savunma aracı",
+      "answer": "SİLAH",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tuzsuz su",
+      "answer": "TATLISU",
       "row": 5,
-      "col": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Minareden okunan sela",
+      "answer": "SALA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Belirtke",
+      "answer": "AMBLEM",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sırbistan halkından",
+      "answer": "SIRP",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sol'den sonraki nota",
+      "answer": "LA",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yer altı kayacı",
+      "answer": "MAGMA",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Çarşı sokağı",
+      "answer": "ARASTA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tehlike işareti",
+      "answer": "ALARM",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Mürekkepli mühür yastığı",
+      "answer": "ISTAMPA",
+      "row": 2,
+      "col": 3,
       "arrow": "down"
     },
     {
       "text": "İnsan öldüren",
       "answer": "KATİL",
       "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Havada duran",
+      "answer": "ASILI",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tenis aracı",
-      "answer": "RAKET",
+      "text": "Dokunma, ilişki",
+      "answer": "TEMAS",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Göz rengi",
+      "answer": "ELA",
       "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Haber götüren kimse",
-      "answer": "ULAK",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Mal paylaşımı",
-      "answer": "ZEKAT",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce ekmek",
-      "answer": "LAVAŞ",
-      "row": 0,
+      "text": "Koyu renkli meyve",
+      "answer": "HURMA",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -176,41 +134,53 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 6,
       "col": 4
     },
     {
       "row": 6,
-      "col": 7
-    },
-    {
-      "row": 7,
-      "col": 7
+      "col": 5
     },
     {
       "row": 8,
+      "col": 4
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 6
-    },
-    {
-      "row": 11,
+      "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 135
+  "difficulty": "orta",
+  "order": 141
 }

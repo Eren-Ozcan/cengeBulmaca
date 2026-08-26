@@ -1,0 +1,185 @@
+{
+  "id": "puzzle-281",
+  "title": "Bulmaca 59",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Silindir tavan",
+      "answer": "TONOZ",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Adını belirterek",
+      "answer": "İSMEN",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İçme miktarı",
+      "answer": "YUDUM",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce kadın sesi",
+      "answer": "SOPRANO",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayakyolu",
+      "answer": "TUVALET",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "En yüksek rütbe",
+      "answer": "MAREŞAL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Balık tutan kimse",
+      "answer": "BALIKÇI",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Zamanında olan",
+      "answer": "DAKİK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Su buharı",
+      "answer": "SİS",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tütün rengi",
+      "answer": "TABA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Oturulacak şey",
+      "answer": "OTURAK",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses aygıtı",
+      "answer": "TEYP",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sorumlu kimse",
+      "answer": "VELİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Şeref, haysiyet",
+      "answer": "ONUR",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Vurgun, tutkun",
+      "answer": "AŞIK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Saçsız kafa",
+      "answer": "DAZLAK",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yakacak parça",
+      "answer": "ODUN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Devlet temsilcisi",
+      "answer": "ELÇİ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalın dış giysi",
+      "answer": "MONT",
+      "row": 2,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 59
+}

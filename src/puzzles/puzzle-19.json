@@ -1,264 +1,196 @@
 {
   "id": "puzzle-19",
-  "title": "Bulmaca 89",
-  "rows": 13,
-  "cols": 9,
+  "title": "Bulmaca 56",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Yankı bilimi",
-      "answer": "AKUSTİK",
+      "text": "Yemek isteği",
+      "answer": "İŞTAH",
       "row": 0,
-      "col": 2,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İkinci Yunan harfi",
-      "answer": "BETA",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sibirya ırmağı",
-      "answer": "LENA",
+      "text": "Seçim tercihi",
+      "answer": "OY",
+      "row": 0,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Erzurum ilçesi",
+      "answer": "OLTU",
       "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Hoş koku",
-      "answer": "MİS",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kuruyan Orta Asya gölü",
-      "answer": "ARAL",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İnanç, görüş",
-      "answer": "KANI",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Cilalı deri",
-      "answer": "LAKE",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Ameliyat uyutması",
-      "answer": "NARKOZ",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Denizci",
-      "answer": "GEMİCİ",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Suçlama",
-      "answer": "İTHAM",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Başıboş",
-      "answer": "AVARE",
-      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Aşırı tutkun",
-      "answer": "FANATİK",
-      "row": 9,
+      "text": "Gizli söz",
+      "answer": "PAROLA",
+      "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sürat",
-      "answer": "HIZ",
-      "row": 10,
+      "text": "Özelliksiz",
+      "answer": "SIRADAN",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yaygınlaşmış haber",
-      "answer": "ŞAYİ",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Darıdan içecek",
-      "answer": "BOZA",
-      "row": 10,
+      "text": "'Sen'in yönelme hâli",
+      "answer": "SANA",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İbadet",
-      "answer": "AMEL",
-      "row": 11,
+      "text": "Yay silahı",
+      "answer": "OK",
+      "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Dar keçiyolu",
-      "answer": "PATİKA",
-      "row": 12,
+      "text": "Kötü, alçak, soysuz",
+      "answer": "HABİS",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Geçici bırakılan",
-      "answer": "EMANET",
+      "text": "Gümüş element",
+      "answer": "NİKEL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saydam görüntü",
+      "answer": "SLAYT",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Madenî para",
+      "answer": "SİKKE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gerçek, hakiki",
+      "answer": "SAHİCİ",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Mabet",
+      "answer": "TAPINAK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğulu müzik türü",
+      "answer": "ARABESK",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Balkan oyunu",
+      "answer": "HORA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Mutlaka, illa",
+      "answer": "İLLE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Güneybatı rüzgârı",
+      "answer": "LODOS",
       "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Dikkat sözü",
-      "answer": "HOP",
-      "row": 9,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yunanistan'ın başkenti",
-      "answer": "ATİNA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Beynin arşivi",
-      "answer": "HAFIZA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çok güçlü fırtına",
-      "answer": "KASIRGA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Serbest bırakma",
-      "answer": "AZAT",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yaylı çalgı",
-      "answer": "KEMAN",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kayakta engel geçişi",
-      "answer": "SLALOM",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yırtıcı kedigil",
-      "answer": "VAŞAK",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tartı aleti",
-      "answer": "TERAZİ",
+      "text": "Otlatma yeri",
+      "answer": "OTLAK",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tayin",
-      "answer": "ATAMA",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Dogma",
-      "answer": "İNAK",
+      "text": "Çin para birimi",
+      "answer": "YUAN",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Saray kölesi",
-      "answer": "CARİYE",
+      "text": "Spor bahsi",
+      "answer": "TOTO",
       "row": 5,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaleyi koruyan",
-      "answer": "KALECİ",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Tohumlu tarla",
-      "answer": "EKİLİ",
-      "row": 7,
-      "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 4
+      "col": 3
     },
     {
-      "row": 8,
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
-      "row": 8,
+      "row": 2,
       "col": 1
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 5
     },
     {
-      "row": 12,
-      "col": 7
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 89
+  "difficulty": "kolay",
+  "order": 56
 }

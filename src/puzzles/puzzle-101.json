@@ -1,140 +1,133 @@
 {
   "id": "puzzle-101",
-  "title": "Bulmaca 25",
+  "title": "Bulmaca 189",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Kırmızı değerli taş",
-      "answer": "YAKUT",
+      "text": "Sahne dansı",
+      "answer": "BALE",
       "row": 1,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zevk, hoşlanma",
-      "answer": "BEĞENİ",
+      "text": "Kilit açan araç",
+      "answer": "ANAHTAR",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bölük-alay arası",
-      "answer": "TABUR",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
+      "text": "Nispet",
+      "answer": "ORAN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Doktor kâğıdı",
-      "answer": "REÇETE",
+      "text": "Kongre ilimiz",
+      "answer": "SİVAS",
       "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Geniş karşıtı",
-      "answer": "DAR",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kâğıt klipsi",
-      "answer": "ATAŞ",
-      "row": 5,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Duvar kireci",
-      "answer": "BADANA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ayak düzeni",
-      "answer": "PEDAL",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Arkasından gitme",
-      "answer": "TAKİP",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İstek, ilgi",
-      "answer": "RAĞBET",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kâfi",
-      "answer": "YETER",
-      "row": 0,
       "col": 2,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Kara parçası",
-      "answer": "ADA",
+      "text": "Döviz işlemi",
+      "answer": "KAMBİYO",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yırtıcı iri kuş",
+      "answer": "KARTAL",
       "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yılbaşı ağacı",
+      "answer": "KÖKNAR",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yapıştırıcı madde",
+      "answer": "ZAMK",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kürk başlık",
+      "answer": "BÖRK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "17-18. yüzyıl üslubu",
+      "answer": "BAROK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Anne",
+      "answer": "ANA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Odunsu bitki",
-      "answer": "AĞAÇ",
+      "text": "Aşırı ısınmış",
+      "answer": "AKKOR",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ürün tanıtımı",
+      "answer": "LANSMAN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Adanan şey, nezir",
-      "answer": "ADAK",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaba yün kumaş",
-      "answer": "KEBE",
+      "text": "Olur, peki",
+      "answer": "EH",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İkincil, ikinci derece",
-      "answer": "TALİ",
-      "row": 5,
+      "text": "Ortaya koyma",
+      "answer": "İBRAZ",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çabuk unutan",
-      "answer": "UNUTKAN",
-      "row": 0,
+      "text": "Renkli cam bezeme",
+      "answer": "VİTRAY",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Pamuk ipliği",
-      "answer": "TİRE",
+      "text": "Tropik sarı meyve",
+      "answer": "PAPAYA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Zemin sıvası",
-      "answer": "ŞAP",
-      "row": 5,
-      "col": 6,
+      "text": "Nefes",
+      "answer": "SOLUK",
+      "row": 3,
+      "col": 7,
       "arrow": "down"
     }
   ],
@@ -145,29 +138,45 @@
     },
     {
       "row": 0,
-      "col": 1
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 4,
       "col": 0
     },
     {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 5
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 4
     },
     {
       "row": 9,
       "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 25
+  "difficulty": "zor",
+  "order": 189
 }

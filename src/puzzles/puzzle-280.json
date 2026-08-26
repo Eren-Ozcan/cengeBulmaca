@@ -1,0 +1,186 @@
+{
+  "id": "puzzle-280",
+  "title": "Bulmaca 119",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Aşağı karşıtı",
+      "answer": "YUKARI",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sihir",
+      "answer": "BÜYÜ",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kitap yazan",
+      "answer": "YAZAR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Cesur",
+      "answer": "YÜREKLİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Deriye konan ilaç",
+      "answer": "YAKI",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çıkıntılı bölüm",
+      "answer": "CUMBA",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ot biçme aracı",
+      "answer": "TIRPAN",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Küçük kemirgen",
+      "answer": "FARE",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kötü, bozuk",
+      "answer": "FASİT",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayvan ölüsü",
+      "answer": "LEŞ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Kadın unvanı",
+      "answer": "BAYAN",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Parmak halkası",
+      "answer": "YÜZÜK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Uyandıran",
+      "answer": "UYARICI",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Top cismi",
+      "answer": "KÜRE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Peygamberler şehri",
+      "answer": "URFA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gizli plan",
+      "answer": "KUMPAS",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hiç değilse",
+      "answer": "BARİ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Din işleri",
+      "answer": "DİYANET",
+      "row": 2,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 1
+    }
+  ],
+  "difficulty": "orta",
+  "order": 119
+}

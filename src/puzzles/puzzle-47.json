@@ -1,126 +1,154 @@
 {
   "id": "puzzle-47",
-  "title": "Bulmaca 109",
+  "title": "Bulmaca 112",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Parlak kaplama",
-      "answer": "VERNİK",
-      "row": 1,
-      "col": 0,
-      "arrow": "right"
+      "text": "Tasavvuf yolu",
+      "answer": "TARİKAT",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Yankı",
-      "answer": "EKO",
+      "text": "Erimiş kayaç",
+      "answer": "LAV",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Vücut örtüsü",
+      "answer": "DERİ",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Açılan koltuk",
-      "answer": "ÇEKYAT",
-      "row": 2,
+      "text": "Yıllık",
+      "answer": "ALMANAK",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Davranış, işlem",
+      "answer": "MUAMELE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Leh dansı",
+      "answer": "MAZURKA",
+      "row": 5,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Gezi sektörü",
-      "answer": "TURİZM",
-      "row": 3,
+      "text": "Cilt bağı",
+      "answer": "ŞİRAZE",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gerçek, somut",
-      "answer": "REEL",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kokulu mor çiçek",
-      "answer": "LAVANTA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ağacın kolu",
-      "answer": "DAL",
-      "row": 7,
+      "text": "Yanık şeker",
+      "answer": "KARAMEL",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kıyı evi",
-      "answer": "YALI",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tanıtım",
-      "answer": "REKLAM",
+      "text": "Konu dışı",
+      "answer": "AFAKİ",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Osmanlı saray görevlisi",
-      "answer": "ÇUHADAR",
-      "row": 2,
+      "text": "Yemek",
+      "answer": "TAAM",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şayet",
-      "answer": "EĞER",
+      "text": "Şeffaf mineral",
+      "answer": "MİKA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapı içi bahçe",
+      "answer": "AVLU",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İskambilde bacak",
-      "answer": "VALE",
+      "text": "Cennetle cehennem arası",
+      "answer": "ARAF",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kiraya verilen",
-      "answer": "KİRALIK",
+      "text": "Görünüm",
+      "answer": "MANZARA",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ney çalan",
-      "answer": "NEYZEN",
+      "text": "Ölüm cezası",
+      "answer": "İDAM",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bir yerde oturma",
-      "answer": "İKAMET",
+      "text": "Yakın karşıtı",
+      "answer": "UZAK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kan emen asalak",
+      "answer": "KENE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Blucin kumaşı",
-      "answer": "KOT",
+      "text": "Kağıt oyunu",
+      "answer": "REMİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yılın son ayı",
+      "answer": "ARALIK",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Atık kanalı",
-      "answer": "LAĞIM",
-      "row": 4,
-      "col": 6,
+      "text": "Küçük lokma",
+      "answer": "TİKE",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Akılla ilgili",
+      "answer": "AKLİ",
+      "row": 5,
+      "col": 7,
       "arrow": "down"
     }
   ],
@@ -131,33 +159,21 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 3
     },
     {
-      "row": 2,
+      "row": 5,
       "col": 0
     },
     {
       "row": 7,
-      "col": 4
+      "col": 6
     },
     {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 5
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "orta",
-  "order": 109
+  "order": 112
 }

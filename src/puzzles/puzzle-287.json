@@ -1,0 +1,186 @@
+{
+  "id": "puzzle-287",
+  "title": "Bulmaca 173",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Dış satım",
+      "answer": "İHRACAT",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Oksit tabakası",
+      "answer": "PAS",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Polonya'nın başkenti",
+      "answer": "VARŞOVA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Devrim ayaklanması",
+      "answer": "İHTİLAL",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Şehir",
+      "answer": "KENT",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Aykırılık bağlacı",
+      "answer": "FAKAT",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zurnalı oyun",
+      "answer": "HALAY",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Erkeğin eşi",
+      "answer": "ZEVCE",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Üstün bilgili",
+      "answer": "ÜSTAT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kapsayan",
+      "answer": "HAVİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaba güldürü",
+      "answer": "FARS",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Durumlar, haller, vaziyetler",
+      "answer": "AHVAL",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ana atardamar",
+      "answer": "AORT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İstemsiz olay",
+      "answer": "KAZA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yakınma",
+      "answer": "ŞİKAYET",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Omuzdaki rütbe",
+      "answer": "APOLET",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Oda üstü",
+      "answer": "TAVAN",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Havada dönme",
+      "answer": "SALTO",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
+    }
+  ],
+  "difficulty": "zor",
+  "order": 173
+}

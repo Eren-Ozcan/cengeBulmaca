@@ -1,171 +1,182 @@
 {
   "id": "puzzle-164",
-  "title": "Bulmaca 22",
+  "title": "Bulmaca 133",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Beden sağlığı",
-      "answer": "SIHHAT",
+      "text": "Diri, canlı",
+      "answer": "ZİNDE",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Cam kap",
-      "answer": "ŞİŞE",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sıvı metal",
-      "answer": "CIVA",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kirpik boyası",
-      "answer": "RİMEL",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kışlık giysi",
-      "answer": "MANTO",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kulak süsü",
-      "answer": "KÜPE",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Zıplama sesi",
-      "answer": "ZIP",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hafif uykulu",
-      "answer": "SAK",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İçten gelen dürtü",
-      "answer": "İTKİ",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ata dizisi",
-      "answer": "SOY",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bağlama ipi",
-      "answer": "SİCİM",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Işık yayma",
-      "answer": "IŞIMA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dizilmiş meyve",
-      "answer": "HEVENK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Karmakarışık",
-      "answer": "ALTÜST",
+      "text": "Talih",
+      "answer": "ŞANS",
       "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Doldurulmuş döşek",
+      "answer": "ŞİLTE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Veteriner",
+      "answer": "BAYTAR",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Halk dilinde çadır",
+      "answer": "OTAK",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Panzehir",
+      "answer": "ANTİDOT",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Anlaşmazlık",
+      "answer": "İHTİLAF",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tüylü yeşil meyve",
+      "answer": "KİVİ",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Vuruş sesi",
+      "answer": "ŞAK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güzel kokulu madde",
+      "answer": "MİSK",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağaç levha",
+      "answer": "TAHTA",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Nal çakan",
+      "answer": "NALBANT",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yöntem, tabiye",
+      "answer": "TAKTİK",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Cinsiyet",
+      "answer": "EŞEY",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Donuk, mat",
-      "answer": "OPAK",
-      "row": 4,
+      "text": "Bilim, bilgi",
+      "answer": "İLİM",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sağaltma",
+      "answer": "TEDAVİ",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Adet",
-      "answer": "TANE",
-      "row": 0,
+      "text": "Büro",
+      "answer": "OFİS",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Takım, kadro",
-      "answer": "EKİP",
-      "row": 5,
-      "col": 6,
+      "text": "Yüz",
+      "answer": "SURAT",
+      "row": 1,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 3,
-      "col": 5
-    },
-    {
-      "row": 6,
       "col": 1
     },
     {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 9,
+      "row": 0,
       "col": 3
     },
     {
-      "row": 9,
-      "col": 4
+      "row": 0,
+      "col": 5
     },
     {
-      "row": 9,
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
       "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 22
+  "difficulty": "orta",
+  "order": 133
 }

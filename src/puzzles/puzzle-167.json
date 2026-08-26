@@ -1,148 +1,152 @@
 {
   "id": "puzzle-167",
-  "title": "Bulmaca 60",
+  "title": "Bulmaca 93",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Ayın dolgun hâli",
-      "answer": "DOLUNAY",
+      "text": "İstinat noktası",
+      "answer": "DAYANAK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Birinci çoğul",
-      "answer": "BİZ",
+      "text": "Mesele",
+      "answer": "SORUN",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İzmir ilçesi",
-      "answer": "BUCA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üniversite başı",
-      "answer": "REKTÖR",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Nargile bölümü",
-      "answer": "LÜLE",
-      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Deniz yüksekliği",
-      "answer": "RAKIM",
+      "text": "Rafinaj",
+      "answer": "ARITIM",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yün giysi",
+      "answer": "KAZAK",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Misilleme cezası",
+      "answer": "KISAS",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Geçimi zor",
-      "answer": "YOKSUL",
+      "text": "Bakiye",
+      "answer": "KALINTI",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gizli bilgi",
-      "answer": "SIR",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Kar kütlesi",
+      "answer": "ÇIĞ",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Yürekli olmayan",
-      "answer": "KORKAK",
+      "text": "İçeri karşıtı",
+      "answer": "DIŞARI",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çok yiyen",
-      "answer": "OBUR",
+      "text": "Ağacı bol yer",
+      "answer": "AĞAÇLIK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sarhoş karşıtı",
-      "answer": "AYIK",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Diyarbakır ilçesi",
-      "answer": "LİCE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Şarkı topluluğu",
-      "answer": "KORO",
+      "text": "Şeker, para",
+      "answer": "SAÇI",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Mesafe ölçüsü",
-      "answer": "UZAKLIK",
+      "text": "Kızgın, somurtkan (yüz)",
+      "answer": "ASIK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Küçük tepe",
-      "answer": "TÜMSEK",
-      "row": 3,
+      "text": "Satış karşıtı",
+      "answer": "ALIŞ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses işareti",
+      "answer": "NOTA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Üreme ürünü",
-      "answer": "DÖL",
-      "row": 2,
+      "text": "Kapasite",
+      "answer": "SIĞA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sonradan çıkan",
+      "answer": "ARIZİ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Oyuncu sözü",
-      "answer": "REPLİK",
-      "row": 3,
+      "text": "İkinci eş",
+      "answer": "KUMA",
+      "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Koruyucu kap",
+      "answer": "KILIF",
+      "row": 3,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 2
     },
     {
       "row": 0,
-      "col": 5
+      "col": 7
     },
     {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 4
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
       "col": 6
     },
     {
@@ -150,14 +154,26 @@
       "col": 5
     },
     {
+      "row": 6,
+      "col": 6
+    },
+    {
       "row": 8,
-      "col": 3
+      "col": 0
     },
     {
       "row": 8,
       "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 60
+  "order": 93
 }

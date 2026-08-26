@@ -1,172 +1,152 @@
 {
   "id": "puzzle-79",
-  "title": "Bulmaca 130",
-  "rows": 12,
+  "title": "Bulmaca 63",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yığılma",
-      "answer": "BİRİKİM",
-      "row": 0,
+      "text": "Tek sanatçı dinletisi",
+      "answer": "RESİTAL",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Misafir",
-      "answer": "KONUK",
+      "text": "Eleme aracı",
+      "answer": "ELEK",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Güvence poliçesi",
-      "answer": "SİGORTA",
-      "row": 2,
+      "text": "Kilise çancısı",
+      "answer": "ZANGOÇ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Fauna",
+      "answer": "DİREY",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Acıklı, korkunç",
+      "answer": "FECİ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yapı alanı",
-      "answer": "ŞANTİYE",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yağsız peynir",
-      "answer": "KEŞ",
-      "row": 5,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kabuklu güz yemişi",
-      "answer": "KESTANE",
+      "text": "Deniz parıltısı",
+      "answer": "YAKAMOZ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kutsal varlık",
-      "answer": "MELEK",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Mevsimlik rüzgâr",
-      "answer": "MUSON",
-      "row": 7,
+      "text": "Alıcı cihaz",
+      "answer": "ALMAÇ",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ayakkabı kaşığı",
-      "answer": "ÇEKECEK",
-      "row": 9,
+      "text": "Askeri bölge",
+      "answer": "ÜS",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uzun giysi",
-      "answer": "TUNİK",
-      "row": 9,
+      "text": "Duvar birleşimi",
+      "answer": "KÖŞE",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Müşteri",
+      "answer": "ALICI",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Lifli halat bitkisi",
-      "answer": "KENEVİR",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Orta oyunu uşağı",
-      "answer": "İBİŞ",
-      "row": 0,
+      "text": "Dokuzuncu ay",
+      "answer": "EYLÜL",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Lastik özsuyu",
-      "answer": "KAUÇUK",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Amaç, erek",
-      "answer": "GAYE",
-      "row": 2,
+      "text": "Cam gibi saydam",
+      "answer": "CAMSI",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yıl",
-      "answer": "SENE",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dini tasvir; simge",
-      "answer": "İKON",
+      "text": "İşçi örgütü",
+      "answer": "SENDİKA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Erkek gece kıyafeti",
-      "answer": "SMOKİN",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tenis sahası",
-      "answer": "KORT",
+      "text": "Alaka",
+      "answer": "İLGİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kalaylı sac",
-      "answer": "TENEKE",
+      "text": "Yüzey parlatma",
+      "answer": "AÇKI",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Geçiş",
-      "answer": "İNTİKAL",
+      "text": "Kanıtlanan önerme",
+      "answer": "TEOREM",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hekim bakısı",
-      "answer": "MUAYENE",
+      "text": "Osmanlı parası",
+      "answer": "AKÇE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Uzun kulaklı hayvan",
-      "answer": "EŞEK",
-      "row": 3,
-      "col": 7,
+      "text": "Bir işaret sıfatı",
+      "answer": "ŞU",
+      "row": 7,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Döviz oranı",
-      "answer": "KUR",
-      "row": 8,
+      "text": "Yüzer oran",
+      "answer": "YÜZDE",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
     {
       "row": 0,
       "col": 2
@@ -176,30 +156,34 @@
       "col": 7
     },
     {
-      "row": 1,
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
       "col": 7
     },
     {
       "row": 5,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
       "col": 6
     },
     {
-      "row": 10,
+      "row": 7,
       "col": 5
     },
     {
-      "row": 10,
-      "col": 6
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 130
+  "difficulty": "kolay",
+  "order": 63
 }

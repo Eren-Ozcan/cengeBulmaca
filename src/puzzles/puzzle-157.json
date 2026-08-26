@@ -1,147 +1,133 @@
 {
   "id": "puzzle-157",
-  "title": "Bulmaca 76",
+  "title": "Bulmaca 132",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Hasta tedavicisi",
-      "answer": "TABİP",
+      "text": "Nişasta bulamacı",
+      "answer": "KOLA",
       "row": 0,
-      "col": 2,
+      "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Hortum fırtınası",
-      "answer": "TORNADO",
+      "text": "Elâzığ ilçesi",
+      "answer": "PALU",
       "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Aday",
-      "answer": "NAMZET",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Geminin arkası",
-      "answer": "PUPA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tır kasası",
-      "answer": "DORSE",
-      "row": 6,
       "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Viran",
+      "answer": "HARAP",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kitap satan",
+      "answer": "KİTAPÇI",
+      "row": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uçak barınağı",
-      "answer": "HANGAR",
+      "text": "Terazi gözü",
+      "answer": "KEFE",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ev ayakkabısı",
+      "answer": "TERLİK",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gönlü zor",
+      "answer": "NAZLI",
       "row": 7,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Donanma",
-      "answer": "ARMADA",
+      "text": "Aile işareti",
+      "answer": "ARMA",
       "row": 8,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yeşil yapraklı sebze",
-      "answer": "ISPANAK",
+      "text": "Bina bölümü",
+      "answer": "KAT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şeref, haysiyet",
-      "answer": "ONUR",
+      "text": "Ulaşım belgesi",
+      "answer": "PASO",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bağlanmış nesne",
+      "answer": "PAKET",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Katıksız, saf",
-      "answer": "HAS",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hendek, tuzak",
-      "answer": "TRAP",
+      "text": "Fiyat çizelgesi",
+      "answer": "TARİFE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dövme, vurma",
-      "answer": "DARP",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Hatırlama töreni",
-      "answer": "ANMA",
-      "row": 0,
+      "text": "Kollu sandık çalgısı",
+      "answer": "LATERNA",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İyileşme, şifa",
-      "answer": "ONMA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Asit karşıtı",
-      "answer": "BAZ",
+      "text": "Şampiyonluk ödülü",
+      "answer": "KUPA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İnce halat",
-      "answer": "URGAN",
-      "row": 4,
+      "text": "Ansızın, birdenbire",
+      "answer": "LARP",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Felsefede düşünce",
-      "answer": "İDEA",
-      "row": 0,
+      "text": "Işık ayrıştıran cisim",
+      "answer": "PRİZMA",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ses, seda",
-      "answer": "SADA",
+      "text": "Üstün, seçkin",
+      "answer": "KLAS",
       "row": 5,
-      "col": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Poker parası",
-      "answer": "POT",
+      "text": "Bronş hastalığı",
+      "answer": "ASTIM",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Öğrenme isteği",
-      "answer": "MERAK",
-      "row": 4,
-      "col": 6,
+      "col": 7,
       "arrow": "down"
     }
   ],
@@ -155,14 +141,54 @@
       "col": 1
     },
     {
-      "row": 5,
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
       "col": 0
     },
     {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
       "row": 6,
+      "col": 7
+    },
+    {
+      "row": 7,
       "col": 0
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 76
+  "order": 132
 }

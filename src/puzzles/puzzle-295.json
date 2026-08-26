@@ -1,0 +1,172 @@
+{
+  "id": "puzzle-295",
+  "title": "Bulmaca 137",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Uzun boyunlu hayvan",
+      "answer": "ZÜRAFA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kan kanseri",
+      "answer": "LÖKOZ",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Geçici alınan",
+      "answer": "ÖDÜNÇ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Deniz, umman",
+      "answer": "DERYA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ağaçlık alan",
+      "answer": "ORMAN",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çabuk gücenen",
+      "answer": "ALINGAN",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Soğuk-sıcak arası",
+      "answer": "ILIK",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Pınar, memba",
+      "answer": "KAYNAK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hususiyet",
+      "answer": "ÖZELLİK",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Akarsu birikintisi",
+      "answer": "ALÜVYON",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Saç kurutma",
+      "answer": "FÖN",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yorgun, bitkin, mecalsiz",
+      "answer": "ARGIN",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyazımsı",
+      "answer": "AKÇA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Harç aracı",
+      "answer": "MALA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanmış olan",
+      "answer": "YANIK",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Veciz",
+      "answer": "ÖZLÜ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 2
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 7
+    }
+  ],
+  "difficulty": "orta",
+  "order": 137
+}

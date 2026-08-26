@@ -1,126 +1,147 @@
 {
   "id": "puzzle-109",
-  "title": "Bulmaca 73",
+  "title": "Bulmaca 77",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Beden-zihin sistemi",
-      "answer": "YOGA",
+      "text": "Aynı atom numarası",
+      "answer": "İZOTOP",
       "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ağaç aracı",
-      "answer": "BALTA",
+      "text": "Su üstü çiçeği",
+      "answer": "NİLÜFER",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Saygısız",
-      "answer": "KÜSTAH",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yürüme desteği",
-      "answer": "BASTON",
-      "row": 3,
+      "text": "Kırmızı, küçük meyve",
+      "answer": "ÇİLEK",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yurt sevgisi",
-      "answer": "HAMİYET",
+      "text": "Satıh",
+      "answer": "YÜZEY",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Arap el yazısı",
+      "answer": "RİKA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Seyirci basamağı",
+      "answer": "TRİBÜN",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Asker su kabı",
-      "answer": "MATARA",
+      "text": "Kısa fıkra",
+      "answer": "ANEKDOT",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bağlama",
-      "answer": "SAZ",
+      "text": "Dini tasvir; simge",
+      "answer": "İKON",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Oranlama",
-      "answer": "KIYAS",
+      "text": "Parlak kumaş",
+      "answer": "SATEN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gizli sapma",
-      "answer": "KAÇAMAK",
-      "row": 2,
+      "text": "Alçalan yol",
+      "answer": "İNİŞ",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Top mermisi",
-      "answer": "OBÜS",
+      "text": "Dans",
+      "answer": "RAKS",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çalma aracı",
+      "answer": "ZİL",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Servi türü ağaç",
-      "answer": "MAZI",
-      "row": 5,
+      "text": "Amerika tahılı",
+      "answer": "KİNOA",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Mide iltihabı",
-      "answer": "GASTRİT",
+      "text": "Sevinç ünlemi",
+      "answer": "OLEY",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kalın kadın sesi",
-      "answer": "ALTO",
+      "text": "Set, baraj",
+      "answer": "BENT",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağız salgısı",
+      "answer": "TÜKÜRÜK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Onarım parçası",
-      "answer": "YAMA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Akaryakıt gemisi",
-      "answer": "TANKER",
-      "row": 1,
+      "text": "Bıkkınlık ünlemi",
+      "answer": "OF",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Satrançta kral",
-      "answer": "ŞAH",
+      "text": "Karanlık hapis",
+      "answer": "ZİNDAN",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bal yapısı",
+      "answer": "PETEK",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Metal kap",
-      "answer": "TAS",
-      "row": 5,
-      "col": 6,
+      "text": "Baş desteği",
+      "answer": "YASTIK",
+      "row": 3,
+      "col": 7,
       "arrow": "down"
     }
   ],
@@ -131,33 +152,33 @@
     },
     {
       "row": 0,
-      "col": 1
+      "col": 7
     },
     {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 0
+      "row": 1,
+      "col": 7
     },
     {
       "row": 4,
+      "col": 0
+    },
+    {
+      "row": 6,
       "col": 6
     },
     {
       "row": 8,
-      "col": 3
+      "col": 4
     },
     {
       "row": 8,
-      "col": 5
+      "col": 6
     },
     {
       "row": 9,
       "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 73
+  "difficulty": "kolay",
+  "order": 77
 }

@@ -1,160 +1,146 @@
 {
   "id": "puzzle-216",
-  "title": "Bulmaca 87",
-  "rows": 11,
+  "title": "Bulmaca 167",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Hükümdar ailesi",
-      "answer": "HANEDAN",
+      "text": "Para saçan",
+      "answer": "HOVARDA",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çevrilen oyuncak",
+      "answer": "TOPAÇ",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gözün renkli bölümü",
-      "answer": "İRİS",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Şişmiş",
-      "answer": "ŞİŞKİN",
+      "text": "Balık tutan kimse",
+      "answer": "BALIKÇI",
       "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yazının üstündeki söz",
-      "answer": "BAŞLIK",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cimri kimse",
-      "answer": "PİNTİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İçilen bitki",
-      "answer": "ÇAY",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Priz ucu",
-      "answer": "FİŞ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dahi sözü",
-      "answer": "BİLE",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bilgisiz kimse",
-      "answer": "CAHİL",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kebap çubuğu",
-      "answer": "ŞİŞ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Saat başını geçerek",
-      "answer": "GEÇE",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kar taşıtı",
-      "answer": "KIZAK",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eşsiz, tek",
-      "answer": "BİRİCİK",
+      "text": "El-kol arası",
+      "answer": "BİLEK",
       "row": 3,
-      "col": 1,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Söz kesme",
-      "answer": "NİŞAN",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çapraz bakan",
-      "answer": "ŞAŞI",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kesme hamur",
-      "answer": "ERİŞTE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çark, gear",
-      "answer": "DİŞLİ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Çanakkale ilçesi",
-      "answer": "BİGA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Asma aracı",
-      "answer": "ASKI",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırmızı, küçük meyve",
-      "answer": "ÇİLEK",
+      "text": "Arp benzeri çalgı",
+      "answer": "ÇENK",
       "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kokulu mor çiçek",
+      "answer": "LAVANTA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ünlü kadın sanatçı",
+      "answer": "DİVA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yapma yüz",
+      "answer": "MASKE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sezgi",
+      "answer": "SEZİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Emek, çaba",
+      "answer": "SAY",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Uğraşı, merak",
+      "answer": "HOBİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Parça, dilim",
+      "answer": "LİME",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Rengarenk taş",
+      "answer": "OPAL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüksek ses",
+      "answer": "AVAZ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İskambilde bacak",
+      "answer": "VALE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yetim koruyucusu",
+      "answer": "VASİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Alenen",
+      "answer": "AÇIKÇA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Nefis",
+      "answer": "ENFES",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Makama erişme",
-      "answer": "İKBAL",
-      "row": 2,
+      "text": "Profesör öncesi",
+      "answer": "DOÇENT",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yöresel",
-      "answer": "YEREL",
-      "row": 5,
+      "text": "Beyaz element",
+      "answer": "KALAY",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -162,45 +148,41 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
       "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 7
     },
     {
       "row": 8,
       "col": 6
-    },
-    {
-      "row": 10,
-      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 87
+  "difficulty": "zor",
+  "order": 167
 }

@@ -1,0 +1,190 @@
+{
+  "id": "puzzle-283",
+  "title": "Bulmaca 87",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "İnce yün kumaş",
+      "answer": "ÇUHA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hayvan semirten",
+      "answer": "BESİCİ",
+      "row": 1,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Rehber",
+      "answer": "KILAVUZ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Huy, yaradılış",
+      "answer": "MİZAÇ",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Şaşkınlık seslenişi",
+      "answer": "YAHU",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yaz meyvesi",
+      "answer": "KARPUZ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Korunma aracı",
+      "answer": "KALKAN",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Eşya demeti",
+      "answer": "BALYA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hizip",
+      "answer": "KLİK",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Çelik araç",
+      "answer": "BIÇAK",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Saçsız",
+      "answer": "KEL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğru olan",
+      "answer": "HAKLI",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Japon savaşçısı",
+      "answer": "SAMURAY",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çakılan metal",
+      "answer": "ÇİVİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gramofon diski",
+      "answer": "PLAK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ucuz olma",
+      "answer": "UCUZLUK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Aynı çizgi",
+      "answer": "HİZA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaybolma",
+      "answer": "ZAYİ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    }
+  ],
+  "difficulty": "orta",
+  "order": 87
+}

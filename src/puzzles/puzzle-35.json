@@ -1,161 +1,180 @@
 {
   "id": "puzzle-35",
-  "title": "Bulmaca 17",
+  "title": "Bulmaca 28",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Arap yazısı işareti",
-      "answer": "HAREKE",
+      "text": "Gereç",
+      "answer": "MALZEME",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Şölen",
-      "answer": "ZİYAFET",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uzun koltuk",
-      "answer": "KANEPE",
-      "row": 3,
+      "text": "Yıpratıcı, üstün",
+      "answer": "EZİCİ",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Soğuk hava deposu",
+      "answer": "BUZHANE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Metal tezgâhı",
+      "answer": "TORNA",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ölçülü davranış",
-      "answer": "TAKT",
-      "row": 3,
-      "col": 0,
+      "text": "Anne baba",
+      "answer": "EBEVEYN",
+      "row": 5,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Hafif yel",
-      "answer": "ESİNTİ",
+      "text": "Numara levhası",
+      "answer": "PLAKA",
       "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Gönül vermiş",
-      "answer": "ALGIN",
+      "text": "Kendi, asıl",
+      "answer": "ÖZ",
       "row": 7,
-      "col": 1,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Açık, apaçık",
-      "answer": "ALENİ",
+      "text": "Çöl",
+      "answer": "SAHRA",
       "row": 8,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Maharet, hüner",
-      "answer": "USTALIK",
+      "text": "Susamlı çörek",
+      "answer": "SİMİT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Öykü",
-      "answer": "HİKAYE",
+      "text": "Baş aşağı",
+      "answer": "AMUT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bacak ucu",
-      "answer": "AYAK",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Zaman aracı",
-      "answer": "SAAT",
+      "text": "Devlet temsilcisi",
+      "answer": "ELÇİ",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Despot",
+      "answer": "ZORBA",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Getirim, kazanç",
-      "answer": "RANT",
+      "text": "Zehir",
+      "answer": "ZEHR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ne olursa olsun",
-      "answer": "İLLA",
+      "text": "Çıkarma işareti",
+      "answer": "EKSİ",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Batı Anadolu yiğidi",
-      "answer": "EFE",
+      "text": "Namaza çağrı",
+      "answer": "EZAN",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Önleyen durum",
-      "answer": "ENGEL",
-      "row": 4,
+      "text": "Verilen söz",
+      "answer": "VAAT",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mezuniyet başlığı",
-      "answer": "KEP",
+      "text": "Ezan kulesi",
+      "answer": "MİNARE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ses özelliği",
-      "answer": "TINI",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Belden aşağı giysi",
-      "answer": "ETEK",
+      "text": "Kraliçe",
+      "answer": "ECE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İnmiş, sönmüş",
-      "answer": "İNİK",
+      "text": "Bölge çevresi",
+      "answer": "YÖRE",
       "row": 5,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Katlı yatak",
+      "answer": "RANZA",
+      "row": 3,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 4,
-      "col": 5
+      "col": 6
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 0
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 17
+  "order": 28
 }

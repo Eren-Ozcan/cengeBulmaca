@@ -1,153 +1,125 @@
 {
   "id": "puzzle-108",
-  "title": "Bulmaca 10",
-  "rows": 11,
+  "title": "Bulmaca 46",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Para torbası",
-      "answer": "KESE",
+      "text": "Binek hayvanı",
+      "answer": "AT",
       "row": 1,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Nabız vuruşu",
-      "answer": "ATIŞ",
+      "text": "Savaşçı kadın",
+      "answer": "AMAZON",
       "row": 2,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sıvı verme",
-      "answer": "ZERK",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Laf",
-      "answer": "LAKIRTI",
+      "text": "Adam kayırma",
+      "answer": "İLTİMAS",
       "row": 3,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Siyah",
-      "answer": "KARA",
+      "text": "Sakin, edepli",
+      "answer": "USLU",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Başlangıç",
-      "answer": "MİLAT",
+      "text": "Etkileyicilik",
+      "answer": "KARİZMA",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Büyük acı, ıstırap",
-      "answer": "AZAP",
+      "text": "Ele geçirme",
+      "answer": "İŞGAL",
       "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bilgi toplantısı",
-      "answer": "SEMİNER",
+      "text": "Tekerlek dışı",
+      "answer": "LASTİK",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yol yiyeceği",
-      "answer": "AZIK",
+      "text": "Güzellik bilimi",
+      "answer": "ESTETİK",
       "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Çatı örtüsü",
-      "answer": "KİREMİT",
-      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tren istasyonu",
-      "answer": "GAR",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Mikroskop parçası",
-      "answer": "LAM",
+      "text": "Gemilerin yanaştığı yer",
+      "answer": "İSKELE",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tek parça giysi",
-      "answer": "ENTARİ",
-      "row": 0,
+      "text": "Din bilgini",
+      "answer": "MOLLA",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Mürekkep balığı",
-      "answer": "KALAMAR",
+      "text": "İskambilde birli",
+      "answer": "AS",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gezgin konuk",
+      "answer": "TURİST",
       "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hafriyat",
-      "answer": "KAZI",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kutsal kadın",
-      "answer": "AZİZE",
+      "text": "Gösterme sözü",
+      "answer": "İŞTE",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Uçucu sıvı",
-      "answer": "ETER",
-      "row": 0,
+      "text": "Kızartmalık beyaz balık",
+      "answer": "MEZGİT",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kavram açıklaması",
-      "answer": "TANIM",
+      "text": "Hatırlama töreni",
+      "answer": "ANMA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Madagaskar maymunu",
+      "answer": "MAKİ",
       "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Gövdenin arka yüzü",
-      "answer": "SIRT",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tamam, olur",
-      "answer": "PEKİ",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Yol kesen haydut",
-      "answer": "EŞKIYA",
-      "row": 0,
+      "text": "Soru",
+      "answer": "SUAL",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -155,49 +127,69 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
     },
     {
       "row": 0,
       "col": 3
     },
     {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
       "row": 1,
       "col": 1
     },
     {
+      "row": 1,
+      "col": 3
+    },
+    {
+      "row": 1,
+      "col": 4
+    },
+    {
       "row": 2,
-      "col": 1
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 1
-    },
-    {
-      "row": 7,
       "col": 7
     },
     {
-      "row": 9,
+      "row": 3,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 1
+      "row": 3,
+      "col": 4
     },
     {
-      "row": 9,
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
       "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 10
+  "order": 46
 }

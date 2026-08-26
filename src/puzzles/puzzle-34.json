@@ -1,203 +1,140 @@
 {
   "id": "puzzle-34",
-  "title": "Bulmaca 49",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 11",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Küme",
-      "answer": "GRUP",
+      "text": "Korunma duruşu",
+      "answer": "GARD",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Azerbaycan'ın başkenti",
-      "answer": "BAKÜ",
-      "row": 0,
+      "text": "Konut, hane",
+      "answer": "EV",
+      "row": 1,
       "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ev çalışması",
+      "answer": "ÖDEV",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sanatta tarz",
+      "answer": "JANR",
+      "row": 2,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yemek kabı",
-      "answer": "TABAK",
+      "text": "Ağ tabaka",
+      "answer": "RETİNA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Lezzet",
+      "answer": "TAT",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sersem, alık",
+      "answer": "SEME",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Final",
+      "answer": "BİTİŞ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tez canlı",
+      "answer": "ACELECİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyük, ulu",
+      "answer": "CELİL",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Akıllı kadın",
+      "answer": "AKİLE",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Araba süren",
+      "answer": "ARABACI",
       "row": 2,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Faşizm yanlısı",
-      "answer": "FAŞİST",
+      "text": "Sonuç",
+      "answer": "NETİCE",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Üçten sonraki sayı",
+      "answer": "DÖRT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Astar arası bez",
+      "answer": "TELA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ter kabarcığı",
+      "answer": "İSİLİK",
       "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çember",
-      "answer": "HALKA",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yufka sarması",
-      "answer": "DÜRÜM",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ara süresi",
-      "answer": "TATİL",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İnternete ait",
-      "answer": "SİBER",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ağız demiri",
-      "answer": "GEM",
-      "row": 6,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Meslek yolu",
-      "answer": "KARİYER",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kötü",
-      "answer": "FENA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hayâlı, utangaç",
-      "answer": "ARLI",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kafa vurma",
-      "answer": "TOS",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tekne kaptanı",
-      "answer": "REİS",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Motorlu testere",
-      "answer": "BIÇKI",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Fiyat kâğıdı",
-      "answer": "ETİKET",
-      "row": 5,
-      "col": 0,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Bir ABD eyaleti",
-      "answer": "UTAH",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sert siyah ağaç",
-      "answer": "ABANOZ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlı komutanı",
-      "answer": "PAŞA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Açık bölüm",
-      "answer": "TERAS",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tebliğ",
-      "answer": "BİLDİRİ",
-      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kantar",
-      "answer": "BASKÜL",
-      "row": 0,
+      "text": "Keyifli",
+      "answer": "NEŞELİ",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İkide bir",
-      "answer": "YARI",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Baharat satıcısı",
-      "answer": "AKTAR",
+      "text": "Asılsız kaygılar",
+      "answer": "EVHAM",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Gerekli malzeme",
-      "answer": "GEREÇ",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Nazarlık bitkisi",
-      "answer": "ÜZERLİK",
+      "text": "Bulaşık teknesi",
+      "answer": "EVİYE",
       "row": 4,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Duygu sözcüğü",
-      "answer": "ÜNLEM",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıcaklık derecesi",
-      "answer": "ISI",
-      "row": 8,
-      "col": 8,
       "arrow": "down"
     }
   ],
@@ -208,15 +145,23 @@
     },
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 1,
+      "col": 4
     },
     {
       "row": 2,
@@ -227,22 +172,18 @@
       "col": 7
     },
     {
-      "row": 4,
-      "col": 0
-    },
-    {
       "row": 6,
-      "col": 8
+      "col": 6
     },
     {
-      "row": 11,
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
       "col": 0
-    },
-    {
-      "row": 11,
-      "col": 1
     }
   ],
   "difficulty": "kolay",
-  "order": 49
+  "order": 11
 }

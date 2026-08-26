@@ -1,133 +1,119 @@
 {
   "id": "puzzle-106",
-  "title": "Bulmaca 7",
+  "title": "Bulmaca 179",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "En az",
-      "answer": "ASGARİ",
+      "text": "Merdiven bölümü",
+      "answer": "BASAMAK",
       "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yumuşak karşıtı",
-      "answer": "SERT",
+      "text": "Ölüm vakti",
+      "answer": "ECEL",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kekre kış meyvesi",
+      "answer": "MUŞMULA",
       "row": 2,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İskambil oyunu",
-      "answer": "BRİÇ",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İri yaratık",
-      "answer": "DEV",
-      "row": 3,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İkinci şahıs",
-      "answer": "SEN",
-      "row": 5,
-      "col": 0,
+      "text": "İlk bilgi",
+      "answer": "ABECE",
+      "row": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bağlaşma",
-      "answer": "İTTİFAK",
+      "text": "Mal paylaşımı",
+      "answer": "ZEKAT",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayakkabı topuğu",
+      "answer": "ÖKÇE",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sorun çözme yolu",
-      "answer": "ÇARE",
+      "text": "Ritimli dans",
+      "answer": "TANGO",
       "row": 7,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Güçlü inanç",
-      "answer": "İNAN",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tek geçiş kapısı",
-      "answer": "TURNİKE",
-      "row": 8,
+      "text": "Durgun su",
+      "answer": "GÖL",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Isıya dayanıklı lif",
-      "answer": "ASBEST",
-      "row": 0,
+      "text": "Liman kıyısı",
+      "answer": "RIHTIM",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek sanatçı",
+      "answer": "AKTÖR",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Zenginlik",
-      "answer": "SERVET",
-      "row": 0,
+      "text": "Çatallı bitki",
+      "answer": "ÇALI",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kül rengi",
-      "answer": "GRİ",
+      "text": "Dönen derviş",
+      "answer": "SEMAZEN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hangi sebeple",
-      "answer": "NİÇİN",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "At yetiştiren kimse",
-      "answer": "ATÇI",
+      "text": "Tuhaf şey",
+      "answer": "ACUBE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Geçici, ölümlü",
-      "answer": "FANİ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tarama aracı",
-      "answer": "TARAK",
-      "row": 4,
+      "text": "Kutsal varlık",
+      "answer": "MELEK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ücretli çalışan",
-      "answer": "İŞÇİ",
+      "text": "Karışık renkli",
+      "answer": "ALACA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kan emen asalak",
-      "answer": "KENE",
-      "row": 5,
-      "col": 6,
+      "text": "Yarışta aşama",
+      "answer": "ETAP",
+      "row": 3,
+      "col": 7,
       "arrow": "down"
     }
   ],
@@ -138,29 +124,69 @@
     },
     {
       "row": 0,
-      "col": 5
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 5
+      "col": 1
     },
     {
-      "row": 3,
-      "col": 5
+      "row": 2,
+      "col": 7
     },
     {
-      "row": 7,
+      "row": 4,
       "col": 0
     },
     {
+      "row": 6,
+      "col": 4
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
       "row": 7,
-      "col": 1
+      "col": 6
     },
     {
       "row": 8,
-      "col": 1
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 7
+  "difficulty": "zor",
+  "order": 179
 }

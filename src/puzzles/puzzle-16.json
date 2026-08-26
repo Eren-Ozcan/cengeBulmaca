@@ -1,133 +1,147 @@
 {
   "id": "puzzle-16",
-  "title": "Bulmaca 8",
+  "title": "Bulmaca 41",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Yapı örtüsü",
-      "answer": "ÇATI",
+      "text": "Kemik oyunu",
+      "answer": "LADES",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sarı-mavi karışımı",
-      "answer": "YEŞİL",
+      "text": "Hayvan ölümü",
+      "answer": "TELEF",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ayrı olma",
-      "answer": "AYRILIK",
+      "text": "Tercüme",
+      "answer": "ÇEVİRİ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Akıl yönünden",
-      "answer": "AKLEN",
+      "text": "Tokat",
+      "answer": "ŞAMAR",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üstün derece",
-      "answer": "REKOR",
-      "row": 6,
-      "col": 1,
+      "text": "Bebek yiyeceği",
+      "answer": "MAMA",
+      "row": 5,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Dükkân kapağı",
-      "answer": "KEPENK",
-      "row": 7,
+      "text": "Nil kamışı kâğıdı",
+      "answer": "PAPİRÜS",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tropika",
-      "answer": "DÖNENCE",
+      "text": "Tohumlu tarla",
+      "answer": "EKİLİ",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İlham",
+      "answer": "ESİN",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İçki düşkünü",
-      "answer": "AYYAŞ",
+      "text": "İşi olmayan",
+      "answer": "İŞSİZ",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yanma olayı, od",
+      "answer": "ATEŞ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Toprak altı bölüm",
-      "answer": "KÖK",
-      "row": 6,
+      "text": "Hayvan derisi",
+      "answer": "POST",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bırakıp gitme",
-      "answer": "TERK",
+      "text": "Çok büyük",
+      "answer": "DEVASA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Almanya'dan geçen nehir",
-      "answer": "REN",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Parlayan, ışıldayan",
-      "answer": "IŞIL",
+      "text": "Acıklı, üzücü",
+      "answer": "ELİM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Oldukça çok",
-      "answer": "EPEY",
+      "text": "Sterlin parçası",
+      "answer": "PENİ",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Akım geçiren",
-      "answer": "İLETKEN",
-      "row": 1,
+      "text": "Pişmiş toprak sanatı",
+      "answer": "SERAMİK",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yüz üstü",
-      "answer": "ALIN",
-      "row": 0,
+      "text": "Kaçak",
+      "answer": "FİRARİ",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "O kadar",
-      "answer": "ONCA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Enerji",
-      "answer": "ERKE",
+      "text": "İdareyle ilgili",
+      "answer": "MÜLKİ",
       "row": 4,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Taşınan ağırlık",
+      "answer": "YÜK",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Baş kaldıran",
+      "answer": "ASİ",
+      "row": 4,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
@@ -142,30 +156,30 @@
       "col": 6
     },
     {
+      "row": 3,
+      "col": 6
+    },
+    {
       "row": 5,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 2
-    },
-    {
-      "row": 9,
+      "row": 8,
       "col": 4
     },
     {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
       "row": 9,
-      "col": 6
+      "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 8
+  "order": 41
 }

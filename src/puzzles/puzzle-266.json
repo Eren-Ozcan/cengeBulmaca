@@ -1,0 +1,180 @@
+{
+  "id": "puzzle-266",
+  "title": "Bulmaca 148",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Çalışma çizelgesi",
+      "answer": "PUANTAJ",
+      "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Düstur",
+      "answer": "ŞİAR",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Laf",
+      "answer": "LAKIRTI",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dizilmiş meyve",
+      "answer": "HEVENK",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kavga arayan",
+      "answer": "KAVGACI",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kılıç sporu",
+      "answer": "ESKRİM",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Söz kesme",
+      "answer": "NİŞAN",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bölen çizgi",
+      "answer": "EKSEN",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun boylu ağaç",
+      "answer": "KAVAK",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Koruyucu uygulama",
+      "answer": "AŞI",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kâinat",
+      "answer": "EVREN",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Üçgenleme noktası",
+      "answer": "NİRENGİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Lezzet",
+      "answer": "TAT",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sulak bitki",
+      "answer": "KAMIŞ",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sonradan ortaya çıkan",
+      "answer": "ARIZ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kış mevsiminde",
+      "answer": "KIŞIN",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
+    }
+  ],
+  "difficulty": "orta",
+  "order": 148
+}

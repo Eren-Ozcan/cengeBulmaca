@@ -1,160 +1,125 @@
 {
   "id": "puzzle-141",
   "title": "Bulmaca 98",
-  "rows": 11,
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Döşem",
-      "answer": "TESİSAT",
+      "text": "Taklit, düzme",
+      "answer": "SAHTE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sol elli",
-      "answer": "SOLAK",
+      "text": "İğne yapraklı ağaç",
+      "answer": "ÇAM",
       "row": 2,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Muhtemel",
-      "answer": "OLASI",
+      "text": "İyiliğe borçluluk",
+      "answer": "MİNNET",
       "row": 3,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Verilen söz",
-      "answer": "VAAT",
+      "text": "Para yatıran",
+      "answer": "MUDİ",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Matem",
-      "answer": "YAS",
+      "text": "Şehir dışı",
+      "answer": "KIR",
       "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Uygulama, yapma",
-      "answer": "İCRA",
+      "text": "Dişli kesici",
+      "answer": "TESTERE",
       "row": 5,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çiçek kabı",
-      "answer": "SAKSI",
-      "row": 5,
+      "text": "Şişe kapağı aracı",
+      "answer": "AÇACAK",
+      "row": 6,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Ölü sandığı",
-      "answer": "TABUT",
+      "text": "Kadın hükümdar",
+      "answer": "MELİKE",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Geçit yolu",
-      "answer": "KORİDOR",
+      "text": "Okuyucu",
+      "answer": "OKUR",
       "row": 8,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kısa imza",
-      "answer": "PARAF",
+      "text": "Tenha",
+      "answer": "ISSIZ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Açgözlülük",
-      "answer": "TAMAH",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Daha uygun",
-      "answer": "EVLA",
+      "text": "Sonbahar meyvesi",
+      "answer": "ARMUT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bedensel özürlü",
-      "answer": "SAKAT",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Devrilme",
-      "answer": "ALABORA",
-      "row": 3,
+      "text": "En iyisi",
+      "answer": "İDEAL",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Urfa biberi",
-      "answer": "İSOT",
+      "text": "Tenis oynayan",
+      "answer": "TENİSÇİ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bilimsel açıklama",
-      "answer": "KURAM",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sağın karşıtı",
-      "answer": "SOL",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Görevden ayrılma",
-      "answer": "İSTİFA",
+      "text": "Destek kaması",
+      "answer": "TAKOZ",
       "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Müstehzi",
-      "answer": "ALAYCI",
-      "row": 0,
+      "text": "Ayakkabı kaşığı",
+      "answer": "ÇEKECEK",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İş planı",
-      "answer": "TASAR",
+      "text": "Anı",
+      "answer": "HATIRA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Misilleme cezası",
-      "answer": "KISAS",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Ortodoks Hristiyan",
-      "answer": "RUM",
-      "row": 7,
+      "text": "Üstün derece",
+      "answer": "REKOR",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -166,6 +131,18 @@
     },
     {
       "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
       "col": 7
     },
     {
@@ -173,20 +150,16 @@
       "col": 0
     },
     {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
       "row": 7,
       "col": 6
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 2
     },
     {
       "row": 9,
@@ -197,8 +170,8 @@
       "col": 6
     },
     {
-      "row": 10,
-      "col": 6
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "orta",

@@ -1,153 +1,118 @@
 {
   "id": "puzzle-156",
-  "title": "Bulmaca 101",
-  "rows": 11,
+  "title": "Bulmaca 76",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yol kaplaması",
-      "answer": "ASFALT",
+      "text": "Süslü ipek kumaş",
+      "answer": "DİBA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Lezzet minerali",
-      "answer": "TUZ",
+      "text": "Uzaktaki yer",
+      "answer": "ORA",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Korunma yeri",
+      "answer": "SİPER",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tek başına söyleyen",
-      "answer": "SOLİST",
+      "text": "Din uğruna savaş",
+      "answer": "GAZA",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yer altı sığınağı",
-      "answer": "KAZAMAT",
+      "text": "Para kuruluşu",
+      "answer": "BANKA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bilinmeyen kimse",
-      "answer": "BİRİ",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Öğrenci bölümü",
-      "answer": "SINIF",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Örtme nesnesi",
-      "answer": "KAPAK",
-      "row": 6,
+      "text": "Boyun altı",
+      "answer": "GERDAN",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İri kırmızı çiçek",
-      "answer": "ŞAKAYIK",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Orman hayvanı",
-      "answer": "AYI",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Âdet kesilmesi",
-      "answer": "MENOPOZ",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hazır mal",
-      "answer": "STOK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayat",
-      "answer": "YAŞAM",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İpek eşarp",
-      "answer": "FULAR",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Rütbe, derece",
-      "answer": "PAYE",
+      "text": "Tohumlu meyve",
+      "answer": "İNCİR",
       "row": 6,
       "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kazakistan'ın başkenti",
+      "answer": "ASTANA",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yer süpüren araç",
+      "answer": "SÜPÜRGE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hedefi vurma",
+      "answer": "İSABET",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ermiş, kutsal kişi",
-      "answer": "AZİZ",
+      "text": "Bezmiş, usanmış, bıkmış",
+      "answer": "BİZAR",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kör bağırsak uzantısı",
+      "answer": "APANDİS",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "'Asla' ünlemi",
-      "answer": "SAKIN",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Suç geçmişi",
-      "answer": "SABIKA",
-      "row": 2,
+      "text": "Ağır tartı",
+      "answer": "KANTAR",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Doyum sağlama",
-      "answer": "TATMİN",
+      "text": "Büyükle küçük arası",
+      "answer": "ORTANCA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Arı yetiştiricisi",
-      "answer": "ARICI",
-      "row": 3,
+      "text": "Kalın karşıtı",
+      "answer": "İNCE",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yumuşak, hoş",
-      "answer": "LATİF",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kor parçası",
-      "answer": "KÖZ",
-      "row": 7,
+      "text": "Su hayvanı",
+      "answer": "HİDRA",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -166,34 +131,50 @@
       "col": 7
     },
     {
-      "row": 1,
-      "col": 6
-    },
-    {
       "row": 2,
       "col": 6
     },
     {
-      "row": 5,
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 6,
       "col": 0
     },
     {
       "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
       "col": 5
     },
     {
-      "row": 9,
-      "col": 4
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 101
+  "difficulty": "kolay",
+  "order": 76
 }

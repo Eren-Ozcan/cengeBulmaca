@@ -1,175 +1,133 @@
 {
   "id": "puzzle-9",
-  "title": "Bulmaca 112",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 128",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Eskil söz kullanımı",
-      "answer": "ARKAİZM",
+      "text": "Egemen toprak",
+      "answer": "ÜLKE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Göğün katı",
-      "answer": "ARŞ",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
+      "text": "Sıçrayan asalak böcek",
+      "answer": "PİRE",
+      "row": 1,
+      "col": 4,
+      "arrow": "down-right"
     },
     {
-      "text": "Anlayış, kavrayış",
-      "answer": "İDRAK",
+      "text": "Eğitim, görgü",
+      "answer": "TERBİYE",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bugünden önceki gün",
-      "answer": "DÜN",
-      "row": 3,
-      "col": 5,
+      "text": "Peşin para",
+      "answer": "AVANS",
+      "row": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Aşırı şişmanlık",
-      "answer": "OBEZİTE",
-      "row": 4,
-      "col": 1,
+      "text": "Mürekkep kabı",
+      "answer": "HOKKA",
+      "row": 5,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Motif",
-      "answer": "DESEN",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Küçük cami",
-      "answer": "MESCİT",
+      "text": "Bile, üstelik",
+      "answer": "HATTA",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Saç tokası",
-      "answer": "FİRKETE",
+      "text": "Millet",
+      "answer": "ULUS",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çok sevilen",
-      "answer": "İDOL",
+      "text": "Arı yetiştiricisi",
+      "answer": "ARICI",
       "row": 8,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kulplu su tası",
-      "answer": "MAŞRAPA",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Saf, şaşkın",
-      "answer": "AVAL",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Raylı taşıt",
-      "answer": "TREN",
-      "row": 10,
+      "text": "Dikkat çekme",
+      "answer": "İKAZ",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tokat ilçesi",
-      "answer": "ZİLE",
-      "row": 11,
+      "text": "Asla",
+      "answer": "HİÇ",
+      "row": 9,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Buyruk",
-      "answer": "EMİR",
+      "text": "Davranış kuralları",
+      "answer": "AHLAK",
       "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Araç gövdesi",
-      "answer": "KAROSER",
-      "row": 0,
+      "text": "Bedeni saran hale",
+      "answer": "AURA",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Doğulu müzik türü",
-      "answer": "ARABESK",
-      "row": 0,
+      "text": "Talihsiz",
+      "answer": "BAHTSIZ",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eziyet",
-      "answer": "İŞKENCE",
-      "row": 0,
+      "text": "Pota altı oyuncusu",
+      "answer": "PİVOT",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Karşı çıkma",
-      "answer": "İTİRAZ",
-      "row": 5,
+      "text": "Gösteriş",
+      "answer": "FİYAKA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Orta boy etek",
-      "answer": "MİDİ",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sağaltma",
-      "answer": "TEDAVİ",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırışık gideren araç",
-      "answer": "ÜTÜ",
-      "row": 2,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Rengarenk taş",
-      "answer": "OPAL",
+      "text": "Çöktürme sesi",
+      "answer": "IH",
       "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Görsel duyum",
+      "answer": "RENK",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Damat kılavuzu",
+      "answer": "SAĞDIÇ",
+      "row": 3,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "İşi yapan öge",
-      "answer": "ÖZNE",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Soy sop",
-      "answer": "SÜLALE",
-      "row": 5,
-      "col": 8,
       "arrow": "down"
     }
   ],
@@ -180,7 +138,19 @@
     },
     {
       "row": 0,
-      "col": 5
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 0,
@@ -192,41 +162,37 @@
     },
     {
       "row": 2,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 10,
       "col": 1
     },
     {
-      "row": 10,
+      "row": 2,
       "col": 2
     },
     {
-      "row": 10,
-      "col": 3
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
     }
   ],
   "difficulty": "orta",
-  "order": 112
+  "order": 128
 }

@@ -1,0 +1,183 @@
+{
+  "id": "puzzle-251",
+  "title": "Bulmaca 78",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Ölçülü davranış",
+      "answer": "TAKT",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Örme kumaş",
+      "answer": "TRİKO",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Korunma aracı",
+      "answer": "KALKAN",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Silahlı hırsızlık",
+      "answer": "SOYGUN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Zorla ücretsiz iş",
+      "answer": "ANGARYA",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilgisayarda veri",
+      "answer": "DATA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Niğde'nin ilçesi",
+      "answer": "BOR",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayırtı",
+      "answer": "NÜANS",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yağlı çörek",
+      "answer": "AÇMA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sahip olan",
+      "answer": "HAİZ",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Saat onaran",
+      "answer": "SAATÇİ",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Batı soyluluk unvanı",
+      "answer": "VİKONT",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yumurtalı tava yemeği",
+      "answer": "KAYGANA",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Miğfer",
+      "answer": "TOLGA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çift yaşamlı hayvan",
+      "answer": "KURBAĞA",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Negatif iyon",
+      "answer": "ANYON",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Utanmaz, yüzsüz",
+      "answer": "ARSIZ",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 2
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 78
+}

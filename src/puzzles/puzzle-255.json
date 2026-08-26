@@ -1,0 +1,172 @@
+{
+  "id": "puzzle-255",
+  "title": "Bulmaca 81",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Mizah",
+      "answer": "GÜLMECE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Rezalet olayı",
+      "answer": "SKANDAL",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yol kesen haydut",
+      "answer": "EŞKIYA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tekneyi yanaştırma",
+      "answer": "ABORDA",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bireşim",
+      "answer": "SENTEZ",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Besin",
+      "answer": "GIDA",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Tuzlu bisküvi",
+      "answer": "KRAKER",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bir tutam",
+      "answer": "ELÇİM",
+      "row": 4,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Göz üstü kılı",
+      "answer": "KAŞ",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Karın-uyluk arası",
+      "answer": "KASIK",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Din büyüğü öyküsü",
+      "answer": "MENKIBE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yontma parçası",
+      "answer": "YONGA",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Geriye kalan",
+      "answer": "ARTIK",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Evlenmiş olan",
+      "answer": "EVLİ",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyükbaba",
+      "answer": "DEDE",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kem göz",
+      "answer": "NAZAR",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 1
+    }
+  ],
+  "difficulty": "orta",
+  "order": 81
+}

@@ -1,162 +1,187 @@
 {
   "id": "puzzle-53",
-  "title": "Bulmaca 34",
+  "title": "Bulmaca 71",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Tutarık hastalığı",
-      "answer": "SARA",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Öz olmayan",
-      "answer": "ÜVEY",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sözcük",
-      "answer": "KELİME",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Burun boşluğu yangısı",
-      "answer": "SİNÜZİT",
-      "row": 3,
+      "text": "Menekşe rengi",
+      "answer": "MOR",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gümüş element",
-      "answer": "NİKEL",
-      "row": 5,
+      "text": "Kız kardeşin kocası",
+      "answer": "ENİŞTE",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ateşleyici",
+      "answer": "ÇAKMAK",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşama, derece",
+      "answer": "MERTEBE",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Alt kurul",
-      "answer": "KOMİTE",
+      "text": "Malumat",
+      "answer": "BİLGİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Emzikli kap",
+      "answer": "İBRİK",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Gizli yer",
+      "answer": "ZULA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Lezzetli, mükemmel",
-      "answer": "NEFİS",
+      "text": "Güzellik düşkünü",
+      "answer": "ESTET",
       "row": 8,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Dev dalga",
-      "answer": "TSUNAMİ",
+      "text": "Demirci aracı",
+      "answer": "ÖRS",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Faal olan",
-      "answer": "ETKİN",
-      "row": 0,
+      "text": "Tohum ekme makinesi",
+      "answer": "MİBZER",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İyiden iyiye",
-      "answer": "ENİKONU",
-      "row": 2,
+      "text": "Meyve tatlısı",
+      "answer": "REÇEL",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kan emici",
-      "answer": "SÜLÜK",
-      "row": 0,
+      "text": "Marpuçlu tütün aleti",
+      "answer": "NARGİLE",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Engelleme, yasak",
-      "answer": "MEN",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tavan lambası",
-      "answer": "AVİZE",
-      "row": 0,
+      "text": "Ödünç alma",
+      "answer": "İKTİBAS",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yerine getirme",
-      "answer": "İFA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kum falı",
-      "answer": "REMİL",
+      "text": "Uşak ilçesi",
+      "answer": "EŞME",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Küçük ekip",
-      "answer": "TİM",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sure bölümü",
-      "answer": "AYET",
-      "row": 0,
+      "text": "Doğal",
+      "answer": "TABİİ",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hayvan besleme",
-      "answer": "BESİ",
+      "text": "İz, benek",
+      "answer": "LEKE",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "İyi karşıtı",
+      "answer": "KÖTÜ",
       "row": 5,
-      "col": 6,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 2
+      "col": 3
     },
     {
-      "row": 1,
-      "col": 0
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 2,
       "col": 0
     },
     {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 5
+    },
+    {
       "row": 6,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 1
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 3
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 34
+  "order": 71
 }

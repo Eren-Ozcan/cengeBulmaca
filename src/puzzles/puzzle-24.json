@@ -1,167 +1,146 @@
 {
   "id": "puzzle-24",
-  "title": "Bulmaca 107",
-  "rows": 11,
+  "title": "Bulmaca 165",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Otomobil",
-      "answer": "ARABA",
+      "text": "Rütbesiz asker",
+      "answer": "ER",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gezgin konuk",
-      "answer": "TURİST",
+      "text": "Ev, aile",
+      "answer": "HANE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tapınma",
+      "answer": "İBADET",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bütçeye uygun",
-      "answer": "HESAPLI",
+      "text": "Karar gücü",
+      "answer": "İRADE",
       "row": 3,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bisiklet koltuğu",
-      "answer": "SELE",
+      "text": "Yol korkuluğu",
+      "answer": "BARİYER",
       "row": 3,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Deri sıvısı",
-      "answer": "TER",
+      "text": "İri palamut",
+      "answer": "TORİK",
       "row": 4,
-      "col": 4,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Zola romanı",
-      "answer": "NANA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yolculuk çantası",
-      "answer": "BAVUL",
+      "text": "Sayı işareti",
+      "answer": "RAKAM",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Açık yeşil taş",
-      "answer": "YEŞİM",
+      "text": "Savaştan dönen",
+      "answer": "GAZİ",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ruhsal tedavi",
-      "answer": "TERAPİ",
+      "text": "Madde bilimi",
+      "answer": "KİMYA",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yuvarlak kap",
-      "answer": "VARİL",
+      "text": "Bilgin kimse",
+      "answer": "ALİM",
       "row": 9,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yatak giysisi",
-      "answer": "PİJAMA",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Saygı uyandıran görünüş",
-      "answer": "HEYBET",
-      "row": 2,
+      "text": "Bor tuzu",
+      "answer": "BORAKS",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kırık desteği",
-      "answer": "ATEL",
-      "row": 0,
+      "text": "Yeryüzü toprağı",
+      "answer": "ARAZİ",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ücretsiz yemekevi",
-      "answer": "AŞEVİ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Öpücük",
-      "answer": "BUSE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dönemeç",
-      "answer": "VİRAJ",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Boşluk, aralık",
-      "answer": "ARA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıra sayısı",
-      "answer": "NUMARA",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Geçersiz kılma",
-      "answer": "İPTAL",
+      "text": "Yığılma",
+      "answer": "BİRİKİM",
       "row": 1,
-      "col": 5,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tutturucu çubuk",
-      "answer": "PİM",
+      "text": "Olağanüstü",
+      "answer": "HARİKA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Seslenme sözü",
+      "answer": "YA",
       "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Göreve talip",
+      "answer": "ADAY",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Soy bakımından",
-      "answer": "ASLEN",
+      "text": "Anlam çevirisi",
+      "answer": "MEAL",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sebep",
+      "answer": "NEDEN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Olmaksızın",
-      "answer": "BİLA",
-      "row": 6,
-      "col": 6,
+      "text": "Uçucu sıvı",
+      "answer": "ETER",
+      "row": 0,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Saç kesimi",
-      "answer": "TIRAŞ",
-      "row": 1,
+      "text": "Namaz görevlisi",
+      "answer": "İMAM",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -173,27 +152,35 @@
     },
     {
       "row": 0,
-      "col": 5
+      "col": 2
     },
     {
       "row": 0,
-      "col": 7
+      "col": 3
+    },
+    {
+      "row": 1,
+      "col": 2
     },
     {
       "row": 2,
       "col": 0
     },
     {
-      "row": 5,
+      "row": 3,
       "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
     },
     {
       "row": 7,
-      "col": 7
+      "col": 6
     },
     {
       "row": 8,
-      "col": 7
+      "col": 6
     },
     {
       "row": 9,
@@ -201,13 +188,9 @@
     },
     {
       "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 7
+      "col": 2
     }
   ],
-  "difficulty": "orta",
-  "order": 107
+  "difficulty": "zor",
+  "order": 165
 }

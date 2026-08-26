@@ -1,0 +1,185 @@
+{
+  "id": "puzzle-288",
+  "title": "Bulmaca 30",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Kopmuş olan",
+      "answer": "KOPUK",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Top mermisi",
+      "answer": "OBÜS",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Açılan yol",
+      "answer": "KANAL",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kız kardeşin kocası",
+      "answer": "ENİŞTE",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bağışlanma dileme",
+      "answer": "ŞEFAAT",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sadaka isteyen",
+      "answer": "DİLENCİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dönme, çağ",
+      "answer": "DEVİR",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zarfla gönderilen yazı",
+      "answer": "MEKTUP",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kaynamakta olan",
+      "answer": "KAYNAR",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Çay kıvamı",
+      "answer": "DEM",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dik dalış",
+      "answer": "PİKE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yöresel söyleyiş",
+      "answer": "ŞİVE",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Analık",
+      "answer": "ANNELİK",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Daire tabanlı cisim",
+      "answer": "KONİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Birey",
+      "answer": "FERT",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Reis",
+      "answer": "BAŞKAN",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Aşırı ilgi",
+      "answer": "KÜLT",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Şaşırtıcı, tuhaf",
+      "answer": "ACİP",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kayının eşi",
+      "answer": "ELTİ",
+      "row": 3,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 5,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 30
+}

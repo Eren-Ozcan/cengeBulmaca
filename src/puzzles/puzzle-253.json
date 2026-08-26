@@ -1,0 +1,181 @@
+{
+  "id": "puzzle-253",
+  "title": "Bulmaca 164",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Devenin tümseği",
+      "answer": "HÖRGÜÇ",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kâr payı",
+      "answer": "FAİZ",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gezici",
+      "answer": "SEYYAR",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ruhsal gerilim",
+      "answer": "STRES",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Uygulama yolu",
+      "answer": "TEKNİK",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Özgür",
+      "answer": "HÜR",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bitirme belgesi",
+      "answer": "DİPLOMA",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyük çivi",
+      "answer": "EKSER",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çekim odası",
+      "answer": "STÜDYO",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ruhsal kriz",
+      "answer": "HİSTERİ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kendi yöneten",
+      "answer": "ÖZERK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeni olma",
+      "answer": "YENİLİK",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Giyim eşyası",
+      "answer": "GİYSİ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Herhangi kişi",
+      "answer": "KİMSE",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Dönen tekerlek",
+      "answer": "ÇARK",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 3
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    }
+  ],
+  "difficulty": "zor",
+  "order": 164
+}

@@ -1,156 +1,194 @@
 {
   "id": "puzzle-2",
-  "title": "Bulmaca 2",
+  "title": "Bulmaca 26",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Sanat insanı",
-      "answer": "SANATÇI",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ortaokul sonrası",
-      "answer": "LİSE",
-      "row": 2,
+      "text": "Kokulu sıvı",
+      "answer": "ESANS",
+      "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bilgisayar programı",
-      "answer": "YAZILIM",
+      "text": "Ceylan",
+      "answer": "AHU",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Adı bilinmeyen",
+      "answer": "ANONİM",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gece uçan memeli",
-      "answer": "YARASA",
+      "text": "Parlak kâğıt",
+      "answer": "KUŞE",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Akademik son aşama",
+      "answer": "DOKTORA",
       "row": 4,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zarif, modern",
-      "answer": "ŞIK",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Oturma sırası",
-      "answer": "BANK",
-      "row": 5,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Temsilci",
-      "answer": "DELEGE",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dağ dizisi",
-      "answer": "SIRADAĞ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İdrar torbası",
-      "answer": "MESANE",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eğlenme, dalga geçme",
-      "answer": "ALAY",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yürüme hareketi",
-      "answer": "ADIM",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Çekişme, anlaşmazlık, kavga",
-      "answer": "NİZA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Hangi yer",
-      "answer": "NERE",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüzyıl",
-      "answer": "ASIR",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Üstün, seçkin",
-      "answer": "KLAS",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Acelecilik, heyecan",
-      "answer": "TELAŞ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İşve, naz",
-      "answer": "EDA",
+      "text": "Saf kimse",
+      "answer": "ENAYİ",
       "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Düzen ve güvenlik",
+      "answer": "ASAYİŞ",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İstanbul'un otobüs idaresi",
+      "answer": "İETT",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eski dilde su",
+      "answer": "AB",
+      "row": 8,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Ev halkı",
+      "answer": "AİLE",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tabelalarda parlayan gaz",
+      "answer": "NEON",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dede, cet",
+      "answer": "ATA",
+      "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Su kabı",
+      "answer": "TESTİ",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kutsal tasvir",
+      "answer": "İKONA",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yakıcı tüylü ot",
-      "answer": "ISIRGAN",
-      "row": 2,
+      "text": "Japon savaşçısı",
+      "answer": "SAMURAY",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Büyük akarsu, nehir",
-      "answer": "IRMAK",
-      "row": 0,
+      "text": "Yaygın söylenti",
+      "answer": "ŞAYİA",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Törpü",
-      "answer": "EĞE",
-      "row": 6,
-      "col": 6,
+      "text": "Alt birim",
+      "answer": "ŞUBE",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Resmî 'bu'",
+      "answer": "İŞBU",
+      "row": 5,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 3
+    },
+    {
+      "row": 4,
+      "col": 2
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 2
+  "order": 26
 }

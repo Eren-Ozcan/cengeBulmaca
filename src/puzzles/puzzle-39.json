@@ -1,173 +1,145 @@
 {
   "id": "puzzle-39",
-  "title": "Bulmaca 41",
-  "rows": 12,
+  "title": "Bulmaca 4",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Tasa, kaygı",
-      "answer": "GAM",
+      "text": "Bütünün parçası",
+      "answer": "CÜZ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Basit çizim",
-      "answer": "ŞEMA",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Zehirsiz yılan",
-      "answer": "PİTON",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İzlenecek yol",
-      "answer": "ROTA",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yıkıntı",
-      "answer": "HARABE",
-      "row": 3,
-      "col": 1,
+      "text": "Beyaz eşya markası",
+      "answer": "BEKO",
+      "row": 0,
+      "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Fiyat artışı",
-      "answer": "ZAM",
+      "text": "Birlik, bölüm",
+      "answer": "ÜNİTE",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kadın hükümdar eşi",
+      "answer": "KRALİÇE",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gündelikçi işçi",
+      "answer": "AMELE",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Etki gücü",
+      "answer": "NÜFUZ",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gizli yer",
-      "answer": "ZULA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yoğun ışık",
-      "answer": "LAZER",
+      "text": "Öğüt",
+      "answer": "NASİHAT",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Fransızca pasta",
-      "answer": "GATO",
-      "row": 6,
+      "text": "Yeter, elverir",
+      "answer": "KAFİ",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yönetmenlik işi",
+      "answer": "REJİ",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mahalli",
-      "answer": "YÖRESEL",
+      "text": "Cilveli davranış",
+      "answer": "NAZ",
       "row": 8,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Eski dilde koku",
-      "answer": "RAYİHA",
+      "text": "Sinema eseri",
+      "answer": "FİLM",
       "row": 9,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Vücut çatısı",
-      "answer": "KEMİK",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Deniz generali",
-      "answer": "AMİRAL",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zurnalı oyun",
-      "answer": "HALAY",
-      "row": 3,
+      "text": "Duygu sözcüğü",
+      "answer": "ÜNLEM",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Meraklı, hevesli",
-      "answer": "AMATÖR",
-      "row": 3,
+      "text": "Uzun boyunlu hayvan",
+      "answer": "ZÜRAFA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İstemeyerek",
-      "answer": "ZORAKİ",
-      "row": 5,
+      "text": "İffet",
+      "answer": "NAMUS",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Cilt bağı",
-      "answer": "ŞİRAZE",
+      "text": "Kol takısı",
+      "answer": "BİLEZİK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hayvan koltuğu",
-      "answer": "EYER",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Et yiyen",
-      "answer": "ETOBUR",
+      "text": "Bir kimya kökü",
+      "answer": "ETİL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kimse, tip, yüz",
-      "answer": "SİMA",
-      "row": 7,
+      "text": "Nerede, ne oldu",
+      "answer": "HANİ",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yol oteli",
-      "answer": "MOTEL",
+      "text": "Dövülmüş yün",
+      "answer": "KEÇE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yetkin, uzman",
-      "answer": "EHİL",
-      "row": 7,
+      "text": "Şaşkın, bilemeyen",
+      "answer": "AFAL",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Anne",
-      "answer": "ANA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Parazit",
-      "answer": "ASALAK",
+      "text": "Sosyal bozukluk",
+      "answer": "OTİZM",
       "row": 4,
       "col": 7,
       "arrow": "down"
@@ -180,45 +152,33 @@
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 3
     },
     {
+      "row": 0,
+      "col": 7
+    },
+    {
       "row": 2,
       "col": 0
     },
     {
       "row": 2,
-      "col": 1
+      "col": 7
     },
     {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 6
+      "row": 7,
+      "col": 2
     },
     {
       "row": 9,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
-    },
-    {
-      "row": 11,
-      "col": 7
+      "row": 9,
+      "col": 2
     }
   ],
   "difficulty": "kolay",
-  "order": 41
+  "order": 4
 }

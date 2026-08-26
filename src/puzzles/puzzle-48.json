@@ -1,160 +1,146 @@
 {
   "id": "puzzle-48",
-  "title": "Bulmaca 91",
-  "rows": 11,
+  "title": "Bulmaca 110",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Beceri",
-      "answer": "MAHARET",
+      "text": "Yontma aracı",
+      "answer": "KESKİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eski dilde asker",
+      "answer": "ÇERİ",
       "row": 1,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Soyluluk",
-      "answer": "ASALET",
-      "row": 2,
+      "text": "Bağımlı, düşkün",
+      "answer": "TİRYAKİ",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gümrük deposu",
-      "answer": "ANTREPO",
-      "row": 2,
+      "text": "Çamaşır leğeni",
+      "answer": "TEŞT",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ağ atma",
-      "answer": "VOLİ",
+      "text": "İkiden sonraki sayı",
+      "answer": "ÜÇ",
       "row": 4,
-      "col": 3,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Asıl konu",
-      "answer": "TEMA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Değiş tokuş",
+      "answer": "TAKAS",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Soluk",
-      "answer": "NEFES",
+      "text": "Yıllık ürün",
+      "answer": "REKOLTE",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Düzey",
-      "answer": "SEVİYE",
+      "text": "Oruç vakti",
+      "answer": "İMSAK",
       "row": 7,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İnce, zarif",
-      "answer": "NARİN",
+      "text": "Kader, yazgı",
+      "answer": "BAHT",
       "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Oksijen birleşimi",
+      "answer": "OKSİT",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Arap başörtüsü",
-      "answer": "KEFİYE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mor kokulu çiçek",
-      "answer": "MENEKŞE",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Podyum modeli",
-      "answer": "MANKEN",
+      "text": "Katmerli çörek",
+      "answer": "KETE",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Rutubet",
-      "answer": "NEM",
-      "row": 7,
+      "text": "Dürülmüş kağıt",
+      "answer": "RULO",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Alt görevli",
-      "answer": "AST",
+      "text": "Kesme hamur",
+      "answer": "ERİŞTE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Uzaklık",
-      "answer": "MESAFE",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Halk dilinde ateş",
-      "answer": "HAR",
+      "text": "Yunan dansı",
+      "answer": "SİRTAKİ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bravo",
-      "answer": "AFERİN",
+      "text": "Isıtma cihazı",
+      "answer": "KOMBİ",
       "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ateş dili",
-      "answer": "ALEV",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bulaşık teknesi",
-      "answer": "EVİYE",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Banka işlemi",
-      "answer": "REPO",
+      "text": "Yerine getirme",
+      "answer": "İFA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Rahatsız böcek",
-      "answer": "SİNEK",
-      "row": 5,
+      "text": "Çabuk satma",
+      "answer": "ALSAT",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Omuz atkısı",
-      "answer": "ETOL",
-      "row": 0,
+      "text": "Saygısız",
+      "answer": "KÜSTAH",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Arkalıksız sandalye",
-      "answer": "İSKEMLE",
-      "row": 3,
+      "text": "İskambil oyunu",
+      "answer": "BRİÇ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Canı her şeyi çeken",
+      "answer": "EKTİ",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -166,19 +152,23 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 2,
-      "col": 7
+      "col": 4
     },
     {
       "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 6
+      "col": 0
     },
     {
       "row": 7,
@@ -186,7 +176,11 @@
     },
     {
       "row": 8,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
     },
     {
       "row": 9,
@@ -194,5 +188,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 91
+  "order": 110
 }

@@ -1,0 +1,186 @@
+{
+  "id": "puzzle-290",
+  "title": "Bulmaca 169",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Yangı",
+      "answer": "İLTİHAP",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yağlı merhem",
+      "answer": "POMAT",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Geniş, açık",
+      "answer": "FERAH",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yün giysi",
+      "answer": "KAZAK",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kadar, değin",
+      "answer": "DEK",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alternatif",
+      "answer": "SEÇENEK",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Örnek",
+      "answer": "MİSAL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Büyüklenen",
+      "answer": "KİBİRLİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Güç, derman",
+      "answer": "TAKAT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Belge",
+      "answer": "VESİKA",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kesilmiş olan",
+      "answer": "KESİK",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Koza ipliği",
+      "answer": "İPEK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gayret",
+      "answer": "ÇABA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Balkan oyunu",
+      "answer": "HORA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayrıcalıklı kesim",
+      "answer": "ELİT",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Savaşçı kadın",
+      "answer": "AMAZON",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Değer, fiyat",
+      "answer": "PAHA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Avlanan dağ kuşu",
+      "answer": "KEKLİK",
+      "row": 3,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "zor",
+  "order": 169
+}

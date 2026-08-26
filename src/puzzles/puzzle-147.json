@@ -1,150 +1,165 @@
 {
   "id": "puzzle-147",
-  "title": "Bulmaca 27",
+  "title": "Bulmaca 114",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Yeterlilik",
-      "answer": "KİFAYET",
+      "text": "Şehir",
+      "answer": "KENT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Olumsuzluk sözü",
-      "answer": "DEĞİL",
+      "text": "Zürafa akrabası",
+      "answer": "OKAPİ",
       "row": 2,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yüzeye etkiyen güç",
-      "answer": "BASINÇ",
+      "text": "Ameliyatçı hekim",
+      "answer": "CERRAH",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çaydaki uyarıcı madde",
-      "answer": "TEİN",
+      "text": "Basmakalıp söz",
+      "answer": "KLİŞE",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sersem, alık",
-      "answer": "SEME",
+      "text": "Osmanlı'da öşür",
+      "answer": "AŞAR",
       "row": 5,
-      "col": 1,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "İri çiçekli ağaç",
-      "answer": "MANOLYA",
-      "row": 6,
+      "text": "Zanaat sahibi",
+      "answer": "ESNAF",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kaba, iri",
-      "answer": "HANTAL",
+      "text": "Yaşlı bilge",
+      "answer": "AKSAKAL",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Beyaz süs çiçeği",
+      "answer": "KARTOPU",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Osmanlı kolluğu",
-      "answer": "ZAPTİYE",
+      "text": "Ölü karşıtı",
+      "answer": "DİRİ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ölüm cezası",
-      "answer": "İDAM",
+      "text": "Uzun kulaklı hayvan",
+      "answer": "EŞEK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Alan; oyun yeri",
-      "answer": "SAHA",
+      "text": "İçki dağıtıcı",
+      "answer": "SAKİ",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Eski başlık",
-      "answer": "FES",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Saygı sözü",
-      "answer": "CENAP",
+      "text": "Yadsıma",
+      "answer": "İNKAR",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ölüm ezgisi",
-      "answer": "AĞIT",
+      "text": "Dönme kuvveti",
+      "answer": "TORK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kalın dış giysi",
-      "answer": "MONT",
+      "text": "Çağdaş, modern",
+      "answer": "ASRİ",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gene",
-      "answer": "YİNE",
-      "row": 0,
+      "text": "Gemi onarımı",
+      "answer": "KALAFAT",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kayının eşi",
-      "answer": "ELTİ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Devlet temsilcisi",
-      "answer": "ELÇİ",
+      "text": "Aşırı fiyat",
+      "answer": "FAHİŞ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ok aracı",
-      "answer": "YAY",
+      "text": "Erkek koyun",
+      "answer": "KOÇ",
       "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Azık",
-      "answer": "NEVALE",
+      "text": "Üzüm içkisi",
+      "answer": "ŞARAP",
       "row": 3,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İnternete ait",
+      "answer": "SİBER",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük büyüteç",
+      "answer": "LUP",
+      "row": 6,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 6
     },
     {
@@ -152,14 +167,14 @@
       "col": 0
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 9,
+      "col": 4
     },
     {
-      "row": 5,
-      "col": 5
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 27
+  "difficulty": "orta",
+  "order": 114
 }

@@ -1,0 +1,180 @@
+{
+  "id": "puzzle-282",
+  "title": "Bulmaca 177",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Caz çalıcısı",
+      "answer": "CAZCI",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kızartılmış hamur",
+      "answer": "PİŞİ",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sonunda",
+      "answer": "NİHAYET",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yer çizimi",
+      "answer": "HARİTA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Senato üyesi",
+      "answer": "SENATÖR",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Duvar harcı",
+      "answer": "SIVA",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Dökme işi",
+      "answer": "DÖKÜM",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Taraf, kenar",
+      "answer": "YAN",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Süt satıcısı",
+      "answer": "SÜTÇÜ",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kelime oyunu",
+      "answer": "CİNAS",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Oymak, kabile",
+      "answer": "AŞİRET",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Düşünme yetisi",
+      "answer": "ZİHİN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk deyişi",
+      "answer": "ATASÖZÜ",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eğik durumda",
+      "answer": "YATIK",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Başarı gururu",
+      "answer": "ÖVÜNÇ",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Saygı gösterme",
+      "answer": "İHTİRAM",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    }
+  ],
+  "difficulty": "zor",
+  "order": 177
+}

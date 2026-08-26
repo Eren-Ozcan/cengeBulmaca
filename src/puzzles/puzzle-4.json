@@ -1,162 +1,190 @@
 {
   "id": "puzzle-4",
-  "title": "Bulmaca 61",
+  "title": "Bulmaca 75",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Yaşlı bilge",
-      "answer": "AKSAKAL",
+      "text": "Sıradan halk",
+      "answer": "AVAM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Konuşma vurgusu",
-      "answer": "AKSAN",
+      "text": "İddia, tez",
+      "answer": "SAV",
       "row": 2,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Mutluluk",
-      "answer": "SAADET",
+      "text": "Posta idaresi",
+      "answer": "POSTANE",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yanak boyası",
-      "answer": "ALLIK",
+      "text": "Zor karşıtı",
+      "answer": "KOLAY",
       "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kalın yün kumaş",
-      "answer": "ABA",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Genişleyen etek",
-      "answer": "KLOŞ",
-      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Mesaj",
-      "answer": "İLETİ",
+      "text": "İyilik etme",
+      "answer": "İHSAN",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yönerge",
+      "answer": "TALİMAT",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çelik araç",
+      "answer": "BIÇAK",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yaşam kaynağı",
+      "answer": "SU",
       "row": 7,
-      "col": 1,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Sarmal girinti",
-      "answer": "YİV",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gizli cana kıyma",
-      "answer": "SUİKAST",
+      "text": "Kör sokak",
+      "answer": "ÇIKMAZ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Köyden büyük yer",
-      "answer": "KASABA",
-      "row": 0,
+      "text": "Katılaşmış sıvı",
+      "answer": "PIHTI",
+      "row": 2,
       "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Telefon sözü",
+      "answer": "ALO",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kenar püskülü",
+      "answer": "SAÇAK",
+      "row": 4,
+      "col": 2,
       "arrow": "down"
     },
     {
       "text": "Gösterge çizelgesi",
       "answer": "SKALA",
-      "row": 0,
-      "col": 2,
+      "row": 2,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kötü karşıtı",
-      "answer": "İYİ",
-      "row": 6,
-      "col": 2,
+      "text": "Güçlendirici ilaç",
+      "answer": "TONİK",
+      "row": 2,
+      "col": 4,
       "arrow": "down"
     },
     {
       "text": "Esas, temel",
       "answer": "ASAL",
       "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hizip",
-      "answer": "KLİK",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlı yargıcı",
-      "answer": "KADI",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bulgar parası",
-      "answer": "LEVA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kısa fıkra",
-      "answer": "ANEKDOT",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Armağan levhası",
-      "answer": "ŞİLT",
-      "row": 5,
+      "text": "Tropik meyve",
+      "answer": "ANANAS",
+      "row": 1,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Öz olmayan",
+      "answer": "ÜVEY",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Yumru sebze",
+      "answer": "TURP",
+      "row": 5,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 6
+    },
+    {
+      "row": 1,
+      "col": 4
     },
     {
       "row": 2,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 6,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 0
+      "row": 5,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 4
     },
     {
       "row": 8,
       "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 61
+  "difficulty": "kolay",
+  "order": 75
 }

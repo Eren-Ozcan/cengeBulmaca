@@ -1,160 +1,139 @@
 {
   "id": "puzzle-63",
-  "title": "Bulmaca 99",
-  "rows": 11,
+  "title": "Bulmaca 171",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Gezinti teknesi",
-      "answer": "YAT",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Örnek",
+      "answer": "MİSAL",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Hukuk",
-      "answer": "TÜZE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Toplam",
-      "answer": "YEKUN",
+      "text": "Hekim bakısı",
+      "answer": "MUAYENE",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sert taş",
-      "answer": "GRANİT",
+      "text": "Uyarı aleti",
+      "answer": "SİREN",
       "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dişi at",
-      "answer": "KISRAK",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "At yavrusu",
-      "answer": "TAY",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eksik",
-      "answer": "NOKSAN",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Taht mirasçısı",
-      "answer": "VELİAHT",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tahıl deposu",
-      "answer": "AMBAR",
-      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Topluluk mensubu",
-      "answer": "ÜYE",
-      "row": 8,
+      "text": "Hava cihazı",
+      "answer": "KLİMA",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Can koruyucu",
+      "answer": "FEDAİ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Özlenen memleket",
-      "answer": "SILA",
+      "text": "Dehşet verici",
+      "answer": "KORKUNÇ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Minareden okunan dua",
+      "answer": "SELA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İsim",
+      "answer": "AD",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sofra bezi",
+      "answer": "PEÇETE",
       "row": 9,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Dar kumaş",
-      "answer": "ŞERİT",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Cihaz",
-      "answer": "AYGIT",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ya da",
-      "answer": "VEYA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gemi yapım yeri",
-      "answer": "TERSANE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yatak kasası",
-      "answer": "KARYOLA",
+      "text": "Kazanılmış yatkınlık",
+      "answer": "MELEKE",
       "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Eşya mobilyası",
+      "answer": "DOLAP",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gülünç duruma düşen",
+      "answer": "MASKARA",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Avrupa nehri",
-      "answer": "TUNA",
+      "text": "Hayır",
+      "answer": "İYİLİK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Herhangi kişi",
-      "answer": "KİMSE",
-      "row": 5,
+      "text": "Tok karşıtı",
+      "answer": "AÇ",
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tek, eşsiz",
-      "answer": "ÜNİK",
+      "text": "Hızlı olan",
+      "answer": "SERİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Katlanma erdemi",
-      "answer": "SABIR",
+      "text": "Çözülmemiş dert",
+      "answer": "UKDE",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yer halkı",
-      "answer": "AHALİ",
-      "row": 5,
+      "text": "Dağ lalesi",
+      "answer": "ANEMON",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sözleşme",
-      "answer": "KONTRAT",
-      "row": 3,
+      "text": "Sibirya ırmağı",
+      "answer": "LENA",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Hafif, ince yağmur",
+      "answer": "ÇİSE",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -162,37 +141,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 6,
       "col": 0
     },
     {
-      "row": 10,
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
       "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 99
+  "difficulty": "zor",
+  "order": 171
 }

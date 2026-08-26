@@ -1,160 +1,146 @@
 {
   "id": "puzzle-98",
-  "title": "Bulmaca 62",
-  "rows": 11,
+  "title": "Bulmaca 90",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Harap yapı",
-      "answer": "VİRANE",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Kahvedeki uyarıcı",
+      "answer": "KAFEİN",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Ücretli otomobil",
-      "answer": "TAKSİ",
+      "text": "Hız değişimi",
+      "answer": "İVME",
       "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Karşı çıkma",
+      "answer": "İTİRAZ",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Hüzünlü şiir",
+      "answer": "ELEJİ",
+      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yönerge",
-      "answer": "TALİMAT",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tez canlı",
-      "answer": "ACELECİ",
+      "text": "Zorla alma",
+      "answer": "GASP",
       "row": 4,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Geri çevirme",
-      "answer": "RET",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tütsülenmiş besin",
-      "answer": "FÜME",
-      "row": 6,
-      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Araç bırakma yeri",
-      "answer": "OTOPARK",
+      "text": "Düğmeli giysi",
+      "answer": "CEKET",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Az bulunur",
+      "answer": "NADİDE",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bel bağı",
+      "answer": "KEMER",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yaz meyvesi",
-      "answer": "KARPUZ",
+      "text": "Eski uzaklık ölçüsü",
+      "answer": "FERSAH",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Zehirli element",
-      "answer": "ARSENİK",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Oruç açma",
-      "answer": "İFTAR",
+      "text": "En soğuk mevsim",
+      "answer": "KIŞ",
       "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Odun baltası",
+      "answer": "NACAK",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Saç aracı",
-      "answer": "TOKA",
-      "row": 6,
-      "col": 1,
+      "text": "Kabuk pırıltısı",
+      "answer": "SEDEF",
+      "row": 4,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İranlı",
-      "answer": "ACEM",
+      "text": "Reaksiyon",
+      "answer": "TEPKİME",
       "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Azerbaycan'ın telli çalgısı",
-      "answer": "TAR",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Atletizm sporcusu",
-      "answer": "ATLET",
-      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Nüfuz, itibar",
-      "answer": "FORS",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ulaşmış, kavuşmuş",
-      "answer": "NAİL",
+      "text": "Eylem, iş",
+      "answer": "FİİL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yapmacık davranışlı",
-      "answer": "ZÜPPE",
+      "text": "Bir malın fiyatı",
+      "answer": "EDER",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Temel besin",
-      "answer": "EKMEK",
+      "text": "Aşama, safha",
+      "answer": "EVRE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Değerli kızıl ağaç",
-      "answer": "MAUN",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Metal levha",
-      "answer": "SAC",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Giysi ustası",
-      "answer": "TERZİ",
+      "text": "Arka yüz",
+      "answer": "TERS",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İmge, görüntü",
+      "answer": "İMAJ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bitkin, tükenmiş",
-      "answer": "BİTİK",
+      "text": "Temiz ortam",
+      "answer": "NEZİH",
       "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Atı sürme",
+      "answer": "DEH",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -162,37 +148,45 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 6
+      "col": 3
     },
     {
       "row": 2,
-      "col": 0
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 5,
+      "col": 6
     },
     {
       "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 7
+      "col": 6
     },
     {
       "row": 7,
-      "col": 0
+      "col": 6
     },
     {
-      "row": 7,
-      "col": 7
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
-      "col": 7
+      "col": 0
     }
   ],
   "difficulty": "orta",
-  "order": 62
+  "order": 90
 }

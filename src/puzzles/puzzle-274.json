@@ -1,0 +1,187 @@
+{
+  "id": "puzzle-274",
+  "title": "Bulmaca 126",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Yüz güzelliği",
+      "answer": "CEMAL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yapı arazisi",
+      "answer": "ARSA",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Azimli",
+      "answer": "KARARLI",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Simit satan",
+      "answer": "SİMİTÇİ",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Annenin erkek kardeşi",
+      "answer": "DAYI",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sirküler yazı",
+      "answer": "GENELGE",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Korunma duruşu",
+      "answer": "GARD",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Renkli cam bezeme",
+      "answer": "VİTRAY",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yayımlama",
+      "answer": "NEŞR",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Salepgil süs çiçeği",
+      "answer": "ORKİDE",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ekin kalıntısı",
+      "answer": "SAMAN",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Saray kölesi",
+      "answer": "CARİYE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Korkusuz girişken",
+      "answer": "ATILGAN",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Beton delme kalemi",
+      "answer": "MURÇ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Amaç, erek",
+      "answer": "GAYE",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Önder",
+      "answer": "LİDER",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Geniş karşıtı",
+      "answer": "DAR",
+      "row": 6,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 2
+    }
+  ],
+  "difficulty": "orta",
+  "order": 126
+}

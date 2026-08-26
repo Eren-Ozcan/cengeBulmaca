@@ -1,174 +1,111 @@
 {
   "id": "puzzle-159",
-  "title": "Bulmaca 79",
-  "rows": 12,
+  "title": "Bulmaca 200",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kedi, köpek ayağı",
-      "answer": "PATİ",
+      "text": "Taş çekme oyunu",
+      "answer": "TOMBALA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Fotoğraf duruşu",
-      "answer": "POZ",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Soruşturma özeti",
-      "answer": "FEZLEKE",
+      "text": "Bağırarak duyuran",
+      "answer": "TELLAL",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Silindir biçimli tahıl kulesi",
-      "answer": "SİLO",
+      "text": "Tek kişilik konuşma",
+      "answer": "MONOLOG",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gemisiyle ünlü peygamber",
-      "answer": "NUH",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Salahiyetli",
-      "answer": "YETKİLİ",
+      "text": "Boğuk ses",
+      "answer": "KISIK",
       "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bozukluk, kusur",
-      "answer": "DEFO",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zirve",
-      "answer": "PİK",
-      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yoga uygulayıcısı",
-      "answer": "YOGİ",
+      "text": "Ateşli silah",
+      "answer": "TÜFEK",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kalın taban derisi",
+      "answer": "KÖSELE",
       "row": 7,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Önceden ödenen",
-      "answer": "PEŞİN",
+      "text": "Geçiş yolu",
+      "answer": "TRANSİT",
       "row": 8,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Pasif",
-      "answer": "EDİLGEN",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hasta bölümü",
-      "answer": "REVİR",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çok sıkıntı çeken",
-      "answer": "ÇİLEKEŞ",
-      "row": 10,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sağlıklı olma",
-      "answer": "AFİYET",
+      "text": "Toplu taşıt",
+      "answer": "OTOBÜS",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hayali varlık",
-      "answer": "PERİ",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayvan ölümü",
-      "answer": "TELEF",
+      "text": "Engelleme, yasak",
+      "answer": "MEN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sert tartışma",
-      "answer": "CEDEL",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Aynı atom numarası",
-      "answer": "İZOTOP",
+      "text": "Kullanımı engelli",
+      "answer": "BLOKE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yöresel söyleyiş",
-      "answer": "ŞİVE",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hayır",
-      "answer": "İYİLİK",
-      "row": 5,
+      "text": "Yanak boyası",
+      "answer": "ALLIK",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sterlin parçası",
-      "answer": "PENİ",
+      "text": "Güneydoğu Asya ülkesi",
+      "answer": "LAOS",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Büyük toplantı",
-      "answer": "KONGRE",
+      "text": "Miyavlayan hayvan",
+      "answer": "KEDİ",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Öğretim kurumu",
-      "answer": "OKUL",
+      "text": "İdrak",
+      "answer": "ALGI",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ağılı",
-      "answer": "ZEHİRLİ",
-      "row": 0,
+      "text": "Yiyecek odası",
+      "answer": "KİLER",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -176,7 +113,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 7
     },
     {
       "row": 5,
@@ -188,6 +133,18 @@
     },
     {
       "row": 6,
+      "col": 2
+    },
+    {
+      "row": 6,
+      "col": 3
+    },
+    {
+      "row": 6,
+      "col": 4
+    },
+    {
+      "row": 6,
       "col": 6
     },
     {
@@ -196,25 +153,29 @@
     },
     {
       "row": 8,
-      "col": 6
+      "col": 1
     },
     {
       "row": 8,
-      "col": 7
+      "col": 2
     },
     {
-      "row": 10,
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
       "col": 6
     },
     {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
+      "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 79
+  "difficulty": "zor",
+  "order": 200
 }

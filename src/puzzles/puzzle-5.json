@@ -1,144 +1,145 @@
 {
   "id": "puzzle-5",
-  "title": "Bulmaca 9",
+  "title": "Bulmaca 106",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Görevlendirilen kurul",
-      "answer": "HEYET",
+      "text": "Sağ görüşlü",
+      "answer": "SAĞCI",
       "row": 0,
-      "col": 0,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Eyer yapımcısı",
-      "answer": "SARAÇ",
+      "text": "Ölçüler",
+      "answer": "EBAT",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tekel",
-      "answer": "İNHİSAR",
+      "text": "Çirkin, acayip",
+      "answer": "UCUBE",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Türkiye'nin başkenti",
-      "answer": "ANKARA",
+      "text": "Yaka iğnesi",
+      "answer": "BROŞ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Baş",
-      "answer": "KAFA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tesirsiz",
-      "answer": "ETKİSİZ",
-      "row": 6,
+      "text": "Dudak boyası",
+      "answer": "RUJ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yat limanı",
-      "answer": "MARİNA",
-      "row": 8,
+      "text": "Kimlik belgesi",
+      "answer": "KART",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kumar oyunu",
+      "answer": "RULET",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uzun yol koşusu",
-      "answer": "MARATON",
-      "row": 8,
+      "text": "Belge",
+      "answer": "VESİKA",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dinî inanç",
+      "answer": "İMAN",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Süre, sıra",
-      "answer": "ESNA",
+      "text": "Çalışma süresi",
+      "answer": "SEANS",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Zorunlu",
+      "answer": "MECBUR",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Fırlatma",
-      "answer": "ATMA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Soğanlı et",
-      "answer": "YAHNİ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Beyaz yağış",
-      "answer": "KAR",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ekşimsi yaz meyvesi",
-      "answer": "ERİK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kullanım ücreti",
-      "answer": "KİRA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaygı, dert",
-      "answer": "TASA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Turnusol kızartan",
-      "answer": "ASİT",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Rus hükümdarı",
-      "answer": "ÇAR",
+      "text": "Kent soylu",
+      "answer": "BURJUVA",
       "row": 1,
-      "col": 5,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Süs köpeği",
-      "answer": "FİNO",
+      "text": "Tahta ayakkabı",
+      "answer": "SABO",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Göz merceği",
+      "answer": "LENS",
       "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Savaşa ara",
+      "answer": "ATEŞKES",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yunanistan'ın başkenti",
+      "answer": "ATİNA",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Oruç ayı",
-      "answer": "RAMAZAN",
+      "text": "Aydınlık, ışık",
+      "answer": "NUR",
       "row": 2,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilinç durumu",
+      "answer": "TRANS",
+      "row": 4,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
     {
       "row": 0,
       "col": 5
@@ -148,14 +149,50 @@
       "col": 6
     },
     {
+      "row": 0,
+      "col": 7
+    },
+    {
       "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 5
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 6,
       "col": 6
     },
     {
-      "row": 5,
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
       "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
     }
   ],
-  "difficulty": "kolay",
-  "order": 9
+  "difficulty": "orta",
+  "order": 106
 }

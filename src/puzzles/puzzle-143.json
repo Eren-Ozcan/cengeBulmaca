@@ -1,188 +1,139 @@
 {
   "id": "puzzle-143",
-  "title": "Bulmaca 16",
-  "rows": 12,
+  "title": "Bulmaca 23",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Ayarlanmış maç",
-      "answer": "ŞİKE",
-      "row": 0,
+      "text": "Bilirkişi",
+      "answer": "EKSPER",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Şerbetli yufka tatlısı",
-      "answer": "BAKLAVA",
+      "text": "Kaynak su",
+      "answer": "PINAR",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Benzer, benzeyen",
-      "answer": "GİBİ",
+      "text": "Fransız idam aracı",
+      "answer": "GİYOTİN",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Taraf, kenar",
-      "answer": "YAN",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Enerji üretim yeri",
-      "answer": "SANTRAL",
+      "text": "Yakalama tuzağı",
+      "answer": "KAPAN",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kabul eden",
-      "answer": "RAZI",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Türk hükümdarı",
-      "answer": "HAKAN",
+      "text": "Askerlik çağrısı",
+      "answer": "CELP",
       "row": 5,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Dünya ucu",
-      "answer": "KUTUP",
+      "text": "Hesap kertiği",
+      "answer": "ÇETELE",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gönenç",
-      "answer": "REFAH",
+      "text": "Tren bölümü",
+      "answer": "VAGON",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Görünüm",
-      "answer": "MANZARA",
+      "text": "Ağır oyun türü",
+      "answer": "TRAJEDİ",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Pik",
-      "answer": "MAÇA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yol birleşimi",
-      "answer": "ÇAT",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Metal pişirme aracı",
-      "answer": "IZGARA",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bataklık kuşu",
-      "answer": "İBİS",
+      "text": "Destansı",
+      "answer": "EPİK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ateşli hastalık",
-      "answer": "HUMMA",
+      "text": "Çabalama",
+      "answer": "CEHT",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kusur",
-      "answer": "KABAHAT",
+      "text": "Dünyanın sonu",
+      "answer": "KIYAMET",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İki ışının kesişimi",
-      "answer": "AÇI",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tarladaki tahıl",
-      "answer": "EKİN",
+      "text": "Züppe",
+      "answer": "SNOP",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Açıkgöz",
-      "answer": "KURNAZ",
+      "text": "Bulgar parası",
+      "answer": "LEVA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sallanan barfiks",
-      "answer": "TRAPEZ",
-      "row": 3,
+      "text": "Berabere kalma",
+      "answer": "PATA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yoğurt içeceği",
-      "answer": "AYRAN",
-      "row": 1,
+      "text": "Kumsal",
+      "answer": "PLAJ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıkıntısız, huzurlu",
+      "answer": "ERİNÇ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Görünüm, kılık",
-      "answer": "FAÇA",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dinî öğüt",
-      "answer": "VAAZ",
-      "row": 1,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ziyan",
-      "answer": "ZARAR",
+      "text": "Bir denizimiz",
+      "answer": "EGE",
       "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde ateş",
+      "answer": "OD",
+      "row": 7,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hatalı",
-      "answer": "YANLIŞ",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Yapılan yanlış",
-      "answer": "HATA",
-      "row": 7,
+      "text": "Açık, apaçık",
+      "answer": "ALENİ",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -190,33 +141,53 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
+      "col": 0
     },
     {
       "row": 0,
       "col": 6
     },
     {
+      "row": 0,
+      "col": 7
+    },
+    {
       "row": 1,
-      "col": 4
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 6
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 0
+      "row": 5,
+      "col": 6
     },
     {
-      "row": 11,
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
       "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 16
+  "order": 23
 }

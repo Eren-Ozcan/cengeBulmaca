@@ -1,157 +1,186 @@
 {
   "id": "puzzle-110",
-  "title": "Bulmaca 3",
+  "title": "Bulmaca 74",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Renkli cam bezeme",
-      "answer": "VİTRAY",
-      "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Düş",
-      "answer": "RÜYA",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Uyumlu düzen",
-      "answer": "İNSİCAM",
-      "row": 2,
+      "text": "Yetişkin",
+      "answer": "ERİŞKİN",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Akdeniz balığı",
-      "answer": "ÇİPURA",
+      "text": "Ahlak kuralları",
+      "answer": "ETİK",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gemi yapım yeri",
+      "answer": "TERSANE",
+      "row": 2,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ani sarsıntı",
+      "answer": "ŞOK",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zırhlı taşıt",
+      "answer": "TANK",
       "row": 4,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Güldüren söz",
-      "answer": "ESPRİ",
-      "row": 6,
-      "col": 0,
+      "text": "Ara süresi",
+      "answer": "TATİL",
+      "row": 5,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Mukavemet",
-      "answer": "DİRENÇ",
+      "text": "Elverişli şart",
+      "answer": "İMKAN",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zehirli element",
+      "answer": "ARSENİK",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sadaka isteyen",
-      "answer": "DİLENCİ",
+      "text": "Onuncu ay",
+      "answer": "EKİM",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Konut",
-      "answer": "MESKEN",
+      "text": "Fiyatı arttırılmış",
+      "answer": "ZAMLI",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yük kaldırma",
-      "answer": "VİNÇ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Eylem",
-      "answer": "EDİM",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Zincirleme dizi",
-      "answer": "SİLSİLE",
+      "text": "Ağaç çekiç",
+      "answer": "TOKMAK",
       "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Süt hayvanı",
+      "answer": "İNEK",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yapmacık tavır",
-      "answer": "TRİP",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Baskı makinesi",
-      "answer": "PRES",
+      "text": "Bunalım",
+      "answer": "KRİZ",
       "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Boyun bağı",
+      "answer": "TASMA",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Geri dönme",
-      "answer": "RÜCU",
+      "text": "Kabuklu güz yemişi",
+      "answer": "KESTANE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Görsel duyum",
-      "answer": "RENK",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Saflık derecesi",
-      "answer": "AYAR",
+      "text": "Boyun eğme",
+      "answer": "İTAAT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kalın karşıtı",
-      "answer": "İNCE",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dağ yanı",
-      "answer": "YAMAÇ",
+      "text": "Uyutma türküsü",
+      "answer": "NİNNİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Uzak Doğu ülkesi",
-      "answer": "ÇİN",
-      "row": 6,
-      "col": 6,
+      "text": "Avlanan dağ kuşu",
+      "answer": "KEKLİK",
+      "row": 1,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 2
+      "col": 3
     },
     {
-      "row": 5,
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
       "col": 0
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 3
+  "order": 74
 }

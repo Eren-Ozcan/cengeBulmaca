@@ -1,0 +1,192 @@
+{
+  "id": "puzzle-263",
+  "title": "Bulmaca 58",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Düzgün konuşan",
+      "answer": "FASİH",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kürklü hayvan",
+      "answer": "SAMUR",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayrılış selamlaması",
+      "answer": "VEDA",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Nüfuzlu kimse",
+      "answer": "KODAMAN",
+      "row": 3,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yaptırım",
+      "answer": "CEZA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tuzlanmış torik",
+      "answer": "LAKERDA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilme süreci",
+      "answer": "BİLİŞ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Enerji çeviren düzenek",
+      "answer": "MAKİNE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mal paylaşımı",
+      "answer": "ZEKAT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Pozitif bilim",
+      "answer": "FEN",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Sözcük",
+      "answer": "KELİME",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çam meyvesi",
+      "answer": "KOZALAK",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kurum lekesi",
+      "answer": "İS",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Altmış saniye",
+      "answer": "DAKİKA",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gaz karışımı",
+      "answer": "HAVA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Aynı değerde",
+      "answer": "EŞİT",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Devlet çalışanı",
+      "answer": "MEMUR",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak Doğu bilgesi",
+      "answer": "BUDA",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İkili şarkı",
+      "answer": "DÜET",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Katlı yatak",
+      "answer": "RANZA",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 58
+}

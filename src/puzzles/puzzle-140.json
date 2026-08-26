@@ -1,162 +1,193 @@
 {
   "id": "puzzle-140",
-  "title": "Bulmaca 75",
+  "title": "Bulmaca 159",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Gerçek",
-      "answer": "HAKİKAT",
+      "text": "Çift kamışlı çalgı",
+      "answer": "OBUA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yoğrulmuş un",
-      "answer": "HAMUR",
-      "row": 2,
+      "text": "Yassı, mayalı ekmek",
+      "answer": "PİDE",
+      "row": 1,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yoksulluk",
+      "answer": "SEFALET",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kirli mutfak eşyası",
-      "answer": "BULAŞIK",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Temenni",
-      "answer": "DİLEK",
+      "text": "Alaylı anlatım",
+      "answer": "İRONİ",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kale vuruşu",
-      "answer": "ŞUT",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "78 numaralı element",
+      "answer": "PLATİN",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Çok büyük",
-      "answer": "DEVASA",
+      "text": "İşi yapan",
+      "answer": "FAİL",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Saçma sapan",
-      "answer": "ABUK",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
+      "text": "Destek noktası",
+      "answer": "MESNET",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Otlak",
-      "answer": "MERA",
+      "text": "Toplu kalabalık",
+      "answer": "KİTLE",
       "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Patates atıştırmalığı",
-      "answer": "CİPS",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Böğürtlen benzeri meyve",
-      "answer": "AHUDUDU",
+      "text": "Kez, kere",
+      "answer": "DEFA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hayvan besleme",
+      "answer": "BESİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ürün niteliği",
-      "answer": "KALİTE",
-      "row": 0,
+      "text": "Adana ilçesi",
+      "answer": "FEKE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Edilgin",
+      "answer": "PASİF",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Üretim işlemi",
-      "answer": "İMAL",
-      "row": 0,
+      "text": "Kısa namlulu tüfek",
+      "answer": "FİLİNTA",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Baştan çıkaran kadın",
-      "answer": "VAMP",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Parlak kâğıt",
-      "answer": "KUŞE",
-      "row": 0,
+      "text": "Koşut",
+      "answer": "PARALEL",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gereksiz, yersiz",
-      "answer": "ABES",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Zayıf, cılız",
-      "answer": "ARIK",
+      "text": "Uçak kullanıcısı",
+      "answer": "PİLOT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kale duvarı",
-      "answer": "SUR",
-      "row": 5,
+      "text": "Deri sıvısı",
+      "answer": "TER",
+      "row": 6,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Aykırılık bağlacı",
-      "answer": "FAKAT",
-      "row": 4,
+      "text": "Kot kumaşı",
+      "answer": "DENİM",
+      "row": 1,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kelimeler bütünü",
+      "answer": "METİN",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Çift karşıtı",
+      "answer": "TEK",
+      "row": 6,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
       "row": 2,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 7,
-      "col": 0
+      "col": 6
     },
     {
       "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 1
+      "col": 6
     },
     {
       "row": 9,
-      "col": 5
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 75
+  "difficulty": "zor",
+  "order": 159
 }

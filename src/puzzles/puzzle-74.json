@@ -1,181 +1,160 @@
 {
   "id": "puzzle-74",
-  "title": "Bulmaca 31",
-  "rows": 12,
+  "title": "Bulmaca 1",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Delik açma aracı",
-      "answer": "MATKAP",
-      "row": 1,
+      "text": "Duyarlı",
+      "answer": "HASSAS",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Simsiyah",
+      "answer": "KAPKARA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İki parça mayo",
+      "answer": "BİKİNİ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tuzlanmış torik",
+      "answer": "LAKERDA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Jimnastik demiri",
+      "answer": "BARFİKS",
+      "row": 5,
       "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırmızı taneli meyve",
-      "answer": "NAR",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tırnak cilası",
-      "answer": "OJE",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Zan, zehap",
-      "answer": "SANI",
-      "row": 2,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İçkili mekân",
-      "answer": "BAR",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Şah mat oyunu",
-      "answer": "SATRANÇ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Akışkan madde",
-      "answer": "SIVI",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yas",
-      "answer": "MATEM",
+      "text": "Arap harfi",
+      "answer": "VAV",
       "row": 6,
-      "col": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Efsanevi kuş",
+      "answer": "ANKA",
+      "row": 7,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Tatlı satılan yer",
-      "answer": "PASTANE",
+      "text": "Mürekkep balığı",
+      "answer": "KALAMAR",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Adam kayırma",
-      "answer": "İLTİMAS",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bilardo sopası",
-      "answer": "İSTEKA",
-      "row": 9,
+      "text": "Dikenli çiçek",
+      "answer": "GÜL",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çevrilen oyuncak",
-      "answer": "TOPAÇ",
-      "row": 11,
-      "col": 0,
+      "text": "Akyuvar taşıyan sıvı",
+      "answer": "LENF",
+      "row": 9,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Deri sertleşmesi",
-      "answer": "NASIR",
-      "row": 1,
+      "text": "Akıllı, bilge",
+      "answer": "AKİL",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dans, yarış",
-      "answer": "PİST",
-      "row": 7,
+      "text": "Azerbaycan'ın başkenti",
+      "answer": "BAKÜ",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sebze satıcısı",
-      "answer": "MANAV",
+      "text": "Su taşıyıcı",
+      "answer": "SAKA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Havada dönme",
-      "answer": "SALTO",
-      "row": 6,
+      "text": "Saf, şaşkın",
+      "answer": "AVAL",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Rafinaj",
-      "answer": "ARITIM",
+      "text": "Haber sunucusu",
+      "answer": "SPİKER",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ritmik egzersiz",
-      "answer": "STEP",
-      "row": 7,
-      "col": 3,
+      "text": "Sivilce",
+      "answer": "AKNE",
+      "row": 0,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eski değerli eşya",
-      "answer": "ANTİKA",
+      "text": "Etkin, çalışkan",
+      "answer": "FAAL",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mavi boya elementi",
-      "answer": "KOBALT",
+      "text": "Başka, öteki, diğer",
+      "answer": "SAİR",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Erek, gaye",
-      "answer": "AMAÇ",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Casus",
-      "answer": "AJAN",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sicilya yanardağı",
-      "answer": "ETNA",
+      "text": "Felç",
+      "answer": "İNME",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Satış yeri",
+      "answer": "DÜKKAN",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kâkül",
-      "answer": "PERÇEM",
+      "text": "Nişastalı bulamaç",
+      "answer": "LAPA",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yeni karşıtı",
-      "answer": "ESKİ",
-      "row": 7,
+      "text": "Harcama, kullanma",
+      "answer": "SARF",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -183,37 +162,17 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 4
+      "col": 6
     },
     {
       "row": 1,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 10,
       "col": 6
     },
     {
-      "row": 11,
-      "col": 6
+      "row": 5,
+      "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 31
+  "order": 1
 }

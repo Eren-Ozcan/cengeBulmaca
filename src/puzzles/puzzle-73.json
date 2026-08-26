@@ -1,153 +1,139 @@
 {
   "id": "puzzle-73",
-  "title": "Bulmaca 68",
-  "rows": 11,
+  "title": "Bulmaca 53",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "İlave, ek",
-      "answer": "DAHA",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Müzik",
-      "answer": "MUSİKİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Süs oyuğu",
-      "answer": "NİŞ",
-      "row": 2,
+      "text": "Göz açtırmayan",
+      "answer": "AMANSIZ",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Soyluluk unvanı",
-      "answer": "KONT",
-      "row": 3,
-      "col": 3,
+      "text": "Yaban barınağı",
+      "answer": "İN",
+      "row": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tuzlanmış torik",
-      "answer": "LAKERDA",
+      "text": "Ruhsal tedavi",
+      "answer": "TERAPİ",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İlmikli ip",
+      "answer": "KEMENT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Okul büfesi",
-      "answer": "KANTİN",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kıvırcık köpek",
-      "answer": "KANİŞ",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Araba süren",
-      "answer": "ARABACI",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük, sevimli",
-      "answer": "MİNİK",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eziyet çektiren",
-      "answer": "CEFAKAR",
-      "row": 9,
+      "text": "Yıl",
+      "answer": "SENE",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sebep olan güç",
-      "answer": "AMİL",
+      "text": "Süt tatlısı",
+      "answer": "KREMA",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyük tüy",
+      "answer": "TELEK",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tavan lambası",
+      "answer": "AVİZE",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tenis aracı",
+      "answer": "RAKET",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Re'den sonraki nota",
+      "answer": "Mİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yerine koyma",
-      "answer": "İKAME",
-      "row": 6,
-      "col": 0,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Erkek hizmetçi",
-      "answer": "UŞAK",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Anlayışlı, sezgili",
-      "answer": "ARİF",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Eşin annesi",
-      "answer": "KAYNANA",
+      "text": "Domates sosu",
+      "answer": "KETÇAP",
       "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dalga aleti",
+      "answer": "ANTEN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eskiden beri çalışan",
+      "answer": "EMEKTAR",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sivri çıkıntı",
-      "answer": "DİKEN",
+      "text": "Müddet",
+      "answer": "SÜRE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Horoz tacı",
-      "answer": "İBİK",
-      "row": 6,
+      "text": "Yakışır görülen",
+      "answer": "REVA",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ses ayarı",
-      "answer": "AKORT",
-      "row": 0,
+      "text": "Analık",
+      "answer": "ANNELİK",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Latife",
-      "answer": "ŞAKA",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyük kümes hayvanı",
-      "answer": "HİNDİ",
+      "text": "Zorla el koyma",
+      "answer": "ZAPT",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bildik",
-      "answer": "TANIDIK",
-      "row": 2,
+      "text": "İçki yiyeceği",
+      "answer": "MEZE",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük ölçek",
+      "answer": "MAKET",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -155,15 +141,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
@@ -171,29 +153,33 @@
     },
     {
       "row": 1,
-      "col": 0
+      "col": 7
     },
     {
-      "row": 5,
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
       "col": 0
     },
     {
       "row": 6,
-      "col": 6
+      "col": 0
     },
     {
       "row": 7,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
+      "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 68
+  "difficulty": "kolay",
+  "order": 53
 }

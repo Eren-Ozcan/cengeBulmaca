@@ -1,160 +1,132 @@
 {
   "id": "puzzle-83",
-  "title": "Bulmaca 84",
-  "rows": 11,
+  "title": "Bulmaca 113",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Ekin biçme",
-      "answer": "HASAT",
-      "row": 0,
+      "text": "Uyum sağlama",
+      "answer": "İNTİBAK",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Öğüt",
-      "answer": "NASİHAT",
+      "text": "İnek yavrusu",
+      "answer": "DANA",
       "row": 2,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İhtiraslı",
-      "answer": "TUTKULU",
+      "text": "Gagası keseli kuş",
+      "answer": "PELİKAN",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İnsan yapısı",
-      "answer": "BİNA",
-      "row": 3,
+      "text": "Ortaokul sonrası",
+      "answer": "LİSE",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Çocuk dilinde kedi",
+      "answer": "PİSİ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Deri kaplı çalgı",
-      "answer": "DARBUKA",
+      "text": "Kadın elbisesi",
+      "answer": "ROP",
       "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Çenesi düşük",
+      "answer": "ÇALÇENE",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ad",
-      "answer": "İSİM",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Damar aracı",
-      "answer": "STENT",
+      "text": "Zafer, galibiyet",
+      "answer": "YENGİ",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İkinci ad",
-      "answer": "LAKAP",
+      "text": "Gerçek, somut",
+      "answer": "REEL",
       "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Piknik yeri",
-      "answer": "MESİRE",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Doğruluk belgesi",
-      "answer": "KANIT",
-      "row": 10,
-      "col": 1,
+      "text": "Sertleştirilmiş demir",
+      "answer": "ÇELİK",
+      "row": 9,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Panzehir",
-      "answer": "ANTİDOT",
-      "row": 0,
+      "text": "İç taraf",
+      "answer": "İÇERİ",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Buhar banyosu",
-      "answer": "SAUNA",
-      "row": 0,
+      "text": "Söylence",
+      "answer": "EFSANE",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Eleme aracı",
-      "answer": "ELEK",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İç kumaş",
-      "answer": "ASTAR",
-      "row": 0,
+      "text": "Edat",
+      "answer": "İLGEÇ",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "ABD uzay ajansı",
-      "answer": "NASA",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İstemsiz hareket",
-      "answer": "TİK",
+      "text": "Kır şiiri",
+      "answer": "İDİL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çok yorgun",
-      "answer": "BİTKİN",
-      "row": 4,
+      "text": "Sıkıntılı dönem",
+      "answer": "ÇİLE",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bitki toprağı",
-      "answer": "HUMUS",
-      "row": 1,
+      "text": "Erden kız",
+      "answer": "BAKİRE",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bal böceği",
-      "answer": "ARI",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "At demiri",
-      "answer": "NAL",
+      "text": "Rakıya koku veren",
+      "answer": "ANASON",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Güreşçi pantolonu",
-      "answer": "KİSPET",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Avuç miktarı",
-      "answer": "TUTAM",
-      "row": 1,
+      "text": "Uzun koltuk",
+      "answer": "KANEPE",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -162,11 +134,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
     },
     {
       "row": 0,
-      "col": 7
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 7,
@@ -174,7 +170,11 @@
     },
     {
       "row": 8,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 8,
@@ -182,17 +182,9 @@
     },
     {
       "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
       "col": 0
-    },
-    {
-      "row": 10,
-      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 84
+  "order": 113
 }

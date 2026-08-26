@@ -1,221 +1,165 @@
 {
   "id": "puzzle-58",
-  "title": "Bulmaca 117",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 39",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Yangı",
-      "answer": "İLTİHAP",
+      "text": "Osmanlı atlı askeri",
+      "answer": "SİPAHİ",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ufki",
+      "answer": "YATAY",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sonradan çıkan",
-      "answer": "ARIZİ",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hak etme",
-      "answer": "LİYAKAT",
+      "text": "Devingen",
+      "answer": "DİNAMİK",
       "row": 3,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gösterili eğlence yeri",
-      "answer": "KABARE",
+      "text": "İyiden iyiye",
+      "answer": "ENİKONU",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Arap para birimi",
-      "answer": "DİNAR",
+      "text": "İlk ay",
+      "answer": "OCAK",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Perdeli çalgı",
-      "answer": "GİTAR",
-      "row": 7,
+      "text": "Tekne kaptanı",
+      "answer": "REİS",
+      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Hayali canavar",
-      "answer": "ÖCÜ",
+      "text": "Cam (eski dilde)",
+      "answer": "SIRÇA",
       "row": 7,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Karar gücü",
-      "answer": "İRADE",
+      "text": "Subjektif",
+      "answer": "ÖZNEL",
       "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İkaz",
-      "answer": "UYARI",
-      "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Anlayış, sağduyu",
-      "answer": "İZAN",
-      "row": 10,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Konuğu ağırlama",
-      "answer": "İKRAM",
-      "row": 10,
+      "text": "Akarsu bölgesi",
+      "answer": "HAVZA",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gelecek okuma",
-      "answer": "FAL",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Öç isteği",
-      "answer": "KİN",
-      "row": 3,
+      "text": "Yalnızca",
+      "answer": "SADECE",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Mücadele, savaş",
-      "answer": "CENK",
+      "text": "Eski dilde ayak",
+      "answer": "PA",
       "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yağma",
-      "answer": "TALAN",
+      "text": "Özen",
+      "answer": "İTİNA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kurbağa yavrusu",
-      "answer": "İRİBAŞ",
+      "text": "Büyük korku",
+      "answer": "PANİK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yeşil sebze",
-      "answer": "HIYAR",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kıyafet",
-      "answer": "GİYİM",
+      "text": "Kelam",
+      "answer": "SÖZ",
       "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bacak ucu",
+      "answer": "AYAK",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kırıcı söz",
-      "answer": "AZAR",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırmızı, tatlı meyve",
-      "answer": "KİRAZ",
+      "text": "Onama, kabul",
+      "answer": "RIZA",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çağdaş",
+      "answer": "MODERN",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dik dalış",
-      "answer": "PİKE",
+      "text": "Verilen özgürlük",
+      "answer": "İZİN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yan, cephe",
-      "answer": "TARAF",
-      "row": 6,
+      "text": "Mersin'in eski adı",
+      "answer": "İÇEL",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Namına, hesabına",
-      "answer": "ADINA",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Arkalıksız iskemle",
-      "answer": "TABURE",
+      "text": "Mukaddes",
+      "answer": "KUTSAL",
       "row": 2,
-      "col": 8,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 0,
-      "col": 8
-    },
-    {
       "row": 1,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 8
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 5,
       "col": 7
     },
     {
@@ -228,25 +172,17 @@
     },
     {
       "row": 7,
-      "col": 2
-    },
-    {
-      "row": 9,
       "col": 0
     },
     {
       "row": 9,
-      "col": 8
+      "col": 5
     },
     {
-      "row": 10,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 8
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 117
+  "difficulty": "kolay",
+  "order": 39
 }

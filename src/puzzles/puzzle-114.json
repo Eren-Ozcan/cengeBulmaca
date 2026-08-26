@@ -1,167 +1,118 @@
 {
   "id": "puzzle-114",
-  "title": "Bulmaca 43",
-  "rows": 11,
+  "title": "Bulmaca 161",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Küçük ışık",
-      "answer": "SPOT",
+      "text": "Görevden ayrılma",
+      "answer": "İSTİFA",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "İnanç sistemi",
-      "answer": "DİN",
+      "text": "Üst karşıtı",
+      "answer": "ALT",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Uçtan geniş etek",
-      "answer": "EVAZE",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Koruyucu başlık",
-      "answer": "KASK",
-      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yozlaşmış, bozulmuş, dejenere",
-      "answer": "YOZ",
+      "text": "Böbrek biçimli çerez",
+      "answer": "KAJU",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Katman",
+      "answer": "TABAKA",
       "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Taş çekme oyunu",
-      "answer": "TOMBALA",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Taş yolu",
-      "answer": "ŞOSE",
-      "row": 4,
+      "text": "Besin ögesi",
+      "answer": "VİTAMİN",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tatlı çörek",
-      "answer": "KEK",
+      "text": "Üstün beceri",
+      "answer": "HÜNER",
       "row": 5,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uzun gezi",
-      "answer": "SEYAHAT",
+      "text": "Olay, durum",
+      "answer": "VAKA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Polonya dansı",
+      "answer": "POLKA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Oturulacak şey",
-      "answer": "OTURAK",
+      "text": "Boş yere",
+      "answer": "BEYHUDE",
       "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Gerekli gereçler",
-      "answer": "LEVAZIM",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Külhanbeyi",
-      "answer": "APAŞ",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yayla",
-      "answer": "PLATO",
+      "text": "Yangı",
+      "answer": "İLTİHAP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tek icra",
-      "answer": "SOLO",
-      "row": 6,
-      "col": 1,
+      "text": "Süregelen düzen",
+      "answer": "STATÜKO",
+      "row": 0,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kibar çevre",
-      "answer": "SOSYETE",
+      "text": "Sıradan, basmakalıp",
+      "answer": "BANAL",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ayakla vuruş",
-      "answer": "TEKME",
+      "text": "Yerine koyma",
+      "answer": "İKAME",
       "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuşların barınağı",
-      "answer": "YUVA",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Viran",
-      "answer": "HARAP",
-      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kötek",
-      "answer": "DAYAK",
+      "text": "Yoksul",
+      "answer": "FAKİR",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tam anlamıyla",
-      "answer": "HAZA",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yalıtılmış olan",
-      "answer": "İZOLE",
+      "text": "Casus",
+      "answer": "AJAN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Cereyan",
-      "answer": "AKIŞ",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kibarlık",
-      "answer": "NEZAKET",
-      "row": 0,
+      "text": "Ad",
+      "answer": "İSİM",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -169,29 +120,73 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
       "col": 4
     },
     {
       "row": 6,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 7
+      "col": 1
     },
     {
-      "row": 10,
-      "col": 0
+      "row": 8,
+      "col": 2
     },
     {
-      "row": 10,
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 43
+  "difficulty": "zor",
+  "order": 161
 }

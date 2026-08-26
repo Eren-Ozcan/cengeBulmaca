@@ -1,208 +1,161 @@
 {
   "id": "puzzle-122",
-  "title": "Bulmaca 143",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 118",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Çadır yeri",
-      "answer": "KAMP",
+      "text": "Moda gösterisi",
+      "answer": "DEFİLE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Erdemce üstün",
-      "answer": "YÜCE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Avrupa futbol birliği",
-      "answer": "UEFA",
+      "text": "Yapay tatlandırıcı",
+      "answer": "SAKARİN",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Peygamber sözü",
-      "answer": "HADİS",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kazanılmış yatkınlık",
-      "answer": "MELEKE",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Randıman",
-      "answer": "VERİM",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çalma aracı",
-      "answer": "ZİL",
-      "row": 5,
+      "text": "Üreteç",
+      "answer": "DİNAMO",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kapatma aleti",
-      "answer": "KİLİT",
-      "row": 6,
-      "col": 3,
+      "text": "İyilik, lütuf",
+      "answer": "NİMET",
+      "row": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nağme",
-      "answer": "TERANE",
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Geçiş",
+      "answer": "İNTİKAL",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Nem",
+      "answer": "RUTUBET",
       "row": 7,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İşi olmayan",
-      "answer": "İŞSİZ",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kuran'da altıncı sure",
-      "answer": "ENAM",
-      "row": 9,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kin tutan",
-      "answer": "KİNDAR",
-      "row": 11,
-      "col": 1,
+      "text": "İlenme, yakınma",
+      "answer": "AH",
+      "row": 9,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Sergileme camekânı",
-      "answer": "VİTRİN",
-      "row": 4,
+      "text": "Hafif yel",
+      "answer": "ESİNTİ",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Davranış, işlem",
-      "answer": "MUAMELE",
+      "text": "Geçici, ölümlü",
+      "answer": "FANİ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Vuruş sesi",
-      "answer": "ŞAK",
-      "row": 8,
+      "text": "Etkisiz, yansız",
+      "answer": "NÖTR",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Baba",
-      "answer": "PEDER",
+      "text": "Bir yerde oturma",
+      "answer": "İKAMET",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Devlete ait",
-      "answer": "RESMİ",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Cankurtaran sandalı",
-      "answer": "FİLİKA",
-      "row": 1,
+      "text": "Sim işlemeli kumaş",
+      "answer": "LAME",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kokulu beyaz çiçek",
-      "answer": "YASEMİN",
+      "text": "Loş, kuytu",
+      "answer": "İZBE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Şehvet uyandıran",
+      "answer": "EROTİK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Romanya parası",
-      "answer": "LEY",
-      "row": 5,
+      "text": "Etiket kağıdı",
+      "answer": "YAFTA",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Alevi ibadethanesi",
-      "answer": "CEMEVİ",
-      "row": 0,
+      "text": "Kuşak",
+      "answer": "NESİL",
+      "row": 1,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Şeker tadında",
-      "answer": "TATLI",
-      "row": 5,
-      "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
       "col": 1
     },
     {
-      "row": 0,
-      "col": 4
+      "row": 7,
+      "col": 3
     },
     {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 8
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 8
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 8
+      "row": 7,
+      "col": 5
     },
     {
       "row": 7,
@@ -210,53 +163,21 @@
     },
     {
       "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
       "col": 7
     },
     {
       "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
       "col": 0
     },
     {
-      "row": 11,
-      "col": 8
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 3
     }
   ],
-  "difficulty": "zor",
-  "order": 143
+  "difficulty": "orta",
+  "order": 118
 }

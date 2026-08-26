@@ -1,174 +1,132 @@
 {
   "id": "puzzle-89",
-  "title": "Bulmaca 35",
-  "rows": 12,
+  "title": "Bulmaca 91",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Birlik, bölüm",
-      "answer": "ÜNİTE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yağsız, sade",
-      "answer": "YAVAN",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yedek kaynak",
-      "answer": "REZERV",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dudak kılları",
-      "answer": "BIYIK",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yenme kararlılığı",
-      "answer": "AZİM",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ekin aracı",
-      "answer": "ORAK",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Reddetme",
-      "answer": "VETO",
-      "row": 6,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gazete yazısı",
-      "answer": "MAKALE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Katmerli sebze",
-      "answer": "LAHANA",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Satış karşıtı",
-      "answer": "ALIŞ",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ayrılan para",
-      "answer": "FON",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tercüme",
-      "answer": "ÇEVİRİ",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Maaş çizelgesi",
-      "answer": "BAREM",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Makinedeki bozukluk",
-      "answer": "ARIZA",
+      "text": "Hoşnut olma",
+      "answer": "DOYUM",
       "row": 1,
       "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Gelenek, âdet",
+      "answer": "TÖRE",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gösterişli ev",
+      "answer": "KONAK",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Formda, zinde",
+      "answer": "FİT",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mızrap",
+      "answer": "PENA",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sarı peynir",
+      "answer": "KAŞAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eğe kemikleri",
+      "answer": "KABURGA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kafa tutan",
+      "answer": "SERKEŞ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Otu bulunan",
+      "answer": "OTLU",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Duvar lambası",
+      "answer": "APLİK",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gizli cana kıyma",
+      "answer": "SUİKAST",
+      "row": 1,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ekşimsi orman meyvesi",
-      "answer": "ALIÇ",
-      "row": 7,
+      "text": "Tanıtım levhası",
+      "answer": "TABELA",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yaban güvercini",
-      "answer": "ÜVEYİK",
-      "row": 0,
+      "text": "Tatlı ilaç",
+      "answer": "ŞURUP",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Damga, mühür",
-      "answer": "KAŞE",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ölçülü şiir",
-      "answer": "NAZIM",
+      "text": "Araç bırakma yeri",
+      "answer": "OTOPARK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yazık ünlemi",
-      "answer": "VAH",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Süt hayvanı",
-      "answer": "İNEK",
+      "text": "Direktif",
+      "answer": "YÖNERGE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zararı giderme",
-      "answer": "TELAFİ",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Tiz erkek sesi",
-      "answer": "TENOR",
-      "row": 6,
+      "text": "Sanayi, endüstri",
+      "answer": "URAN",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Görüntü kaydı",
-      "answer": "VİDEO",
-      "row": 2,
-      "col": 7,
+      "text": "Vurgun, tutkun",
+      "answer": "AŞIK",
+      "row": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ansızın, beklenmedik",
-      "answer": "ANİ",
-      "row": 8,
+      "text": "Bulunulan yer",
+      "answer": "MEKAN",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -188,45 +146,49 @@
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
+      "col": 3
     },
     {
       "row": 1,
       "col": 0
-    },
-    {
-      "row": 1,
-      "col": 1
     },
     {
       "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 6
+      "row": 2,
+      "col": 2
     },
     {
-      "row": 5,
-      "col": 6
+      "row": 6,
+      "col": 7
     },
     {
       "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {
-      "row": 11,
-      "col": 0
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 35
+  "difficulty": "orta",
+  "order": 91
 }

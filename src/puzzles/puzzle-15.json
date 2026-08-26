@@ -1,203 +1,133 @@
 {
   "id": "puzzle-15",
-  "title": "Bulmaca 137",
-  "rows": 13,
-  "cols": 9,
+  "title": "Bulmaca 54",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Muhteva",
-      "answer": "İÇERİK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İşleme, nakış",
-      "answer": "NAKŞ",
+      "text": "Toprak işçisi",
+      "answer": "RENÇPER",
       "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Kişi, şahıs",
-      "answer": "ZAT",
+      "text": "Kara parçası",
+      "answer": "ADA",
       "row": 2,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Üretim tesisi",
-      "answer": "FABRİKA",
+      "text": "Bitki bilimi",
+      "answer": "BOTANİK",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mülkiyet belgesi",
-      "answer": "TAPU",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çin para birimi",
-      "answer": "YUAN",
+      "text": "Vücut yapısı bilimi",
+      "answer": "ANATOMİ",
       "row": 4,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Güneş örtüsü",
-      "answer": "TENTE",
+      "text": "Pamuk ipliği",
+      "answer": "TİRE",
       "row": 5,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Alçak, korkak",
-      "answer": "NAMERT",
+      "text": "Asker su kabı",
+      "answer": "MATARA",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Büyüme, gelişme, çoğalma",
-      "answer": "NEMA",
+      "text": "Baskı sayısı",
+      "answer": "TİRAJ",
       "row": 7,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kapaklı pişirme kabı",
-      "answer": "TENCERE",
+      "text": "Onlu üleştirme sayısı",
+      "answer": "ONAR",
       "row": 8,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Güdülen erek",
-      "answer": "MAKSAT",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gemi dibi",
-      "answer": "SİNTİNE",
-      "row": 9,
+      "text": "Taşra halkından",
+      "answer": "TAŞRALI",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hareketsiz, işlevsiz",
-      "answer": "ATIL",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Müzikal uyum",
-      "answer": "AKOR",
-      "row": 11,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Süt organı",
-      "answer": "MEME",
-      "row": 12,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Az pişmiş yumurta",
-      "answer": "RAFADAN",
-      "row": 0,
+      "text": "Çamur toprak",
+      "answer": "BATAK",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Vizon",
-      "answer": "MİNK",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yemek konan nesne",
-      "answer": "KAP",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yanıcı gaz",
-      "answer": "METAN",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Resmî 'bu'",
-      "answer": "İŞBU",
+      "text": "Sert kauçuk",
+      "answer": "EBONİT",
       "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Cevizli sarımsaklı sos",
+      "answer": "TARATOR",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eskiden beri çalışan",
-      "answer": "EMEKTAR",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Geçiş yolu",
-      "answer": "TRANSİT",
-      "row": 4,
+      "text": "Gümüş balığı",
+      "answer": "ATERİNA",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İşkence",
-      "answer": "EZİYET",
+      "text": "Duyuru tahtası",
+      "answer": "PANO",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sevgi seslenmesi",
-      "answer": "CANIM",
-      "row": 7,
+      "text": "Kuruyan Orta Asya gölü",
+      "answer": "ARAL",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tilki yüzlü hayvan",
-      "answer": "RAKUN",
+      "text": "Eylem",
+      "answer": "EDİM",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hesap kertiği",
-      "answer": "ÇETELE",
+      "text": "Bal böceği",
+      "answer": "ARI",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Boyun eğme",
-      "answer": "İTAAT",
+      "text": "Yarışan kimse",
+      "answer": "RAKİP",
       "row": 0,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Cerrah bıçağı",
-      "answer": "NEŞTER",
-      "row": 3,
-      "col": 8,
       "arrow": "down"
     }
   ],
@@ -208,19 +138,23 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
     },
     {
       "row": 0,
       "col": 4
     },
     {
-      "row": 0,
-      "col": 8
+      "row": 2,
+      "col": 0
     },
     {
-      "row": 2,
-      "col": 8
+      "row": 5,
+      "col": 6
     },
     {
       "row": 6,
@@ -228,33 +162,21 @@
     },
     {
       "row": 7,
-      "col": 7
+      "col": 0
     },
     {
       "row": 8,
-      "col": 0
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
       "col": 7
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 8
-    },
-    {
-      "row": 11,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 8
     }
   ],
-  "difficulty": "zor",
-  "order": 137
+  "difficulty": "kolay",
+  "order": 54
 }

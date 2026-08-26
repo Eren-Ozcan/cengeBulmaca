@@ -1,167 +1,139 @@
 {
   "id": "puzzle-111",
-  "title": "Bulmaca 20",
-  "rows": 11,
+  "title": "Bulmaca 25",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Karbonatlı içecek",
-      "answer": "SODA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Eksik",
+      "answer": "NOKSAN",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Küçük askerî grup",
-      "answer": "MÜFREZE",
+      "text": "Avrupa futbol birliği",
+      "answer": "UEFA",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kur'an bölümü",
-      "answer": "SURE",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Menekşe rengi",
-      "answer": "MOR",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Meslek derecesi",
-      "answer": "RÜTBE",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Duyuru",
-      "answer": "İLAN",
-      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Toplam miktar",
-      "answer": "TUTAR",
+      "text": "Buğday unu",
+      "answer": "İRMİK",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski başlık",
+      "answer": "FES",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yavru doğuran",
+      "answer": "DİŞİ",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yönlendirme düzeneği",
+      "answer": "DÜMEN",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Neşeli, sokulgan",
+      "answer": "CİVELEK",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Madde ile",
-      "answer": "MADDİ",
+      "text": "Serüven",
+      "answer": "MACERA",
       "row": 7,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "En iyisi",
-      "answer": "İDEAL",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Öyle olsa da",
-      "answer": "GERÇİ",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Şampiyon adayı",
-      "answer": "FAVORİ",
-      "row": 9,
+      "text": "Bitki camlığı",
+      "answer": "SERA",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Omurga kemiği",
-      "answer": "OMUR",
+      "text": "Egemenliğe katma",
+      "answer": "İLHAK",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Usanç ünlemi",
+      "answer": "ÖF",
       "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Gelinin yardımcısı",
+      "answer": "NEDİME",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İslam bilginleri",
-      "answer": "ULEMA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğru sözlü",
-      "answer": "DÜRÜST",
-      "row": 0,
+      "text": "Atlı asker",
+      "answer": "SÜVARİ",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yıkım, felaket",
-      "answer": "AFET",
+      "text": "Güç, takat",
+      "answer": "MECAL",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Saç bağı şeridi",
+      "answer": "KURDELE",
       "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Seyirci coşturucusu",
-      "answer": "AMİGO",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Erkek kardeş",
-      "answer": "BİRADER",
-      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İstek, arzu",
-      "answer": "EMEL",
-      "row": 1,
+      "text": "Bilgi toplantısı",
+      "answer": "SEMİNER",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Vücut örtüsü",
-      "answer": "DERİ",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yunan rakısı",
-      "answer": "UZO",
+      "text": "Duvara asılan ilan",
+      "answer": "AFİŞ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hatıra kitapçığı",
-      "answer": "ANDAÇ",
-      "row": 4,
+      "text": "Koruyucu başlık",
+      "answer": "KASK",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ermiş, veli",
-      "answer": "EREN",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Bilim, bilgi",
-      "answer": "İLİM",
-      "row": 6,
+      "text": "Taşıma",
+      "answer": "NAKİL",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -169,33 +141,49 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 1
     },
     {
       "row": 0,
-      "col": 5
+      "col": 2
     },
     {
       "row": 0,
+      "col": 3
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 6,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 4
-    },
-    {
       "row": 7,
-      "col": 0
+      "col": 7
     },
     {
       "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 6
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 20
+  "order": 25
 }

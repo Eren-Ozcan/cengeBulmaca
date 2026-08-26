@@ -1,0 +1,189 @@
+{
+  "id": "puzzle-259",
+  "title": "Bulmaca 52",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Gürültü patırtı",
+      "answer": "ŞAMATA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aile işareti",
+      "answer": "ARMA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Şişmiş",
+      "answer": "ŞİŞKİN",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Saf içki",
+      "answer": "SEK",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Doğru, isabetli",
+      "answer": "RAST",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gece eğlencesi",
+      "answer": "BALO",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sağaltıcı",
+      "answer": "ŞİFALI",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Açılmış yer",
+      "answer": "YARIK",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüz örtüsü",
+      "answer": "PEÇE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Genelge",
+      "answer": "TAMİM",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İşkence",
+      "answer": "EZİYET",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sanat alıştırması",
+      "answer": "MEŞK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Görünüm, kılık",
+      "answer": "FAÇA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Maaş çizelgesi",
+      "answer": "BAREM",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Taşra halkından",
+      "answer": "TAŞRALI",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sırt dayanağı",
+      "answer": "ARKALIK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Japon çorbası çeşnisi",
+      "answer": "MİSO",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Tekerlek çemberi",
+      "answer": "JANT",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Şarkı filmi",
+      "answer": "KLİP",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 52
+}

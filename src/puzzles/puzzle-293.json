@@ -1,0 +1,182 @@
+{
+  "id": "puzzle-293",
+  "title": "Bulmaca 166",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Doktrin",
+      "answer": "ÖĞRETİ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Akış hâli",
+      "answer": "AKMA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Beyaz kokulu çiçek",
+      "answer": "ZAMBAK",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Adalet, hukuk",
+      "answer": "HAK",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tarak yapılan kabuk",
+      "answer": "BAĞA",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İşitme organı",
+      "answer": "KULAK",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sarı peynir",
+      "answer": "KAŞAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yırtıcı masal yaratığı",
+      "answer": "CANAVAR",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sahil",
+      "answer": "KIYI",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kitap satan",
+      "answer": "KİTAPÇI",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ufak ada",
+      "answer": "ADACIK",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Nasip, azık",
+      "answer": "RIZK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaygınlaşmış haber",
+      "answer": "ŞAYİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğruluk belgesi",
+      "answer": "KANIT",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk müziği çalgısı",
+      "answer": "TAMBURA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Makama erişme",
+      "answer": "İKBAL",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyük dükkân",
+      "answer": "MAĞAZA",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Göz-kulak arası",
+      "answer": "ŞAKAK",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    }
+  ],
+  "difficulty": "zor",
+  "order": 166
+}

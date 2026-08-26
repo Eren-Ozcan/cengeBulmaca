@@ -1,162 +1,179 @@
 {
   "id": "puzzle-113",
-  "title": "Bulmaca 24",
+  "title": "Bulmaca 134",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Titreyen",
-      "answer": "TİTREK",
+      "text": "İsteklendirme ünlemi",
+      "answer": "HAYDİ",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hapishane",
-      "answer": "CEZAEVİ",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tohum ekme makinesi",
-      "answer": "MİBZER",
-      "row": 3,
+      "text": "At kılları",
+      "answer": "YELE",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Cepteki bez",
+      "answer": "MENDİL",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ev, arsa",
+      "answer": "EMLAK",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Öğüt verme",
+      "answer": "TAVSİYE",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Konser",
-      "answer": "DİNLETİ",
-      "row": 3,
+      "text": "Acımtırak, buruk",
+      "answer": "KEKRE",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Görüntü alıcısı",
-      "answer": "KAMERA",
-      "row": 6,
+      "text": "Akdeniz sıcak rüzgârı",
+      "answer": "SİROKO",
+      "row": 7,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Peynirli hamur işi",
-      "answer": "POĞAÇA",
+      "text": "Gök boşluğu",
+      "answer": "UZAY",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şaka",
-      "answer": "LATİFE",
+      "text": "Azık",
+      "answer": "NEVALE",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kirli olmayan",
-      "answer": "TEMİZ",
+      "text": "Bilet satan büro",
+      "answer": "ACENTE",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Omuzdan ele uzanan",
-      "answer": "KOL",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Verilen özgürlük",
-      "answer": "İZİN",
-      "row": 0,
+      "text": "Konuşma vurgusu",
+      "answer": "AKSAN",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kaplumbağa kabuğu",
-      "answer": "BAĞA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Satıcı tepsisi",
-      "answer": "TABLA",
-      "row": 0,
+      "text": "Dolaşan kolluk",
+      "answer": "DEVRİYE",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Satrançta yenilgi",
-      "answer": "MAT",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Menteşe",
-      "answer": "REZE",
+      "text": "Nikbin",
+      "answer": "İYİMSER",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İnatçı hayvan",
-      "answer": "KEÇİ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Olumlu yanıt",
-      "answer": "EVET",
-      "row": 0,
+      "text": "49'dan sonraki sayı",
+      "answer": "ELLİ",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eşya konan yer",
-      "answer": "RAF",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yatay eleman",
-      "answer": "KİRİŞ",
-      "row": 0,
+      "text": "Sarhoş karşıtı",
+      "answer": "AYIK",
+      "row": 3,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Pişmanlık ünlemi",
+      "answer": "KEŞKE",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Tırnak cilası",
+      "answer": "OJE",
+      "row": 6,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 0,
+      "col": 3
     },
     {
-      "row": 5,
+      "row": 0,
       "col": 5
     },
     {
-      "row": 6,
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 4,
       "col": 0
     },
     {
       "row": 6,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
     },
     {
       "row": 8,
       "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 24
+  "difficulty": "orta",
+  "order": 134
 }

@@ -1,130 +1,137 @@
 {
   "id": "puzzle-166",
-  "title": "Bulmaca 129",
+  "title": "Bulmaca 168",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Yeşil kabuklu sebze",
-      "answer": "BAKLA",
-      "row": 0,
+      "text": "Hareketli kimse",
+      "answer": "HOPPA",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Ekmek yiyeceği",
-      "answer": "KATIK",
+      "text": "Yumurtalı tatlı",
+      "answer": "KREP",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Dinî görüş",
-      "answer": "FETVA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Kertik",
+      "answer": "ÇENTİK",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Sahne oyunu",
-      "answer": "DRAM",
+      "text": "Bu kadar çok",
+      "answer": "BUNCA",
       "row": 4,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bedeniyle çalışan",
-      "answer": "EMEKÇİ",
-      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çizge",
-      "answer": "GRAFİK",
-      "row": 6,
+      "text": "Nezaket gösterisi",
+      "answer": "SELAM",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Gurur",
+      "answer": "KİBİR",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kilise zili",
-      "answer": "ÇAN",
-      "row": 8,
+      "text": "Gemi korkuluğu",
+      "answer": "KÜPEŞTE",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İnsanoğlu",
-      "answer": "BEŞER",
-      "row": 8,
+      "text": "Kamıştan üflemeli çalgı",
+      "answer": "NEY",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ötücü kuş",
-      "answer": "SERÇE",
-      "row": 4,
+      "text": "İnce seyrek bez",
+      "answer": "TÜLBENT",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Preslenmiş yakacak",
+      "answer": "BRİKET",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kuzey Kıbrıs'ın kısaltması",
-      "answer": "KKTC",
+      "text": "Ok atıcı",
+      "answer": "OKÇU",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Aylık ücret",
-      "answer": "MAAŞ",
+      "text": "Sihir",
+      "answer": "BÜYÜ",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Erimiş kayaç",
-      "answer": "LAV",
+      "text": "İlke",
+      "answer": "PRENSİP",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kokulu, yeşil",
-      "answer": "DEFNE",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Babaya dayalı düzen",
-      "answer": "ATAERKİ",
+      "text": "Işık açıklığı",
+      "answer": "PENCERE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yüzey parlatma",
-      "answer": "AÇKI",
-      "row": 4,
+      "text": "Ahmak, budala",
+      "answer": "APTAL",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tikel",
-      "answer": "KISMİ",
-      "row": 1,
+      "text": "Sarı maden",
+      "answer": "ALTIN",
+      "row": 4,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Eşya seti",
+      "answer": "TAKIM",
+      "row": 0,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
-      "col": 5
+      "col": 1
     },
     {
       "row": 0,
@@ -132,23 +139,31 @@
     },
     {
       "row": 1,
-      "col": 5
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 6
     },
     {
       "row": 3,
+      "col": 0
+    },
+    {
+      "row": 6,
       "col": 5
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 6,
+      "col": 7
     },
     {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 6
+      "row": 8,
+      "col": 3
     },
     {
       "row": 8,
@@ -156,17 +171,13 @@
     },
     {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
       "col": 5
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 8,
+      "col": 7
     }
   ],
   "difficulty": "zor",
-  "order": 129
+  "order": 168
 }

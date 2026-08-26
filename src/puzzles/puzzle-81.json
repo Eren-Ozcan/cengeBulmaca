@@ -1,126 +1,140 @@
 {
   "id": "puzzle-81",
-  "title": "Bulmaca 28",
+  "title": "Bulmaca 65",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Süslü başlık",
-      "answer": "HOTOZ",
+      "text": "Önceki görevli",
+      "answer": "SELEF",
       "row": 1,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Oda üstü",
-      "answer": "TAVAN",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sürekli",
-      "answer": "DEVAMLI",
-      "row": 2,
+      "text": "Faktör",
+      "answer": "ETKEN",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hırdavatçı",
-      "answer": "NALBUR",
+      "text": "Kitap yazan",
+      "answer": "YAZAR",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kaos",
+      "answer": "KARMAŞA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kimyada reaktif",
-      "answer": "AYIRAÇ",
-      "row": 6,
-      "col": 0,
+      "text": "Böcek sesi",
+      "answer": "VIZ",
+      "row": 5,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yukarı karşıtı",
-      "answer": "AŞAĞI",
-      "row": 7,
+      "text": "Eski el bombası",
+      "answer": "HUMBARA",
+      "row": 5,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Eş, zevce",
-      "answer": "KARI",
-      "row": 7,
+      "text": "Dokuncalı",
+      "answer": "ZARARLI",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kısa süren",
-      "answer": "ANLIK",
-      "row": 9,
-      "col": 1,
+      "text": "Kanıtlayan iz",
+      "answer": "DELİL",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalabalıksız, ıssız",
-      "answer": "TENHA",
-      "row": 1,
+      "text": "Şiddetli, tehlikeli",
+      "answer": "AZILI",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Belden aşağı giysi",
+      "answer": "ETEK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gaz karışımı",
-      "answer": "HAVA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dokudaki bozulma, bere",
-      "answer": "YARA",
+      "text": "Haydi",
+      "answer": "HADİ",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tahıl tatlısı",
+      "answer": "AŞURE",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yumurta biçimli",
-      "answer": "OVAL",
+      "text": "İzleme",
+      "answer": "SEYR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Işık çizgisi",
-      "answer": "IŞIN",
+      "text": "Harç aracı",
+      "answer": "MALA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Halk müziği çalgısı",
-      "answer": "TAMBURA",
+      "text": "Kuran'da altıncı sure",
+      "answer": "ENAM",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "On tanesi",
-      "answer": "ONLU",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Vücuttaki sızı",
-      "answer": "AĞRI",
+      "text": "Meltem",
+      "answer": "BRİZ",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Acınacak durumda",
+      "answer": "ZAVALLI",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Irkçılık yanlısı",
-      "answer": "IRKÇI",
+      "text": "Çok fazla",
+      "answer": "AŞIRI",
       "row": 2,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Diyelim ki",
+      "answer": "FARAZA",
+      "row": 0,
+      "col": 7,
       "arrow": "down"
     }
   ],
@@ -131,14 +145,18 @@
     },
     {
       "row": 0,
-      "col": 1
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 1,
+      "row": 3,
       "col": 0
     },
     {
@@ -146,12 +164,16 @@
       "col": 0
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 7,
+      "col": 7
     },
     {
       "row": 8,
       "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
@@ -159,5 +181,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 28
+  "order": 65
 }

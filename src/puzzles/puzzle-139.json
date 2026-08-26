@@ -1,167 +1,132 @@
 {
   "id": "puzzle-139",
-  "title": "Bulmaca 126",
-  "rows": 12,
+  "title": "Bulmaca 163",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Ajan",
-      "answer": "CASUS",
-      "row": 1,
+      "text": "Kuru meyve tatlısı",
+      "answer": "HOŞAF",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saç örgüsü",
+      "answer": "BELİK",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ölü bezi",
+      "answer": "KEFEN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İri maymun",
+      "answer": "GORİL",
+      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Toplama, birleştirme",
-      "answer": "CEM",
-      "row": 2,
+      "text": "Kirli sudan bulaşan hastalık",
+      "answer": "TİFO",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gezi sektörü",
+      "answer": "TURİZM",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mağlubiyet",
+      "answer": "YENİLGİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Küçük, hafif kayık",
+      "answer": "KANO",
+      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ayakkabı",
-      "answer": "PABUÇ",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Uyma",
-      "answer": "RİAYET",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yıkma",
-      "answer": "TAHRİP",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dur işareti",
-      "answer": "STOP",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İşi yapan",
-      "answer": "FAİL",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uğur getiren",
-      "answer": "MASKOT",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Evin bölmesi",
-      "answer": "ODA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kaba et",
-      "answer": "POPO",
+      "text": "Böcek",
+      "answer": "HAŞERE",
       "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Giysi",
-      "answer": "ELBİSE",
-      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ne iş yapar sorusu",
-      "answer": "NECİ",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeşil sapılı sebze",
-      "answer": "PIRASA",
-      "row": 1,
+      "text": "Aşırı şişmanlık",
+      "answer": "OBEZİTE",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Atı sürme",
-      "answer": "DEH",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Olasılık",
-      "answer": "İHTİMAL",
-      "row": 3,
+      "text": "Yönetici",
+      "answer": "ŞEF",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gizli söz",
-      "answer": "PAROLA",
-      "row": 2,
+      "text": "Dikenli çalı",
+      "answer": "FUNDA",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yerinelemeli anlatım",
+      "answer": "ALEGORİ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tuhaf, garip",
-      "answer": "ACAYİP",
+      "text": "Süs köpeği",
+      "answer": "FİNO",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Aracın kontrolsüz dönüşü",
-      "answer": "SPİN",
-      "row": 7,
+      "text": "Prensip",
+      "answer": "İLKE",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Neden",
-      "answer": "SEBEP",
-      "row": 0,
+      "text": "Yel",
+      "answer": "RÜZGAR",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kareli kumaş",
-      "answer": "EKOSE",
-      "row": 6,
-      "col": 5,
+      "text": "Diş dokusu",
+      "answer": "MİNE",
+      "row": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ümit",
-      "answer": "UMUT",
+      "text": "Çeşitli",
+      "answer": "TÜRLÜ",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Petrol ihraç edenler örgütü",
-      "answer": "OPEC",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kışlık kaban",
-      "answer": "PALTO",
-      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -169,65 +134,49 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 5
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 1,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
-      "col": 7
+      "col": 6
     },
     {
       "row": 3,
-      "col": 0
-    },
-    {
-      "row": 5,
       "col": 6
     },
     {
       "row": 6,
-      "col": 6
-    },
-    {
-      "row": 10,
       "col": 7
     },
     {
-      "row": 11,
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
-      "row": 11,
-      "col": 2
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "zor",
-  "order": 126
+  "order": 163
 }

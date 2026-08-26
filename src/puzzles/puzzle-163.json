@@ -1,137 +1,149 @@
 {
   "id": "puzzle-163",
-  "title": "Bulmaca 6",
+  "title": "Bulmaca 50",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Yenilikten yana",
-      "answer": "İLERİCİ",
-      "row": 0,
+      "text": "Yumurtalı sos",
+      "answer": "MAYONEZ",
+      "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Rutubet",
+      "answer": "NEM",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Onarım",
+      "answer": "TAMİR",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sözsüz oyuncu",
+      "answer": "FİGÜRAN",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Taş kırıntısı",
-      "answer": "KUM",
+      "text": "Ziynet eşyası",
+      "answer": "TAKI",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kaleyi koruyan",
+      "answer": "KALECİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Temelsiz inanç",
+      "answer": "BATIL",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Resimde varlık biçimi",
+      "answer": "BETİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İşlenmiş eşya",
+      "answer": "MAMUL",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Söz söyleme sanatı",
+      "answer": "HİTABET",
       "row": 2,
       "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İnce lif",
-      "answer": "İPLİK",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ortak topluluk",
-      "answer": "CAMİA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Doğa",
-      "answer": "TABİAT",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sivri sebze",
-      "answer": "BAMYA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Film metni",
-      "answer": "SENARYO",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Cevap",
-      "answer": "YANIT",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Selçuklu lalası",
-      "answer": "ATABEY",
-      "row": 3,
-      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Onuncu ay",
-      "answer": "EKİM",
-      "row": 0,
+      "text": "Yanlış kelime",
+      "answer": "GALAT",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "'Ben'in yönelme hâli",
-      "answer": "BANA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Hindistan parası",
-      "answer": "RUPİ",
-      "row": 0,
+      "text": "Harcama",
+      "answer": "TÜKETİM",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dinî inanç",
-      "answer": "İMAN",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yazım kuralları",
-      "answer": "İMLA",
+      "text": "Tamirci",
+      "answer": "ONARICI",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Farklı",
-      "answer": "AYRI",
-      "row": 5,
-      "col": 4,
+      "text": "Büyüme, gelişme, çoğalma",
+      "answer": "NEMA",
+      "row": 0,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Esnek giysi",
-      "answer": "TAYT",
+      "text": "Mahkeme belgesi",
+      "answer": "İLAM",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Elverişli şart",
-      "answer": "İMKAN",
+      "text": "Güvenli",
+      "answer": "EMİN",
       "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Çıkarım sonucu",
+      "answer": "ARDIL",
+      "row": 4,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 5
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 2,
@@ -139,11 +151,15 @@
     },
     {
       "row": 2,
-      "col": 5
+      "col": 2
     },
     {
-      "row": 4,
-      "col": 5
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 6
     },
     {
       "row": 6,
@@ -154,10 +170,18 @@
       "col": 6
     },
     {
-      "row": 9,
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
       "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 6
+  "order": 50
 }

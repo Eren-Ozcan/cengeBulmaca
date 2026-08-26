@@ -1,159 +1,131 @@
 {
   "id": "puzzle-78",
-  "title": "Bulmaca 88",
-  "rows": 11,
+  "title": "Bulmaca 72",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Uyarı",
-      "answer": "İHTAR",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
+      "text": "Kuru, sert soğuk",
+      "answer": "AYAZ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Bekleme bölümü",
-      "answer": "FUAYE",
+      "text": "Işıksız gece",
+      "answer": "AYSIZ",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yağmur suyu deposu",
-      "answer": "SARNIÇ",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski Osmanlı başkenti",
-      "answer": "EDİRNE",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ekin zararlısı böcek",
-      "answer": "SÜNE",
-      "row": 4,
+      "text": "İranlı",
+      "answer": "ACEM",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Karaciğer yangısı",
-      "answer": "HEPATİT",
-      "row": 6,
+      "text": "Kırmızı-beyaz karışımı",
+      "answer": "PEMBE",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kürklü küçük yırtıcı",
+      "answer": "SANSAR",
+      "row": 5,
       "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yakıcı tüylü ot",
+      "answer": "ISIRGAN",
+      "row": 5,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Karışık renkli",
-      "answer": "ALACA",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Muayene yeri",
-      "answer": "KLİNİK",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Havada duran",
-      "answer": "ASILI",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Formda, zinde",
-      "answer": "FİT",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Yönetici",
-      "answer": "ŞEF",
+      "text": "Anaya dayalı düzen",
+      "answer": "ANAERKİ",
       "row": 7,
       "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Orman hayvanı",
+      "answer": "AYI",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Buluğ çağındaki",
+      "answer": "ERGEN",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Erdemce üstün",
+      "answer": "YÜCE",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sana göre",
-      "answer": "SENCE",
-      "row": 2,
+      "text": "Koruma, yardım",
+      "answer": "SAYE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ülke çizgisi",
+      "answer": "SINIR",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Anlatım, açıklama",
-      "answer": "İFADE",
+      "text": "Kadın peşinde koşan",
+      "answer": "ZAMPARA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kavisli kılıç",
-      "answer": "PALA",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Cennet kızı",
-      "answer": "HURİ",
-      "row": 0,
+      "text": "Arazi girintisi",
+      "answer": "ENGEBE",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Saf, temiz",
-      "answer": "HALİS",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Allah",
-      "answer": "TANRI",
-      "row": 0,
+      "text": "Komisyoncu",
+      "answer": "SİMSAR",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Teşhis",
-      "answer": "TANI",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Arap alfabesinde harf",
-      "answer": "AYIN",
-      "row": 0,
+      "text": "Oturma sırası",
+      "answer": "BANK",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kayıt kütüğü",
-      "answer": "SİCİL",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Meyve tatlısı",
-      "answer": "REÇEL",
+      "text": "Akılda tutma",
+      "answer": "EZBER",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ziynet eşyası",
-      "answer": "TAKI",
+      "text": "Birden sonraki sayı",
+      "answer": "İKİ",
       "row": 6,
       "col": 7,
       "arrow": "down"
@@ -162,33 +134,49 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
       "row": 1,
-      "col": 1
+      "col": 4
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 1,
+      "col": 6
     },
     {
-      "row": 6,
+      "row": 4,
       "col": 0
     },
     {
       "row": 8,
-      "col": 1
+      "col": 3
     },
     {
-      "row": 10,
-      "col": 1
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 88
+  "difficulty": "kolay",
+  "order": 72
 }

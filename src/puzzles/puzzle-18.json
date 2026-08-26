@@ -1,174 +1,146 @@
 {
   "id": "puzzle-18",
-  "title": "Bulmaca 53",
-  "rows": 11,
+  "title": "Bulmaca 139",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Merdiven bölümü",
-      "answer": "BASAMAK",
+      "text": "Havalandırma deliği",
+      "answer": "MENFEZ",
       "row": 1,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Derme çatma yapı",
-      "answer": "BARAKA",
+      "text": "İsviçre'de ırmak",
+      "answer": "AARE",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İmkân",
-      "answer": "OLANAK",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sermaye",
-      "answer": "ANAPARA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Araç, avadanlık",
-      "answer": "ALET",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İrin birikintisi",
-      "answer": "APSE",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Cilveli kadın",
-      "answer": "ŞUH",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sim işlemeli kumaş",
-      "answer": "LAME",
-      "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Vefalı",
-      "answer": "VEFAKAR",
+      "text": "Kayıp",
+      "answer": "YİTİK",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Genel",
+      "answer": "UMUMİ",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Başka olan",
+      "answer": "GAYR",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çarpan sayı",
+      "answer": "KATSAYI",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İlk olarak",
+      "answer": "BAŞTA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kayakta engel geçişi",
+      "answer": "SLALOM",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İslam'ın beşinci şartı",
-      "answer": "HAC",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Taş kütlesi",
-      "answer": "KAYA",
+      "text": "Işık yayma",
+      "answer": "IŞIMA",
       "row": 9,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Rezillik",
-      "answer": "REZALET",
-      "row": 10,
+      "text": "Yılan sesi",
+      "answer": "TIS",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Kırmızı kan hücresi",
-      "answer": "ALYUVAR",
+      "text": "Kesme aracı",
+      "answer": "MAKAS",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hizmet alan",
-      "answer": "ABONE",
-      "row": 0,
+      "text": "Genç karşıtı",
+      "answer": "YAŞLI",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ses birimi",
-      "answer": "HECE",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeşillik karışımı",
-      "answer": "SALATA",
-      "row": 0,
+      "text": "Vatandaş",
+      "answer": "YURTTAŞ",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ortadoğu halkı",
-      "answer": "ARAP",
+      "text": "Bolluk, rahatlık",
+      "answer": "NAİM",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Numara levhası",
-      "answer": "PLAKA",
+      "text": "İkinci gün",
+      "answer": "SALI",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Anlam",
-      "answer": "MANA",
+      "text": "Satış belgesi",
+      "answer": "FATURA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yüz kılları",
-      "answer": "SAKAL",
-      "row": 5,
+      "text": "Yogada kutsal hece",
+      "answer": "OM",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gelir taşınmazı",
-      "answer": "AKAR",
+      "text": "Menzil",
+      "answer": "ERİM",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sırlı kap",
-      "answer": "EMAYE",
+      "text": "Onarım parçası",
+      "answer": "YAMA",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çikolata maddesi",
-      "answer": "KAKAO",
+      "text": "Kavrama yeteneği",
+      "answer": "ZEKİ",
       "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Erler topluluğu",
-      "answer": "ERAT",
-      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -176,21 +148,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 2,
       "col": 1
     },
     {
       "row": 2,
+      "col": 2
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 53
+  "difficulty": "orta",
+  "order": 139
 }

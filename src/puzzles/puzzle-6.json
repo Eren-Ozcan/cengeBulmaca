@@ -1,167 +1,132 @@
 {
   "id": "puzzle-6",
-  "title": "Bulmaca 70",
-  "rows": 11,
+  "title": "Bulmaca 8",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Devingen",
-      "answer": "DİNAMİK",
+      "text": "Tutsaklık",
+      "answer": "ESARET",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Erkek evlat",
+      "answer": "OĞUL",
       "row": 1,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yüksek bilim kurumu",
-      "answer": "AKADEMİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eylemci savunucu",
-      "answer": "MİLİTAN",
+      "text": "Aşırma",
+      "answer": "İNTİHAL",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hüzünlü şiir",
-      "answer": "ELEJİ",
+      "text": "Fitilli araç",
+      "answer": "MUM",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuru karşıtı",
+      "answer": "ISLAK",
+      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Erden kız",
-      "answer": "BAKİRE",
+      "text": "Alıcı",
+      "answer": "MÜŞTERİ",
       "row": 5,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Toplantı yeri",
-      "answer": "LOKAL",
+      "text": "Anlayış, sağduyu",
+      "answer": "İZAN",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Hava koşulları",
+      "answer": "İKLİM",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Şair",
+      "answer": "OZAN",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Zarif, modern",
+      "answer": "ŞIK",
       "row": 6,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "down"
     },
     {
-      "text": "Söylenti",
-      "answer": "RİVAYET",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gelin çeyiz parası",
-      "answer": "DRAHOMA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mantar-yosun bitkisi",
-      "answer": "LİKEN",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Masa oyunu",
-      "answer": "DAMA",
+      "text": "Meyil",
+      "answer": "EĞİM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Koyu kırmızı",
-      "answer": "BORDO",
+      "text": "Takdim",
+      "answer": "SUNU",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek, eşsiz",
+      "answer": "ÜNİK",
       "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Birden sonraki sayı",
-      "answer": "İKİ",
-      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Değersiz",
-      "answer": "HAKİR",
+      "text": "Elli dokuzdan sonra",
+      "answer": "ALTMIŞ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dolma kalem",
+      "answer": "STİLO",
       "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İnleme, inilti",
-      "answer": "NALE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çoban çalgısı",
-      "answer": "KAVAL",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Adaletli",
-      "answer": "ADİL",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dinî ezgi",
-      "answer": "İLAHİ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Gök taşı",
-      "answer": "METEOR",
-      "row": 0,
+      "text": "Tadı güzel",
+      "answer": "LEZİZ",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Var karşıtı",
-      "answer": "YOK",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İmge, görüntü",
-      "answer": "İMAJ",
-      "row": 0,
+      "text": "Taharri",
+      "answer": "ARAMA",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Seçme aşaması",
-      "answer": "ELEME",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıtma ilacı",
-      "answer": "KİNİN",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Alacakaranlık",
-      "answer": "TAN",
-      "row": 7,
+      "text": "Ama",
+      "answer": "LAKİN",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -172,22 +137,54 @@
       "col": 0
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 6,
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 8,
       "col": 7
     },
     {
-      "row": 10,
-      "col": 0
+      "row": 9,
+      "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 70
+  "difficulty": "kolay",
+  "order": 8
 }

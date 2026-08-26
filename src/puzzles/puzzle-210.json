@@ -1,182 +1,133 @@
 {
   "id": "puzzle-210",
-  "title": "Bulmaca 114",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 188",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Dondurma kabı",
-      "answer": "KUP",
+      "text": "Takas",
+      "answer": "TRAMPA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Müşahhas",
-      "answer": "SOMUT",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ütülenmiş olan",
-      "answer": "ÜTÜLÜ",
+      "text": "Göz kapağı kılı",
+      "answer": "KİRPİK",
       "row": 2,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Alışılagelmiş, sıradan",
-      "answer": "RUTİN",
-      "row": 3,
+      "text": "Yasama kurulu",
+      "answer": "MECLİS",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ezik, bere",
+      "answer": "ZEDE",
+      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ayrıntılı yazı",
-      "answer": "ŞERH",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bebek yatağı",
-      "answer": "BEŞİK",
+      "text": "Camdaki nem",
+      "answer": "BUĞU",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sözünde durmayan",
-      "answer": "KALLEŞ",
+      "text": "Ant içmiş",
+      "answer": "YEMİNLİ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Görme ile",
-      "answer": "OPTİK",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Keman yayı",
-      "answer": "ARŞE",
-      "row": 7,
+      "text": "Kesin yargı",
+      "answer": "KARAR",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yapay",
-      "answer": "SUNİ",
+      "text": "Madde nesnesi",
+      "answer": "CİSİM",
       "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Püskürtme sıvısı",
-      "answer": "SPREY",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Pelte kıvamı",
-      "answer": "JEL",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kırmızı, sulu meyve",
-      "answer": "ELMA",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yanlar, taraflar, çevre",
-      "answer": "ETRAF",
-      "row": 11,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Süsleme düzeni",
-      "answer": "DEKOR",
-      "row": 3,
+      "text": "Ekmek yeri",
+      "answer": "FIRIN",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İkaz",
+      "answer": "UYARI",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çam yaprağı",
-      "answer": "PÜR",
+      "text": "Solunum organı",
+      "answer": "AKCİĞER",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Alık, sünepe",
-      "answer": "ŞAPŞAL",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Doldurulmuş döşek",
-      "answer": "ŞİLTE",
-      "row": 3,
+      "text": "Metal çubuk",
+      "answer": "MİL",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Devamlı",
-      "answer": "SÜREKLİ",
+      "text": "Korkutan hayal",
+      "answer": "UMACI",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Fiş yuvası",
+      "answer": "PRİZ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Onay, izin, tasdik",
-      "answer": "OLUR",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bilirkişi",
-      "answer": "EKSPER",
+      "text": "Yaradaki cerahat",
+      "answer": "İRİN",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İrin birikintisi",
+      "answer": "APSE",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Korkunç",
-      "answer": "MÜTHİŞ",
+      "text": "Dilbilimci",
+      "answer": "DİLCİ",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kuş tutan yapışkan",
+      "answer": "ÖKSE",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İzmir'in bağ ilçesi",
-      "answer": "URLA",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Böcek evresi",
-      "answer": "NEMF",
-      "row": 7,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Ermiş",
-      "answer": "EVLİYA",
-      "row": 4,
-      "col": 8,
       "arrow": "down"
     }
   ],
@@ -187,65 +138,41 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 6
     },
     {
-      "row": 0,
-      "col": 7
+      "row": 1,
+      "col": 6
     },
     {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 8
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 7
+      "row": 5,
+      "col": 5
     },
     {
       "row": 5,
       "col": 7
     },
     {
-      "row": 6,
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
       "col": 7
     },
     {
       "row": 9,
-      "col": 1
+      "col": 5
     },
     {
-      "row": 10,
-      "col": 3
+      "row": 9,
+      "col": 6
     },
     {
-      "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 1
-    },
-    {
-      "row": 11,
-      "col": 8
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "zor",
-  "order": 114
+  "order": 188
 }

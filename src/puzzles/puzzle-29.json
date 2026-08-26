@@ -1,156 +1,196 @@
 {
   "id": "puzzle-29",
-  "title": "Bulmaca 26",
+  "title": "Bulmaca 13",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Ağırlaşan durum",
-      "answer": "VAHAMET",
+      "text": "Sinirli, öfkeli",
+      "answer": "ASABİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Övgü şiiri",
-      "answer": "KASİDE",
+      "text": "Sakin, huzurlu, rahat",
+      "answer": "ASUDE",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Koşut",
-      "answer": "PARALEL",
+      "text": "Gerçek, esas",
+      "answer": "ASIL",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Daire genişliği",
-      "answer": "ÇAP",
+      "text": "Büyük akarsu, nehir",
+      "answer": "IRMAK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Züğürt",
-      "answer": "FUKARA",
+      "text": "Kebap ilimiz",
+      "answer": "ADANA",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çok iri",
+      "answer": "KOCAMAN",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hoşgörülü, güvenilir",
+      "answer": "BABACAN",
       "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Sıradan",
-      "answer": "OLAĞAN",
-      "row": 7,
+      "text": "Soru sözcüğü",
+      "answer": "NE",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uyandıran",
-      "answer": "UYARICI",
-      "row": 7,
+      "text": "Uzak",
+      "answer": "IRAK",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bando",
+      "answer": "MIZIKA",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Su geçirmez mont",
-      "answer": "ANORAK",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Su akıtma borusu",
-      "answer": "AKAÇ",
+      "text": "Küf kokulu",
+      "answer": "SASI",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sahte parlaklık",
-      "answer": "FOYA",
+      "text": "İnanç, görüş",
+      "answer": "KANI",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "At çiftliği",
-      "answer": "HARA",
+      "text": "Yüzyıl",
+      "answer": "ASIR",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kaba seslenme sözü",
-      "answer": "ULAN",
+      "text": "Aşırı şişman",
+      "answer": "OBEZ",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sinir sistemi",
-      "answer": "ASAP",
+      "text": "Çengel oyunu",
+      "answer": "BULMACA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kırmızı işaret",
-      "answer": "KARO",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Metal çubuk",
-      "answer": "MİL",
+      "text": "İlkel benlik",
+      "answer": "İD",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Göğüs",
-      "answer": "BAĞIR",
-      "row": 4,
+      "text": "Ufak ada",
+      "answer": "ADACIK",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Terbiyeli davranış",
-      "answer": "EDEP",
-      "row": 0,
+      "text": "Gemide oda",
+      "answer": "KAMARA",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hint unvanı",
-      "answer": "RACA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Metal iplik",
-      "answer": "TEL",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Şahit",
-      "answer": "TANIK",
+      "text": "Zola romanı",
+      "answer": "NANA",
       "row": 4,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Vücut alıştırması",
+      "answer": "İDMAN",
+      "row": 1,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
       "row": 5,
       "col": 0
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 26
+  "order": 13
 }

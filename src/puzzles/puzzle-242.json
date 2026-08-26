@@ -1,0 +1,181 @@
+{
+  "id": "puzzle-242",
+  "title": "Bulmaca 49",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Yayımlanan eser",
+      "answer": "YAYIN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ezerek yapılan yiyecek",
+      "answer": "EZME",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yırtıcı masal yaratığı",
+      "answer": "CANAVAR",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Düşünme yetisi",
+      "answer": "ZİHİN",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Satın alma",
+      "answer": "ALIM",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gönül verilen",
+      "answer": "SEVGİLİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Esirgemeden veren",
+      "answer": "CÖMERT",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İlk evre",
+      "answer": "LARVA",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sözcük",
+      "answer": "KELİME",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İz süren",
+      "answer": "İZCİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Aydın ilçesi",
+      "answer": "SÖKE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gizli, özel",
+      "answer": "MAHREM",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski karşıtı",
+      "answer": "YENİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sorumlu kimse",
+      "answer": "VELİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Harf değiştirme oyunu",
+      "answer": "ANAGRAM",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sarmal girinti",
+      "answer": "YİV",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıvı birimi",
+      "answer": "LİTRE",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçükbaş barınağı",
+      "answer": "AĞIL",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Başlangıç",
+      "answer": "MİLAT",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 49
+}

@@ -1,160 +1,132 @@
 {
   "id": "puzzle-217",
-  "title": "Bulmaca 36",
-  "rows": 11,
+  "title": "Bulmaca 15",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Amacıyla, maksadıyla",
-      "answer": "İÇİN",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çiğneme organı",
-      "answer": "DİŞ",
+      "text": "Yol engeli",
+      "answer": "BARİKAT",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yassı, mayalı ekmek",
-      "answer": "PİDE",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Merkez",
-      "answer": "ÖZEK",
-      "row": 2,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Tüylü kumaş",
-      "answer": "KADİFE",
+      "text": "İkiyüzlülük",
+      "answer": "RİYA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Teşebbüs",
+      "answer": "GİRİŞİM",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Olta ipi",
+      "answer": "MİSİNA",
       "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ardıl",
-      "answer": "HALEF",
+      "text": "Gevşeklik",
+      "answer": "REHAVET",
       "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ezik, bere",
-      "answer": "ZEDE",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İvedi",
-      "answer": "ACİL",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yer değiştirme",
-      "answer": "BECAYİŞ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Güney Amerika devesi",
-      "answer": "ALPAKA",
-      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Başarı armağanı",
-      "answer": "ÖDÜL",
-      "row": 2,
+      "text": "Tek satıcılık",
+      "answer": "TEKEL",
+      "row": 7,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Büyük kardeş",
-      "answer": "ABLA",
-      "row": 6,
+      "text": "Yem tahılı",
+      "answer": "YULAF",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tören",
+      "answer": "MERASİM",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağzı sıkı",
+      "answer": "KETUM",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Koza ipliği",
-      "answer": "İPEK",
+      "text": "Yenme kararlılığı",
+      "answer": "AZİM",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Acaba",
-      "answer": "ACEP",
+      "text": "Özellikle, bilhassa",
+      "answer": "HELE",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Evlilik işlemi",
-      "answer": "NİKAH",
+      "text": "İkiyüzlü",
+      "answer": "RİYAKAR",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gözün renkli bölümü",
+      "answer": "İRİS",
       "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kısa anlatım",
-      "answer": "İCAZ",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Saçsız kafa",
-      "answer": "DAZLAK",
-      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Moda gösterisi",
-      "answer": "DEFİLE",
+      "text": "Dostluk bağlılığı",
+      "answer": "VEFA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Şahsi",
+      "answer": "KİŞİSEL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zeytinden çıkan",
-      "answer": "YAĞ",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Can koruyucu",
-      "answer": "FEDAİ",
-      "row": 3,
+      "text": "İbadet töreni",
+      "answer": "AYİN",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Minare balkonu",
-      "answer": "ŞEREFE",
+      "text": "Açgözlülük",
+      "answer": "TAMAH",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Damla sesi",
-      "answer": "ŞIP",
-      "row": 7,
+      "text": "Toplama, birleştirme",
+      "answer": "CEM",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -162,45 +134,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 2
+      "row": 0,
+      "col": 1
     },
     {
-      "row": 10,
-      "col": 4
+      "row": 0,
+      "col": 3
     },
     {
-      "row": 10,
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
       "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 36
+  "order": 15
 }

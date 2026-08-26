@@ -1,153 +1,162 @@
 {
   "id": "puzzle-61",
-  "title": "Bulmaca 19",
+  "title": "Bulmaca 153",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Yiyecek artığı",
-      "answer": "POSA",
+      "text": "Gol pası",
+      "answer": "ASİST",
       "row": 0,
-      "col": 3,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Canlandırılan kişi",
-      "answer": "ROL",
-      "row": 1,
-      "col": 1,
-      "arrow": "down-right"
+      "text": "Ayrık durum",
+      "answer": "İSTİSNA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Yarışma çekişmesi",
-      "answer": "REKABET",
+      "text": "Örgü işi",
+      "answer": "ÖRME",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aşağı karşıtı",
-      "answer": "YUKARI",
+      "text": "Tahta sedir",
+      "answer": "KEREVET",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Oruç vakti",
-      "answer": "İMSAK",
+      "text": "Üçüncü Yunan harfi",
+      "answer": "GAMA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gömü yeri",
+      "answer": "MEZAR",
       "row": 6,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Değişken istek",
-      "answer": "KAPRİS",
+      "text": "Delikli kumaş",
+      "answer": "ETAMİN",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dolaylı anlatım",
-      "answer": "KİNAYE",
-      "row": 7,
+      "text": "Yolculuk",
+      "answer": "SEFER",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Din işleri",
+      "answer": "DİYANET",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gökyüzünün rengi",
-      "answer": "MAVİ",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Oy (eski dilde)",
-      "answer": "REY",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Aynı doğumlu",
-      "answer": "İKİZ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Üniversite öğreticisi",
-      "answer": "OKUTMAN",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gramofon diski",
-      "answer": "PLAK",
+      "text": "Gösteri çadırı",
+      "answer": "SİRK",
       "row": 0,
-      "col": 3,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İstenmeyen ileti",
-      "answer": "SPAM",
+      "text": "Yetenek",
+      "answer": "YETİ",
       "row": 5,
-      "col": 3,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Topçu birliği",
-      "answer": "BATARYA",
-      "row": 2,
-      "col": 4,
+      "text": "Adını belirterek",
+      "answer": "İSMEN",
+      "row": 0,
+      "col": 2,
       "arrow": "down"
     },
     {
       "text": "Odun hacim ölçüsü",
       "answer": "STER",
       "row": 0,
-      "col": 5,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ukrayna'nın başkenti",
-      "answer": "KİEV",
+      "text": "Çalışma mobilyası",
+      "answer": "MASA",
       "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Boru sesi",
+      "answer": "Tİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hükümran",
+      "answer": "EGEMEN",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ödev",
+      "answer": "VAZİFE",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hekimlik bilimi",
-      "answer": "TIP",
-      "row": 2,
+      "text": "Arka karşıtı",
+      "answer": "ÖN",
+      "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Geçici bırakılan",
+      "answer": "EMANET",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Baharat satıcısı",
+      "answer": "AKTAR",
+      "row": 1,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 5
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
-      "col": 0
+      "col": 5
     },
     {
       "row": 5,
@@ -155,17 +164,17 @@
     },
     {
       "row": 6,
-      "col": 6
+      "col": 0
     },
     {
-      "row": 8,
-      "col": 6
+      "row": 7,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 0
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 19
+  "difficulty": "orta",
+  "order": 153
 }

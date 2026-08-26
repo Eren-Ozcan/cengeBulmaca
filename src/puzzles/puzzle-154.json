@@ -1,210 +1,140 @@
 {
   "id": "puzzle-154",
-  "title": "Bulmaca 32",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 196",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Tarikat lideri",
-      "answer": "ŞEYH",
+      "text": "Saydam taş",
+      "answer": "BERİL",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Taşınmaz mal",
-      "answer": "MÜLK",
+      "text": "Seçiciler kurulu",
+      "answer": "JÜRİ",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Emzikli kap",
-      "answer": "İBRİK",
+      "text": "Kapaklı pişirme kabı",
+      "answer": "TENCERE",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Domates sosu",
-      "answer": "KETÇAP",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çengel oyunu",
-      "answer": "BULMACA",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kağıt oyunu",
-      "answer": "REMİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Su buharı",
-      "answer": "SİS",
-      "row": 6,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük gemi",
-      "answer": "BOT",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gerekme durumu",
-      "answer": "İCAP",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kahve içilen yer",
-      "answer": "KAFE",
-      "row": 8,
+      "text": "Tüfek kılıcı",
+      "answer": "SÜNGÜ",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Niçin",
-      "answer": "NİYE",
+      "text": "Güldürü oyunu",
+      "answer": "SKEÇ",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Para torbası",
+      "answer": "KESE",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Günlük haber yayını",
+      "answer": "GAZETE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Veda töreni",
+      "answer": "JÜBİLE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Enerji çeviren düzenek",
+      "answer": "MAKİNE",
       "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Patron",
-      "answer": "İŞVEREN",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Arkadaş, gönüldeş",
-      "answer": "DOST",
-      "row": 10,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sınırlama miktarı",
-      "answer": "KOTA",
-      "row": 11,
-      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Dik karşıtı",
-      "answer": "EĞİK",
+      "text": "Tamamı",
+      "answer": "BÜTÜN",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Giyside omuz parçası",
-      "answer": "ROBA",
+      "text": "Patlama sesi",
+      "answer": "GÜM",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ermiş, veli",
+      "answer": "EREN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce karşıtı",
+      "answer": "KABA",
       "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Minik çocuk",
-      "answer": "BEBE",
-      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Büro",
-      "answer": "OFİS",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Filin burnu",
-      "answer": "HORTUM",
+      "text": "Boks alanı",
+      "answer": "RİNG",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çamaşır leğeni",
-      "answer": "TEŞT",
-      "row": 7,
+      "text": "Çarpma beresi",
+      "answer": "EZİK",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hassas kişi",
-      "answer": "İÇLİ",
+      "text": "İri yapılı",
+      "answer": "CÜSSELİ",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yüksek görev",
-      "answer": "MAKAM",
-      "row": 0,
+      "text": "Dokuma bitkisi",
+      "answer": "KETEN",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Binme aracı",
-      "answer": "BİNEK",
-      "row": 7,
-      "col": 4,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Oksit tabakası",
-      "answer": "PAS",
-      "row": 3,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Satış tutarı",
-      "answer": "CİRO",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Adam öldürme",
-      "answer": "CİNAYET",
-      "row": 4,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Gizli plan",
-      "answer": "KUMPAS",
+      "text": "Ocağa kömür atan",
+      "answer": "ATEŞÇİ",
       "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Mızrap",
-      "answer": "PENA",
-      "row": 7,
-      "col": 8,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
@@ -212,37 +142,57 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 5
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 2,
-      "col": 0
+      "col": 5
     },
     {
       "row": 2,
       "col": 6
     },
     {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 7
+      "row": 4,
+      "col": 6
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 6,
       "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 32
+  "difficulty": "zor",
+  "order": 196
 }

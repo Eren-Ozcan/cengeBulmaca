@@ -1,155 +1,167 @@
 {
   "id": "puzzle-112",
-  "title": "Bulmaca 64",
+  "title": "Bulmaca 89",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Para işleri görevlisi",
-      "answer": "MUTEMET",
+      "text": "Süprüntü küreği",
+      "answer": "FARAŞ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Önceki görevli",
-      "answer": "SELEF",
+      "text": "Katmerli sebze",
+      "answer": "LAHANA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Eğlence yeri",
-      "answer": "GAZİNO",
+      "text": "Tanık",
+      "answer": "ŞAHİT",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Türkiye'nin halkı",
-      "answer": "TÜRK",
+      "text": "Gece uçan memeli",
+      "answer": "YARASA",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kaba güldürü",
+      "answer": "FARS",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Öküz arabası",
+      "answer": "KAĞNI",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Dal izi",
-      "answer": "BUDAK",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yüksek faizci",
-      "answer": "TEFECİ",
+      "text": "Üniversite öğreticisi",
+      "answer": "OKUTMAN",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sık ağaçlı yer",
-      "answer": "KORULUK",
+      "text": "Beden etkinliği",
+      "answer": "SPOR",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Anma, söyleme",
-      "answer": "ZİKİR",
+      "text": "Adla ilgili",
+      "answer": "ADSAL",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bıkkınlık duygusu",
-      "answer": "USANÇ",
+      "text": "Eğlenme, dalga geçme",
+      "answer": "ALAY",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İnce parçacık",
-      "answer": "TOZ",
+      "text": "Artvin ilçesi",
+      "answer": "HOPA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Huzur, sıkıntısızlık",
+      "answer": "RAHAT",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şifre, simge",
+      "answer": "KOD",
       "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Önerme, sav",
-      "answer": "TEZ",
-      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Öte karşıtı",
-      "answer": "BERİ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ayrıcalıklı kesim",
-      "answer": "ELİT",
+      "text": "Sırada son",
+      "answer": "AHİR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gök-yer çizgisi",
-      "answer": "UFUK",
+      "text": "Eğitim programı",
+      "answer": "KURS",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yemek listesi",
-      "answer": "MENÜ",
+      "text": "Gösterişli görkem",
+      "answer": "ŞATAFAT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Aklını yitirmiş",
-      "answer": "DELİ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Güç harcama",
-      "answer": "EFOR",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Hıyara benzer sebze",
-      "answer": "ACUR",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Baharat bitkisi",
-      "answer": "KEKİK",
+      "text": "Süt veren",
+      "answer": "SAĞMAL",
       "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Haşlanan hamur",
+      "answer": "MAKARNA",
+      "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Öğrenci bölümü",
+      "answer": "SINIF",
+      "row": 4,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 3,
+      "col": 7
     },
     {
       "row": 5,
@@ -158,6 +170,14 @@
     {
       "row": 6,
       "col": 0
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
@@ -165,5 +185,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 64
+  "order": 89
 }

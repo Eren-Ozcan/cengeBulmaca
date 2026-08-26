@@ -1,0 +1,190 @@
+{
+  "id": "puzzle-275",
+  "title": "Bulmaca 33",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Adaletli paylaştırma",
+      "answer": "KIST",
+      "row": 1,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Hristiyan mabedi",
+      "answer": "KİLİSE",
+      "row": 1,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kabuk kırığı",
+      "answer": "FAY",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Özlenen memleket",
+      "answer": "SILA",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kişi resmi",
+      "answer": "PORTRE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sahne dansı",
+      "answer": "BALE",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Konak yöneticisi",
+      "answer": "KAHYA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sıradan, basmakalıp",
+      "answer": "BANAL",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Karışık canlı",
+      "answer": "MELEZ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yiyecek, azık, nasip",
+      "answer": "RIZIK",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Örtme nesnesi",
+      "answer": "KAPAK",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Alto keman",
+      "answer": "VİYOLA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kılavuz",
+      "answer": "REHBER",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıvı kese",
+      "answer": "KİST",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Harflerle anlatım",
+      "answer": "YAZI",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yakıcı tüylü ot",
+      "answer": "ISIRGAN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bisiklet koltuğu",
+      "answer": "SELE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yok olma",
+      "answer": "HELAK",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 33
+}

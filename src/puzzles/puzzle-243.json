@@ -1,0 +1,175 @@
+{
+  "id": "puzzle-243",
+  "title": "Bulmaca 190",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Öbür dünya",
+      "answer": "AHİRET",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Keman çalan",
+      "answer": "KEMANCI",
+      "row": 2,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Duman yolu",
+      "answer": "BACA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İç karşıtı",
+      "answer": "DIŞ",
+      "row": 4,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Fasıl girişi",
+      "answer": "PEŞREV",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kurmaca eser",
+      "answer": "ROMAN",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Zanaat öğrencisi",
+      "answer": "ÇIRAK",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tren platformu",
+      "answer": "PERON",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Canlılık durumu",
+      "answer": "HAYAT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ilıca",
+      "answer": "KAPLICA",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ortak emek",
+      "answer": "İMECE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kulplu su tası",
+      "answer": "MAŞRAPA",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzay aracı",
+      "answer": "ROKET",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İki kişilik bisiklet",
+      "answer": "TANDEM",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sıvı metal",
+      "answer": "CIVA",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Nabız vuruşu",
+      "answer": "ATIŞ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Nine",
+      "answer": "NENE",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "zor",
+  "order": 190
+}

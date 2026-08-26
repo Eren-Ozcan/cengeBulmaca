@@ -1,0 +1,179 @@
+{
+  "id": "puzzle-265",
+  "title": "Bulmaca 155",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Mısır anıtı",
+      "answer": "PİRAMİT",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hayvan ölümü",
+      "answer": "TELEF",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ehemmiyetsiz",
+      "answer": "ÖNEMSİZ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Podyum modeli",
+      "answer": "MANKEN",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Rüzgâr",
+      "answer": "YEL",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kavrulan bitki",
+      "answer": "KAHVE",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eskil",
+      "answer": "ARKAİK",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İçe doğma",
+      "answer": "ÖNSEZİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Görüntü yüzeyi",
+      "answer": "EKRAN",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ev, arsa",
+      "answer": "EMLAK",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Savurma eylemi",
+      "answer": "ATMA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dalgalı çizgi",
+      "answer": "HARE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyitli divan türü",
+      "answer": "MESNEVİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kemik dokusu",
+      "answer": "İLİK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Canı her şeyi çeken",
+      "answer": "EKTİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Dışkı yakıtı",
+      "answer": "TEZEK",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Pantolon ucu",
+      "answer": "PAÇA",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "orta",
+  "order": 155
+}

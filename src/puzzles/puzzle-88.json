@@ -1,160 +1,146 @@
 {
   "id": "puzzle-88",
-  "title": "Bulmaca 92",
-  "rows": 11,
+  "title": "Bulmaca 19",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Haydi",
-      "answer": "HADİ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Cam gibi saydam",
-      "answer": "CAMSI",
-      "row": 2,
-      "col": 0,
+      "text": "Vale kâğıdı",
+      "answer": "FANTİ",
+      "row": 1,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Aklanma",
-      "answer": "BERAAT",
-      "row": 2,
+      "text": "Kısa anlatım",
+      "answer": "İCAZ",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tanıtıcı işaret",
-      "answer": "MARKA",
+      "text": "Doğum yardımcısı",
+      "answer": "EBE",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ateş çöpü",
+      "answer": "KİBRİT",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gök ada",
+      "answer": "GALAKSİ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Katı karşıtı",
-      "answer": "ESNEK",
-      "row": 5,
-      "col": 2,
+      "text": "Kısa hatırlatma",
+      "answer": "NOT",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Marmara'da tatil adası",
-      "answer": "AVŞA",
+      "text": "Seçme aşaması",
+      "answer": "ELEME",
       "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaratıcı uğraş",
+      "answer": "SANAT",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kokulu beyaz çiçek",
+      "answer": "YASEMİN",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yılan sesi",
-      "answer": "TIS",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Nişan yüzüğü",
-      "answer": "ALYANS",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gürcistan'ın başkenti",
-      "answer": "TİFLİS",
+      "text": "Para türü",
+      "answer": "NAKİT",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kapıp kaçma",
-      "answer": "KAPKAÇ",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Deneyimsiz, toy",
-      "answer": "ACEMİ",
-      "row": 0,
+      "text": "Tomurcuk",
+      "answer": "GONCA",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Güç birimi",
-      "answer": "VAT",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Boş ağırlık",
-      "answer": "DARA",
+      "text": "Aykırılık bağlacı",
+      "answer": "FAKAT",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Birlikte olma",
-      "answer": "EŞLİK",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bayındırlık",
-      "answer": "İMAR",
+      "text": "Görevden alma",
+      "answer": "AZİL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kitap yaprağı",
-      "answer": "SAYFA",
+      "text": "Sağlıklı",
+      "answer": "ESEN",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hareketsiz, durgun",
-      "answer": "SAKİN",
-      "row": 1,
+      "text": "Sacda pişen ekmek",
+      "answer": "BAZLAMA",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yiğit, kahraman",
-      "answer": "ALP",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyük kara kütlesi",
-      "answer": "KITA",
+      "text": "Bırakıp gitme",
+      "answer": "TERK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kavimle ilgili",
-      "answer": "ETNİK",
+      "text": "Kedi, köpek yavrusu",
+      "answer": "ENİK",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ders anlatısı",
-      "answer": "KISSA",
+      "text": "Bataklık kuşu",
+      "answer": "İBİS",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk dörtlüğü",
+      "answer": "MANİ",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Uçan küre",
-      "answer": "BALON",
-      "row": 0,
+      "text": "Fiyat kâğıdı",
+      "answer": "ETİKET",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -162,35 +148,27 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 6
+      "col": 7
     },
     {
       "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 5,
       "col": 0
     },
     {
       "row": 6,
-      "col": 7
+      "col": 0
     },
     {
       "row": 8,
@@ -198,13 +176,13 @@
     },
     {
       "row": 9,
-      "col": 7
+      "col": 0
     },
     {
-      "row": 10,
-      "col": 0
+      "row": 9,
+      "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 92
+  "difficulty": "kolay",
+  "order": 19
 }

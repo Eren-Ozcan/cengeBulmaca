@@ -1,137 +1,159 @@
 {
   "id": "puzzle-56",
-  "title": "Bulmaca 37",
+  "title": "Bulmaca 14",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Hoşluk",
-      "answer": "LETAFET",
-      "row": 0,
+      "text": "Tahıl ucu",
+      "answer": "BAŞAK",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Kuraklık tahılı",
-      "answer": "DARI",
+      "text": "Ödeme süresi",
+      "answer": "VADE",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bilgin kimse",
-      "answer": "ALİM",
+      "text": "Zurnalı oyun",
+      "answer": "HALAY",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Tropik sarı meyve",
-      "answer": "PAPAYA",
-      "row": 3,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Asla",
-      "answer": "HİÇ",
+      "text": "İktisat",
+      "answer": "EKONOMİ",
       "row": 4,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pislik, is",
-      "answer": "KİR",
-      "row": 5,
-      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İzinsiz şey",
-      "answer": "YASAK",
+      "text": "Kısa imza",
+      "answer": "PARAF",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Karşı davranış",
+      "answer": "TEPKİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yapılan yanlış",
+      "answer": "HATA",
       "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yakıcı tat",
-      "answer": "ACI",
-      "row": 7,
+      "text": "Sigorta belgesi",
+      "answer": "POLİÇE",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Onlu üleştirme sayısı",
-      "answer": "ONAR",
-      "row": 7,
+      "text": "Macar yemeği",
+      "answer": "GULAŞ",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zürafa akrabası",
-      "answer": "OKAPİ",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tuşlu telli çalgı",
-      "answer": "PİYANO",
-      "row": 3,
+      "text": "Yiyecek dükkânı",
+      "answer": "BÜFE",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şişe kapağı aracı",
-      "answer": "AÇACAK",
-      "row": 3,
+      "text": "Mülkiyet belgesi",
+      "answer": "TAPU",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Omuz atkısı",
+      "answer": "ETOL",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Töre, görgü",
-      "answer": "ADAP",
-      "row": 0,
+      "text": "Bebek zıplatan",
+      "answer": "HOPPALA",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dizi",
-      "answer": "SIRA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ayak tabanı cezası",
-      "answer": "FALAKA",
+      "text": "Saf, bön",
+      "answer": "AVANAK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mahlul",
-      "answer": "ERİYİK",
+      "text": "Çalışma, emek",
+      "answer": "İŞ",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Enerji ölçü birimi",
+      "answer": "KALORİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hayvan bakımı",
-      "answer": "TIMAR",
-      "row": 0,
+      "text": "Masa oyunu",
+      "answer": "DAMA",
+      "row": 1,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kolun ucu",
+      "answer": "EL",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Neşesi yerinde",
+      "answer": "KEYİFLİ",
+      "row": 0,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
       "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 2,
@@ -139,10 +161,14 @@
     },
     {
       "row": 2,
-      "col": 1
+      "col": 2
     },
     {
       "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
@@ -151,33 +177,21 @@
     },
     {
       "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
       "col": 5
     },
     {
       "row": 8,
-      "col": 6
+      "col": 7
     },
     {
       "row": 9,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 37
+  "order": 14
 }

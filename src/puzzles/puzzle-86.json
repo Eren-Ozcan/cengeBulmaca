@@ -1,155 +1,183 @@
 {
   "id": "puzzle-86",
-  "title": "Bulmaca 72",
+  "title": "Bulmaca 57",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Pasaklı",
-      "answer": "ÇAPAÇUL",
+      "text": "Atlı top oyunu",
+      "answer": "POLO",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Toplu yer değiştirme",
-      "answer": "GÖÇ",
-      "row": 2,
-      "col": 2,
+      "text": "Sürat",
+      "answer": "HIZ",
+      "row": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kutlu",
-      "answer": "UĞURLU",
+      "text": "Benzetmeye çalışma",
+      "answer": "TAKLİT",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yağda kavrulmuş yemek",
+      "answer": "SOTE",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İlgili, ilişkin",
-      "answer": "AİT",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Zıplama sesi",
+      "answer": "ZIP",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Yeni doğum yapmış",
-      "answer": "LOHUSA",
+      "text": "Gereksiz bağırma",
+      "answer": "YAYGARA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hak etme",
+      "answer": "LİYAKAT",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dönen derviş",
-      "answer": "SEMAZEN",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ekşi saplı bitki",
-      "answer": "RAVENT",
-      "row": 8,
-      "col": 0,
+      "text": "Geçimlik",
+      "answer": "NAFAKA",
+      "row": 7,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İçeri girmiş bölüm",
-      "answer": "GİRİNTİ",
+      "text": "İki parçalı",
+      "answer": "İKİLİ",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İç organlar",
+      "answer": "SAKATAT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Geri karşıtı",
-      "answer": "İLERİ",
-      "row": 4,
+      "text": "Hızlı yol",
+      "answer": "OTOYOL",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kağıt rulosu",
-      "answer": "TOMAR",
-      "row": 4,
+      "text": "Uzun, dar tahta",
+      "answer": "LATA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tac Mahal'in kenti",
-      "answer": "AGRA",
+      "text": "İnmiş, sönmüş",
+      "answer": "İNİK",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dört kişilik masa oyunu",
+      "answer": "OKEY",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kapsayan",
-      "answer": "HAVİ",
+      "text": "Boyun bölümü",
+      "answer": "YAKA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kurak alan",
-      "answer": "ÇÖL",
-      "row": 0,
+      "text": "Kalem içi",
+      "answer": "GRAFİT",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Amca çocuğu",
-      "answer": "KUZEN",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Uçmak işi",
-      "answer": "UÇUŞ",
+      "text": "Aynı çizgi",
+      "answer": "HİZA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dolar parçası",
-      "answer": "SENT",
+      "text": "Saat söylerken kullanılan",
+      "answer": "KALA",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Vale kâğıdı",
-      "answer": "FANTİ",
-      "row": 4,
+      "text": "Güzel koku",
+      "answer": "ITIR",
+      "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sözleşme, bağıt",
+      "answer": "AKİT",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Hamur tatlısı",
+      "answer": "PASTA",
+      "row": 2,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 4
     },
     {
       "row": 0,
-      "col": 2
+      "col": 7
     },
     {
-      "row": 0,
-      "col": 6
+      "row": 5,
+      "col": 0
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 7,
+      "col": 0
     },
     {
-      "row": 2,
-      "col": 6
+      "row": 8,
+      "col": 7
     },
     {
-      "row": 3,
-      "col": 6
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 72
+  "difficulty": "kolay",
+  "order": 57
 }

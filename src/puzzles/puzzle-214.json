@@ -1,169 +1,178 @@
 {
   "id": "puzzle-214",
-  "title": "Bulmaca 14",
+  "title": "Bulmaca 135",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "İyileşme",
-      "answer": "ŞİFA",
+      "text": "İyileşme dönemi",
+      "answer": "NEKAHET",
       "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Işık saçan şenlik",
-      "answer": "MAYTAP",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sacda pişen ekmek",
-      "answer": "BAZLAMA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sırada son",
-      "answer": "AHİR",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Çivi aleti",
-      "answer": "ÇEKİÇ",
-      "row": 5,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Tel tatlı",
-      "answer": "KADAYIF",
+      "text": "Şart",
+      "answer": "KOŞUL",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kan emen yaratık",
+      "answer": "VAMPİR",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sert çarpma",
+      "answer": "DARBE",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Parça",
+      "answer": "PARE",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Devlete ait",
+      "answer": "RESMİ",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Arlanmaz",
+      "answer": "UTANMAZ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İş birimi",
+      "answer": "ERG",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Babaya dayalı düzen",
+      "answer": "ATAERKİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Parlayan yıldız",
+      "answer": "NOVA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İnce yün kumaş",
+      "answer": "ÇUHA",
       "row": 6,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right-down"
     },
     {
-      "text": "Bıçak taşı",
-      "answer": "BİLEĞİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Batı",
-      "answer": "GARP",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Namaz görevlisi",
-      "answer": "İMAM",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gayret",
-      "answer": "ÇABA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Evre, safha",
-      "answer": "FAZ",
+      "text": "Baş-boyun örtüsü",
+      "answer": "EŞARP",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Divan",
-      "answer": "SEDİR",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Işık halkası",
-      "answer": "AYLA",
+      "text": "Para biriktirme kabı",
+      "answer": "KUMBARA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kan pompası",
-      "answer": "KALP",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Boşaltma",
-      "answer": "TAHLİYE",
-      "row": 1,
+      "text": "Yiğit derviş",
+      "answer": "ALPEREN",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Koruyucu, kayıran",
-      "answer": "HAMİ",
+      "text": "Buğday rengi",
+      "answer": "ESMER",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Avrupa Birliği parası",
+      "answer": "EURO",
       "row": 0,
-      "col": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kar kütlesi",
-      "answer": "ÇIĞ",
+      "text": "Eski Alman parası",
+      "answer": "MARK",
       "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Benekli postlu yırtıcı",
-      "answer": "PARS",
-      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hortumlu hayvan",
-      "answer": "FİL",
-      "row": 6,
-      "col": 6,
+      "text": "Harf düzenleme",
+      "answer": "DİZGİ",
+      "row": 4,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
     },
     {
       "row": 0,
-      "col": 6
+      "col": 5
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 4
+      "row": 8,
+      "col": 0
     },
     {
-      "row": 9,
-      "col": 5
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
     }
   ],
-  "difficulty": "kolay",
-  "order": 14
+  "difficulty": "orta",
+  "order": 135
 }

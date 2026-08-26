@@ -1,160 +1,146 @@
 {
   "id": "puzzle-51",
-  "title": "Bulmaca 134",
-  "rows": 12,
+  "title": "Bulmaca 195",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Satış belgesi",
-      "answer": "FATURA",
+      "text": "Şaşkınlık sözü",
+      "answer": "AYOL",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Koca, eş",
-      "answer": "BEY",
+      "text": "Sermaye",
+      "answer": "ANAPARA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şişe tıkacı",
-      "answer": "TAPA",
+      "text": "Fabrika üretimi",
+      "answer": "İMALAT",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tenis oynayan",
-      "answer": "TENİSÇİ",
+      "text": "Uyandıran",
+      "answer": "UYARICI",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İmrenme duygusu",
-      "answer": "GIPTA",
+      "text": "Sonuçsuz kalan",
+      "answer": "AKİM",
       "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Tropik çayır",
+      "answer": "SAVANA",
+      "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Aydın ilçesi",
-      "answer": "SÖKE",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İkinci çoğul",
-      "answer": "SİZ",
+      "text": "Kaplıca",
+      "answer": "ILICA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İran para birimi",
-      "answer": "RİAL",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ulusal",
-      "answer": "MİLLİ",
+      "text": "Kıskaç, maşa",
+      "answer": "PENSE",
       "row": 8,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kuru peksimet",
-      "answer": "GALETA",
+      "text": "Büyük acı, ıstırap",
+      "answer": "AZAP",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İlk bilgi",
-      "answer": "ABECE",
-      "row": 11,
-      "col": 0,
+      "text": "Birliktelik bağlacı",
+      "answer": "İLE",
+      "row": 9,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Bayındır, mamur",
-      "answer": "ABAT",
+      "text": "Eğik olan",
+      "answer": "YAMUK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sarılmış tütün",
-      "answer": "SİGARA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yansıtma aygıtı",
-      "answer": "TEPEGÖZ",
+      "text": "Tasdik",
+      "answer": "ONAY",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Uyumamış",
-      "answer": "UYANIK",
+      "text": "Eşek yavrusu",
+      "answer": "SIPA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek dadı",
+      "answer": "LALA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Palamut ağacı",
-      "answer": "MEŞE",
-      "row": 7,
+      "text": "Acaba",
+      "answer": "ACEP",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Savaş gazı",
-      "answer": "İPERİT",
-      "row": 3,
+      "text": "Katlanır bölme",
+      "answer": "PARAVAN",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gol pası",
-      "answer": "ASİST",
+      "text": "Söyleme yeteneği",
+      "answer": "NATIKA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ekleme, ulama",
-      "answer": "İLAVE",
-      "row": 6,
+      "text": "Gamın son notası",
+      "answer": "Sİ",
+      "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sofra aracı",
-      "answer": "ÇATAL",
+      "text": "Eşeysel",
+      "answer": "CİNSEL",
       "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sıradan, kalitesiz",
-      "answer": "ADİ",
+      "text": "Merhamet duygusu",
+      "answer": "ACIMA",
       "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Lifi olan",
-      "answer": "LİFLİ",
-      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -177,46 +163,18 @@
       "col": 6
     },
     {
-      "row": 2,
-      "col": 4
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
       "row": 5,
       "col": 0
     },
     {
-      "row": 5,
+      "row": 7,
       "col": 7
     },
     {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 11,
-      "col": 6
+      "row": 8,
+      "col": 7
     }
   ],
   "difficulty": "zor",
-  "order": 134
+  "order": 195
 }

@@ -1,162 +1,171 @@
 {
   "id": "puzzle-44",
-  "title": "Bulmaca 124",
+  "title": "Bulmaca 96",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Gömülecek ölü",
-      "answer": "CENAZE",
+      "text": "Ucuza kapatılan",
+      "answer": "KELEPİR",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Define",
+      "answer": "GÖMÜ",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kor aracı",
-      "answer": "MAŞA",
-      "row": 2,
-      "col": 2,
+      "text": "Ham kavun",
+      "answer": "KELEK",
+      "row": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tiyatro oyunu",
-      "answer": "PİYES",
-      "row": 3,
+      "text": "Takılarak konuşan",
+      "answer": "KEKEME",
+      "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Dakikanın altmışta biri",
-      "answer": "SANİYE",
-      "row": 4,
-      "col": 0,
+      "text": "Dar erkek donu",
+      "answer": "SLİP",
+      "row": 5,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çeşit, tür",
-      "answer": "TİP",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Risk",
-      "answer": "RİZİKO",
+      "text": "Şiddetli patlama",
+      "answer": "İNFİLAK",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yelken açtırma",
-      "answer": "FORA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kare yüzlü cisim",
-      "answer": "KÜP",
-      "row": 8,
+      "text": "Saç tokası",
+      "answer": "FİRKETE",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mektup dağıtan",
-      "answer": "POSTACI",
-      "row": 8,
+      "text": "Kısa boylu",
+      "answer": "CÜCE",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Akdeniz sıcak rüzgârı",
-      "answer": "SİROKO",
-      "row": 3,
+      "text": "Üst meclis",
+      "answer": "SENATO",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Toprak altı bölüm",
+      "answer": "KÖK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Nil kamışı kâğıdı",
-      "answer": "PAPİRÜS",
-      "row": 2,
+      "text": "Bit hastalığı",
+      "answer": "TİFÜS",
+      "row": 5,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Çaba, uğraş",
+      "answer": "EMEK",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Duadan sonra denen",
-      "answer": "AMİN",
+      "text": "Belirsiz çokluk",
+      "answer": "NİCE",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Nargile bölümü",
+      "answer": "LÜLE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Zorla el koyma",
-      "answer": "ZAPT",
+      "text": "Hız kesici",
+      "answer": "FREN",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kaybolma",
-      "answer": "ZAYİ",
-      "row": 0,
+      "text": "Noksan",
+      "answer": "EKSİK",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Cinsiyet",
-      "answer": "EŞEY",
-      "row": 0,
+      "text": "Koyun başı",
+      "answer": "KELLE",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Oje çıkarıcı",
-      "answer": "ASETON",
-      "row": 1,
+      "text": "Son tarih",
+      "answer": "MİAT",
+      "row": 3,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İşlemeli kısa ceket",
+      "answer": "CEPKEN",
+      "row": 2,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
-      "col": 2
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 0,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 1
+      "col": 6
     },
     {
-      "row": 3,
+      "row": 4,
       "col": 0
-    },
-    {
-      "row": 5,
-      "col": 4
-    },
-    {
-      "row": 5,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 5
     },
     {
       "row": 8,
@@ -169,8 +178,12 @@
     {
       "row": 8,
       "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 124
+  "difficulty": "orta",
+  "order": 96
 }

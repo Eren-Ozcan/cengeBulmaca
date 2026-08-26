@@ -1,160 +1,146 @@
 {
   "id": "puzzle-84",
-  "title": "Bulmaca 138",
-  "rows": 12,
+  "title": "Bulmaca 45",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Beyazımsı",
-      "answer": "AKÇA",
+      "text": "Yalan karşıtı",
+      "answer": "DOĞRU",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dolma kalem",
-      "answer": "STİLO",
+      "text": "Bilgili kimse",
+      "answer": "UZMAN",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bar görevlisi",
-      "answer": "BARMEN",
+      "text": "Hükümdar vekili",
+      "answer": "NAİP",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gezgin derviş",
-      "answer": "ABDAL",
+      "text": "Tutturmalı küpe",
+      "answer": "KLİPS",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kırsal yerleşim",
-      "answer": "KÖY",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dileme, yalvarma",
-      "answer": "RİCA",
+      "text": "Cilalı deri",
+      "answer": "LAKE",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kadın rahip",
-      "answer": "RAHİBE",
+      "text": "Uzun gezi",
+      "answer": "SEYAHAT",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Görüşme",
+      "answer": "MÜLAKAT",
       "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Bakanlık görevlisi",
-      "answer": "BAKAN",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kafa",
-      "answer": "BAŞ",
+      "text": "Manevi sorumluluk",
+      "answer": "VEBAL",
       "row": 8,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sirküler yazı",
-      "answer": "GENELGE",
+      "text": "Yün kazak",
+      "answer": "SÜVETER",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çünkü",
-      "answer": "ZİRA",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Rengarenk",
-      "answer": "ELVAN",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Evrak dosyası",
-      "answer": "KLASÖR",
+      "text": "Donuk, mat",
+      "answer": "OPAK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hamur parçası",
-      "answer": "BEZE",
-      "row": 7,
+      "text": "Hayvan topluluğu",
+      "answer": "SÜRÜ",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Evcil olmayan",
-      "answer": "YABANİ",
-      "row": 4,
+      "text": "Gelişmemiş, iptidai",
+      "answer": "İLKEL",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Üzüm bitkisi",
-      "answer": "ASMA",
+      "text": "Hindistan parası",
+      "answer": "RUPİ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Böcek",
-      "answer": "HAŞERE",
+      "text": "Saçma söz",
+      "answer": "YAVE",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kutlama",
-      "answer": "TEBRİK",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Değerli kırmızı taş",
-      "answer": "LAL",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Salatalık yabani ot",
-      "answer": "HİNDİBA",
+      "text": "Becerikli, yetenekli",
+      "answer": "UZ",
       "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Onurluk",
+      "answer": "PLAKET",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Peygamber arkadaşı",
+      "answer": "SAHABE",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bilet satan büro",
-      "answer": "ACENTE",
-      "row": 3,
+      "text": "'İşte' ünlemi",
+      "answer": "HA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Din bilgini",
-      "answer": "MOLLA",
-      "row": 0,
+      "text": "Tren",
+      "answer": "KATAR",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bekleme görevi",
+      "answer": "NÖBET",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -166,57 +152,33 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 6,
       "col": 7
     },
     {
-      "row": 7,
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
       "row": 7,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
       "col": 7
     },
     {
       "row": 9,
       "col": 7
-    },
-    {
-      "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 138
+  "difficulty": "kolay",
+  "order": 45
 }

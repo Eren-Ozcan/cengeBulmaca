@@ -1,146 +1,146 @@
 {
   "id": "puzzle-240",
-  "title": "Bulmaca 125",
-  "rows": 11,
+  "title": "Bulmaca 55",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Büyük dükkân",
-      "answer": "MAĞAZA",
-      "row": 1,
+      "text": "Gemi işçileri",
+      "answer": "TAYFA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sıkı başörtü",
+      "answer": "TÜRBAN",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Veraset",
-      "answer": "KALITIM",
+      "text": "Kereste bıçkısı",
+      "answer": "HIZAR",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kanatlı hayvan",
-      "answer": "KUŞ",
+      "text": "Ödül",
+      "answer": "MÜKAFAT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Latife",
+      "answer": "ŞAKA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Teknik hile",
+      "answer": "TRÜK",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kolay anlatım",
+      "answer": "AKICI",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sol elli",
+      "answer": "SOLAK",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Akım",
+      "answer": "CEREYAN",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Atış uzaklığı",
+      "answer": "ATIM",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Anahtarlama cihazı",
+      "answer": "RÖLE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüzme sporcusu",
+      "answer": "YÜZÜCÜ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun etekli tören ceketi",
+      "answer": "FRAK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Derin çanak",
+      "answer": "KASE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Alaca, lekeli",
+      "answer": "ABRAŞ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Deniz girintisi",
+      "answer": "KOY",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ara, aralık",
+      "answer": "FASILA",
       "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Balık yemi",
-      "answer": "ZOKA",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Az, önemsiz",
-      "answer": "CÜZİ",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Patlama sesi",
-      "answer": "GÜM",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Öksürük hastalığı",
-      "answer": "BOĞMACA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Rütbe yükselmesi",
-      "answer": "TERFİ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Büyük bakır kap",
-      "answer": "LENGER",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Tahıl tatlısı",
-      "answer": "AŞURE",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Basit küçük yapı",
-      "answer": "KULÜBE",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ad ortağı",
-      "answer": "ADAŞ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Şiddetli, güç",
-      "answer": "ZORLU",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Savaş başlığı",
-      "answer": "MİĞFER",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeme organı",
-      "answer": "AĞIZ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Diş dokusu",
-      "answer": "MİNE",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Miğfer",
-      "answer": "TOLGA",
-      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Vurgun, tutkun",
-      "answer": "AŞIK",
+      "text": "Yalnızca sözü",
+      "answer": "ANCAK",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İş parası",
-      "answer": "ÜCRET",
-      "row": 5,
+      "text": "Yaşam gücü",
+      "answer": "CAN",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yer altı kayacı",
-      "answer": "MAGMA",
-      "row": 2,
+      "text": "Şahit",
+      "answer": "TANIK",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -148,18 +148,6 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 5
     },
     {
@@ -168,37 +156,25 @@
     },
     {
       "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
       "col": 7
     },
     {
       "row": 2,
+      "col": 7
+    },
+    {
+      "row": 7,
       "col": 0
     },
     {
-      "row": 2,
-      "col": 3
-    },
-    {
-      "row": 5,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
+      "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 125
+  "difficulty": "kolay",
+  "order": 55
 }

@@ -1,154 +1,162 @@
 {
   "id": "puzzle-215",
-  "title": "Bulmaca 66",
+  "title": "Bulmaca 176",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Özverili",
-      "answer": "FEDAKAR",
+      "text": "Bebek ayakkabısı",
+      "answer": "PATİK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Deri hastalığı",
-      "answer": "UYUZ",
+      "text": "Ve benzerleri",
+      "answer": "FALAN",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yıkıntı kalıntısı",
-      "answer": "MOLOZ",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
+      "text": "Dağ yanı",
+      "answer": "YAMAÇ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Yanlış kelime",
-      "answer": "GALAT",
+      "text": "Sağlama, bulma",
+      "answer": "TEDARİK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Saç kurutma",
-      "answer": "FÖN",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yeterince olan",
-      "answer": "YETERLİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Niğde'nin ilçesi",
-      "answer": "BOR",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Beyin oğlu",
-      "answer": "BEYZADE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Konar göçer",
-      "answer": "GÖÇEBE",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yanma gazı",
-      "answer": "DUMAN",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Deneyimsiz, acemi",
-      "answer": "TOY",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Şaşkınlık sözü",
-      "answer": "AYOL",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tuğla arası harç",
-      "answer": "DERZ",
+      "text": "Basma başörtü",
+      "answer": "YEMENİ",
       "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kafkasya'da bir halk",
+      "answer": "AVAR",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuşatma",
+      "answer": "ABLUKA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ünlüler haberleri",
+      "answer": "MAGAZİN",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Serbest bırakma",
+      "answer": "AZAT",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Borçtan aklama",
+      "answer": "İBRA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Halk nefeslisi",
+      "answer": "MEY",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Anlatım, açıklama",
+      "answer": "İFADE",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Uzaklık ölçüsü",
-      "answer": "KULAÇ",
+      "text": "Gizli sapma",
+      "answer": "KAÇAMAK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hava gazı",
-      "answer": "AZOT",
-      "row": 0,
+      "text": "İrmikli şerbetli tatlı",
+      "answer": "REVANİ",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yolsuzluk kuşkusu",
-      "answer": "ŞAİBE",
-      "row": 4,
+      "text": "Gemi omurgası",
+      "answer": "KARİNA",
+      "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Temiz karşıtı",
+      "answer": "KİRLİ",
+      "row": 3,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
-      "col": 6
+      "col": 5
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 0,
+      "col": 7
     },
     {
-      "row": 2,
-      "col": 6
+      "row": 1,
+      "col": 5
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 1,
+      "col": 7
     },
     {
       "row": 5,
-      "col": 5
+      "col": 0
     },
     {
       "row": 6,
-      "col": 4
+      "col": 2
     },
     {
-      "row": 6,
-      "col": 5
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
     },
     {
       "row": 8,
@@ -156,9 +164,13 @@
     },
     {
       "row": 8,
-      "col": 5
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 66
+  "difficulty": "zor",
+  "order": 176
 }

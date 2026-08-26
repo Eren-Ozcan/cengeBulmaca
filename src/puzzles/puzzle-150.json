@@ -1,166 +1,117 @@
 {
   "id": "puzzle-150",
-  "title": "Bulmaca 145",
-  "rows": 12,
+  "title": "Bulmaca 20",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kitap bölümü",
-      "answer": "BAP",
+      "text": "Ucuz karşıtı",
+      "answer": "PAHALI",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Saf içki",
-      "answer": "SEK",
+      "text": "Deney hayvanı",
+      "answer": "KOBAY",
       "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Gemi onarımı",
-      "answer": "KALAFAT",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeşil ot örtüsü",
-      "answer": "ÇİM",
-      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zehir",
-      "answer": "ZEHR",
+      "text": "Sirk soytarısı",
+      "answer": "PALYAÇO",
       "row": 3,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gemi erzağı",
-      "answer": "KUMANYA",
+      "text": "İş paydaşı",
+      "answer": "ORTAK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bebek sargısı",
-      "answer": "KUNDAK",
+      "text": "Üzüm suyu",
+      "answer": "ŞIRA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Uzun yol kamyonu",
+      "answer": "TIR",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hastalık, dert",
+      "answer": "İLLET",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kin, hınç, garez",
+      "answer": "GARAZ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kaba et",
+      "answer": "POPO",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Asıl konu",
+      "answer": "TEMA",
       "row": 5,
       "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Rıza, izin",
-      "answer": "ONAM",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Onurluk",
-      "answer": "PLAKET",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zorba buyruk",
-      "answer": "DİKTA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gemide oda",
-      "answer": "KAMARA",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Asma kütüğü",
-      "answer": "OMCA",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yarı değerli taş",
-      "answer": "AKİK",
-      "row": 0,
-      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yol arkadaşı",
-      "answer": "YOLDAŞ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Beyaz koza",
-      "answer": "PAMUK",
+      "text": "Mübalağa",
+      "answer": "ABARTI",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bolluk, rahatlık",
-      "answer": "NAİM",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Patlıcanlı fırın yemeği",
-      "answer": "MUSAKKA",
-      "row": 3,
+      "text": "Yakışıksız davranış",
+      "answer": "HALT",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tatlı su balığı",
-      "answer": "SAZAN",
+      "text": "Dileme, yalvarma",
+      "answer": "RİCA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İçki düşkünü",
+      "answer": "AYYAŞ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yer altı treni",
-      "answer": "METRO",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Nazik kimse",
-      "answer": "EFENDİ",
-      "row": 0,
+      "text": "Zeki, uslu",
+      "answer": "AKILLI",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yemek",
-      "answer": "TAAM",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Konak yöneticisi",
-      "answer": "KAHYA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Çift süren taşıt",
-      "answer": "TRAKTÖR",
+      "text": "Restoran",
+      "answer": "LOKANTA",
       "row": 1,
       "col": 7,
       "arrow": "down"
@@ -169,11 +120,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 0,
       "col": 7
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
     },
     {
       "row": 5,
@@ -181,11 +148,23 @@
     },
     {
       "row": 6,
+      "col": 4
+    },
+    {
+      "row": 6,
       "col": 6
     },
     {
       "row": 7,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 4
     },
     {
       "row": 8,
@@ -193,29 +172,17 @@
     },
     {
       "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
       "col": 6
     },
     {
       "row": 9,
       "col": 7
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 2
     }
   ],
-  "difficulty": "zor",
-  "order": 145
+  "difficulty": "kolay",
+  "order": 20
 }

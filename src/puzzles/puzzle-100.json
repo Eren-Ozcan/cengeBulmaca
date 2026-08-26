@@ -1,181 +1,122 @@
 {
   "id": "puzzle-100",
-  "title": "Bulmaca 118",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 130",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Talih",
-      "answer": "ŞANS",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İddia çürütme",
-      "answer": "CERH",
+      "text": "Hınzır",
+      "answer": "DOMUZ",
       "row": 1,
-      "col": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Peşin para",
-      "answer": "AVANS",
+      "text": "Bazik madde",
+      "answer": "ALKALİ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Endüstri",
-      "answer": "SANAYİ",
+      "text": "Aleyh karşıtı",
+      "answer": "LEH",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Pertavsız",
-      "answer": "BÜYÜTEÇ",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
+      "text": "Taklit yergi",
+      "answer": "PARODİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Aile işareti",
-      "answer": "ARMA",
+      "text": "Çabucak",
+      "answer": "HEMEN",
       "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski, kadim",
-      "answer": "ANTİK",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Et suyu çorbası",
-      "answer": "KONSOME",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Durgun su",
-      "answer": "GÖL",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Duvar birleşimi",
-      "answer": "KÖŞE",
-      "row": 9,
+      "text": "Üniversite diploması",
+      "answer": "LİSANS",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ege efesi",
-      "answer": "ZEYBEK",
-      "row": 11,
+      "text": "Hindistan'ın kutsal nehri",
+      "answer": "GANJ",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Amaç",
+      "answer": "HEDEF",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Elde tutulan üstünlük",
-      "answer": "KOZ",
-      "row": 5,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarı, tüylü meyve",
-      "answer": "AYVA",
+      "text": "Yemin sözü",
+      "answer": "VALLAHİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Görme organı",
-      "answer": "GÖZ",
-      "row": 8,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "En saygın yer",
-      "answer": "BAŞKÖŞE",
-      "row": 4,
+      "text": "Biçilmiş tomruk",
+      "answer": "KERESTE",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yayın denetimi",
-      "answer": "SANSÜR",
+      "text": "Gelin çeyiz parası",
+      "answer": "DRAHOMA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sevinç ünlemi",
-      "answer": "OLEY",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Muhasebeci",
-      "answer": "SAYMAN",
-      "row": 2,
+      "text": "Muvazene",
+      "answer": "DENGE",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ayırtı",
-      "answer": "NÜANS",
-      "row": 3,
+      "text": "Vicdan duygusu",
+      "answer": "İNSAF",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Atalar",
-      "answer": "ECDAT",
+      "text": "Çelik kaplama",
+      "answer": "ZIRH",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İri palamut",
-      "answer": "TORİK",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Babasız çocuk",
-      "answer": "YETİM",
-      "row": 3,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Deniz koyu",
-      "answer": "HALİÇ",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Bel bağı",
-      "answer": "KEMER",
-      "row": 6,
-      "col": 8,
+      "text": "Ateşleme parçası",
+      "answer": "BUJİ",
+      "row": 5,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
@@ -188,11 +129,15 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 0
     },
     {
       "row": 2,
-      "col": 2
+      "col": 4
     },
     {
       "row": 2,
@@ -200,45 +145,41 @@
     },
     {
       "row": 2,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
     },
     {
       "row": 4,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
     },
     {
       "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
       "col": 1
     },
     {
       "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 7
+      "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 118
+  "difficulty": "orta",
+  "order": 130
 }

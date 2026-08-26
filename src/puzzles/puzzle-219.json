@@ -1,167 +1,111 @@
 {
   "id": "puzzle-219",
-  "title": "Bulmaca 59",
-  "rows": 12,
+  "title": "Bulmaca 193",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Suçsuz, günahsız",
-      "answer": "MASUM",
+      "text": "Bomba barınağı",
+      "answer": "SIĞINAK",
       "row": 1,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Su satıcısı",
-      "answer": "SUCU",
+      "text": "Yüz ar",
+      "answer": "HEKTAR",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kelime oyunu",
-      "answer": "CİNAS",
-      "row": 3,
       "col": 2,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Ocak gazı",
-      "answer": "GRİZU",
-      "row": 4,
+      "text": "Beddua",
+      "answer": "İLENÇ",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yorgun, bitkin, mecalsiz",
+      "answer": "ARGIN",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uzak Doğu bilgesi",
-      "answer": "BUDA",
+      "text": "Hayal",
+      "answer": "İMGE",
       "row": 5,
-      "col": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Öldürücü hastalık",
-      "answer": "VEBA",
+      "text": "Sırbistan'ın başkenti",
+      "answer": "BELGRAD",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yer altı boşluğu",
-      "answer": "MAĞARA",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Üç zamanlı dans",
-      "answer": "VALS",
-      "row": 8,
+      "text": "Arı ürünü",
+      "answer": "BAL",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yer kabartısı",
-      "answer": "DAĞ",
+      "text": "Nazik kimse",
+      "answer": "EFENDİ",
       "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Zeki, uslu",
-      "answer": "AKILLI",
-      "row": 10,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Gevşek karşıtı",
-      "answer": "SIKI",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Donmuş su",
-      "answer": "BUZ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "İş bırakma",
-      "answer": "GREV",
+      "text": "Aydınlatma aracı",
+      "answer": "LAMBA",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ev, arsa",
-      "answer": "EMLAK",
-      "row": 6,
+      "text": "Yük bilmeyen at",
+      "answer": "HERGELE",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Buluş yapan",
-      "answer": "MUCİT",
-      "row": 0,
+      "text": "Önleyen durum",
+      "answer": "ENGEL",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Basılış biçimi",
-      "answer": "BASKI",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gücü yetmeyen, güçsüz",
-      "answer": "ACİZ",
+      "text": "Ten rengine göre ayıran",
+      "answer": "IRKÇI",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Üzüm yeri",
-      "answer": "BAĞ",
-      "row": 5,
-      "col": 4,
+      "text": "Sinir hücresi",
+      "answer": "NÖRON",
+      "row": 4,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Program takdimcisi",
-      "answer": "SUNUCU",
+      "text": "Külhanbeyi",
+      "answer": "APAŞ",
       "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Şu adı taşıyan",
-      "answer": "ADLI",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Değişmeyen",
-      "answer": "DURAL",
-      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Olta ipi",
-      "answer": "MİSİNA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Hafif karşıtı",
-      "answer": "AĞIR",
-      "row": 7,
+      "text": "Madde ile",
+      "answer": "MADDİ",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -169,6 +113,10 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
@@ -177,41 +125,61 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 3
     },
     {
-      "row": 1,
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
       "col": 1
     },
     {
       "row": 2,
-      "col": 6
+      "col": 5
     },
     {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 0
+      "row": 2,
+      "col": 7
     },
     {
       "row": 5,
-      "col": 2
+      "col": 6
     },
     {
       "row": 6,
-      "col": 0
-    },
-    {
-      "row": 11,
       "col": 4
     },
     {
-      "row": 11,
+      "row": 6,
       "col": 6
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 59
+  "difficulty": "zor",
+  "order": 193
 }

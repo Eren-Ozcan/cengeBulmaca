@@ -1,169 +1,186 @@
 {
   "id": "puzzle-23",
-  "title": "Bulmaca 39",
+  "title": "Bulmaca 36",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Asılsız suçlama",
-      "answer": "İFTİRA",
+      "text": "Ukrayna'nın başkenti",
+      "answer": "KİEV",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Akıtma oluğu",
-      "answer": "ARK",
-      "row": 2,
-      "col": 0,
+      "text": "On iki ay",
+      "answer": "YIL",
+      "row": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Alaylı anlatım",
-      "answer": "İRONİ",
+      "text": "Gereksiz, yersiz",
+      "answer": "ABES",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayvanlı öğüt öyküsü",
+      "answer": "FABL",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eskimeyen",
-      "answer": "KLASİK",
+      "text": "Hekimlik bilimi",
+      "answer": "TIP",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Duvar resmi",
+      "answer": "POSTER",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yetki değneği",
-      "answer": "ASA",
+      "text": "Ekin sapı",
+      "answer": "ANIZ",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kırlangıç benzeri kuş",
-      "answer": "EBABİL",
+      "text": "Izgara ocağı",
+      "answer": "BARBEKÜ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Renkli taş bezeme",
+      "answer": "MOZAİK",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sorun",
-      "answer": "MESELE",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kontrol",
-      "answer": "DENETİM",
-      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ayrım noktası",
-      "answer": "FARK",
+      "text": "Gösteriş, fiyaka",
+      "answer": "CAKA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Doğruluk belgesi",
+      "answer": "KANIT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Paylama, azarlama",
+      "answer": "İTAP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kütahya ilçesi",
-      "answer": "EMET",
+      "text": "Geminin rüzgâraltı yanı",
+      "answer": "BOCA",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dip ağı",
-      "answer": "TROL",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Deri lekesi",
-      "answer": "BEN",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İnandırma, kandırma",
-      "answer": "İKNA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlı gece bekçisi",
-      "answer": "ASES",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hedefi vurma",
-      "answer": "İSABET",
+      "text": "Üflemeli boru",
+      "answer": "BORAZAN",
       "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Üç zamanlı dans",
+      "answer": "VALS",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Aslan sütü",
+      "answer": "RAKI",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğa",
+      "answer": "TABİAT",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ter kabarcığı",
-      "answer": "İSİLİK",
-      "row": 3,
+      "text": "Kabiliyet",
+      "answer": "YETENEK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yazı aracı",
-      "answer": "KALEM",
-      "row": 3,
+      "text": "Diş izi",
+      "answer": "ISIRIK",
+      "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Topluluk",
+      "answer": "ZÜMRE",
+      "row": 4,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
+      "col": 7
     },
     {
       "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 6
+      "col": 7
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
-      "col": 2
-    },
-    {
-      "row": 9,
-      "col": 4
+      "col": 5
     },
     {
       "row": 9,
@@ -171,5 +188,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 39
+  "order": 36
 }

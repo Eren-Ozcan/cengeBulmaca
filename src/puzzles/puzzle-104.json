@@ -1,174 +1,153 @@
 {
   "id": "puzzle-104",
-  "title": "Bulmaca 56",
-  "rows": 12,
+  "title": "Bulmaca 34",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Köpüklü içki",
-      "answer": "BİRA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Doğum yardımcısı",
-      "answer": "EBE",
+      "text": "Asalak",
+      "answer": "PARAZİT",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yüz rengi",
-      "answer": "BENİZ",
-      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Masadaki çiçek kabı",
-      "answer": "VAZO",
+      "text": "Gömülü hazine",
+      "answer": "DEFİNE",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dinî öğüt",
+      "answer": "VAAZ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Köpük tatlı",
-      "answer": "MUS",
+      "text": "Mikroskop parçası",
+      "answer": "LAM",
       "row": 3,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Marangoz aracı",
-      "answer": "RENDE",
+      "text": "Ağ, örgüt",
+      "answer": "ŞEBEKE",
       "row": 4,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Eski karşıtı",
-      "answer": "YENİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Güvence",
-      "answer": "TEMİNAT",
+      "text": "Podyum modeli",
+      "answer": "MANKEN",
       "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Semptom",
+      "answer": "BELİRTİ",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Koruma, yardım",
-      "answer": "SAYE",
-      "row": 7,
-      "col": 3,
+      "text": "Soğuk karşıtı",
+      "answer": "SICAK",
+      "row": 8,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Tropik yeşil meyve",
-      "answer": "AVOKADO",
+      "text": "Salahiyetli",
+      "answer": "YETKİLİ",
       "row": 8,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ölü yıkama tahtası",
-      "answer": "TENEŞİR",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gümüş balık",
-      "answer": "KEFAL",
-      "row": 9,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eğer",
-      "answer": "ŞAYET",
-      "row": 11,
+      "text": "Dağ arası",
+      "answer": "VADİ",
+      "row": 2,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Oluşan, meydana gelen",
-      "answer": "İBARET",
-      "row": 0,
-      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yanma olayı, od",
-      "answer": "ATEŞ",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Anason kokulu bitki",
-      "answer": "REZENE",
+      "text": "Ad ortağı",
+      "answer": "ADAŞ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dostluk bağlılığı",
-      "answer": "VEFA",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Adı bilinmeyen",
-      "answer": "ANONİM",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tasdik",
-      "answer": "ONAY",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gemilerin yanaştığı yer",
-      "answer": "İSKELE",
+      "text": "Büyülenmiş",
+      "answer": "MEST",
       "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Menteşe",
+      "answer": "REZE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Şaşkın, ahmak",
+      "answer": "ALIK",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağışlama",
+      "answer": "AF",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ezerek yapılan yiyecek",
-      "answer": "EZME",
+      "text": "Süvari",
+      "answer": "BİNİCİ",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tokat ilçesi",
+      "answer": "ZİLE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Cenaze, ölü beden",
-      "answer": "NAAŞ",
+      "text": "Ülke hükümdarı",
+      "answer": "KRAL",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İsteklendirme ünlemi",
-      "answer": "HAYDİ",
-      "row": 4,
+      "text": "Dogma",
+      "answer": "İNAK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kanıtlanan önerme",
-      "answer": "TEOREM",
+      "text": "Güç, tesir",
+      "answer": "ETKİ",
       "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Dilek",
+      "answer": "TEMENNİ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -176,45 +155,25 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 7,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 5
+      "row": 0,
+      "col": 1
     },
     {
-      "row": 10,
-      "col": 6
+      "row": 5,
+      "col": 1
     },
     {
-      "row": 11,
-      "col": 6
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 56
+  "order": 34
 }

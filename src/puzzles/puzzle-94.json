@@ -1,181 +1,125 @@
 {
   "id": "puzzle-94",
-  "title": "Bulmaca 58",
-  "rows": 12,
+  "title": "Bulmaca 80",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Birden kesilme",
-      "answer": "SEKTE",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
+      "text": "Döşek",
+      "answer": "YATAK",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Zar oyunu",
-      "answer": "TAVLA",
+      "text": "Birleştirme alaşımı",
+      "answer": "LEHİM",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kamış içkisi",
-      "answer": "ARAK",
+      "text": "Harap yapı",
+      "answer": "VİRANE",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İngiliz parası",
-      "answer": "STERLİN",
+      "text": "Kırık desteği",
+      "answer": "ATEL",
       "row": 4,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İnce kılıç",
-      "answer": "MEÇ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kokulu bitki",
-      "answer": "NANE",
+      "text": "Sindirim organı",
+      "answer": "MİDE",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Körpe bitki",
-      "answer": "FİDE",
+      "text": "Yüklü atom",
+      "answer": "İYON",
       "row": 6,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Adına sunma",
-      "answer": "İTHAF",
+      "text": "Damar aracı",
+      "answer": "STENT",
       "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Genetik kopya",
-      "answer": "KLON",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hatıra",
-      "answer": "ANI",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Perişan olma",
-      "answer": "MAHV",
+      "text": "Tepke",
+      "answer": "REFLEKS",
       "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kabuklu besin",
-      "answer": "YUMURTA",
-      "row": 10,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ağrılı deri hastalığı",
-      "answer": "ZONA",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yoksul, perişan",
-      "answer": "SEFİL",
-      "row": 3,
-      "col": 1,
+      "text": "İşlem belgesi",
+      "answer": "EVRAK",
+      "row": 2,
+      "col": 0,
       "arrow": "down"
     },
     {
-      "text": "Saat onaran",
-      "answer": "SAATÇİ",
+      "text": "Kırmızı renk",
+      "answer": "AL",
       "row": 0,
-      "col": 2,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kolun üst eklemi",
-      "answer": "OMUZ",
+      "text": "Utanma duygusu",
+      "answer": "AR",
       "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Alçak gönüllülük",
+      "answer": "TEVAZU",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Aşama, safha",
-      "answer": "EVRE",
+      "text": "Yemin, ant",
+      "answer": "AHİT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Üreteç",
-      "answer": "DİNAMO",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tahta üflemeli çalgı",
-      "answer": "KLARNET",
+      "text": "Çatı örtüsü",
+      "answer": "KİREMİT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Attila'nın halkı",
-      "answer": "HUN",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Dönme hareketi",
-      "answer": "TAKLA",
-      "row": 0,
+      "text": "Devlet gelirleri",
+      "answer": "MALİYE",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yahudi ibadethanesi",
-      "answer": "HAVRA",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Düşünen canlı",
-      "answer": "İNSAN",
-      "row": 3,
+      "text": "Parlak karşıtı",
+      "answer": "DONUK",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ana, valide",
-      "answer": "ANNE",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Dünya futbol federasyonu",
-      "answer": "FIFA",
-      "row": 6,
+      "text": "Ayrıştırılamayan madde",
+      "answer": "ELEMENT",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -183,53 +127,53 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
       "row": 1,
-      "col": 0
+      "col": 6
     },
     {
       "row": 2,
       "col": 6
     },
     {
-      "row": 3,
+      "row": 5,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 1
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 8,
+      "col": 2
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 8,
+      "col": 3
     },
     {
-      "row": 11,
-      "col": 0
+      "row": 8,
+      "col": 4
     },
     {
-      "row": 11,
-      "col": 6
+      "row": 8,
+      "col": 5
     },
     {
-      "row": 11,
+      "row": 8,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 58
+  "difficulty": "orta",
+  "order": 80
 }

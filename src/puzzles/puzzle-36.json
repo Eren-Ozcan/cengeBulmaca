@@ -1,160 +1,153 @@
 {
   "id": "puzzle-36",
-  "title": "Bulmaca 105",
-  "rows": 11,
+  "title": "Bulmaca 44",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Doku şişmesi",
-      "answer": "ÖDEM",
+      "text": "Et yiyeceği",
+      "answer": "SOSİS",
       "row": 1,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bakanlar kurulu",
-      "answer": "KABİNE",
+      "text": "Araç durdurma",
+      "answer": "OTOSTOP",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çarpma beresi",
-      "answer": "EZİK",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
+      "text": "Ahenk",
+      "answer": "UYUM",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Altmış saniye",
-      "answer": "DAKİKA",
+      "text": "Mesafe ölçüsü",
+      "answer": "UZAKLIK",
       "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Neşeli, sevinçli",
-      "answer": "ŞEN",
-      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sahici",
-      "answer": "HAKİKİ",
+      "text": "Sihirli güç",
+      "answer": "TILSIM",
       "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İplik topu",
-      "answer": "YUMAK",
+      "text": "Muhtelif",
+      "answer": "ÇEŞİTLİ",
       "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Eli işe yatkın",
-      "answer": "HAMARAT",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yön bulma aracı",
-      "answer": "PUSULA",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yıkanacak giysi",
-      "answer": "ÇAMAŞIR",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Büyük kara kütlesi",
+      "answer": "KITA",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Gizli tuzak",
-      "answer": "PUSU",
+      "text": "Erke",
+      "answer": "ENERJİ",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Köpek",
+      "answer": "İT",
+      "row": 7,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Mücerret",
+      "answer": "SOYUT",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Katoliklerin lideri",
-      "answer": "PAPA",
-      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ayaklı bardak",
-      "answer": "KADEH",
-      "row": 1,
+      "text": "29'dan sonraki sayı",
+      "answer": "OTUZ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Fitilli araç",
-      "answer": "MUM",
-      "row": 7,
+      "text": "Erkek keçi",
+      "answer": "TEKE",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Temel kanun",
-      "answer": "ANAYASA",
-      "row": 3,
+      "text": "Manisa ilçesi",
+      "answer": "SOMA",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Küme, grup",
-      "answer": "ÖBEK",
+      "text": "Işık çizgisi",
+      "answer": "IŞIN",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kurum lekesi",
+      "answer": "İS",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Lira parçası",
-      "answer": "KURUŞ",
-      "row": 5,
+      "text": "Ürün niteliği",
+      "answer": "KALİTE",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sıra bütünü",
-      "answer": "DİZİ",
+      "text": "Tarz, üslup",
+      "answer": "STİL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Üstü kapalı",
-      "answer": "İMALI",
+      "text": "Ünlü oyuncu",
+      "answer": "STAR",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kedi, köpek yavrusu",
-      "answer": "ENİK",
-      "row": 0,
+      "text": "Termik",
+      "answer": "ISIL",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tren",
-      "answer": "KATAR",
+      "text": "Koza ipliği",
+      "answer": "İPEK",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Orta boy etek",
+      "answer": "MİDİ",
       "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kuvvet bilimi",
-      "answer": "MEKANİK",
-      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -162,23 +155,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 6
     },
     {
       "row": 1,
-      "col": 1
+      "col": 6
     },
     {
-      "row": 3,
-      "col": 1
+      "row": 5,
+      "col": 0
     },
     {
       "row": 6,
@@ -186,17 +175,9 @@
     },
     {
       "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 7
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 105
+  "difficulty": "kolay",
+  "order": 44
 }

@@ -1,157 +1,182 @@
 {
   "id": "puzzle-162",
-  "title": "Bulmaca 29",
+  "title": "Bulmaca 154",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Ödünç para",
-      "answer": "KREDİ",
+      "text": "Süslü sanat üslubu",
+      "answer": "ROKOKO",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ün, şöhret",
-      "answer": "ŞAN",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
+      "text": "Dev dalga",
+      "answer": "TSUNAMİ",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Dokuma yaygı",
-      "answer": "KİLİM",
+      "text": "Tükenmiş fil",
+      "answer": "MAMUT",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Mısır'ın başkenti",
-      "answer": "KAHİRE",
+      "text": "Açık artırma",
+      "answer": "MEZAT",
       "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bekleme bölümü",
+      "answer": "FUAYE",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bir tutam",
-      "answer": "ELÇİM",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Alım satım ortamı",
-      "answer": "PİYASA",
+      "text": "Musluk takımı",
+      "answer": "ARMATÜR",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ürün listesi",
-      "answer": "KATALOG",
+      "text": "Katıksız, temiz",
+      "answer": "SAFİ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gemi omurgası",
-      "answer": "KARİNA",
+      "text": "Ürün toprağı",
+      "answer": "TARLA",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Böcek sesi",
-      "answer": "VIZ",
-      "row": 0,
+      "text": "Bağışlanma dileme",
+      "answer": "ŞEFAAT",
+      "row": 4,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right-down"
     },
     {
-      "text": "Koni biçimli başlık",
-      "answer": "KALPAK",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Oyuncak bebek",
-      "answer": "KUKA",
+      "text": "Ortodoks Hristiyan",
+      "answer": "RUM",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Benekli kedi",
-      "answer": "ÇİTA",
+      "text": "Peygamberler şehri",
+      "answer": "URFA",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yaşlı",
-      "answer": "İHTİYAR",
-      "row": 2,
+      "text": "Rıza, izin",
+      "answer": "ONAM",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tek başına olmayan",
-      "answer": "EŞLİ",
+      "text": "Üst görevli",
+      "answer": "AMİR",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çaygillerden süs çiçeği",
+      "answer": "KAMELYA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Parayla ilgili",
-      "answer": "MALİ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Konut bölümü",
-      "answer": "DAİRE",
+      "text": "Kolun üst eklemi",
+      "answer": "OMUZ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bitiş, nihayet",
-      "answer": "SON",
-      "row": 6,
+      "text": "Sicilya yanardağı",
+      "answer": "ETNA",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Felç",
-      "answer": "İNME",
+      "text": "Basılı yapıt",
+      "answer": "KİTAP",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kuşların ağzı",
-      "answer": "GAGA",
+      "text": "Kesintisiz miktar",
+      "answer": "BRÜT",
       "row": 5,
-      "col": 6,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 3
+      "col": 7
     },
     {
       "row": 2,
-      "col": 1
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 29
+  "difficulty": "orta",
+  "order": 154
 }

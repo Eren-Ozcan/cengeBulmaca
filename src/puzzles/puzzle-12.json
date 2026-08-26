@@ -1,167 +1,146 @@
 {
   "id": "puzzle-12",
-  "title": "Bulmaca 100",
-  "rows": 12,
+  "title": "Bulmaca 17",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Sebep, bahane",
-      "answer": "VESİLE",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
+      "text": "Korna",
+      "answer": "KLAKSON",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Umut",
-      "answer": "ÜMİT",
+      "text": "Karşılıklı anlaşma",
+      "answer": "AKIT",
       "row": 2,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Taharri",
-      "answer": "ARAMA",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
+      "text": "Bağımsız",
+      "answer": "AZADE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Eski dilde dünya",
-      "answer": "ALEM",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Askerî yönetim",
-      "answer": "KOMUTA",
+      "text": "Utanmaz",
+      "answer": "EDEPSİZ",
       "row": 4,
       "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Cilt maddesi",
+      "answer": "KREM",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Miktar sorusu",
-      "answer": "KAÇ",
+      "text": "Tanrı",
+      "answer": "İLAH",
       "row": 6,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
-    },
-    {
-      "text": "Bin kilogram",
-      "answer": "TON",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Çalışmaz durumda",
-      "answer": "BOZUK",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Biçilmiş tomruk",
-      "answer": "KERESTE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kişi resmi",
-      "answer": "PORTRE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çaba, uğraş",
-      "answer": "EMEK",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Berabere kalma",
-      "answer": "PATA",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
     },
     {
       "text": "Kocaman",
       "answer": "İRİ",
-      "row": 11,
-      "col": 4,
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hint giysisi",
+      "answer": "SARİ",
+      "row": 7,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Süslü sanat üslubu",
-      "answer": "ROKOKO",
-      "row": 3,
+      "text": "ABD parası",
+      "answer": "DOLAR",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Su buharı",
+      "answer": "SİS",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Alçak yükselti",
+      "answer": "TEPE",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yoğun ışık",
+      "answer": "LAZER",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Özür",
-      "answer": "MAZERET",
-      "row": 4,
+      "text": "Yüksek bilim kurumu",
+      "answer": "AKADEMİ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gökyüzü oyuncağı",
-      "answer": "UÇURTMA",
-      "row": 4,
+      "text": "Eskilik",
+      "answer": "KIDEM",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çabukluk, hız",
-      "answer": "SÜRAT",
+      "text": "Ritmik egzersiz",
+      "answer": "STEP",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Defa",
-      "answer": "KERE",
-      "row": 6,
+      "text": "Urfa biberi",
+      "answer": "İSOT",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Fabrika üretimi",
-      "answer": "İMALAT",
-      "row": 0,
+      "text": "Soy sop",
+      "answer": "SÜLALE",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Taş oturak",
-      "answer": "SEKİ",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Parça, dilim",
-      "answer": "LİME",
+      "text": "Peygamber",
+      "answer": "NEBİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Delikli kumaş",
-      "answer": "ETAMİN",
-      "row": 0,
-      "col": 7,
+      "text": "Ortadoğu halkı",
+      "answer": "ARAP",
+      "row": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "49'dan sonraki sayı",
-      "answer": "ELLİ",
-      "row": 7,
+      "text": "Saklanan tahıl",
+      "answer": "ZAHİRE",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -169,57 +148,33 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 5
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 7
     },
     {
       "row": 1,
-      "col": 0
+      "col": 7
     },
     {
       "row": 2,
-      "col": 0
+      "col": 5
     },
     {
       "row": 2,
+      "col": 7
+    },
+    {
+      "row": 6,
       "col": 1
     },
     {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 6
+      "row": 8,
+      "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 100
+  "difficulty": "kolay",
+  "order": 17
 }

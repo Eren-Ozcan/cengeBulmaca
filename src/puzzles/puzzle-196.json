@@ -1,200 +1,148 @@
 {
   "id": "puzzle-196",
-  "title": "Bulmaca 140",
-  "rows": 13,
-  "cols": 9,
+  "title": "Bulmaca 183",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Dikişsiz kıyafet",
-      "answer": "İHRAM",
-      "row": 0,
+      "text": "Oyuncak figür",
+      "answer": "KUKLA",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tuzsuz peynir",
+      "answer": "LOR",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Akıtma oluğu",
+      "answer": "ARK",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bağ meyvesi",
-      "answer": "ÜZÜM",
-      "row": 2,
+      "text": "Tenis sahası",
+      "answer": "KORT",
+      "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Çok sarı",
-      "answer": "SAPSARI",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Katıksız, arı",
-      "answer": "SAF",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Telefon kulaklığı",
-      "answer": "AHİZE",
+      "text": "Teminat",
+      "answer": "GARANTİ",
       "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ses uygunluğu",
-      "answer": "RİTİM",
-      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dokunma, ilişki",
-      "answer": "TEMAS",
+      "text": "Toz mürekkep",
+      "answer": "TONER",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ululuk",
+      "answer": "AZAMET",
       "row": 6,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Erkek keçi",
-      "answer": "TEKE",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Suni",
-      "answer": "YAPAY",
-      "row": 7,
+      "text": "Çok sıkıntı çeken",
+      "answer": "ÇİLEKEŞ",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Küçük boru",
-      "answer": "ZIVANA",
+      "text": "Alışılagelmiş, sıradan",
+      "answer": "RUTİN",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yol kesişimi",
+      "answer": "KAVŞAK",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zeki deniz memelisi",
-      "answer": "YUNUS",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yakışıklı başrol",
-      "answer": "JÖN",
-      "row": 10,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğu Anadolu ilimiz",
-      "answer": "KARS",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çoğalma",
-      "answer": "ARTIŞ",
-      "row": 12,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük kale",
-      "answer": "HİSAR",
+      "text": "Taşınan yük",
+      "answer": "KARGO",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tanksavar silah",
-      "answer": "BAZUKA",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Duvara asılan ilan",
-      "answer": "AFİŞ",
+      "text": "Açılan yol",
+      "answer": "KANAL",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kaynak su",
-      "answer": "PINAR",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yanak içi",
-      "answer": "AVURT",
-      "row": 7,
+      "text": "Yedek kaynak",
+      "answer": "REZERV",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Elverişli",
-      "answer": "MÜSAİT",
+      "text": "Kartal türü",
+      "answer": "KARAKUŞ",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Genetik kopya",
+      "answer": "KLON",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yayvan, düz",
-      "answer": "YASSI",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıkıntı, güçlük",
-      "answer": "ZAHMET",
-      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Seçiciler kurulu",
-      "answer": "JÜRİ",
+      "text": "Satılan mal",
+      "answer": "META",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İngiliz unvanı",
+      "answer": "LORT",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İleti",
-      "answer": "MESAJ",
+      "text": "Kapı basamağı",
+      "answer": "EŞİK",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Uzun saplı silah",
-      "answer": "MIZRAK",
-      "row": 1,
+      "text": "Sanatçı, oyuncu",
+      "answer": "ARTİST",
+      "row": 0,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Parça, unsur",
-      "answer": "ÖGE",
-      "row": 9,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Mevsim",
-      "answer": "SEZON",
-      "row": 5,
-      "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
     {
       "row": 0,
       "col": 2
@@ -205,65 +153,33 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 0,
-      "col": 8
+      "col": 4
     },
     {
       "row": 1,
-      "col": 8
-    },
-    {
-      "row": 2,
       "col": 0
     },
     {
       "row": 2,
-      "col": 8
+      "col": 3
     },
     {
-      "row": 3,
-      "col": 8
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
+      "row": 7,
       "col": 7
     },
     {
-      "row": 11,
-      "col": 5
+      "row": 8,
+      "col": 0
     },
     {
-      "row": 11,
-      "col": 6
+      "row": 8,
+      "col": 1
     },
     {
-      "row": 11,
-      "col": 8
-    },
-    {
-      "row": 12,
-      "col": 6
-    },
-    {
-      "row": 12,
-      "col": 8
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "zor",
-  "order": 140
+  "order": 183
 }

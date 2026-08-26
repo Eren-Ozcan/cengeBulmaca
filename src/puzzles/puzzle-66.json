@@ -1,126 +1,140 @@
 {
   "id": "puzzle-66",
-  "title": "Bulmaca 96",
+  "title": "Bulmaca 131",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Kesinlikle",
-      "answer": "MUTLAKA",
+      "text": "Kasır",
+      "answer": "KÖŞK",
       "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Müzikte hız",
+      "answer": "TEMPO",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Saydam madde",
-      "answer": "CAM",
-      "row": 2,
-      "col": 3,
+      "text": "Karar uygulama",
+      "answer": "İNFAZ",
+      "row": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Elden ele geçme",
-      "answer": "ALAVERE",
-      "row": 2,
+      "text": "Uzun gagalı balık",
+      "answer": "ZARGANA",
+      "row": 4,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Miras",
-      "answer": "KALIT",
-      "row": 4,
+      "text": "Elmasın elementi",
+      "answer": "KARBON",
+      "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Dostça konuşma",
-      "answer": "SÖYLEŞİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eşini kaybeden",
-      "answer": "DUL",
+      "text": "Alçak, korkak",
+      "answer": "NAMERT",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yanıt",
-      "answer": "CEVAP",
+      "text": "Kur'an okuyucusu",
+      "answer": "KARİ",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Türk makamı",
-      "answer": "MAHUR",
+      "text": "İçten arzu",
+      "answer": "İSTEK",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Erkek cins",
-      "answer": "ERİL",
-      "row": 9,
+      "text": "Net karşıtı",
+      "answer": "FLU",
+      "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Borç kapatma",
-      "answer": "ÖDEME",
-      "row": 4,
+      "text": "Bereket, ilerleme",
+      "answer": "FEYZ",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Savunma hücresi",
-      "answer": "AKYUVAR",
-      "row": 2,
+      "text": "Ulaşmış, kavuşmuş",
+      "answer": "NAİL",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Irmak, çay, dere",
+      "answer": "AKARSU",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yemin sözü",
-      "answer": "VALLAHİ",
-      "row": 2,
+      "text": "Mısır anıtı",
+      "answer": "PİRAMİT",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çabukluk",
-      "answer": "ACELE",
+      "text": "Büyük toplantı",
+      "answer": "KONGRE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Zarfa yapıştırılan",
-      "answer": "PUL",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Parmak uzaklığı",
-      "answer": "KARIŞ",
-      "row": 0,
+      "text": "Üretim tesisi",
+      "answer": "FABRİKA",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Mor süs taşı",
-      "answer": "AMETİST",
-      "row": 0,
+      "text": "Artı kutup",
+      "answer": "ANOT",
+      "row": 2,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Pişirme kabı",
+      "answer": "KAZAN",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Pelte kıvamı",
+      "answer": "JEL",
+      "row": 6,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
@@ -131,16 +145,32 @@
       "col": 3
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 0,
+      "col": 5
     },
     {
-      "row": 6,
-      "col": 5
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 2
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 7,
-      "col": 5
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
@@ -148,7 +178,11 @@
     },
     {
       "row": 9,
-      "col": 5
+      "col": 3
+    },
+    {
+      "row": 9,
+      "col": 4
     },
     {
       "row": 9,
@@ -156,5 +190,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 96
+  "order": 131
 }

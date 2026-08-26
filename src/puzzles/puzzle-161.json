@@ -1,153 +1,125 @@
 {
   "id": "puzzle-161",
-  "title": "Bulmaca 74",
-  "rows": 11,
+  "title": "Bulmaca 123",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Güzel, sevimli",
-      "answer": "HOŞ",
+      "text": "Yazık, eyvah",
+      "answer": "EFSUS",
       "row": 0,
-      "col": 0,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Burun duyumu",
-      "answer": "KOKU",
+      "text": "Ücretli otomobil",
+      "answer": "TAKSİ",
       "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Açılış töreni",
-      "answer": "GALA",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Eğitim yardımı",
-      "answer": "BURS",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Mühür",
-      "answer": "DAMGA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Alçak basınç fırtınası",
-      "answer": "SİKLON",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaradaki cerahat",
-      "answer": "İRİN",
-      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Artı kutup",
-      "answer": "ANOT",
-      "row": 7,
+      "text": "Polonya'nın başkenti",
+      "answer": "VARŞOVA",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gülmece",
-      "answer": "MİZAH",
+      "text": "Kalıcılık",
+      "answer": "BEKA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tek geçiş kapısı",
+      "answer": "TURNİKE",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "I simgeli element",
+      "answer": "İYOT",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ezan okuyan",
+      "answer": "MÜEZZİN",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aceleci",
+      "answer": "ACUL",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yürütme organı",
+      "answer": "HÜKUMET",
       "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Deneme çalışması",
-      "answer": "PROVA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sayı işareti",
-      "answer": "RAKAM",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Gözlem konusu",
-      "answer": "OLGU",
+      "text": "Çağrı",
+      "answer": "DAVET",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Eğimli bölüm",
-      "answer": "RAMPA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Uyarı teli",
-      "answer": "SİNİR",
-      "row": 4,
+      "text": "Baharatlı tohum",
+      "answer": "KAKULE",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dev fosil sürüngen",
-      "answer": "DİNOZOR",
-      "row": 3,
+      "text": "Gizli sır",
+      "answer": "ESRAR",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sürüngen sebze",
-      "answer": "KABAK",
+      "text": "Priz ucu",
+      "answer": "FİŞ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kızartma kabı",
-      "answer": "TAVA",
-      "row": 6,
+      "text": "Düzen",
+      "answer": "NİZAM",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Müspet",
-      "answer": "OLUMLU",
-      "row": 0,
+      "text": "Oldukça iyi",
+      "answer": "İYİCE",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Adalet, hukuk",
-      "answer": "HAK",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Taşınan yük",
-      "answer": "KARGO",
-      "row": 0,
+      "text": "Yaşanılan ev",
+      "answer": "KONUT",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tokmaklı telli çalgı",
-      "answer": "SANTUR",
-      "row": 2,
+      "text": "Mutluluk",
+      "answer": "SAADET",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -155,57 +127,49 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 3
+      "col": 5
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 2,
-      "col": 0
+      "col": 5
     },
     {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 2
-    },
-    {
-      "row": 4,
-      "col": 0
+      "row": 2,
+      "col": 6
     },
     {
       "row": 6,
-      "col": 6
+      "col": 1
     },
     {
       "row": 7,
-      "col": 6
+      "col": 7
     },
     {
       "row": 8,
-      "col": 6
+      "col": 1
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 8,
+      "col": 2
     },
     {
       "row": 9,
       "col": 7
-    },
-    {
-      "row": 10,
-      "col": 0
     }
   ],
   "difficulty": "orta",
-  "order": 74
+  "order": 123
 }

@@ -1,217 +1,154 @@
 {
   "id": "puzzle-105",
-  "title": "Bulmaca 46",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 12",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Duyarlı",
-      "answer": "HASSAS",
+      "text": "Tarla dinlenmesi",
+      "answer": "NADAS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eski konaklama yapısı",
-      "answer": "HAN",
+      "text": "Kusur",
+      "answer": "KABAHAT",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ansızın, birdenbire",
-      "answer": "LARP",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Bin gram",
-      "answer": "KİLO",
+      "text": "Askerî olmayan",
+      "answer": "SİVİL",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Görevden alma",
-      "answer": "AZİL",
+      "text": "Köyden büyük yer",
+      "answer": "KASABA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dokunulmaz",
+      "answer": "TABU",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Osmanlı saray görevlisi",
+      "answer": "ÇUHADAR",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyük toprak sahibi",
+      "answer": "AĞA",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Amca çocuğu",
+      "answer": "KUZEN",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yeşil sapılı sebze",
+      "answer": "PIRASA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yarı değerli taş",
+      "answer": "AKİK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Cep bıçağı",
+      "answer": "ÇAKI",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Mahkemelik anlaşmazlık",
+      "answer": "DAVA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İyi talih",
+      "answer": "UĞUR",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Okyanus derinliği",
+      "answer": "ABİS",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tam anlamıyla",
+      "answer": "HAZA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeşillik karışımı",
+      "answer": "SALATA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Durak işareti",
+      "answer": "ES",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Duvar kireci",
+      "answer": "BADANA",
       "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Oyun aracı",
-      "answer": "TOP",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Olay, durum",
-      "answer": "VAKA",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "İlaç miktarı",
-      "answer": "DOZ",
-      "row": 5,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Sıkıntılı dönem",
-      "answer": "ÇİLE",
-      "row": 5,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Davul takımı",
-      "answer": "BATERİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hâlihazırda",
-      "answer": "HALEN",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağış",
-      "answer": "HİBE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dışarıda gecelemek",
-      "answer": "YATI",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Cin çağıran",
-      "answer": "CİNCİ",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gösteri çadırı",
-      "answer": "SİRK",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çiçek bölümü",
-      "answer": "TARH",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yemin, ant",
-      "answer": "AHİT",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gerçek, hakiki",
-      "answer": "SAHİCİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Oturma bölümü",
-      "answer": "SALON",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Rüya yorumlama",
-      "answer": "TABİR",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Züppe",
-      "answer": "SNOP",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çiçek halkası",
-      "answer": "ÇELENK",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Üzüm şırasından tatlı",
-      "answer": "ŞİRE",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Rus ve Leh soydaşı",
-      "answer": "SLAV",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kahverengi kömür",
-      "answer": "LİNYİT",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bağımsız",
-      "answer": "AZADE",
+      "text": "Otomobil",
+      "answer": "ARABA",
       "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Örme kumaş",
-      "answer": "TRİKO",
-      "row": 0,
+      "text": "İnce halat",
+      "answer": "URGAN",
+      "row": 4,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Erkek sanatçı",
-      "answer": "AKTÖR",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "İş merkezi",
-      "answer": "PLAZA",
-      "row": 1,
-      "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
@@ -219,7 +156,19 @@
     },
     {
       "row": 0,
-      "col": 8
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
     },
     {
       "row": 5,
@@ -230,26 +179,14 @@
       "col": 6
     },
     {
-      "row": 7,
-      "col": 8
-    },
-    {
       "row": 8,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 8
-    },
-    {
-      "row": 10,
+      "row": 9,
       "col": 6
-    },
-    {
-      "row": 10,
-      "col": 8
     }
   ],
   "difficulty": "kolay",
-  "order": 46
+  "order": 12
 }

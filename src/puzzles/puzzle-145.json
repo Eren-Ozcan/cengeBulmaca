@@ -1,150 +1,171 @@
 {
   "id": "puzzle-145",
-  "title": "Bulmaca 71",
+  "title": "Bulmaca 83",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Yırtıcı av kuşu",
-      "answer": "ATMACA",
+      "text": "Küçük kale",
+      "answer": "HİSAR",
       "row": 1,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Vaka, hadise",
-      "answer": "OLAY",
+      "text": "İvedi",
+      "answer": "ACİL",
       "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalp atışı",
+      "answer": "NABIZ",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Büyük yıkım",
+      "answer": "FELAKET",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Osmanlı yargıcı",
+      "answer": "KADI",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ses yansıması",
+      "answer": "YANKI",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Asker birliği",
+      "answer": "MANGA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Seyirci coşturucusu",
+      "answer": "AMİGO",
+      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Nasip, azık",
-      "answer": "RIZK",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ecnebi",
-      "answer": "YABANCI",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Diz altı bölge",
-      "answer": "BALDIR",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kaba örtü",
-      "answer": "ÇUL",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gözle görülmeyen yaratık",
-      "answer": "CİN",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ev, aile",
-      "answer": "HANE",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pınar, memba",
-      "answer": "KAYNAK",
+      "text": "Netice",
+      "answer": "SONUÇ",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kısa sürede",
-      "answer": "ÇABUCAK",
-      "row": 2,
+      "text": "Kurak alan",
+      "answer": "ÇÖL",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Duvar kaplaması",
+      "answer": "FAYANS",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dev deniz memelisi",
-      "answer": "BALİNA",
-      "row": 3,
+      "text": "Hükümdar ailesi",
+      "answer": "HANEDAN",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Maneviyat",
-      "answer": "MORAL",
-      "row": 0,
+      "text": "Çabuk gücenen",
+      "answer": "ALINGAN",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kamıştan üflemeli çalgı",
-      "answer": "NEY",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Makbuz",
-      "answer": "ALINDI",
+      "text": "Gündoğusu yeli",
+      "answer": "SABA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Caz çalıcısı",
-      "answer": "CAZCI",
+      "text": "Amme",
+      "answer": "KAMU",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Dokunaklı, elim",
+      "answer": "ACIKLI",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ters, muhalif",
-      "answer": "AYKIRI",
+      "text": "Dış karşıtı",
+      "answer": "İÇ",
+      "row": 7,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çay ilimiz",
+      "answer": "RİZE",
       "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Darbe emici",
+      "answer": "TAMPON",
+      "row": 3,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 2
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 0
+      "col": 1
+    },
+    {
+      "row": 5,
+      "col": 6
     },
     {
       "row": 6,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 5
+      "col": 6
     },
     {
       "row": 7,
@@ -152,17 +173,13 @@
     },
     {
       "row": 8,
-      "col": 4
+      "col": 0
     },
     {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
+      "row": 9,
       "col": 6
     }
   ],
   "difficulty": "orta",
-  "order": 71
+  "order": 83
 }

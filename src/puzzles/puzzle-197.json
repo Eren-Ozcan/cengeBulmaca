@@ -1,214 +1,194 @@
 {
   "id": "puzzle-197",
-  "title": "Bulmaca 110",
-  "rows": 11,
+  "title": "Bulmaca 199",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "İtici neden",
-      "answer": "SAİK",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ev çalışması",
-      "answer": "ÖDEV",
-      "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dondurucu",
-      "answer": "BUZLUK",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski bez",
-      "answer": "PAÇAVRA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kısa hatırlatma",
-      "answer": "NOT",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Orta saha oyuncusu",
-      "answer": "HAF",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Baskı sayısı",
-      "answer": "TİRAJ",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yük eyeri",
-      "answer": "SEMER",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Küçük ölçek",
-      "answer": "MAKET",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaka kenar şeridi",
-      "answer": "BİYE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zor karşıtı",
-      "answer": "KOLAY",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Söz dalaşı",
-      "answer": "POLEMİK",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Direnç",
-      "answer": "SEBAT",
+      "text": "Araştırma kurumu",
+      "answer": "ENSTİTÜ",
       "row": 0,
-      "col": 2,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Deniz giysisi",
-      "answer": "MAYO",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "El içi",
-      "answer": "AVUÇ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tek satıcılık",
-      "answer": "TEKEL",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Saklanan tahıl",
-      "answer": "ZAHİRE",
+      "text": "Lezzet minerali",
+      "answer": "TUZ",
       "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "On tane",
+      "answer": "ONLUK",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Karıştırma kaşığı",
+      "answer": "KEPÇE",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Haykırma, bağırma",
+      "answer": "NARA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Salatalık yabani ot",
+      "answer": "HİNDİBA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sıcak tutan kap",
+      "answer": "TERMOS",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yöresel söyleyiş",
+      "answer": "ŞİVE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "At demiri",
+      "answer": "NAL",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Gazete başlığı",
+      "answer": "MANŞET",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Terbiye, öğretim",
+      "answer": "EĞİTİM",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Dur işareti",
+      "answer": "STOP",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses, ahenk, nağme",
+      "answer": "NEVA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bronz",
+      "answer": "TUNÇ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Su boşaltma kanalı",
+      "answer": "DREN",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İntiba",
+      "answer": "İZLENİM",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yarış şeridi",
-      "answer": "KULVAR",
-      "row": 0,
+      "text": "Hizmet alan",
+      "answer": "ABONE",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kuşu örten yapı",
-      "answer": "TÜY",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Şanlıurfa'nın kısa adı",
-      "answer": "URFA",
-      "row": 2,
+      "text": "Gözlem",
+      "answer": "RASAT",
+      "row": 4,
       "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalıcılık",
-      "answer": "BEKA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Tekerlek çemberi",
-      "answer": "JANT",
-      "row": 5,
-      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 0,
+      "col": 7
     },
     {
-      "row": 3,
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
       "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 6
+      "col": 7
     },
     {
       "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 110
+  "difficulty": "zor",
+  "order": 199
 }

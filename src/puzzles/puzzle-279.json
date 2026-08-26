@@ -1,0 +1,181 @@
+{
+  "id": "puzzle-279",
+  "title": "Bulmaca 51",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Gülmece",
+      "answer": "MİZAH",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "'Ben'in yönelme hâli",
+      "answer": "BANA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Göze çarpan parlaklık",
+      "answer": "PARILTI",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yazı makinesi",
+      "answer": "DAKTİLO",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mekân; zemin",
+      "answer": "YER",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Taze karşıtı",
+      "answer": "BAYAT",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Peynirli hamur işi",
+      "answer": "POĞAÇA",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yıkma işi",
+      "answer": "YIKIM",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sigara artığı",
+      "answer": "İZMARİT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tapınma",
+      "answer": "İBADET",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ziyan",
+      "answer": "ZARAR",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hazır, amade",
+      "answer": "ANIK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Renklendirme maddesi",
+      "answer": "BOYA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yakışıksız davranış",
+      "answer": "HALT",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hafif karşıtı",
+      "answer": "AĞIR",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağımlı, düşkün",
+      "answer": "TİRYAKİ",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Parıltılı",
+      "answer": "IŞIL",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kapı, pencere açıklığı",
+      "answer": "AÇIT",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Koşullar bütünü",
+      "answer": "ORTAM",
+      "row": 3,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 7
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 51
+}

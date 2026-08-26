@@ -1,0 +1,183 @@
+{
+  "id": "puzzle-261",
+  "title": "Bulmaca 104",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Yeşil kabuklu sebze",
+      "answer": "BAKLA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Taşıma kabı",
+      "answer": "KOVA",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Beyin salgı bezi",
+      "answer": "HİPOFİZ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Terzi şeridi",
+      "answer": "MEZURA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Büyülenmiş",
+      "answer": "MEST",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ölünün yeri",
+      "answer": "KABİR",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yumuşak kumaş",
+      "answer": "FLANEL",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Deri",
+      "answer": "CİLT",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Özet",
+      "answer": "HÜLASA",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuralsız yaşam",
+      "answer": "BOHEM",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tavan lambası",
+      "answer": "AVİZE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Lahana yemeği",
+      "answer": "KAPUSKA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyükle küçük arası",
+      "answer": "ORTANCA",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İlk Yunan harfi",
+      "answer": "ALFA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sakınca, zarar",
+      "answer": "BEİS",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ne olursa olsun",
+      "answer": "İLLA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Step",
+      "answer": "BOZKIR",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 7
+    }
+  ],
+  "difficulty": "orta",
+  "order": 104
+}

@@ -1,167 +1,146 @@
 {
   "id": "puzzle-21",
-  "title": "Bulmaca 115",
-  "rows": 12,
+  "title": "Bulmaca 84",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Gerçekten",
-      "answer": "SAHİ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Güney Amerika dağları",
-      "answer": "AND",
-      "row": 0,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İrmikli şerbetli tatlı",
-      "answer": "REVANİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kolsuz üstlük",
-      "answer": "PELERİN",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pişmanlık",
-      "answer": "NEDAMET",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ödev",
-      "answer": "VAZİFE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Albayın üstü",
-      "answer": "GENERAL",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kem göz",
-      "answer": "NAZAR",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İşaret bayrağı",
-      "answer": "FLAMA",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Açık oturum",
-      "answer": "PANEL",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gümüş iplik",
-      "answer": "SİM",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Güreş alanı",
-      "answer": "ARENA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İplik lifi",
-      "answer": "ELYAF",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yılankavi kıvrım",
-      "answer": "HELEZON",
+      "text": "Kötü cin",
+      "answer": "İFRİT",
       "row": 0,
       "col": 2,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Acele yapılan",
-      "answer": "İVEDİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Nefis",
-      "answer": "ENFES",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Cennetle cehennem arası",
-      "answer": "ARAF",
+      "text": "Tiz karşıtı",
+      "answer": "PES",
       "row": 1,
-      "col": 4,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Yol yarışı",
-      "answer": "RALLİ",
+      "text": "Sanat akımı",
+      "answer": "EKOL",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yol hareketliliği",
+      "answer": "TRAFİK",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Oruç ayı",
+      "answer": "RAMAZAN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gün aydınlığı",
+      "answer": "ŞAFAK",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yan, cephe",
+      "answer": "TARAF",
       "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Öbürü",
+      "answer": "ÖTEKİ",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Şayet",
+      "answer": "EĞER",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Elektrik kaynağı",
+      "answer": "PİL",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Taş yolu",
+      "answer": "ŞOSE",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yanlar, taraflar, çevre",
+      "answer": "ETRAF",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Savurganlık",
+      "answer": "İSRAF",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Meraklı, hevesli",
+      "answer": "AMATÖR",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eşlik etme",
+      "answer": "REFAKAT",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Japon çizgi filmi",
-      "answer": "ANİME",
+      "text": "Aynı doğumlu",
+      "answer": "İKİZ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Üye",
-      "answer": "AZA",
-      "row": 6,
+      "text": "Banka işlemi",
+      "answer": "REPO",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Büyükanne",
-      "answer": "NİNE",
+      "text": "Saç aracı",
+      "answer": "TOKA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kategori",
-      "answer": "ULAM",
+      "text": "Yansıma",
+      "answer": "AKİS",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Doğru, isabetli",
-      "answer": "RAST",
-      "row": 7,
+      "text": "Boşuna",
+      "answer": "NAFİLE",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -169,49 +148,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 5,
+      "row": 1,
       "col": 7
     },
     {
       "row": 6,
-      "col": 7
-    },
-    {
-      "row": 8,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 5
+      "row": 7,
+      "col": 1
     },
     {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 11,
+      "row": 9,
       "col": 0
     },
     {
-      "row": 11,
-      "col": 6
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 2
     }
   ],
-  "difficulty": "zor",
-  "order": 115
+  "difficulty": "orta",
+  "order": 84
 }

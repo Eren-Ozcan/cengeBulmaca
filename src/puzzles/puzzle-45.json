@@ -1,188 +1,139 @@
 {
   "id": "puzzle-45",
-  "title": "Bulmaca 104",
-  "rows": 12,
+  "title": "Bulmaca 61",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kahverengi benek",
-      "answer": "ÇİL",
+      "text": "Baskı yöntemi",
+      "answer": "OFSET",
       "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kızıl at rengi",
-      "answer": "DORU",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hayvan semirten",
-      "answer": "BESİCİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Saf, bön",
-      "answer": "AVANAK",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eşlik etme",
-      "answer": "REFAKAT",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kot kumaşı",
-      "answer": "DENİM",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Seyirci basamağı",
-      "answer": "TRİBÜN",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bozulmamış, bayatlamamış",
-      "answer": "TAZE",
-      "row": 7,
       "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Adana ilçesi",
-      "answer": "FEKE",
-      "row": 7,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kötülük, fenalık",
-      "answer": "ŞER",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Çağdaş",
-      "answer": "MODERN",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Havra",
-      "answer": "SİNAGOG",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Vasıf",
-      "answer": "NİTELİK",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Anlatan söz",
-      "answer": "İBARE",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Biraz önce",
-      "answer": "DEMİN",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlı deniz askeri",
-      "answer": "LEVENT",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Daire tabanlı cisim",
-      "answer": "KONİ",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Mavi değerli taş",
-      "answer": "SAFİR",
+      "text": "Hoş koku",
+      "answer": "MİS",
       "row": 1,
-      "col": 3,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "İlgi kuran sözcük",
-      "answer": "EDAT",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Nitrogliserinli patlayıcı",
-      "answer": "DİNAMİT",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bir denizimiz",
-      "answer": "EGE",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İlk ay",
-      "answer": "OCAK",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "En önemli rol",
-      "answer": "BAŞROL",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Arap el yazısı",
-      "answer": "RİKA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Eyer ayaklığı",
-      "answer": "ÜZENGİ",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Toz mürekkep",
-      "answer": "TONER",
+      "text": "Beceri",
+      "answer": "MAHARET",
       "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Oluşan, meydana gelen",
+      "answer": "İBARET",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yük hareketi",
+      "answer": "AKIM",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Evrak dosyası",
+      "answer": "KLASÖR",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Orkestra şefi",
+      "answer": "MAESTRO",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kesin, değişmez",
+      "answer": "KATİ",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayı oynatıcı",
+      "answer": "AYICI",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şöhret, şan",
+      "answer": "ÜN",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüz anlatımı",
+      "answer": "MİMİK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Suç geçmişi",
+      "answer": "SABIKA",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Güçlü atılım",
+      "answer": "HAMLE",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ürün sergisi",
+      "answer": "FUAR",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Asma aracı",
+      "answer": "ASKI",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Akım azaltıcı",
+      "answer": "REOSTA",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Olumlu yanıt",
+      "answer": "EVET",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaplama nesnesi",
+      "answer": "ÖRTÜ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Morfin türevi",
+      "answer": "EROİN",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -190,7 +141,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
@@ -205,14 +164,14 @@
       "col": 0
     },
     {
-      "row": 9,
-      "col": 7
+      "row": 8,
+      "col": 1
     },
     {
-      "row": 10,
-      "col": 7
+      "row": 8,
+      "col": 2
     }
   ],
-  "difficulty": "orta",
-  "order": 104
+  "difficulty": "kolay",
+  "order": 61
 }

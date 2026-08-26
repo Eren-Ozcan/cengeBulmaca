@@ -1,160 +1,139 @@
 {
   "id": "puzzle-169",
-  "title": "Bulmaca 116",
-  "rows": 11,
+  "title": "Bulmaca 151",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Gizli sebep",
-      "answer": "GÜDÜ",
+      "text": "Kaldırma aleti",
+      "answer": "KRİKO",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bahçe engeli",
-      "answer": "ÇİT",
+      "text": "Kalça-diz arası",
+      "answer": "UYLUK",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çok sarı",
+      "answer": "SAPSARI",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Adaletli",
+      "answer": "ADİL",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "En büyük kıta",
+      "answer": "ASYA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yalan söyleyen",
+      "answer": "YALANCI",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yük eyeri",
+      "answer": "SEMER",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kadın takımı",
+      "answer": "TAYYÖR",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalabalıksız, ıssız",
+      "answer": "TENHA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kibar çevre",
+      "answer": "SOSYETE",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Üstün güçlü",
+      "answer": "YAMAN",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dondurma kabı",
+      "answer": "KUP",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Leh karşıtı",
+      "answer": "ALEYH",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hâlbuki",
+      "answer": "OYSA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Operada solo parça",
+      "answer": "ARYA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kozalaklı ağaç",
+      "answer": "LADİN",
       "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Gelişmemiş, iptidai",
-      "answer": "İLKEL",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Şaşkına dönmüş",
-      "answer": "ŞOKE",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Rüzgâr",
-      "answer": "YEL",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Pamuklu spor giysi",
-      "answer": "TİŞÖRT",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yarı karanlık",
-      "answer": "LOŞ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Anlama yetisi",
-      "answer": "ZEKA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Dokuma aracı",
-      "answer": "MEKİK",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Örnek",
-      "answer": "MİSAL",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zarar ihtimali",
-      "answer": "TEHLİKE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Cezaya dair",
-      "answer": "CEZAİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Başlangıçta",
-      "answer": "İLKİN",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yetke",
-      "answer": "OTORİTE",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İplik bağlantısı",
-      "answer": "DİKİŞ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sezgi",
-      "answer": "SEZİ",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bölüşülen pay",
-      "answer": "ÜLEŞ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yer, yöre",
-      "answer": "MAHAL",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hususiyet",
-      "answer": "ÖZELLİK",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Dörtte bir",
-      "answer": "ÇEYREK",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Açı ölçme aracı",
-      "answer": "İLETKİ",
+      "text": "Cennet kızı",
+      "answer": "HURİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Osmanlı parası",
-      "answer": "AKÇE",
-      "row": 4,
+      "text": "Küçük bağlama",
+      "answer": "CURA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kılla kaplı",
+      "answer": "KILLI",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -166,7 +145,11 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
@@ -174,37 +157,29 @@
     },
     {
       "row": 2,
-      "col": 7
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
       "col": 0
     },
     {
-      "row": 10,
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 116
+  "difficulty": "orta",
+  "order": 151
 }

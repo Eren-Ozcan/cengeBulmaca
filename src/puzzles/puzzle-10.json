@@ -1,224 +1,140 @@
 {
   "id": "puzzle-10",
-  "title": "Bulmaca 133",
-  "rows": 13,
-  "cols": 9,
+  "title": "Bulmaca 3",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Büyük erkek kardeş",
-      "answer": "AĞABEY",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hastalık tekrarı",
-      "answer": "NÜKS",
-      "row": 1,
+      "text": "Soluk",
+      "answer": "NEFES",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Nişasta bulamacı",
-      "answer": "KOLA",
+      "text": "Uzak köşe",
+      "answer": "ÜCRA",
       "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Öbür dünya",
-      "answer": "AHİRET",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yasa yapma",
-      "answer": "YASAMA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Edilgin",
-      "answer": "PASİF",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gürültü patırtı",
-      "answer": "ŞAMATA",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Çift karşıtı",
-      "answer": "TEK",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yasa",
-      "answer": "KANUN",
-      "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Uydurma söz",
-      "answer": "YALAN",
+      "text": "Buluş yapan",
+      "answer": "MUCİT",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ardıl",
+      "answer": "HALEF",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski Osmanlı başkenti",
+      "answer": "EDİRNE",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "92 numaralı element",
+      "answer": "URANYUM",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kokusuz süs çiçeği",
+      "answer": "AÇELYA",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Halk dilinde ağabey",
+      "answer": "AKA",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Kara karşıtı",
+      "answer": "AK",
       "row": 8,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kör bağırsak uzantısı",
-      "answer": "APANDİS",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Satın alma",
-      "answer": "ALIM",
-      "row": 9,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uzak",
-      "answer": "IRAK",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kraliçe",
-      "answer": "ECE",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Aslan sütü",
-      "answer": "RAKI",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Korkusuz girişken",
-      "answer": "ATILGAN",
-      "row": 11,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yaşadığımız gezegen",
-      "answer": "DÜNYA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Osmanlı yönetim birimi",
-      "answer": "EYALET",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Apartman görevlisi",
-      "answer": "KAPICI",
-      "row": 6,
+      "text": "Eğimli yer",
+      "answer": "YOKUŞ",
+      "row": 9,
       "col": 2,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Düzen ve güvenlik",
-      "answer": "ASAYİŞ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Mikroskop camı",
-      "answer": "LAMEL",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıkıntı, çarpıntı",
-      "answer": "HAFAKAN",
+      "text": "Yörünge cismi",
+      "answer": "UYDU",
       "row": 2,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yansıma",
-      "answer": "AKİS",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Süt çiftliği",
-      "answer": "MANDIRA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Üflemeli boru",
-      "answer": "BORAZAN",
-      "row": 0,
-      "col": 6,
+      "col": 1,
       "arrow": "down"
     },
     {
       "text": "Fars ülkesi",
       "answer": "İRAN",
-      "row": 8,
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dışarıya çıkarma",
+      "answer": "İHRAÇ",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Emziren kadın",
+      "answer": "SÜTANNE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Mor çiçekli ağaççık",
+      "answer": "LEYLAK",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Gece dinlenmesi",
+      "answer": "UYKU",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Keder, üzüntü",
-      "answer": "ELEM",
+      "text": "İrade zayıflığı",
+      "answer": "ZAAF",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Esir",
-      "answer": "TUTSAK",
+      "text": "Aylık ücret",
+      "answer": "MAAŞ",
       "row": 5,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kavisli kısa kılıç",
-      "answer": "YATAĞAN",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "En soğuk mevsim",
-      "answer": "KIŞ",
-      "row": 9,
-      "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
@@ -226,21 +142,45 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 2
     },
     {
       "row": 3,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 0
     },
     {
       "row": 8,
-      "col": 8
+      "col": 1
     },
     {
-      "row": 12,
-      "col": 7
+      "row": 8,
+      "col": 3
     }
   ],
-  "difficulty": "zor",
-  "order": 133
+  "difficulty": "kolay",
+  "order": 3
 }

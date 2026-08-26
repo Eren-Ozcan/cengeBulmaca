@@ -1,153 +1,146 @@
 {
   "id": "puzzle-146",
-  "title": "Bulmaca 131",
-  "rows": 11,
+  "title": "Bulmaca 140",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yağışsız, susuz",
-      "answer": "KURAK",
+      "text": "Mücevherci",
+      "answer": "KUYUMCU",
       "row": 0,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Erkek koyun",
-      "answer": "KOÇ",
+      "text": "Dikkatsiz, habersiz",
+      "answer": "GAFİL",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Deriye konan ilaç",
-      "answer": "YAKI",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Egzama",
-      "answer": "MAYASIL",
+      "text": "Yengeç türü",
+      "answer": "ÇAĞANOZ",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Azıcık",
-      "answer": "BİRAZ",
+      "text": "Altmış saniye",
+      "answer": "DAKİKA",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sıtmaya tutulmuş",
-      "answer": "SITMALI",
+      "text": "İlgili, ilişkin",
+      "answer": "AİT",
       "row": 5,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İptal etme",
+      "answer": "İLGA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Halk müziği çalgısı",
+      "answer": "TAMBURA",
+      "row": 7,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yazgı",
-      "answer": "KADER",
-      "row": 6,
-      "col": 2,
+      "text": "Tahta üflemeli çalgı",
+      "answer": "KLARNET",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Toplama işareti",
-      "answer": "ARTI",
-      "row": 6,
+      "text": "Söyleyerek yazdırma",
+      "answer": "DİKTE",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Köşeye çekilme",
-      "answer": "İNZİVA",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Çıkarsız, samimi",
-      "answer": "İÇTEN",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ekin sapı",
-      "answer": "ANIZ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Polis amiri",
-      "answer": "KOMİSER",
+      "text": "Ne fiyata",
+      "answer": "KAÇA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Haşarı, yaramaz",
-      "answer": "UÇARI",
+      "text": "İçten gelen dürtü",
+      "answer": "İTKİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Normalden küçük",
+      "answer": "UFAK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kar fırtınası",
-      "answer": "TİPİ",
-      "row": 6,
+      "text": "Pudra minerali",
+      "answer": "TALK",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yeteneği olan",
-      "answer": "YATKIN",
-      "row": 2,
+      "text": "Cesur, mert",
+      "answer": "YİĞİT",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kutsal pınar",
-      "answer": "AYAZMA",
+      "text": "Satrançta yenilgi",
+      "answer": "MAT",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Haber götüren kimse",
+      "answer": "ULAK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hareket dokusu",
-      "answer": "KAS",
-      "row": 0,
+      "text": "Gösterge çubuğu",
+      "answer": "İBRE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gemi taşıma ücreti",
+      "answer": "NAVLUN",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Mahkeme binası",
-      "answer": "ADLİYE",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dönülen yön",
-      "answer": "KIBLE",
-      "row": 1,
+      "text": "Antik Yunanlı",
+      "answer": "GREK",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "On iki ay",
-      "answer": "YIL",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Rençper",
-      "answer": "IRGAT",
-      "row": 4,
+      "text": "Tarım",
+      "answer": "ZİRAAT",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -159,41 +152,33 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 7,
-      "col": 4
+      "row": 0,
+      "col": 7
     },
     {
-      "row": 7,
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
       "col": 6
     },
     {
       "row": 9,
-      "col": 1
+      "col": 5
     },
     {
       "row": 9,
-      "col": 3
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 131
+  "difficulty": "orta",
+  "order": 140
 }

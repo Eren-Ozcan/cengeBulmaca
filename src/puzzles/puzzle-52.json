@@ -1,250 +1,190 @@
 {
   "id": "puzzle-52",
-  "title": "Bulmaca 81",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 149",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Kesme aracı",
-      "answer": "MAKAS",
+      "text": "Tavuk barınağı",
+      "answer": "KÜMES",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Döviz oranı",
+      "answer": "KUR",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Köz, ateş",
-      "answer": "KOR",
-      "row": 2,
+      "text": "Dönerek yürüten parça",
+      "answer": "TEKER",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kirli sudan bulaşan hastalık",
-      "answer": "TİFO",
-      "row": 1,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İyilikbilmez",
-      "answer": "NANKÖR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Süregelen düzen",
-      "answer": "STATÜKO",
+      "text": "Çekingen",
+      "answer": "UTANGAÇ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kolsuz giysi",
-      "answer": "YELEK",
+      "text": "Asılsız suçlama",
+      "answer": "İFTİRA",
       "row": 5,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kızgın, somurtkan (yüz)",
-      "answer": "ASIK",
+      "text": "Çare",
+      "answer": "UMAR",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Spor karşılaşması",
-      "answer": "MAÇ",
-      "row": 5,
-      "col": 6,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tüylü yeşil meyve",
-      "answer": "KİVİ",
+      "text": "Arap para birimi",
+      "answer": "DİNAR",
       "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Belirsiz nesne",
-      "answer": "ŞEY",
+      "text": "Yemek kabı",
+      "answer": "TABAK",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güvenli",
-      "answer": "EMİN",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Batı soyluluk unvanı",
-      "answer": "VİKONT",
+      "text": "Boş inanç",
+      "answer": "HURAFE",
       "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İz süren",
-      "answer": "İZCİ",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Melodi",
-      "answer": "EZGİ",
-      "row": 10,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dinden bağımsız",
-      "answer": "LAİK",
-      "row": 11,
-      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Baklagillerden ağaç",
-      "answer": "AKASYA",
+      "text": "Eşya kabı",
+      "answer": "KUTU",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Edirne ilçesi",
-      "answer": "ENEZ",
-      "row": 7,
+      "text": "Bir ABD eyaleti",
+      "answer": "UTAH",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kontun karısı",
-      "answer": "KONTES",
+      "text": "Mal çıkarma",
+      "answer": "ÜRETİM",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sırt dayanağı",
-      "answer": "ARKALIK",
-      "row": 0,
+      "text": "Yakın işaret zamiri",
+      "answer": "BU",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Görüş ortağı",
+      "answer": "KAFADAR",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Öbürü",
-      "answer": "ÖTEKİ",
+      "text": "Dolap, oyun",
+      "answer": "ENTRİKA",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Teknik hile",
-      "answer": "TRÜK",
-      "row": 1,
+      "text": "Nesne gösterisi",
+      "answer": "SERGİ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yetkili kimse",
-      "answer": "VEKİL",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarı çiçekli ağaç",
-      "answer": "MİMOZA",
-      "row": 5,
+      "text": "Bira tahılı",
+      "answer": "ARPA",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bitki örtüsü",
-      "answer": "FLORA",
-      "row": 1,
+      "text": "Sarma kumaşı",
+      "answer": "BOHÇA",
+      "row": 0,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "İstiridye tanesi",
-      "answer": "İNCİ",
-      "row": 7,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kertik",
-      "answer": "ÇENTİK",
-      "row": 5,
-      "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 1,
       "col": 6
     },
     {
       "row": 1,
-      "col": 8
-    },
-    {
-      "row": 3,
       "col": 6
     },
     {
-      "row": 3,
-      "col": 8
+      "row": 2,
+      "col": 6
     },
     {
-      "row": 4,
-      "col": 8
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 9,
+      "row": 5,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 2
+      "row": 6,
+      "col": 5
     },
     {
-      "row": 10,
-      "col": 3
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 81
+  "order": 149
 }

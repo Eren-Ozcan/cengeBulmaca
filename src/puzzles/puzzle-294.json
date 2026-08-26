@@ -1,0 +1,186 @@
+{
+  "id": "puzzle-294",
+  "title": "Bulmaca 142",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Kadın masajcı",
+      "answer": "MASÖZ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sesli yayın",
+      "answer": "RADYO",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yük eyeri",
+      "answer": "SEMER",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çıkar",
+      "answer": "MENFAAT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ahşap duvar kaplaması",
+      "answer": "LAMBRİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Fauna",
+      "answer": "DİREY",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tırnak cilası",
+      "answer": "OJE",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Üst sınır",
+      "answer": "LİMİT",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İranlı",
+      "answer": "ACEM",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Adaletli",
+      "answer": "ADİL",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Patlayıcı madde",
+      "answer": "MERMİ",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski yapı kalıntısı",
+      "answer": "ÖREN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Br simgeli element",
+      "answer": "BROM",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Mektup kesesi",
+      "answer": "ZARF",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yönetmenlik işi",
+      "answer": "REJİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sağlıklı olma",
+      "answer": "AFİYET",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Köpek kovma sözü",
+      "answer": "HOŞT",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Dönen tekerlek",
+      "answer": "ÇARK",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "orta",
+  "order": 142
+}

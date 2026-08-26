@@ -1,150 +1,180 @@
 {
   "id": "puzzle-59",
-  "title": "Bulmaca 97",
+  "title": "Bulmaca 9",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Kımıldanma",
-      "answer": "HAREKET",
+      "text": "Et satıcısı",
+      "answer": "KASAP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şiddetli, tehlikeli",
-      "answer": "AZILI",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Terslik",
-      "answer": "AKSİLİK",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Merhamet duygusu",
-      "answer": "ACIMA",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Düzgün yığın",
-      "answer": "İSTİF",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ayrıcalık",
-      "answer": "İMTİYAZ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kalıtım materyali",
-      "answer": "GENOM",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Şebabet",
-      "answer": "GENÇLİK",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Belirten işaret",
-      "answer": "SİMGE",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Gözlem",
-      "answer": "RASAT",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Cilt, deri",
-      "answer": "TEN",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yıpratıcı, üstün",
-      "answer": "EZİCİ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İngiliz uzunluk birimi",
-      "answer": "İNÇ",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Koruyucu kap",
-      "answer": "KILIF",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ulaşım şeridi",
-      "answer": "YOL",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Acıklı, üzücü",
-      "answer": "ELİM",
-      "row": 0,
+      "text": "Bağlaç",
+      "answer": "Kİ",
+      "row": 1,
       "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Şaka seven",
+      "answer": "ŞAKACI",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Turuncu sebze",
+      "answer": "HAVUÇ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Patlıcanlı fırın yemeği",
+      "answer": "MUSAKKA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tekerlek çemberi",
+      "answer": "JANT",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hastalık etkeni",
+      "answer": "MİKROP",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Hısım",
+      "answer": "AKRABA",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yağmur borusu",
+      "answer": "OLUK",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilme, anlama, sezgi",
+      "answer": "İRFAN",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mısır güneş tanrısı",
+      "answer": "RA",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Süreç adımı",
+      "answer": "AŞAMA",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İbadet yeri",
-      "answer": "CAMİ",
+      "text": "Müdafaa",
+      "answer": "SAVUNMA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yankı bilimi",
+      "answer": "AKUSTİK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Pantolon ucu",
+      "answer": "PAÇA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İskandinav parası",
+      "answer": "KRON",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Temel ilke",
+      "answer": "KURAL",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Delik kapatan",
-      "answer": "TIKAÇ",
+      "text": "39'dan sonraki sayı",
+      "answer": "KIRK",
       "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok yiyen",
+      "answer": "OBUR",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Güney Amerika devesi",
+      "answer": "ALPAKA",
+      "row": 3,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 7
     },
     {
       "row": 6,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
     },
     {
       "row": 8,
-      "col": 6
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 2
     }
   ],
-  "difficulty": "orta",
-  "order": 97
+  "difficulty": "kolay",
+  "order": 9
 }

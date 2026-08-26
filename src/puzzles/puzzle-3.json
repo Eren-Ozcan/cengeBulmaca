@@ -1,167 +1,111 @@
 {
   "id": "puzzle-3",
-  "title": "Bulmaca 52",
-  "rows": 11,
+  "title": "Bulmaca 105",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Katlanır bölme",
-      "answer": "PARAVAN",
-      "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kebap ilimiz",
-      "answer": "ADANA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Alet takımı",
-      "answer": "EDEVAT",
-      "row": 2,
+      "text": "Tesirsiz",
+      "answer": "ETKİSİZ",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Özen",
-      "answer": "İTİNA",
+      "text": "Kağıt huni",
+      "answer": "KÜLAH",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Arıtma, ayıklama",
+      "answer": "TASFİYE",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Başlangıçta",
+      "answer": "İLKİN",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Efsanevi kuş",
-      "answer": "ANKA",
+      "text": "Kül rengi",
+      "answer": "GRİ",
       "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Değiş tokuş",
-      "answer": "TAKAS",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Olmamış, işlenmemiş",
-      "answer": "HAM",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Göz üstü kılı",
-      "answer": "KAŞ",
-      "row": 6,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Meksika içkisi",
-      "answer": "TEKİLA",
-      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Mutedil iklim",
-      "answer": "ILIMAN",
+      "text": "Mahlul",
+      "answer": "ERİYİK",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Aktarma makinesi",
+      "answer": "POMPA",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Doktrin",
-      "answer": "ÖĞRETİ",
-      "row": 9,
+      "text": "İplik işleme",
+      "answer": "NAKIŞ",
+      "row": 4,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "down"
     },
     {
-      "text": "Osmanlı hükümdarı",
-      "answer": "PADİŞAH",
+      "text": "Borç teminatı",
+      "answer": "TUTU",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sayı, tane",
-      "answer": "ADET",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Melez hayvan",
-      "answer": "KATIR",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Nakleden kimse",
-      "answer": "RAVİ",
+      "text": "Sihirli sıvı",
+      "answer": "İKSİR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gündelikçi işçi",
-      "answer": "AMELE",
+      "text": "Aşağılık, bayağı",
+      "answer": "SÜFLİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kemik dokusu",
+      "answer": "İLİK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Utanç veren, yakışıksız",
+      "answer": "AYIP",
       "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tropik meyve",
-      "answer": "ANANAS",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yetersiz, az",
-      "answer": "KIT",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yurt",
-      "answer": "VATAN",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bazıları",
-      "answer": "KİMİ",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Keseli memeli",
-      "answer": "KOALA",
-      "row": 4,
+      "text": "Kaybolma",
+      "answer": "ZAYİ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ayakkabı demiri",
-      "answer": "NALÇA",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Tiyatro sahnesi",
-      "answer": "ŞANO",
-      "row": 6,
+      "text": "Kazılmış çukur",
+      "answer": "HENDEK",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -169,29 +113,69 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 2,
+      "col": 0
+    },
+    {
+      "row": 5,
       "col": 6
     },
     {
-      "row": 3,
+      "row": 6,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 6,
+      "col": 3
+    },
+    {
+      "row": 6,
+      "col": 4
+    },
+    {
+      "row": 6,
       "col": 6
     },
     {
       "row": 8,
-      "col": 0
+      "col": 1
     },
     {
-      "row": 10,
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
       "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 52
+  "difficulty": "orta",
+  "order": 105
 }

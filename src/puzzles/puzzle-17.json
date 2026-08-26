@@ -1,123 +1,133 @@
 {
   "id": "puzzle-17",
-  "title": "Bulmaca 128",
+  "title": "Bulmaca 150",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Ufki",
-      "answer": "YATAY",
+      "text": "Kural, ölçüt",
+      "answer": "NORM",
       "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yüz anlatımı",
-      "answer": "MİMİK",
-      "row": 3,
       "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Havalandırma pervanesi",
+      "answer": "FAN",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İzlenen yol",
+      "answer": "USUL",
+      "row": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Özgür",
-      "answer": "HÜR",
+      "text": "Sarımsı at donu",
+      "answer": "KULA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dişli futbol ayakkabısı",
+      "answer": "KRAMPON",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kurutulmuş meyve ezmesi",
-      "answer": "PESTİL",
+      "text": "Bilgi",
+      "answer": "MALUMAT",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kural",
-      "answer": "KAİDE",
+      "text": "İkinci ay",
+      "answer": "ŞUBAT",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Katman",
-      "answer": "TABAKA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yer bulucu",
-      "answer": "RADAR",
+      "text": "Zayıf karşıtı",
+      "answer": "GÜÇLÜ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ağ tabaka",
-      "answer": "RETİNA",
+      "text": "Namus",
+      "answer": "İFFET",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yüz ar",
-      "answer": "HEKTAR",
-      "row": 3,
+      "text": "Duvar süsleyicisi",
+      "answer": "NAKKAŞ",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İzin",
-      "answer": "MÜSAADE",
-      "row": 2,
+      "text": "Haysiyetli",
+      "answer": "ONURLU",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bağlantı",
-      "answer": "İRTİBAT",
+      "text": "Senli benli",
+      "answer": "LAUBALİ",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hayvan besini",
-      "answer": "YEM",
+      "text": "Bilmece",
+      "answer": "MUAMMA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yönetime dair",
-      "answer": "İDARİ",
-      "row": 4,
+      "text": "Tiksinti ünlemi",
+      "answer": "ÜF",
+      "row": 7,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hareketli, canlı",
-      "answer": "İŞLEK",
-      "row": 2,
+      "text": "Kedi, köpek ayağı",
+      "answer": "PATİ",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Taşınan ağırlık",
-      "answer": "YÜK",
+      "text": "Sıcak su torbası",
+      "answer": "BUYOT",
       "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Madde özü",
+      "answer": "ÖZÜT",
+      "row": 5,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
@@ -128,42 +138,54 @@
       "col": 5
     },
     {
+      "row": 0,
+      "col": 7
+    },
+    {
       "row": 1,
       "col": 5
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
+      "row": 1,
+      "col": 7
     },
     {
       "row": 3,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 6
+      "col": 7
     },
     {
       "row": 6,
       "col": 6
     },
     {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 2
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
       "row": 8,
       "col": 5
     },
     {
       "row": 8,
       "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
     }
   ],
-  "difficulty": "zor",
-  "order": 128
+  "difficulty": "orta",
+  "order": 150
 }

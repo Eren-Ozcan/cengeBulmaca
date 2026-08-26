@@ -1,153 +1,153 @@
 {
   "id": "puzzle-68",
-  "title": "Bulmaca 85",
-  "rows": 11,
+  "title": "Bulmaca 22",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Öğrenci",
-      "answer": "TALEBE",
-      "row": 0,
+      "text": "Ufak yuvarlak hamur",
+      "answer": "KUSKUS",
+      "row": 1,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Olay",
-      "answer": "HADİSE",
+      "text": "Deniz generali",
+      "answer": "AMİRAL",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yol korkuluğu",
-      "answer": "BARİYER",
+      "text": "Tiyatro sahnesi",
+      "answer": "ŞANO",
       "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İki parça mayo",
-      "answer": "BİKİNİ",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Birinci, öncü",
-      "answer": "İLK",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Saklanmış olan",
-      "answer": "SAKLI",
-      "row": 6,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Selamet",
-      "answer": "ESENLİK",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sancak taşıyan",
-      "answer": "ALEMDAR",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğal",
-      "answer": "TABİİ",
-      "row": 0,
       "col": 1,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Sıkıntılı durum",
-      "answer": "BELA",
-      "row": 6,
+      "text": "Bağ, münasebet",
+      "answer": "İLİŞKİ",
+      "row": 4,
       "col": 1,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Adağı olan",
-      "answer": "ADAKLI",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
+      "text": "Tertemiz",
+      "answer": "LEKESİZ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "İşitsel titreşim",
-      "answer": "SES",
+      "text": "ABD uzay ajansı",
+      "answer": "NASA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Evin bölmesi",
+      "answer": "ODA",
       "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Zayıflık",
+      "answer": "ZAFİYET",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yasa yapma",
+      "answer": "YASAMA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İş merkezi",
+      "answer": "PLAZA",
+      "row": 5,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "İnsan, şahıs",
+      "answer": "KİŞİ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Duygu dolu",
-      "answer": "LİRİK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Şehir bölgesi",
-      "answer": "SEMT",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İlham",
-      "answer": "ESİN",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Su sığırı",
-      "answer": "MANDA",
+      "text": "Temel öz",
+      "answer": "ESAS",
       "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Avrupa-Asya sınırı",
+      "answer": "URAL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Baş",
+      "answer": "KAFA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dakikanın altmışta biri",
+      "answer": "SANİYE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İki dize",
-      "answer": "BEYİT",
+      "text": "İşaret, belirti",
+      "answer": "İM",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Genişleyen etek",
+      "answer": "KLOŞ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kabile, boy",
-      "answer": "KLAN",
-      "row": 6,
+      "text": "Protein fasulyesi",
+      "answer": "SOYA",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Para birimimiz",
-      "answer": "LİRA",
-      "row": 6,
+      "text": "Kural",
+      "answer": "KAİDE",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kaş boyası",
-      "answer": "RASTIK",
-      "row": 2,
+      "text": "Deri tabaklama",
+      "answer": "SEPİ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Zaten",
+      "answer": "ZATİ",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -159,45 +159,29 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 1
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
+      "col": 6
     },
     {
       "row": 2,
       "col": 6
     },
     {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
+      "row": 3,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 4,
       "col": 0
     },
     {
       "row": 9,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 7
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 85
+  "difficulty": "kolay",
+  "order": 22
 }

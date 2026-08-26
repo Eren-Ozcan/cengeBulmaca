@@ -1,140 +1,133 @@
 {
   "id": "puzzle-142",
-  "title": "Bulmaca 69",
+  "title": "Bulmaca 97",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Dev Kaliforniya ağacı",
-      "answer": "SEKOYA",
+      "text": "Mersin yumurtası",
+      "answer": "HAVYAR",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Havayla ilgili",
+      "answer": "HAVAİ",
       "row": 1,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Parlak kumaş",
-      "answer": "SATEN",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Terzi şeridi",
-      "answer": "MEZURA",
+      "text": "Düğün çalgısı",
+      "answer": "ZURNA",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kin, hınç, garez",
-      "answer": "GARAZ",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uyak",
-      "answer": "KAFİYE",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ant içmiş",
-      "answer": "YEMİNLİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yumuşak yastık",
-      "answer": "MİNDER",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Reaksiyon",
-      "answer": "TEPKİME",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yargı yeri",
-      "answer": "MAHKEME",
-      "row": 2,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ortaya konan yapıt",
-      "answer": "ESER",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tek hücreli canlı",
-      "answer": "AMİP",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İstemsiz olay",
-      "answer": "KAZA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gönlünce gezme deyiminde",
-      "answer": "FİNK",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "29'dan sonraki sayı",
-      "answer": "OTUZ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Öznel",
-      "answer": "İNDİ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Mekân; zemin",
-      "answer": "YER",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Etkinlik",
-      "answer": "EYLEM",
+      "text": "Ana yol",
+      "answer": "ARTER",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Merkez nokta",
+      "answer": "ORTA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şekersiz kahve",
+      "answer": "SADE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Konuşan kuş",
+      "answer": "PAPAĞAN",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yönetme",
+      "answer": "İDARE",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tıkanmış",
+      "answer": "TIKANIK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Türk boyu",
+      "answer": "HAZAR",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yanak içi",
+      "answer": "AVURT",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tehlikeli durum",
+      "answer": "VARTA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Zirve",
+      "answer": "PİK",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gene",
+      "answer": "YİNE",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses, seda",
+      "answer": "SADA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hediye",
+      "answer": "ARMAĞAN",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Şefkatli davranan",
-      "answer": "ANAÇ",
-      "row": 0,
+      "text": "Kuraklık tahılı",
+      "answer": "DARI",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İrlanda'nın kendi adı",
-      "answer": "EİRE",
-      "row": 5,
-      "col": 6,
+      "text": "Alışılagelmiş uygulama",
+      "answer": "GÖRENEK",
+      "row": 2,
+      "col": 7,
       "arrow": "down"
     }
   ],
@@ -145,17 +138,53 @@
     },
     {
       "row": 0,
-      "col": 1
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 6,
       "col": 0
     },
     {
-      "row": 5,
+      "row": 6,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 8,
       "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
     }
   ],
   "difficulty": "orta",
-  "order": 69
+  "order": 97
 }

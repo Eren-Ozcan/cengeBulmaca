@@ -1,182 +1,140 @@
 {
   "id": "puzzle-117",
-  "title": "Bulmaca 119",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 95",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Düzeltme",
-      "answer": "REFORM",
+      "text": "İntikam",
+      "answer": "ÖÇ",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dişi cins",
+      "answer": "DİŞİL",
       "row": 1,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Üçlü paylaştırma",
-      "answer": "ÜÇER",
+      "text": "Ansızın, beklenmedik",
+      "answer": "ANİ",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sürü güdücüsü",
-      "answer": "ÇOBAN",
-      "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Okyanus derinliği",
-      "answer": "ABİS",
+      "text": "Öğreti",
+      "answer": "DOKTRİN",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski, kadim",
+      "answer": "ANTİK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nispet",
-      "answer": "ORAN",
+      "text": "Şu hâlde, artık",
+      "answer": "İMDİ",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Temizlik aracı",
-      "answer": "BİDE",
-      "row": 4,
-      "col": 5,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yeni olma",
-      "answer": "YENİLİK",
+      "text": "Kuru peksimet",
+      "answer": "GALETA",
       "row": 6,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tropikal rüzgâr",
-      "answer": "ALİZE",
-      "row": 7,
+      "text": "Dörtnal koşu",
+      "answer": "GALOP",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yeni karşıtı",
+      "answer": "ESKİ",
+      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Tel kadayıf tatlısı",
-      "answer": "KÜNEFE",
-      "row": 7,
+      "text": "Sopalı spor",
+      "answer": "HOKEY",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kısa, etkili",
-      "answer": "VECİZ",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Keyifli",
-      "answer": "NEŞELİ",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Büyük tüy",
-      "answer": "TELEK",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Duruma uğramış",
-      "answer": "DÜÇAR",
-      "row": 0,
+      "text": "Mühür",
+      "answer": "DAMGA",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yıkanma teknesi",
-      "answer": "KÜVET",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Erkek unvanı",
-      "answer": "BAY",
-      "row": 3,
+      "text": "Onlu sistem",
+      "answer": "ONDALIK",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sevinç, keyif",
-      "answer": "NEŞE",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çam sakızı",
-      "answer": "REÇİNE",
+      "text": "Yazı makinesi",
+      "answer": "DAKTİLO",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ölüm vakti",
-      "answer": "ECEL",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yunan aşk tanrısı",
-      "answer": "EROS",
+      "text": "Peru parası",
+      "answer": "İNTİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Boşuna",
-      "answer": "NAFİLE",
+      "text": "Oldukça çok",
+      "answer": "EPEY",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kol takısı",
-      "answer": "BİLEZİK",
-      "row": 4,
+      "text": "Ortaklık",
+      "answer": "ŞİRKET",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gösterişli, havalı",
-      "answer": "AFİLİ",
-      "row": 2,
+      "text": "Boyun örtüsü",
+      "answer": "ATKI",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bacak eklemi",
-      "answer": "DİZ",
-      "row": 4,
+      "text": "Meslek birliği",
+      "answer": "LONCA",
+      "row": 0,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Şekerleme satan",
-      "answer": "ŞEKERCİ",
-      "row": 3,
-      "col": 8,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
@@ -184,81 +142,45 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 0,
-      "col": 8
-    },
-    {
-      "row": 1,
+      "row": 2,
       "col": 0
     },
     {
       "row": 2,
-      "col": 5
+      "col": 6
     },
     {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 8
-    },
-    {
-      "row": 3,
-      "col": 0
+      "row": 4,
+      "col": 6
     },
     {
       "row": 6,
-      "col": 0
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 7
     },
     {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 7
+      "col": 1
     },
     {
       "row": 9,
-      "col": 6
+      "col": 5
     },
     {
       "row": 9,
       "col": 7
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 6
-    },
-    {
-      "row": 11,
-      "col": 7
-    },
-    {
-      "row": 11,
-      "col": 8
     }
   ],
-  "difficulty": "zor",
-  "order": 119
+  "difficulty": "orta",
+  "order": 95
 }

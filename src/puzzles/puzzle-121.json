@@ -1,179 +1,155 @@
 {
   "id": "puzzle-121",
-  "title": "Bulmaca 95",
-  "rows": 12,
+  "title": "Bulmaca 32",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Bağ, münasebet",
-      "answer": "İLİŞKİ",
+      "text": "Uysal kimse",
+      "answer": "MÜLAYİM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Akış hâli",
-      "answer": "AKMA",
+      "text": "Koruyucu gaz",
+      "answer": "OZON",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kramp",
-      "answer": "SPAZM",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kale sayısı",
-      "answer": "GOL",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çalışma mobilyası",
-      "answer": "MASA",
-      "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yılın son ayı",
-      "answer": "ARALIK",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Akşam yönü",
-      "answer": "BATI",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kıble nişi",
-      "answer": "MİHRAP",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yapışkan şerit",
-      "answer": "BANT",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kaplıca",
-      "answer": "ILICA",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Güç, takat",
-      "answer": "MECAL",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kin, garaz",
-      "answer": "HINÇ",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kement",
-      "answer": "LASO",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Savaşçı kadın",
-      "answer": "AMAZON",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "78 numaralı element",
-      "answer": "PLATİN",
+      "text": "Kazıma süslemesi",
+      "answer": "OYMA",
       "row": 2,
-      "col": 2,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Liman kıyısı",
-      "answer": "RIHTIM",
+      "text": "Sıradan, kalitesiz",
+      "answer": "ADİ",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sığ yemek kabı",
+      "answer": "SAHAN",
       "row": 4,
-      "col": 3,
-      "arrow": "down"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Toprak aleti",
-      "answer": "KAZMA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
+      "text": "Faal olan",
+      "answer": "ETKİN",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Aleyh karşıtı",
-      "answer": "LEH",
-      "row": 8,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Eksiği tamamlama",
-      "answer": "İKMAL",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Nişancı",
-      "answer": "ATICI",
+      "text": "Berzah",
+      "answer": "KISTAK",
       "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Üst mahkemeye başvurma",
+      "answer": "İSTİNAF",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "'Asla' ünlemi",
+      "answer": "SAKIN",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşırı tutkun",
+      "answer": "FANATİK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yürütme hakkı",
+      "answer": "YETKİ",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ders anlatısı",
+      "answer": "KISSA",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hekim yardımcısı",
+      "answer": "ASİSTAN",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hayır sözü",
+      "answer": "YO",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski değerli eşya",
+      "answer": "ANTİKA",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Anlatıp aydınlatma",
+      "answer": "İZAH",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sırbistan halkından",
-      "answer": "SIRP",
-      "row": 3,
+      "text": "Abide",
+      "answer": "ANIT",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yenilik düşkünlüğü",
+      "answer": "MODA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yaşam gücü",
-      "answer": "CAN",
-      "row": 8,
+      "text": "İnanmış",
+      "answer": "KANİ",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çok beyaz",
-      "answer": "APAK",
+      "text": "Büyükanne",
+      "answer": "NİNE",
       "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Toprak örtü malzemesi",
-      "answer": "MALÇ",
-      "row": 7,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
     {
       "row": 0,
       "col": 2
@@ -184,45 +160,25 @@
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
       "col": 7
-    },
-    {
-      "row": 1,
-      "col": 6
     },
     {
       "row": 2,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 4
+      "col": 2
     },
     {
       "row": 6,
       "col": 7
     },
     {
-      "row": 9,
+      "row": 8,
       "col": 0
     },
     {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 0
-    },
-    {
-      "row": 11,
-      "col": 2
+      "row": 8,
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 95
+  "difficulty": "kolay",
+  "order": 32
 }

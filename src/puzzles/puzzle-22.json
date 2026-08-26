@@ -1,189 +1,133 @@
 {
   "id": "puzzle-22",
-  "title": "Bulmaca 90",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 31",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Kızıl gezegen",
-      "answer": "MARS",
+      "text": "Yeme organı",
+      "answer": "AĞIZ",
       "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Amme",
-      "answer": "KAMU",
-      "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ev halkı",
-      "answer": "AİLE",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kaynamakta olan",
-      "answer": "KAYNAR",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Dokunulmaz",
-      "answer": "TABU",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Beğenmeme haykırışı",
-      "answer": "YUH",
-      "row": 4,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Peygamber arkadaşı",
-      "answer": "SAHABE",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Manevi varlık",
-      "answer": "RUH",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dilimli et",
-      "answer": "SALAM",
-      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Silah parçası",
-      "answer": "TETİK",
+      "text": "Ortaya konan yapıt",
+      "answer": "ESER",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Müzikal uyum",
+      "answer": "AKOR",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Felsefede düşünce",
+      "answer": "İDEA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tehlike kaygısı",
+      "answer": "KORKU",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Elden çıkarılan",
+      "answer": "ISKARTA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Koyun postu",
+      "answer": "PÖSTEKİ",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bitki bilimi",
-      "answer": "BOTANİK",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
+      "text": "Belge bütünü",
+      "answer": "DOSYA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Ekmekli çorba",
-      "answer": "PAPARA",
+      "text": "Yerleşik davranış",
+      "answer": "TEAMÜL",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dağ lalesi",
-      "answer": "ANEMON",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Günlük haber yayını",
-      "answer": "GAZETE",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Siyah dut",
-      "answer": "KARADUT",
+      "text": "En yaygın bağlaç",
+      "answer": "VE",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Boşa gitme",
-      "answer": "HEBA",
+      "text": "Zorba yönetici",
+      "answer": "DESPOT",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sakalsız erkek",
+      "answer": "KÖSE",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Organ salgısı",
-      "answer": "MUKUS",
+      "text": "Baklagillerden ağaç",
+      "answer": "AKASYA",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Boşluk, aralık",
+      "answer": "ARA",
       "row": 0,
-      "col": 3,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sarı değerli taş",
-      "answer": "TOPAZ",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İstanbul'un eski adı",
-      "answer": "ASİTANE",
+      "text": "Koşullar bütünü",
+      "answer": "ORTAM",
       "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tren yolu",
-      "answer": "RAY",
-      "row": 0,
+      "text": "Çentik işareti",
+      "answer": "KERTE",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Onur kırma",
-      "answer": "HAKARET",
+      "text": "Alın saçı",
+      "answer": "KAKÜL",
       "row": 4,
-      "col": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İşaret",
-      "answer": "SİNYAL",
+      "text": "Şiddetli, güç",
+      "answer": "ZORLU",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Mektup",
-      "answer": "NAME",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Senli benli",
-      "answer": "LAUBALİ",
-      "row": 1,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Sürülen ilaç",
-      "answer": "MERHEM",
-      "row": 0,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalın ve dayanıklı",
-      "answer": "KUNT",
-      "row": 7,
-      "col": 8,
       "arrow": "down"
     }
   ],
@@ -198,33 +142,49 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 3
     },
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 2
+    },
+    {
+      "row": 6,
       "col": 7
     },
     {
       "row": 8,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
       "col": 7
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
-    },
-    {
-      "row": 11,
-      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 90
+  "difficulty": "kolay",
+  "order": 31
 }

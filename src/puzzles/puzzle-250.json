@@ -1,0 +1,186 @@
+{
+  "id": "puzzle-250",
+  "title": "Bulmaca 187",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "İç sıkıntısı",
+      "answer": "KASVET",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Beyaz yağış",
+      "answer": "KAR",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Faşizm yanlısı",
+      "answer": "FAŞİST",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Vefalı",
+      "answer": "VEFAKAR",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dokudaki bozulma, bere",
+      "answer": "YARA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Basılış biçimi",
+      "answer": "BASKI",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mektup hizmeti",
+      "answer": "POSTA",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İşaret bayrağı",
+      "answer": "FLAMA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bin milyon",
+      "answer": "MİLYAR",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Çekişme, dövüş",
+      "answer": "KAVGA",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Damga, mühür",
+      "answer": "KAŞE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İstenmeyen ileti",
+      "answer": "SPAM",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Anlayışlı, sezgili",
+      "answer": "ARİF",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Garson yardımcısı",
+      "answer": "KOMİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dijital",
+      "answer": "SAYISAL",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sert içki",
+      "answer": "VOTKA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Donanma",
+      "answer": "ARMADA",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Padişah imzası",
+      "answer": "TUĞRA",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    }
+  ],
+  "difficulty": "zor",
+  "order": 187
+}

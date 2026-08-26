@@ -1,167 +1,132 @@
 {
   "id": "puzzle-120",
-  "title": "Bulmaca 47",
-  "rows": 11,
+  "title": "Bulmaca 69",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Bitki camlığı",
-      "answer": "SERA",
+      "text": "Post işleyen",
+      "answer": "KÜRKÇÜ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zilli çalgı",
-      "answer": "TEF",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Hamam görevlisi",
-      "answer": "TELLAK",
+      "text": "Toplamada aktarılan sayı",
+      "answer": "ELDE",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ünlü kadın sanatçı",
-      "answer": "DİVA",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Direksiyon parçası",
-      "answer": "ROT",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Diş çöpü",
-      "answer": "KÜRDAN",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yöntem",
-      "answer": "METOT",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hafif sis",
-      "answer": "PUS",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bilinç kaybı",
-      "answer": "KOMA",
-      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Mazot",
-      "answer": "MOTORİN",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Açılan yol",
-      "answer": "KANAL",
-      "row": 7,
+      "text": "Kalaylı sac",
+      "answer": "TENEKE",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çabalama",
-      "answer": "CEHT",
+      "text": "Kabarık olan",
+      "answer": "ŞİŞİK",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Heves, coşku",
+      "answer": "ŞEVK",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kareli kumaş",
+      "answer": "EKOSE",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tamirat",
+      "answer": "ONARIM",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Fayda",
+      "answer": "YARAR",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Göze çarpan parlaklık",
+      "answer": "PARILTI",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çizgili kedi",
-      "answer": "TEKİR",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ahlak kuralları",
-      "answer": "ETİK",
+      "text": "Jeneratör",
+      "answer": "ÜRETEÇ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Korkutan hayal",
-      "answer": "UMACI",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Sahne gösterisi",
-      "answer": "REVÜ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "14 dizeli şiir",
-      "answer": "SONE",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tehlike işareti",
-      "answer": "ALARM",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Hükümdar koltuğu",
-      "answer": "TAHT",
+      "text": "İğne süsü",
+      "answer": "OYA",
       "row": 6,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kenarları eşit",
+      "answer": "EŞKENAR",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Açık giyim",
-      "answer": "DEKOLTE",
-      "row": 3,
+      "text": "Odun ölçüsü",
+      "answer": "ÇEKİ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Cevizli sarımsaklı sos",
-      "answer": "TARATOR",
+      "text": "Eş, zevce",
+      "answer": "KARI",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bölüşülen pay",
+      "answer": "ÜLEŞ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İktisat",
-      "answer": "EKONOMİ",
-      "row": 0,
+      "text": "Ağız yoluyla",
+      "answer": "ORAL",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Gövdenin arka yüzü",
+      "answer": "SIRT",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Toprak fırın",
-      "answer": "TANDIR",
-      "row": 4,
+      "text": "Matematik eşitliği",
+      "answer": "DENKLEM",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -169,37 +134,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 2
     },
     {
       "row": 0,
-      "col": 7
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 2,
-      "col": 7
+      "col": 2
     },
     {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
+      "row": 3,
       "col": 6
     },
     {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
+      "row": 6,
       "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 47
+  "order": 69
 }

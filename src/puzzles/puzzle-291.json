@@ -1,0 +1,181 @@
+{
+  "id": "puzzle-291",
+  "title": "Bulmaca 138",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Sadık hayvan",
+      "answer": "KÖPEK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Din uğruna savaş",
+      "answer": "GAZA",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mağlubiyet",
+      "answer": "YENİLGİ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Pistonlu boru",
+      "answer": "TROMPET",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Anıtsal kapı",
+      "answer": "TAK",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yergi, taşlama",
+      "answer": "HİCİV",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Gerçek, hakiki",
+      "answer": "SAHİCİ",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kozalaklı ağaç",
+      "answer": "LADİN",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kayık türü",
+      "answer": "TEKNE",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce sicim",
+      "answer": "KAYTAN",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kendi yöneten",
+      "answer": "ÖZERK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Duyuru tahtası",
+      "answer": "PANO",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ülke insanları",
+      "answer": "HALK",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sınav",
+      "answer": "İMTİHAN",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kap tutamağı",
+      "answer": "KULP",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kastamonu ilçesi",
+      "answer": "CİDE",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalıcı olmayan",
+      "answer": "GEÇİCİ",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Umut",
+      "answer": "ÜMİT",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Yük kaldırma",
+      "answer": "VİNÇ",
+      "row": 5,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "orta",
+  "order": 138
+}

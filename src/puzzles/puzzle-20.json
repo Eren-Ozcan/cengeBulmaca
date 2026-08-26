@@ -1,152 +1,192 @@
 {
   "id": "puzzle-20",
-  "title": "Bulmaca 106",
+  "title": "Bulmaca 38",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Boş inanç",
-      "answer": "HURAFE",
+      "text": "Belirsiz haber",
+      "answer": "DUYUM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ara, aralık",
-      "answer": "FASILA",
+      "text": "Metal karışımı",
+      "answer": "ALAŞIM",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "İlmikli ip",
-      "answer": "KEMENT",
+      "text": "Dar keçiyolu",
+      "answer": "PATİKA",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kağıt tutturucu",
+      "answer": "ZIMBA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kemiyet",
-      "answer": "NİCELİK",
-      "row": 5,
+      "text": "Gamın ilk notası",
+      "answer": "DO",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tanıtım levhası",
-      "answer": "TABELA",
+      "text": "İzmir'in bağ ilçesi",
+      "answer": "URLA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Letonya'nın başkenti",
+      "answer": "RİGA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mor süs taşı",
+      "answer": "AMETİST",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İçten bağlılık",
-      "answer": "SADAKAT",
+      "text": "Su akıtma borusu",
+      "answer": "AKAÇ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Evcil hayvan",
-      "answer": "PET",
+      "text": "Akım geçiren",
+      "answer": "İLETKEN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kafiye",
-      "answer": "UYAK",
+      "text": "İstemeyerek",
+      "answer": "ZORAKİ",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bina",
+      "answer": "YAPI",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Paylama, azarlama",
-      "answer": "İTAP",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Namaz kilimi",
-      "answer": "SECCADE",
-      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yük hareketi",
-      "answer": "AKIM",
+      "text": "Üretim işlemi",
+      "answer": "İMAL",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kategori",
+      "answer": "ULAM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ölçüler",
-      "answer": "EBAT",
+      "text": "Saat başını geçerek",
+      "answer": "GEÇE",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Göçmen kuş",
-      "answer": "LEYLEK",
-      "row": 2,
+      "text": "Basın",
+      "answer": "MATBUAT",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Namaza çağrı",
-      "answer": "EZAN",
+      "text": "Düstur",
+      "answer": "ŞİAR",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Seyrek karşıtı",
+      "answer": "SIK",
       "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Mahkeme belgesi",
-      "answer": "İLAM",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Güç, derman",
-      "answer": "TAKAT",
-      "row": 3,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yazılı dizi",
+      "answer": "LİSTE",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Pik",
+      "answer": "MAÇA",
+      "row": 1,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
+      "col": 7
     },
     {
       "row": 2,
-      "col": 6
+      "col": 0
     },
     {
-      "row": 9,
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
       "col": 4
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 106
+  "difficulty": "kolay",
+  "order": 38
 }

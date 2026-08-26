@@ -1,182 +1,126 @@
 {
   "id": "puzzle-172",
-  "title": "Bulmaca 127",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 152",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Yakalı üst giysi",
-      "answer": "GÖMLEK",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Özdeyiş",
-      "answer": "VECİZE",
-      "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kâr amaçsız kuruluş",
-      "answer": "DERNEK",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yapı bağlayıcısı",
-      "answer": "ÇİMENTO",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kimlik belgesi",
-      "answer": "KART",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Taşkınlık",
-      "answer": "İFRAT",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Dar karşıtı",
-      "answer": "BOL",
-      "row": 6,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Süs çiçeği",
-      "answer": "LALE",
-      "row": 7,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Pozitif bilim",
-      "answer": "FEN",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yargılanan kimse",
-      "answer": "SANIK",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bulunulan yer",
-      "answer": "MEKAN",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Anıt mezar",
-      "answer": "MOZOLE",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Korkup vazgeçmiş",
-      "answer": "YILGIN",
-      "row": 11,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Destansı",
-      "answer": "EPİK",
+      "text": "Süsleme motifi",
+      "answer": "BEZEK",
       "row": 1,
       "col": 1,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Nota işareti",
-      "answer": "BEMOL",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yumurtalı sos",
-      "answer": "MAYONEZ",
-      "row": 3,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Masraf",
-      "answer": "GİDER",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Deniz girintisi",
-      "answer": "KOY",
-      "row": 8,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Benzeme çabası",
-      "answer": "ÖZENTİ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İkinci gün",
-      "answer": "SALI",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Güvenilir, dürüst",
-      "answer": "MERT",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yumuşak kumaş",
-      "answer": "FLANEL",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaba, sert",
-      "answer": "NOBRAN",
+      "text": "Çok sevilen",
+      "answer": "İDOL",
       "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Temel besin",
+      "answer": "EKMEK",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Işık kaynağı",
+      "answer": "AMPUL",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hasta yatağı",
+      "answer": "SEDYE",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Işınla görüntüleme",
+      "answer": "RÖNTGEN",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Evlilik dışı ilişki",
+      "answer": "ZİNA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Pres",
+      "answer": "CENDERE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Peru'nun başkenti",
+      "answer": "LİMA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yeniliğe karşı",
+      "answer": "GERİCİ",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Zaman dilimi",
+      "answer": "DÖNEM",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eşin annesi",
+      "answer": "KAYNANA",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Üste kalan borç",
+      "answer": "ZİMMET",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Terbiyeli davranış",
+      "answer": "EDEP",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Makine yağı",
+      "answer": "GRES",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Burun duyumu",
+      "answer": "KOKU",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İktibas",
-      "answer": "ALINTI",
-      "row": 5,
+      "text": "Büyük bakır kap",
+      "answer": "LENGER",
+      "row": 3,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Saat zinciri",
-      "answer": "KÖSTEK",
-      "row": 2,
-      "col": 8,
       "arrow": "down"
     }
   ],
@@ -195,49 +139,57 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 3
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 0,
-      "col": 8
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 6,
       "col": 0
     },
     {
-      "row": 9,
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
       "col": 6
     },
     {
       "row": 9,
-      "col": 8
+      "col": 4
     },
     {
-      "row": 10,
+      "row": 9,
       "col": 6
-    },
-    {
-      "row": 10,
-      "col": 8
-    },
-    {
-      "row": 11,
-      "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 127
+  "difficulty": "orta",
+  "order": 152
 }

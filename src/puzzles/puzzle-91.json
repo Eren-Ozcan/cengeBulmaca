@@ -1,171 +1,192 @@
 {
   "id": "puzzle-91",
-  "title": "Bulmaca 45",
+  "title": "Bulmaca 42",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Baldızın kocası",
-      "answer": "BACANAK",
+      "text": "Kesintisiz gelişme",
+      "answer": "EVRİM",
       "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gece eğlencesi",
+      "answer": "BALO",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eğiklik, eğim",
+      "answer": "MEYİL",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ankara ilçesi",
-      "answer": "AYAŞ",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ara bulucu",
-      "answer": "ARACI",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ezan kulesi",
-      "answer": "MİNARE",
+      "text": "Tel bölme",
+      "answer": "KAFES",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dişi çocuk",
-      "answer": "KIZ",
+      "text": "Harman savurma aracı",
+      "answer": "YABA",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Rumen parası",
-      "answer": "LEU",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağıt şiiri",
-      "answer": "MERSİYE",
-      "row": 6,
+      "text": "Deniz taşıtı",
+      "answer": "GEMİ",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Söylence, efsane",
-      "answer": "MİT",
-      "row": 8,
+      "text": "Gemisiyle ünlü peygamber",
+      "answer": "NUH",
+      "row": 6,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yüksek sesle gülme",
+      "answer": "KAHKAHA",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yapma yüz",
-      "answer": "MASKE",
-      "row": 9,
-      "col": 1,
+      "text": "Yürüyen kimse",
+      "answer": "YAYA",
+      "row": 8,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Belirtke",
-      "answer": "AMBLEM",
-      "row": 2,
+      "text": "Konuk",
+      "answer": "MİSAFİR",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Küme, grup",
+      "answer": "ÖBEK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yürürlükteki",
-      "answer": "CARİ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Menzil",
-      "answer": "ERİM",
+      "text": "Eklentisi olan",
+      "answer": "EKLİ",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kutsal pınar",
+      "answer": "AYAZMA",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Belli, aşikâr",
-      "answer": "AYAN",
+      "text": "İlk Arap harfi",
+      "answer": "ELİF",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İşin ehli",
-      "answer": "USTA",
+      "text": "Yeniden canlandırma",
+      "answer": "İHYA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Odun baltası",
-      "answer": "NACAK",
+      "text": "File sporu",
+      "answer": "VOLEY",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çok fazla",
-      "answer": "AŞIRI",
-      "row": 0,
+      "text": "Efsanevi dağ",
+      "answer": "KAF",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Endüstri",
+      "answer": "SANAYİ",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bakmadan",
-      "answer": "EZBERE",
-      "row": 3,
+      "text": "Gaz hâli",
+      "answer": "BUHAR",
+      "row": 4,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kesimevi",
+      "answer": "MEZBAHA",
+      "row": 0,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 0
+    },
+    {
+      "row": 2,
+      "col": 5
     },
     {
       "row": 2,
       "col": 6
     },
     {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 4
-    },
-    {
-      "row": 6,
-      "col": 5
+      "row": 3,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 5
+      "col": 7
     },
     {
       "row": 9,
-      "col": 0
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 45
+  "order": 42
 }

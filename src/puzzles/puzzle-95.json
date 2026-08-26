@@ -1,189 +1,126 @@
 {
   "id": "puzzle-95",
-  "title": "Bulmaca 108",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 103",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Tasvir",
-      "answer": "BETİM",
-      "row": 0,
-      "col": 4,
+      "text": "Hamur açacağı",
+      "answer": "OKLAVA",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Fiyat artışı",
+      "answer": "ZAM",
+      "row": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İplik sarılan",
-      "answer": "MAKARA",
-      "row": 2,
-      "col": 0,
+      "text": "Batı savunma ittifakı",
+      "answer": "NATO",
+      "row": 3,
+      "col": 3,
       "arrow": "right"
+    },
+    {
+      "text": "Aksine",
+      "answer": "TERSİNE",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kaygı, dert",
+      "answer": "TASA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Selçuklu lalası",
+      "answer": "ATABEY",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Muhtemel",
+      "answer": "OLASI",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Dil",
+      "answer": "LİSAN",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilgiçlik taslayan",
+      "answer": "UKALA",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Renk dizisi",
+      "answer": "TAYF",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
     },
     {
       "text": "Sırt kemiği",
       "answer": "OMURGA",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
     },
     {
-      "text": "Nazlı, işveli",
-      "answer": "EDALI",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Oymak, kabile",
-      "answer": "AŞİRET",
+      "text": "Aşçı ilimiz",
+      "answer": "BOLU",
       "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Para yüzü",
-      "answer": "TURA",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Çocuk dilinde idrar",
-      "answer": "ÇİŞ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Klik",
-      "answer": "HİZİP",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Koyun-keçi",
-      "answer": "DAVAR",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Diyelim ki",
-      "answer": "FARAZA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tekrarlanan söz",
-      "answer": "REDİF",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dokuma bitkisi",
-      "answer": "KETEN",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Havadaki akışkan",
-      "answer": "GAZ",
-      "row": 11,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Yenilik düşkünlüğü",
-      "answer": "MODA",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yönetme",
-      "answer": "İDARE",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Üçüncü Yunan harfi",
-      "answer": "GAMA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Belirti, jest",
-      "answer": "İŞARET",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarımsı at donu",
-      "answer": "KULA",
-      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ödeme süresi",
-      "answer": "VADE",
-      "row": 7,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sulh",
-      "answer": "BARIŞ",
-      "row": 0,
+      "text": "Vasıf",
+      "answer": "NİTELİK",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hüzünlü, dokunaklı",
-      "answer": "HAZİN",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İş birimi",
-      "answer": "ERG",
-      "row": 0,
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Suçunu söyleme",
-      "answer": "İTİRAF",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Askerî hücum",
-      "answer": "TAARRUZ",
+      "text": "Hız dişlisi",
+      "answer": "VİTES",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sıkıntısız, huzurlu",
-      "answer": "ERİNÇ",
-      "row": 4,
-      "col": 7,
+      "text": "Su taşıtı",
+      "answer": "SAL",
+      "row": 6,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Söz söylenen kişi",
-      "answer": "MUHATAP",
-      "row": 0,
-      "col": 8,
+      "text": "Namına, hesabına",
+      "answer": "ADINA",
+      "row": 4,
+      "col": 7,
       "arrow": "down"
     }
   ],
@@ -202,11 +139,19 @@
     },
     {
       "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 0
+      "row": 2,
+      "col": 3
     },
     {
       "row": 2,
@@ -214,45 +159,21 @@
     },
     {
       "row": 3,
-      "col": 7
+      "col": 1
     },
     {
-      "row": 5,
+      "row": 7,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 3
-    },
-    {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 8
+      "col": 0
     },
     {
       "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 8
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 7
-    },
-    {
-      "row": 10,
-      "col": 8
+      "col": 0
     }
   ],
   "difficulty": "orta",
-  "order": 108
+  "order": 103
 }

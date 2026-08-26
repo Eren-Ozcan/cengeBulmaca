@@ -1,152 +1,159 @@
 {
   "id": "puzzle-42",
-  "title": "Bulmaca 67",
-  "rows": 11,
+  "title": "Bulmaca 5",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Aksine",
-      "answer": "TERSİNE",
+      "text": "Mücevher",
+      "answer": "CEVAHİR",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yuvarlak nesne",
-      "answer": "DİSK",
+      "text": "Sığınak",
+      "answer": "KORUNAK",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Köşe vuruşu",
-      "answer": "KORNER",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Emziren kadın",
-      "answer": "SÜTANNE",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Enerji ölçü birimi",
-      "answer": "KALORİ",
-      "row": 4,
+      "text": "Olmaksızın",
+      "answer": "BİLA",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
-    },
-    {
-      "text": "Kadın elbisesi",
-      "answer": "ROP",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çarpan sayı",
-      "answer": "KATSAYI",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İş verme",
-      "answer": "İHALE",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
     },
     {
       "text": "Koruyucu uygulama",
       "answer": "AŞI",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bor tuzu",
-      "answer": "BORAKS",
-      "row": 10,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Aç karşıtı",
-      "answer": "TOK",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Hükümdar yapısı",
-      "answer": "SARAY",
       "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Tütün alkaloidi",
+      "answer": "NİKOTİN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Minare balkonu",
+      "answer": "ŞEREFE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eli işe yatkın",
+      "answer": "HAMARAT",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yeterince olan",
+      "answer": "YETERLİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Açı ölçme aracı",
+      "answer": "İLETKİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tarladaki tahıl",
+      "answer": "EKİN",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İç çamaşırı",
-      "answer": "KÜLOT",
-      "row": 2,
+      "text": "Yaygınlaşmış haber",
+      "answer": "ŞAYİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağ atma",
+      "answer": "VOLİ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ceset incelemesi",
-      "answer": "OTOPSİ",
-      "row": 2,
+      "text": "İstek, arzu",
+      "answer": "EMEL",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kamış içkisi",
+      "answer": "ARAK",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sidik",
-      "answer": "İDRAR",
+      "text": "Başarısız olmuş",
+      "answer": "RATE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Zikir sözü",
+      "answer": "HU",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hattat kâğıdı cilası",
-      "answer": "AHAR",
-      "row": 6,
+      "text": "Hafif müzikli oyun",
+      "answer": "OPERET",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Uyutma türküsü",
-      "answer": "NİNNİ",
+      "text": "Ayak direme",
+      "answer": "İNAT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sevinç sözü",
-      "answer": "YAŞA",
-      "row": 6,
+      "text": "Ayrım noktası",
+      "answer": "FARK",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sağlıklı",
-      "answer": "ESEN",
+      "text": "Rüşvet veren",
+      "answer": "RAŞİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Soğuk-sıcak arası",
-      "answer": "ILIK",
-      "row": 6,
+      "text": "Eti çok",
+      "answer": "ETLİ",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Süt tatlısı",
-      "answer": "KREMA",
+      "text": "Boyama bitkisi",
+      "answer": "KINA",
       "row": 1,
       "col": 7,
       "arrow": "down"
@@ -155,57 +162,25 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 7
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 5,
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 6
+      "row": 6,
+      "col": 7
     },
     {
       "row": 7,
       "col": 7
     },
     {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 2
-    },
-    {
       "row": 9,
       "col": 7
-    },
-    {
-      "row": 10,
-      "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 67
+  "difficulty": "kolay",
+  "order": 5
 }

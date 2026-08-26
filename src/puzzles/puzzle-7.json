@@ -1,160 +1,153 @@
 {
   "id": "puzzle-7",
-  "title": "Bulmaca 63",
-  "rows": 11,
+  "title": "Bulmaca 2",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Açık mor",
-      "answer": "EFLATUN",
-      "row": 0,
+      "text": "Elektrik dönüştürücü",
+      "answer": "TRAFO",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Benzer, benzeyen",
+      "answer": "GİBİ",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güzel sanat",
-      "answer": "SANAT",
+      "text": "Yer kabartısı",
+      "answer": "DAĞ",
       "row": 2,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sihirli sıvı",
-      "answer": "İKSİR",
+      "text": "Sakat, engelli",
+      "answer": "MALUL",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Açık kahverengi",
-      "answer": "BEJ",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Şampiyonluk ödülü",
-      "answer": "KUPA",
+      "text": "Özlenen memleket",
+      "answer": "SILA",
       "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İnceltici kimyasal",
-      "answer": "TİNER",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Karşılaşmalar kümesi",
-      "answer": "LİG",
-      "row": 5,
+      "text": "Kimsesiz, zavallı",
+      "answer": "GARİP",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sığınak",
-      "answer": "KORUNAK",
-      "row": 7,
+      "text": "Cankurtaran sandalı",
+      "answer": "FİLİKA",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üst sınır",
-      "answer": "LİMİT",
+      "text": "Serbestlikçi",
+      "answer": "LİBERAL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şaka",
+      "answer": "LATİFE",
       "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Aile adı",
-      "answer": "SOYADI",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İri bezelye",
-      "answer": "ARAKA",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
+      "text": "Moldova'nın başkenti",
+      "answer": "KİŞİNEV",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Ses bilgisi",
-      "answer": "FONETİK",
+      "text": "Tekrar isteği",
+      "answer": "BİS",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kadın parasıyla geçinen",
-      "answer": "JİGOLO",
+      "text": "Gösterişli, havalı",
+      "answer": "AFİLİ",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kurbağa yavrusu",
+      "answer": "İRİBAŞ",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Baş kaldıran",
-      "answer": "ASİ",
+      "text": "Küçük ekip",
+      "answer": "TİM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İkiyüzlülük",
-      "answer": "RİYA",
-      "row": 6,
+      "text": "Mesaj",
+      "answer": "İLETİ",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yarım küre başlık",
-      "answer": "TAKKE",
-      "row": 0,
+      "text": "Ağrı kesici hap",
+      "answer": "ASPİRİN",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çare",
-      "answer": "UMAR",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Öge",
-      "answer": "UNSUR",
+      "text": "Şu adı taşıyan",
+      "answer": "ADLI",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Seslenme, çağırma; ünlem",
-      "answer": "NİDA",
-      "row": 6,
+      "text": "Kahve içilen yer",
+      "answer": "KAFE",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hükümdar vekili",
-      "answer": "NAİP",
+      "text": "Kural dışı",
+      "answer": "FAUL",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kullanılmış madde",
-      "answer": "ATIK",
-      "row": 6,
+      "text": "Ateş dili",
+      "answer": "ALEV",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yol hareketliliği",
-      "answer": "TRAFİK",
-      "row": 1,
+      "text": "Erkek çocuk",
+      "answer": "OĞLAN",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -162,23 +155,27 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
+      "col": 4
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 6,
       "col": 7
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 0
+      "row": 7,
+      "col": 7
     },
     {
       "row": 8,
@@ -187,16 +184,8 @@
     {
       "row": 9,
       "col": 7
-    },
-    {
-      "row": 10,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 63
+  "difficulty": "kolay",
+  "order": 2
 }

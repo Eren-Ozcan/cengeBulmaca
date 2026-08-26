@@ -1,181 +1,125 @@
 {
   "id": "puzzle-33",
-  "title": "Bulmaca 94",
-  "rows": 12,
+  "title": "Bulmaca 73",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Hafif topal",
-      "answer": "AKSAK",
+      "text": "Bölünmüş ödeme",
+      "answer": "TAKSİT",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yeni yaratım",
-      "answer": "İCAT",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hekim yardımcısı",
-      "answer": "ASİSTAN",
-      "row": 3,
+      "text": "Amerika kedigili",
+      "answer": "JAGUAR",
+      "row": 2,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Sistemli bilgi",
-      "answer": "BİLİM",
+      "text": "Bilgi kaydı",
+      "answer": "KÜNYE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Emek, çaba",
-      "answer": "SAY",
+      "text": "Son gün",
+      "answer": "PAZAR",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dümen kolu",
-      "answer": "YEKE",
-      "row": 5,
+      "text": "Boşa çıkarma",
+      "answer": "ISKA",
+      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Tutsaklık",
-      "answer": "ESARET",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İşçi başlığı",
-      "answer": "BARET",
+      "text": "Saç kurutma",
+      "answer": "FÖN",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İnce, nazik",
-      "answer": "KİBAR",
-      "row": 8,
-      "col": 2,
+      "text": "Cenaze, ölü beden",
+      "answer": "NAAŞ",
+      "row": 7,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gülünç duruma düşen",
-      "answer": "MASKARA",
+      "text": "Av köpeği",
+      "answer": "TAZI",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Belediye kolluğu",
+      "answer": "ZABITA",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ay halkası",
-      "answer": "HALE",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hayvan ölüsü",
-      "answer": "LEŞ",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Renkli kâğıt parçaları",
-      "answer": "KONFETİ",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Merak sözü",
-      "answer": "ACABA",
+      "text": "İri bezelye",
+      "answer": "ARAKA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Akılsız kimse",
-      "answer": "AHMAK",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kasa görevlisi",
-      "answer": "KASİYER",
-      "row": 0,
+      "text": "Sonbaharda",
+      "answer": "GÜZÜN",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Telefon sözü",
-      "answer": "ALO",
-      "row": 8,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tarz, üslup",
-      "answer": "STİL",
+      "text": "Buhar banyosu",
+      "answer": "SAUNA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yetmiş dokuzdan sonra",
-      "answer": "SEKSEN",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalça siniri",
-      "answer": "SİYATİK",
+      "text": "Teferruat",
+      "answer": "AYRINTI",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kat kat börek",
-      "answer": "KATMER",
+      "text": "Salata bitkisi",
+      "answer": "TERE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sahne dansı",
-      "answer": "BALE",
-      "row": 7,
+      "text": "Zaman aracı",
+      "answer": "SAAT",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Günah bedeli",
-      "answer": "KEFARET",
-      "row": 4,
+      "text": "İstemsiz olay",
+      "answer": "KAZA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Soru araştırması",
-      "answer": "ANKET",
+      "text": "Ağlarken akan",
+      "answer": "GÖZYAŞI",
       "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Rüşvet veren",
-      "answer": "RAŞİ",
-      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -183,7 +127,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
       "row": 0,
@@ -206,10 +150,34 @@
       "col": 6
     },
     {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 1
+    },
+    {
       "row": 8,
       "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 94
+  "difficulty": "kolay",
+  "order": 73
 }

@@ -1,165 +1,135 @@
 {
   "id": "puzzle-137",
-  "title": "Bulmaca 33",
-  "rows": 11,
+  "title": "Bulmaca 175",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Eşya bölümü",
-      "answer": "BAGAJ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ev üstü",
-      "answer": "DAM",
-      "row": 2,
-      "col": 0,
+      "text": "Rengarenk",
+      "answer": "ELVAN",
+      "row": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Cilveli davranış",
-      "answer": "NAZ",
-      "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Renk dizisi",
-      "answer": "TAYF",
+      "text": "İş bırakma",
+      "answer": "GREV",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Verimli düzlük",
-      "answer": "OVA",
-      "row": 3,
+      "text": "Törpü",
+      "answer": "EĞE",
+      "row": 4,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "İzlence",
-      "answer": "PROGRAM",
+      "text": "Saat yüzü",
+      "answer": "KADRAN",
       "row": 4,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Özel söz",
-      "answer": "TERİM",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gecikme",
-      "answer": "RÖTAR",
-      "row": 5,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Besleme, bakma",
-      "answer": "İAŞE",
-      "row": 7,
-      "col": 3,
+      "text": "Yedi kenarlı",
+      "answer": "YEDİGEN",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İnce havlu",
-      "answer": "PEŞKİR",
-      "row": 8,
+      "text": "Önder",
+      "answer": "LİDER",
+      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Prensip",
-      "answer": "İLKE",
-      "row": 9,
-      "col": 3,
+      "text": "Karşılıklı konuşma",
+      "answer": "DİYALOG",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalp düzensizliği",
-      "answer": "ARİTMİ",
-      "row": 9,
+      "text": "Bedensel özürlü",
+      "answer": "SAKAT",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uyarlayıcı parça",
-      "answer": "ADAPTÖR",
+      "text": "Akademili subay",
+      "answer": "KURMAY",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çaba",
-      "answer": "GAYRET",
-      "row": 0,
+      "text": "Rusça 'evet'",
+      "answer": "DA",
+      "row": 7,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük açıklık",
+      "answer": "DELİK",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sivri dipli testi",
-      "answer": "AMFORA",
-      "row": 0,
+      "text": "Çalışma nöbeti",
+      "answer": "VARDİYA",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Teşebbüs",
-      "answer": "GİRİŞİM",
-      "row": 3,
+      "text": "Üyelik ücreti",
+      "answer": "AİDAT",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kural, ölçüt",
-      "answer": "NORM",
-      "row": 1,
+      "text": "Ucu eğri kanca",
+      "answer": "ÇENGEL",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Akılla ilgili",
-      "answer": "AKLİ",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bakla ezmesi",
-      "answer": "FAVA",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kapı basamağı",
-      "answer": "EŞİK",
+      "text": "Yunan aşk tanrısı",
+      "answer": "EROS",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yapıştırıcı madde",
-      "answer": "ZAMK",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Amaç, hedef",
-      "answer": "EREK",
-      "row": 6,
+      "text": "Öz, çekirdek",
+      "answer": "NÜVE",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
     {
       "row": 0,
       "col": 4
@@ -170,6 +140,34 @@
     },
     {
       "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 4
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
       "col": 7
     },
     {
@@ -178,25 +176,17 @@
     },
     {
       "row": 7,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 0
+      "col": 7
     },
     {
       "row": 9,
-      "col": 1
+      "col": 5
     },
     {
       "row": 9,
-      "col": 2
-    },
-    {
-      "row": 10,
-      "col": 6
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 33
+  "difficulty": "zor",
+  "order": 175
 }

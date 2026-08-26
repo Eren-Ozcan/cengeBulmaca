@@ -1,152 +1,138 @@
 {
   "id": "puzzle-60",
-  "title": "Bulmaca 82",
-  "rows": 11,
+  "title": "Bulmaca 120",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Açığa çıkarma",
-      "answer": "İFŞA",
+      "text": "Dal izi",
+      "answer": "BUDAK",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Söylence, efsane",
+      "answer": "MİT",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Cilt, deri",
+      "answer": "TEN",
       "row": 1,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Cıvık hamur",
+      "answer": "BULAMAÇ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yarışma çekişmesi",
+      "answer": "REKABET",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Toplu konut",
+      "answer": "SİTE",
+      "row": 5,
       "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Akım birimi",
+      "answer": "AMPER",
+      "row": 6,
+      "col": 2,
       "arrow": "right"
     },
     {
       "text": "Asker yapısı",
       "answer": "KIŞLA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Barınaksız kimse",
+      "answer": "EVSİZ",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tikel",
+      "answer": "KISMİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aldırış etme",
+      "answer": "UMUR",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses özelliği",
+      "answer": "TINI",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Temenni",
+      "answer": "DİLEK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Girişken, çevik",
+      "answer": "ATAK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde dünya",
+      "answer": "ALEM",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok mavi",
+      "answer": "MASMAVİ",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İşlenmiş hayvan derisi",
-      "answer": "GÖN",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ürün toprağı",
-      "answer": "TARLA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sarı maden",
-      "answer": "ALTIN",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kafkasya'da bir halk",
-      "answer": "AVAR",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mal getirme",
-      "answer": "İTHAL",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çok bilgili",
-      "answer": "ALLAME",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sevgili kadın",
-      "answer": "CANAN",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kokulu sıvı",
-      "answer": "ESANS",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Elektrik kaynağı",
-      "answer": "PİL",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Deri kabarcığı",
-      "answer": "SİVİLCE",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Halk dilinde ağabey",
-      "answer": "AKA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Harita kitabı",
-      "answer": "ATLAS",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kurutulmuş çorbalık",
-      "answer": "TARHANA",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ele geçirme",
-      "answer": "İŞGAL",
-      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yardım sözü",
-      "answer": "AMAN",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Aşk yakınlaşması",
-      "answer": "FLÖRT",
-      "row": 0,
+      "text": "Hasta tedavicisi",
+      "answer": "TABİP",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Göz merceği",
-      "answer": "LENS",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Ünlü, şerefli",
-      "answer": "ŞANLI",
+      "text": "Doktor kâğıdı",
+      "answer": "REÇETE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Anket yapan",
-      "answer": "ANKETÖR",
+      "text": "Tartı aleti",
+      "answer": "TERAZİ",
       "row": 3,
       "col": 7,
       "arrow": "down"
@@ -155,11 +141,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 4
     },
     {
       "row": 0,
-      "col": 3
+      "col": 5
     },
     {
       "row": 0,
@@ -167,37 +153,29 @@
     },
     {
       "row": 1,
-      "col": 1
-    },
-    {
-      "row": 2,
       "col": 7
     },
     {
-      "row": 4,
+      "row": 5,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 6
+      "row": 7,
+      "col": 5
     },
     {
       "row": 7,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 6
+      "row": 9,
+      "col": 5
     },
     {
       "row": 9,
       "col": 6
-    },
-    {
-      "row": 10,
-      "col": 6
     }
   ],
   "difficulty": "orta",
-  "order": 82
+  "order": 120
 }

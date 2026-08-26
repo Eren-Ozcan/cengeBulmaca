@@ -1,158 +1,178 @@
 {
   "id": "puzzle-155",
-  "title": "Bulmaca 40",
+  "title": "Bulmaca 70",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Söz, lakırdı",
-      "answer": "LAF",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Modası geçmiş",
-      "answer": "DEMODE",
-      "row": 2,
+      "text": "Örtme nesnesi",
+      "answer": "KAPAK",
+      "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zorunluluk",
-      "answer": "ZARURET",
+      "text": "Ay ücreti",
+      "answer": "AYLIK",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sıvı aracı",
-      "answer": "HUNİ",
-      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Besin",
-      "answer": "GIDA",
+      "text": "Yüksek düzlük",
+      "answer": "YAYLA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Marmara'da tatil adası",
+      "answer": "AVŞA",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İbadet yeri",
+      "answer": "CAMİ",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Geometrik sanat akımı",
-      "answer": "KÜBİZM",
+      "text": "Kahve satan",
+      "answer": "KAHVECİ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dilbilimci",
-      "answer": "DİLCİ",
+      "text": "Muayene yeri",
+      "answer": "KLİNİK",
       "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yetişkin, reşit",
-      "answer": "ERGİN",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "24 saatlik süre",
-      "answer": "GÜN",
-      "row": 8,
+      "text": "Direnme, üsteleme",
+      "answer": "ISRAR",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ufak ada",
-      "answer": "ADACIK",
+      "text": "Sıradan",
+      "answer": "OLAĞAN",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Sütün üstü",
+      "answer": "KAYMAK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Işıltı, parlaklık",
-      "answer": "FER",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğal kuyu",
-      "answer": "DÜDEN",
+      "text": "Mikro karşıtı",
+      "answer": "MAKRO",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Haber toplayan",
-      "answer": "MUHABİR",
-      "row": 1,
+      "text": "Hisse, parça",
+      "answer": "PAY",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yöneltilen söz",
-      "answer": "SORU",
+      "text": "Zarar verme",
+      "answer": "İHLAL",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Işık halkası",
+      "answer": "AYLA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İptal etme",
-      "answer": "İLGA",
+      "text": "Aralıksız, durmadan",
+      "answer": "VİRA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Denizde çalışan",
-      "answer": "DENİZCİ",
-      "row": 1,
+      "text": "Çembalo",
+      "answer": "KLAVSEN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Resimde varlık biçimi",
-      "answer": "BETİ",
-      "row": 0,
+      "text": "Parlatma maddesi",
+      "answer": "CİLA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Küçük, kısa",
-      "answer": "MİNİ",
-      "row": 5,
-      "col": 6,
+      "text": "Eskimeyen",
+      "answer": "KLASİK",
+      "row": 1,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 7,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 3
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 5
+      "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 40
+  "order": 70
 }

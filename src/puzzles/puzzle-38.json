@@ -1,153 +1,188 @@
 {
   "id": "puzzle-38",
-  "title": "Bulmaca 15",
+  "title": "Bulmaca 24",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Paraya düşkün",
-      "answer": "PARAGÖZ",
+      "text": "Merak sözü",
+      "answer": "ACABA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yivli eleman",
-      "answer": "VİDA",
+      "text": "Osmanlı yönetim birimi",
+      "answer": "EYALET",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Atlama şemsiyesi",
-      "answer": "PARAŞÜT",
+      "text": "Uçtan geniş etek",
+      "answer": "EVAZE",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Basma başörtü",
-      "answer": "YEMENİ",
+      "text": "Abidevi",
+      "answer": "ANITSAL",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hükümdar başlığı",
-      "answer": "TAÇ",
+      "text": "Sicim, halat",
+      "answer": "İP",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İşve, naz",
+      "answer": "EDA",
       "row": 5,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Sarmal",
-      "answer": "SPİRAL",
+      "text": "Konut",
+      "answer": "MESKEN",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Buğday unu özü",
+      "answer": "NİŞASTA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ayrıştırılamayan madde",
-      "answer": "ELEMENT",
-      "row": 7,
+      "text": "Niçin",
+      "answer": "NİYE",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İstanbul'un eski adı",
+      "answer": "ASİTANE",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çarşı sokağı",
-      "answer": "ARASTA",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Göreve talip",
-      "answer": "ADAY",
+      "text": "Yanıt",
+      "answer": "CEVAP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hiçbir zaman, kesinlikle",
-      "answer": "ASLA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Toprak işçisi",
-      "answer": "RENÇPER",
-      "row": 2,
+      "text": "Belli, aşikâr",
+      "answer": "AYAN",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sıradan halk",
-      "answer": "AVAM",
+      "text": "Küçük, kısa",
+      "answer": "MİNİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kimi",
+      "answer": "BAZI",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Üstü kapalı anlatma",
-      "answer": "İMA",
-      "row": 6,
+      "text": "Aynı değerde",
+      "answer": "EŞİT",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bilet penceresi",
-      "answer": "GİŞE",
+      "text": "Araç, avadanlık",
+      "answer": "ALET",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Makine yağı",
-      "answer": "GRES",
+      "text": "Ayakkabının üst yüzü",
+      "answer": "SAYA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Geçici alınan",
-      "answer": "ÖDÜNÇ",
-      "row": 0,
+      "text": "Yetmiş dokuzdan sonra",
+      "answer": "SEKSEN",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yemin",
-      "answer": "ANT",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Zaten",
-      "answer": "ZATİ",
-      "row": 0,
+      "text": "Sayı, tane",
+      "answer": "ADET",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Balık aracı",
-      "answer": "OLTA",
-      "row": 5,
-      "col": 6,
+      "text": "İmkân",
+      "answer": "OLANAK",
+      "row": 2,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 5
     },
     {
-      "row": 5,
-      "col": 3
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 15
+  "order": 24
 }

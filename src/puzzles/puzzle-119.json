@@ -1,224 +1,140 @@
 {
   "id": "puzzle-119",
-  "title": "Bulmaca 18",
-  "rows": 13,
-  "cols": 9,
+  "title": "Bulmaca 136",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "En sıcak mevsim",
-      "answer": "YAZ",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağız yoluyla",
-      "answer": "ORAL",
-      "row": 1,
-      "col": 0,
+      "text": "Rahatsız böcek",
+      "answer": "SİNEK",
+      "row": 0,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Sanat akımı",
-      "answer": "EKOL",
+      "text": "Referandum",
+      "answer": "HALKOYU",
       "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Belirti",
-      "answer": "BELGİ",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kabuk kırığı",
-      "answer": "FAY",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İlk Arap harfi",
-      "answer": "ELİF",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Gebe",
-      "answer": "HAMİLE",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Uzak taraf",
-      "answer": "ÖTE",
-      "row": 5,
+      "text": "Uydurma sebep",
+      "answer": "BAHANE",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bölünmüş sayı",
-      "answer": "KESİR",
+      "text": "Ayakyolu",
+      "answer": "TUVALET",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Geçiş kapağı",
+      "answer": "SUPAP",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çöl göçebesi",
+      "answer": "BEDEVİ",
       "row": 6,
-      "col": 3,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "İnceleme parçası",
-      "answer": "ÖRNEK",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Özellikle, bilhassa",
-      "answer": "HELE",
+      "text": "Organ salgısı",
+      "answer": "MUKUS",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gemi korkuluğu",
-      "answer": "KÜPEŞTE",
+      "text": "Çıkarsız, samimi",
+      "answer": "İÇTEN",
       "row": 9,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sinema eseri",
-      "answer": "FİLM",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Başka, öteki, diğer",
-      "answer": "SAİR",
-      "row": 10,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Tabii ki",
-      "answer": "ELBETTE",
-      "row": 11,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Düğün armağanı",
-      "answer": "DÜRÜ",
-      "row": 11,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kondisyon",
-      "answer": "FORM",
-      "row": 12,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Savaşla alma",
-      "answer": "FETİH",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Harman savurma aracı",
-      "answer": "YABA",
+      "text": "Sanal sohbet",
+      "answer": "CHAT",
       "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gökyüzü",
+      "answer": "SEMA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Böğürtlen benzeri meyve",
+      "answer": "AHUDUDU",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kremalı pasta",
-      "answer": "EKLER",
-      "row": 7,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Leh karşıtı",
-      "answer": "ALEYH",
+      "text": "Rus ve Leh soydaşı",
+      "answer": "SLAV",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Fâni",
-      "answer": "ÖLÜMLÜ",
-      "row": 6,
+      "text": "Tamam, olur",
+      "answer": "PEKİ",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Zehirli böcek",
-      "answer": "AKREP",
-      "row": 4,
+      "text": "İnandırma, kandırma",
+      "answer": "İKNA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hükümran",
-      "answer": "EGEMEN",
-      "row": 1,
+      "text": "El içi",
+      "answer": "AVUÇ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğuş bayramı",
+      "answer": "NOEL",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Pişmanlık, üzüntü",
-      "answer": "ESEF",
-      "row": 8,
+      "text": "Dans, yarış",
+      "answer": "PİST",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hristiyan mabedi",
-      "answer": "KİLİSE",
-      "row": 1,
+      "text": "Seslenme ünlemi",
+      "answer": "EY",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kafka romanı",
-      "answer": "ŞATO",
-      "row": 8,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kemik dokusu",
-      "answer": "İLİK",
-      "row": 3,
+      "text": "Larva",
+      "answer": "KURTÇUK",
+      "row": 0,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Unvan",
-      "answer": "TİTR",
-      "row": 8,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "İstanbul balığı",
-      "answer": "LÜFER",
-      "row": 1,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Akciğer hastalığı",
-      "answer": "VEREM",
-      "row": 7,
-      "col": 8,
       "arrow": "down"
     }
   ],
@@ -229,41 +145,45 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 0,
-      "col": 8
+      "col": 2
     },
     {
       "row": 1,
-      "col": 7
+      "col": 0
     },
     {
       "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
       "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
       "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 18
+  "difficulty": "orta",
+  "order": 136
 }

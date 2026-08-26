@@ -1,174 +1,139 @@
 {
   "id": "puzzle-99",
-  "title": "Bulmaca 93",
-  "rows": 12,
+  "title": "Bulmaca 68",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "İyileştirici madde",
-      "answer": "İLAÇ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Suriye'nin başkenti",
-      "answer": "ŞAM",
+      "text": "Şehir bölgesi",
+      "answer": "SEMT",
       "row": 1,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Şaşılacak şey",
-      "answer": "ACİBE",
+      "text": "Saflık derecesi",
+      "answer": "AYAR",
       "row": 2,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yakacak parça",
-      "answer": "ODUN",
+      "text": "Kor parçası",
+      "answer": "KÖZ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çete önderi",
-      "answer": "ELEBAŞI",
+      "text": "Defa",
+      "answer": "KERE",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kolsuz üstlük",
+      "answer": "PELERİN",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Organ sancısı",
-      "answer": "KOLİK",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Salgın ishal hastalığı",
-      "answer": "KOLERA",
+      "text": "Somunlu vida",
+      "answer": "CIVATA",
       "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Alçak yükselti",
-      "answer": "TEPE",
-      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Az karşıtı",
-      "answer": "ÇOK",
-      "row": 7,
+      "text": "Özet",
+      "answer": "HÜLASA",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zevk düşkünü",
-      "answer": "RİNT",
+      "text": "Dönülen yön",
+      "answer": "KIBLE",
       "row": 8,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tren platformu",
-      "answer": "PERON",
+      "text": "Keseli memeli",
+      "answer": "KOALA",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İğne yapraklı ağaç",
-      "answer": "ÇAM",
-      "row": 9,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yazılı tabela",
-      "answer": "LEVHA",
-      "row": 11,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kemik oyunu",
-      "answer": "LADES",
-      "row": 0,
+      "text": "Buse",
+      "answer": "ÖPÜCÜK",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Seke yürüyen",
-      "answer": "TOPAL",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Aceleci",
-      "answer": "ACUL",
+      "text": "Pembe şarap",
+      "answer": "ROZE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Takılarak konuşan",
-      "answer": "KEKEME",
+      "text": "Soğuk-sıcak arası",
+      "answer": "ILIK",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Küçük lüfer",
-      "answer": "ÇİNEKOP",
-      "row": 0,
+      "text": "Musluklu yıkama yeri",
+      "answer": "LAVABO",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kısa ceket",
-      "answer": "BOLERO",
-      "row": 3,
+      "text": "Japon içkisi",
+      "answer": "SAKE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çağlayan",
-      "answer": "ŞELALE",
+      "text": "Hiçbir zaman, kesinlikle",
+      "answer": "ASLA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hayvan koltuğu",
+      "answer": "EYER",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yapı kurma",
-      "answer": "İNŞA",
-      "row": 7,
+      "text": "Uzak Doğu ağırlık ölçüsü",
+      "answer": "TAEL",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sevimli",
-      "answer": "ŞİRİN",
-      "row": 3,
+      "text": "Yat limanı",
+      "answer": "MARİNA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bando",
-      "answer": "MIZIKA",
+      "text": "Raylı taşıt",
+      "answer": "TREN",
       "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Fıçı ağzı tıkacı",
-      "answer": "TIPA",
-      "row": 7,
       "col": 7,
       "arrow": "down"
     }
@@ -176,45 +141,61 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
     },
     {
       "row": 0,
-      "col": 6
+      "col": 1
     },
     {
-      "row": 2,
-      "col": 6
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 1
     },
     {
       "row": 5,
       "col": 0
     },
     {
+      "row": 5,
+      "col": 7
+    },
+    {
       "row": 6,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
       "col": 0
     },
     {
       "row": 9,
-      "col": 6
-    },
-    {
-      "row": 10,
-      "col": 3
-    },
-    {
-      "row": 10,
-      "col": 4
-    },
-    {
-      "row": 10,
-      "col": 6
-    },
-    {
-      "row": 11,
-      "col": 6
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 93
+  "difficulty": "kolay",
+  "order": 68
 }

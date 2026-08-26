@@ -1,158 +1,187 @@
 {
   "id": "puzzle-138",
-  "title": "Bulmaca 13",
+  "title": "Bulmaca 182",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Sakin, huzurlu, rahat",
-      "answer": "ASUDE",
+      "text": "Gezgin derviş",
+      "answer": "ABDAL",
       "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Baş aşağı",
-      "answer": "AMUT",
-      "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İşlem belgesi",
-      "answer": "EVRAK",
+      "text": "İplik lifi",
+      "answer": "ELYAF",
+      "row": 2,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yersiz davranış",
+      "answer": "GAF",
       "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Parayla ilgili",
+      "answer": "MALİ",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Muhteva",
+      "answer": "İÇERİK",
+      "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sağlam, dayanıklı",
-      "answer": "PEK",
-      "row": 5,
+      "text": "Ara bulucu",
+      "answer": "ARACI",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ağırbaşlılık",
-      "answer": "VAKAR",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Üst meclis",
-      "answer": "SENATO",
+      "text": "Para işleri görevlisi",
+      "answer": "MUTEMET",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Döşek",
-      "answer": "YATAK",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bölge",
-      "answer": "MINTIKA",
-      "row": 8,
+      "text": "Çekişme, anlaşmazlık, kavga",
+      "answer": "NİZA",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mayhoş ağaç",
-      "answer": "İĞDE",
-      "row": 0,
+      "text": "Acı bitki",
+      "answer": "PELİN",
+      "row": 9,
       "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Efsanedeki talih kuşu",
+      "answer": "HÜMA",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Anne baba",
-      "answer": "EBEVEYN",
-      "row": 2,
+      "text": "Tek hücreli canlı",
+      "answer": "AMİP",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Mavi süs taşı",
+      "answer": "FİRUZE",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İddia, tez",
-      "answer": "SAV",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Uçma organı",
-      "answer": "KANAT",
+      "text": "Sofra aracı",
+      "answer": "ÇATAL",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yılın her günü yapılan",
-      "answer": "UMRE",
+      "text": "Muamma",
+      "answer": "BİLMECE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Maddenin sert hâli",
-      "answer": "KATI",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yakarış, niyaz",
-      "answer": "DUA",
-      "row": 0,
+      "text": "Bütünün yarısı",
+      "answer": "YARIM",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çamur toprak",
-      "answer": "BATAK",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Güç, tesir",
-      "answer": "ETKİ",
+      "text": "Yer halkı",
+      "answer": "AHALİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Salata yeşilliği",
-      "answer": "ROKA",
-      "row": 5,
-      "col": 6,
+      "text": "Maç takvimi",
+      "answer": "FİKSTÜR",
+      "row": 2,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
       "col": 2
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 0,
+      "col": 3
     },
     {
-      "row": 4,
-      "col": 1
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 6,
-      "col": 0
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 13
+  "difficulty": "zor",
+  "order": 182
 }

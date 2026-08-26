@@ -1,155 +1,174 @@
 {
   "id": "puzzle-96",
-  "title": "Bulmaca 21",
+  "title": "Bulmaca 18",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "En yüksek rütbe",
-      "answer": "MAREŞAL",
+      "text": "Öğle sonrası namaz",
+      "answer": "İKİNDİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Onarım yeri",
-      "answer": "DOK",
+      "text": "Sivri son",
+      "answer": "UÇ",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çalgılı meyhane",
-      "answer": "TAVERNA",
+      "text": "Kapalı karşıtı",
+      "answer": "AÇIK",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Tek parça giysi",
+      "answer": "ENTARİ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şirket birliği",
-      "answer": "KARTEL",
+      "text": "Nitrogliserinli patlayıcı",
+      "answer": "DİNAMİT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tarikat kurucusu",
-      "answer": "PİR",
+      "text": "Hükümdar koltuğu",
+      "answer": "TAHT",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sürgün",
-      "answer": "İSHAL",
+      "text": "Çoban köpeği",
+      "answer": "KARABAŞ",
       "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Meksika içkisi",
+      "answer": "TEKİLA",
+      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Pasta yapan",
-      "answer": "PASTACI",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çukur yer",
-      "answer": "OYUK",
+      "text": "Açık oturum",
+      "answer": "PANEL",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Arnavutluk'un başkenti",
-      "answer": "TİRAN",
-      "row": 9,
+      "text": "Sivri dipli testi",
+      "answer": "AMFORA",
+      "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Konu dışı",
-      "answer": "AFAKİ",
+      "text": "Bebek sargısı",
+      "answer": "KUNDAK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Üst karşıtı",
-      "answer": "ALT",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Damar hastalığı",
-      "answer": "VARİS",
-      "row": 2,
+      "text": "Hukuki yorum",
+      "answer": "İÇTİHAT",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bir malın fiyatı",
-      "answer": "EDER",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Pencere perdesi",
-      "answer": "STOR",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kısa pantolon",
-      "answer": "ŞORT",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Utanma, sıkılma",
-      "answer": "HAYA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sivilce",
-      "answer": "AKNE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dünya, evren",
-      "answer": "ACUN",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Bardak altı",
-      "answer": "ALTLIK",
+      "text": "Gümrük deposu",
+      "answer": "ANTREPO",
       "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Boş ağırlık",
+      "answer": "DARA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gelir taşınmazı",
+      "answer": "AKAR",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İçme tadı",
+      "answer": "İÇİM",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İnsan yapısı",
+      "answer": "BİNA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İş verme",
+      "answer": "İHALE",
+      "row": 3,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yetersiz, az",
+      "answer": "KIT",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Dağ evi",
+      "answer": "ŞALE",
+      "row": 5,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 3
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 8,
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
     },
     {
       "row": 9,
@@ -157,5 +176,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 21
+  "order": 18
 }

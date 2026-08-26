@@ -1,174 +1,139 @@
 {
   "id": "puzzle-204",
-  "title": "Bulmaca 102",
-  "rows": 12,
+  "title": "Bulmaca 101",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yeter, elverir",
-      "answer": "KAFİ",
+      "text": "Medeni",
+      "answer": "UYGAR",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bira tahılı",
-      "answer": "ARPA",
+      "text": "Tilki yüzlü hayvan",
+      "answer": "RAKUN",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Takat",
-      "answer": "DERMAN",
+      "text": "Kırmızı kan hücresi",
+      "answer": "ALYUVAR",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tarım",
-      "answer": "ZİRAAT",
+      "text": "Tarımsal",
+      "answer": "ZİRAİ",
       "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Çentik işareti",
-      "answer": "KERTE",
-      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Taraf, istikamet",
-      "answer": "YÖN",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Mahalle esnafı",
-      "answer": "BAKKAL",
-      "row": 6,
-      "col": 1,
+      "text": "Kafa",
+      "answer": "BAŞ",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dinen izinli",
-      "answer": "HELAL",
+      "text": "Üstün eser",
+      "answer": "ŞAHESER",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hizmetli",
+      "answer": "HADEME",
       "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Belirti, jest",
+      "answer": "İŞARET",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Uçma organı",
+      "answer": "KANAT",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şahsi",
-      "answer": "KİŞİSEL",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Utanç veren, yakışıksız",
-      "answer": "AYIP",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Antik Yunanlı",
-      "answer": "GREK",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Silindir kap",
-      "answer": "TÜP",
-      "row": 11,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Mısra",
-      "answer": "DİZE",
-      "row": 2,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Evli olmayan",
-      "answer": "BEKAR",
-      "row": 6,
+      "text": "Yol arkadaşı",
+      "answer": "YOLDAŞ",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Zorunlu ibadet",
-      "answer": "FARZ",
-      "row": 0,
+      "text": "Yırtıcı kuş",
+      "answer": "ŞAHİN",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Devlet gelirleri",
-      "answer": "MALİYE",
+      "text": "Divan şiiri ölçüsü",
+      "answer": "ARUZ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Asla sözü",
+      "answer": "HAŞA",
       "row": 5,
-      "col": 2,
+      "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Buğday unu",
-      "answer": "İRMİK",
+      "text": "Nakleden kimse",
+      "answer": "RAVİ",
       "row": 0,
-      "col": 3,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yemek aracı",
-      "answer": "KAŞIK",
-      "row": 6,
-      "col": 3,
+      "text": "İlgi kuran sözcük",
+      "answer": "EDAT",
+      "row": 5,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Parça",
-      "answer": "PARE",
+      "text": "Araç gövdesi",
+      "answer": "KAROSER",
       "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Şarkı filmi",
-      "answer": "KLİP",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sarı kafes kuşu",
-      "answer": "KANARYA",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zanaat çalışma yeri",
-      "answer": "ATÖLYE",
-      "row": 3,
+      "text": "Yakın yer",
+      "answer": "BURA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dalga aleti",
-      "answer": "ANTEN",
-      "row": 1,
-      "col": 7,
+      "text": "Kütahya ilçesi",
+      "answer": "EMET",
+      "row": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Küçük büyüteç",
-      "answer": "LUP",
-      "row": 8,
+      "text": "Alınan ders",
+      "answer": "İBRET",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -176,15 +141,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 5
     },
     {
       "row": 0,
@@ -192,33 +153,21 @@
     },
     {
       "row": 1,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 1
-    },
-    {
-      "row": 7,
       "col": 7
     },
     {
-      "row": 8,
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 5
     },
     {
-      "row": 10,
-      "col": 5
-    },
-    {
-      "row": 10,
-      "col": 6
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 102
+  "order": 101
 }

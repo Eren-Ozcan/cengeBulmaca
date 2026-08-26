@@ -1,173 +1,187 @@
 {
   "id": "puzzle-160",
-  "title": "Bulmaca 5",
+  "title": "Bulmaca 85",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Millet",
-      "answer": "ULUS",
-      "row": 1,
+      "text": "Pat sesi",
+      "answer": "PATIRTI",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Renkli taş bezeme",
-      "answer": "MOZAİK",
+      "text": "Üstün zekâ",
+      "answer": "DEHA",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Güneş batışı",
-      "answer": "GURUP",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Saf, deneyimsiz, toy",
-      "answer": "NAİF",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Saç kıvırıcı",
-      "answer": "BİGUDİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Petrol merhemi",
-      "answer": "VAZELİN",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yeter bulma",
-      "answer": "KANAAT",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kalsiyum maddesi",
-      "answer": "KİREÇ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Aldırış etme",
-      "answer": "UMUR",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalıcı, ölümsüz",
-      "answer": "BAKİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tuzsuz peynir",
-      "answer": "LOR",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bezmiş, usanmış, bıkmış",
-      "answer": "BİZAR",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kısa karşıtı",
-      "answer": "UZUN",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yine",
-      "answer": "GENE",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Uzak, ıssız",
-      "answer": "SAPA",
-      "row": 0,
       "col": 4,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Zarf-fiil",
-      "answer": "ULAÇ",
+      "text": "Bel-kalça arası",
+      "answer": "BASEN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sancak taşıyan",
+      "answer": "ALEMDAR",
       "row": 5,
-      "col": 4,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Sav",
-      "answer": "İDDİA",
+      "text": "Güldüren söz",
+      "answer": "ESPRİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zihindeki genel",
+      "answer": "KAVRAM",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çaydan küçük akarsu",
+      "answer": "DERE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yol birleşimi",
+      "answer": "ÇAT",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Lezzetsiz",
+      "answer": "TATSIZ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Potaya atılan sayı",
+      "answer": "BASKET",
       "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Parmak zili",
+      "answer": "ÇALPARA",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Zenginlik",
+      "answer": "SERVET",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Mıknatıslı element",
+      "answer": "DEMİR",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Eğilim, yönelim",
+      "answer": "TREND",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Efsanevi dağ",
-      "answer": "KAF",
-      "row": 1,
+      "text": "İki ışının kesişimi",
+      "answer": "AÇI",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Gafil",
+      "answer": "AYMAZ",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Peru parası",
-      "answer": "İNTİ",
-      "row": 5,
-      "col": 6,
+      "text": "Şiir ustası",
+      "answer": "ŞAİR",
+      "row": 1,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 5
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 5
+      "row": 0,
+      "col": 7
     },
     {
-      "row": 4,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 5,
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 3
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
       "col": 0
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 5
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 5
+  "difficulty": "orta",
+  "order": 85
 }

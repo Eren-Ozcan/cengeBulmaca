@@ -1,189 +1,140 @@
 {
   "id": "puzzle-40",
-  "title": "Bulmaca 123",
-  "rows": 12,
-  "cols": 9,
+  "title": "Bulmaca 92",
+  "rows": 10,
+  "cols": 8,
   "clues": [
     {
-      "text": "Türkmenistan'ın başkenti",
-      "answer": "AŞKABAT",
+      "text": "İzlence",
+      "answer": "PROGRAM",
       "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tahıl ucu",
-      "answer": "BAŞAK",
+      "text": "İlave, ulama",
+      "answer": "EK",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Gaklayan kuş",
-      "answer": "KAZ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Maksimum",
-      "answer": "AZAMİ",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kutlanan gün",
-      "answer": "BAYRAM",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Evlenen erkek, güveyi",
-      "answer": "DAMAT",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Su altında",
-      "answer": "BATIK",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "'Sen'in yönelme hâli",
-      "answer": "SANA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tekerlek dışı",
-      "answer": "LASTİK",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Simsiyah",
-      "answer": "KAPKARA",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İngiliz sopalı oyunu",
-      "answer": "KRİKET",
-      "row": 10,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ağırlık birimi",
-      "answer": "ONS",
-      "row": 10,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Saf kimse",
-      "answer": "ENAYİ",
-      "row": 11,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ata, dede",
-      "answer": "AĞABABA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Vakit",
-      "answer": "ZAMAN",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yataktan kalkamayan",
-      "answer": "YATALAK",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Mübalağa",
-      "answer": "ABARTI",
-      "row": 0,
       "col": 4,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Kumaş cilalama",
-      "answer": "APRE",
-      "row": 7,
-      "col": 4,
-      "arrow": "down"
+      "text": "Yardım çağrısı",
+      "answer": "İMDAT",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Yatak altı",
-      "answer": "BAZA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
+      "text": "İnce ekmek",
+      "answer": "LAVAŞ",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "İyi kesen",
-      "answer": "KESKİN",
+      "text": "Süt organı",
+      "answer": "MEME",
       "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sahne arkası",
+      "answer": "KULİS",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İsa'nın öğrencisi",
+      "answer": "HAVARİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Halk anlatısı",
+      "answer": "MASAL",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hücre ana maddesi",
+      "answer": "PROTEİN",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dağ aslanı",
+      "answer": "PUMA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çadır yeri",
+      "answer": "KAMP",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapı bölmesi",
+      "answer": "DUVAR",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yumurta biçimli",
+      "answer": "OVAL",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kement",
+      "answer": "LASO",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Onarım işleri",
+      "answer": "TAMİRAT",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Do'dan sonraki nota",
+      "answer": "RE",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Süreç adımı",
-      "answer": "AŞAMA",
+      "text": "Sebep, bahane",
+      "answer": "VESİLE",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Batış sonrası",
+      "answer": "AKŞAM",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Karadeniz teknesi",
-      "answer": "TAKA",
-      "row": 7,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Eksiksiz",
-      "answer": "TAM",
-      "row": 0,
+      "text": "İblis",
+      "answer": "ŞEYTAN",
+      "row": 3,
       "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Fert",
-      "answer": "BİREY",
-      "row": 6,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Madde bilimi",
-      "answer": "KİMYA",
-      "row": 1,
-      "col": 8,
-      "arrow": "down"
-    },
-    {
-      "text": "Kesin, değişmez",
-      "answer": "KATİ",
-      "row": 7,
-      "col": 8,
       "arrow": "down"
     }
   ],
@@ -198,41 +149,41 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
-      "col": 8
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 7
     },
     {
       "row": 4,
-      "col": 7
+      "col": 0
     },
     {
       "row": 5,
-      "col": 7
+      "col": 0
     },
     {
       "row": 6,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 0
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 10,
-      "col": 1
+      "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 123
+  "difficulty": "orta",
+  "order": 92
 }

@@ -1,166 +1,176 @@
 {
   "id": "puzzle-132",
-  "title": "Bulmaca 12",
+  "title": "Bulmaca 21",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Yumurtalı tava yemeği",
-      "answer": "KAYGANA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bağlanabilen kap",
-      "answer": "TORBA",
-      "row": 2,
-      "col": 0,
+      "text": "Yaygın silis taşı",
+      "answer": "KUVARS",
+      "row": 1,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ev eşyası",
-      "answer": "MOBİLYA",
+      "text": "Sağlıklı olma",
+      "answer": "AFİYET",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Sakat, engelli",
-      "answer": "MALUL",
+      "text": "Tanıtım sürümü",
+      "answer": "DEMO",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalça siniri",
+      "answer": "SİYATİK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şifre, simge",
-      "answer": "KOD",
+      "text": "Yiyecek parçası",
+      "answer": "LOKMA",
       "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bol, zengin",
-      "answer": "GANİ",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Küf kokulu",
-      "answer": "SASI",
-      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Nâzım Hikmet'in soyadı",
-      "answer": "RAN",
-      "row": 8,
+      "text": "Boğaz çalkalama",
+      "answer": "GARGARA",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tuş takımı",
-      "answer": "KLAVYE",
+      "text": "Yoğrulmuş un",
+      "answer": "HAMUR",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yinelenen bölüm",
+      "answer": "NAKARAT",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Madde parçacığı",
-      "answer": "ATOM",
+      "text": "Uzak taraf",
+      "answer": "ÖTE",
       "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Vurucu söz",
+      "answer": "SLOGAN",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dinlenme alanı",
-      "answer": "PARK",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Bağnaz kimse",
-      "answer": "YOBAZ",
+      "text": "Dayanıklı, güçlü",
+      "answer": "KAVİ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Su taşıtı",
-      "answer": "SAL",
-      "row": 6,
+      "text": "Keskin bıçak",
+      "answer": "KAMA",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Izgara",
-      "answer": "GRİL",
+      "text": "Sızlanma ünlemi",
+      "answer": "UF",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bıkma, usanma",
-      "answer": "GINA",
-      "row": 5,
+      "text": "Sıkılı el",
+      "answer": "YUMRUK",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kuşatma",
-      "answer": "ABLUKA",
+      "text": "Yivli eleman",
+      "answer": "VİDA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Esnek yapay madde",
-      "answer": "NAYLON",
+      "text": "Tac Mahal'in kenti",
+      "answer": "AGRA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Sure bölümü",
+      "answer": "AYET",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Mezopotamya nehri",
-      "answer": "DİCLE",
-      "row": 4,
+      "text": "Kum falı",
+      "answer": "REMİL",
+      "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Hazır mal",
+      "answer": "STOK",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapışkan şerit",
+      "answer": "BANT",
+      "row": 5,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 6
+      "col": 1
     },
     {
       "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
       "col": 5
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 6
     },
     {
       "row": 8,
       "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 12
+  "order": 21
 }

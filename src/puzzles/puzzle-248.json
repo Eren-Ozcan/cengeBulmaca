@@ -1,0 +1,186 @@
+{
+  "id": "puzzle-248",
+  "title": "Bulmaca 145",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Topçu birliği",
+      "answer": "BATARYA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Pek, çok",
+      "answer": "GAYET",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Boğaz kaşıntısı",
+      "answer": "GICIK",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Göz-burun arası",
+      "answer": "YANAK",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sayıların ilki",
+      "answer": "BİR",
+      "row": 4,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Uzun boyunlu kap",
+      "answer": "SÜRAHİ",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Volkanik kaya",
+      "answer": "BAZALT",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Meslek çalışması",
+      "answer": "STAJ",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Şapkalı bitki",
+      "answer": "MANTAR",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eşya bölümü",
+      "answer": "BAGAJ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Arap alfabesinde harf",
+      "answer": "AYIN",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İç rahatlığı",
+      "answer": "SAFA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sınırı aşma",
+      "answer": "TECAVÜZ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kullanılmış madde",
+      "answer": "ATIK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Doğru, isabetli",
+      "answer": "RAST",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağaç aracı",
+      "answer": "BALTA",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Uyarı",
+      "answer": "İHTAR",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "En az",
+      "answer": "ASGARİ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 7
+    }
+  ],
+  "difficulty": "orta",
+  "order": 145
+}

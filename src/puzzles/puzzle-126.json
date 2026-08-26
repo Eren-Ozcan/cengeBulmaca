@@ -1,167 +1,132 @@
 {
   "id": "puzzle-126",
-  "title": "Bulmaca 78",
-  "rows": 11,
+  "title": "Bulmaca 178",
+  "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Süprüntü",
-      "answer": "ÇÖP",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Giriş bölmesi",
-      "answer": "KAPI",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Geçimlik",
-      "answer": "NAFAKA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ucuza kapatılan",
-      "answer": "KELEPİR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bilgi",
-      "answer": "MALUMAT",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çabuk satma",
-      "answer": "ALSAT",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Rüzgâr bezi",
-      "answer": "YELKEN",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sık dokuma bez",
-      "answer": "PATİSKA",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Halk nefeslisi",
-      "answer": "MEY",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sanat alıştırması",
-      "answer": "MEŞK",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Vahşi hayvan gezisi",
-      "answer": "SAFARİ",
-      "row": 10,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mühim",
-      "answer": "ÖNEMLİ",
+      "text": "Tek başına söyleyen",
+      "answer": "SOLİST",
       "row": 0,
       "col": 1,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Tiz karşıtı",
-      "answer": "PES",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Lüks otel",
-      "answer": "PALAS",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yürüyen kimse",
-      "answer": "YAYA",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyük yıkım",
-      "answer": "FELAKET",
+      "text": "Dikkat sözü",
+      "answer": "HOP",
       "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sürekli",
+      "answer": "DEVAMLI",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Baldızın kocası",
+      "answer": "BACANAK",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Baharat bitkisi",
+      "answer": "KEKİK",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Medrese öğrencisi",
+      "answer": "SOFTA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İl yöneticisi",
+      "answer": "VALİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bölen sayı",
+      "answer": "PAYDA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Amaç, erek",
+      "answer": "GAYE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Karbonatlı içecek",
+      "answer": "SODA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzak, ıssız",
+      "answer": "SAPA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Petrol ihraç edenler örgütü",
+      "answer": "OPEC",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Vaka, hadise",
+      "answer": "OLAY",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Vakıf senedi",
+      "answer": "VAKFİYE",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Asker paltosu",
-      "answer": "KAPUT",
+      "text": "Hainlik",
+      "answer": "İHANET",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Peru'nun başkenti",
-      "answer": "LİMA",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sonuçsuz kalan",
-      "answer": "AKİM",
-      "row": 0,
+      "text": "İplik sarılan",
+      "answer": "MAKARA",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Büyük çivi",
-      "answer": "EKSER",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Emek kazancı",
-      "answer": "PARA",
+      "text": "Kurnaz hayvan",
+      "answer": "TİLKİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sirke tadında",
-      "answer": "EKŞİ",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Parmak ucu",
-      "answer": "TIRNAK",
-      "row": 3,
+      "text": "Ozan sazı",
+      "answer": "KOPUZ",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -169,10 +134,22 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 3
     },
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
       "col": 7
     },
     {
@@ -181,21 +158,37 @@
     },
     {
       "row": 5,
-      "col": 6
+      "col": 0
     },
     {
       "row": 6,
-      "col": 0
+      "col": 6
     },
     {
       "row": 7,
-      "col": 0
+      "col": 4
     },
     {
-      "row": 10,
-      "col": 7
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 78
+  "difficulty": "zor",
+  "order": 178
 }

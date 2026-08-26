@@ -1,147 +1,133 @@
 {
   "id": "puzzle-76",
-  "title": "Bulmaca 1",
+  "title": "Bulmaca 143",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Bebek yiyeceği",
-      "answer": "MAMA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down-right"
+      "text": "Aşınmış yazı",
+      "answer": "SİLİK",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Ismarlama",
-      "answer": "SİPARİŞ",
+      "text": "Kırsal yerleşim",
+      "answer": "KÖY",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kuş midesi",
-      "answer": "KURSAK",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hat ustası",
-      "answer": "HATTAT",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eksiklik",
-      "answer": "KUSUR",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yanlışlıkla",
-      "answer": "KAZARA",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yer mantarı",
-      "answer": "DOMALAN",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Duvar kaplaması",
-      "answer": "FAYANS",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük taşıt",
-      "answer": "PİKAP",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İçi boş, değersiz",
-      "answer": "KOF",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Heykel, sanem",
-      "answer": "PUT",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Keskin bıçak",
-      "answer": "KAMA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Üçüncü ay",
-      "answer": "MART",
-      "row": 0,
+      "text": "Diyarbakır ilçesi",
+      "answer": "LİCE",
+      "row": 2,
       "col": 3,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Gök boşluğu",
-      "answer": "UZAY",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
+      "text": "Yaylı çalgı",
+      "answer": "KEMAN",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Yapı arazisi",
-      "answer": "ARSA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Minareden okunan sela",
-      "answer": "SALA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Son tarih",
-      "answer": "MİAT",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sanayi, endüstri",
-      "answer": "URAN",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Sevda",
-      "answer": "AŞK",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bilinç durumu",
-      "answer": "TRANS",
+      "text": "Yetke",
+      "answer": "OTORİTE",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sert taş",
+      "answer": "GRANİT",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kuzey Kıbrıs'ın kısaltması",
+      "answer": "KKTC",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalp düzensizliği",
+      "answer": "ARİTMİ",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "İşin ehli",
+      "answer": "USTA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kakaolu pasta",
+      "answer": "TURTA",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çekilen taşıt",
+      "answer": "RÖMORK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Güç, derman",
+      "answer": "TAKAT",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sözleşme",
+      "answer": "KONTRAT",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yenilikten yana",
+      "answer": "İLERİCİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Üst sınır",
+      "answer": "LİMİT",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeni yaratım",
+      "answer": "İCAT",
+      "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ümit",
+      "answer": "UMUT",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağlayan parça",
+      "answer": "KENET",
+      "row": 0,
+      "col": 7,
       "arrow": "down"
     }
   ],
@@ -155,14 +141,42 @@
       "col": 2
     },
     {
-      "row": 5,
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 3,
       "col": 0
     },
     {
       "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
       "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
     }
   ],
-  "difficulty": "kolay",
-  "order": 1
+  "difficulty": "orta",
+  "order": 143
 }

@@ -1,130 +1,148 @@
 {
   "id": "puzzle-124",
-  "title": "Bulmaca 80",
+  "title": "Bulmaca 115",
   "rows": 10,
-  "cols": 7,
+  "cols": 8,
   "clues": [
     {
-      "text": "Fakire verilen",
-      "answer": "SADAKA",
+      "text": "Gecikme",
+      "answer": "RÖTAR",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şehir dışı",
-      "answer": "KIR",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
+      "text": "Topluluk mensubu",
+      "answer": "ÜYE",
+      "row": 1,
+      "col": 5,
+      "arrow": "down-right"
     },
     {
-      "text": "Vurma demiri",
-      "answer": "MUŞTA",
+      "text": "Lezzetli, mükemmel",
+      "answer": "NEFİS",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Destek verme",
-      "answer": "KATKI",
+      "text": "Sahip",
+      "answer": "MALİK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Süs çiçeği",
+      "answer": "LALE",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kemiyet",
+      "answer": "NİCELİK",
       "row": 5,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Bin kere bin",
-      "answer": "MİLYON",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yanardağ",
-      "answer": "VOLKAN",
+      "text": "Odun kömür",
+      "answer": "YAKACAK",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Pars",
-      "answer": "LEOPAR",
+      "text": "Global",
+      "answer": "KÜRESEL",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mevcudiyet",
-      "answer": "VARLIK",
+      "text": "Birlikte olma",
+      "answer": "EŞLİK",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ani ve şiddetli",
-      "answer": "AKUT",
+      "text": "Ehemmiyet",
+      "answer": "ÖNEM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ara verme",
-      "answer": "MOLA",
+      "text": "İşleme, nakış",
+      "answer": "NAKŞ",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İç karşıtı",
-      "answer": "DIŞ",
-      "row": 0,
+      "text": "Ayrı basılan bölüm",
+      "answer": "FASİKÜL",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yiyecek odası",
-      "answer": "KİLER",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Arka, geri",
-      "answer": "ART",
+      "text": "Soylu, yüce",
+      "answer": "ASİL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Alkollü içki",
-      "answer": "ALKOL",
-      "row": 4,
+      "text": "Yürürlükteki",
+      "answer": "CARİ",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Temel donanım",
-      "answer": "ALTYAPI",
+      "text": "Cam silen kol",
+      "answer": "SİLECEK",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gösterişli ev",
-      "answer": "KONAK",
-      "row": 4,
+      "text": "Kalın tahta",
+      "answer": "KALAS",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ekmek yeri",
-      "answer": "FIRIN",
-      "row": 1,
+      "text": "Dünya'nın uydusu",
+      "answer": "AY",
+      "row": 0,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Mantar-yosun bitkisi",
+      "answer": "LİKEN",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ev halkıyla",
+      "answer": "EVCEK",
+      "row": 1,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
     {
       "row": 0,
       "col": 4
@@ -135,19 +153,11 @@
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 5
+      "col": 7
     },
     {
       "row": 3,
-      "col": 5
-    },
-    {
-      "row": 4,
-      "col": 0
+      "col": 6
     },
     {
       "row": 5,
@@ -155,13 +165,17 @@
     },
     {
       "row": 7,
-      "col": 6
+      "col": 7
     },
     {
       "row": 9,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 80
+  "order": 115
 }
