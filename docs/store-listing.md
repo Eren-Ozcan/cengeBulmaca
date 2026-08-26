@@ -92,8 +92,9 @@ bulmaca, çengel bulmaca, kare bulmaca, kelime oyunu, Türkçe
 - [x] Feature graphic 1024×500 PNG (24-bit, no alpha) —
   `docs/store-assets/feature-graphic.png`
 - [x] Phone screenshots, 8 of them at 1080×1920 with a caption band —
-  `docs/store-assets-originals/play/`. They replace the three 545×777 shots
-  under `docs/store-assets/`, which are the pre-1.3.0 set.
+  `docs/store-assets-originals/play/`. The tracked copies under
+  `docs/store-assets/` are the same renders without the band, downscaled to
+  540×960 for the repo (home, gameplay, cats, map, newspaper theme).
 - [ ] Tablet screenshots (7"/10", 1600×2560) — `play-tablet/`, optional, but
   without them Play shows a "not optimized for large screens" notice.
 - [ ] Promo video: `promo-1280x720.mp4` is cut and ready, but Play only accepts
