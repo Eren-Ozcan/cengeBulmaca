@@ -46,6 +46,35 @@ To enrich the dictionary, add `{ a: "CEVAP", c: ["clue text"] }` entries to
 `tools/dictionary.mjs`. (Dictionary entries and clue text are Turkish — that
 is the game's content language.)
 
+## Store material
+
+The screenshots, the feature graphic and the promo video are generated from the
+real app, so they can be rebuilt after any UI change instead of being recorded
+by hand from someone's phone:
+
+```bash
+node scripts/showcase.mjs shots            # 1080x1920 stills, driven by real clicks
+node scripts/showcase.mjs shots --tablet   # 1600x2560, for Play's tablet slots
+node scripts/showcase.mjs video            # screencast frames + their timings
+python scripts/make_store_shots.py         # adds the caption band (--tablet for the other set)
+python scripts/make_feature_graphic.py     # 1024x500
+python scripts/make_promo_video.py         # 1280x720 promo cut, phone + captions
+```
+
+`showcase.mjs` seeds a showcase save (31 puzzles solved, a 12-day streak, 8 of
+15 cats) before the app boots and drives a headless Chrome through the screens,
+so nothing depends on a personal save file. Everything lands in
+`docs/store-assets-originals/`, which is gitignored — see CLAUDE.md for where
+the finished files are kept.
+
+The vertical clip and the GIF are encoded from the same capture:
+
+```bash
+cd docs/store-assets-originals/frames
+ffmpeg -y -f concat -safe 0 -i frames.txt -vf "scale=720:1280:flags=lanczos,fps=30"   -c:v libx264 -pix_fmt yuv420p -crf 21 -movflags +faststart ../demo.mp4
+ffmpeg -y -f concat -safe 0 -i frames.txt   -vf "fps=12,scale=360:640:flags=lanczos,split[a][b];[a]palettegen=max_colors=128[p];[b][p]paletteuse=dither=bayer:bayer_scale=4"   ../demo.gif
+```
+
 ## Android (APK)
 
 Requirements: Android SDK, JDK 17+.

@@ -91,14 +91,17 @@ bulmaca, çengel bulmaca, kare bulmaca, kelime oyunu, Türkçe
 - [x] App icon 512×512 PNG — `docs/store-assets/icon-512.png`
 - [x] Feature graphic 1024×500 PNG (24-bit, no alpha) —
   `docs/store-assets/feature-graphic.png`
-- [x] Screenshots (3 of them, around 545×777, no alpha) —
-  `docs/store-assets/screenshot-1-home.png`,
-  `screenshot-2-gameplay.png`, `screenshot-3-cats.png`. Optional: these can be
-  replaced with higher-resolution / real-device screenshots; the current ones
-  are within Play Console's min/max size and aspect ratio limits.
-- All of these can be regenerated from `tools/generate-icons.mjs` with
-  `npm run icons` (icon / feature graphic); the screenshots were taken in a
-  separate browser session and are not part of the script.
+- [x] Phone screenshots, 8 of them at 1080×1920 with a caption band —
+  `docs/store-assets-originals/play/`. They replace the three 545×777 shots
+  under `docs/store-assets/`, which are the pre-1.3.0 set.
+- [ ] Tablet screenshots (7"/10", 1600×2560) — `play-tablet/`, optional, but
+  without them Play shows a "not optimized for large screens" notice.
+- [ ] Promo video: `promo_1280x720.mp4` is cut and ready, but Play only accepts
+  a YouTube URL, so it has to be uploaded to the studio's channel first.
+- The icon and the feature graphic come from `npm run icons` and
+  `python scripts/make_feature_graphic.py`; the screenshots and the video are
+  rendered from the running app by `node scripts/showcase.mjs` plus
+  `scripts/make_store_shots.py` / `scripts/make_promo_video.py` (see README).
 
 ## Ads / Data Safety notes (Play Console)
 
@@ -179,8 +182,9 @@ What was declared:
 - ⏳ The Play Console "Payments profile" page shows an **enroll in the 15%
   service fee program** notice (it appears optional but should be reviewed —
   it requires creating an account group and accepting the service fee terms).
-- Tablet screenshots (7"/10") and a YouTube video URL have not been added (not
-  mandatory, can stay optional).
+- Tablet screenshots and the promo video are rendered locally (see above); what
+  is left is uploading the video to YouTube and pasting its URL into the
+  listing.
 - ⏳ **GitHub secret scanning alert (Google API Key, `src/referral.ts` —
   Firebase `apiKey`)**: closed as `wont_fix` on GitHub (this key is the
   client-side, non-secret identifier of the Firebase web SDK — security is
