@@ -1,138 +1,131 @@
 {
   "id": "puzzle-257",
-  "title": "Bulmaca 99",
+  "title": "Bulmaca 59",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kırmızı sebze",
-      "answer": "DOMATES",
+      "text": "Garson yardımcısı",
+      "answer": "KOMİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kızıl metal",
+      "answer": "BAKIR",
       "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaş karşıtı",
-      "answer": "KURU",
-      "row": 2,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Görkemli, büyük",
-      "answer": "MUAZZAM",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Vana",
-      "answer": "VALF",
-      "row": 3,
+      "text": "Alçak gönüllülük",
+      "answer": "TEVAZU",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İtici neden",
-      "answer": "SAİK",
+      "text": "Eşini kaybeden",
+      "answer": "DUL",
       "row": 4,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ön taraf",
-      "answer": "CEPHE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uyma",
-      "answer": "RİAYET",
-      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Teli olan",
-      "answer": "TELLİ",
+      "text": "Mal, mülk",
+      "answer": "MİRAS",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yangın söndürme",
+      "answer": "İTFAİYE",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Başkaları, yabancılar, eller",
+      "answer": "AĞYAR",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Denetleme",
+      "answer": "KONTROL",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yineleme",
-      "answer": "TEKRAR",
+      "text": "Güzel koku",
+      "answer": "ITIR",
       "row": 9,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Özür",
-      "answer": "MAZERET",
-      "row": 2,
+      "text": "Estetik",
+      "answer": "BEDİİ",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Öğretim kurumu",
-      "answer": "OKUL",
-      "row": 0,
+      "text": "Yanak içi",
+      "answer": "AVURT",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kumaş kıvrımı",
-      "answer": "PİLE",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yükümlülük dışı",
-      "answer": "MUAF",
-      "row": 0,
+      "text": "Gemi onarımı",
+      "answer": "KALAFAT",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ülke insanları",
-      "answer": "HALK",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Piyasaya sürme",
-      "answer": "ARZ",
+      "text": "Dişi çocuk",
+      "answer": "KIZ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gidiş, ilerleyiş",
-      "answer": "SEYİR",
+      "text": "Bel-kuyruk arası",
+      "answer": "SAĞRI",
       "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tuz üretimi",
-      "answer": "TUZLA",
+      "text": "Yemeden durma",
+      "answer": "ORUÇ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Oruç açma",
-      "answer": "İFTAR",
-      "row": 4,
+      "text": "I simgeli element",
+      "answer": "İYOT",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kıyı evi",
+      "answer": "YALI",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ekşi baharat",
-      "answer": "SUMAK",
+      "text": "Nikbin",
+      "answer": "İYİMSER",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -149,10 +142,18 @@
     },
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 0
     },
     {
@@ -160,20 +161,16 @@
       "col": 6
     },
     {
-      "row": 6,
-      "col": 5
+      "row": 3,
+      "col": 6
     },
     {
-      "row": 6,
-      "col": 7
+      "row": 4,
+      "col": 6
     },
     {
       "row": 7,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 5
+      "col": 1
     },
     {
       "row": 8,
@@ -181,9 +178,17 @@
     },
     {
       "row": 9,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 2
     }
   ],
-  "difficulty": "orta",
-  "order": 99
+  "difficulty": "kolay",
+  "order": 59
 }

@@ -1,130 +1,120 @@
 {
   "id": "puzzle-287",
-  "title": "Bulmaca 28",
+  "title": "Bulmaca 219",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Sayma işi",
-      "answer": "SAYIM",
-      "row": 0,
+      "text": "Gözaltında olan",
+      "answer": "TUTUKLU",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Gücü yetmeyen, güçsüz",
-      "answer": "ACİZ",
+      "text": "Ortaya koyma",
+      "answer": "İBRAZ",
       "row": 2,
       "col": 3,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Süslü seramik",
-      "answer": "ÇİNİ",
+      "text": "Yer altı deposu",
+      "answer": "MAHZEN",
       "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yatak başı dolabı",
-      "answer": "KOMODİN",
-      "row": 3,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bisiklet koltuğu",
-      "answer": "SELE",
-      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sezme yeteneği",
-      "answer": "SEZGİ",
-      "row": 6,
+      "text": "Mezopotamya nehri",
+      "answer": "DİCLE",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Devlet çalışanı",
-      "answer": "MEMUR",
-      "row": 6,
+      "text": "Zamanında olan",
+      "answer": "DAKİK",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kullanım ücreti",
-      "answer": "KİRA",
-      "row": 8,
+      "text": "Namlu çapı",
+      "answer": "KALİBRE",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sırt çıkıntısı",
-      "answer": "KAMBUR",
+      "text": "Sıvı",
+      "answer": "MAYİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Öneri",
+      "answer": "TEKLİF",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Toprak parçası",
-      "answer": "KESEK",
-      "row": 3,
+      "text": "İçten bağlılık",
+      "answer": "SADAKAT",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Söz dalaşı",
-      "answer": "POLEMİK",
-      "row": 2,
+      "text": "Öykü",
+      "answer": "HİKAYE",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Terzi şeridi",
-      "answer": "MEZURA",
-      "row": 3,
+      "text": "Keşşaflık",
+      "answer": "İZCİLİK",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Abartan erkek",
-      "answer": "MAÇO",
+      "text": "Olabilir ki",
+      "answer": "BELKİ",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Başarı belgesi",
+      "answer": "KARNE",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük ağırlık birimi",
-      "answer": "GRAM",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Şaka olmayan",
-      "answer": "CİDDİ",
-      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yemek tepsisi",
-      "answer": "SİNİ",
-      "row": 0,
+      "text": "Eşya konan yer",
+      "answer": "RAF",
+      "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Halkalı bağ",
-      "answer": "ZİNCİR",
-      "row": 1,
+      "text": "Doruk",
+      "answer": "ZİRVE",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
     {
       "row": 0,
       "col": 1
@@ -139,7 +129,11 @@
     },
     {
       "row": 0,
-      "col": 5
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 0,
@@ -151,11 +145,15 @@
     },
     {
       "row": 2,
-      "col": 1
+      "col": 2
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
     },
     {
       "row": 5,
@@ -163,23 +161,15 @@
     },
     {
       "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
       "col": 5
     },
     {
       "row": 8,
-      "col": 6
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
     },
     {
       "row": 8,
@@ -187,9 +177,9 @@
     },
     {
       "row": 9,
-      "col": 0
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 28
+  "difficulty": "zor",
+  "order": 219
 }

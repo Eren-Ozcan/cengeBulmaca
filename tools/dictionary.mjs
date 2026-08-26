@@ -1962,7 +1962,7 @@ export const WORDS = [
   { a: "ATAMA", c: ["Tayin"] },
   { a: "ATICI", c: ["Nişancı"] },
   { a: "ATLAS", c: ["Harita kitabı"] },
-  { a: "ATLET", c: ["Atletizm sporcusu"] },
+  { a: "ATLET", c: ["Kolsuz iç fanila", "Koşu yarışçısı"] },
   { a: "AVANS", c: ["Peşin para"] },
   { a: "AVARE", c: ["Başıboş"] },
   { a: "AVLAK", c: ["Av alanı"] },

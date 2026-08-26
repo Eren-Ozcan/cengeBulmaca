@@ -1,132 +1,118 @@
 {
   "id": "puzzle-292",
-  "title": "Bulmaca 36",
+  "title": "Bulmaca 178",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Manevi gelişme",
-      "answer": "FEYİZ",
-      "row": 0,
+      "text": "Ev arası yol",
+      "answer": "SOKAK",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Motif",
+      "answer": "DESEN",
+      "row": 2,
       "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "El yazısı",
-      "answer": "İMZA",
-      "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bir selamlaşma sözü",
-      "answer": "MERHABA",
+      "text": "Yüzer araç",
+      "answer": "DUBA",
       "row": 3,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Dilekçe",
-      "answer": "ARZUHAL",
-      "row": 4,
+      "text": "Para saçan",
+      "answer": "HOVARDA",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dizi",
-      "answer": "SIRA",
-      "row": 5,
-      "col": 3,
+      "text": "Avlanan dağ kuşu",
+      "answer": "KEKLİK",
+      "row": 6,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bölük-alay arası",
-      "answer": "TABUR",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bitişik giysi",
-      "answer": "TULUM",
+      "text": "Ahbaplık",
+      "answer": "DOSTLUK",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Temizlik aracı",
-      "answer": "BİDE",
+      "text": "Saç maddesi",
+      "answer": "JÖLE",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "At yetiştiren kimse",
-      "answer": "ATÇI",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
+      "text": "Sığ karşıtı",
+      "answer": "DERİN",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Şaşma ünlemi",
-      "answer": "AMMA",
+      "text": "Kalabalık, sürü",
+      "answer": "GÜRUH",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Pistonlu çalgı",
-      "answer": "TUBA",
-      "row": 5,
+      "text": "Tırnak cilası",
+      "answer": "OJE",
+      "row": 6,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Küçük sarı meyve",
-      "answer": "ZERDALİ",
-      "row": 1,
+      "text": "Yumruk sporcusu",
+      "answer": "BOKSÖR",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Zorunlu ibadet",
-      "answer": "FARZ",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Uzak Doğu bilgesi",
-      "answer": "BUDA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Düşmanlık",
-      "answer": "HUSUMET",
+      "text": "Çağrılı",
+      "answer": "DAVETLİ",
       "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Akıl yönünden",
+      "answer": "AKLEN",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hayvan barınağı",
-      "answer": "AHIR",
-      "row": 2,
+      "text": "Kusuru olan",
+      "answer": "KUSURLU",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Haber verme",
-      "answer": "İHBAR",
-      "row": 0,
+      "text": "Dikili direk",
+      "answer": "DİKME",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Müstehzi",
-      "answer": "ALAYCI",
-      "row": 2,
+      "text": "Kiremit renkli içki",
+      "answer": "KONYAK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -142,49 +128,57 @@
     },
     {
       "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
       "row": 0,
-      "col": 5
+      "col": 6
     },
     {
-      "row": 0,
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 7
     },
     {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
       "row": 8,
       "col": 5
     },
     {
       "row": 8,
-      "col": 6
+      "col": 7
     },
     {
       "row": 9,
-      "col": 0
+      "col": 5
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 36
+  "difficulty": "zor",
+  "order": 178
 }

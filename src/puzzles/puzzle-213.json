@@ -1,181 +1,181 @@
 {
   "id": "puzzle-213",
-  "title": "Bulmaca 60",
+  "title": "Bulmaca 112",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Aile adı",
-      "answer": "SOYADI",
+      "text": "Sanırım",
+      "answer": "GALİBA",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yer bulucu",
-      "answer": "RADAR",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Malatya meyvesi",
-      "answer": "KAYISI",
+      "text": "Derinlik aracı",
+      "answer": "SONDA",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tarım",
+      "answer": "ZİRAAT",
       "row": 3,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Karton kutu",
-      "answer": "KOLİ",
+      "text": "Yer altı kayacı",
+      "answer": "MAGMA",
       "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Ani saldırı, hücum",
-      "answer": "AKIN",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üstün bilgili",
-      "answer": "ÜSTAT",
-      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Erkek bezi",
-      "answer": "PROSTAT",
+      "text": "Leş yiyen kuş",
+      "answer": "AKBABA",
       "row": 6,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Tavuğun erkeği",
-      "answer": "HOROZ",
+      "text": "Bilyeli yatak",
+      "answer": "RULMAN",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Avrupa Birliği parası",
+      "answer": "EURO",
       "row": 8,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dizayn",
-      "answer": "TASARIM",
+      "text": "Otlu alan",
+      "answer": "OTLUK",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hafif uykulu",
-      "answer": "SAK",
+      "text": "Sürtünme sesi",
+      "answer": "GICIRTI",
       "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Kasap besini",
+      "answer": "ET",
+      "row": 7,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kara kuş",
-      "answer": "KARGA",
-      "row": 4,
+      "text": "Yeşil salata",
+      "answer": "MARUL",
+      "row": 5,
       "col": 1,
-      "arrow": "down"
+      "arrow": "right-down"
     },
     {
-      "text": "Kurum hizmetlisi",
-      "answer": "ODACI",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ok aracı",
-      "answer": "YAY",
+      "text": "Ad",
+      "answer": "İSİM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tıpkı örnek",
-      "answer": "NÜSHA",
-      "row": 4,
+      "text": "Yaş karşıtı",
+      "answer": "KURU",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Zayıf, cılız",
-      "answer": "ARIK",
+      "text": "Şiddetli fırtına",
+      "answer": "BORA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Pencere perdesi",
-      "answer": "STOR",
+      "text": "Site birimi",
+      "answer": "BLOK",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Güldüren kimse",
-      "answer": "SOYTARI",
-      "row": 2,
+      "text": "Harf değiştirme oyunu",
+      "answer": "ANAGRAM",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Parıltılı",
-      "answer": "IŞIL",
-      "row": 0,
+      "text": "Ev üstü",
+      "answer": "DAM",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Madde parçacığı",
-      "answer": "ATOM",
+      "text": "İspanya'da bir halk",
+      "answer": "BASK",
       "row": 5,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kavisli kısa kılıç",
+      "answer": "YATAĞAN",
+      "row": 0,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 5
+      "col": 2
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
+      "col": 6
     },
     {
       "row": 2,
+      "col": 1
+    },
+    {
+      "row": 4,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
       "col": 7
     },
     {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 7
-    },
-    {
-      "row": 7,
-      "col": 7
+      "row": 9,
+      "col": 5
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 60
+  "difficulty": "orta",
+  "order": 112
 }

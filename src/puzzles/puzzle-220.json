@@ -1,132 +1,125 @@
 {
   "id": "puzzle-220",
-  "title": "Bulmaca 144",
+  "title": "Bulmaca 99",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Beklenmedik olay",
-      "answer": "SÜRPRİZ",
+      "text": "Gönülden bağlılık",
+      "answer": "İHLAS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Otomatik makine",
-      "answer": "ROBOT",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tempolu jimnastik",
-      "answer": "AEROBİK",
+      "text": "Adla ilgili",
+      "answer": "ADSAL",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kabine üyesi",
-      "answer": "BAKAN",
+      "text": "İkiyüzlü",
+      "answer": "RİYAKAR",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yüksek faizci",
-      "answer": "TEFECİ",
-      "row": 5,
+      "text": "Arap harfi",
+      "answer": "VAV",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Petek gözü",
-      "answer": "GÜMEÇ",
+      "text": "Resim sanatçısı",
+      "answer": "RESSAM",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Muamma",
+      "answer": "BİLMECE",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sonbahar",
-      "answer": "GÜZ",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gönlünce gezme deyiminde",
-      "answer": "FİNK",
+      "text": "Evlenen erkek, güveyi",
+      "answer": "DAMAT",
       "row": 8,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yanıcı gaz",
-      "answer": "METAN",
-      "row": 9,
+      "text": "Profesör öncesi",
+      "answer": "DOÇENT",
+      "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Hint prensesi",
-      "answer": "BEGÜM",
-      "row": 4,
+      "text": "Su hayvanı",
+      "answer": "HİDRA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Roketle giden mermi",
-      "answer": "FÜZE",
-      "row": 5,
+      "text": "Keskin uçlu",
+      "answer": "SİVRİ",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çözülecek sorun",
-      "answer": "PROBLEM",
+      "text": "Eğlenme, dalga geçme",
+      "answer": "ALAY",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Giyside omuz parçası",
-      "answer": "ROBA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sıkıntı, eziyet, üzüntü",
-      "answer": "CEFA",
+      "text": "Toplamada aktarılan sayı",
+      "answer": "ELDE",
       "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ürün tanıtımı",
+      "answer": "LANSMAN",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Horoz tacı",
-      "answer": "İBİK",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Amacıyla, maksadıyla",
-      "answer": "İÇİN",
+      "text": "Şehir bölgesi",
+      "answer": "SEMT",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Balık yemi",
-      "answer": "ZOKA",
-      "row": 0,
+      "text": "Karışık renkli",
+      "answer": "ALACA",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Konuşma, söylev",
-      "answer": "NUTUK",
-      "row": 3,
+      "text": "İzleme",
+      "answer": "SEYR",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Satılan mal",
+      "answer": "META",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -134,49 +127,53 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 7
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 1,
-      "col": 7
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 2,
-      "col": 1
+      "col": 5
     },
     {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
+      "row": 2,
       "col": 6
+    },
+    {
+      "row": 3,
+      "col": 5
     },
     {
       "row": 6,
-      "col": 6
+      "col": 0
     },
     {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 6
+      "row": 8,
+      "col": 1
     },
     {
       "row": 9,
-      "col": 7
+      "col": 6
     }
   ],
   "difficulty": "orta",
-  "order": 144
+  "order": 99
 }

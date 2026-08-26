@@ -1,103 +1,103 @@
 {
   "id": "puzzle-258",
-  "title": "Bulmaca 195",
+  "title": "Bulmaca 190",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Işık kıran cam",
-      "answer": "MERCEK",
+      "text": "Aynı atom numarası",
+      "answer": "İZOTOP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gevşek karşıtı",
-      "answer": "SIKI",
+      "text": "Damga, mühür",
+      "answer": "KAŞE",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Dizin",
-      "answer": "ENDEKS",
+      "text": "Var olan",
+      "answer": "MEVCUT",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Duygu dolu",
-      "answer": "LİRİK",
+      "text": "Kolsuz iç fanila",
+      "answer": "ATLET",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ayrılık sözü",
-      "answer": "ELVEDA",
+      "text": "Işık ayrıştıran cisim",
+      "answer": "PRİZMA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Evli olmayan",
-      "answer": "BEKAR",
+      "text": "Yeşil kabuklu sebze",
+      "answer": "BAKLA",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Görüntü yüzeyi",
-      "answer": "EKRAN",
+      "text": "Vida anahtarı",
+      "answer": "ALYAN",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dişi çocuk",
-      "answer": "KIZ",
+      "text": "Niğde'nin ilçesi",
+      "answer": "BOR",
       "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Eski uzunluk ölçüsü",
-      "answer": "ARŞIN",
+      "text": "Cimri kimse",
+      "answer": "PİNTİ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şekerli içki",
-      "answer": "LİKÖR",
-      "row": 4,
+      "text": "Gölge seven bitki",
+      "answer": "EĞRELTİ",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çete önderi",
-      "answer": "ELEBAŞI",
+      "text": "Caz orkestrası",
+      "answer": "CAZBANT",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Geçmişte",
-      "answer": "ESKİDEN",
+      "text": "Üniversite öğreticisi",
+      "answer": "OKUTMAN",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dişi at",
-      "answer": "KISRAK",
+      "text": "Yarık, delik",
+      "answer": "PATLAK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Nasip, azık",
-      "answer": "RIZK",
+      "text": "Set, baraj",
+      "answer": "BENT",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -123,10 +123,6 @@
     {
       "row": 1,
       "col": 6
-    },
-    {
-      "row": 2,
-      "col": 1
     },
     {
       "row": 2,
@@ -174,5 +170,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 195
+  "order": 190
 }

@@ -1,12 +1,12 @@
 {
   "id": "puzzle-83",
-  "title": "Bulmaca 58",
+  "title": "Bulmaca 72",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Uyum sağlama",
-      "answer": "İNTİBAK",
+      "text": "Uzun gezi",
+      "answer": "SEYAHAT",
       "row": 1,
       "col": 0,
       "arrow": "right"
@@ -19,99 +19,99 @@
       "arrow": "right"
     },
     {
-      "text": "Gagası keseli kuş",
-      "answer": "PELİKAN",
+      "text": "Vefalı",
+      "answer": "VEFAKAR",
       "row": 3,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ortaokul sonrası",
-      "answer": "LİSE",
-      "row": 4,
-      "col": 3,
       "arrow": "right"
     },
     {
       "text": "Çocuk dilinde kedi",
       "answer": "PİSİ",
       "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Saçma söz",
+      "answer": "YAVE",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kadın elbisesi",
-      "answer": "ROP",
+      "text": "İçi boş, değersiz",
+      "answer": "KOF",
       "row": 5,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Çenesi düşük",
-      "answer": "ÇALÇENE",
+      "text": "Aksine",
+      "answer": "TERSİNE",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zafer, galibiyet",
-      "answer": "YENGİ",
+      "text": "Kılla kaplı",
+      "answer": "KILLI",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gerçek, somut",
-      "answer": "REEL",
+      "text": "Dinen uygun",
+      "answer": "CAİZ",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sertleştirilmiş demir",
-      "answer": "ÇELİK",
+      "text": "Kesici silah",
+      "answer": "KILIÇ",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İç taraf",
-      "answer": "İÇERİ",
+      "text": "Nişancı",
+      "answer": "ATICI",
       "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Söylence",
-      "answer": "EFSANE",
+      "text": "İlk önce",
+      "answer": "EVVELA",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Edat",
-      "answer": "İLGEÇ",
+      "text": "Yiğitlik, mertlik",
+      "answer": "ERLİK",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kır şiiri",
-      "answer": "İDİL",
+      "text": "Töre, görgü",
+      "answer": "ADAP",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sıkıntılı dönem",
-      "answer": "ÇİLE",
+      "text": "Hafif ağrı",
+      "answer": "SIZI",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Erden kız",
-      "answer": "BAKİRE",
+      "text": "Sahici",
+      "answer": "HAKİKİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
@@ -124,8 +124,8 @@
       "arrow": "down"
     },
     {
-      "text": "Uzun koltuk",
-      "answer": "KANEPE",
+      "text": "Fiyat çizelgesi",
+      "answer": "TARİFE",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -186,5 +186,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 58
+  "order": 72
 }

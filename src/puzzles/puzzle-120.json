@@ -1,137 +1,152 @@
 {
   "id": "puzzle-120",
-  "title": "Bulmaca 107",
+  "title": "Bulmaca 9",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Post işleyen",
-      "answer": "KÜRKÇÜ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Toplamada aktarılan sayı",
-      "answer": "ELDE",
-      "row": 2,
-      "col": 3,
+      "text": "İntikam",
+      "answer": "ÖÇ",
+      "row": 1,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kalaylı sac",
-      "answer": "TENEKE",
+      "text": "Adına sunma",
+      "answer": "İTHAF",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yatay karşıtı",
+      "answer": "DİKEY",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kabarık olan",
-      "answer": "ŞİŞİK",
+      "text": "Sallanan barfiks",
+      "answer": "TRAPEZ",
       "row": 4,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Heves, coşku",
-      "answer": "ŞEVK",
+      "text": "Soylu, yüce",
+      "answer": "ASİL",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kareli kumaş",
-      "answer": "EKOSE",
+      "text": "Hekim yardımcısı",
+      "answer": "ASİSTAN",
       "row": 6,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tamirat",
-      "answer": "ONARIM",
+      "text": "Haşlanan hamur",
+      "answer": "MAKARNA",
       "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Fayda",
-      "answer": "YARAR",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Göze çarpan parlaklık",
-      "answer": "PARILTI",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Jeneratör",
-      "answer": "ÜRETEÇ",
-      "row": 0,
+      "text": "Çizgi",
+      "answer": "HAT",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bilinç kaybı",
+      "answer": "KOMA",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaratıcı uğraş",
+      "answer": "SANAT",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ekin kalıntısı",
+      "answer": "SAMAN",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İğne süsü",
-      "answer": "OYA",
-      "row": 6,
+      "text": "Ekonomi bilimi",
+      "answer": "İKTİSAT",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kenarları eşit",
-      "answer": "EŞKENAR",
-      "row": 2,
+      "text": "Ev ayakkabısı",
+      "answer": "TERLİK",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Odun ölçüsü",
-      "answer": "ÇEKİ",
+      "text": "Yeniden canlandırma",
+      "answer": "İHYA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eş, zevce",
-      "answer": "KARI",
+      "text": "Su taşıyıcı",
+      "answer": "SAKA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bölüşülen pay",
-      "answer": "ÜLEŞ",
+      "text": "İş sahibi",
+      "answer": "PATRON",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kızgınlık, hiddet",
+      "answer": "ÖFKE",
       "row": 0,
-      "col": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ağız yoluyla",
-      "answer": "ORAL",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Gövdenin arka yüzü",
-      "answer": "SIRT",
+      "text": "Hatırlama töreni",
+      "answer": "ANMA",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Matematik eşitliği",
-      "answer": "DENKLEM",
-      "row": 0,
+      "text": "El işi mesleği",
+      "answer": "ZANAAT",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
     {
       "row": 0,
       "col": 2
@@ -142,37 +157,29 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 1
     },
     {
       "row": 2,
-      "col": 2
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
       "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 107
+  "difficulty": "kolay",
+  "order": 9
 }

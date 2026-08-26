@@ -1,138 +1,131 @@
 {
   "id": "puzzle-241",
-  "title": "Bulmaca 197",
+  "title": "Bulmaca 84",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Otobüste oturan",
-      "answer": "YOLCU",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Seyrek görülen",
-      "answer": "ENDER",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Perişan olma",
-      "answer": "MAHV",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Karesi verilen sayı",
-      "answer": "KAREKÖK",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İkincil, ikinci derece",
-      "answer": "TALİ",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kâr",
-      "answer": "KAZANÇ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Parça sanatı",
-      "answer": "KOLAJ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Onurlu",
-      "answer": "ŞEREFLİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Toplam miktar",
-      "answer": "TUTAR",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Işınların toplandığı nokta",
-      "answer": "ODAK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Atletizm dalı",
-      "answer": "KOŞU",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Görünen hayal",
-      "answer": "HAYALET",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Eziyet, sıkıntı",
-      "answer": "CEVR",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Sivas ilçesi",
-      "answer": "ZARA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Öğütülmüş tahıl",
-      "answer": "UN",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük raflı dolap",
-      "answer": "ETAJER",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Fakülte yöneticisi",
-      "answer": "DEKAN",
+      "text": "Para biriktirme kabı",
+      "answer": "KUMBARA",
       "row": 1,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Halk nefeslisi",
+      "answer": "MEY",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yazlık yer",
+      "answer": "SAYFİYE",
+      "row": 2,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kara ekmek tahılı",
+      "answer": "ÇAVDAR",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dinî öğüt",
+      "answer": "VAAZ",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tek geçiş kapısı",
+      "answer": "TURNİKE",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Peru'nun başkenti",
+      "answer": "LİMA",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sorun",
+      "answer": "MESELE",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bırakıp gitme",
+      "answer": "TERK",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Müdafaa",
+      "answer": "SAVUNMA",
+      "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kafkasya'da bir halk",
+      "answer": "AVAR",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Şehir alanı",
+      "answer": "MEYDAN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Erdem",
+      "answer": "FAZİLET",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Üst görevli",
+      "answer": "AMİR",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ölçüsü alınmış",
-      "answer": "ÖLÇÜLÜ",
-      "row": 3,
+      "text": "Ölçek",
+      "answer": "KİLE",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Oy (eski dilde)",
+      "answer": "REY",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Taslak çizim",
-      "answer": "KROKİ",
+      "text": "Bel bağı",
+      "answer": "KEMER",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Sure bölümü",
+      "answer": "AYET",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -141,23 +134,27 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 5
+      "col": 4
     },
     {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
+      "row": 2,
+      "col": 0
     },
     {
       "row": 5,
-      "col": 0
+      "col": 7
     },
     {
       "row": 6,
@@ -165,21 +162,25 @@
     },
     {
       "row": 7,
-      "col": 5
+      "col": 0
     },
     {
       "row": 7,
+      "col": 2
+    },
+    {
+      "row": 8,
       "col": 7
     },
     {
       "row": 9,
-      "col": 5
+      "col": 0
     },
     {
       "row": 9,
-      "col": 7
+      "col": 2
     }
   ],
-  "difficulty": "zor",
-  "order": 197
+  "difficulty": "kolay",
+  "order": 84
 }

@@ -1,146 +1,118 @@
 {
   "id": "puzzle-147",
-  "title": "Bulmaca 109",
+  "title": "Bulmaca 172",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Şehir",
-      "answer": "KENT",
+      "text": "Doğru, gerçek",
+      "answer": "ESSAH",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zürafa akrabası",
-      "answer": "OKAPİ",
+      "text": "Afrika maymunu",
+      "answer": "ŞEBEK",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ameliyatçı hekim",
-      "answer": "CERRAH",
+      "text": "Yemek, çorba",
+      "answer": "AŞ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Basmakalıp söz",
-      "answer": "KLİŞE",
-      "row": 4,
+      "text": "Süt tatlısı",
+      "answer": "KREMA",
+      "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Osmanlı'da öşür",
-      "answer": "AŞAR",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Zanaat sahibi",
-      "answer": "ESNAF",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yaşlı bilge",
-      "answer": "AKSAKAL",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Beyaz süs çiçeği",
-      "answer": "KARTOPU",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ölü karşıtı",
-      "answer": "DİRİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uzun kulaklı hayvan",
-      "answer": "EŞEK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İçki dağıtıcı",
-      "answer": "SAKİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yadsıma",
-      "answer": "İNKAR",
+      "text": "Hırvatistan'ın başkenti",
+      "answer": "ZAGREB",
       "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Koruma görevlisi",
+      "answer": "BEKÇİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Rengarenk taş",
+      "answer": "OPAL",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tutu",
+      "answer": "İPOTEK",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Keskin kokulu gaz",
+      "answer": "AMONYAK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Polis sopası",
+      "answer": "COP",
+      "row": 5,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Kaba et",
+      "answer": "POPO",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dönme kuvveti",
-      "answer": "TORK",
+      "text": "Türkmenistan'ın başkenti",
+      "answer": "AŞKABAT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çağdaş, modern",
-      "answer": "ASRİ",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gemi onarımı",
-      "answer": "KALAFAT",
-      "row": 1,
+      "text": "Yük bilmeyen at",
+      "answer": "HERGELE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Aşırı fiyat",
-      "answer": "FAHİŞ",
+      "text": "Sert, katı",
+      "answer": "BERK",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Basın açıklaması",
+      "answer": "DEMEÇ",
       "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Erkek koyun",
-      "answer": "KOÇ",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Üzüm içkisi",
-      "answer": "ŞARAP",
-      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İnternete ait",
-      "answer": "SİBER",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük büyüteç",
-      "answer": "LUP",
-      "row": 6,
+      "text": "Bakanlar kurulu",
+      "answer": "KABİNE",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -148,33 +120,69 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 2,
+      "col": 1
     },
     {
       "row": 4,
       "col": 0
     },
     {
-      "row": 9,
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
       "col": 4
     },
     {
-      "row": 9,
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
       "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 109
+  "order": 172
 }

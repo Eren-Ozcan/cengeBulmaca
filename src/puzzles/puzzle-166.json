@@ -1,124 +1,131 @@
 {
   "id": "puzzle-166",
-  "title": "Bulmaca 132",
+  "title": "Bulmaca 203",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Hareketli kimse",
-      "answer": "HOPPA",
+      "text": "Köyden büyük yer",
+      "answer": "KASABA",
       "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Onarım",
+      "answer": "TAMİR",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yumurtalı tatlı",
-      "answer": "KREP",
+      "text": "Yasak uyarıcı",
+      "answer": "DOPİNG",
       "row": 2,
-      "col": 1,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Kertik",
-      "answer": "ÇENTİK",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bu kadar çok",
-      "answer": "BUNCA",
+      "text": "Bölge",
+      "answer": "MINTIKA",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nezaket gösterisi",
-      "answer": "SELAM",
+      "text": "Dogma",
+      "answer": "İNAK",
       "row": 5,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gurur",
-      "answer": "KİBİR",
+      "text": "Türk hükümdarı",
+      "answer": "HAKAN",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gemi korkuluğu",
-      "answer": "KÜPEŞTE",
+      "text": "Tertemiz",
+      "answer": "LEKESİZ",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kamıştan üflemeli çalgı",
-      "answer": "NEY",
+      "text": "Talih",
+      "answer": "ŞANS",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İnce seyrek bez",
-      "answer": "TÜLBENT",
+      "text": "Titreyen",
+      "answer": "TİTREK",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Preslenmiş yakacak",
-      "answer": "BRİKET",
-      "row": 3,
+      "text": "Taş çekme oyunu",
+      "answer": "TOMBALA",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ok atıcı",
-      "answer": "OKÇU",
+      "text": "Giriş bölmesi",
+      "answer": "KAPI",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sihir",
-      "answer": "BÜYÜ",
+      "text": "Şehir",
+      "answer": "KENT",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İlke",
-      "answer": "PRENSİP",
+      "text": "Duadan sonra denen",
+      "answer": "AMİN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Işık açıklığı",
-      "answer": "PENCERE",
+      "text": "Ters, huysuz",
+      "answer": "AKSİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gemi dibi",
+      "answer": "SİNTİNE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ahmak, budala",
-      "answer": "APTAL",
+      "text": "Yorgun, bitkin, mecalsiz",
+      "answer": "ARGIN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sarı maden",
-      "answer": "ALTIN",
-      "row": 4,
+      "text": "Tüylü kumaş",
+      "answer": "KADİFE",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Eşya seti",
-      "answer": "TAKIM",
+      "text": "Sık ağlayan",
+      "answer": "AĞLAK",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -139,19 +146,11 @@
     },
     {
       "row": 1,
-      "col": 6
-    },
-    {
-      "row": 2,
       "col": 0
     },
     {
       "row": 2,
       "col": 6
-    },
-    {
-      "row": 3,
-      "col": 0
     },
     {
       "row": 6,
@@ -160,10 +159,6 @@
     {
       "row": 6,
       "col": 7
-    },
-    {
-      "row": 8,
-      "col": 3
     },
     {
       "row": 8,
@@ -176,8 +171,12 @@
     {
       "row": 8,
       "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 132
+  "difficulty": "zor",
+  "order": 203
 }

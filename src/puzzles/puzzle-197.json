@@ -1,133 +1,133 @@
 {
   "id": "puzzle-197",
-  "title": "Bulmaca 45",
+  "title": "Bulmaca 100",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Araştırma kurumu",
-      "answer": "ENSTİTÜ",
+      "text": "Dünya",
+      "answer": "YERKÜRE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Lezzet minerali",
-      "answer": "TUZ",
+      "text": "Yoga uygulayıcısı",
+      "answer": "YOGİ",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Karşılık",
+      "answer": "BEDEL",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Boşa gitme",
+      "answer": "HEBA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Rusya'nın başkenti",
+      "answer": "MOSKOVA",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hasılat",
+      "answer": "GELİR",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bitek",
+      "answer": "VERİMLİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalın destek",
+      "answer": "DİREK",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Terminal",
+      "answer": "OTOGAR",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Alevi ibadethanesi",
+      "answer": "CEMEVİ",
       "row": 2,
       "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "On tane",
-      "answer": "ONLUK",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Karıştırma kaşığı",
-      "answer": "KEPÇE",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Haykırma, bağırma",
-      "answer": "NARA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Salatalık yabani ot",
-      "answer": "HİNDİBA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sıcak tutan kap",
-      "answer": "TERMOS",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yöresel söyleyiş",
-      "answer": "ŞİVE",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "At demiri",
-      "answer": "NAL",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Gazete başlığı",
-      "answer": "MANŞET",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Terbiye, öğretim",
-      "answer": "EĞİTİM",
-      "row": 3,
-      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dur işareti",
-      "answer": "STOP",
-      "row": 0,
+      "text": "Kısa ceket",
+      "answer": "BOLERO",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ses, ahenk, nağme",
-      "answer": "NEVA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bronz",
-      "answer": "TUNÇ",
-      "row": 0,
+      "text": "Sağgörü",
+      "answer": "BASİRET",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Su boşaltma kanalı",
-      "answer": "DREN",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İntiba",
-      "answer": "İZLENİM",
+      "text": "Topluluk mensubu",
+      "answer": "ÜYE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hizmet alan",
-      "answer": "ABONE",
+      "text": "Kaldırma aleti",
+      "answer": "KRİKO",
       "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Vahşi at sporu",
+      "answer": "RODEO",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gözlem",
-      "answer": "RASAT",
+      "text": "Bir denizimiz",
+      "answer": "EGE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İleri geri",
+      "answer": "VOLTA",
       "row": 4,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İptal etme",
+      "answer": "İLGA",
+      "row": 1,
+      "col": 7,
       "arrow": "down"
     }
   ],
@@ -138,18 +138,14 @@
     },
     {
       "row": 0,
-      "col": 5
+      "col": 2
     },
     {
       "row": 0,
-      "col": 6
+      "col": 3
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
       "col": 7
     },
     {
@@ -158,37 +154,29 @@
     },
     {
       "row": 2,
+      "col": 2
+    },
+    {
+      "row": 6,
       "col": 5
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 7
     },
     {
       "row": 6,
       "col": 7
     },
     {
-      "row": 7,
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
       "col": 7
     },
     {
       "row": 9,
-      "col": 7
+      "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 45
+  "difficulty": "orta",
+  "order": 100
 }

@@ -1,125 +1,125 @@
 {
   "id": "puzzle-141",
-  "title": "Bulmaca 155",
+  "title": "Bulmaca 187",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Taklit, düzme",
-      "answer": "SAHTE",
+      "text": "Manyetik birim",
+      "answer": "GAUSS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İğne yapraklı ağaç",
-      "answer": "ÇAM",
+      "text": "Kareli kumaş",
+      "answer": "EKOSE",
       "row": 2,
-      "col": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İyiliğe borçluluk",
-      "answer": "MİNNET",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Para yatıran",
-      "answer": "MUDİ",
-      "row": 3,
+      "text": "Süreç adımı",
+      "answer": "AŞAMA",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şehir dışı",
-      "answer": "KIR",
+      "text": "Kaçık",
+      "answer": "MANYAK",
       "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Dişli kesici",
-      "answer": "TESTERE",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Şişe kapağı aracı",
-      "answer": "AÇACAK",
-      "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kadın hükümdar",
-      "answer": "MELİKE",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Okuyucu",
-      "answer": "OKUR",
-      "row": 8,
+      "text": "Hörgüçlü çöl hayvanı",
+      "answer": "DEVE",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Tenha",
-      "answer": "ISSIZ",
+      "text": "Kartal türü",
+      "answer": "KARAKUŞ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sık ağaçlı yer",
+      "answer": "KORULUK",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "At demiri",
+      "answer": "NAL",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Hoş karşıtı",
+      "answer": "NAHOŞ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sonbahar meyvesi",
-      "answer": "ARMUT",
-      "row": 0,
+      "text": "Eş, zevç",
+      "answer": "KOCA",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "En iyisi",
-      "answer": "İDEAL",
+      "text": "Tahıl deposu",
+      "answer": "AMBAR",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tenis oynayan",
-      "answer": "TENİSÇİ",
+      "text": "Gökyüzü",
+      "answer": "SEMA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Destek kaması",
-      "answer": "TAKOZ",
-      "row": 4,
+      "text": "Dürülmüş kağıt",
+      "answer": "RULO",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Rezalet olayı",
+      "answer": "SKANDAL",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ayakkabı kaşığı",
-      "answer": "ÇEKECEK",
-      "row": 1,
+      "text": "Toplam",
+      "answer": "YEKUN",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Anı",
-      "answer": "HATIRA",
-      "row": 0,
+      "text": "Dava vekili",
+      "answer": "AVUKAT",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Üstün derece",
-      "answer": "REKOR",
-      "row": 3,
+      "text": "Yaranmak için verilen",
+      "answer": "PEŞKEŞ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -127,11 +127,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
-      "col": 4
+      "col": 2
     },
     {
       "row": 0,
@@ -139,23 +139,31 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 1,
-      "col": 7
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 2,
+      "col": 1
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
       "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 1
+      "col": 7
     },
     {
       "row": 8,
@@ -164,16 +172,12 @@
     {
       "row": 9,
       "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 155
+  "difficulty": "zor",
+  "order": 187
 }

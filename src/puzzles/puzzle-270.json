@@ -1,132 +1,139 @@
 {
   "id": "puzzle-270",
-  "title": "Bulmaca 110",
+  "title": "Bulmaca 199",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Görme ile",
-      "answer": "OPTİK",
+      "text": "Japon güreşi",
+      "answer": "JUDO",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hak kazanmış",
-      "answer": "LAYIK",
+      "text": "Büyük başarısızlık",
+      "answer": "FİYASKO",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kan kanalı",
-      "answer": "DAMAR",
+      "text": "Halk dilinde büyü",
+      "answer": "BUYU",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bildik",
-      "answer": "TANIDIK",
+      "text": "Eksiksiz",
+      "answer": "TAM",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Keseli Avustralya hayvanı",
+      "answer": "KANGURU",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tarikat kurucusu",
-      "answer": "PİR",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kafka romanı",
-      "answer": "ŞATO",
+      "text": "Sonradan ortaya çıkan",
+      "answer": "ARIZ",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Zor dışkılama",
-      "answer": "KABIZ",
+      "text": "Padişah buyruğu",
+      "answer": "FERMAN",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tasvir",
+      "answer": "BETİM",
       "row": 6,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Fayda",
+      "answer": "YARAR",
+      "row": 8,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Öneri",
-      "answer": "TEKLİF",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük ışık",
-      "answer": "SPOT",
-      "row": 7,
+      "text": "Su birikintisi",
+      "answer": "AKMAZ",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İyilikbilmez",
-      "answer": "NANKÖR",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kullanışlı",
-      "answer": "PRATİK",
+      "text": "Gök-yer çizgisi",
+      "answer": "UFUK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Uzun yol koşusu",
-      "answer": "MARATON",
-      "row": 2,
+      "text": "Üst taraf",
+      "answer": "FEVK",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Din işleri",
+      "answer": "DİYANET",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Duyuru",
-      "answer": "İLAN",
+      "text": "Eğlence etkinliği",
+      "answer": "OYUN",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İkinci Yunan harfi",
-      "answer": "BETA",
+      "text": "İkiyüzlülük",
+      "answer": "RİYA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Düzensiz, karma",
-      "answer": "KARIŞIK",
-      "row": 0,
+      "text": "İspiyoncu",
+      "answer": "GAMMAZ",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Saçsız kafa",
-      "answer": "DAZLAK",
-      "row": 3,
+      "text": "Berber bıçağı",
+      "answer": "USTURA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sınırlama",
-      "answer": "KISIT",
-      "row": 0,
+      "text": "Çalışkanlığıyla bilinen böcek",
+      "answer": "KARINCA",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Maddi rahatlık",
-      "answer": "KONFOR",
-      "row": 3,
+      "text": "Hınzır",
+      "answer": "DOMUZ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -134,41 +141,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 8,
       "col": 4
     },
     {
-      "row": 8,
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
       "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 110
+  "difficulty": "zor",
+  "order": 199
 }

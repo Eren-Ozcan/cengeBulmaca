@@ -1,125 +1,146 @@
 {
   "id": "puzzle-212",
-  "title": "Bulmaca 196",
+  "title": "Bulmaca 63",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Sağlık görevlisi",
-      "answer": "HEMŞİRE",
+      "text": "Süprüntü",
+      "answer": "ÇÖP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kesilmiş olan",
-      "answer": "KESİK",
+      "text": "Tek hücreli canlı",
+      "answer": "AMİP",
+      "row": 0,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Rus parası",
+      "answer": "RUBLE",
       "row": 2,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Mahkeme görevlisi",
-      "answer": "MÜBAŞİR",
-      "row": 4,
+      "text": "Kısa yergi şiiri",
+      "answer": "EPİGRAM",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nağme",
-      "answer": "TERANE",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
+      "text": "Tamirat",
+      "answer": "ONARIM",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Toplu yer değiştirme",
-      "answer": "GÖÇ",
+      "text": "İngiliz ölçüsü",
+      "answer": "YARDA",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ankara ilçesi",
-      "answer": "AYAŞ",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Süre",
-      "answer": "MÜDDET",
+      "text": "Ezan okuyan",
+      "answer": "MÜEZZİN",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ut yapan usta",
-      "answer": "UTÇU",
+      "text": "Uygulama, yapma",
+      "answer": "İCRA",
       "row": 8,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kurulmuş birlik",
-      "answer": "ÖRGÜT",
+      "text": "Net karşıtı",
+      "answer": "FLU",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Keder, üzüntü",
-      "answer": "ELEM",
+      "text": "Gizli tuzak",
+      "answer": "PUSU",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski yapı kalıntısı",
+      "answer": "ÖREN",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yaşam süresi",
-      "answer": "ÖMÜR",
+      "text": "Sebep olan güç",
+      "answer": "AMİL",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Süt satıcısı",
-      "answer": "SÜTÇÜ",
-      "row": 2,
+      "text": "Geminin arkası",
+      "answer": "PUPA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yolsuzluk kuşkusu",
-      "answer": "ŞAİBE",
-      "row": 0,
+      "text": "Geri dönme",
+      "answer": "RÜCU",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek kardeş",
+      "answer": "BİRADER",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Siyah dut",
-      "answer": "KARADUT",
-      "row": 2,
+      "text": "İdrak",
+      "answer": "ALGI",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eğer",
-      "answer": "ŞAYET",
-      "row": 3,
+      "text": "Büyük acı, ıstırap",
+      "answer": "AZAP",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Patlayıcı madde",
+      "answer": "MERMİ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ayak direyen",
-      "answer": "İNATÇI",
-      "row": 3,
+      "text": "Patates atıştırmalığı",
+      "answer": "CİPS",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Milli spor",
-      "answer": "GÜREŞ",
-      "row": 1,
+      "text": "Kırmızı-beyaz karışımı",
+      "answer": "PEMBE",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -127,49 +148,37 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
+      "col": 3
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 5
-    },
-    {
       "row": 2,
       "col": 6
     },
     {
-      "row": 7,
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
       "col": 7
     },
     {
       "row": 8,
-      "col": 2
-    },
-    {
-      "row": 9,
       "col": 5
     },
     {
-      "row": 9,
+      "row": 8,
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 196
+  "difficulty": "kolay",
+  "order": 63
 }

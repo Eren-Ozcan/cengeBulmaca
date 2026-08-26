@@ -1,139 +1,132 @@
 {
   "id": "puzzle-116",
-  "title": "Bulmaca 163",
+  "title": "Bulmaca 166",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kan alma",
-      "answer": "HACAMAT",
+      "text": "Açık, apaçık",
+      "answer": "ALENİ",
       "row": 0,
-      "col": 1,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Aşırı korku",
-      "answer": "FOBİ",
+      "text": "İş bırakma",
+      "answer": "GREV",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İçten bağlılık",
-      "answer": "SADAKAT",
+      "text": "Sunma",
+      "answer": "TAKDİM",
       "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Arap para birimi",
+      "answer": "DİNAR",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nazlı, işveli",
-      "answer": "EDALI",
+      "text": "Yinelenen bölüm",
+      "answer": "NAKARAT",
       "row": 4,
-      "col": 2,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Töre, görgü",
-      "answer": "ADAP",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bire bir kopya",
-      "answer": "REPLİKA",
+      "text": "İyileşme dönemi",
+      "answer": "NEKAHET",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Fark, tefrik",
-      "answer": "AYRIM",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Boyun arkası",
-      "answer": "ENSE",
-      "row": 7,
+      "text": "Alt görevli",
+      "answer": "AST",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kurma, kuruluş",
-      "answer": "TESİS",
-      "row": 9,
-      "col": 0,
+      "text": "Kızıl at rengi",
+      "answer": "DORU",
+      "row": 7,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Uçak görevlisi",
-      "answer": "HOST",
-      "row": 0,
+      "text": "Yanma gazı",
+      "answer": "DUMAN",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kaygı, dert",
+      "answer": "TASA",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Oryantal dansçı",
+      "answer": "DANSÖZ",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Getirim, kazanç",
-      "answer": "RANT",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalın yün kumaş",
-      "answer": "ABA",
-      "row": 0,
+      "text": "Fiyat kâğıdı",
+      "answer": "ETİKET",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "'Önemi yok' sözü",
-      "answer": "NEYSE",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kastamonu ilçesi",
-      "answer": "CİDE",
+      "text": "Saf, bön",
+      "answer": "AVANAK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Baskı makinesi",
-      "answer": "PRES",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ada sakini",
-      "answer": "ADALI",
+      "text": "Siyah dut",
+      "answer": "KARADUT",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çok eski",
-      "answer": "KADİM",
+      "text": "Gelin çeyiz parası",
+      "answer": "DRAHOMA",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Parazit",
-      "answer": "ASALAK",
-      "row": 0,
+      "text": "Açık bölüm",
+      "answer": "TERAS",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tam aynı",
-      "answer": "TIPATIP",
-      "row": 2,
+      "text": "Felç",
+      "answer": "İNME",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Avrupa nehri",
+      "answer": "TUNA",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -145,6 +138,14 @@
     },
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
@@ -153,37 +154,33 @@
     },
     {
       "row": 0,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 1,
+      "col": 1
     },
     {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
+      "row": 2,
       "col": 6
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 2
     }
   ],
-  "difficulty": "zor",
-  "order": 163
+  "difficulty": "orta",
+  "order": 166
 }

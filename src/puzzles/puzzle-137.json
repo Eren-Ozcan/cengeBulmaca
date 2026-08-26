@@ -1,117 +1,124 @@
 {
   "id": "puzzle-137",
-  "title": "Bulmaca 193",
+  "title": "Bulmaca 183",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Rengarenk",
-      "answer": "ELVAN",
-      "row": 1,
+      "text": "Kötü dilek",
+      "answer": "BEDDUA",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kâr payı",
+      "answer": "FAİZ",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Karaciğer hastalığı",
+      "answer": "SİROZ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Danışma kurulu",
+      "answer": "ŞURA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İzleyici",
+      "answer": "SEYİRCİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Seyrek görülen",
+      "answer": "ENDER",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İş bırakma",
-      "answer": "GREV",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Törpü",
-      "answer": "EĞE",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Saat yüzü",
-      "answer": "KADRAN",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yedi kenarlı",
-      "answer": "YEDİGEN",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Önder",
-      "answer": "LİDER",
+      "text": "Yapıştırıcı",
+      "answer": "TUTKAL",
       "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Karşılıklı konuşma",
-      "answer": "DİYALOG",
-      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bedensel özürlü",
-      "answer": "SAKAT",
+      "text": "Eski dilde dünya",
+      "answer": "ALEM",
       "row": 8,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Akademili subay",
-      "answer": "KURMAY",
+      "text": "Yıkma",
+      "answer": "TAHRİP",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yazık, eyvah",
+      "answer": "EFSUS",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Rusça 'evet'",
-      "answer": "DA",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük açıklık",
-      "answer": "DELİK",
-      "row": 4,
+      "text": "Konut bölümü",
+      "answer": "DAİRE",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çalışma nöbeti",
-      "answer": "VARDİYA",
-      "row": 2,
+      "text": "Kavrayış",
+      "answer": "DİRAYET",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Üyelik ücreti",
-      "answer": "AİDAT",
+      "text": "Yunan rakısı",
+      "answer": "UZO",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yadsıma",
+      "answer": "İNKAR",
       "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ucu eğri kanca",
-      "answer": "ÇENGEL",
+      "text": "Küçük sarı meyve",
+      "answer": "ZERDALİ",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yunan aşk tanrısı",
-      "answer": "EROS",
-      "row": 5,
+      "text": "Hayvan tüccarı",
+      "answer": "CELEP",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Öz, çekirdek",
-      "answer": "NÜVE",
+      "text": "Dolgulu patates",
+      "answer": "KUMPİR",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -120,22 +127,6 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
       "col": 5
     },
     {
@@ -144,43 +135,39 @@
     },
     {
       "row": 1,
-      "col": 0
+      "col": 6
     },
     {
       "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
       "col": 2
-    },
-    {
-      "row": 2,
-      "col": 4
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 4
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 7
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 5
     },
     {
       "row": 9,
@@ -188,5 +175,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 193
+  "order": 183
 }

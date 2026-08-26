@@ -1,124 +1,124 @@
 {
   "id": "puzzle-161",
-  "title": "Bulmaca 199",
+  "title": "Bulmaca 221",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yazık, eyvah",
-      "answer": "EFSUS",
+      "text": "Kokulu bahçe çiçeği",
+      "answer": "ŞEBBOY",
       "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ücretli otomobil",
-      "answer": "TAKSİ",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Polonya'nın başkenti",
-      "answer": "VARŞOVA",
+      "text": "İrmikli şerbetli tatlı",
+      "answer": "REVANİ",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Odun kırıntısı",
+      "answer": "TALAŞ",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kalıcılık",
-      "answer": "BEKA",
+      "text": "Aşk",
+      "answer": "SEVİ",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tek geçiş kapısı",
-      "answer": "TURNİKE",
+      "text": "Hortum fırtınası",
+      "answer": "TORNADO",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "I simgeli element",
-      "answer": "İYOT",
+      "text": "Kimsesiz, boş",
+      "answer": "TEKİN",
       "row": 6,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ezan okuyan",
-      "answer": "MÜEZZİN",
+      "text": "Dar olan",
+      "answer": "ENSİZ",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aceleci",
-      "answer": "ACUL",
+      "text": "İmge, görüntü",
+      "answer": "İMAJ",
       "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yürütme organı",
-      "answer": "HÜKUMET",
+      "text": "İyileştirme, düzeltme",
+      "answer": "ISLAH",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çağrı",
-      "answer": "DAVET",
-      "row": 0,
+      "text": "Kazıklı humma",
+      "answer": "TETANOS",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Baharatlı tohum",
-      "answer": "KAKULE",
-      "row": 1,
+      "text": "Aferin",
+      "answer": "BRAVO",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gizli sır",
-      "answer": "ESRAR",
+      "text": "Semptom",
+      "answer": "BELİRTİ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Priz ucu",
-      "answer": "FİŞ",
+      "text": "Verimli düzlük",
+      "answer": "OVA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Düzen",
-      "answer": "NİZAM",
+      "text": "Temiz ortam",
+      "answer": "NEZİH",
       "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Oldukça iyi",
-      "answer": "İYİCE",
-      "row": 4,
+      "text": "Ağzı kapatan örtü",
+      "answer": "YAŞMAK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yaşanılan ev",
-      "answer": "KONUT",
+      "text": "Ünlü kadın sanatçı",
+      "answer": "DİVA",
       "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Mutluluk",
-      "answer": "SAADET",
+      "text": "Ufak tefek",
+      "answer": "MİNYON",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -127,31 +127,27 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
+      "row": 3,
       "col": 6
     },
     {
-      "row": 2,
+      "row": 7,
       "col": 5
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 1
     },
     {
       "row": 7,
@@ -159,11 +155,15 @@
     },
     {
       "row": 8,
-      "col": 1
+      "col": 2
     },
     {
-      "row": 8,
-      "col": 2
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
     },
     {
       "row": 9,
@@ -171,5 +171,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 199
+  "order": 221
 }

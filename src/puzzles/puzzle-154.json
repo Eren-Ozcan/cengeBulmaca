@@ -1,132 +1,132 @@
 {
   "id": "puzzle-154",
-  "title": "Bulmaca 35",
+  "title": "Bulmaca 130",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Saydam taş",
-      "answer": "BERİL",
+      "text": "Kutsal simge",
+      "answer": "TOTEM",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Seçiciler kurulu",
-      "answer": "JÜRİ",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kapaklı pişirme kabı",
-      "answer": "TENCERE",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tüfek kılıcı",
-      "answer": "SÜNGÜ",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Güldürü oyunu",
-      "answer": "SKEÇ",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Para torbası",
-      "answer": "KESE",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Günlük haber yayını",
-      "answer": "GAZETE",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Veda töreni",
-      "answer": "JÜBİLE",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Enerji çeviren düzenek",
-      "answer": "MAKİNE",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tamamı",
-      "answer": "BÜTÜN",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Patlama sesi",
-      "answer": "GÜM",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Ermiş, veli",
-      "answer": "EREN",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce karşıtı",
-      "answer": "KABA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Boks alanı",
-      "answer": "RİNG",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çarpma beresi",
-      "answer": "EZİK",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İri yapılı",
-      "answer": "CÜSSELİ",
+      "text": "Yargılanan kimse",
+      "answer": "SANIK",
       "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Belli, açık",
+      "answer": "ZAHİR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Küçük deniz kabuklusu",
+      "answer": "KARİDES",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Alışveriş ağı",
+      "answer": "FİLE",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Anane",
+      "answer": "GELENEK",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Rahim kazıma",
+      "answer": "KÜRETAJ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Söylence, efsane",
+      "answer": "MİT",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Musluklu yıkama yeri",
+      "answer": "LAVABO",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Donuk, mat",
+      "answer": "OPAK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sözde, sanki",
+      "answer": "GÜYA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Olay bilgisi",
+      "answer": "HABER",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Savaş tutsağı",
+      "answer": "ESİR",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bulgar parası",
+      "answer": "LEVA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ustalık",
+      "answer": "MARİFET",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dokuma bitkisi",
-      "answer": "KETEN",
-      "row": 4,
+      "text": "Üreteç",
+      "answer": "DİNAMO",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ocağa kömür atan",
-      "answer": "ATEŞÇİ",
-      "row": 0,
+      "text": "Hüzünlü şiir",
+      "answer": "ELEJİ",
+      "row": 3,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Toprak parçası",
+      "answer": "KESEK",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -134,11 +134,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 4
+      "col": 2
     },
     {
       "row": 0,
@@ -147,21 +143,17 @@
     {
       "row": 0,
       "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
-      "col": 6
-    },
-    {
-      "row": 2,
       "col": 5
     },
     {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 4,
+      "row": 1,
       "col": 6
     },
     {
@@ -169,30 +161,22 @@
       "col": 0
     },
     {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
       "row": 7,
       "col": 7
     },
     {
       "row": 8,
-      "col": 6
+      "col": 2
     },
     {
-      "row": 8,
-      "col": 7
+      "row": 9,
+      "col": 6
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 35
+  "difficulty": "orta",
+  "order": 130
 }

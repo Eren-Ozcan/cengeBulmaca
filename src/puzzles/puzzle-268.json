@@ -1,146 +1,132 @@
 {
   "id": "puzzle-268",
-  "title": "Bulmaca 72",
+  "title": "Bulmaca 52",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yön bulma aracı",
-      "answer": "PUSULA",
+      "text": "Maneviyat",
+      "answer": "MORAL",
       "row": 0,
-      "col": 1,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Hayat",
-      "answer": "YAŞAM",
+      "text": "Yetkili kimse",
+      "answer": "VEKİL",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Toprak fırın",
-      "answer": "TANDIR",
+      "text": "Kazakistan'ın başkenti",
+      "answer": "ASTANA",
       "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Birden kesilme",
-      "answer": "SEKTE",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Fakire verilen",
-      "answer": "SADAKA",
-      "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Torik öncesi balık",
-      "answer": "PALAMUT",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kabuk kırığı",
-      "answer": "FAY",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Birden anlama sesi",
-      "answer": "DANK",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bunaltı",
-      "answer": "SIKINTI",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kayma ayakkabısı",
-      "answer": "PATEN",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Oksit tabakası",
-      "answer": "PAS",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Erkek hizmetçi",
-      "answer": "UŞAK",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Rakam kümesi",
-      "answer": "SAYI",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Enerji üretim yeri",
-      "answer": "SANTRAL",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İlke, prensip",
-      "answer": "UMDE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Çocuk bakıcısı",
-      "answer": "DADI",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyücü",
-      "answer": "ŞAMAN",
+      "text": "Sırt dayanağı",
+      "answer": "ARKALIK",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kayının eşi",
+      "answer": "ELTİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Önce karşıtı",
+      "answer": "SONRA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yemek konan nesne",
+      "answer": "KAP",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şeref, haysiyet",
+      "answer": "ONUR",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Bitkisel yakıt",
+      "answer": "TURBA",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Osmanlı parası",
+      "answer": "AKÇE",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Çabuk satma",
+      "answer": "ALSAT",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyaz süs çiçeği",
+      "answer": "KARTOPU",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Uyuşuk",
+      "answer": "MİSKİN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Balık aracı",
+      "answer": "OLTA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Giyside omuz parçası",
+      "answer": "ROBA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yıllık",
+      "answer": "ALMANAK",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Farklı",
-      "answer": "AYRI",
+      "text": "Eşi, tıpkısı",
+      "answer": "AYNI",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kalın ve dayanıklı",
-      "answer": "KUNT",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Destek verme",
-      "answer": "KATKI",
-      "row": 4,
+      "text": "Erkek sanatçı",
+      "answer": "AKTÖR",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -152,6 +138,14 @@
     },
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 5
     },
     {
@@ -160,29 +154,41 @@
     },
     {
       "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 7
+      "col": 1
     },
     {
       "row": 3,
-      "col": 7
+      "col": 0
     },
     {
       "row": 5,
-      "col": 0
+      "col": 6
     },
     {
       "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
       "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 2
     }
   ],
   "difficulty": "kolay",
-  "order": 72
+  "order": 52
 }

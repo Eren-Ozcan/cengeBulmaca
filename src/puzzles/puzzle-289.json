@@ -1,134 +1,123 @@
 {
   "id": "puzzle-289",
-  "title": "Bulmaca 87",
+  "title": "Bulmaca 158",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Risk",
-      "answer": "RİZİKO",
+      "text": "Yutma organı",
+      "answer": "BOĞAZ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yapı arazisi",
-      "answer": "ARSA",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bar görevlisi",
-      "answer": "BARMEN",
+      "text": "Kabuk baharatı",
+      "answer": "TARÇIN",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Deriye konan ilaç",
-      "answer": "YAKI",
+      "text": "İç sıkıntısı",
+      "answer": "KASVET",
       "row": 4,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Müzikte uyum",
-      "answer": "ARMONİ",
-      "row": 4,
-      "col": 1,
-      "arrow": "down-right"
+      "text": "Av alanı",
+      "answer": "AVLAK",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Eksiği tamamlama",
-      "answer": "İKMAL",
+      "text": "Kuş tutan yapışkan",
+      "answer": "ÖKSE",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ordu görevlisi",
-      "answer": "SUBAY",
+      "text": "Doğal katı madde",
+      "answer": "MİNERAL",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Divan şiirinde şarap",
-      "answer": "BADE",
+      "text": "İçilen bitki",
+      "answer": "ÇAY",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ekmek yiyeceği",
-      "answer": "KATIK",
+      "text": "Ayrılık sözü",
+      "answer": "ELVEDA",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Hafif topal",
-      "answer": "AKSAK",
-      "row": 4,
+      "text": "Rahatlama, memnuniyet",
+      "answer": "OH",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Diz üstü şort",
-      "answer": "BERMUDA",
+      "text": "Maden süslemesi",
+      "answer": "KAKMA",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Öğüt verme",
+      "answer": "TAVSİYE",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tapınak",
-      "answer": "MABET",
-      "row": 4,
+      "text": "Soy bakımından",
+      "answer": "ASLEN",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yatak kasası",
-      "answer": "KARYOLA",
+      "text": "Boş konuşma",
+      "answer": "ZIRVA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ağaçlık alan",
-      "answer": "ORMAN",
-      "row": 0,
+      "text": "Zıplayan böcek",
+      "answer": "ÇEKİRGE",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Taş oturak",
-      "answer": "SEKİ",
-      "row": 1,
+      "text": "Ölüm ezgisi",
+      "answer": "AĞIT",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Zan, zehap",
-      "answer": "SANI",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Geri verilecek para",
-      "answer": "BORÇ",
-      "row": 5,
+      "text": "Din bilgini",
+      "answer": "MOLLA",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 1
-    },
     {
       "row": 0,
       "col": 2
@@ -139,7 +128,19 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
@@ -147,27 +148,27 @@
     },
     {
       "row": 2,
-      "col": 1
+      "col": 7
     },
     {
       "row": 3,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 5,
+      "col": 6
     },
     {
       "row": 6,
-      "col": 5
+      "col": 4
     },
     {
       "row": 6,
       "col": 6
     },
     {
-      "row": 7,
-      "col": 6
+      "row": 8,
+      "col": 3
     },
     {
       "row": 8,
@@ -175,17 +176,13 @@
     },
     {
       "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
       "col": 6
     },
     {
       "row": 9,
-      "col": 6
+      "col": 0
     }
   ],
   "difficulty": "orta",
-  "order": 87
+  "order": 158
 }

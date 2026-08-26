@@ -1,132 +1,132 @@
 {
   "id": "puzzle-164",
-  "title": "Bulmaca 145",
+  "title": "Bulmaca 111",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Diri, canlı",
-      "answer": "ZİNDE",
+      "text": "Kahvedeki uyarıcı",
+      "answer": "KAFEİN",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Talih",
-      "answer": "ŞANS",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Doldurulmuş döşek",
-      "answer": "ŞİLTE",
+      "text": "İkinci şahıs",
+      "answer": "SEN",
       "row": 2,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Veteriner",
-      "answer": "BAYTAR",
-      "row": 4,
-      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Halk dilinde çadır",
-      "answer": "OTAK",
-      "row": 4,
+      "text": "Servis görevlisi",
+      "answer": "GARSON",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Panzehir",
-      "answer": "ANTİDOT",
-      "row": 6,
+      "text": "Sıvı birimi",
+      "answer": "LİTRE",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Anlaşmazlık",
-      "answer": "İHTİLAF",
-      "row": 6,
+      "text": "Para türü",
+      "answer": "NAKİT",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tüylü yeşil meyve",
-      "answer": "KİVİ",
-      "row": 8,
+      "text": "Yemek kabı",
+      "answer": "TABAK",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Vuruş sesi",
-      "answer": "ŞAK",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Özet",
+      "answer": "HÜLASA",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Güzel kokulu madde",
-      "answer": "MİSK",
+      "text": "Yavaşça akan",
+      "answer": "IĞIL",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Simsiyah",
+      "answer": "KAPKARA",
       "row": 9,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ağaç levha",
-      "answer": "TAHTA",
-      "row": 4,
+      "text": "Parazit",
+      "answer": "ASALAK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Nal çakan",
-      "answer": "NALBANT",
+      "text": "Genç piliç",
+      "answer": "FERİK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yöntem, tabiye",
-      "answer": "TAKTİK",
-      "row": 2,
+      "text": "Araştırma kurumu",
+      "answer": "ENSTİTÜ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Cinsiyet",
-      "answer": "EŞEY",
+      "text": "Çevre, etraf",
+      "answer": "ORTALIK",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyükanne",
+      "answer": "NİNE",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Araştırmayla ulaşılan",
-      "answer": "İLİM",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sağaltma",
-      "answer": "TEDAVİ",
-      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Büro",
-      "answer": "OFİS",
+      "text": "Tarak yapılan kabuk",
+      "answer": "BAĞA",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Deri sertleşmesi",
+      "answer": "NASIR",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yüz",
-      "answer": "SURAT",
-      "row": 1,
+      "text": "Yakın karşıtı",
+      "answer": "UZAK",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Saat söylerken kullanılan",
+      "answer": "KALA",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -134,27 +134,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 5
+      "col": 4
     },
     {
       "row": 0,
       "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 5
     },
     {
       "row": 1,
@@ -162,21 +146,33 @@
     },
     {
       "row": 2,
-      "col": 1
+      "col": 6
     },
     {
       "row": 3,
       "col": 6
     },
     {
+      "row": 6,
+      "col": 0
+    },
+    {
       "row": 7,
-      "col": 7
+      "col": 0
     },
     {
       "row": 8,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 2
     }
   ],
   "difficulty": "orta",
-  "order": 145
+  "order": 111
 }

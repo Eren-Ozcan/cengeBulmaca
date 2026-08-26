@@ -1,125 +1,132 @@
 {
   "id": "puzzle-249",
-  "title": "Bulmaca 76",
+  "title": "Bulmaca 110",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Su içilen cam",
-      "answer": "BARDAK",
+      "text": "Beden etkinliği",
+      "answer": "SPOR",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gelecek okuma",
-      "answer": "FAL",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gerekme durumu",
-      "answer": "İCAP",
+      "text": "Burun duyumu",
+      "answer": "KOKU",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Uğru",
-      "answer": "HIRSIZ",
+      "text": "Dilimli et",
+      "answer": "SALAM",
       "row": 3,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Vuzuh",
-      "answer": "AÇIKLIK",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Deli",
-      "answer": "KAÇIK",
-      "row": 5,
+      "text": "Hoşa giden",
+      "answer": "ZARİF",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tıkırdama sesi",
-      "answer": "TIKIRTI",
+      "text": "Ramazan namazı",
+      "answer": "TERAVİH",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hizmetli",
+      "answer": "HADEME",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ülke, yurt",
+      "answer": "DİYAR",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Makbuz",
-      "answer": "ALINDI",
-      "row": 9,
+      "text": "Kokulu bahar çiçeği",
+      "answer": "NERGİS",
+      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çeşni tozları",
-      "answer": "BAHARAT",
+      "text": "İkili şarkı",
+      "answer": "DÜET",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yağlı merhem",
+      "answer": "POMAT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ekşimsi orman meyvesi",
-      "answer": "ALIÇ",
-      "row": 0,
+      "text": "Tutulan kimse",
+      "answer": "REHİNE",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tutuşturma parçası",
-      "answer": "ÇIRA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yiyecek, azık, nasip",
-      "answer": "RIZIK",
+      "text": "Bulaşma",
+      "answer": "SİRAYET",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yuvarlak nesne",
-      "answer": "DİSK",
-      "row": 0,
+      "text": "Görüş ortağı",
+      "answer": "KAFADAR",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sahil",
-      "answer": "KIYI",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Acı yemek",
-      "answer": "ACILI",
+      "text": "Dar karşıtı",
+      "answer": "BOL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hafriyat",
-      "answer": "KAZI",
-      "row": 0,
+      "text": "Zorunlu para",
+      "answer": "VERGİ",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok eski",
+      "answer": "KADİM",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Apartman görevlisi",
-      "answer": "KAPICI",
-      "row": 3,
+      "text": "Taş kırıntısı",
+      "answer": "KUM",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Tümü",
+      "answer": "HEPSİ",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -127,7 +134,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
       "row": 0,
@@ -135,49 +142,37 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 4
     },
     {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 5,
+      "row": 0,
       "col": 6
     },
     {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 8,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 1
+      "row": 2,
+      "col": 2
     },
     {
-      "row": 8,
-      "col": 3
+      "row": 6,
+      "col": 0
     },
     {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
+      "row": 7,
       "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 76
+  "difficulty": "orta",
+  "order": 110
 }

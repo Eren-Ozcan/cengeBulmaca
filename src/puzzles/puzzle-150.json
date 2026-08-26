@@ -1,118 +1,125 @@
 {
   "id": "puzzle-150",
-  "title": "Bulmaca 154",
+  "title": "Bulmaca 196",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Ucuz karşıtı",
-      "answer": "PAHALI",
+      "text": "Algılanan nesne",
+      "answer": "MADDE",
       "row": 0,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Deney hayvanı",
-      "answer": "KOBAY",
+      "text": "Pistonlu çalgı",
+      "answer": "TUBA",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sirk soytarısı",
-      "answer": "PALYAÇO",
+      "text": "Gemi işçileri",
+      "answer": "TAYFA",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İş paydaşı",
-      "answer": "ORTAK",
-      "row": 4,
+      "text": "Kötü",
+      "answer": "FENA",
+      "row": 3,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Üzüm suyu",
-      "answer": "ŞIRA",
+      "text": "Tekdüze",
+      "answer": "MONOTON",
       "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Uzun yol kamyonu",
-      "answer": "TIR",
-      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hastalık, dert",
-      "answer": "İLLET",
+      "text": "Kibarlık",
+      "answer": "NEZAKET",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kesin yargı",
+      "answer": "KARAR",
       "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kin, hınç, garez",
-      "answer": "GARAZ",
+      "text": "Kenar süsü dikişi",
+      "answer": "PİKO",
       "row": 8,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Kaba et",
-      "answer": "POPO",
+      "text": "Birleştirme alaşımı",
+      "answer": "LEHİM",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Para işleri görevlisi",
+      "answer": "MUTEMET",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Asıl konu",
-      "answer": "TEMA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Mübalağa",
-      "answer": "ABARTI",
+      "text": "Sert siyah ağaç",
+      "answer": "ABANOZ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yakışıksız davranış",
-      "answer": "HALT",
+      "text": "İstinat noktası",
+      "answer": "DAYANAK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dileme, yalvarma",
-      "answer": "RİCA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İçki düşkünü",
-      "answer": "AYYAŞ",
-      "row": 0,
+      "text": "Zürafa akrabası",
+      "answer": "OKAPİ",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Zeki, uslu",
-      "answer": "AKILLI",
-      "row": 2,
+      "text": "Özel söz",
+      "answer": "TERİM",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Restoran",
-      "answer": "LOKANTA",
-      "row": 1,
+      "text": "Halk dilinde çadır",
+      "answer": "OTAK",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Uçsuz geniş",
+      "answer": "ENGİN",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Direksiyon parçası",
+      "answer": "ROT",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -124,6 +131,10 @@
     },
     {
       "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 5
     },
     {
@@ -131,27 +142,23 @@
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 2,
+      "col": 5
     },
     {
       "row": 2,
       "col": 6
     },
     {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 4
-    },
-    {
-      "row": 6,
+      "row": 3,
       "col": 6
     },
     {
@@ -160,29 +167,21 @@
     },
     {
       "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
       "col": 2
     },
     {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
       "row": 9,
       "col": 6
-    },
-    {
-      "row": 9,
-      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 154
+  "difficulty": "zor",
+  "order": 196
 }

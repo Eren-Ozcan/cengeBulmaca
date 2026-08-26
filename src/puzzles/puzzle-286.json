@@ -1,132 +1,97 @@
 {
   "id": "puzzle-286",
-  "title": "Bulmaca 143",
+  "title": "Bulmaca 220",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Notluk defter",
-      "answer": "AJANDA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Meyve",
+      "answer": "YEMİŞ",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Şiş işi",
-      "answer": "ÖRGÜ",
+      "text": "Gömlek aksesuarı",
+      "answer": "KRAVAT",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Eli açık",
-      "answer": "BONKÖR",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Suya batma",
-      "answer": "GARK",
+      "text": "Savunma",
+      "answer": "MÜDAFAA",
       "row": 4,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Dalgalı saç",
-      "answer": "ONDÜLE",
-      "row": 4,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Karadeniz ilimiz",
-      "answer": "ORDU",
-      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kalınca değnek",
-      "answer": "SIRIK",
-      "row": 7,
+      "text": "Çiçek satan",
+      "answer": "ÇİÇEKÇİ",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Emek kazancı",
-      "answer": "PARA",
+      "text": "Koyuluk derecesi",
+      "answer": "KIVAM",
       "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bardak altı",
-      "answer": "ALTLIK",
-      "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ölüm ezgisi",
-      "answer": "AĞIT",
+      "text": "Beş parçalı",
+      "answer": "BEŞLİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Devenin tümseği",
+      "answer": "HÖRGÜÇ",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Yelken ipi",
-      "answer": "ORSA",
-      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gemi bayrağı",
-      "answer": "BANDIRA",
-      "row": 2,
+      "text": "İplik bağlantısı",
+      "answer": "DİKİŞ",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Değişmeyen",
-      "answer": "DURAL",
+      "text": "İki ışının kesişimi",
+      "answer": "AÇI",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çevrim",
-      "answer": "DÖNGÜ",
-      "row": 0,
+      "text": "Düşünmeden davranan",
+      "answer": "FEVRİ",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sırt dayanağı",
-      "answer": "ARKALIK",
+      "text": "Kesinlikle",
+      "answer": "MUTLAKA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Uyarınca, gereğince",
-      "answer": "GÖRE",
-      "row": 1,
+      "text": "Çıkmaz",
+      "answer": "AÇMAZ",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Anadolu'nun halkı",
-      "answer": "TÜRK",
+      "text": "Tanrı'ya ortak koşma",
+      "answer": "ŞİRK",
       "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "İnternette bağlantı",
-      "answer": "LİNK",
-      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -134,7 +99,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
@@ -146,27 +111,55 @@
     },
     {
       "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 6
+    },
+    {
+      "row": 1,
+      "col": 0
     },
     {
       "row": 2,
-      "col": 1
+      "col": 2
     },
     {
-      "row": 6,
+      "row": 2,
+      "col": 3
+    },
+    {
+      "row": 2,
       "col": 4
     },
     {
-      "row": 6,
+      "row": 2,
       "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 7
     },
     {
       "row": 7,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 7
     },
     {
       "row": 8,
-      "col": 4
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 3
     },
     {
       "row": 8,
@@ -174,13 +167,17 @@
     },
     {
       "row": 8,
-      "col": 6
+      "col": 7
     },
     {
       "row": 9,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 143
+  "difficulty": "zor",
+  "order": 220
 }

@@ -1,132 +1,132 @@
 {
   "id": "puzzle-276",
-  "title": "Bulmaca 173",
+  "title": "Bulmaca 177",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Çift sığırı",
-      "answer": "ÖKÜZ",
+      "text": "Gülmece",
+      "answer": "MİZAH",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yer bilgisi",
-      "answer": "ADRES",
+      "text": "Oda üstü",
+      "answer": "TAVAN",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yer kabuğu tozu",
-      "answer": "TOPRAK",
+      "text": "Saz örtüsü",
+      "answer": "HASIR",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sindirim sıvısı",
-      "answer": "SAFRA",
+      "text": "Zeytinyağlı fasulye",
+      "answer": "PİLAKİ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bilinmeyen kimse",
-      "answer": "BİRİ",
+      "text": "Satış noktası",
+      "answer": "BAYİ",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Dış tabaka",
-      "answer": "KABUK",
+      "text": "Çoban abası",
+      "answer": "KEPENEK",
       "row": 5,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Ağız-gırtlak arası",
-      "answer": "YUTAK",
+      "text": "Özel bölme",
+      "answer": "LOCA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ermiş hüneri",
-      "answer": "KERAMET",
+      "text": "Camlı taraça",
+      "answer": "VERANDA",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İspanya'da bir halk",
-      "answer": "BASK",
+      "text": "Belge geçer",
+      "answer": "FAKS",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kır koşusu",
-      "answer": "KROS",
+      "text": "Gerekme durumu",
+      "answer": "İCAP",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Oyuncak bebek",
-      "answer": "KUKA",
+      "text": "Taşıma kabı",
+      "answer": "KOVA",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Toprak altı yumrusu",
-      "answer": "PATATES",
+      "text": "Cam silen kol",
+      "answer": "SİLECEK",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Mektup kesesi",
-      "answer": "ZARF",
+      "text": "Hareketsiz, işlevsiz",
+      "answer": "ATIL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ev ile anılan söz",
-      "answer": "BARK",
+      "text": "Benekli postlu yırtıcı",
+      "answer": "PARS",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Deri kaplı çalgı",
-      "answer": "DARBUKA",
-      "row": 1,
+      "text": "Yıkıntı",
+      "answer": "HARABE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eskil",
-      "answer": "ARKAİK",
-      "row": 0,
+      "text": "Yasa",
+      "answer": "KANUN",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tatlı çörek",
-      "answer": "KEK",
-      "row": 6,
+      "text": "Uyak",
+      "answer": "KAFİYE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kılıç sporu",
-      "answer": "ESKRİM",
-      "row": 0,
+      "text": "Makama erişme",
+      "answer": "İKBAL",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -138,23 +138,23 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
+      "col": 7
     },
     {
       "row": 5,
@@ -162,11 +162,11 @@
     },
     {
       "row": 7,
-      "col": 5
+      "col": 4
     },
     {
       "row": 7,
-      "col": 7
+      "col": 6
     },
     {
       "row": 9,
@@ -178,9 +178,9 @@
     },
     {
       "row": 9,
-      "col": 7
+      "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 173
+  "difficulty": "orta",
+  "order": 177
 }

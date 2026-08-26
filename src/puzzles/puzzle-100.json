@@ -1,110 +1,110 @@
 {
   "id": "puzzle-100",
-  "title": "Bulmaca 135",
+  "title": "Bulmaca 141",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Hınzır",
-      "answer": "DOMUZ",
+      "text": "Deneme çalışması",
+      "answer": "PROVA",
       "row": 1,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bazik madde",
-      "answer": "ALKALİ",
+      "text": "Muayene yeri",
+      "answer": "KLİNİK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aleyh karşıtı",
-      "answer": "LEH",
+      "text": "Sevda",
+      "answer": "AŞK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Taklit yergi",
-      "answer": "PARODİ",
+      "text": "Eskil",
+      "answer": "ARKAİK",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çabucak",
-      "answer": "HEMEN",
+      "text": "Toplanmış bütün",
+      "answer": "DERME",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üniversite diploması",
-      "answer": "LİSANS",
+      "text": "Kontun karısı",
+      "answer": "KONTES",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hindistan'ın kutsal nehri",
-      "answer": "GANJ",
+      "text": "Satış tutarı",
+      "answer": "CİRO",
       "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Amaç",
-      "answer": "HEDEF",
+      "text": "Borç belgesi",
+      "answer": "SENET",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yemin sözü",
-      "answer": "VALLAHİ",
+      "text": "Istekalı masa oyunu",
+      "answer": "BİLARDO",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Biçilmiş tomruk",
-      "answer": "KERESTE",
+      "text": "Eziyet",
+      "answer": "İŞKENCE",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gelin çeyiz parası",
-      "answer": "DRAHOMA",
+      "text": "Gösteri levhası",
+      "answer": "PANKART",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Muvazene",
-      "answer": "DENGE",
+      "text": "Ortak emek",
+      "answer": "İMECE",
       "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Vicdan duygusu",
-      "answer": "İNSAF",
+      "text": "Kesim yüzeyi",
+      "answer": "KESİT",
       "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çelik kaplama",
-      "answer": "ZIRH",
+      "text": "Atış uzaklığı",
+      "answer": "ATIM",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Ateşleme parçası",
-      "answer": "BUJİ",
+      "text": "Dini tasvir; simge",
+      "answer": "İKON",
       "row": 5,
       "col": 7,
       "arrow": "down"
@@ -181,5 +181,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 135
+  "order": 141
 }

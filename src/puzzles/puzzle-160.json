@@ -1,125 +1,118 @@
 {
   "id": "puzzle-160",
-  "title": "Bulmaca 89",
+  "title": "Bulmaca 194",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Pat sesi",
-      "answer": "PATIRTI",
+      "text": "Ayaklı bardak",
+      "answer": "KADEH",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üstün zekâ",
-      "answer": "DEHA",
+      "text": "Sıradan, kalitesiz",
+      "answer": "ADİ",
       "row": 2,
-      "col": 4,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Bel-kalça arası",
-      "answer": "BASEN",
+      "text": "Çok bilgili",
+      "answer": "ALLAME",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Açıkça söyleme",
+      "answer": "İKRAR",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sancak taşıyan",
-      "answer": "ALEMDAR",
+      "text": "Sahne sanatı",
+      "answer": "TİYATRO",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Güldüren söz",
-      "answer": "ESPRİ",
+      "text": "İç rahatlığı",
+      "answer": "SAFA",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zihindeki genel",
-      "answer": "KAVRAM",
+      "text": "Koruma emeği",
+      "answer": "BAKIM",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çaydan küçük akarsu",
-      "answer": "DERE",
+      "text": "Ses (eski dilde)",
+      "answer": "SEDA",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yol birleşimi",
-      "answer": "ÇAT",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Lezzetsiz",
-      "answer": "TATSIZ",
+      "text": "Yürütme hakkı",
+      "answer": "YETKİ",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Potaya atılan sayı",
-      "answer": "BASKET",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
+      "text": "Selçuklu lalası",
+      "answer": "ATABEY",
+      "row": 4,
+      "col": 0,
+      "arrow": "right-down"
     },
     {
-      "text": "Parmak zili",
-      "answer": "ÇALPARA",
-      "row": 2,
+      "text": "Anlatım, açıklama",
+      "answer": "İFADE",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Zenginlik",
-      "answer": "SERVET",
-      "row": 3,
+      "text": "Hak etme",
+      "answer": "LİYAKAT",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Mıknatıslı element",
-      "answer": "DEMİR",
-      "row": 2,
+      "text": "Çember",
+      "answer": "HALKA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eğilim, yönelim",
-      "answer": "TREND",
+      "text": "Ok atma oyunu",
+      "answer": "DART",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapı tasarımcısı",
+      "answer": "MİMAR",
       "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İki ışının kesişimi",
-      "answer": "AÇI",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Gafil",
-      "answer": "AYMAZ",
-      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Şiir ustası",
-      "answer": "ŞAİR",
-      "row": 1,
+      "text": "Toprak aşınması",
+      "answer": "EROZYON",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -139,14 +132,14 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 0,
+      "row": 1,
       "col": 7
     },
     {
@@ -159,11 +152,7 @@
     },
     {
       "row": 2,
-      "col": 3
-    },
-    {
-      "row": 2,
-      "col": 6
+      "col": 2
     },
     {
       "row": 3,
@@ -171,17 +160,37 @@
     },
     {
       "row": 6,
-      "col": 7
+      "col": 4
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 6
     },
     {
       "row": 7,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
-      "col": 7
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 89
+  "difficulty": "zor",
+  "order": 194
 }

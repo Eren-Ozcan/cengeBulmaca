@@ -1,125 +1,111 @@
 {
   "id": "puzzle-291",
-  "title": "Bulmaca 100",
+  "title": "Bulmaca 176",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Koloni",
-      "answer": "SÖMÜRGE",
-      "row": 0,
-      "col": 1,
-      "arrow": "down-right"
+      "text": "Vuruş sesi",
+      "answer": "ŞAK",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Ses (eski dilde)",
-      "answer": "SEDA",
+      "text": "Uydurma sebep",
+      "answer": "BAHANE",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Post giysisi",
-      "answer": "KÜRK",
-      "row": 3,
+      "text": "İş süresi",
+      "answer": "MESAİ",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Et suyu çorbası",
-      "answer": "KONSOME",
-      "row": 3,
+      "text": "Sidik",
+      "answer": "İDRAR",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Dans eşi",
+      "answer": "KAVALYE",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Şuur",
+      "answer": "BİLİNÇ",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "El vuruşu",
+      "answer": "SİLLE",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yaban köpeği",
-      "answer": "KURT",
-      "row": 5,
+      "text": "Bronz",
+      "answer": "TUNÇ",
+      "row": 9,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kandil yazısı",
-      "answer": "MAHYA",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Rütbeli asker",
-      "answer": "ERBAŞ",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Başvuru yeri",
-      "answer": "MERCİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Zırhlı kule",
-      "answer": "TARET",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Dev Kaliforniya ağacı",
-      "answer": "SEKOYA",
+      "text": "El ucu",
+      "answer": "PARMAK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Taviz",
-      "answer": "ÖDÜN",
-      "row": 0,
+      "text": "Büyük kardeş",
+      "answer": "ABLA",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kızıl gezegen",
-      "answer": "MARS",
-      "row": 0,
+      "text": "Askerî olmayan",
+      "answer": "SİVİL",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Güvenilir, dürüst",
-      "answer": "MERT",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Pis kokulu hayvan",
-      "answer": "KOKARCA",
-      "row": 2,
+      "text": "Hak, hukuk",
+      "answer": "ADALET",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İhbarcı",
-      "answer": "MUHBİR",
-      "row": 3,
+      "text": "Kentli",
+      "answer": "ŞEHİRLİ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Deniz, umman",
-      "answer": "DERYA",
-      "row": 2,
+      "text": "Olduğu gibi",
+      "answer": "AYNEN",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Taşıma aracı",
-      "answer": "TAŞIT",
-      "row": 4,
+      "text": "Bağırsak dürümü",
+      "answer": "KOKOREÇ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -131,55 +117,55 @@
     },
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
+      "row": 1,
       "col": 2
     },
     {
-      "row": 6,
+      "row": 1,
+      "col": 3
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 0
+      "row": 3,
+      "col": 2
     },
     {
-      "row": 7,
-      "col": 1
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 8,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
@@ -191,5 +177,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 100
+  "order": 176
 }

@@ -1,132 +1,132 @@
 {
   "id": "puzzle-170",
-  "title": "Bulmaca 182",
+  "title": "Bulmaca 170",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Eski kadın mantosu",
-      "answer": "FERACE",
+      "text": "Açık karşıtı",
+      "answer": "GİZLİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Etki",
-      "answer": "TESİR",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
+      "text": "Piyasaya sürme",
+      "answer": "ARZ",
+      "row": 1,
+      "col": 5,
+      "arrow": "down-right"
     },
     {
-      "text": "Özdeyiş",
-      "answer": "VECİZE",
+      "text": "Yumurtalı tava yemeği",
+      "answer": "KAYGANA",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çengelli çubuk",
-      "answer": "KANCA",
+      "text": "Hayvan bilimi",
+      "answer": "ZOOLOJİ",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ayrıcalıklı kesim",
-      "answer": "ELİT",
+      "text": "Baskı makinesi",
+      "answer": "PRES",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yardımcı",
-      "answer": "MUAVİN",
+      "text": "Yas",
+      "answer": "MATEM",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yanlışlıkla",
+      "answer": "KAZARA",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Öç alma",
-      "answer": "İNTİKAM",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "O kadar",
-      "answer": "ONCA",
-      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yemek aracı",
-      "answer": "KAŞIK",
-      "row": 9,
-      "col": 0,
+      "text": "Söz",
+      "answer": "KELAM",
+      "row": 8,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yazık ünlemi",
-      "answer": "VAH",
-      "row": 2,
+      "text": "Yayın bütünü",
+      "answer": "BASIN",
+      "row": 8,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kısa anlatım",
+      "answer": "İCAZ",
+      "row": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Vizon",
-      "answer": "MİNK",
+      "text": "Kor aracı",
+      "answer": "MAŞA",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şu kadar çok",
-      "answer": "ŞUNCA",
-      "row": 4,
+      "text": "Bağnaz kimse",
+      "answer": "YOBAZ",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çabuk, tez",
-      "answer": "ATİK",
+      "text": "Kurum simgesi",
+      "answer": "LOGO",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kâğıt klipsi",
-      "answer": "ATAŞ",
+      "text": "Ziynet eşyası",
+      "answer": "TAKI",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hapishane",
-      "answer": "CEZAEVİ",
-      "row": 0,
+      "text": "Yiğit derviş",
+      "answer": "ALPEREN",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Selamet",
-      "answer": "ESENLİK",
-      "row": 0,
+      "text": "Olağan dışı",
+      "answer": "ANORMAL",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Cinayete dair",
-      "answer": "CİNAİ",
-      "row": 3,
+      "text": "Kaplı tatlı",
+      "answer": "DRAJE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Rençper",
-      "answer": "IRGAT",
-      "row": 0,
+      "text": "Yararlanılan buhar",
+      "answer": "İSTİM",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -134,43 +134,39 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 4,
-      "col": 1
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 8,
       "col": 4
     },
     {
-      "row": 8,
+      "row": 0,
       "col": 5
     },
     {
-      "row": 8,
+      "row": 0,
       "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 5
     },
     {
       "row": 9,
@@ -181,6 +177,6 @@
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 182
+  "difficulty": "orta",
+  "order": 170
 }

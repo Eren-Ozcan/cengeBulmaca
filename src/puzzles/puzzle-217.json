@@ -1,132 +1,146 @@
 {
   "id": "puzzle-217",
-  "title": "Bulmaca 147",
+  "title": "Bulmaca 55",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yol engeli",
-      "answer": "BARİKAT",
+      "text": "Çembalo",
+      "answer": "KLAVSEN",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İhanet eden",
+      "answer": "HAİN",
       "row": 1,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "İkiyüzlülük",
-      "answer": "RİYA",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Teşebbüs",
-      "answer": "GİRİŞİM",
+      "text": "Yeşil karnabahar",
+      "answer": "BROKOLİ",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Olta ipi",
-      "answer": "MİSİNA",
+      "text": "Seke yürüyen",
+      "answer": "TOPAL",
       "row": 4,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gevşeklik",
-      "answer": "REHAVET",
+      "text": "Yer mantarı",
+      "answer": "DOMALAN",
       "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gemi omurgası",
+      "answer": "KARİNA",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tek satıcılık",
-      "answer": "TEKEL",
-      "row": 7,
+      "text": "Büyük kümes hayvanı",
+      "answer": "HİNDİ",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yem tahılı",
-      "answer": "YULAF",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tören",
-      "answer": "MERASİM",
+      "text": "Temel eğitim yeri",
+      "answer": "İLKOKUL",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ağzı sıkı",
-      "answer": "KETUM",
-      "row": 4,
+      "text": "İnce karşıtı",
+      "answer": "KABA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yenme kararlılığı",
-      "answer": "AZİM",
+      "text": "Üstün zekâlı",
+      "answer": "DAHİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Mitolojik çalgı",
+      "answer": "LİR",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Özellikle, bilhassa",
-      "answer": "HELE",
-      "row": 5,
+      "text": "İri maymun",
+      "answer": "GORİL",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İkiyüzlü",
-      "answer": "RİYAKAR",
-      "row": 2,
+      "text": "Artı kutup",
+      "answer": "ANOT",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gözün renkli bölümü",
-      "answer": "İRİS",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Dostluk bağlılığı",
-      "answer": "VEFA",
+      "text": "Vizon",
+      "answer": "MİNK",
       "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Özel eğitimli asker",
+      "answer": "KOMANDO",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Şahsi",
-      "answer": "KİŞİSEL",
+      "text": "Dur işareti",
+      "answer": "STOP",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İbadet töreni",
-      "answer": "AYİN",
-      "row": 0,
+      "text": "Dinden bağımsız",
+      "answer": "LAİK",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Nişastalı bulamaç",
+      "answer": "LAPA",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Açgözlülük",
-      "answer": "TAMAH",
+      "text": "Ulaşmış, kavuşmuş",
+      "answer": "NAİL",
       "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Toplama, birleştirme",
-      "answer": "CEM",
-      "row": 6,
+      "text": "Doğuş bayramı",
+      "answer": "NOEL",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -138,19 +152,11 @@
     },
     {
       "row": 0,
-      "col": 1
+      "col": 4
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
+      "col": 6
     },
     {
       "row": 4,
@@ -158,7 +164,7 @@
     },
     {
       "row": 5,
-      "col": 6
+      "col": 0
     },
     {
       "row": 7,
@@ -166,13 +172,9 @@
     },
     {
       "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
       "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 147
+  "difficulty": "kolay",
+  "order": 55
 }

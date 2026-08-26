@@ -1,132 +1,139 @@
 {
   "id": "puzzle-214",
-  "title": "Bulmaca 183",
+  "title": "Bulmaca 181",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "İyileşme dönemi",
-      "answer": "NEKAHET",
+      "text": "Kırgızistan'ın başkenti",
+      "answer": "BİŞKEK",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Şart",
-      "answer": "KOŞUL",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kan emen yaratık",
-      "answer": "VAMPİR",
-      "row": 3,
-      "col": 0,
+      "text": "Seyirci coşturucusu",
+      "answer": "AMİGO",
+      "row": 2,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sert çarpma",
-      "answer": "DARBE",
+      "text": "Devlet çalışanı",
+      "answer": "MEMUR",
       "row": 3,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Parça",
-      "answer": "PARE",
+      "text": "Erden kız",
+      "answer": "BAKİRE",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Şeker hastalığı",
+      "answer": "DİYABET",
       "row": 5,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Devlete ait",
-      "answer": "RESMİ",
+      "text": "İplik sarılan",
+      "answer": "MAKARA",
       "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Arlanmaz",
-      "answer": "UTANMAZ",
-      "row": 7,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "İş birimi",
-      "answer": "ERG",
+      "text": "Çift karşıtı",
+      "answer": "TEK",
       "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Babaya dayalı düzen",
-      "answer": "ATAERKİ",
-      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Parlayan yıldız",
-      "answer": "NOVA",
+      "text": "Mal satan",
+      "answer": "SATICI",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kıvrımlı saç",
+      "answer": "BUKLE",
       "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilgisayarda veri",
+      "answer": "DATA",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İnce yün kumaş",
-      "answer": "ÇUHA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right-down"
-    },
-    {
-      "text": "Baş-boyun örtüsü",
-      "answer": "EŞARP",
-      "row": 0,
+      "text": "Preslenmiş yakacak",
+      "answer": "BRİKET",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Para biriktirme kabı",
-      "answer": "KUMBARA",
+      "text": "Keskin bıçak",
+      "answer": "KAMA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yiğit derviş",
-      "answer": "ALPEREN",
+      "text": "Deriye konan ilaç",
+      "answer": "YAKI",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eskiden beri çalışan",
+      "answer": "EMEKTAR",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Buğday rengi",
-      "answer": "ESMER",
-      "row": 4,
+      "text": "Bazıları",
+      "answer": "KİMİ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Avrupa Birliği parası",
-      "answer": "EURO",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski Alman parası",
-      "answer": "MARK",
+      "text": "Samimi hitap",
+      "answer": "BACI",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yemek uzmanı",
+      "answer": "GURME",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Harf düzenleme",
-      "answer": "DİZGİ",
-      "row": 4,
+      "text": "Altın sarısı",
+      "answer": "DORE",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kirli sudan bulaşan hastalık",
+      "answer": "TİFO",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -134,45 +141,41 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
       "col": 2
     },
     {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
       "row": 8,
-      "col": 3
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "zor",
-  "order": 183
+  "order": 181
 }

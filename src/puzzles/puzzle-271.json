@@ -1,131 +1,124 @@
 {
   "id": "puzzle-271",
-  "title": "Bulmaca 68",
+  "title": "Bulmaca 209",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Züğürt",
-      "answer": "FUKARA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sarı, tüylü meyve",
-      "answer": "AYVA",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kaçık",
-      "answer": "MANYAK",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Mezar üstü tabut",
-      "answer": "SANDUKA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Çizgili kedi",
-      "answer": "TEKİR",
-      "row": 5,
+      "text": "Cesur, mert",
+      "answer": "YİĞİT",
+      "row": 1,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Belge saklama",
-      "answer": "ARŞİV",
-      "row": 5,
+      "text": "Dokunulmaz",
+      "answer": "TABU",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bitki toprağı",
-      "answer": "HUMUS",
-      "row": 7,
+      "text": "Küçük olan",
+      "answer": "MİNÖR",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Suçsuz, günahsız",
+      "answer": "MASUM",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yunan dansı",
+      "answer": "SİRTAKİ",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şarkı topluluğu",
-      "answer": "KORO",
+      "text": "Afrika ceylanı",
+      "answer": "ANTİLOP",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yayımlanan eser",
+      "answer": "YAYIN",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Göçebe yerleşimi",
+      "answer": "OBA",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ünlü, şerefli",
-      "answer": "ŞANLI",
+      "text": "Aceleci",
+      "answer": "ACUL",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gerekli",
+      "answer": "LAZIM",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Pozitif bilim",
-      "answer": "FEN",
+      "text": "Gece uçan memeli",
+      "answer": "YARASA",
       "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "İçkili kimse",
-      "answer": "SARHOŞ",
-      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bilinç kaybı",
-      "answer": "KOMA",
+      "text": "İşaret",
+      "answer": "SİNYAL",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kabuklu besin",
+      "answer": "YUMURTA",
       "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Danışma kurulu",
-      "answer": "ŞURA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "51 numaralı element",
-      "answer": "ANTİMON",
-      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Buluşma sözü",
-      "answer": "RANDEVU",
-      "row": 0,
+      "text": "Ayrıcalık",
+      "answer": "İMTİYAZ",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gök zirvesi",
-      "answer": "AYYUK",
-      "row": 0,
+      "text": "Müşteri",
+      "answer": "ALICI",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gerçekleşmiş olan",
-      "answer": "VAKİ",
-      "row": 1,
+      "text": "Pozisyon",
+      "answer": "KONUM",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Onur kırma",
-      "answer": "HAKARET",
+      "text": "Düzenleme",
+      "answer": "TERTİP",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -134,11 +127,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
-      "col": 3
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
@@ -146,45 +147,25 @@
     },
     {
       "row": 2,
-      "col": 1
-    },
-    {
-      "row": 6,
       "col": 5
     },
     {
-      "row": 6,
+      "row": 2,
       "col": 6
     },
     {
       "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
       "col": 7
     },
     {
       "row": 9,
-      "col": 6
+      "col": 0
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 68
+  "difficulty": "zor",
+  "order": 209
 }

@@ -1,6 +1,6 @@
 {
   "id": "puzzle-50",
-  "title": "Bulmaca 23",
+  "title": "Bulmaca 62",
   "rows": 10,
   "cols": 8,
   "clues": [
@@ -12,8 +12,8 @@
       "arrow": "right"
     },
     {
-      "text": "Kuyumcu, para bozan",
-      "answer": "SARRAF",
+      "text": "Su içilen cam",
+      "answer": "BARDAK",
       "row": 2,
       "col": 1,
       "arrow": "right"
@@ -33,8 +33,8 @@
       "arrow": "right"
     },
     {
-      "text": "İyileşme",
-      "answer": "ŞİFA",
+      "text": "İşin ehli",
+      "answer": "USTA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
@@ -68,22 +68,22 @@
       "arrow": "right"
     },
     {
-      "text": "Türkiye'nin başkenti",
-      "answer": "ANKARA",
+      "text": "Asılsız suçlama",
+      "answer": "İFTİRA",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bin milyar",
-      "answer": "TRİLYON",
+      "text": "Rastlantı",
+      "answer": "TESADÜF",
       "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yetki değneği",
-      "answer": "ASA",
+      "text": "Kalın yün kumaş",
+      "answer": "ABA",
       "row": 0,
       "col": 2,
       "arrow": "down"
@@ -110,8 +110,8 @@
       "arrow": "down"
     },
     {
-      "text": "Ekin aracı",
-      "answer": "ORAK",
+      "text": "Işınların toplandığı nokta",
+      "answer": "ODAK",
       "row": 0,
       "col": 5,
       "arrow": "down"
@@ -185,5 +185,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 23
+  "order": 62
 }

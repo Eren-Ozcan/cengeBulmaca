@@ -1,139 +1,139 @@
 {
   "id": "puzzle-265",
-  "title": "Bulmaca 40",
+  "title": "Bulmaca 70",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Eski kitapçı",
-      "answer": "SAHAF",
+      "text": "Cıvık hamur",
+      "answer": "BULAMAÇ",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tanrı hizmetkârı",
+      "answer": "KUL",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yansıtma aygıtı",
-      "answer": "TEPEGÖZ",
+      "text": "Kaba örtü",
+      "answer": "ÇUL",
       "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Laf",
+      "answer": "LAKIRTI",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Uçan küre",
-      "answer": "BALON",
-      "row": 2,
+      "text": "Yasa dışı taşıyan",
+      "answer": "KAÇAKÇI",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aptal, dengesiz",
-      "answer": "SALAK",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Emir tutsağı",
-      "answer": "KÖLE",
-      "row": 4,
+      "text": "Küçük boru",
+      "answer": "ZIVANA",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yer altı yolu",
-      "answer": "TÜNEL",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Koyun lifi",
-      "answer": "YÜN",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Temel bilgi",
-      "answer": "VERİ",
+      "text": "Çoban çalgısı",
+      "answer": "KAVAL",
       "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Gömme işlemi",
-      "answer": "DEFİN",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kırmızı taneli meyve",
-      "answer": "NAR",
-      "row": 8,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Anlama yetisi",
-      "answer": "ZEKA",
-      "row": 9,
-      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Halk deyişi",
-      "answer": "ATASÖZÜ",
+      "text": "Havlı dokuma",
+      "answer": "HALI",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dağ lalesi",
+      "answer": "ANEMON",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Duru olmayan",
+      "answer": "BULANIK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dinen izinli",
-      "answer": "HELAL",
+      "text": "Zarf-fiil",
+      "answer": "ULAÇ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Omuzdaki rütbe",
-      "answer": "APOLET",
-      "row": 0,
+      "text": "Çöl yeşilliği",
+      "answer": "VAHA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çekme ev",
+      "answer": "KARAVAN",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kötü",
-      "answer": "FENA",
+      "text": "Kapalı karşıtı",
+      "answer": "AÇIK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kırmızı meyveli ağaç",
-      "answer": "ÜVEZ",
+      "text": "İnleme, inilti",
+      "answer": "NALE",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tel kadayıf tatlısı",
-      "answer": "KÜNEFE",
-      "row": 3,
+      "text": "Beton delme kalemi",
+      "answer": "MURÇ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ekşimsi yaz meyvesi",
-      "answer": "ERİK",
+      "text": "Satın alma",
+      "answer": "ALIM",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Beşten sonraki sayı",
+      "answer": "ALTI",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dev deniz memelisi",
-      "answer": "BALİNA",
-      "row": 3,
+      "text": "Su bitkisi",
+      "answer": "YOSUN",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -141,41 +141,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 0
     },
     {
       "row": 0,
-      "col": 6
+      "col": 3
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 1,
+      "row": 2,
       "col": 7
     },
     {
-      "row": 3,
+      "row": 5,
       "col": 6
     },
     {
-      "row": 4,
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 6
     },
     {
       "row": 8,
-      "col": 1
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 40
+  "order": 70
 }

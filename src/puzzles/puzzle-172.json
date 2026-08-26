@@ -1,138 +1,144 @@
 {
   "id": "puzzle-172",
-  "title": "Bulmaca 175",
+  "title": "Bulmaca 58",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Süsleme motifi",
-      "answer": "BEZEK",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
+      "text": "Hafif topal",
+      "answer": "AKSAK",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Çok sevilen",
-      "answer": "İDOL",
+      "text": "Külhanbeyi",
+      "answer": "APAŞ",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Temel besin",
-      "answer": "EKMEK",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
+      "text": "Yeşil yapraklı sebze",
+      "answer": "ISPANAK",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Işık kaynağı",
-      "answer": "AMPUL",
+      "text": "Enerji ölçü birimi",
+      "answer": "KALORİ",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hasta yatağı",
-      "answer": "SEDYE",
+      "text": "Sıvı kese",
+      "answer": "KİST",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Işınla görüntüleme",
-      "answer": "RÖNTGEN",
+      "text": "Yalvarma, yakarma",
+      "answer": "NİYAZ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Evlilik dışı ilişki",
-      "answer": "ZİNA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pres",
-      "answer": "CENDERE",
-      "row": 8,
-      "col": 0,
+      "text": "İç giysi",
+      "answer": "FANİLA",
+      "row": 7,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Peru'nun başkenti",
-      "answer": "LİMA",
+      "text": "Kayma ayakkabısı",
+      "answer": "PATEN",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Uyarı notu",
+      "answer": "ANDIÇ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yeniliğe karşı",
-      "answer": "GERİCİ",
-      "row": 3,
+      "text": "Akıl",
+      "answer": "US",
+      "row": 9,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "İyi kesen",
+      "answer": "KESKİN",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Zaman dilimi",
-      "answer": "DÖNEM",
-      "row": 4,
+      "text": "Edilgin",
+      "answer": "PASİF",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Eşin annesi",
-      "answer": "KAYNANA",
+      "text": "Temel donanım",
+      "answer": "ALTYAPI",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Üste kalan borç",
-      "answer": "ZİMMET",
+      "text": "Küçük, hafif kayık",
+      "answer": "KANO",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Terbiyeli davranış",
-      "answer": "EDEP",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Makine yağı",
-      "answer": "GRES",
+      "text": "Şefkatli davranan",
+      "answer": "ANAÇ",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Asalak",
+      "answer": "PARAZİT",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Burun duyumu",
-      "answer": "KOKU",
+      "text": "Kalıcı, ölümsüz",
+      "answer": "BAKİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Büyük bakır kap",
-      "answer": "LENGER",
-      "row": 3,
+      "text": "Rumen parası",
+      "answer": "LEU",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayırtı",
+      "answer": "NÜANS",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
     {
       "row": 0,
       "col": 2
@@ -143,31 +149,19 @@
     },
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 7
     },
     {
       "row": 1,
-      "col": 0
-    },
-    {
-      "row": 1,
       "col": 7
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 2
     },
     {
       "row": 3,
-      "col": 0
+      "col": 7
     },
     {
       "row": 5,
@@ -175,21 +169,13 @@
     },
     {
       "row": 7,
-      "col": 4
+      "col": 0
     },
     {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
+      "row": 8,
+      "col": 1
     }
   ],
-  "difficulty": "zor",
-  "order": 175
+  "difficulty": "kolay",
+  "order": 58
 }

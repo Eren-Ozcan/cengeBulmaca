@@ -1,132 +1,132 @@
 {
   "id": "puzzle-275",
-  "title": "Bulmaca 50",
+  "title": "Bulmaca 119",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Büyük heyecan",
-      "answer": "COŞKU",
+      "text": "Alık, sünepe",
+      "answer": "ŞAPŞAL",
       "row": 1,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bağlama",
-      "answer": "SAZ",
-      "row": 1,
+      "text": "Nişasta bulamacı",
+      "answer": "KOLA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yolculuk",
+      "answer": "SEFER",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Umutsuz karamsarlık",
-      "answer": "YEİS",
-      "row": 2,
+      "text": "Börek satan",
+      "answer": "BÖREKÇİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kenar boşluğu",
+      "answer": "MARJ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güldüren söz",
+      "answer": "ESPRİ",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce, zarif",
+      "answer": "NARİN",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Birinci, öncü",
+      "answer": "İLK",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hindistan halkından",
+      "answer": "HİNT",
+      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Buz alanı",
-      "answer": "BUZLA",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Akıl yönünden",
-      "answer": "AKLEN",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tarikat lideri",
-      "answer": "ŞEYH",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ekşi narenciye",
-      "answer": "TURUNÇ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Pasif",
-      "answer": "EDİLGEN",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Güvenlik",
-      "answer": "EMNİYET",
+      "text": "Sağlıksız kimse",
+      "answer": "HASTA",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Karma sahne gösterisi",
-      "answer": "VARYETE",
-      "row": 0,
+      "text": "Izgara et",
+      "answer": "KEBAP",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İçme miktarı",
-      "answer": "YUDUM",
-      "row": 4,
+      "text": "Sürücü",
+      "answer": "ŞOFÖR",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Denizle ilgili",
-      "answer": "BAHRİ",
-      "row": 2,
+      "text": "Alerji yapan madde",
+      "answer": "ALERJEN",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çukur yer",
-      "answer": "OYUK",
+      "text": "Parça",
+      "answer": "PARE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yüce, manevi",
-      "answer": "ULVİ",
+      "text": "Alan; oyun yeri",
+      "answer": "SAHA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Uzanmalık koltuk",
-      "answer": "ŞEZLONG",
-      "row": 0,
+      "text": "Değişken istek",
+      "answer": "KAPRİS",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ölçek",
-      "answer": "KİLE",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ağız kemiği",
-      "answer": "ÇENE",
+      "text": "Zevk düşkünü",
+      "answer": "RİNT",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bıkkınlık duygusu",
-      "answer": "USANÇ",
-      "row": 0,
+      "text": "Kısa namlulu tüfek",
+      "answer": "FİLİNTA",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -138,41 +138,53 @@
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
       "col": 1
     },
     {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
+      "row": 0,
       "col": 5
     },
     {
-      "row": 8,
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
       "col": 7
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
     }
   ],
-  "difficulty": "kolay",
-  "order": 50
+  "difficulty": "orta",
+  "order": 119
 }

@@ -1,132 +1,132 @@
 {
   "id": "puzzle-101",
-  "title": "Bulmaca 29",
+  "title": "Bulmaca 103",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Sahne dansı",
-      "answer": "BALE",
+      "text": "Ağ, örgüt",
+      "answer": "ŞEBEKE",
       "row": 1,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kilit açan araç",
-      "answer": "ANAHTAR",
+      "text": "Rutubet",
+      "answer": "NEM",
       "row": 2,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Nispet",
-      "answer": "ORAN",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Sigorta belgesi",
+      "answer": "POLİÇE",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Kongre ilimiz",
-      "answer": "SİVAS",
+      "text": "Bebek yatağı",
+      "answer": "BEŞİK",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Döviz işlemi",
-      "answer": "KAMBİYO",
+      "text": "Eski dilde ölüm",
+      "answer": "MEVT",
       "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yırtıcı iri kuş",
-      "answer": "KARTAL",
-      "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yılbaşı ağacı",
-      "answer": "KÖKNAR",
+      "text": "Hapishane",
+      "answer": "CEZAEVİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mal alıkoyma",
+      "answer": "HACİZ",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yapıştırıcı madde",
-      "answer": "ZAMK",
+      "text": "Akşam yönü",
+      "answer": "BATI",
       "row": 8,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kürk başlık",
-      "answer": "BÖRK",
+      "text": "Yazı aracı",
+      "answer": "KALEM",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "17-18. yüzyıl üslubu",
-      "answer": "BAROK",
+      "text": "Fal bakıcısı",
+      "answer": "FALCI",
       "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Bedava, karşılıksız",
+      "answer": "CABA",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Anne",
-      "answer": "ANA",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Aşırı ısınmış",
-      "answer": "AKKOR",
+      "text": "Güç, takat",
+      "answer": "MECAL",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ürün tanıtımı",
-      "answer": "LANSMAN",
-      "row": 0,
+      "text": "Aşırı şişmanlık",
+      "answer": "OBEZİTE",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Olur, peki",
-      "answer": "EH",
+      "text": "Gerekli gereçler",
+      "answer": "LEVAZIM",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kız kardeşin kocası",
+      "answer": "ENİŞTE",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ortaya koyma",
-      "answer": "İBRAZ",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Renkli cam bezeme",
-      "answer": "VİTRAY",
-      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tropik sarı meyve",
-      "answer": "PAPAYA",
+      "text": "İnatçı hayvan",
+      "answer": "KEÇİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Nefes",
-      "answer": "SOLUK",
-      "row": 3,
+      "text": "Yük kaldırma",
+      "answer": "VİNÇ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bedeniyle çalışan",
+      "answer": "EMEKÇİ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -134,49 +134,57 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
       "col": 1
     },
     {
-      "row": 9,
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
       "col": 4
     },
     {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 4,
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
       "row": 9,
-      "col": 6
+      "col": 5
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 29
+  "difficulty": "orta",
+  "order": 103
 }

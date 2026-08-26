@@ -1,125 +1,139 @@
 {
   "id": "puzzle-113",
-  "title": "Bulmaca 106",
+  "title": "Bulmaca 138",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "İsteklendirme ünlemi",
-      "answer": "HAYDİ",
+      "text": "Yürütme organı",
+      "answer": "HÜKUMET",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "At kılları",
-      "answer": "YELE",
+      "text": "Tavan lambası",
+      "answer": "AVİZE",
       "row": 2,
-      "col": 3,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Cepteki bez",
-      "answer": "MENDİL",
+      "text": "Yüksek yapı",
+      "answer": "KULE",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ev, arsa",
-      "answer": "EMLAK",
+      "text": "Küçük gemi",
+      "answer": "BOT",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "İşsiz güçsüz",
+      "answer": "SERSERİ",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yapılış yazısı",
+      "answer": "TARİF",
+      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Öğüt verme",
-      "answer": "TAVSİYE",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Acımtırak, buruk",
-      "answer": "KEKRE",
+      "text": "Dalgalı saç",
+      "answer": "ONDÜLE",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Akdeniz sıcak rüzgârı",
-      "answer": "SİROKO",
+      "text": "Eski dilde asker",
+      "answer": "ÇERİ",
       "row": 7,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gök boşluğu",
-      "answer": "UZAY",
-      "row": 7,
+      "text": "İtici neden",
+      "answer": "SAİK",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kullanımı engelli",
+      "answer": "BLOKE",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Azık",
-      "answer": "NEVALE",
-      "row": 9,
+      "text": "Bıkkınlık duygusu",
+      "answer": "USANÇ",
+      "row": 2,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Bilet satan büro",
-      "answer": "ACENTE",
+      "text": "Surlu yapı",
+      "answer": "KALE",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Konuşma vurgusu",
-      "answer": "AKSAN",
-      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dolaşan kolluk",
-      "answer": "DEVRİYE",
-      "row": 2,
+      "text": "Saklama yeri",
+      "answer": "DEPO",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Açılış müziği",
+      "answer": "UVERTÜR",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Nikbin",
-      "answer": "İYİMSER",
+      "text": "Re'den sonraki nota",
+      "answer": "Mİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "49'dan sonraki sayı",
-      "answer": "ELLİ",
-      "row": 1,
+      "text": "Saniyenin altmışta biri",
+      "answer": "SALİSE",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bakmadan",
+      "answer": "EZBERE",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sarhoş karşıtı",
-      "answer": "AYIK",
-      "row": 3,
+      "text": "Kuram",
+      "answer": "TEORİ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Pişmanlık ünlemi",
-      "answer": "KEŞKE",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Tırnak cilası",
-      "answer": "OJE",
-      "row": 6,
+      "text": "Ankara keçisi yünü",
+      "answer": "TİFTİK",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -127,53 +141,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 4,
-      "col": 0
+      "col": 7
     },
     {
       "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 5
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
+      "col": 1
+    },
+    {
+      "row": 9,
       "col": 5
     },
     {
-      "row": 8,
+      "row": 9,
       "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 106
+  "order": 138
 }

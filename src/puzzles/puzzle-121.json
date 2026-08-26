@@ -1,145 +1,145 @@
 {
   "id": "puzzle-121",
-  "title": "Bulmaca 9",
+  "title": "Bulmaca 127",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Uysal kimse",
-      "answer": "MÜLAYİM",
+      "text": "Süse düşkün",
+      "answer": "KOKET",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Koruyucu gaz",
-      "answer": "OZON",
+      "text": "Rusça 'evet'",
+      "answer": "DA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Arap alfabesinde harf",
+      "answer": "AYIN",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kazıma süslemesi",
-      "answer": "OYMA",
-      "row": 2,
+      "text": "Endüstri",
+      "answer": "SANAYİ",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Veraset",
+      "answer": "KALITIM",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kulak süsü",
+      "answer": "KÜPE",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sıradan, kalitesiz",
-      "answer": "ADİ",
-      "row": 3,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Sığ yemek kabı",
-      "answer": "SAHAN",
-      "row": 4,
+      "text": "Yanlış kelime",
+      "answer": "GALAT",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Faal olan",
-      "answer": "ETKİN",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Berzah",
-      "answer": "KISTAK",
+      "text": "Cambaz",
+      "answer": "AKROBAT",
       "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Üst mahkemeye başvurma",
-      "answer": "İSTİNAF",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "'Asla' ünlemi",
-      "answer": "SAKIN",
+      "text": "Deniz yüksekliği",
+      "answer": "RAKIM",
       "row": 8,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Aşırı tutkun",
-      "answer": "FANATİK",
-      "row": 9,
+      "text": "Şeyh öğrencisi",
+      "answer": "MÜRİT",
+      "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yürütme hakkı",
-      "answer": "YETKİ",
-      "row": 2,
+      "text": "Eski dilde ateş",
+      "answer": "OD",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ders anlatısı",
-      "answer": "KISSA",
-      "row": 4,
+      "text": "Post işleyen",
+      "answer": "KÜRKÇÜ",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Et satıcısı",
+      "answer": "KASAP",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hekim yardımcısı",
-      "answer": "ASİSTAN",
+      "text": "Yerinelemeli anlatım",
+      "answer": "ALEGORİ",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hayır sözü",
-      "answer": "YO",
+      "text": "Teşhis",
+      "answer": "TANI",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eski değerli eşya",
-      "answer": "ANTİKA",
-      "row": 3,
+      "text": "Bayındır, mamur",
+      "answer": "ABAT",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Anlatıp aydınlatma",
-      "answer": "İZAH",
-      "row": 0,
+      "text": "Yataktan kalkamayan",
+      "answer": "YATALAK",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Abide",
-      "answer": "ANIT",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yenilik düşkünlüğü",
-      "answer": "MODA",
+      "text": "Sahil",
+      "answer": "KIYI",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İnanmış",
-      "answer": "KANİ",
+      "text": "Kullanılmış madde",
+      "answer": "ATIK",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Büyükanne",
-      "answer": "NİNE",
+      "text": "İyilik, lütuf",
+      "answer": "NİMET",
       "row": 1,
       "col": 7,
       "arrow": "down"
@@ -148,37 +148,33 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 3
     },
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 7
     },
     {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 8,
+      "row": 3,
       "col": 0
     },
     {
-      "row": 8,
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 9
+  "difficulty": "orta",
+  "order": 127
 }

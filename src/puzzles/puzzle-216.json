@@ -1,146 +1,125 @@
 {
   "id": "puzzle-216",
-  "title": "Bulmaca 168",
+  "title": "Bulmaca 101",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Para saçan",
-      "answer": "HOVARDA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down-right"
+      "text": "Servis kabı",
+      "answer": "TEPSİ",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Çevrilen oyuncak",
-      "answer": "TOPAÇ",
+      "text": "Sahne gösterisi",
+      "answer": "REVÜ",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Balık tutan kimse",
-      "answer": "BALIKÇI",
+      "text": "Küçük taşıt",
+      "answer": "PİKAP",
       "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "El-kol arası",
-      "answer": "BİLEK",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Arp benzeri çalgı",
-      "answer": "ÇENK",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kokulu mor çiçek",
-      "answer": "LAVANTA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ünlü kadın sanatçı",
-      "answer": "DİVA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yapma yüz",
-      "answer": "MASKE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sezgi",
-      "answer": "SEZİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Emek, çaba",
-      "answer": "SAY",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Uğraşı, merak",
-      "answer": "HOBİ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Parça, dilim",
-      "answer": "LİME",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Rengarenk taş",
-      "answer": "OPAL",
-      "row": 0,
       "col": 2,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Yüksek ses",
-      "answer": "AVAZ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İskambilde bacak",
-      "answer": "VALE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yetim koruyucusu",
-      "answer": "VASİ",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Alenen",
-      "answer": "AÇIKÇA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Nefis",
-      "answer": "ENFES",
+      "text": "Sınırlama miktarı",
+      "answer": "KOTA",
       "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayak bakımı",
+      "answer": "PEDİKÜR",
+      "row": 4,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Batı soyluluk unvanı",
+      "answer": "VİKONT",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Pencere örtüsü",
+      "answer": "PERDE",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağıt şiiri",
+      "answer": "MERSİYE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Defa, sefer",
+      "answer": "KEZ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İçme borusu",
+      "answer": "PİPET",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Beyaz madde",
+      "answer": "ŞEKER",
+      "row": 3,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Silindir kap",
+      "answer": "TÜP",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tır kasası",
+      "answer": "DORSE",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Öğle sonrası namaz",
+      "answer": "İKİNDİ",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Karışık içki",
+      "answer": "KOKTEYL",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Profesör öncesi",
-      "answer": "DOÇENT",
+      "text": "Toplumsal konum",
+      "answer": "STATÜ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Beyaz element",
-      "answer": "KALAY",
-      "row": 4,
+      "text": "Kısa imza",
+      "answer": "PARAF",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -152,6 +131,14 @@
     },
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 5
     },
     {
@@ -159,20 +146,16 @@
       "col": 7
     },
     {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 5,
+      "row": 3,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 4
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
     },
     {
       "row": 7,
@@ -180,9 +163,29 @@
     },
     {
       "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
       "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 168
+  "difficulty": "orta",
+  "order": 101
 }

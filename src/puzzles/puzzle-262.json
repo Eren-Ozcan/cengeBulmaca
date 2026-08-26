@@ -1,139 +1,139 @@
 {
   "id": "puzzle-262",
-  "title": "Bulmaca 49",
+  "title": "Bulmaca 136",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Zeki deniz memelisi",
-      "answer": "YUNUS",
+      "text": "Koni biçimli başlık",
+      "answer": "KALPAK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sevgili kadın",
-      "answer": "CANAN",
+      "text": "Deniz, umman",
+      "answer": "DERYA",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Dik yar",
-      "answer": "UÇURUM",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Döküntülü çocuk hastalığı",
-      "answer": "KIZAMIK",
+      "text": "Nişan yüzüğü",
+      "answer": "ALYANS",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ayakkabı kılıfı",
+      "answer": "GALOŞ",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sevinç sözü",
-      "answer": "YAŞA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yüzer araç",
-      "answer": "DUBA",
+      "text": "Tatlı ilaç",
+      "answer": "ŞURUP",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Pürüz giderici",
-      "answer": "ZIMPARA",
+      "text": "Yapı bağlayıcısı",
+      "answer": "ÇİMENTO",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yayılan koku",
-      "answer": "BURCU",
+      "text": "Mazereti olan",
+      "answer": "MAZUR",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Nişancı",
-      "answer": "ATICI",
+      "text": "Larva",
+      "answer": "KURTÇUK",
       "row": 9,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dudak kabarcığı",
-      "answer": "UÇUK",
+      "text": "Hukukla ilgili",
+      "answer": "ADLİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kısa karşıtı",
-      "answer": "UZUN",
+      "text": "Kanatlı hava taşıtı",
+      "answer": "UÇAK",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yoğurtlu yumurta",
-      "answer": "ÇILBIR",
-      "row": 2,
+      "text": "Romanya parası",
+      "answer": "LEY",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Pahalı karşıtı",
-      "answer": "UCUZ",
+      "text": "Ocak gazı",
+      "answer": "GRİZU",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çek başkenti",
+      "answer": "PRAG",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Babanın erkek kardeşi",
-      "answer": "AMCA",
+      "text": "Aldırış etme",
+      "answer": "UMUR",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hükümdar yapısı",
-      "answer": "SARAY",
+      "text": "Yansıtıcı cam",
+      "answer": "AYNA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Heykel, sanem",
-      "answer": "PUT",
-      "row": 6,
+      "text": "Onarılamaz hasar",
+      "answer": "PERT",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sıra sayısı",
-      "answer": "NUMARA",
-      "row": 1,
+      "text": "Adaleli",
+      "answer": "KASLI",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sulak bitki",
-      "answer": "KAMIŞ",
-      "row": 0,
+      "text": "Otu bulunan",
+      "answer": "OTLU",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Örtülü, kapanmış",
-      "answer": "KAPALI",
-      "row": 3,
+      "text": "Japon sanatçısı",
+      "answer": "GEYŞA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -141,27 +141,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 1,
-      "col": 7
+      "col": 6
     },
     {
       "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
       "col": 0
     },
     {
       "row": 6,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 7
     },
     {
       "row": 8,
@@ -169,13 +173,9 @@
     },
     {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 0
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 49
+  "difficulty": "orta",
+  "order": 136
 }

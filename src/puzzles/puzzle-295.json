@@ -1,125 +1,118 @@
 {
   "id": "puzzle-295",
-  "title": "Bulmaca 37",
+  "title": "Bulmaca 179",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kılıksız",
-      "answer": "PASAKLI",
+      "text": "Olay",
+      "answer": "HADİSE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Büyük bölüm",
-      "answer": "ÇOĞU",
+      "text": "Hasta yatağı",
+      "answer": "SEDYE",
       "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Cinsel çekicilik",
+      "answer": "SEKSİ",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zayıf, ufak",
-      "answer": "CILIZ",
-      "row": 2,
+      "text": "Akciğer kolu",
+      "answer": "BRONŞ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çocuğun çocuğu",
-      "answer": "TORUN",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Vida anahtarı",
-      "answer": "ALYAN",
+      "text": "Karakteristik",
+      "answer": "TİPİK",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Boyun takısı",
-      "answer": "KOLYE",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Vurmalı çalgı",
-      "answer": "GONK",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Orkestra eseri",
-      "answer": "SENFONİ",
-      "row": 8,
+      "text": "Şeffaf ambalaj",
+      "answer": "SELOFAN",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kapı, pencere açıklığı",
-      "answer": "AÇIT",
-      "row": 0,
+      "text": "Sevinç ünlemi",
+      "answer": "OLEY",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Parmak ucu",
+      "answer": "TIRNAK",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bağımsız, özgür",
+      "answer": "SERBEST",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Alışveriş ağı",
-      "answer": "FİLE",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tek icra",
-      "answer": "SOLO",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İğ ağırlığı",
-      "answer": "AĞIRŞAK",
+      "text": "Fiyat kırma",
+      "answer": "İSKONTO",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Koyun yavrusu",
-      "answer": "KUZU",
+      "text": "İşitsel titreşim",
+      "answer": "SES",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kurum simgesi",
-      "answer": "LOGO",
-      "row": 5,
+      "text": "Şeffaf kumaş",
+      "answer": "ŞİFON",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Esnek yapay madde",
-      "answer": "NAYLON",
-      "row": 3,
+      "text": "Edebiyatçı, yazar",
+      "answer": "EDİP",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Nakit değil",
-      "answer": "AYNİ",
+      "text": "Kavisli kılıç",
+      "answer": "PALA",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Rahatsız böcek",
+      "answer": "SİNEK",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Anane",
-      "answer": "GELENEK",
-      "row": 1,
+      "text": "Minik çocuk",
+      "answer": "BEBE",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -127,23 +120,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
+      "row": 1,
       "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
     },
     {
       "row": 3,
@@ -151,22 +144,18 @@
     },
     {
       "row": 4,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 5,
       "col": 2
     },
     {
-      "row": 6,
-      "col": 0
+      "row": 5,
+      "col": 7
     },
     {
       "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
@@ -178,6 +167,6 @@
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 37
+  "difficulty": "zor",
+  "order": 179
 }

@@ -1,146 +1,139 @@
 {
   "id": "puzzle-96",
-  "title": "Bulmaca 8",
+  "title": "Bulmaca 44",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Öğle sonrası namaz",
-      "answer": "İKİNDİ",
-      "row": 0,
+      "text": "Harp",
+      "answer": "SAVAŞ",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Sivri son",
-      "answer": "UÇ",
+      "text": "Yetiştirici",
+      "answer": "ÜRETİCİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kapalı karşıtı",
-      "answer": "AÇIK",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Tek parça giysi",
-      "answer": "ENTARİ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Nitrogliserinli patlayıcı",
-      "answer": "DİNAMİT",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hükümdar koltuğu",
-      "answer": "TAHT",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çoban köpeği",
-      "answer": "KARABAŞ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Meksika içkisi",
-      "answer": "TEKİLA",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Açık oturum",
-      "answer": "PANEL",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sivri dipli testi",
-      "answer": "AMFORA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bebek sargısı",
-      "answer": "KUNDAK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Hukuki yorum",
-      "answer": "İÇTİHAT",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gümrük deposu",
-      "answer": "ANTREPO",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Boş ağırlık",
-      "answer": "DARA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Gelir taşınmazı",
-      "answer": "AKAR",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İçme tadı",
-      "answer": "İÇİM",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İnsan yapısı",
-      "answer": "BİNA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İş verme",
-      "answer": "İHALE",
+      "text": "Dış alım",
+      "answer": "İTHALAT",
       "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yer altı treni",
+      "answer": "METRO",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tekne kaptanı",
+      "answer": "REİS",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Korkak",
+      "answer": "ÖDLEK",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Evine bağlı",
+      "answer": "EVCİMEN",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Fiş yuvası",
+      "answer": "PRİZ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aç olma",
+      "answer": "AÇLIK",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Aynı tondaki eser",
+      "answer": "SÜİT",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Çaydan küçük akarsu",
+      "answer": "DERE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Arka, geri",
+      "answer": "ART",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüce, manevi",
+      "answer": "ULVİ",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Boş korku",
+      "answer": "VEHM",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kimyasal, ilaç",
+      "answer": "ECZA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Babaya dayalı düzen",
+      "answer": "ATAERKİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Doldurulmuş döşek",
+      "answer": "ŞİLTE",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Saray kölesi",
+      "answer": "CARİYE",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yetersiz, az",
-      "answer": "KIT",
-      "row": 1,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Dağ evi",
-      "answer": "ŞALE",
-      "row": 5,
+      "text": "Efsane, söylence, mit",
+      "answer": "MİTOS",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -148,33 +141,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 7,
       "col": 0
     },
     {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
       "row": 8,
-      "col": 1
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 6
+      "col": 0
     }
   ],
   "difficulty": "kolay",
-  "order": 8
+  "order": 44
 }

@@ -1,131 +1,131 @@
 {
   "id": "puzzle-250",
-  "title": "Bulmaca 105",
+  "title": "Bulmaca 81",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "İç sıkıntısı",
-      "answer": "KASVET",
+      "text": "Kara içi deniz",
+      "answer": "KÖRFEZ",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Beyaz yağış",
-      "answer": "KAR",
+      "text": "Müzik türü",
+      "answer": "CAZ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Faşizm yanlısı",
-      "answer": "FAŞİST",
+      "text": "Doğru sözlü",
+      "answer": "DÜRÜST",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Vefalı",
-      "answer": "VEFAKAR",
+      "text": "Macera",
+      "answer": "SERÜVEN",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dokudaki bozulma, bere",
-      "answer": "YARA",
+      "text": "Boru musluğu",
+      "answer": "VANA",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Basılış biçimi",
-      "answer": "BASKI",
+      "text": "Uzunluk birimi",
+      "answer": "METRE",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mektup hizmeti",
-      "answer": "POSTA",
+      "text": "Meslek derecesi",
+      "answer": "RÜTBE",
       "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İşaret bayrağı",
-      "answer": "FLAMA",
+      "text": "Bekleme bölümü",
+      "answer": "FUAYE",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bin milyon",
-      "answer": "MİLYAR",
+      "text": "Sınırlanmış arazi",
+      "answer": "PARSEL",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çekişme, dövüş",
-      "answer": "KAVGA",
+      "text": "Beden yapısı",
+      "answer": "CÜSSE",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Damga, mühür",
-      "answer": "KAŞE",
+      "text": "Kenarları eşit dörtgen",
+      "answer": "KARE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İstenmeyen ileti",
-      "answer": "SPAM",
+      "text": "Hendek, tuzak",
+      "answer": "TRAP",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Anlayışlı, sezgili",
-      "answer": "ARİF",
+      "text": "Mazeret",
+      "answer": "ÖZÜR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Garson yardımcısı",
-      "answer": "KOMİ",
+      "text": "Düş",
+      "answer": "RÜYA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dijital",
-      "answer": "SAYISAL",
+      "text": "Yün kazak",
+      "answer": "SÜVETER",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sert içki",
-      "answer": "VOTKA",
+      "text": "Dinî görüş",
+      "answer": "FETVA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Donanma",
-      "answer": "ARMADA",
+      "text": "Arazi girintisi",
+      "answer": "ENGEBE",
       "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Padişah imzası",
-      "answer": "TUĞRA",
+      "text": "Düğün çalgısı",
+      "answer": "ZURNA",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -181,6 +181,6 @@
       "col": 0
     }
   ],
-  "difficulty": "orta",
-  "order": 105
+  "difficulty": "kolay",
+  "order": 81
 }

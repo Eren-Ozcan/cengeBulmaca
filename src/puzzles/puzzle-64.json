@@ -1,132 +1,125 @@
 {
   "id": "puzzle-64",
-  "title": "Bulmaca 190",
+  "title": "Bulmaca 188",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Dava vekili",
-      "answer": "AVUKAT",
+      "text": "Ansızın gelen bela",
+      "answer": "MUSİBET",
       "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Osmanlı gece bekçisi",
-      "answer": "ASES",
+      "text": "Amaç, hedef",
+      "answer": "EREK",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Reklamla duyurma",
-      "answer": "TANITIM",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Savunma aracı",
-      "answer": "SİLAH",
-      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Tuzsuz su",
-      "answer": "TATLISU",
-      "row": 5,
+      "text": "Yatak başı dolabı",
+      "answer": "KOMODİN",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Minareden okunan sela",
-      "answer": "SALA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Belirtke",
-      "answer": "AMBLEM",
-      "row": 7,
+      "text": "Uzun koltuk",
+      "answer": "KANEPE",
+      "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sırbistan halkından",
-      "answer": "SIRP",
+      "text": "Dayı kızı",
+      "answer": "KUZİN",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yaka kenar şeridi",
+      "answer": "BİYE",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Uzun giysi",
+      "answer": "TUNİK",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Metal levha",
+      "answer": "SAC",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sol'den sonraki nota",
-      "answer": "LA",
+      "text": "Becerikli, yetenekli",
+      "answer": "UZ",
       "row": 8,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Yer altı kayacı",
-      "answer": "MAGMA",
+      "text": "Yüz tozu",
+      "answer": "PUDRA",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çarşı sokağı",
-      "answer": "ARASTA",
-      "row": 0,
+      "text": "Basılı yapıt",
+      "answer": "KİTAP",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tehlike işareti",
-      "answer": "ALARM",
-      "row": 4,
+      "text": "Okur",
+      "answer": "OKUYUCU",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Mürekkepli mühür yastığı",
-      "answer": "ISTAMPA",
-      "row": 2,
+      "text": "Dönen derviş",
+      "answer": "SEMAZEN",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İnsan öldüren",
-      "answer": "KATİL",
+      "text": "Alaylı anlatım",
+      "answer": "İRONİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Havada duran",
-      "answer": "ASILI",
+      "text": "Vücut, gövde",
+      "answer": "BEDEN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dokunma, ilişki",
-      "answer": "TEMAS",
+      "text": "Takım, kadro",
+      "answer": "EKİP",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Göz rengi",
-      "answer": "ELA",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Koyu renkli meyve",
-      "answer": "HURMA",
-      "row": 3,
+      "text": "Bahar bayramı",
+      "answer": "NEVRUZ",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -138,27 +131,31 @@
     },
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
       "col": 7
     },
     {
       "row": 2,
-      "col": 2
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
     },
     {
       "row": 4,
       "col": 0
+    },
+    {
+      "row": 5,
+      "col": 6
     },
     {
       "row": 6,
@@ -169,12 +166,24 @@
       "col": 5
     },
     {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
       "row": 8,
       "col": 4
     },
     {
       "row": 9,
-      "col": 0
+      "col": 6
     },
     {
       "row": 9,
@@ -182,5 +191,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 190
+  "order": 188
 }

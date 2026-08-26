@@ -1,111 +1,146 @@
 {
   "id": "puzzle-165",
-  "title": "Bulmaca 185",
+  "title": "Bulmaca 123",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Taşıt katarı",
-      "answer": "KONVOY",
+      "text": "Hamur açacağı",
+      "answer": "OKLAVA",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Güç harcama",
-      "answer": "EFOR",
-      "row": 2,
-      "col": 4,
+      "text": "Derin çukur",
+      "answer": "KUYU",
+      "row": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kimse, tip, yüz",
-      "answer": "SİMA",
+      "text": "Irmak, çay, dere",
+      "answer": "AKARSU",
       "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kesilen pay",
-      "answer": "KESİNTİ",
-      "row": 5,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Başarı nişanı",
-      "answer": "MADALYA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Rüzgâr bezi",
-      "answer": "YELKEN",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Suç topluluğu",
-      "answer": "ÇETE",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kısa adımlı yürüyüş",
-      "answer": "TIRIS",
-      "row": 9,
+      "text": "Altılı doğum",
+      "answer": "ALTIZ",
+      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yakınma",
-      "answer": "ŞİKAYET",
-      "row": 2,
+      "text": "Kelam",
+      "answer": "SÖZ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sayılmayacak kadar",
+      "answer": "SAYISIZ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Temsilci",
+      "answer": "DELEGE",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mantar-yosun bitkisi",
+      "answer": "LİKEN",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İlmikli ip",
+      "answer": "KEMENT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kalın taban derisi",
+      "answer": "KÖSELE",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yardım, imdat",
-      "answer": "MEDET",
-      "row": 3,
+      "text": "İğne süsü",
+      "answer": "OYA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Soyluluk",
-      "answer": "ASALET",
-      "row": 3,
+      "text": "Acımasız, zulmeden",
+      "answer": "ZALİM",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Oyuncak bebek",
+      "answer": "KUKA",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Birinci, öncü",
-      "answer": "İLK",
-      "row": 4,
+      "text": "Dümen kolu",
+      "answer": "YEKE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Altı kenarlı",
+      "answer": "ALTIGEN",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ateşleme kapsülü",
-      "answer": "FÜNYE",
-      "row": 2,
+      "text": "Ana atardamar",
+      "answer": "AORT",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Allah",
-      "answer": "TANRI",
-      "row": 4,
+      "text": "Dolar parçası",
+      "answer": "SENT",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Akışkan madde",
+      "answer": "SIVI",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "19'dan sonraki sayı",
-      "answer": "YİRMİ",
+      "text": "Divan şiiri ölçüsü",
+      "answer": "ARUZ",
       "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Mektup kesesi",
+      "answer": "ZARF",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -121,69 +156,29 @@
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 4
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 6
     },
     {
-      "row": 1,
+      "row": 3,
       "col": 0
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
-      "col": 3
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 7
     },
     {
       "row": 7,
-      "col": 7
+      "col": 6
     },
     {
       "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 7
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 185
+  "difficulty": "orta",
+  "order": 123
 }

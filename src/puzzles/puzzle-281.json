@@ -1,139 +1,111 @@
 {
   "id": "puzzle-281",
-  "title": "Bulmaca 117",
+  "title": "Bulmaca 169",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Efsane, söylence, mit",
-      "answer": "MİTOS",
+      "text": "Beyaz kır çiçeği",
+      "answer": "PAPATYA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Nakliyat",
-      "answer": "ULAŞIM",
+      "text": "Sallanan yatak",
+      "answer": "HAMAK",
       "row": 2,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yasa",
-      "answer": "KANUN",
-      "row": 2,
+      "text": "Program takdimcisi",
+      "answer": "SUNUCU",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mikstür",
-      "answer": "KARIŞIM",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İnatçı hayvan",
-      "answer": "KEÇİ",
+      "text": "Kırılmış olan",
+      "answer": "KIRIK",
       "row": 5,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ağrılı deri hastalığı",
-      "answer": "ZONA",
+      "text": "Yön bulma aracı",
+      "answer": "PUSULA",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ezgi bütünü",
-      "answer": "BESTE",
+      "text": "Basılıp çoğaltma",
+      "answer": "BASIM",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İnce yün",
-      "answer": "KAŞMİR",
+      "text": "Hisse, parça",
+      "answer": "PAY",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sallanan barfiks",
-      "answer": "TRAPEZ",
+      "text": "Ot biçme aracı",
+      "answer": "TIRPAN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cambaz",
-      "answer": "AKROBAT",
+      "text": "Tahıl",
+      "answer": "HUBUBAT",
       "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Avrupa nehri",
-      "answer": "TUNA",
+      "text": "Başarı sayısı",
+      "answer": "PUAN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yayımlama",
-      "answer": "NEŞR",
+      "text": "Rakam kümesi",
+      "answer": "SAYI",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Onay, izin, tasdik",
-      "answer": "OLUR",
-      "row": 0,
+      "text": "Organ salgısı",
+      "answer": "MUKUS",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Üzüm bitkisi",
-      "answer": "ASMA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yargılanan kimse",
-      "answer": "SANIK",
-      "row": 0,
+      "text": "Acı yemek",
+      "answer": "ACILI",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çeşit, tür",
-      "answer": "TİP",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Soyağacı",
-      "answer": "ŞECERE",
-      "row": 3,
+      "text": "Bilimsel açıklama",
+      "answer": "KURAM",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kesici silah",
-      "answer": "KILIÇ",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük, sevimli",
-      "answer": "MİNİK",
-      "row": 3,
+      "text": "Çekemeyen",
+      "answer": "KISKANÇ",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -145,19 +117,39 @@
     },
     {
       "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 5
+      "row": 2,
+      "col": 0
     },
     {
-      "row": 1,
-      "col": 7
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
     },
     {
       "row": 6,
@@ -169,6 +161,18 @@
     },
     {
       "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
       "col": 6
     },
     {
@@ -177,5 +181,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 117
+  "order": 169
 }

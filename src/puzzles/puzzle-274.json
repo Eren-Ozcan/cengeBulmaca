@@ -1,117 +1,131 @@
 {
   "id": "puzzle-274",
-  "title": "Bulmaca 156",
+  "title": "Bulmaca 107",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Bize göre",
-      "answer": "BİZCE",
-      "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uçmak işi",
-      "answer": "UÇUŞ",
-      "row": 2,
-      "col": 0,
+      "text": "Yeni doğan",
+      "answer": "BEBEK",
+      "row": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Soğuk giysisi",
-      "answer": "HIRKA",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Dikili direk",
-      "answer": "DİKME",
-      "row": 3,
+      "text": "Miktar eksilmesi",
+      "answer": "FİRE",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Küçük davul",
-      "answer": "TRAMPET",
+      "text": "Gerçek yön",
+      "answer": "İÇYÜZ",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sivrisinek hastalığı",
+      "answer": "SITMA",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yiğit, kahraman",
+      "answer": "ALP",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yerine geçen",
+      "answer": "KAİM",
       "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Hiç değilse",
-      "answer": "BARİ",
-      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Karışık içki",
-      "answer": "KOKTEYL",
+      "text": "Pat sesi",
+      "answer": "PATIRTI",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tarım aracı",
+      "answer": "SABAN",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Karşılaşmalar kümesi",
-      "answer": "LİG",
+      "text": "Kalın ve dayanıklı",
+      "answer": "KUNT",
       "row": 8,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sigara tutacağı",
-      "answer": "AĞIZLIK",
+      "text": "Kaçmış kimse",
+      "answer": "KAÇKIN",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çevre",
-      "answer": "MUHİT",
-      "row": 0,
+      "text": "Güney Amerika devesi",
+      "answer": "ALPAKA",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kuyu makarası",
-      "answer": "ÇIKRIK",
-      "row": 1,
+      "text": "Ayakkabı",
+      "answer": "PABUÇ",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Altın bilezik",
-      "answer": "BURMA",
+      "text": "Sakınca, zarar",
+      "answer": "BEİS",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Geviş getiren midesi",
-      "answer": "İŞKEMBE",
-      "row": 0,
+      "text": "Zırhlı taşıt",
+      "answer": "TANK",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İleri çıkan bölüm",
+      "answer": "ÇIKINTI",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hisseli",
-      "answer": "PAYLI",
-      "row": 4,
+      "text": "Veteriner",
+      "answer": "BAYTAR",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yiğitlik, mertlik",
-      "answer": "ERLİK",
-      "row": 4,
+      "text": "Umut",
+      "answer": "ÜMİT",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Geçici",
-      "answer": "EĞRETİ",
+      "text": "Döküntülü çocuk hastalığı",
+      "answer": "KIZAMIK",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -124,11 +138,15 @@
     },
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 5
+      "col": 4
     },
     {
       "row": 0,
@@ -136,39 +154,35 @@
     },
     {
       "row": 1,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 6
+      "col": 1
     },
     {
       "row": 3,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 1
+      "col": 0
     },
     {
       "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
       "col": 7
     },
     {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 3
+      "row": 9,
+      "col": 6
     },
     {
       "row": 9,
@@ -176,5 +190,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 156
+  "order": 107
 }

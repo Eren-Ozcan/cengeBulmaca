@@ -1,145 +1,124 @@
 {
   "id": "puzzle-51",
-  "title": "Bulmaca 69",
+  "title": "Bulmaca 135",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Şaşkınlık sözü",
-      "answer": "AYOL",
+      "text": "Hükümdar kızı",
+      "answer": "PRENSES",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sermaye",
-      "answer": "ANAPARA",
+      "text": "Akış hâli",
+      "answer": "AKMA",
       "row": 2,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Fabrika üretimi",
-      "answer": "İMALAT",
+      "text": "Ağacın yeşil organı",
+      "answer": "YAPRAK",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uyandıran",
-      "answer": "UYARICI",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sonuçsuz kalan",
-      "answer": "AKİM",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Tropik çayır",
-      "answer": "SAVANA",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kaplıca",
-      "answer": "ILICA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kıskaç, maşa",
-      "answer": "PENSE",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Büyük acı, ıstırap",
-      "answer": "AZAP",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Birliktelik bağlacı",
-      "answer": "İLE",
-      "row": 9,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Eğik olan",
-      "answer": "YAMUK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Tasdik",
-      "answer": "ONAY",
-      "row": 0,
       "col": 2,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Eşek yavrusu",
-      "answer": "SIPA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Erkek dadı",
-      "answer": "LALA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Acaba",
-      "answer": "ACEP",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Katlanır bölme",
-      "answer": "PARAVAN",
-      "row": 1,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Söyleme yeteneği",
-      "answer": "NATIKA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Gamın son notası",
-      "answer": "Sİ",
-      "row": 7,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Eşeysel",
-      "answer": "CİNSEL",
+      "text": "Sıcaklık derecesi",
+      "answer": "ISI",
       "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şeker, para",
+      "answer": "SAÇI",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ağaçlık alan",
+      "answer": "ORMAN",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Oruç açma",
+      "answer": "İFTAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kısa adımlı yürüyüş",
+      "answer": "TIRIS",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Duman yolu",
+      "answer": "BACA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mutedil iklim",
+      "answer": "ILIMAN",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Medrese öğrencisi",
+      "answer": "SOFTA",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Avla beslenen",
+      "answer": "YIRTICI",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dişi geyik",
+      "answer": "MARAL",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Çok sarı",
+      "answer": "SAPSARI",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Görüntü yüzeyi",
+      "answer": "EKRAN",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Sert vuruş",
+      "answer": "SMAÇ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Merhamet duygusu",
-      "answer": "ACIMA",
+      "text": "Sınır savaşçısı",
+      "answer": "AKINCI",
       "row": 1,
       "col": 7,
       "arrow": "down"
@@ -148,33 +127,65 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 1
     },
     {
       "row": 0,
-      "col": 6
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 5,
+      "row": 2,
       "col": 0
     },
     {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
       "row": 7,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 8,
       "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 69
+  "difficulty": "orta",
+  "order": 135
 }

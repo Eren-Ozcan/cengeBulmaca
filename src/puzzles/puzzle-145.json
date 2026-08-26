@@ -1,139 +1,146 @@
 {
   "id": "puzzle-145",
-  "title": "Bulmaca 128",
+  "title": "Bulmaca 116",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Küçük kale",
-      "answer": "HİSAR",
+      "text": "Haber",
+      "answer": "HAVADİS",
       "row": 1,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İvedi",
-      "answer": "ACİL",
+      "text": "Yaptırım",
+      "answer": "CEZA",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kalp atışı",
-      "answer": "NABIZ",
+      "text": "Gözle görülmeyen yaratık",
+      "answer": "CİN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güvenli",
+      "answer": "EMİN",
       "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Müzikte uyum",
+      "answer": "ARMONİ",
+      "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Büyük yıkım",
-      "answer": "FELAKET",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlı yargıcı",
-      "answer": "KADI",
+      "text": "Perşembeden sonraki gün",
+      "answer": "CUMA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ses yansıması",
-      "answer": "YANKI",
+      "text": "Yargı yeri",
+      "answer": "MAHKEME",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Asker birliği",
-      "answer": "MANGA",
+      "text": "Toprak aleti",
+      "answer": "KAZMA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Seyirci coşturucusu",
-      "answer": "AMİGO",
+      "text": "Sıkıntısız, huzurlu",
+      "answer": "ERİNÇ",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Netice",
-      "answer": "SONUÇ",
-      "row": 9,
+      "text": "Şiddetli rüzgâr",
+      "answer": "FIRTINA",
+      "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kurak alan",
-      "answer": "ÇÖL",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Duvar kaplaması",
-      "answer": "FAYANS",
-      "row": 3,
+      "text": "Korkutan hayal",
+      "answer": "UMACI",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hükümdar ailesi",
-      "answer": "HANEDAN",
-      "row": 0,
+      "text": "Günlük ibadet",
+      "answer": "NAMAZ",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çabuk gücenen",
-      "answer": "ALINGAN",
-      "row": 2,
+      "text": "Bağışlama, merhamet",
+      "answer": "RAHMET",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gündoğusu yeli",
-      "answer": "SABA",
+      "text": "İranlı",
+      "answer": "ACEM",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Amme",
-      "answer": "KAMU",
+      "text": "Eş, zevce",
+      "answer": "KARI",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dokunaklı, elim",
-      "answer": "ACIKLI",
+      "text": "Modası geçmiş",
+      "answer": "DEMODE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dış karşıtı",
-      "answer": "İÇ",
+      "text": "Yaban barınağı",
+      "answer": "İN",
       "row": 7,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çay ilimiz",
-      "answer": "RİZE",
+      "text": "Verilen özgürlük",
+      "answer": "İZİN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Darbe emici",
-      "answer": "TAMPON",
-      "row": 3,
+      "text": "Anlam",
+      "answer": "MANA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Dakikanın altmışta biri",
+      "answer": "SANİYE",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -141,45 +148,33 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
     },
     {
       "row": 0,
       "col": 3
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
       "row": 2,
       "col": 1
     },
     {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
       "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 0
+      "col": 7
     },
     {
       "row": 9,
-      "col": 6
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 128
+  "order": 116
 }

@@ -1,117 +1,110 @@
 {
   "id": "puzzle-156",
-  "title": "Bulmaca 192",
+  "title": "Bulmaca 191",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Süslü ipek kumaş",
-      "answer": "DİBA",
+      "text": "Çünkü",
+      "answer": "ZİRA",
       "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Uzaktaki yer",
-      "answer": "ORA",
-      "row": 1,
       "col": 4,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Korunma yeri",
-      "answer": "SİPER",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
+      "text": "Yüz kılları",
+      "answer": "SAKAL",
+      "row": 1,
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Din uğruna savaş",
-      "answer": "GAZA",
+      "text": "Dar uzun körfez",
+      "answer": "FİYORT",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Para kuruluşu",
-      "answer": "BANKA",
+      "text": "Seçim sorusu",
+      "answer": "HANGİ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Boyun altı",
-      "answer": "GERDAN",
-      "row": 4,
+      "text": "Vicdan duygusu",
+      "answer": "İNSAF",
+      "row": 5,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Tohumlu meyve",
-      "answer": "İNCİR",
+      "text": "Tasdik",
+      "answer": "ONAY",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
+      "text": "78 numaralı element",
+      "answer": "PLATİN",
       "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yer süpüren araç",
-      "answer": "SÜPÜRGE",
+      "text": "Marpuçlu tütün aleti",
+      "answer": "NARGİLE",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hedefi vurma",
-      "answer": "İSABET",
-      "row": 0,
+      "text": "Büyü",
+      "answer": "SİHİR",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bezmiş, usanmış, bıkmış",
-      "answer": "BİZAR",
+      "text": "Kadın unvanı",
+      "answer": "BAYAN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kör bağırsak uzantısı",
-      "answer": "APANDİS",
-      "row": 0,
+      "text": "Duvar kenarı mobilya",
+      "answer": "KONSOL",
+      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ağır tartı",
-      "answer": "KANTAR",
-      "row": 3,
+      "text": "Uzun gagalı balık",
+      "answer": "ZARGANA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Büyükle küçük arası",
-      "answer": "ORTANCA",
+      "text": "Güzel söz",
+      "answer": "İLTİFAT",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kalın karşıtı",
-      "answer": "İNCE",
+      "text": "Gene",
+      "answer": "YİNE",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Su hayvanı",
-      "answer": "HİDRA",
+      "text": "Öç isteği",
+      "answer": "KİN",
       "row": 2,
       "col": 7,
       "arrow": "down"
@@ -120,7 +113,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
     },
     {
       "row": 0,
@@ -129,6 +130,10 @@
     {
       "row": 0,
       "col": 7
+    },
+    {
+      "row": 1,
+      "col": 0
     },
     {
       "row": 2,
@@ -145,6 +150,10 @@
     {
       "row": 6,
       "col": 0
+    },
+    {
+      "row": 6,
+      "col": 7
     },
     {
       "row": 7,
@@ -164,6 +173,10 @@
     },
     {
       "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
       "col": 5
     },
     {
@@ -176,5 +189,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 192
+  "order": 191
 }

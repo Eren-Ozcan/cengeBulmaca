@@ -1,151 +1,131 @@
 {
   "id": "puzzle-59",
-  "title": "Bulmaca 18",
+  "title": "Bulmaca 30",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Et satıcısı",
-      "answer": "KASAP",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bağlaç",
-      "answer": "Kİ",
+      "text": "Hainlik",
+      "answer": "İHANET",
       "row": 1,
-      "col": 5,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Şaka seven",
-      "answer": "ŞAKACI",
+      "text": "Şaşkınlık sözü",
+      "answer": "AYOL",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Turuncu sebze",
-      "answer": "HAVUÇ",
+      "text": "Herkesçe bilinen",
+      "answer": "AFİŞE",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Patlıcanlı fırın yemeği",
-      "answer": "MUSAKKA",
+      "text": "Para birimimiz",
+      "answer": "LİRA",
       "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tekerlek çemberi",
-      "answer": "JANT",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hastalık etkeni",
-      "answer": "MİKROP",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Hısım",
-      "answer": "AKRABA",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yağmur borusu",
-      "answer": "OLUK",
-      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Bilme, anlama, sezgi",
-      "answer": "İRFAN",
+      "text": "Gecikme",
+      "answer": "RÖTAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Nazlı, işveli",
+      "answer": "EDALI",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İşkence",
+      "answer": "EZİYET",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Solüsyon",
+      "answer": "ÇÖZELTİ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mısır güneş tanrısı",
-      "answer": "RA",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "Süreç adımı",
-      "answer": "AŞAMA",
-      "row": 0,
+      "text": "Cemaatten kovma",
+      "answer": "AFOROZ",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Müdafaa",
-      "answer": "SAVUNMA",
+      "text": "Kötü karşıtı",
+      "answer": "İYİ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yankı bilimi",
-      "answer": "AKUSTİK",
+      "text": "Güzel, sevimli",
+      "answer": "HOŞ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Pantolon ucu",
-      "answer": "PAÇA",
+      "text": "Annenin kız kardeşi",
+      "answer": "TEYZE",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Bayağı, olağan",
+      "answer": "ALELADE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İskandinav parası",
-      "answer": "KRON",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Temel ilke",
-      "answer": "KURAL",
+      "text": "Gelirli mülk",
+      "answer": "İRAT",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "39'dan sonraki sayı",
-      "answer": "KIRK",
+      "text": "Buyruk",
+      "answer": "EMİR",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çok yiyen",
-      "answer": "OBUR",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Güney Amerika devesi",
-      "answer": "ALPAKA",
+      "text": "Makinedeki bozukluk",
+      "answer": "ARIZA",
       "row": 3,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
     {
       "row": 0,
       "col": 5
@@ -155,16 +135,32 @@
       "col": 7
     },
     {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
       "row": 2,
       "col": 7
     },
     {
-      "row": 6,
+      "row": 4,
       "col": 0
     },
     {
+      "row": 4,
+      "col": 2
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
       "row": 7,
-      "col": 0
+      "col": 6
     },
     {
       "row": 8,
@@ -173,8 +169,24 @@
     {
       "row": 8,
       "col": 2
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 18
+  "order": 30
 }

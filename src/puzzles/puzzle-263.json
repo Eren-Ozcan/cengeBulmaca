@@ -1,125 +1,139 @@
 {
   "id": "puzzle-263",
-  "title": "Bulmaca 70",
+  "title": "Bulmaca 25",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Öyle olsa da",
-      "answer": "GERÇİ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Deniz rüzgârı",
-      "answer": "İMBAT",
-      "row": 2,
+      "text": "Taban, yer",
+      "answer": "ZEMİN",
+      "row": 1,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bitki örtüsü",
-      "answer": "FLORA",
+      "text": "Kira ödeyen",
+      "answer": "KİRACI",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mutlu",
+      "answer": "MESUT",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Çevre, etraf",
-      "answer": "ORTALIK",
+      "text": "Saklanmış olan",
+      "answer": "SAKLI",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dip ağı",
-      "answer": "TROL",
+      "text": "Hükümdar başlığı",
+      "answer": "TAÇ",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dolaylı anlatım",
-      "answer": "KİNAYE",
+      "text": "Asla sözü",
+      "answer": "HAŞA",
       "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bahar ısınması",
+      "answer": "CEMRE",
+      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İnce hamur",
-      "answer": "YUFKA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Harf dizisi",
+      "answer": "ALFABE",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Bağımsız, özgür",
-      "answer": "SERBEST",
+      "text": "Vakıf senedi",
+      "answer": "VAKFİYE",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Köz, ateş",
-      "answer": "KOR",
-      "row": 2,
+      "text": "Su sürüngeni",
+      "answer": "TİMSAH",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Küflü peynir",
-      "answer": "ROKFOR",
+      "text": "Şişe kapağı aracı",
+      "answer": "AÇACAK",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tarım işletmesi",
-      "answer": "ÇİFTLİK",
+      "text": "Yapıştırıcı madde",
+      "answer": "ZAMK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yazım kuralları",
-      "answer": "İMLA",
+      "text": "Kıta sahanlığı",
+      "answer": "ŞELF",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ölüm vakti",
+      "answer": "ECEL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kokulu bitki",
-      "answer": "NANE",
+      "text": "Üniversite dersliği",
+      "answer": "AMFİ",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Fazlaca, bol",
-      "answer": "BOLCA",
-      "row": 1,
+      "text": "Sarı tahıl",
+      "answer": "MISIR",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Limon rengi",
-      "answer": "SARI",
-      "row": 0,
-      "col": 6,
+      "text": "Tren yolu",
+      "answer": "RAY",
+      "row": 6,
+      "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Vatan",
-      "answer": "YURT",
+      "text": "Hamile",
+      "answer": "GEBE",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yarım küre başlık",
-      "answer": "TAKKE",
-      "row": 1,
+      "text": "Konuşma, söylev",
+      "answer": "NUTUK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -127,7 +141,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
@@ -135,42 +149,30 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 2,
-      "col": 0
+      "col": 6
     },
     {
       "row": 3,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 5
+      "row": 4,
+      "col": 6
     },
     {
-      "row": 7,
+      "row": 6,
       "col": 7
     },
     {
-      "row": 8,
-      "col": 1
+      "row": 7,
+      "col": 0
     },
     {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
+      "row": 7,
       "col": 7
     },
     {
@@ -179,5 +181,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 70
+  "order": 25
 }

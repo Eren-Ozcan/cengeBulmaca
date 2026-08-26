@@ -1,125 +1,146 @@
 {
   "id": "puzzle-163",
-  "title": "Bulmaca 162",
+  "title": "Bulmaca 12",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yumurtalı sos",
-      "answer": "MAYONEZ",
-      "row": 1,
+      "text": "İplik lifi",
+      "answer": "ELYAF",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İlaç, merhem",
+      "answer": "EM",
+      "row": 0,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ekin aracı",
+      "answer": "ORAK",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dörtnal koşu",
+      "answer": "GALOP",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gizli sapma",
+      "answer": "KAÇAMAK",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Rutubet",
-      "answer": "NEM",
-      "row": 2,
+      "text": "Şampiyonluk ödülü",
+      "answer": "KUPA",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Onarım",
-      "answer": "TAMİR",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sözsüz oyuncu",
-      "answer": "FİGÜRAN",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ziynet eşyası",
-      "answer": "TAKI",
-      "row": 5,
+      "text": "Söz söylenen kişi",
+      "answer": "MUHATAP",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kaleyi koruyan",
-      "answer": "KALECİ",
-      "row": 5,
+      "text": "İzmir ilçesi",
+      "answer": "BUCA",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Temelsiz inanç",
-      "answer": "BATIL",
+      "text": "Büyük toprak sahibi",
+      "answer": "AĞA",
       "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Zabıt",
+      "answer": "TUTANAK",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Resimde varlık biçimi",
-      "answer": "BETİ",
-      "row": 7,
+      "text": "Yatak altı",
+      "answer": "BAZA",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İşlenmiş eşya",
-      "answer": "MAMUL",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Söz söyleme sanatı",
-      "answer": "HİTABET",
-      "row": 2,
+      "text": "Askerî yönetim",
+      "answer": "KOMUTA",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yanlış kelime",
-      "answer": "GALAT",
-      "row": 3,
+      "text": "Beden-zihin sistemi",
+      "answer": "YOGA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Harcama",
-      "answer": "TÜKETİM",
-      "row": 2,
+      "text": "Pahalı karşıtı",
+      "answer": "UCUZ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Alet, vasıta",
+      "answer": "ARAÇ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tamirci",
-      "answer": "ONARICI",
+      "text": "Yapılan yanlış",
+      "answer": "HATA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ayak tabanı cezası",
+      "answer": "FALAKA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Büyüme, gelişme, çoğalma",
-      "answer": "NEMA",
-      "row": 0,
+      "text": "Kumandan",
+      "answer": "KOMUTAN",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Mahkeme belgesi",
-      "answer": "İLAM",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Güvenli",
-      "answer": "EMİN",
-      "row": 0,
+      "text": "Konuşan kuş",
+      "answer": "PAPAĞAN",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çıkarım sonucu",
-      "answer": "ARDIL",
-      "row": 4,
+      "text": "Örtme nesnesi",
+      "answer": "KAPAK",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -127,19 +148,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 5
     },
     {
       "row": 0,
@@ -151,37 +164,29 @@
     },
     {
       "row": 2,
-      "col": 2
+      "col": 7
     },
     {
-      "row": 2,
-      "col": 7
+      "row": 3,
+      "col": 0
     },
     {
       "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 6
+      "col": 0
     },
     {
       "row": 9,
-      "col": 0
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 162
+  "difficulty": "kolay",
+  "order": 12
 }

@@ -1,123 +1,120 @@
 {
   "id": "puzzle-294",
-  "title": "Bulmaca 184",
+  "title": "Bulmaca 165",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Çiçek yeri",
-      "answer": "BAHÇE",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Isınma aracı",
-      "answer": "SOBA",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Leylek sesi",
-      "answer": "LAKLAK",
-      "row": 3,
+      "text": "Sığır çobanı",
+      "answer": "KOVBOY",
+      "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kardan kulübe",
-      "answer": "İGLU",
-      "row": 4,
+      "text": "Acı bitki",
+      "answer": "PELİN",
+      "row": 2,
       "col": 3,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Yürürlükteki kurallar",
-      "answer": "MEVZUAT",
+      "text": "Büyükle küçük arası",
+      "answer": "ORTANCA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Düşünceye dalmış",
+      "answer": "DALGIN",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Katar'ın başkenti",
-      "answer": "DOHA",
+      "text": "Ayrılmış bölüm",
+      "answer": "BÖLME",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kira ödeyen",
-      "answer": "KİRACI",
+      "text": "Başka, öteki, diğer",
+      "answer": "SAİR",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Silindir biçimli tahıl kulesi",
-      "answer": "SİLO",
+      "text": "Vücut yapısı",
+      "answer": "BÜNYE",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ülkü uğruna ölen",
-      "answer": "ŞEHİT",
+      "text": "Mafsal",
+      "answer": "EKLEM",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Erkek gece kıyafeti",
-      "answer": "SMOKİN",
-      "row": 4,
+      "text": "İnce palto",
+      "answer": "PARDÖSÜ",
+      "row": 2,
       "col": 0,
       "arrow": "right-down"
     },
     {
-      "text": "Yetkin, uzman",
-      "answer": "EHİL",
-      "row": 4,
+      "text": "Yağma",
+      "answer": "TALAN",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kenar mahalle",
-      "answer": "VAROŞ",
-      "row": 4,
+      "text": "Tropik ağaç",
+      "answer": "PALMİYE",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Taslak",
-      "answer": "ESKİZ",
-      "row": 0,
+      "text": "Üçgen başlı yılan",
+      "answer": "ENGEREK",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gözlem konusu",
-      "answer": "OLGU",
-      "row": 1,
+      "text": "Bal üreticisi",
+      "answer": "BALCI",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Evliliğin ilk ayı",
-      "answer": "BALAYI",
-      "row": 1,
+      "text": "Yardım parası",
+      "answer": "İANE",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kırmızı değerli taş",
-      "answer": "YAKUT",
+      "text": "Taraf, istikamet",
+      "answer": "YÖN",
       "row": 0,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
     {
       "row": 0,
       "col": 1
@@ -132,31 +129,27 @@
     },
     {
       "row": 0,
-      "col": 5
+      "col": 4
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
     },
     {
       "row": 2,
       "col": 2
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 4,
+      "col": 7
     },
     {
-      "row": 6,
-      "col": 4
+      "row": 5,
+      "col": 7
     },
     {
       "row": 6,
@@ -168,11 +161,15 @@
     },
     {
       "row": 7,
-      "col": 7
+      "col": 5
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 7
     },
     {
       "row": 8,
@@ -189,8 +186,12 @@
     {
       "row": 9,
       "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
     }
   ],
-  "difficulty": "zor",
-  "order": 184
+  "difficulty": "orta",
+  "order": 165
 }

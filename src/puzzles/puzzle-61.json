@@ -1,145 +1,145 @@
 {
   "id": "puzzle-61",
-  "title": "Bulmaca 75",
+  "title": "Bulmaca 56",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Gol pası",
-      "answer": "ASİST",
+      "text": "Tiyatro oyunu",
+      "answer": "PİYES",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ayrık durum",
-      "answer": "İSTİSNA",
+      "text": "Başkalaşma",
+      "answer": "DEĞİŞİM",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Örgü işi",
-      "answer": "ÖRME",
+      "text": "Yürürlükteki",
+      "answer": "CARİ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tahta sedir",
-      "answer": "KEREVET",
+      "text": "Kuvvet bilimi",
+      "answer": "MEKANİK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üçüncü Yunan harfi",
-      "answer": "GAMA",
+      "text": "Koruyucu, kayıran",
+      "answer": "HAMİ",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gömü yeri",
-      "answer": "MEZAR",
+      "text": "Dargınlık tohumu",
+      "answer": "NİFAK",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Delikli kumaş",
-      "answer": "ETAMİN",
+      "text": "Sarmal",
+      "answer": "SPİRAL",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yolculuk",
-      "answer": "SEFER",
+      "text": "Fakülte yöneticisi",
+      "answer": "DEKAN",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Din işleri",
-      "answer": "DİYANET",
+      "text": "İç organlar",
+      "answer": "SAKATAT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gösteri çadırı",
-      "answer": "SİRK",
+      "text": "Ölüm cezası",
+      "answer": "İDAM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yetenek",
-      "answer": "YETİ",
+      "text": "Üzüm bitkisi",
+      "answer": "ASMA",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Adını belirterek",
-      "answer": "İSMEN",
+      "text": "Yöresel",
+      "answer": "YEREL",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Odun hacim ölçüsü",
-      "answer": "STER",
+      "text": "Dik karşıtı",
+      "answer": "EĞİK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çalışma mobilyası",
-      "answer": "MASA",
+      "text": "Seslenme, çağırma; ünlem",
+      "answer": "NİDA",
       "row": 5,
       "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gamın son notası",
+      "answer": "Sİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Öbür dünya",
+      "answer": "AHİRET",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Geçimlik",
+      "answer": "NAFAKA",
+      "row": 3,
+      "col": 5,
       "arrow": "down"
     },
     {
       "text": "Boru sesi",
       "answer": "Tİ",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hükümran",
-      "answer": "EGEMEN",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ödev",
-      "answer": "VAZİFE",
-      "row": 3,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Arka karşıtı",
-      "answer": "ÖN",
-      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Geçici bırakılan",
-      "answer": "EMANET",
+      "text": "Fabrika üretimi",
+      "answer": "İMALAT",
       "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Baharat satıcısı",
-      "answer": "AKTAR",
+      "text": "Dokuma aracı",
+      "answer": "MEKİK",
       "row": 1,
       "col": 7,
       "arrow": "down"
@@ -176,5 +176,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 75
+  "order": 56
 }

@@ -1,131 +1,131 @@
 {
   "id": "puzzle-110",
-  "title": "Bulmaca 77",
+  "title": "Bulmaca 42",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yetişkin",
-      "answer": "ERİŞKİN",
+      "text": "Ata, dede",
+      "answer": "AĞABABA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ahlak kuralları",
-      "answer": "ETİK",
+      "text": "Haykırma, bağırma",
+      "answer": "NARA",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gemi yapım yeri",
-      "answer": "TERSANE",
+      "text": "Hoş sıcaklıkta",
+      "answer": "SICACIK",
       "row": 2,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Ani sarsıntı",
-      "answer": "ŞOK",
+      "text": "Yarı karanlık",
+      "answer": "LOŞ",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zırhlı taşıt",
-      "answer": "TANK",
+      "text": "Harflerle anlatım",
+      "answer": "YAZI",
       "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ara süresi",
-      "answer": "TATİL",
+      "text": "Taşıma",
+      "answer": "NAKİL",
       "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Elverişli şart",
-      "answer": "İMKAN",
+      "text": "Değiş tokuş",
+      "answer": "TAKAS",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zehirli element",
-      "answer": "ARSENİK",
+      "text": "Doğrudan olmayan",
+      "answer": "DOLAYLI",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Onuncu ay",
-      "answer": "EKİM",
+      "text": "Kin, garaz",
+      "answer": "HINÇ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Fiyatı arttırılmış",
-      "answer": "ZAMLI",
+      "text": "Sofra aracı",
+      "answer": "ÇATAL",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ağaç çekiç",
-      "answer": "TOKMAK",
+      "text": "Aile adı",
+      "answer": "SOYADI",
       "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Süt hayvanı",
-      "answer": "İNEK",
+      "text": "Cereyan",
+      "answer": "AKIŞ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bunalım",
-      "answer": "KRİZ",
+      "text": "Baldır bölümü",
+      "answer": "KONÇ",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Boyun bağı",
-      "answer": "TASMA",
+      "text": "Ayakkabı demiri",
+      "answer": "NALÇA",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kabuklu güz yemişi",
-      "answer": "KESTANE",
+      "text": "Temel kanun",
+      "answer": "ANAYASA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Boyun eğme",
-      "answer": "İTAAT",
+      "text": "Kasık-taban arası",
+      "answer": "BACAK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Uyutma türküsü",
-      "answer": "NİNNİ",
+      "text": "Sonradan çıkan",
+      "answer": "ARIZİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Avlanan dağ kuşu",
-      "answer": "KEKLİK",
+      "text": "Zeki, uslu",
+      "answer": "AKILLI",
       "row": 1,
       "col": 7,
       "arrow": "down"
@@ -182,5 +182,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 77
+  "order": 42
 }

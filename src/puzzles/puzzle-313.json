@@ -1,0 +1,182 @@
+{
+  "id": "puzzle-313",
+  "title": "Bulmaca 162",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Gevşeklik",
+      "answer": "REHAVET",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İrticalen söyleme",
+      "answer": "DOĞAÇ",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kurnaz hayvan",
+      "answer": "TİLKİ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Destek verme",
+      "answer": "KATKI",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kafa",
+      "answer": "BAŞ",
+      "row": 4,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tükenmiş fil",
+      "answer": "MAMUT",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Nükteli hikâye",
+      "answer": "FIKRA",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İşten anlayan",
+      "answer": "ERBAP",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kırbaç",
+      "answer": "KAMÇI",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İzlenecek yol",
+      "answer": "ROTA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kumaş cilalama",
+      "answer": "APRE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Terbiye, öğretim",
+      "answer": "EĞİTİM",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Ülke insanları",
+      "answer": "HALK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Normalden küçük",
+      "answer": "UFAK",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüzey parlatma",
+      "answer": "AÇKI",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Fıçı ağzı tıkacı",
+      "answer": "TIPA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kavşak",
+      "answer": "AYRIÇ",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Saç kesimi",
+      "answer": "TIRAŞ",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    }
+  ],
+  "difficulty": "orta",
+  "order": 162
+}

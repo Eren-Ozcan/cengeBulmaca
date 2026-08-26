@@ -1,0 +1,190 @@
+{
+  "id": "puzzle-297",
+  "title": "Bulmaca 157",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Toplu kalabalık",
+      "answer": "KİTLE",
+      "row": 1,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yuvarlak başlık",
+      "answer": "BERE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sezme yeteneği",
+      "answer": "SEZGİ",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Konak yöneticisi",
+      "answer": "KAHYA",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Ses inceltici",
+      "answer": "DİYEZ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kalp düzensizliği",
+      "answer": "ARİTMİ",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tiz erkek sesi",
+      "answer": "TENOR",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Çukur yer",
+      "answer": "OYUK",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Algı yolu",
+      "answer": "DUYU",
+      "row": 5,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Yontma aracı",
+      "answer": "KESKİ",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İrlanda'nın kendi adı",
+      "answer": "EİRE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dışarıda gecelemek",
+      "answer": "YATI",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Askerlik belgesi",
+      "answer": "TEZKERE",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eğlence yeri",
+      "answer": "GAZİNO",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Savaşla alma",
+      "answer": "FETİH",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Deneyimsiz, acemi",
+      "answer": "TOY",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yuvarlak, şişkin",
+      "answer": "YUMRU",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalabalıksız, ıssız",
+      "answer": "TENHA",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 1
+    }
+  ],
+  "difficulty": "orta",
+  "order": 157
+}

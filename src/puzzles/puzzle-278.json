@@ -1,139 +1,132 @@
 {
   "id": "puzzle-278",
-  "title": "Bulmaca 170",
+  "title": "Bulmaca 35",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Matem",
-      "answer": "YAS",
+      "text": "İstekli kimse",
+      "answer": "TALİP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hindistan'da sınıf",
-      "answer": "KAST",
-      "row": 1,
+      "text": "Karar verme",
+      "answer": "NİYET",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Meslek yolu",
+      "answer": "KARİYER",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Büyücü",
+      "answer": "ŞAMAN",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Göz rengi",
+      "answer": "ELA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mısra",
+      "answer": "DİZE",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İç giysisi",
-      "answer": "KORSE",
+      "text": "Zehirli element",
+      "answer": "ARSENİK",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sirke tadında",
+      "answer": "EKŞİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Köşeye çekilme",
+      "answer": "İNZİVA",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Dayanıklı, güçlü",
+      "answer": "KAVİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Boşta gezen",
+      "answer": "AYLAK",
       "row": 2,
       "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Zafer",
-      "answer": "UTKU",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Göz yanılması",
-      "answer": "SERAP",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sevimli",
-      "answer": "ŞİRİN",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Karakter",
-      "answer": "SECİYE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kök sebzesi",
-      "answer": "KEREVİZ",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eski dilde içinde",
-      "answer": "İÇRE",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Saygı gösterme",
-      "answer": "İHTİRAM",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Bedeniyle çalışan",
-      "answer": "EMEKÇİ",
-      "row": 3,
-      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Maç sonucu",
-      "answer": "SKOR",
+      "text": "Belge saklama",
+      "answer": "ARŞİV",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Alçalan yol",
+      "answer": "İNİŞ",
       "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İddia çürütme",
-      "answer": "CERH",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Oymak, kabile",
-      "answer": "AŞİRET",
-      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kumarhane görevlisi",
-      "answer": "KRUPİYE",
+      "text": "Yemek tepsisi",
+      "answer": "SİNİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaya asker",
+      "answer": "PİYADE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Alt görevli",
-      "answer": "AST",
-      "row": 0,
+      "text": "Ant içmiş",
+      "answer": "YEMİNLİ",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hasta bölümü",
-      "answer": "REVİR",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Cinsel çekicilik",
-      "answer": "SEKSİ",
+      "text": "Tartı aleti",
+      "answer": "TERAZİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ölçülü şiir",
-      "answer": "NAZIM",
-      "row": 4,
+      "text": "Meyve özü",
+      "answer": "NEKTAR",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -145,33 +138,41 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
+      "row": 1,
       "col": 7
     },
     {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 8,
+      "row": 7,
       "col": 4
     },
     {
-      "row": 8,
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
       "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 170
+  "difficulty": "kolay",
+  "order": 35
 }

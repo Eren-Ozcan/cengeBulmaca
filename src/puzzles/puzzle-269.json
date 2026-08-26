@@ -1,134 +1,140 @@
 {
   "id": "puzzle-269",
-  "title": "Bulmaca 116",
+  "title": "Bulmaca 114",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Gürültülü kavga",
-      "answer": "ARBEDE",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kuşu örten yapı",
-      "answer": "TÜY",
-      "row": 1,
+      "text": "Şampiyon adayı",
+      "answer": "FAVORİ",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güzel karşıtı",
-      "answer": "ÇİRKİN",
-      "row": 3,
-      "col": 1,
+      "text": "Ulaşım şeridi",
+      "answer": "YOL",
+      "row": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kat aracı",
-      "answer": "ASANSÖR",
-      "row": 3,
+      "text": "On tane",
+      "answer": "ONLUK",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Saray bölümü",
-      "answer": "HAREM",
+      "text": "Taşkınlık",
+      "answer": "İFRAT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Uzak, ıssız",
+      "answer": "SAPA",
       "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Çekicilik",
+      "answer": "CAZİBE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dernek, topluluk",
+      "answer": "CEMİYET",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dünya, talih, kader",
+      "answer": "FELEK",
+      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Öznel",
-      "answer": "İNDİ",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eş sesli",
-      "answer": "SESTEŞ",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kuşların barınağı",
-      "answer": "YUVA",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Zorunluluk",
-      "answer": "ZARURET",
+      "text": "Dikenli otsu bitki",
+      "answer": "PITRAK",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ebedî",
-      "answer": "SONSUZ",
-      "row": 3,
+      "text": "Nakit değil",
+      "answer": "AYNİ",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hilal",
-      "answer": "AYÇA",
+      "text": "Kendine doğru çekme",
+      "answer": "CEZP",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "74 numaralı element",
+      "answer": "VOLFRAM",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İlaç, çare",
-      "answer": "DEVA",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tekel",
-      "answer": "İNHİSAR",
-      "row": 2,
+      "text": "Onay, izin, tasdik",
+      "answer": "OLUR",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İlk Osmanlı başkenti",
-      "answer": "BURSA",
-      "row": 0,
+      "text": "Kara katran",
+      "answer": "ZİFT",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kasa görevlisi",
+      "answer": "KASİYER",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Taze, yeni",
-      "answer": "KÖRPE",
-      "row": 2,
+      "text": "Tanıtım levhası",
+      "answer": "TABELA",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Konut bölümü",
-      "answer": "DAİRE",
-      "row": 0,
+      "text": "Bal yapısı",
+      "answer": "PETEK",
+      "row": 4,
       "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Yedi gün",
+      "answer": "HAFTA",
+      "row": 0,
+      "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
@@ -136,23 +142,27 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 2,
-      "col": 7
+      "col": 5
     },
     {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 6,
-      "col": 4
-    },
-    {
-      "row": 6,
+      "row": 2,
       "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
     },
     {
       "row": 6,
@@ -164,21 +174,13 @@
     },
     {
       "row": 8,
-      "col": 4
+      "col": 0
     },
     {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
+      "row": 9,
       "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 116
+  "order": 114
 }

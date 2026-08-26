@@ -1,125 +1,132 @@
 {
   "id": "puzzle-122",
-  "title": "Bulmaca 167",
+  "title": "Bulmaca 217",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Moda gösterisi",
-      "answer": "DEFİLE",
+      "text": "Yeniden çiğneme",
+      "answer": "GEVİŞ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yapay tatlandırıcı",
-      "answer": "SAKARİN",
+      "text": "Sözleşme, bağıt",
+      "answer": "AKİT",
       "row": 2,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Üreteç",
-      "answer": "DİNAMO",
+      "text": "Büyük yıkım",
+      "answer": "FELAKET",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İyilik, lütuf",
-      "answer": "NİMET",
+      "text": "Cimri",
+      "answer": "HASİS",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kötü karşıtı",
-      "answer": "İYİ",
+      "text": "Olağanüstü olay",
+      "answer": "MUCİZE",
       "row": 5,
-      "col": 4,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Geçiş",
-      "answer": "İNTİKAL",
+      "text": "Dişi insan",
+      "answer": "KADIN",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nem",
-      "answer": "RUTUBET",
-      "row": 7,
+      "text": "Bir baykuş türü",
+      "answer": "PUHU",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İlenme, yakınma",
-      "answer": "AH",
+      "text": "Madde ile",
+      "answer": "MADDİ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Elâzığ ilçesi",
+      "answer": "PALU",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çalışma, emek",
+      "answer": "İŞ",
       "row": 9,
       "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Hafif yel",
-      "answer": "ESİNTİ",
+      "text": "Uzun kulaklı hayvan",
+      "answer": "EŞEK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Geçici, ölümlü",
-      "answer": "FANİ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Etkisiz, yansız",
-      "answer": "NÖTR",
+      "text": "İkinci eş",
+      "answer": "KUMA",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yer, yöre",
+      "answer": "MAHAL",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bir yerde oturma",
-      "answer": "İKAMET",
-      "row": 0,
+      "text": "Böğürtlen benzeri meyve",
+      "answer": "AHUDUDU",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sim işlemeli kumaş",
-      "answer": "LAME",
+      "text": "Şaka seven",
+      "answer": "ŞAKACI",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Loş, kuytu",
-      "answer": "İZBE",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Şehvet uyandıran",
-      "answer": "EROTİK",
-      "row": 0,
+      "text": "Kesilen pay",
+      "answer": "KESİNTİ",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Etiket kağıdı",
-      "answer": "YAFTA",
-      "row": 4,
+      "text": "Dikkatli, özenli",
+      "answer": "TİTİZ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kuşak",
-      "answer": "NESİL",
-      "row": 1,
+      "text": "Eş sesli",
+      "answer": "SESTEŞ",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -127,7 +134,15 @@
   "blocks": [
     {
       "row": 0,
-      "col": 6
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
@@ -135,49 +150,41 @@
     },
     {
       "row": 1,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 3,
-      "col": 6
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 4,
+      "col": 0
     },
     {
       "row": 5,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 1
+      "row": 6,
+      "col": 6
     },
     {
       "row": 7,
-      "col": 3
+      "col": 4
     },
     {
       "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 7
+      "col": 6
     },
     {
       "row": 8,
-      "col": 7
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 3
+      "col": 4
     }
   ],
   "difficulty": "zor",
-  "order": 167
+  "order": 217
 }

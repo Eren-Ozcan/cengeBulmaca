@@ -1,125 +1,111 @@
 {
   "id": "puzzle-94",
-  "title": "Bulmaca 166",
+  "title": "Bulmaca 156",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Döşek",
-      "answer": "YATAK",
+      "text": "Yerine getirme",
+      "answer": "İFA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Birleştirme alaşımı",
-      "answer": "LEHİM",
+      "text": "Para yatıran",
+      "answer": "MUDİ",
+      "row": 1,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Boksta yıkılış",
+      "answer": "NAKAVT",
       "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Minareden okunan dua",
+      "answer": "SELA",
+      "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yatay konum",
+      "answer": "APSİS",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Harap yapı",
-      "answer": "VİRANE",
-      "row": 3,
-      "col": 1,
+      "text": "İstemsiz kasılma",
+      "answer": "KRAMP",
+      "row": 6,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kırık desteği",
-      "answer": "ATEL",
+      "text": "İnceleme, araştırma",
+      "answer": "ETÜT",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Leh karşıtı",
+      "answer": "ALEYH",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Üretilen şey",
+      "answer": "ÜRÜN",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Baharat satıcısı",
+      "answer": "AKTAR",
       "row": 4,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Sindirim organı",
-      "answer": "MİDE",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yüklü atom",
-      "answer": "İYON",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Damar aracı",
-      "answer": "STENT",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tepke",
-      "answer": "REFLEKS",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İşlem belgesi",
-      "answer": "EVRAK",
+      "text": "Köprüsü olan",
+      "answer": "KÖPRÜLÜ",
       "row": 2,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırmızı renk",
-      "answer": "AL",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Utanma duygusu",
-      "answer": "AR",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Alçak gönüllülük",
-      "answer": "TEVAZU",
-      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yemin, ant",
-      "answer": "AHİT",
-      "row": 0,
+      "text": "Parlak kumaş",
+      "answer": "SATEN",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çatı örtüsü",
-      "answer": "KİREMİT",
+      "text": "Yılın dörtte biri",
+      "answer": "MEVSİM",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Devlet gelirleri",
-      "answer": "MALİYE",
-      "row": 1,
+      "text": "Çekilen boncuk",
+      "answer": "TESPİH",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Parlak karşıtı",
-      "answer": "DONUK",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Ayrıştırılamayan madde",
-      "answer": "ELEMENT",
-      "row": 0,
+      "text": "Buluşma sözü",
+      "answer": "RANDEVU",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -127,6 +113,18 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
       "col": 5
     },
     {
@@ -134,46 +132,62 @@
       "col": 6
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 3
     },
     {
       "row": 2,
       "col": 6
     },
     {
-      "row": 5,
-      "col": 1
+      "row": 3,
+      "col": 6
     },
     {
-      "row": 6,
-      "col": 1
-    },
-    {
-      "row": 8,
+      "row": 4,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 2
+      "row": 5,
+      "col": 6
     },
     {
-      "row": 8,
-      "col": 3
+      "row": 6,
+      "col": 6
     },
     {
-      "row": 8,
+      "row": 7,
       "col": 4
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 166
+  "difficulty": "orta",
+  "order": 156
 }

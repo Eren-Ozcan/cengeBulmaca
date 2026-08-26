@@ -1,139 +1,132 @@
 {
   "id": "puzzle-196",
-  "title": "Bulmaca 81",
+  "title": "Bulmaca 113",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Oyuncak figür",
-      "answer": "KUKLA",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
+      "text": "Sivri çıkıntı",
+      "answer": "DİKEN",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Tuzsuz peynir",
-      "answer": "LOR",
+      "text": "Kahverengi benek",
+      "answer": "ÇİL",
       "row": 2,
-      "col": 4,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Akıtma oluğu",
-      "answer": "ARK",
+      "text": "Gerekli malzeme",
+      "answer": "GEREÇ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tenis sahası",
-      "answer": "KORT",
-      "row": 3,
+      "text": "Camlı bölme",
+      "answer": "CAMEKAN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ne fiyata",
+      "answer": "KAÇA",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Teminat",
-      "answer": "GARANTİ",
-      "row": 4,
+      "text": "Küçük bölme",
+      "answer": "KABİN",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Toz mürekkep",
-      "answer": "TONER",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ululuk",
-      "answer": "AZAMET",
-      "row": 6,
+      "text": "İki kişilik bisiklet",
+      "answer": "TANDEM",
+      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Çok sıkıntı çeken",
-      "answer": "ÇİLEKEŞ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Alışılagelmiş, sıradan",
-      "answer": "RUTİN",
+      "text": "İstiridye tanesi",
+      "answer": "İNCİ",
       "row": 8,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yol kesişimi",
-      "answer": "KAVŞAK",
-      "row": 9,
+      "text": "Esprili",
+      "answer": "NÜKTELİ",
+      "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Taşınan yük",
-      "answer": "KARGO",
+      "text": "Meşrubat",
+      "answer": "İÇECEK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Açılan yol",
-      "answer": "KANAL",
-      "row": 2,
+      "text": "Kullanım ücreti",
+      "answer": "KİRA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yedek kaynak",
-      "answer": "REZERV",
-      "row": 3,
+      "text": "Çabuk, tez",
+      "answer": "ATİK",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Keder, üzüntü",
+      "answer": "ELEM",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kartal türü",
-      "answer": "KARAKUŞ",
+      "text": "Yapışkan şerit",
+      "answer": "BANT",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sakınca",
+      "answer": "ÇEKİNCE",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Genetik kopya",
-      "answer": "KLON",
-      "row": 0,
+      "text": "Yağ lambası",
+      "answer": "KANDİL",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Satılan mal",
-      "answer": "META",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İngiliz unvanı",
-      "answer": "LORT",
+      "text": "Kaya kütlesi",
+      "answer": "KAYAÇ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kapı basamağı",
-      "answer": "EŞİK",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Sanatçı, oyuncu",
-      "answer": "ARTİST",
-      "row": 0,
+      "text": "Ezgi, melodi",
+      "answer": "NAĞME",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -141,39 +134,47 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 4
     },
     {
-      "row": 1,
-      "col": 0
+      "row": 0,
+      "col": 5
     },
     {
-      "row": 2,
-      "col": 3
-    },
-    {
-      "row": 7,
+      "row": 0,
       "col": 7
     },
     {
-      "row": 8,
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 0
     },
     {
       "row": 8,
-      "col": 1
+      "col": 6
     },
     {
       "row": 9,
@@ -181,5 +182,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 81
+  "order": 113
 }

@@ -1,40 +1,40 @@
 {
   "id": "puzzle-261",
-  "title": "Bulmaca 186",
+  "title": "Bulmaca 202",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Meclis komisyonu",
-      "answer": "ENCÜMEN",
+      "text": "Karesi verilen sayı",
+      "answer": "KAREKÖK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Odunsu bitki",
-      "answer": "AĞAÇ",
+      "text": "Kişiye ait",
+      "answer": "ÖZEL",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Peygamber sözü",
-      "answer": "HADİS",
+      "text": "Üreme hücresi",
+      "answer": "GAMET",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kimsesiz, boş",
-      "answer": "TEKİN",
+      "text": "Yer altı yolu",
+      "answer": "TÜNEL",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Uzak karşıtı",
-      "answer": "YAKIN",
+      "text": "Karşılıksız iyilik",
+      "answer": "HAYIR",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
@@ -47,8 +47,8 @@
       "arrow": "right"
     },
     {
-      "text": "Tekerlek mili",
-      "answer": "DİNGİL",
+      "text": "Noktalama işareti",
+      "answer": "VİRGÜL",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
@@ -75,8 +75,8 @@
       "arrow": "down"
     },
     {
-      "text": "Pozisyon",
-      "answer": "KONUM",
+      "text": "Tefsir",
+      "answer": "YORUM",
       "row": 4,
       "col": 2,
       "arrow": "down"
@@ -89,15 +89,15 @@
       "arrow": "down"
     },
     {
-      "text": "Maden işçisi",
-      "answer": "MADENCİ",
+      "text": "Kömür satan",
+      "answer": "KÖMÜRCÜ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dik karşıtı",
-      "answer": "EĞİK",
+      "text": "İtina",
+      "answer": "ÖZEN",
       "row": 0,
       "col": 5,
       "arrow": "down"
@@ -110,15 +110,15 @@
       "arrow": "down"
     },
     {
-      "text": "Kişi payı",
-      "answer": "NASİP",
+      "text": "Dokuma bitkisi",
+      "answer": "KETEN",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kara katran",
-      "answer": "ZİFT",
+      "text": "Akyuvar taşıyan sıvı",
+      "answer": "LENF",
       "row": 5,
       "col": 7,
       "arrow": "down"
@@ -187,5 +187,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 186
+  "order": 202
 }

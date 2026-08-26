@@ -1,146 +1,146 @@
 {
   "id": "puzzle-240",
-  "title": "Bulmaca 90",
+  "title": "Bulmaca 79",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Gemi işçileri",
-      "answer": "TAYFA",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sıkı başörtü",
-      "answer": "TÜRBAN",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kereste bıçkısı",
-      "answer": "HIZAR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ödül",
-      "answer": "MÜKAFAT",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Latife",
-      "answer": "ŞAKA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Teknik hile",
-      "answer": "TRÜK",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kolay anlatım",
-      "answer": "AKICI",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sol elli",
-      "answer": "SOLAK",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Akım",
-      "answer": "CEREYAN",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Atış uzaklığı",
-      "answer": "ATIM",
+      "text": "Bulunulan hâl",
+      "answer": "DURUM",
       "row": 0,
       "col": 1,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Anahtarlama cihazı",
-      "answer": "RÖLE",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
+      "text": "Cam kap",
+      "answer": "ŞİŞE",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Yüzme sporcusu",
-      "answer": "YÜZÜCÜ",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Uzun etekli tören ceketi",
-      "answer": "FRAK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Derin çanak",
-      "answer": "KASE",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Alaca, lekeli",
-      "answer": "ABRAŞ",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Deniz girintisi",
-      "answer": "KOY",
-      "row": 6,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ara, aralık",
-      "answer": "FASILA",
+      "text": "Kokulu mor çiçek",
+      "answer": "LAVANTA",
       "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tel yumağı",
+      "answer": "KANGAL",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tütün rengi",
+      "answer": "TABA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kışla yaz arası",
+      "answer": "BAHAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Coşku",
+      "answer": "HEYECAN",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Biçim aracı",
+      "answer": "KALIP",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Destek kaması",
+      "answer": "TAKOZ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Konuşma organı",
+      "answer": "DİL",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Huzur, sıkıntısızlık",
+      "answer": "RAHAT",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek hizmetçi",
+      "answer": "UŞAK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde tuvalet",
+      "answer": "HELA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yakışır görülen",
+      "answer": "REVA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sarhoş karşıtı",
+      "answer": "AYIK",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gümrük deposu",
+      "answer": "ANTREPO",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Asker birliği",
+      "answer": "MANGA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yalnızca sözü",
-      "answer": "ANCAK",
+      "text": "Satıcı tepsisi",
+      "answer": "TABLA",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Keseli memeli",
+      "answer": "KOALA",
       "row": 0,
-      "col": 6,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Yaşam gücü",
-      "answer": "CAN",
+      "text": "Kırmızı taneli meyve",
+      "answer": "NAR",
       "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Şahit",
-      "answer": "TANIK",
-      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -148,33 +148,41 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 7,
       "col": 0
     },
     {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
       "row": 9,
-      "col": 7
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 90
+  "difficulty": "kolay",
+  "order": 79
 }

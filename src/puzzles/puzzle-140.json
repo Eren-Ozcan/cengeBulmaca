@@ -1,139 +1,146 @@
 {
   "id": "puzzle-140",
-  "title": "Bulmaca 85",
+  "title": "Bulmaca 54",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Çift kamışlı çalgı",
-      "answer": "OBUA",
+      "text": "Anı olarak kalan",
+      "answer": "YADİGAR",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yassı, mayalı ekmek",
-      "answer": "PİDE",
-      "row": 1,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yoksulluk",
-      "answer": "SEFALET",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Alaylı anlatım",
-      "answer": "İRONİ",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "78 numaralı element",
-      "answer": "PLATİN",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İşi yapan",
-      "answer": "FAİL",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Destek noktası",
-      "answer": "MESNET",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Toplu kalabalık",
-      "answer": "KİTLE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kez, kere",
-      "answer": "DEFA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hayvan besleme",
-      "answer": "BESİ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Adana ilçesi",
-      "answer": "FEKE",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Edilgin",
-      "answer": "PASİF",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kısa namlulu tüfek",
-      "answer": "FİLİNTA",
+      "text": "Avuç vuruşu",
+      "answer": "TOKAT",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Diyelim ki",
+      "answer": "FARAZA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ekşi baharat",
+      "answer": "SUMAK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Aydın ilçesi",
+      "answer": "SÖKE",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Genişlik",
+      "answer": "EN",
+      "row": 4,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eğilim, yönelim",
+      "answer": "TREND",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Dikenli çiçek",
+      "answer": "GÜL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hiçbir zaman, kesinlikle",
+      "answer": "ASLA",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Güldürü oyunu",
+      "answer": "SKEÇ",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ders verme",
+      "answer": "ÖĞRETİM",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Halk deyişi",
+      "answer": "ATASÖZÜ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Zirve noktası",
+      "answer": "DORUK",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Bir yerde oturma",
+      "answer": "İKAMET",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Koşut",
-      "answer": "PARALEL",
-      "row": 1,
+      "text": "Din uğruna savaş",
+      "answer": "GAZA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Uçak kullanıcısı",
-      "answer": "PİLOT",
+      "text": "Doğru, isabetli",
+      "answer": "RAST",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Girişken, çevik",
+      "answer": "ATAK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Deri sıvısı",
-      "answer": "TER",
-      "row": 6,
+      "text": "Yeni karşıtı",
+      "answer": "ESKİ",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kot kumaşı",
-      "answer": "DENİM",
-      "row": 1,
+      "text": "Ekvator uzaklığı",
+      "answer": "ENLEM",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kelimeler bütünü",
-      "answer": "METİN",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Çift karşıtı",
-      "answer": "TEK",
-      "row": 6,
+      "text": "Hatıra kitapçığı",
+      "answer": "ANDAÇ",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -141,53 +148,41 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 6
     },
     {
       "row": 0,
-      "col": 3
+      "col": 7
     },
     {
-      "row": 0,
-      "col": 4
+      "row": 1,
+      "col": 7
     },
     {
-      "row": 0,
+      "row": 2,
       "col": 6
     },
     {
       "row": 2,
-      "col": 0
+      "col": 7
     },
     {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
+      "row": 3,
       "col": 6
     },
     {
       "row": 8,
-      "col": 6
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 2
     },
     {
       "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 85
+  "difficulty": "kolay",
+  "order": 54
 }

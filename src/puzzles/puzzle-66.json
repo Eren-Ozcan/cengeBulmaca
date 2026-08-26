@@ -1,132 +1,125 @@
 {
   "id": "puzzle-66",
-  "title": "Bulmaca 101",
+  "title": "Bulmaca 96",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kasır",
-      "answer": "KÖŞK",
+      "text": "Tarz",
+      "answer": "ÜSLUP",
       "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Müzikte hız",
-      "answer": "TEMPO",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Karar uygulama",
-      "answer": "İNFAZ",
-      "row": 3,
-      "col": 2,
+      "text": "Şaşırtıcı, tuhaf",
+      "answer": "ACİP",
+      "row": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Uzun gagalı balık",
-      "answer": "ZARGANA",
+      "text": "At kılları",
+      "answer": "YELE",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Düğmeli giysi",
+      "answer": "CEKET",
+      "row": 3,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Büyüme, gelişme, çoğalma",
+      "answer": "NEMA",
       "row": 4,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Elmasın elementi",
-      "answer": "KARBON",
-      "row": 5,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Alçak, korkak",
-      "answer": "NAMERT",
+      "text": "Çıkış yeri",
+      "answer": "MENŞE",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kur'an okuyucusu",
-      "answer": "KARİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İçten arzu",
-      "answer": "İSTEK",
-      "row": 8,
+      "text": "Turizm başkenti ilimiz",
+      "answer": "ANTALYA",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Net karşıtı",
-      "answer": "FLU",
-      "row": 8,
+      "text": "Boru sızıntısı",
+      "answer": "KAÇAK",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bereket, ilerleme",
-      "answer": "FEYZ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
+      "text": "Ruhsal tedavi",
+      "answer": "TERAPİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Ulaşmış, kavuşmuş",
-      "answer": "NAİL",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Irmak, çay, dere",
-      "answer": "AKARSU",
+      "text": "Namaz topluluğu",
+      "answer": "CEMAAT",
       "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Karadeniz yaylısı",
+      "answer": "KEMENÇE",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Mısır anıtı",
-      "answer": "PİRAMİT",
-      "row": 1,
+      "text": "Ağır tartı",
+      "answer": "KANTAR",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Büyük toplantı",
-      "answer": "KONGRE",
+      "text": "Rütbe, derece",
+      "answer": "PAYE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Üretim tesisi",
-      "answer": "FABRİKA",
-      "row": 2,
+      "text": "Latife",
+      "answer": "ŞAKA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çizgi çizme aracı",
+      "answer": "CETVEL",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Artı kutup",
-      "answer": "ANOT",
-      "row": 2,
+      "text": "Mısır'dan geçen ırmak",
+      "answer": "NİL",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Pişirme kabı",
-      "answer": "KAZAN",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Pelte kıvamı",
-      "answer": "JEL",
-      "row": 6,
+      "text": "Gagası keseli kuş",
+      "answer": "PELİKAN",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -134,7 +127,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
@@ -150,27 +143,35 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 1,
-      "col": 2
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
     },
     {
       "row": 3,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
+      "row": 4,
       "col": 6
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
     },
     {
       "row": 8,
@@ -178,17 +179,9 @@
     },
     {
       "row": 9,
-      "col": 3
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 101
+  "order": 96
 }

@@ -1,131 +1,131 @@
 {
   "id": "puzzle-284",
-  "title": "Bulmaca 121",
+  "title": "Bulmaca 60",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Ün",
-      "answer": "ŞÖHRET",
+      "text": "Doldurulmamış yer",
+      "answer": "BOŞLUK",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Erkek sığır",
-      "answer": "BOĞA",
+      "text": "Tamam, olur",
+      "answer": "PEKİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sövgü",
-      "answer": "KÜFÜR",
+      "text": "Cesaretli, yürekli",
+      "answer": "CESUR",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İdare",
-      "answer": "YÖNETİM",
+      "text": "İstek yazısı",
+      "answer": "DİLEKÇE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çam yaprağı",
-      "answer": "PÜR",
+      "text": "Almanya'dan geçen nehir",
+      "answer": "REN",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Vesika",
-      "answer": "BELGE",
+      "text": "Şehir maçı",
+      "answer": "DERBİ",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Çocuk, döl",
-      "answer": "EVLAT",
+      "text": "Akılda tutma",
+      "answer": "EZBER",
       "row": 7,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Devrim ayaklanması",
-      "answer": "İHTİLAL",
+      "text": "Arlanmaz",
+      "answer": "UTANMAZ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yüz kılları",
-      "answer": "SAKAL",
+      "text": "Bağlayan parça",
+      "answer": "KENET",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Küçük karşıtı",
-      "answer": "BÜYÜK",
+      "text": "Baba",
+      "answer": "PEDER",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sürücü",
-      "answer": "ŞOFÖR",
+      "text": "Gıda",
+      "answer": "BESİN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yemek vakti",
-      "answer": "ÖĞÜN",
+      "text": "Öğretim kurumu",
+      "answer": "OKUL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sakınca, zarar",
-      "answer": "BEİS",
+      "text": "Ağırlıkça eşit",
+      "answer": "DENK",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dalgalı çizgi",
-      "answer": "HARE",
+      "text": "Üzüm şırasından tatlı",
+      "answer": "ŞİRE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Daha uygun",
-      "answer": "EVLA",
+      "text": "Ezerek yapılan yiyecek",
+      "answer": "EZME",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hamam görevlisi",
-      "answer": "TELLAK",
+      "text": "Adak hayvanı",
+      "answer": "KURBAN",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Açılış töreni",
-      "answer": "GALA",
+      "text": "Hamur parçası",
+      "answer": "BEZE",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Pistonlu boru",
-      "answer": "TROMPET",
+      "text": "Lifli halat bitkisi",
+      "answer": "KENEVİR",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -185,6 +185,6 @@
       "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 121
+  "difficulty": "kolay",
+  "order": 60
 }

@@ -1,47 +1,47 @@
 {
   "id": "puzzle-247",
-  "title": "Bulmaca 188",
+  "title": "Bulmaca 175",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Ayak düzeni",
-      "answer": "PEDAL",
+      "text": "Orta düzey",
+      "answer": "VASAT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yatak giysisi",
-      "answer": "PİJAMA",
+      "text": "Salgın ishal hastalığı",
+      "answer": "KOLERA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zarar",
-      "answer": "ZİYAN",
+      "text": "Kurban taşı",
+      "answer": "SUNAK",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kalıtım bilimi",
-      "answer": "GENETİK",
+      "text": "Anapara",
+      "answer": "SERMAYE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Toplumsal konum",
-      "answer": "STATÜ",
+      "text": "Öğrenme isteği",
+      "answer": "MERAK",
       "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ağıt şiiri",
-      "answer": "MERSİYE",
+      "text": "Kumarhane görevlisi",
+      "answer": "KRUPİYE",
       "row": 7,
       "col": 0,
       "arrow": "right"
@@ -54,71 +54,71 @@
       "arrow": "right"
     },
     {
-      "text": "Yüreklilik",
-      "answer": "CESARET",
+      "text": "Varsayım",
+      "answer": "HİPOTEZ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kısa yergi şiiri",
-      "answer": "EPİGRAM",
+      "text": "Yankı bilimi",
+      "answer": "AKUSTİK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Öyle söyleyerek",
-      "answer": "DİYE",
+      "text": "14 dizeli şiir",
+      "answer": "SONE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Haber kuruluşu",
-      "answer": "AJANS",
+      "text": "Tehlike işareti",
+      "answer": "ALARM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Beddua, kargış",
-      "answer": "LANET",
+      "text": "Ayakla vuruş",
+      "answer": "TEKME",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kale duvarı",
-      "answer": "SUR",
+      "text": "Heykel, sanem",
+      "answer": "PUT",
       "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Başsağlığı",
-      "answer": "TAZİYE",
+      "text": "Eşya deposu",
+      "answer": "ARDİYE",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Taş mezar",
-      "answer": "LAHİT",
+      "text": "Eşya demeti",
+      "answer": "BALYA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Gezinti teknesi",
-      "answer": "YAT",
+      "text": "En sıcak mevsim",
+      "answer": "YAZ",
       "row": 6,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Toprak aracı",
-      "answer": "KÜREK",
+      "text": "Temel besin",
+      "answer": "EKMEK",
       "row": 3,
       "col": 7,
       "arrow": "down"
@@ -174,6 +174,6 @@
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 188
+  "difficulty": "orta",
+  "order": 175
 }

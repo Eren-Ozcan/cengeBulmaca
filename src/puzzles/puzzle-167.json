@@ -1,125 +1,132 @@
 {
   "id": "puzzle-167",
-  "title": "Bulmaca 153",
+  "title": "Bulmaca 171",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "İstinat noktası",
-      "answer": "DAYANAK",
+      "text": "Geri gelme",
+      "answer": "DÖNÜŞ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mesele",
-      "answer": "SORUN",
+      "text": "Kamu",
+      "answer": "AMME",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Rafinaj",
-      "answer": "ARITIM",
-      "row": 3,
+      "text": "Şafak vakti",
+      "answer": "SEHER",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çoban köpeği",
+      "answer": "KARABAŞ",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yün giysi",
-      "answer": "KAZAK",
-      "row": 4,
-      "col": 2,
+      "text": "Osmanlı atlı askeri",
+      "answer": "SİPAHİ",
+      "row": 5,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Misilleme cezası",
-      "answer": "KISAS",
+      "text": "Yürüyüş müziği",
+      "answer": "MARŞ",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bakiye",
-      "answer": "KALINTI",
+      "text": "Çin'in başkenti",
+      "answer": "PEKİN",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kar kütlesi",
-      "answer": "ÇIĞ",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "İçeri karşıtı",
-      "answer": "DIŞARI",
-      "row": 9,
+      "text": "Silahla ele geçirme",
+      "answer": "İSTİLA",
+      "row": 7,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Soğuk algınlığı",
+      "answer": "NEZLE",
+      "row": 9,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ağacı bol yer",
-      "answer": "AĞAÇLIK",
+      "text": "Merkez",
+      "answer": "ÖZEK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şeker, para",
-      "answer": "SAÇI",
+      "text": "İrin birikintisi",
+      "answer": "APSE",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Özlem",
+      "answer": "HASRET",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kızgın, somurtkan (yüz)",
-      "answer": "ASIK",
-      "row": 0,
+      "text": "Yetişkin",
+      "answer": "ERİŞKİN",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Satış karşıtı",
-      "answer": "ALIŞ",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ses işareti",
-      "answer": "NOTA",
+      "text": "Üzüm içkisi",
+      "answer": "ŞARAP",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kapasite",
-      "answer": "SIĞA",
-      "row": 5,
+      "text": "Birliktelik bağlacı",
+      "answer": "İLE",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sonradan çıkan",
-      "answer": "ARIZİ",
-      "row": 0,
+      "text": "Yobaz, mutaassıp",
+      "answer": "BAĞNAZ",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İkinci eş",
-      "answer": "KUMA",
-      "row": 0,
+      "text": "İlenme, yakınma",
+      "answer": "AH",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Koruyucu kap",
-      "answer": "KILIF",
-      "row": 3,
+      "text": "Sağlık görevlisi",
+      "answer": "HEMŞİRE",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -131,49 +138,45 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
       "col": 7
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
     },
     {
       "row": 9,
-      "col": 7
+      "col": 0
     }
   ],
   "difficulty": "orta",
-  "order": 153
+  "order": 171
 }

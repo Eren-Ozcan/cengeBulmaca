@@ -1,146 +1,146 @@
 {
   "id": "puzzle-146",
-  "title": "Bulmaca 150",
+  "title": "Bulmaca 185",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Mücevherci",
-      "answer": "KUYUMCU",
+      "text": "Boyun bağı",
+      "answer": "TASMA",
       "row": 0,
-      "col": 1,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Dikkatsiz, habersiz",
-      "answer": "GAFİL",
+      "text": "Karadeniz teknesi",
+      "answer": "TAKA",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yengeç türü",
-      "answer": "ÇAĞANOZ",
+      "text": "Seslenme ünlemi",
+      "answer": "EY",
+      "row": 2,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Zurna çalan",
+      "answer": "ZURNACI",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Altmış saniye",
-      "answer": "DAKİKA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İlgili, ilişkin",
-      "answer": "AİT",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İptal etme",
-      "answer": "İLGA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Halk müziği çalgısı",
-      "answer": "TAMBURA",
-      "row": 7,
+      "text": "Tekel",
+      "answer": "İNHİSAR",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tahta üflemeli çalgı",
-      "answer": "KLARNET",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Söyleyerek yazdırma",
-      "answer": "DİKTE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ne fiyata",
-      "answer": "KAÇA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İçten gelen dürtü",
-      "answer": "İTKİ",
+      "text": "Tam anlamıyla",
+      "answer": "HAZA",
       "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Normalden küçük",
-      "answer": "UFAK",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Pudra minerali",
-      "answer": "TALK",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Cesur, mert",
-      "answer": "YİĞİT",
-      "row": 0,
       "col": 3,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Satrançta yenilgi",
-      "answer": "MAT",
+      "text": "Düş, imge",
+      "answer": "HAYAL",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yakınma",
+      "answer": "ŞİKAYET",
       "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Babasız çocuk",
+      "answer": "YETİM",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çocuk, döl",
+      "answer": "EVLAT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Geçmiş zaman",
+      "answer": "MAZİ",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yergi",
+      "answer": "HİCV",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Bebek sargısı",
+      "answer": "KUNDAK",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çiçek bölümü",
+      "answer": "TARH",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Haber götüren kimse",
-      "answer": "ULAK",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Gösterge çubuğu",
-      "answer": "İBRE",
+      "text": "Yürüyen kimse",
+      "answer": "YAYA",
       "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sonunda",
+      "answer": "NİHAYET",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gemi taşıma ücreti",
-      "answer": "NAVLUN",
+      "text": "Soyluluk",
+      "answer": "ASALET",
       "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Antik Yunanlı",
-      "answer": "GREK",
-      "row": 5,
+      "text": "Anlam dışı",
+      "answer": "MECAZ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tarım",
-      "answer": "ZİRAAT",
-      "row": 2,
+      "text": "İstemsiz hareket",
+      "answer": "TİK",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kimyada reaktif",
+      "answer": "AYIRAÇ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -152,23 +152,23 @@
     },
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 5
     },
     {
-      "row": 0,
-      "col": 6
+      "row": 5,
+      "col": 0
     },
     {
-      "row": 0,
+      "row": 7,
       "col": 7
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
     },
     {
       "row": 9,
@@ -179,6 +179,6 @@
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 150
+  "difficulty": "zor",
+  "order": 185
 }

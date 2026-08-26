@@ -1,118 +1,104 @@
 {
   "id": "puzzle-273",
-  "title": "Bulmaca 151",
+  "title": "Bulmaca 204",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "En saygın yer",
-      "answer": "BAŞKÖŞE",
-      "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Toprak kölesi",
-      "answer": "SERF",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Öğrenme isteği",
-      "answer": "MERAK",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kişi, şahıs",
-      "answer": "ZAT",
-      "row": 3,
+      "text": "Pis kokulu hayvan",
+      "answer": "KOKARCA",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ya da",
-      "answer": "VEYA",
+      "text": "Hızlı olmayan",
+      "answer": "YAVAŞ",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yılmadan süren",
+      "answer": "SEBATLI",
       "row": 4,
-      "col": 3,
-      "arrow": "right"
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Yer mantarı",
-      "answer": "DOMALAN",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kontrol",
-      "answer": "DENETİM",
+      "text": "Ağırbaşlılık",
+      "answer": "VAKAR",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Patlayıcı madde",
-      "answer": "MERMİ",
+      "text": "Silindir içinde hareket",
+      "answer": "PİSTON",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Deniz koyu",
+      "answer": "HALİÇ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bakiye",
+      "answer": "KALINTI",
       "row": 9,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yer altı cevheri",
-      "answer": "MADEN",
-      "row": 2,
+      "text": "Yol ayrımı",
+      "answer": "SAPAK",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Oje çıkarıcı",
-      "answer": "ASETON",
-      "row": 0,
+      "text": "Meksika içkisi",
+      "answer": "TEKİLA",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kötülük, fenalık",
-      "answer": "ŞER",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İstek",
-      "answer": "MERAM",
+      "text": "Çomak bakteri",
+      "answer": "BASİL",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gömlek aksesuarı",
-      "answer": "KRAVAT",
-      "row": 0,
+      "text": "Öncü karşıtı",
+      "answer": "ARTÇI",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hiddetli",
-      "answer": "ÖFKELİ",
-      "row": 0,
+      "text": "Güç birimi",
+      "answer": "VAT",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İnsan eti yiyen",
-      "answer": "YAMYAM",
-      "row": 3,
+      "text": "Beddua, kargış",
+      "answer": "LANET",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Açık oda",
-      "answer": "EYVAN",
-      "row": 0,
+      "text": "Yemek ustası",
+      "answer": "AŞÇI",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -120,15 +106,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 2,
@@ -136,7 +138,39 @@
     },
     {
       "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 3
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 2,
       "col": 6
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 1
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 5
     },
     {
       "row": 6,
@@ -144,39 +178,7 @@
     },
     {
       "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 2
-    },
-    {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
       "col": 7
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 4
     },
     {
       "row": 8,
@@ -185,16 +187,8 @@
     {
       "row": 8,
       "col": 7
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 151
+  "difficulty": "zor",
+  "order": 204
 }

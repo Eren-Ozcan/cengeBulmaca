@@ -1,125 +1,132 @@
 {
   "id": "puzzle-245",
-  "title": "Bulmaca 127",
+  "title": "Bulmaca 154",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kara",
-      "answer": "SİYAH",
+      "text": "Nüfuzlu kimse",
+      "answer": "KODAMAN",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cümle âlem",
-      "answer": "HERKES",
-      "row": 3,
-      "col": 1,
+      "text": "Bölüşülen pay",
+      "answer": "ÜLEŞ",
+      "row": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kaba ayakkabı",
-      "answer": "KUNDURA",
+      "text": "Kilise zili",
+      "answer": "ÇAN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bıkma, usanma",
+      "answer": "GINA",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ufak leke",
+      "answer": "BENEK",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Baş",
+      "answer": "KAFA",
       "row": 4,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Üstün gelen",
-      "answer": "GALİP",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Enerji",
-      "answer": "ERKE",
-      "row": 5,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Baç",
-      "answer": "HARAÇ",
+      "text": "Fazlaca, bol",
+      "answer": "BOLCA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Buluğ çağındaki",
+      "answer": "ERGEN",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çiçek halkası",
-      "answer": "ÇELENK",
+      "text": "Yumuşak başlı",
+      "answer": "UYSAL",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Meyve özü",
-      "answer": "NEKTAR",
+      "text": "Akım birimi",
+      "answer": "AMPER",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İstemeye istemeye",
-      "answer": "KERHEN",
-      "row": 3,
+      "text": "Büyük erkek kardeş",
+      "answer": "AĞABEY",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şaşkınlık seslenişi",
-      "answer": "YAHU",
-      "row": 0,
+      "text": "Kürek tutsağı",
+      "answer": "FORSA",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Surlu yapı",
-      "answer": "KALE",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Üçgen başlı yılan",
-      "answer": "ENGEREK",
-      "row": 2,
+      "text": "Solunum salgısı",
+      "answer": "BALGAM",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İşe yaramaz",
-      "answer": "HURDA",
+      "text": "İnci çiçeği",
+      "answer": "MÜGE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yemin",
-      "answer": "ANT",
-      "row": 6,
+      "text": "Askerlik çağrısı",
+      "answer": "CELP",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yumurtaya yatma",
-      "answer": "KULUÇKA",
-      "row": 2,
+      "text": "Çabuk gücenen",
+      "answer": "ALINGAN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Teklif",
-      "answer": "ÖNERİ",
+      "text": "Nine",
+      "answer": "NENE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Anormal davranışlı",
-      "answer": "SAPIK",
-      "row": 2,
+      "text": "Şen, neşeli",
+      "answer": "ŞAKRAK",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -131,35 +138,23 @@
     },
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 3
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
       "col": 7
     },
     {
       "row": 2,
-      "col": 0
+      "col": 2
     },
     {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 3,
-      "col": 0
+      "row": 5,
+      "col": 6
     },
     {
       "row": 6,
@@ -171,6 +166,10 @@
     },
     {
       "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
       "col": 6
     },
     {
@@ -179,9 +178,13 @@
     },
     {
       "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
       "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 127
+  "order": 154
 }

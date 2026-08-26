@@ -1,138 +1,145 @@
 {
   "id": "puzzle-204",
-  "title": "Bulmaca 161",
+  "title": "Bulmaca 134",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Medeni",
-      "answer": "UYGAR",
+      "text": "Yenilen ürün",
+      "answer": "MEYVE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tilki yüzlü hayvan",
-      "answer": "RAKUN",
-      "row": 2,
-      "col": 2,
+      "text": "Dış karşıtı",
+      "answer": "İÇ",
+      "row": 1,
+      "col": 5,
       "arrow": "right"
     },
     {
-      "text": "Kırmızı kan hücresi",
-      "answer": "ALYUVAR",
+      "text": "Güneydoğu Asya ülkesi",
+      "answer": "LAOS",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Konser",
+      "answer": "DİNLETİ",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tarımsal",
-      "answer": "ZİRAİ",
+      "text": "Ara bozan",
+      "answer": "FİTNECİ",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kafa",
-      "answer": "BAŞ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Taşkın su",
+      "answer": "SEL",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Üstün eser",
-      "answer": "ŞAHESER",
+      "text": "Üyelik ücreti",
+      "answer": "AİDAT",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hizmetli",
-      "answer": "HADEME",
+      "text": "Hesap kertiği",
+      "answer": "ÇETELE",
       "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Belirti, jest",
-      "answer": "İŞARET",
+      "text": "Güç harcama",
+      "answer": "EFOR",
       "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Uçma organı",
-      "answer": "KANAT",
+      "text": "Çağlayan",
+      "answer": "ŞELALE",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yol arkadaşı",
-      "answer": "YOLDAŞ",
+      "text": "Arap alfabesi",
+      "answer": "ELİFBA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yırtıcı kuş",
-      "answer": "ŞAHİN",
-      "row": 4,
+      "text": "Demek oluyor ki",
+      "answer": "YANİ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Divan şiiri ölçüsü",
-      "answer": "ARUZ",
+      "text": "Mersin'in eski adı",
+      "answer": "İÇEL",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gerilim birimi",
+      "answer": "VOLT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Asla sözü",
-      "answer": "HAŞA",
+      "text": "Kez, kere",
+      "answer": "DEFA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Nakleden kimse",
-      "answer": "RAVİ",
+      "text": "Sağlıklı",
+      "answer": "ESEN",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İlgi kuran sözcük",
-      "answer": "EDAT",
+      "text": "Halka biçimli mercan adası",
+      "answer": "ATOL",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Araç gövdesi",
-      "answer": "KAROSER",
-      "row": 1,
+      "text": "Dişli kesici",
+      "answer": "TESTERE",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yakın yer",
-      "answer": "BURA",
+      "text": "Oldukça iyi",
+      "answer": "İYİCE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kütahya ilçesi",
-      "answer": "EMET",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Alınan ders",
-      "answer": "İBRET",
+      "text": "Hastalık, dert",
+      "answer": "İLLET",
       "row": 3,
       "col": 7,
       "arrow": "down"
@@ -141,10 +148,6 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 5
     },
     {
@@ -152,22 +155,34 @@
       "col": 7
     },
     {
-      "row": 1,
+      "row": 2,
       "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
     },
     {
       "row": 7,
       "col": 0
     },
     {
+      "row": 8,
+      "col": 6
+    },
+    {
       "row": 9,
-      "col": 5
+      "col": 6
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 161
+  "difficulty": "orta",
+  "order": 134
 }

@@ -1,132 +1,125 @@
 {
   "id": "puzzle-162",
-  "title": "Bulmaca 98",
+  "title": "Bulmaca 205",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Süslü sanat üslubu",
-      "answer": "ROKOKO",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dev dalga",
-      "answer": "TSUNAMİ",
-      "row": 1,
+      "text": "İlk ay",
+      "answer": "OCAK",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tükenmiş fil",
-      "answer": "MAMUT",
-      "row": 3,
+      "text": "Beyazımsı",
+      "answer": "AKÇA",
+      "row": 1,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Üst giysisi",
+      "answer": "BLUZ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güreşçi pantolonu",
+      "answer": "KİSPET",
+      "row": 4,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Açık artırma",
-      "answer": "MEZAT",
-      "row": 4,
+      "text": "Yayvan, düz",
+      "answer": "YASSI",
+      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bekleme bölümü",
-      "answer": "FUAYE",
-      "row": 6,
+      "text": "Çam meyvesi",
+      "answer": "KOZALAK",
+      "row": 5,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Musluk takımı",
-      "answer": "ARMATÜR",
+      "text": "Nitrogliserinli patlayıcı",
+      "answer": "DİNAMİT",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Katıksız, temiz",
-      "answer": "SAFİ",
+      "text": "Kamıştan üflemeli çalgı",
+      "answer": "NEY",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ürün toprağı",
-      "answer": "TARLA",
+      "text": "Ünlüler haberleri",
+      "answer": "MAGAZİN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Bağışlanma dileme",
-      "answer": "ŞEFAAT",
+      "text": "Bağlantı cihazı",
+      "answer": "MODEM",
       "row": 4,
-      "col": 0,
-      "arrow": "right-down"
+      "col": 1,
+      "arrow": "down"
     },
     {
-      "text": "Ortodoks Hristiyan",
-      "answer": "RUM",
+      "text": "Saçma sapan",
+      "answer": "ABUK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Peygamberler şehri",
-      "answer": "URFA",
+      "text": "Işık",
+      "answer": "ZİYA",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Rıza, izin",
-      "answer": "ONAM",
-      "row": 0,
+      "text": "Zarar",
+      "answer": "ZİYAN",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Üst görevli",
-      "answer": "AMİR",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çaygillerden süs çiçeği",
-      "answer": "KAMELYA",
-      "row": 0,
+      "text": "Yeşillik karışımı",
+      "answer": "SALATA",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kolun üst eklemi",
-      "answer": "OMUZ",
-      "row": 0,
+      "text": "Şümul",
+      "answer": "KAPSAM",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sicilya yanardağı",
-      "answer": "ETNA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Basılı yapıt",
-      "answer": "KİTAP",
-      "row": 0,
+      "text": "Eski eşya alıcısı",
+      "answer": "ESKİCİ",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kesintisiz miktar",
-      "answer": "BRÜT",
-      "row": 5,
+      "text": "Kıymalı yemek",
+      "answer": "BASTI",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -134,49 +127,53 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 7
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 2,
-      "col": 7
+      "col": 1
     },
     {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 7
-    },
-    {
-      "row": 5,
+      "row": 4,
       "col": 0
     },
     {
       "row": 6,
-      "col": 6
+      "col": 7
     },
     {
       "row": 8,
-      "col": 4
+      "col": 3
     },
     {
       "row": 8,
-      "col": 6
+      "col": 5
     },
     {
-      "row": 9,
-      "col": 6
+      "row": 8,
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 98
+  "difficulty": "zor",
+  "order": 205
 }

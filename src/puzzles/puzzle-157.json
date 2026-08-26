@@ -1,132 +1,132 @@
 {
   "id": "puzzle-157",
-  "title": "Bulmaca 59",
+  "title": "Bulmaca 195",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Nişasta bulamacı",
-      "answer": "KOLA",
+      "text": "Gizli plan",
+      "answer": "KUMPAS",
       "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Elâzığ ilçesi",
-      "answer": "PALU",
-      "row": 1,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Viran",
-      "answer": "HARAP",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kitap satan",
-      "answer": "KİTAPÇI",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Terazi gözü",
-      "answer": "KEFE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ev ayakkabısı",
-      "answer": "TERLİK",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gönlü zor",
-      "answer": "NAZLI",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Aile işareti",
-      "answer": "ARMA",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Bina bölümü",
-      "answer": "KAT",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ulaşım belgesi",
-      "answer": "PASO",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bağlanmış nesne",
-      "answer": "PAKET",
+      "text": "Görünüm, kılık",
+      "answer": "FAÇA",
       "row": 1,
-      "col": 1,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Fiyat çizelgesi",
-      "answer": "TARİFE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Kollu sandık çalgısı",
-      "answer": "LATERNA",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Şampiyonluk ödülü",
-      "answer": "KUPA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ansızın, birdenbire",
-      "answer": "LARP",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Işık ayrıştıran cisim",
-      "answer": "PRİZMA",
+      "text": "İhbarcı",
+      "answer": "MUHBİR",
       "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ardı ardına",
+      "answer": "FURYA",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Akaryakıt gemisi",
+      "answer": "TANKER",
+      "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Patlama sesi",
+      "answer": "GÜM",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Rus parlamentosu",
+      "answer": "DUMA",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kalp atışı",
+      "answer": "NABIZ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gerçek, somut",
+      "answer": "REEL",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Makam adı",
+      "answer": "ÜNVAN",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Amme",
+      "answer": "KAMU",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Adı sanı bilinen",
+      "answer": "ÜNLÜ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gökyüzü oyuncağı",
+      "answer": "UÇURTMA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kandil yazısı",
+      "answer": "MAHYA",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gemi bayrağı",
+      "answer": "BANDIRA",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Amca çocuğu",
+      "answer": "KUZEN",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Üstün, seçkin",
-      "answer": "KLAS",
-      "row": 5,
+      "text": "Bilinci bulanık",
+      "answer": "SERSEM",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bronş hastalığı",
-      "answer": "ASTIM",
-      "row": 0,
+      "text": "Alçak masa",
+      "answer": "RAHLE",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -138,11 +138,7 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
@@ -150,11 +146,11 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
-      "col": 0
+      "col": 7
     },
     {
       "row": 2,
@@ -162,33 +158,29 @@
     },
     {
       "row": 2,
-      "col": 6
+      "col": 7
     },
     {
       "row": 3,
+      "col": 7
+    },
+    {
+      "row": 7,
       "col": 6
     },
     {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 7,
+      "row": 8,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 1
+      "row": 8,
+      "col": 2
     },
     {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 7
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 59
+  "difficulty": "zor",
+  "order": 195
 }

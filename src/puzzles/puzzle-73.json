@@ -1,139 +1,125 @@
 {
   "id": "puzzle-73",
-  "title": "Bulmaca 113",
+  "title": "Bulmaca 93",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Göz açtırmayan",
-      "answer": "AMANSIZ",
+      "text": "Üstlenme",
+      "answer": "TAAHHÜT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yaban barınağı",
-      "answer": "İN",
+      "text": "Nitelik",
+      "answer": "VASIF",
       "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Ruhsal tedavi",
-      "answer": "TERAPİ",
-      "row": 3,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "İlmikli ip",
-      "answer": "KEMENT",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yıl",
-      "answer": "SENE",
-      "row": 4,
+      "text": "Sorun çözme yolu",
+      "answer": "ÇARE",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Süt tatlısı",
-      "answer": "KREMA",
+      "text": "Fransız unvanı",
+      "answer": "MADAM",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yenilikten yana",
+      "answer": "İLERİCİ",
       "row": 6,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Büyük tüy",
-      "answer": "TELEK",
+      "text": "Mısır hükümdarı",
+      "answer": "FİRAVUN",
       "row": 7,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tavan lambası",
-      "answer": "AVİZE",
+      "text": "Eski başlık",
+      "answer": "FES",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Erkek ebeveyn",
+      "answer": "BABA",
       "row": 8,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Tenis aracı",
-      "answer": "RAKET",
+      "text": "Geçici bırakılan",
+      "answer": "EMANET",
       "row": 9,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Re'den sonraki nota",
-      "answer": "Mİ",
-      "row": 0,
+      "text": "Ödev",
+      "answer": "VAZİFE",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Domates sosu",
-      "answer": "KETÇAP",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Dalga aleti",
-      "answer": "ANTEN",
+      "text": "Saflık derecesi",
+      "answer": "AYAR",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Eskiden beri çalışan",
-      "answer": "EMEKTAR",
+      "text": "Ortaokul sonrası",
+      "answer": "LİSE",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yük eyeri",
+      "answer": "SEMER",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Müddet",
-      "answer": "SÜRE",
-      "row": 0,
+      "text": "Otomobil",
+      "answer": "ARABA",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yakışır görülen",
-      "answer": "REVA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Analık",
-      "answer": "ANNELİK",
-      "row": 2,
+      "text": "Osmanlı meclisi",
+      "answer": "DİVAN",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zorla el koyma",
-      "answer": "ZAPT",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "İçki yiyeceği",
-      "answer": "MEZE",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük ölçek",
-      "answer": "MAKET",
+      "text": "Tuhaf şey",
+      "answer": "ACUBE",
       "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Güvence",
+      "answer": "TEMİNAT",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -141,11 +127,23 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 3
     },
     {
       "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
       "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 0,
@@ -157,22 +155,26 @@
     },
     {
       "row": 2,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
     },
     {
       "row": 3,
-      "col": 0
+      "col": 6
     },
     {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 0
-    },
-    {
-      "row": 8,
+      "row": 5,
       "col": 0
     },
     {
@@ -181,5 +183,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 113
+  "order": 93
 }

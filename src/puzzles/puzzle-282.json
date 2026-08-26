@@ -1,104 +1,139 @@
 {
   "id": "puzzle-282",
-  "title": "Bulmaca 200",
+  "title": "Bulmaca 57",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Bağnaz kimse",
-      "answer": "YOBAZ",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Makama erişme",
-      "answer": "İKBAL",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sağın karşıtı",
-      "answer": "SOL",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Çalışma tasarısı",
-      "answer": "PROJE",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Estetik",
-      "answer": "BEDİİ",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eşya deposu",
-      "answer": "ARDİYE",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Portekiz şarabı",
-      "answer": "PORTO",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kişi resmi",
-      "answer": "PORTRE",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Çok konuşan",
-      "answer": "GEVEZE",
+      "text": "Şu hâlde, artık",
+      "answer": "İMDİ",
       "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İçe doğma",
+      "answer": "ÖNSEZİ",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kıvrım dikiş",
+      "answer": "PENS",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sıfırın altındaki hava",
+      "answer": "DON",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Geyik derisi",
+      "answer": "GÜDERİ",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Ütülenmiş olan",
+      "answer": "ÜTÜLÜ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sürgün",
+      "answer": "İSHAL",
+      "row": 6,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Benzeme çabası",
+      "answer": "ÖZENTİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kısa karşıtı",
+      "answer": "UZUN",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yer altı boşluğu",
+      "answer": "MAĞARA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tuz üretimi",
+      "answer": "TUZLA",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dövme, vurma",
-      "answer": "DARP",
-      "row": 5,
+      "text": "Çevrim",
+      "answer": "DÖNGÜ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Alkol",
-      "answer": "İSPİRTO",
-      "row": 2,
+      "text": "Kan şekeri hormonu",
+      "answer": "İNSÜLİN",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Geçit yolu",
-      "answer": "KORİDOR",
-      "row": 2,
+      "text": "Genel kural",
+      "answer": "DÜSTUR",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Süs eşyası",
-      "answer": "BİBLO",
+      "text": "Büyükbaba",
+      "answer": "DEDE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Deprem",
-      "answer": "ZELZELE",
+      "text": "Aynı çizgi",
+      "answer": "HİZA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Zor kullanarak",
+      "answer": "ZORLA",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Süslü seramik",
+      "answer": "ÇİNİ",
       "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalabalığın toplu saldırısı",
+      "answer": "LİNÇ",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -106,15 +141,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
+      "col": 1
     },
     {
       "row": 0,
@@ -126,57 +153,21 @@
     },
     {
       "row": 1,
-      "col": 0
+      "col": 4
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 7,
+      "col": 6
     },
     {
-      "row": 2,
+      "row": 8,
       "col": 2
     },
     {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 7
-    },
-    {
       "row": 9,
-      "col": 0
+      "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 200
+  "difficulty": "kolay",
+  "order": 57
 }

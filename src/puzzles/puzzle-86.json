@@ -1,153 +1,132 @@
 {
   "id": "puzzle-86",
-  "title": "Bulmaca 104",
+  "title": "Bulmaca 16",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Atlı top oyunu",
-      "answer": "POLO",
+      "text": "Sevimli, hoş",
+      "answer": "CİCİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sürat",
-      "answer": "HIZ",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Benzetmeye çalışma",
-      "answer": "TAKLİT",
+      "text": "Erkek insan, kişi",
+      "answer": "ADAM",
       "row": 2,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yağda kavrulmuş yemek",
-      "answer": "SOTE",
+      "text": "İşlenmiş hayvan derisi",
+      "answer": "GÖN",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sıçrayınca çıkan",
-      "answer": "ZIP",
+      "text": "Havada vurma",
+      "answer": "VOLE",
       "row": 3,
-      "col": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gereksiz bağırma",
-      "answer": "YAYGARA",
+      "text": "Omuzdaki rütbe",
+      "answer": "APOLET",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Risk",
+      "answer": "RİZİKO",
       "row": 4,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Hak etme",
-      "answer": "LİYAKAT",
+      "text": "Ermiş hüneri",
+      "answer": "KERAMET",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Geçimlik",
-      "answer": "NAFAKA",
+      "text": "Kır şiiri",
+      "answer": "İDİL",
       "row": 7,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İki parçalı",
-      "answer": "İKİLİ",
+      "text": "Resmiyet görevlisi",
+      "answer": "NOTER",
       "row": 8,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İç organlar",
-      "answer": "SAKATAT",
+      "text": "Ekşimsi orman meyvesi",
+      "answer": "ALIÇ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hızlı yol",
-      "answer": "OTOYOL",
-      "row": 0,
+      "text": "Eksiği tamamlama",
+      "answer": "İKMAL",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Uzun, dar tahta",
-      "answer": "LATA",
+      "text": "Gömülecek ölü",
+      "answer": "CENAZE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İnmiş, sönmüş",
-      "answer": "İNİK",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dört kişilik masa oyunu",
-      "answer": "OKEY",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Boyun bölümü",
-      "answer": "YAKA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalem içi",
-      "answer": "GRAFİT",
+      "text": "Pilavlık tane",
+      "answer": "PİRİNÇ",
       "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tropik yeşil meyve",
+      "answer": "AVOKADO",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Aynı çizgi",
-      "answer": "HİZA",
-      "row": 0,
+      "text": "Magnezyumlu kayaç",
+      "answer": "DOLOMİT",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Saat söylerken kullanılan",
-      "answer": "KALA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Güzel koku",
-      "answer": "ITIR",
+      "text": "Ay halkası",
+      "answer": "HALE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sözleşme, bağıt",
-      "answer": "AKİT",
+      "text": "Eleme aracı",
+      "answer": "ELEK",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hamur tatlısı",
-      "answer": "PASTA",
-      "row": 2,
+      "text": "Yöntem",
+      "answer": "METOT",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -155,29 +134,49 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
       "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 2,
+      "col": 1
     },
     {
       "row": 7,
       "col": 0
     },
     {
-      "row": 8,
+      "row": 7,
       "col": 7
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 104
+  "difficulty": "kolay",
+  "order": 16
 }

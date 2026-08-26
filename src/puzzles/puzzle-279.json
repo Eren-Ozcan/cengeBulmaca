@@ -1,123 +1,141 @@
 {
   "id": "puzzle-279",
-  "title": "Bulmaca 174",
+  "title": "Bulmaca 98",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Salgın soğuk algınlığı",
-      "answer": "GRİP",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tütün rengi",
-      "answer": "TABA",
+      "text": "Boya tahtası",
+      "answer": "PALET",
       "row": 1,
-      "col": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Renk dizisi",
+      "answer": "TAYF",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sac kap",
+      "answer": "BİDON",
+      "row": 2,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Lifli halat bitkisi",
-      "answer": "KENEVİR",
+      "text": "Anıt mezar",
+      "answer": "MOZOLE",
       "row": 3,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Özverili",
+      "answer": "FEDAKAR",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tek kişilik konuşma",
+      "answer": "MONOLOG",
+      "row": 7,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Namaz topluluğu",
-      "answer": "CEMAAT",
-      "row": 4,
+      "text": "Katliam",
+      "answer": "KIYIM",
+      "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kısa gezi",
-      "answer": "GEZİNTİ",
-      "row": 5,
+      "text": "Sert olmayan",
+      "answer": "YUMUŞAK",
+      "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Türk hükümdarı",
-      "answer": "HAKAN",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kavrulan bitki",
-      "answer": "KAHVE",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Naylon torba",
-      "answer": "POŞET",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Gazlı içecek",
-      "answer": "GAZOZ",
-      "row": 4,
+      "text": "Kuralsız yaşam",
+      "answer": "BOHEM",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Meşrubat",
-      "answer": "İÇECEK",
+      "text": "Gücü yetmeyen, güçsüz",
+      "answer": "ACİZ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kibarlık",
-      "answer": "NEZAKET",
+      "text": "Hücre topluluğu",
+      "answer": "DOKU",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Teçhizat",
+      "answer": "DONANIM",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Güvence",
-      "answer": "TEMİNAT",
-      "row": 1,
+      "text": "Omuz atkısı",
+      "answer": "ETOL",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yağsız, sade",
-      "answer": "YAVAN",
+      "text": "Soluk karşıtı",
+      "answer": "KOYU",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Adet",
+      "answer": "TANE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yönetici itaati",
-      "answer": "BİAT",
-      "row": 1,
+      "text": "Satış karşıtı",
+      "answer": "ALIŞ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İtalya'nın başkenti",
+      "answer": "ROMA",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Güç birimi",
-      "answer": "VAT",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Siyasal topluluk",
-      "answer": "PARTİ",
+      "text": "Onma",
+      "answer": "İFLAH",
       "row": 0,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
     {
       "row": 0,
       "col": 1
@@ -128,10 +146,10 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 6
     },
     {
-      "row": 0,
+      "row": 1,
       "col": 6
     },
     {
@@ -139,16 +157,12 @@
       "col": 0
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 3,
+      "col": 6
     },
     {
       "row": 4,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 5
+      "col": 6
     },
     {
       "row": 6,
@@ -156,33 +170,13 @@
     },
     {
       "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 2
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
+      "row": 8,
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 174
+  "difficulty": "orta",
+  "order": 98
 }

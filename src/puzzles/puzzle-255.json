@@ -1,118 +1,132 @@
 {
   "id": "puzzle-255",
-  "title": "Bulmaca 179",
+  "title": "Bulmaca 149",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Mizah",
-      "answer": "GÜLMECE",
+      "text": "Sarı, tüylü meyve",
+      "answer": "AYVA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Rezalet olayı",
-      "answer": "SKANDAL",
+      "text": "Kramp",
+      "answer": "SPAZM",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Gelenek, âdet",
+      "answer": "TÖRE",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yol kesen haydut",
-      "answer": "EŞKIYA",
+      "text": "Genç boğa",
+      "answer": "TOSUN",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Toplama, birleştirme",
+      "answer": "CEM",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tekneyi yanaştırma",
-      "answer": "ABORDA",
+      "text": "Tanksavar silah",
+      "answer": "BAZUKA",
       "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bireşim",
-      "answer": "SENTEZ",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Besin",
-      "answer": "GIDA",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Tuzlu bisküvi",
-      "answer": "KRAKER",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bir tutam",
-      "answer": "ELÇİM",
-      "row": 4,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Göz üstü kılı",
-      "answer": "KAŞ",
+      "text": "Albayın üstü",
+      "answer": "GENERAL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Değişmeyen",
+      "answer": "DURAL",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çatı örtüsü",
+      "answer": "KİREMİT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ufak tefek şey",
+      "answer": "ÖTEBERİ",
       "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Karın-uyluk arası",
-      "answer": "KASIK",
-      "row": 4,
+      "text": "Kurmaca eser",
+      "answer": "ROMAN",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Din büyüğü öyküsü",
-      "answer": "MENKIBE",
+      "text": "Osmanlı gece bekçisi",
+      "answer": "ASES",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yontma parçası",
-      "answer": "YONGA",
-      "row": 4,
+      "text": "Ezik, bere",
+      "answer": "ZEDE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dik yar",
+      "answer": "UÇURUM",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Geriye kalan",
-      "answer": "ARTIK",
-      "row": 4,
+      "text": "Değerli kızıl ağaç",
+      "answer": "MAUN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Evlenmiş olan",
-      "answer": "EVLİ",
-      "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyükbaba",
-      "answer": "DEDE",
+      "text": "Kur'an okuyucusu",
+      "answer": "KARİ",
       "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalın ip",
+      "answer": "HALAT",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kem göz",
-      "answer": "NAZAR",
-      "row": 4,
+      "text": "İlke, prensip",
+      "answer": "UMDE",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -132,41 +146,37 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
       "col": 4
     },
     {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 7
+      "row": 1,
+      "col": 6
     },
     {
       "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
       "col": 7
     },
     {
-      "row": 8,
-      "col": 1
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 179
+  "difficulty": "orta",
+  "order": 149
 }

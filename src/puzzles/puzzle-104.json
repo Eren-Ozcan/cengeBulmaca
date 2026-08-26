@@ -1,153 +1,118 @@
 {
   "id": "puzzle-104",
-  "title": "Bulmaca 33",
+  "title": "Bulmaca 104",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Asalak",
-      "answer": "PARAZİT",
-      "row": 1,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gömülü hazine",
-      "answer": "DEFİNE",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Dinî öğüt",
-      "answer": "VAAZ",
-      "row": 2,
+      "text": "Amerika parası",
+      "answer": "PESO",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mikroskop parçası",
-      "answer": "LAM",
+      "text": "Miyavlayan hayvan",
+      "answer": "KEDİ",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Pirinç yemeği",
+      "answer": "PİLAV",
       "row": 3,
-      "col": 4,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ağ, örgüt",
-      "answer": "ŞEBEKE",
+      "text": "Ücretsiz yemekevi",
+      "answer": "AŞEVİ",
       "row": 4,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Podyum modeli",
-      "answer": "MANKEN",
-      "row": 6,
-      "col": 1,
+      "text": "Tasavvuf yolu",
+      "answer": "TARİKAT",
+      "row": 5,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Semptom",
-      "answer": "BELİRTİ",
+      "text": "Araç gövdesi",
+      "answer": "KAROSER",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sindirim organı",
+      "answer": "MİDE",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Soğuk karşıtı",
-      "answer": "SICAK",
+      "text": "Süzgeç",
+      "answer": "FİLTRE",
       "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Salahiyetli",
-      "answer": "YETKİLİ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dağ arası",
-      "answer": "VADİ",
+      "text": "Avuç miktarı",
+      "answer": "TUTAM",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ad ortağı",
-      "answer": "ADAŞ",
-      "row": 0,
+      "text": "Önceki gün",
+      "answer": "ARİFE",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Büyülenmiş",
-      "answer": "MEST",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Menteşe",
-      "answer": "REZE",
-      "row": 0,
+      "text": "Taklit yergi",
+      "answer": "PARODİ",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Şaşkın, ahmak",
-      "answer": "ALIK",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Bağışlama",
-      "answer": "AF",
-      "row": 0,
+      "text": "Şahsi",
+      "answer": "KİŞİSEL",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Süvari",
-      "answer": "BİNİCİ",
-      "row": 3,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Tokat ilçesi",
-      "answer": "ZİLE",
+      "text": "Kazanılmış yatkınlık",
+      "answer": "MELEKE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ülke hükümdarı",
-      "answer": "KRAL",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dogma",
-      "answer": "İNAK",
-      "row": 0,
+      "text": "Koyun-keçi",
+      "answer": "DAVAR",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Güç, tesir",
-      "answer": "ETKİ",
-      "row": 5,
-      "col": 6,
+      "text": "Eski kalem",
+      "answer": "DİVİT",
+      "row": 0,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Dilek",
-      "answer": "TEMENNİ",
-      "row": 0,
+      "text": "İri yaratık",
+      "answer": "DEV",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -155,25 +120,77 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
-      "row": 5,
-      "col": 1
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 7
+      "col": 0
     },
     {
       "row": 9,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
+    },
+    {
+      "row": 9,
+      "col": 3
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 33
+  "difficulty": "orta",
+  "order": 104
 }

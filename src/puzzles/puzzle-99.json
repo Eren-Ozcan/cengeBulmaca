@@ -1,138 +1,138 @@
 {
   "id": "puzzle-99",
-  "title": "Bulmaca 5",
+  "title": "Bulmaca 2",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Şehir bölgesi",
-      "answer": "SEMT",
+      "text": "Adanan şey, nezir",
+      "answer": "ADAK",
       "row": 1,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Saflık derecesi",
-      "answer": "AYAR",
+      "text": "Sıkıntı, eziyet, üzüntü",
+      "answer": "CEFA",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kor parçası",
-      "answer": "KÖZ",
+      "text": "Atı sürme",
+      "answer": "DEH",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Defa",
-      "answer": "KERE",
+      "text": "Bataklık kuşu",
+      "answer": "İBİS",
       "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kolsuz üstlük",
-      "answer": "PELERİN",
+      "text": "Boşaltma",
+      "answer": "TAHLİYE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Somunlu vida",
-      "answer": "CIVATA",
+      "text": "Aklanma",
+      "answer": "BERAAT",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Özet",
-      "answer": "HÜLASA",
+      "text": "Gezi sektörü",
+      "answer": "TURİZM",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dönülen yön",
-      "answer": "KIBLE",
+      "text": "Ses uygunluğu",
+      "answer": "RİTİM",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Keseli memeli",
-      "answer": "KOALA",
+      "text": "Beyaz element",
+      "answer": "KALAY",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Buse",
-      "answer": "ÖPÜCÜK",
+      "text": "Et yiyen",
+      "answer": "ETOBUR",
       "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Pembe şarap",
-      "answer": "ROZE",
+      "text": "Yok etme",
+      "answer": "İMHA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Soğuk-sıcak arası",
-      "answer": "ILIK",
+      "text": "Ekşimsi yaz meyvesi",
+      "answer": "ERİK",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Musluklu yıkama yeri",
-      "answer": "LAVABO",
+      "text": "Yer çizimi",
+      "answer": "HARİTA",
       "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Japon içkisi",
-      "answer": "SAKE",
+      "text": "İvedi",
+      "answer": "ACİL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hiçbir zaman, kesinlikle",
-      "answer": "ASLA",
+      "text": "Görevden alma",
+      "answer": "AZİL",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Hayvan koltuğu",
-      "answer": "EYER",
+      "text": "Akış hızı",
+      "answer": "DEBİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Uzak Doğu ağırlık ölçüsü",
-      "answer": "TAEL",
+      "text": "Şaşma ünlemi",
+      "answer": "AMMA",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yat limanı",
-      "answer": "MARİNA",
+      "text": "Sağlıklı olma",
+      "answer": "AFİYET",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Raylı taşıt",
-      "answer": "TREN",
+      "text": "Derin çanak",
+      "answer": "KASE",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -197,5 +197,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 5
+  "order": 2
 }

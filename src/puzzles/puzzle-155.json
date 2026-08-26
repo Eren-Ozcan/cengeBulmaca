@@ -1,132 +1,125 @@
 {
   "id": "puzzle-155",
-  "title": "Bulmaca 146",
+  "title": "Bulmaca 148",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Örtme nesnesi",
-      "answer": "KAPAK",
-      "row": 1,
+      "text": "Savı olan",
+      "answer": "İDDİALI",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Ay ücreti",
-      "answer": "AYLIK",
+      "text": "Deri",
+      "answer": "CİLT",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yüksek düzlük",
-      "answer": "YAYLA",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Marmara'da tatil adası",
-      "answer": "AVŞA",
-      "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "İbadet yeri",
-      "answer": "CAMİ",
-      "row": 4,
+      "text": "Hücum",
+      "answer": "SALDIRI",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kahve satan",
-      "answer": "KAHVECİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Muayene yeri",
-      "answer": "KLİNİK",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Direnme, üsteleme",
-      "answer": "ISRAR",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sıradan",
-      "answer": "OLAĞAN",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sütün üstü",
-      "answer": "KAYMAK",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Mikro karşıtı",
-      "answer": "MAKRO",
+      "text": "Denizci",
+      "answer": "GEMİCİ",
       "row": 4,
-      "col": 2,
-      "arrow": "down"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Hisse, parça",
-      "answer": "PAY",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Zarar verme",
-      "answer": "İHLAL",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Işık halkası",
-      "answer": "AYLA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Aralıksız, durmadan",
-      "answer": "VİRA",
+      "text": "Eziyet çektiren",
+      "answer": "CEFAKAR",
       "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Cennet kızı",
+      "answer": "HURİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sinir hücresi",
+      "answer": "NÖRON",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Uzak taraf",
+      "answer": "ÖTE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "En az",
+      "answer": "ASGARİ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yönetim gaspı",
+      "answer": "CUNTA",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaba ağaç ustası",
+      "answer": "DÜLGER",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Durak işareti",
+      "answer": "ES",
+      "row": 7,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gömme işlemi",
+      "answer": "DEFİN",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Merhamet duygusu",
+      "answer": "ACIMA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çembalo",
-      "answer": "KLAVSEN",
+      "text": "Duygu dolu",
+      "answer": "LİRİK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Parlatma maddesi",
-      "answer": "CİLA",
-      "row": 5,
+      "text": "Kaplıca",
+      "answer": "ILICA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Eskimeyen",
-      "answer": "KLASİK",
-      "row": 1,
+      "text": "Yaradaki cerahat",
+      "answer": "İRİN",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -134,15 +127,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 3
     },
     {
       "row": 0,
@@ -150,15 +139,35 @@
     },
     {
       "row": 1,
-      "col": 6
+      "col": 7
     },
     {
       "row": 2,
+      "col": 1
+    },
+    {
+      "row": 4,
       "col": 0
     },
     {
-      "row": 3,
+      "row": 6,
+      "col": 4
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
       "col": 6
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 4
     },
     {
       "row": 8,
@@ -166,13 +175,17 @@
     },
     {
       "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
       "col": 7
     },
     {
       "row": 9,
-      "col": 0
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 146
+  "order": 148
 }

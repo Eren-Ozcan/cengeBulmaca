@@ -1,118 +1,146 @@
 {
   "id": "puzzle-267",
-  "title": "Bulmaca 124",
+  "title": "Bulmaca 13",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Ölü odası",
-      "answer": "MORG",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Torna işçisi",
-      "answer": "TORNACI",
-      "row": 2,
-      "col": 0,
+      "text": "Yayla",
+      "answer": "PLATO",
+      "row": 1,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ara verme",
-      "answer": "MOLA",
-      "row": 2,
+      "text": "Gürültülü çekişme",
+      "answer": "DALAŞ",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Nükteli hikâye",
-      "answer": "FIKRA",
+      "text": "Son, sonuç",
+      "answer": "AKIBET",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Baharatlı tohum",
+      "answer": "KAKULE",
       "row": 4,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yolcu topluluğu",
-      "answer": "KAFİLE",
-      "row": 4,
+      "text": "Matem",
+      "answer": "YAS",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Deniz yüksekliği",
-      "answer": "RAKIM",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
+      "text": "Gayret",
+      "answer": "ÇABA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
     },
     {
-      "text": "Sanat alıştırması",
-      "answer": "MEŞK",
-      "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kayıt kütüğü",
-      "answer": "SİCİL",
+      "text": "Anılar",
+      "answer": "HATIRAT",
       "row": 7,
       "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Akım elemanı",
+      "answer": "DİYOT",
+      "row": 7,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yavaşça akan",
-      "answer": "IĞIL",
+      "text": "Uzaklık",
+      "answer": "MESAFE",
       "row": 9,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Terminal",
-      "answer": "OTOGAR",
-      "row": 0,
+      "text": "Döl yatağı",
+      "answer": "RAHİM",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Canlandırılan kişi",
-      "answer": "ROL",
+      "text": "Gramofon diski",
+      "answer": "PLAK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Fal bakıcısı",
-      "answer": "FALCI",
-      "row": 4,
+      "text": "Koruma, yardım",
+      "answer": "SAYE",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çizge",
-      "answer": "GRAFİK",
+      "text": "İkinci ad",
+      "answer": "LAKAP",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Aşırıya kaçmayan",
-      "answer": "ILIMLI",
-      "row": 3,
+      "text": "Kafa vurma",
+      "answer": "TOS",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Vurgun, tutkun",
+      "answer": "AŞIK",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yargı yeri",
-      "answer": "MAHKEME",
-      "row": 0,
+      "text": "İnce, uzun tahta",
+      "answer": "ÇITA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gaz hâli",
+      "answer": "BUHAR",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hoş sıcaklıkta",
-      "answer": "SICACIK",
+      "text": "Konaklama işletmesi",
+      "answer": "OTEL",
       "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Divan şiirinde şarap",
+      "answer": "BADE",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Karşıtlık",
+      "answer": "TEZAT",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -120,35 +148,31 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
     },
     {
       "row": 0,
-      "col": 6
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
-      "col": 4
-    },
-    {
-      "row": 1,
-      "col": 6
+      "col": 7
     },
     {
       "row": 3,
-      "col": 6
+      "col": 0
     },
     {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 1
+      "row": 4,
+      "col": 0
     },
     {
       "row": 8,
@@ -156,21 +180,13 @@
     },
     {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
       "col": 7
     },
     {
       "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 124
+  "difficulty": "kolay",
+  "order": 13
 }

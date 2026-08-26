@@ -1,139 +1,132 @@
 {
   "id": "puzzle-290",
-  "title": "Bulmaca 78",
+  "title": "Bulmaca 50",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Perşembeden sonraki gün",
-      "answer": "CUMA",
+      "text": "Yönetim gücü",
+      "answer": "İKTİDAR",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ödünç para",
-      "answer": "KREDİ",
+      "text": "Kabuklu yemiş",
+      "answer": "CEVİZ",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Locaya bağlı kimse",
-      "answer": "MASON",
+      "text": "Sarı yaz meyvesi",
+      "answer": "KAVUN",
       "row": 3,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Köpek emri",
-      "answer": "APORT",
+      "text": "Ritimli dans",
+      "answer": "TANGO",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sık dokuma bez",
-      "answer": "PATİSKA",
-      "row": 5,
-      "col": 1,
+      "text": "Kedisiyle ünlü ilimiz",
+      "answer": "VAN",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Koruma, kayırma",
-      "answer": "HİMAYE",
+      "text": "Halk müziği çalgısı",
+      "answer": "TAMBURA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Can koruyucu",
+      "answer": "FEDAİ",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Onur",
-      "answer": "ŞEREF",
+      "text": "Söylenti",
+      "answer": "RİVAYET",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Armağan levhası",
-      "answer": "ŞİLT",
+      "text": "Et suyu ekmeği",
+      "answer": "TİRİT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ucu olan",
-      "answer": "UÇLU",
-      "row": 0,
+      "text": "Davul takımı",
+      "answer": "BATERİ",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kızartılmış hamur",
-      "answer": "PİŞİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Mikroskop camı",
-      "answer": "LAMEL",
+      "text": "Ender",
+      "answer": "NADİR",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Akış hâli",
-      "answer": "AKMA",
+      "text": "Yeni yaratım",
+      "answer": "İCAT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Meyveli pasta",
-      "answer": "TART",
+      "text": "Gökyüzünün rengi",
+      "answer": "MAVİ",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Geniş başlı çivi",
-      "answer": "RAPTİYE",
-      "row": 1,
+      "text": "İlaç, çare",
+      "answer": "DEVA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Amerika parası",
-      "answer": "PESO",
+      "text": "Yönetici itaati",
+      "answer": "BİAT",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Teselli",
+      "answer": "AVUNTU",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Keyifli hâl",
-      "answer": "SEFA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Zirve noktası",
-      "answer": "DORUK",
-      "row": 1,
+      "text": "Boks alanı",
+      "answer": "RİNG",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Zevk düşkünü",
-      "answer": "RİNT",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Sonradan ortaya çıkan",
-      "answer": "ARIZ",
-      "row": 5,
+      "text": "Nispet ilişkisi",
+      "answer": "ORANTI",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -141,43 +134,47 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 4
+      "col": 7
     },
     {
-      "row": 0,
-      "col": 6
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
       "col": 0
     },
     {
+      "row": 2,
+      "col": 1
+    },
+    {
       "row": 3,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 5,
+      "col": 6
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 7,
+      "col": 5
     },
     {
       "row": 7,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 6
-    },
-    {
       "row": 9,
-      "col": 4
+      "col": 5
     },
     {
       "row": 9,
@@ -185,5 +182,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 78
+  "order": 50
 }

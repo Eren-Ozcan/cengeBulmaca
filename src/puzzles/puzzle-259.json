@@ -1,148 +1,144 @@
 {
   "id": "puzzle-259",
-  "title": "Bulmaca 129",
+  "title": "Bulmaca 34",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yaprak sigarası",
-      "answer": "PURO",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Parasız",
-      "answer": "BEDAVA",
-      "row": 1,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Müzik türü",
-      "answer": "CAZ",
-      "row": 2,
+      "text": "Süvari",
+      "answer": "BİNİCİ",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ne iş yapar sorusu",
-      "answer": "NECİ",
-      "row": 3,
+      "text": "Nakışlı, işlemeli",
+      "answer": "İŞLİ",
+      "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Konuğu ağırlama",
-      "answer": "İKRAM",
+      "text": "Yarış şeridi",
+      "answer": "KULVAR",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Katıksız, saf",
+      "answer": "HAS",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Temel bilgi",
+      "answer": "VERİ",
       "row": 4,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Hızlı olan",
+      "answer": "SERİ",
+      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Güdülen erek",
-      "answer": "MAKSAT",
-      "row": 4,
+      "text": "Gebe",
+      "answer": "HAMİLE",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Köprüsü olan",
-      "answer": "KÖPRÜLÜ",
-      "row": 6,
+      "text": "Kelimeler bütünü",
+      "answer": "METİN",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İş sahibi",
-      "answer": "PATRON",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Nasihat",
-      "answer": "ÖĞÜT",
+      "text": "Yıl",
+      "answer": "SENE",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kin tutan",
-      "answer": "KİNDAR",
+      "text": "Tugay-kolordu arası",
+      "answer": "TÜMEN",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kasık-taban arası",
-      "answer": "BACAK",
-      "row": 1,
+      "text": "Ululuk",
+      "answer": "AZAMET",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Pamuklu kumaş",
-      "answer": "BEZ",
+      "text": "Hastalık tekrarı",
+      "answer": "NÜKS",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sabun kabarcığı",
-      "answer": "KÖPÜK",
-      "row": 4,
+      "text": "Yemek listesi",
+      "answer": "MENÜ",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İskambilde sinek",
-      "answer": "İSPATİ",
-      "row": 3,
+      "text": "Öfkesiz kırgınlık",
+      "answer": "SİTEM",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gösteri levhası",
-      "answer": "PANKART",
+      "text": "Naz yapan",
+      "answer": "CİLVELİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Açılış müziği",
-      "answer": "UVERTÜR",
+      "text": "Patron",
+      "answer": "İŞVEREN",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hint unvanı",
-      "answer": "RACA",
+      "text": "Gürcistan para birimi",
+      "answer": "LARİ",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilinmeyen kimse",
+      "answer": "BİRİ",
       "row": 0,
-      "col": 6,
+      "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Özel bölme",
-      "answer": "LOCA",
+      "text": "Üçüncü Yunan harfi",
+      "answer": "GAMA",
       "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Bağışık",
-      "answer": "İMMÜN",
-      "row": 2,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 0
-    },
     {
       "row": 0,
       "col": 1
@@ -153,11 +149,23 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
     },
     {
-      "row": 1,
+      "row": 2,
       "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
@@ -169,13 +177,13 @@
     },
     {
       "row": 8,
-      "col": 7
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 129
+  "difficulty": "kolay",
+  "order": 34
 }

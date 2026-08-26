@@ -1,141 +1,137 @@
 {
   "id": "puzzle-266",
-  "title": "Bulmaca 61",
+  "title": "Bulmaca 91",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kan kanseri",
-      "answer": "LÖKOZ",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Üzüm yeri",
-      "answer": "BAĞ",
-      "row": 1,
+      "text": "Tutturmalı küpe",
+      "answer": "KLİPS",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kızartma kabı",
-      "answer": "TAVA",
+      "text": "Dört dizeli şiir",
+      "answer": "RUBAİ",
       "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Dirim bilimci",
+      "answer": "BİYOLOG",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Oturulacak şey",
+      "answer": "OTURAK",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Gemi topluluğu",
+      "answer": "FİLO",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Düne özgü",
+      "answer": "DÜNKÜ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Demirci aracı",
+      "answer": "ÖRS",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Örgü işi",
+      "answer": "ÖRME",
+      "row": 7,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Geniş, açık",
-      "answer": "FERAH",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yıkıntı",
-      "answer": "HARABE",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hamur parçası",
-      "answer": "BEZE",
-      "row": 5,
+      "text": "Binek hayvanı",
+      "answer": "AT",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mısır'ın başkenti",
-      "answer": "KAHİRE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Şuur",
-      "answer": "BİLİNÇ",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yardım parası",
-      "answer": "İANE",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kavimle ilgili",
-      "answer": "ETNİK",
+      "text": "Minicik",
+      "answer": "KÜÇÜCÜK",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ata, dede",
-      "answer": "AĞABABA",
-      "row": 1,
+      "text": "Anlayış, kavrayış",
+      "answer": "İDRAK",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tutulan kimse",
-      "answer": "REHİNE",
-      "row": 3,
+      "text": "Yol kenarı",
+      "answer": "YOLÜSTÜ",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Erdem",
-      "answer": "FAZİLET",
-      "row": 2,
+      "text": "Artı yüklü parçacık",
+      "answer": "PROTON",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ufak tefek şey",
-      "answer": "ÖTEBERİ",
+      "text": "Koyu karşıtı",
+      "answer": "SULU",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kenarları eşit dörtgen",
-      "answer": "KARE",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Geniş",
-      "answer": "ENLİ",
+      "text": "İyi karşıtı",
+      "answer": "KÖTÜ",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kaldırım taşı",
+      "answer": "BORDÜR",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Verimli düzlük",
-      "answer": "OVA",
+      "text": "Kuşların ağzı",
+      "answer": "GAGA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sıkıntı, güçlük",
-      "answer": "ZAHMET",
-      "row": 0,
+      "text": "Dükkân kapağı",
+      "answer": "KEPENK",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 0
-    },
     {
       "row": 0,
       "col": 1
@@ -146,11 +142,19 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 5
     },
     {
-      "row": 4,
-      "col": 6
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 1
     },
     {
       "row": 5,
@@ -161,30 +165,18 @@
       "col": 6
     },
     {
-      "row": 7,
-      "col": 7
+      "row": 8,
+      "col": 3
     },
     {
       "row": 8,
-      "col": 4
+      "col": 5
     },
     {
       "row": 8,
       "col": 6
-    },
-    {
-      "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 61
+  "difficulty": "orta",
+  "order": 91
 }

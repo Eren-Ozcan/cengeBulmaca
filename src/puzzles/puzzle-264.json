@@ -1,132 +1,125 @@
 {
   "id": "puzzle-264",
-  "title": "Bulmaca 140",
+  "title": "Bulmaca 212",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Eski kayıt ortamı",
-      "answer": "DİSKET",
-      "row": 1,
+      "text": "Hısım",
+      "answer": "AKRABA",
+      "row": 0,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hâlbuki",
+      "answer": "OYSA",
+      "row": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Avuç vuruşu",
-      "answer": "TOKAT",
+      "text": "Uçak barınağı",
+      "answer": "HANGAR",
       "row": 2,
       "col": 2,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Birden sonraki sayı",
+      "answer": "İKİ",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dünya futbol federasyonu",
+      "answer": "FIFA",
+      "row": 4,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Boğa güreşçisi",
-      "answer": "MATADOR",
+      "text": "Tenzilat",
+      "answer": "İNDİRİM",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gezgin derviş",
+      "answer": "ABDAL",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kirpik boyası",
+      "answer": "RİMEL",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Süslü ipek kumaş",
+      "answer": "DİBA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eşya seti",
+      "answer": "TAKIM",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ateş çöpü",
+      "answer": "KİBRİT",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Salatalık yabani ot",
+      "answer": "HİNDİBA",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Odun kırıntısı",
-      "answer": "TALAŞ",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kahve türü",
-      "answer": "MOKA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "İleti",
-      "answer": "MESAJ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Evcil olmayan",
-      "answer": "YABANİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mekân; zemin",
-      "answer": "YER",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Boksta yıkılış",
-      "answer": "NAKAVT",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sahne oyunu",
-      "answer": "DRAM",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kabartma maddesi",
-      "answer": "MAYA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeni doğan",
-      "answer": "BEBEK",
-      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Maçın oynandığı yapı",
-      "answer": "STAT",
-      "row": 0,
+      "text": "Ağız üstü",
+      "answer": "DAMAK",
+      "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Tutarık hastalığı",
-      "answer": "SARA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Nüfuzlu kimse",
-      "answer": "KODAMAN",
+      "text": "Bel kemiği eti",
+      "answer": "BONFİLE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çevre bilimi",
-      "answer": "EKOLOJİ",
+      "text": "Damızlık at",
+      "answer": "AYGIR",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tarama aracı",
-      "answer": "TARAK",
-      "row": 0,
+      "text": "Katıksız, temiz",
+      "answer": "SAFİ",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kişi",
-      "answer": "ŞAHIS",
-      "row": 3,
+      "text": "Yanık şeker",
+      "answer": "KARAMEL",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -134,7 +127,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
@@ -142,19 +135,23 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 3
     },
     {
-      "row": 1,
-      "col": 7
+      "row": 0,
+      "col": 6
     },
     {
-      "row": 4,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 5
     },
     {
       "row": 6,
@@ -177,6 +174,10 @@
       "col": 6
     },
     {
+      "row": 8,
+      "col": 7
+    },
+    {
       "row": 9,
       "col": 6
     },
@@ -185,6 +186,6 @@
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 140
+  "difficulty": "zor",
+  "order": 212
 }
