@@ -581,3 +581,78 @@ paylarına oturmuştu (3h %4.0/%5.6, 4h %24.6/%22.4, 5h %31.0/%33.0,
 arama maliyetinde. Bir sonraki deneme için: seçiciyi açgözlü kural yerine
 hesaplanan LP oranına bağla, ve `uzun` yerine daha ucuz `min5 kota6` profilini
 (16/25 başarı, 4h talebi 5.44) ölç.
+
+## Hedef karışım + şekillendirme geçişi (2026-08-23)
+
+Profil anahtarı yerine sürekli hedef. `buildPuzzle` artık `targetMix` alıyor:
+bu bulmaca için uzunluk başına istenen cevap sayısı. Sürücü hedefi **kalan
+arza orantılı** veriyor (`grow-puzzles.mjs --mix`):
+
+    hedef[l] = Q * kalan[l] / toplam(kalan)
+
+Kendi kendini düzelten kural: bir katman boşaldıkça payı düşüyor, talebi
+otomatik düşüyor. LP yok, profil anahtarı yok, açgözlü seçici yok.
+
+Yeni maske geçişi `shapeRuns` hedefe yönlendirilmiş yerel hamlelerle yaklaşıyor:
+fazla temsil edilen uzunluktaki bir bloğun ucundaki ipucu hücresini aç (uzat)
+ya da içindeki bir hücreyi kapat (böl). `maskProblems`'ın bütün değişmezlerini
+koruduğu için en sona konulabiliyor. Üç ayrıntı belirleyici çıktı:
+
+1. **Hata ölçüsü göreli olmalı.** Düz L1'de bir fazla 3 harfli, bir fazla
+   5 harfliyle aynı ağırlıkta. Oysa set tavanı `min(arz/talep)`; hedef arza
+   orantılı olduğu için ağırlık `1/hedef` alınmalı. Düz L1 ile 3h talebi 2.4,
+   göreli ölçüyle 1.55.
+2. **Histogram artımlı güncellenmeli.** Her adayda tam `computeRuns` maske
+   denemesini ~10 kat pahalılaştırıyor ve koşuyu kilitliyor; tek hücre
+   çevrildiğinde yalnızca o satırın yatay, o sütunun dikey blokları değişiyor
+   (`lineRuns`).
+3. **Kısa blok kotası hedefin tavanında tutulmalı.** Ölçüm (40 bulmaca,
+   5 ızgara boyu, hepsi başarılı):
+
+   | kota payı | 3h talep | set tavanı |
+   |---|---|---|
+   | +2 | 2.23 | 177 |
+   | +1 | 1.90 | 207 |
+   | 0 | 1.55 | 252 |
+
+Ayrıca iki arama değişikliği: düğüm sınırı deneme sayısıyla büyüyor
+(20000'den 300000'e kadar) ve katı harf desenli kelimeler önce harcanıyor
+(`preferRigid`, `flexScore`) — esnek kelimeler finale kalsın diye.
+
+### Sonuç: 158 bulmaca, 3205 soru
+
+| katman | eski 146 | yeni 158 |
+|---|---|---|
+| 3h | 394/394 %100 | 217/394 %55 |
+| 4h | 963/1571 %61 | 993/1571 %63 |
+| 5h | 814/2308 %35 | 950/2308 %41 |
+| 6h | 565/1456 %39 | 561/1456 %39 |
+| 7h | 404/1272 %32 | 484/1272 %38 |
+
+3 harfli duvar kalktı; katmanlar %38-63 bandında birlikte tükeniyor. Talep
+bazlı tavan 146'dan ~250'ye çıktı.
+
+**Ama koşu havuz bittiği için durmadı** — 60 dakikalık duvar saati sınırına
+çarptı ve hâlâ ekliyordu. Cephede bulmaca başına ~4.6 dakika. Yani darboğaz
+artık sözlüğün karışımı değil, doldurmanın maliyeti. 250'ye ulaşmak saatler
+süren bir koşu ya da daha ucuz bir arama gerektiriyor.
+
+### Zorluk ekseni
+
+Sözlükte 3h+ havuzunun yalnızca %20.8'i "kolay" (birden fazla ipucu varyantı
+olan günlük kelime): 3h 394 + 4h 1065 = 1459 kelime. 5h/6h/7h'nin %99-100'ü
+tek ipuçlu. Yani uzunluk karışımı fiilen zorluk demek ve zorluk eğrisi ancak
+3h/4h katmanında şekillendirilebiliyor.
+
+`preferEasy` (çok ipuçlu kelimeleri ucuzlatan yanlılık) ölçüldü: 4 harfli
+katmanda kolay oranını %66'dan %71'e çıkarıyor, tersi %64'e indiriyor.
+Zayıf kaldıraç — asıl eğri uzunluk karışımının kendisinden geliyor.
+`grow-puzzles.mjs` hedefi üretim sırasına bağlı olarak eğiyor (`--curve`,
+sönümlü üstel); sapmayı su-doldurma bir sonraki turda geri aldığı için
+kullanım oranı bozulmuyor. Oyun sırası ayrıca `reorder-puzzles.mjs` ile
+veriliyor, yani üretim sırasının oyun sırası olması gerekmiyor: eğrinin işi
+sıralama değil, sıralanacak *dağılımı* üretmek.
+
+`tools/plan-mix.mjs` aynı kuralı çevrimdışı simüle eden planlayıcı (dosya
+yazmaz): %88 kullanım hedefiyle N=286 ve altı kovanın hepsi %88'de eşit
+boşalıyor.
