@@ -58,7 +58,7 @@ node scripts/showcase.mjs shots --tablet   # 1600x2560, for Play's tablet slots
 node scripts/showcase.mjs video            # screencast frames + their timings
 python scripts/make_store_shots.py         # adds the caption band (--tablet for the other set)
 python scripts/make_feature_graphic.py     # 1024x500
-python scripts/make_promo_video.py         # 1280x720 promo cut, phone + captions
+python scripts/make_promo_video.py         # 1920x1080 promo cut: phone, captions, music
 ```
 
 `showcase.mjs` seeds a showcase save (31 puzzles solved, a 12-day streak, 8 of

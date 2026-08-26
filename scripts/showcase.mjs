@@ -321,8 +321,19 @@ async function video(send, on, page) {
   // arrival times are recorded as well: they become the durations of an ffmpeg
   // concat list, which turns the sparse frames back into real-time playback.
   let n = 0;
+  let firstFrameAt = null;
+  let pendingScene = null;
   const stamps = [];
+  const scenes = [];
   on("Page.screencastFrame", (params) => {
+    if (firstFrameAt === null) firstFrameAt = Date.now();
+    // A scene is timestamped by the first frame that actually shows it: the
+    // capture pipeline runs a beat or two behind the DOM, and a caption keyed
+    // to DOM time would arrive before the screen it describes.
+    if (pendingScene) {
+      scenes.push({ name: pendingScene, at: (Date.now() - firstFrameAt) / 1000 });
+      pendingScene = null;
+    }
     writeFileSync(
       join(outDir, `frame_${String(++n).padStart(4, "0")}.jpg`),
       Buffer.from(params.data, "base64"),
@@ -333,9 +344,15 @@ async function video(send, on, page) {
 
   await boot(send, page);
   const started = Date.now();
+  // Where each scene begins, so the promo cut can put its captions on the right
+  // screens instead of guessing from percentages of the total length.
+  const mark = (name) => { pendingScene = name; };
+
   await send("Page.startScreencast", { format: "jpeg", quality: 90, everyNthFrame: 1 });
+  mark("home");
   await sleep(1800);                    // home: daily card and streak
   await openDaily(page);
+  mark("grid");
   await sleep(1500);                    // the grid
   const answer = await activeAnswer(page);
   await typeAnswer(page, answer, 260);
@@ -343,18 +360,24 @@ async function video(send, on, page) {
   await backHome(page);
   await page.click("button", "/Kediler/");
   await waitForSelector(page, ".cats-grid");
+  mark("cats");
   await sleep(2200);                    // cat album
   await page.click('[aria-label="Anadolu haritası"]');
   await waitForSelector(page, ".map-canvas");
+  mark("map");
   await sleep(2400);                    // the journey map
   await send("Page.stopScreencast");
   await sleep(300);
+  writeFileSync(join(outDir, "scenes.json"), JSON.stringify(scenes, null, 2));
 
   stamps.push(Date.now());
   const lines = ["ffconcat version 1.0"];
   for (let i = 0; i < n; i++) {
     lines.push(`file 'frame_${String(i + 1).padStart(4, "0")}.jpg'`);
-    lines.push(`duration ${Math.max(0.04, (stamps[i + 1] - stamps[i]) / 1000).toFixed(3)}`);
+    // Exact intervals: a floor of a few tens of milliseconds sounds harmless,
+    // but a burst of fast frames (typing) is then stretched, and the picture
+    // drifts seconds behind the scene marks it is supposed to line up with.
+    lines.push(`duration ${Math.max(0.005, (stamps[i + 1] - stamps[i]) / 1000).toFixed(3)}`);
   }
   // ffmpeg drops the last entry's duration unless the file is repeated.
   lines.push(`file 'frame_${String(n).padStart(4, "0")}.jpg'`);
