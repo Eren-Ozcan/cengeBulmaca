@@ -1,103 +1,117 @@
 {
   "id": "puzzle-267",
-  "title": "Bulmaca 180",
+  "title": "Bulmaca 124",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Serbest vuruş",
-      "answer": "FRİKİK",
-      "row": 1,
-      "col": 1,
+      "text": "Ölü odası",
+      "answer": "MORG",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Torna işçisi",
+      "answer": "TORNACI",
+      "row": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sihirli sıvı",
-      "answer": "İKSİR",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
+      "text": "Ara verme",
+      "answer": "MOLA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Zemin sıvası",
-      "answer": "ŞAP",
+      "text": "Nükteli hikâye",
+      "answer": "FIKRA",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Hükümdar oğlu",
-      "answer": "PRENS",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sac kap",
-      "answer": "BİDON",
-      "row": 5,
+      "text": "Yolcu topluluğu",
+      "answer": "KAFİLE",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mahalli",
-      "answer": "YÖRESEL",
-      "row": 7,
+      "text": "Deniz yüksekliği",
+      "answer": "RAKIM",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üçüncü ay",
-      "answer": "MART",
+      "text": "Sanat alıştırması",
+      "answer": "MEŞK",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kayıt kütüğü",
+      "answer": "SİCİL",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Darbe emici",
-      "answer": "TAMPON",
+      "text": "Yavaşça akan",
+      "answer": "IĞIL",
       "row": 9,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ermiş",
-      "answer": "EVLİYA",
-      "row": 2,
+      "text": "Terminal",
+      "answer": "OTOGAR",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Üçten sonraki sayı",
-      "answer": "DÖRT",
-      "row": 5,
+      "text": "Canlandırılan kişi",
+      "answer": "ROL",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gezici satış tezgâhı",
-      "answer": "İŞPORTA",
-      "row": 2,
+      "text": "Fal bakıcısı",
+      "answer": "FALCI",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çizge",
+      "answer": "GRAFİK",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Başarı belgesi",
-      "answer": "KARNE",
-      "row": 2,
+      "text": "Aşırıya kaçmayan",
+      "answer": "ILIMLI",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tohum artığı",
-      "answer": "KÜSPE",
+      "text": "Yargı yeri",
+      "answer": "MAHKEME",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Global",
-      "answer": "KÜRESEL",
+      "text": "Hoş sıcaklıkta",
+      "answer": "SICACIK",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -106,22 +120,6 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 4
     },
     {
@@ -130,43 +128,27 @@
     },
     {
       "row": 1,
-      "col": 0
+      "col": 4
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
+      "row": 1,
       "col": 6
     },
     {
       "row": 3,
-      "col": 0
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 4,
       "col": 6
     },
     {
-      "row": 6,
-      "col": 5
+      "row": 5,
+      "col": 6
     },
     {
       "row": 6,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 7,
+      "col": 1
     },
     {
       "row": 8,
@@ -183,8 +165,12 @@
     {
       "row": 9,
       "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
     }
   ],
-  "difficulty": "zor",
-  "order": 180
+  "difficulty": "orta",
+  "order": 124
 }

@@ -1,6 +1,6 @@
 {
   "id": "puzzle-86",
-  "title": "Bulmaca 57",
+  "title": "Bulmaca 104",
   "rows": 10,
   "cols": 8,
   "clues": [
@@ -33,7 +33,7 @@
       "arrow": "down-right"
     },
     {
-      "text": "Zıplama sesi",
+      "text": "Sıçrayınca çıkan",
       "answer": "ZIP",
       "row": 3,
       "col": 4,
@@ -178,6 +178,6 @@
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 57
+  "difficulty": "orta",
+  "order": 104
 }

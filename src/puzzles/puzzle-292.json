@@ -1,125 +1,132 @@
 {
   "id": "puzzle-292",
-  "title": "Bulmaca 60",
+  "title": "Bulmaca 36",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Erkek koyun",
-      "answer": "KOÇ",
+      "text": "Manevi gelişme",
+      "answer": "FEYİZ",
       "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "El yazısı",
+      "answer": "İMZA",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mülkiyet belgesi",
-      "answer": "TAPU",
-      "row": 1,
+      "text": "Bir selamlaşma sözü",
+      "answer": "MERHABA",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dilekçe",
+      "answer": "ARZUHAL",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dizi",
+      "answer": "SIRA",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Araç yakıtı",
-      "answer": "MAZOT",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Belediye kolluğu",
-      "answer": "ZABITA",
-      "row": 3,
+      "text": "Bölük-alay arası",
+      "answer": "TABUR",
+      "row": 5,
       "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Türk hükümdarı",
-      "answer": "HAKAN",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Küp biçimli",
-      "answer": "KÜBİK",
-      "row": 4,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sensör",
-      "answer": "DUYARGA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Müddet",
-      "answer": "SÜRE",
+      "text": "Bitişik giysi",
+      "answer": "TULUM",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dünya ucu",
-      "answer": "KUTUP",
+      "text": "Temizlik aracı",
+      "answer": "BİDE",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İşaret aracı",
-      "answer": "DÜDÜK",
-      "row": 3,
+      "text": "At yetiştiren kimse",
+      "answer": "ATÇI",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Şaşma ünlemi",
+      "answer": "AMMA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kekre, hüzünlü",
-      "answer": "BURUK",
-      "row": 4,
+      "text": "Pistonlu çalgı",
+      "answer": "TUBA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük sarı meyve",
+      "answer": "ZERDALİ",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Öz, nitelik",
-      "answer": "MAHİYET",
-      "row": 1,
+      "text": "Zorunlu ibadet",
+      "answer": "FARZ",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Katman",
-      "answer": "TABAKA",
-      "row": 0,
+      "text": "Uzak Doğu bilgesi",
+      "answer": "BUDA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Düşmanlık",
+      "answer": "HUSUMET",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yol yiyeceği",
-      "answer": "AZIK",
-      "row": 0,
+      "text": "Hayvan barınağı",
+      "answer": "AHIR",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Banka işlemi",
-      "answer": "REPO",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Eritme kabı",
-      "answer": "POTA",
+      "text": "Haber verme",
+      "answer": "İHBAR",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Çekingen",
-      "answer": "UTANGAÇ",
-      "row": 0,
+      "text": "Müstehzi",
+      "answer": "ALAYCI",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -127,7 +134,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
@@ -135,59 +142,43 @@
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 7,
       "col": 4
     },
     {
-      "row": 7,
-      "col": 6
+      "row": 0,
+      "col": 5
     },
     {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
+      "row": 0,
       "col": 7
     },
     {
-      "row": 9,
+      "row": 5,
       "col": 0
     },
     {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 3
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
+      "row": 6,
       "col": 6
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
     },
     {
       "row": 9,
@@ -195,5 +186,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 60
+  "order": 36
 }

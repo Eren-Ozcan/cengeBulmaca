@@ -1,103 +1,103 @@
 {
   "id": "puzzle-258",
-  "title": "Bulmaca 181",
+  "title": "Bulmaca 195",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Jeneratör",
-      "answer": "ÜRETEÇ",
+      "text": "Işık kıran cam",
+      "answer": "MERCEK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Verilen bilgi",
-      "answer": "DERS",
+      "text": "Gevşek karşıtı",
+      "answer": "SIKI",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Motor yakıtı",
-      "answer": "BENZİN",
+      "text": "Dizin",
+      "answer": "ENDEKS",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gönül vermiş",
-      "answer": "ALGIN",
+      "text": "Duygu dolu",
+      "answer": "LİRİK",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Meclis teklifi",
-      "answer": "ÖNERGE",
+      "text": "Ayrılık sözü",
+      "answer": "ELVEDA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yeni evli",
-      "answer": "GELİN",
+      "text": "Evli olmayan",
+      "answer": "BEKAR",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Açık oda",
-      "answer": "EYVAN",
+      "text": "Görüntü yüzeyi",
+      "answer": "EKRAN",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bahçe engeli",
-      "answer": "ÇİT",
+      "text": "Dişi çocuk",
+      "answer": "KIZ",
       "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Mal getirme",
-      "answer": "İTHAL",
+      "text": "Eski uzunluk ölçüsü",
+      "answer": "ARŞIN",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güvenlik",
-      "answer": "EMNİYET",
-      "row": 2,
+      "text": "Şekerli içki",
+      "answer": "LİKÖR",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Uzun gagalı balık",
-      "answer": "ZARGANA",
+      "text": "Çete önderi",
+      "answer": "ELEBAŞI",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Pasif",
-      "answer": "EDİLGEN",
+      "text": "Geçmişte",
+      "answer": "ESKİDEN",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ucu eğri kanca",
-      "answer": "ÇENGEL",
+      "text": "Dişi at",
+      "answer": "KISRAK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İlham",
-      "answer": "ESİN",
+      "text": "Nasip, azık",
+      "answer": "RIZK",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -123,6 +123,10 @@
     {
       "row": 1,
       "col": 6
+    },
+    {
+      "row": 2,
+      "col": 1
     },
     {
       "row": 2,
@@ -170,5 +174,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 181
+  "order": 195
 }

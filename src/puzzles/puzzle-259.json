@@ -1,144 +1,148 @@
 {
   "id": "puzzle-259",
-  "title": "Bulmaca 52",
+  "title": "Bulmaca 129",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Gürültü patırtı",
-      "answer": "ŞAMATA",
-      "row": 0,
-      "col": 0,
+      "text": "Yaprak sigarası",
+      "answer": "PURO",
+      "row": 1,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Parasız",
+      "answer": "BEDAVA",
+      "row": 1,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Aile işareti",
-      "answer": "ARMA",
+      "text": "Müzik türü",
+      "answer": "CAZ",
       "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Şişmiş",
-      "answer": "ŞİŞKİN",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Saf içki",
-      "answer": "SEK",
-      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Doğru, isabetli",
-      "answer": "RAST",
-      "row": 4,
+      "text": "Ne iş yapar sorusu",
+      "answer": "NECİ",
+      "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gece eğlencesi",
-      "answer": "BALO",
-      "row": 5,
+      "text": "Konuğu ağırlama",
+      "answer": "İKRAM",
+      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sağaltıcı",
-      "answer": "ŞİFALI",
-      "row": 5,
+      "text": "Güdülen erek",
+      "answer": "MAKSAT",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Açılmış yer",
-      "answer": "YARIK",
-      "row": 7,
+      "text": "Köprüsü olan",
+      "answer": "KÖPRÜLÜ",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yüz örtüsü",
-      "answer": "PEÇE",
+      "text": "İş sahibi",
+      "answer": "PATRON",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Nasihat",
+      "answer": "ÖĞÜT",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Genelge",
-      "answer": "TAMİM",
+      "text": "Kin tutan",
+      "answer": "KİNDAR",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İşkence",
-      "answer": "EZİYET",
-      "row": 3,
+      "text": "Kasık-taban arası",
+      "answer": "BACAK",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sanat alıştırması",
-      "answer": "MEŞK",
+      "text": "Pamuklu kumaş",
+      "answer": "BEZ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Görünüm, kılık",
-      "answer": "FAÇA",
-      "row": 5,
+      "text": "Sabun kabarcığı",
+      "answer": "KÖPÜK",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Maaş çizelgesi",
-      "answer": "BAREM",
-      "row": 4,
+      "text": "İskambilde sinek",
+      "answer": "İSPATİ",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Taşra halkından",
-      "answer": "TAŞRALI",
+      "text": "Gösteri levhası",
+      "answer": "PANKART",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sırt dayanağı",
-      "answer": "ARKALIK",
+      "text": "Açılış müziği",
+      "answer": "UVERTÜR",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Japon çorbası çeşnisi",
-      "answer": "MİSO",
-      "row": 1,
+      "text": "Hint unvanı",
+      "answer": "RACA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tekerlek çemberi",
-      "answer": "JANT",
-      "row": 0,
-      "col": 7,
+      "text": "Özel bölme",
+      "answer": "LOCA",
+      "row": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Şarkı filmi",
-      "answer": "KLİP",
-      "row": 5,
+      "text": "Bağışık",
+      "answer": "İMMÜN",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
     {
       "row": 0,
       "col": 1
@@ -149,23 +153,11 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 6
     },
     {
       "row": 8,
@@ -177,13 +169,13 @@
     },
     {
       "row": 8,
-      "col": 6
+      "col": 7
     },
     {
       "row": 9,
-      "col": 6
+      "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 52
+  "difficulty": "orta",
+  "order": 129
 }

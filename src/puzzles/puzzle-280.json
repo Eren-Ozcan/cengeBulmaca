@@ -1,132 +1,146 @@
 {
   "id": "puzzle-280",
-  "title": "Bulmaca 119",
+  "title": "Bulmaca 21",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Aşağı karşıtı",
-      "answer": "YUKARI",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sihir",
-      "answer": "BÜYÜ",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kitap yazan",
-      "answer": "YAZAR",
-      "row": 2,
+      "text": "Antik yukarı şehir",
+      "answer": "AKROPOL",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Cesur",
-      "answer": "YÜREKLİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Deriye konan ilaç",
-      "answer": "YAKI",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çıkıntılı bölüm",
-      "answer": "CUMBA",
-      "row": 6,
+      "text": "Ton kapasitesi",
+      "answer": "TONAJ",
+      "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ot biçme aracı",
-      "answer": "TIRPAN",
+      "text": "Beslenme düzeni",
+      "answer": "DİYET",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Asker kemeri",
+      "answer": "PALASKA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Koni biçimli başlık",
+      "answer": "KALPAK",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ocak birinci",
+      "answer": "YILBAŞI",
       "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük kemirgen",
-      "answer": "FARE",
-      "row": 8,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kötü, bozuk",
-      "answer": "FASİT",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Hayvan ölüsü",
-      "answer": "LEŞ",
-      "row": 6,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Kadın unvanı",
-      "answer": "BAYAN",
-      "row": 1,
+      "text": "El çırpma",
+      "answer": "ALKIŞ",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Güvertesiz tekne",
+      "answer": "MAVNA",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şarkı filmi",
+      "answer": "KLİP",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Parmak halkası",
-      "answer": "YÜZÜK",
-      "row": 0,
+      "text": "Yansıtıcı cam",
+      "answer": "AYNA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yayı olan",
+      "answer": "YAYLI",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Uyandıran",
-      "answer": "UYARICI",
+      "text": "Konaklama işletmesi",
+      "answer": "OTEL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Top cismi",
-      "answer": "KÜRE",
+      "text": "İş düzeni",
+      "answer": "PLAN",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eritme kabı",
+      "answer": "POTA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Peygamberler şehri",
-      "answer": "URFA",
+      "text": "Büyük kardeş",
+      "answer": "ABLA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Gizli plan",
-      "answer": "KUMPAS",
+      "text": "Dokuzdan sonraki sayı",
+      "answer": "ON",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ev arası yol",
+      "answer": "SOKAK",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hiç değilse",
-      "answer": "BARİ",
-      "row": 5,
+      "text": "Dinden bağımsız",
+      "answer": "LAİK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Din işleri",
-      "answer": "DİYANET",
-      "row": 2,
+      "text": "Damla sesi",
+      "answer": "ŞIP",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Çoğalma",
+      "answer": "ARTIŞ",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -134,19 +148,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 2
     },
     {
       "row": 0,
@@ -154,33 +156,21 @@
     },
     {
       "row": 1,
-      "col": 0
+      "col": 7
     },
     {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
+      "row": 5,
       "col": 6
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 2
     },
     {
       "row": 9,
-      "col": 1
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 119
+  "difficulty": "kolay",
+  "order": 21
 }

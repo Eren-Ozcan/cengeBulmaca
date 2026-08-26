@@ -1,118 +1,146 @@
 {
   "id": "puzzle-268",
-  "title": "Bulmaca 192",
+  "title": "Bulmaca 72",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Mumluk",
-      "answer": "ŞAMDAN",
+      "text": "Yön bulma aracı",
+      "answer": "PUSULA",
       "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hayat",
+      "answer": "YAŞAM",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Toprak boru",
-      "answer": "KÜNK",
-      "row": 2,
-      "col": 3,
+      "text": "Toprak fırın",
+      "answer": "TANDIR",
+      "row": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mezar üstü tabut",
-      "answer": "SANDUKA",
-      "row": 2,
+      "text": "Birden kesilme",
+      "answer": "SEKTE",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kahramanlık anlatısı",
-      "answer": "DESTAN",
-      "row": 4,
+      "text": "Fakire verilen",
+      "answer": "SADAKA",
+      "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kapı bağlantısı",
-      "answer": "MENTEŞE",
-      "row": 5,
+      "text": "Torik öncesi balık",
+      "answer": "PALAMUT",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Yerme yazısı",
-      "answer": "YERGİ",
-      "row": 5,
+      "text": "Kabuk kırığı",
+      "answer": "FAY",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Büyük çivi",
-      "answer": "EKSER",
-      "row": 7,
-      "col": 2,
+      "text": "Birden anlama sesi",
+      "answer": "DANK",
+      "row": 8,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Düzgün yığın",
-      "answer": "İSTİF",
+      "text": "Bunaltı",
+      "answer": "SIKINTI",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Başvuru yeri",
-      "answer": "MERCİ",
-      "row": 4,
+      "text": "Kayma ayakkabısı",
+      "answer": "PATEN",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yumuşak yastık",
-      "answer": "MİNDER",
+      "text": "Oksit tabakası",
+      "answer": "PAS",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Erkek hizmetçi",
+      "answer": "UŞAK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Muvazene",
-      "answer": "DENGE",
-      "row": 2,
+      "text": "Rakam kümesi",
+      "answer": "SAYI",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Enerji üretim yeri",
+      "answer": "SANTRAL",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yankı bilimi",
-      "answer": "AKUSTİK",
+      "text": "İlke, prensip",
+      "answer": "UMDE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Şakalı söz",
-      "answer": "NÜKTE",
+      "text": "Çocuk bakıcısı",
+      "answer": "DADI",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyücü",
+      "answer": "ŞAMAN",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Farklı",
+      "answer": "AYRI",
       "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Katıksız, arı",
-      "answer": "SAF",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Cenaze, ölü beden",
-      "answer": "NAAŞ",
-      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bahar bayramı",
-      "answer": "NEVRUZ",
-      "row": 3,
+      "text": "Kalın ve dayanıklı",
+      "answer": "KUNT",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Destek verme",
+      "answer": "KATKI",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -120,15 +148,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 5
     },
     {
       "row": 0,
@@ -140,45 +164,25 @@
     },
     {
       "row": 2,
-      "col": 1
+      "col": 5
     },
     {
-      "row": 4,
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
       "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
       "col": 0
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 192
+  "difficulty": "kolay",
+  "order": 72
 }

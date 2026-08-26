@@ -1,104 +1,132 @@
 {
   "id": "puzzle-264",
-  "title": "Bulmaca 194",
+  "title": "Bulmaca 140",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Uzun kuyruklu kuş",
-      "answer": "SÜLÜN",
-      "row": 0,
+      "text": "Eski kayıt ortamı",
+      "answer": "DİSKET",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Sağaltma",
-      "answer": "TEDAVİ",
+      "text": "Avuç vuruşu",
+      "answer": "TOKAT",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Boğa güreşçisi",
+      "answer": "MATADOR",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Omuzdan ele uzanan",
-      "answer": "KOL",
+      "text": "Odun kırıntısı",
+      "answer": "TALAŞ",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Tarım işletmesi",
-      "answer": "ÇİFTLİK",
-      "row": 4,
-      "col": 0,
+      "text": "Kahve türü",
+      "answer": "MOKA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İleti",
+      "answer": "MESAJ",
+      "row": 5,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Oruç açma",
-      "answer": "İFTAR",
+      "text": "Evcil olmayan",
+      "answer": "YABANİ",
       "row": 6,
-      "col": 2,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Taşkınlık",
-      "answer": "İFRAT",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ekin sapı",
-      "answer": "ANIZ",
+      "text": "Mekân; zemin",
+      "answer": "YER",
       "row": 8,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Koruma emeği",
-      "answer": "BAKIM",
+      "text": "Boksta yıkılış",
+      "answer": "NAKAVT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yaban güvercini",
-      "answer": "ÜVEYİK",
+      "text": "Sahne oyunu",
+      "answer": "DRAM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çalışan, faal",
-      "answer": "AKTİF",
-      "row": 2,
+      "text": "Kabartma maddesi",
+      "answer": "MAYA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeni doğan",
+      "answer": "BEBEK",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Maçın oynandığı yapı",
+      "answer": "STAT",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "74 numaralı element",
-      "answer": "VOLFRAM",
-      "row": 2,
+      "text": "Tutarık hastalığı",
+      "answer": "SARA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Nüfuzlu kimse",
+      "answer": "KODAMAN",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eylemci savunucu",
-      "answer": "MİLİTAN",
-      "row": 1,
+      "text": "Çevre bilimi",
+      "answer": "EKOLOJİ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ekmek yiyeceği",
-      "answer": "KATIK",
-      "row": 4,
+      "text": "Tarama aracı",
+      "answer": "TARAK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tasavvuf ehli",
-      "answer": "SUFİ",
-      "row": 0,
+      "text": "Kişi",
+      "answer": "ŞAHIS",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -106,73 +134,57 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 6
+      "row": 4,
+      "col": 0
     },
     {
       "row": 5,
-      "col": 7
+      "col": 0
     },
     {
       "row": 6,
-      "col": 0
+      "col": 6
     },
     {
       "row": 7,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 7
+      "col": 6
     },
     {
       "row": 8,
-      "col": 1
+      "col": 4
     },
     {
       "row": 8,
-      "col": 2
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
-      "col": 5
+      "col": 6
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 194
+  "difficulty": "orta",
+  "order": 140
 }

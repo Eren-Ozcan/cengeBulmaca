@@ -1,132 +1,139 @@
 {
   "id": "puzzle-293",
-  "title": "Bulmaca 166",
+  "title": "Bulmaca 31",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Doktrin",
-      "answer": "ÖĞRETİ",
+      "text": "Aksan",
+      "answer": "VURGU",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Akış hâli",
-      "answer": "AKMA",
+      "text": "Simgesel anlatım",
+      "answer": "FORMÜL",
       "row": 2,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Beyaz kokulu çiçek",
-      "answer": "ZAMBAK",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Adalet, hukuk",
-      "answer": "HAK",
-      "row": 3,
+      "text": "Gönül rahatlığı",
+      "answer": "HUZUR",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tarak yapılan kabuk",
-      "answer": "BAĞA",
+      "text": "Dükkân kapağı",
+      "answer": "KEPENK",
       "row": 4,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İşitme organı",
-      "answer": "KULAK",
-      "row": 5,
+      "text": "Su hareketi",
+      "answer": "DALGA",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sarı peynir",
-      "answer": "KAŞAR",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "İşten anlayan",
+      "answer": "ERBAP",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Yırtıcı masal yaratığı",
-      "answer": "CANAVAR",
-      "row": 7,
+      "text": "Gri renk",
+      "answer": "KURŞUNİ",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sahil",
-      "answer": "KIYI",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kitap satan",
-      "answer": "KİTAPÇI",
+      "text": "Açık bölüm",
+      "answer": "TERAS",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ufak ada",
-      "answer": "ADACIK",
-      "row": 3,
+      "text": "Gök-yer çizgisi",
+      "answer": "UFUK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Nasip, azık",
-      "answer": "RIZK",
+      "text": "Ön karşıtı",
+      "answer": "ARKA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaka simgesi",
+      "answer": "ROZET",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yaygınlaşmış haber",
-      "answer": "ŞAYİ",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğruluk belgesi",
-      "answer": "KANIT",
-      "row": 4,
+      "text": "Küme",
+      "answer": "GRUP",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Halk müziği çalgısı",
-      "answer": "TAMBURA",
+      "text": "Sıkıntı, üzüntü",
+      "answer": "DERT",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yılın her günü yapılan",
+      "answer": "UMRE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Makama erişme",
-      "answer": "İKBAL",
-      "row": 0,
+      "text": "Keman yayı",
+      "answer": "ARŞE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hırdavatçı",
+      "answer": "NALBUR",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Büyük dükkân",
-      "answer": "MAĞAZA",
-      "row": 1,
+      "text": "Gramofon diski",
+      "answer": "PLAK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Göz-kulak arası",
-      "answer": "ŞAKAK",
-      "row": 0,
+      "text": "Batı Afrika ülkesi",
+      "answer": "GANA",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Cezaevi, tutukluluk",
+      "answer": "HAPİS",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -134,49 +141,45 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 5
     },
     {
       "row": 0,
-      "col": 3
+      "col": 7
     },
     {
-      "row": 0,
-      "col": 6
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
-      "row": 2,
-      "col": 1
-    },
-    {
       "row": 6,
-      "col": 5
+      "col": 0
     },
     {
-      "row": 6,
-      "col": 7
+      "row": 7,
+      "col": 0
     },
     {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 7
+      "row": 9,
+      "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 166
+  "difficulty": "kolay",
+  "order": 31
 }

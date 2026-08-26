@@ -1,131 +1,124 @@
 {
   "id": "puzzle-287",
-  "title": "Bulmaca 173",
+  "title": "Bulmaca 28",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Dış satım",
-      "answer": "İHRACAT",
+      "text": "Sayma işi",
+      "answer": "SAYIM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Oksit tabakası",
-      "answer": "PAS",
+      "text": "Gücü yetmeyen, güçsüz",
+      "answer": "ACİZ",
       "row": 2,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Polonya'nın başkenti",
-      "answer": "VARŞOVA",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Devrim ayaklanması",
-      "answer": "İHTİLAL",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Şehir",
-      "answer": "KENT",
-      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Aykırılık bağlacı",
-      "answer": "FAKAT",
-      "row": 5,
+      "text": "Süslü seramik",
+      "answer": "ÇİNİ",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yatak başı dolabı",
+      "answer": "KOMODİN",
+      "row": 3,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Zurnalı oyun",
-      "answer": "HALAY",
+      "text": "Bisiklet koltuğu",
+      "answer": "SELE",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sezme yeteneği",
+      "answer": "SEZGİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Devlet çalışanı",
+      "answer": "MEMUR",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Erkeğin eşi",
-      "answer": "ZEVCE",
+      "text": "Kullanım ücreti",
+      "answer": "KİRA",
       "row": 8,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Üstün bilgili",
-      "answer": "ÜSTAT",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Sırt çıkıntısı",
+      "answer": "KAMBUR",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Kapsayan",
-      "answer": "HAVİ",
-      "row": 0,
+      "text": "Toprak parçası",
+      "answer": "KESEK",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kaba güldürü",
-      "answer": "FARS",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Durumlar, haller, vaziyetler",
-      "answer": "AHVAL",
+      "text": "Söz dalaşı",
+      "answer": "POLEMİK",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ana atardamar",
-      "answer": "AORT",
+      "text": "Terzi şeridi",
+      "answer": "MEZURA",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Abartan erkek",
+      "answer": "MAÇO",
       "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İstemsiz olay",
-      "answer": "KAZA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yakınma",
-      "answer": "ŞİKAYET",
-      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Omuzdaki rütbe",
-      "answer": "APOLET",
-      "row": 0,
+      "text": "Küçük ağırlık birimi",
+      "answer": "GRAM",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Şaka olmayan",
+      "answer": "CİDDİ",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Oda üstü",
-      "answer": "TAVAN",
+      "text": "Yemek tepsisi",
+      "answer": "SİNİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Havada dönme",
-      "answer": "SALTO",
+      "text": "Halkalı bağ",
+      "answer": "ZİNCİR",
       "row": 1,
       "col": 7,
       "arrow": "down"
@@ -134,11 +127,19 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 4
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
     },
     {
       "row": 0,
@@ -149,8 +150,16 @@
       "col": 0
     },
     {
-      "row": 5,
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 3,
       "col": 0
+    },
+    {
+      "row": 5,
+      "col": 6
     },
     {
       "row": 6,
@@ -165,22 +174,22 @@
       "col": 6
     },
     {
-      "row": 7,
-      "col": 7
-    },
-    {
-      "row": 9,
+      "row": 8,
       "col": 5
     },
     {
-      "row": 9,
+      "row": 8,
       "col": 6
     },
     {
-      "row": 9,
+      "row": 8,
       "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 173
+  "difficulty": "kolay",
+  "order": 28
 }

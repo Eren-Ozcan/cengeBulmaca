@@ -1,118 +1,132 @@
 {
   "id": "puzzle-266",
-  "title": "Bulmaca 148",
+  "title": "Bulmaca 61",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Çalışma çizelgesi",
-      "answer": "PUANTAJ",
+      "text": "Kan kanseri",
+      "answer": "LÖKOZ",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Üzüm yeri",
+      "answer": "BAĞ",
       "row": 1,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kızartma kabı",
+      "answer": "TAVA",
+      "row": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Düstur",
-      "answer": "ŞİAR",
-      "row": 2,
+      "text": "Geniş, açık",
+      "answer": "FERAH",
+      "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Laf",
-      "answer": "LAKIRTI",
-      "row": 2,
+      "text": "Yıkıntı",
+      "answer": "HARABE",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dizilmiş meyve",
-      "answer": "HEVENK",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kavga arayan",
-      "answer": "KAVGACI",
-      "row": 6,
+      "text": "Hamur parçası",
+      "answer": "BEZE",
+      "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kılıç sporu",
-      "answer": "ESKRİM",
-      "row": 6,
+      "text": "Mısır'ın başkenti",
+      "answer": "KAHİRE",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Söz kesme",
-      "answer": "NİŞAN",
+      "text": "Şuur",
+      "answer": "BİLİNÇ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yardım parası",
+      "answer": "İANE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kavimle ilgili",
+      "answer": "ETNİK",
       "row": 9,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bölen çizgi",
-      "answer": "EKSEN",
-      "row": 4,
+      "text": "Ata, dede",
+      "answer": "AĞABABA",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Uzun boylu ağaç",
-      "answer": "KAVAK",
-      "row": 2,
+      "text": "Tutulan kimse",
+      "answer": "REHİNE",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Koruyucu uygulama",
-      "answer": "AŞI",
-      "row": 0,
+      "text": "Erdem",
+      "answer": "FAZİLET",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kâinat",
-      "answer": "EVREN",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Üçgenleme noktası",
-      "answer": "NİRENGİ",
+      "text": "Ufak tefek şey",
+      "answer": "ÖTEBERİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Lezzet",
-      "answer": "TAT",
+      "text": "Kenarları eşit dörtgen",
+      "answer": "KARE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sulak bitki",
-      "answer": "KAMIŞ",
-      "row": 4,
+      "text": "Geniş",
+      "answer": "ENLİ",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sonradan ortaya çıkan",
-      "answer": "ARIZ",
+      "text": "Verimli düzlük",
+      "answer": "OVA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kış mevsiminde",
-      "answer": "KIŞIN",
-      "row": 4,
+      "text": "Sıkıntı, güçlük",
+      "answer": "ZAHMET",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -132,35 +146,23 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 3
     },
     {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 7
+      "row": 4,
+      "col": 6
     },
     {
       "row": 5,
       "col": 6
     },
     {
-      "row": 7,
+      "row": 6,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 2
+      "row": 7,
+      "col": 7
     },
     {
       "row": 8,
@@ -171,10 +173,18 @@
       "col": 6
     },
     {
+      "row": 8,
+      "col": 7
+    },
+    {
       "row": 9,
       "col": 0
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 148
+  "difficulty": "kolay",
+  "order": 61
 }

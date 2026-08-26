@@ -5,128 +5,135 @@
   "cols": 8,
   "clues": [
     {
-      "text": "Yakalama tuzağı",
-      "answer": "KAPAN",
+      "text": "Matem",
+      "answer": "YAS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İstek duygusu",
-      "answer": "HEVES",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Görkem",
-      "answer": "İHTİŞAM",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Raket sporu",
-      "answer": "TENİS",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Göğün katı",
-      "answer": "ARŞ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Diyarbakır ilçesi",
-      "answer": "LİCE",
-      "row": 5,
+      "text": "Hindistan'da sınıf",
+      "answer": "KAST",
+      "row": 1,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Karakter yapısı",
-      "answer": "KİŞİLİK",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Koruyucu, kayıran",
-      "answer": "HAMİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Deli, kaçık",
-      "answer": "DİVANE",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Başka, öteki, diğer",
-      "answer": "SAİR",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Soğuk giysisi",
-      "answer": "HIRKA",
+      "text": "İç giysisi",
+      "answer": "KORSE",
       "row": 2,
       "col": 1,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Şu anda",
-      "answer": "ŞİMDİ",
-      "row": 4,
+      "text": "Zafer",
+      "answer": "UTKU",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Göz yanılması",
+      "answer": "SERAP",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sevimli",
+      "answer": "ŞİRİN",
+      "row": 5,
       "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Karakter",
+      "answer": "SECİYE",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kök sebzesi",
+      "answer": "KEREVİZ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski dilde içinde",
+      "answer": "İÇRE",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saygı gösterme",
+      "answer": "İHTİRAM",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bedeniyle çalışan",
+      "answer": "EMEKÇİ",
+      "row": 3,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yemin, ant",
-      "answer": "AHİT",
+      "text": "Maç sonucu",
+      "answer": "SKOR",
       "row": 0,
-      "col": 3,
+      "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Manzum yapıt",
-      "answer": "ŞİİR",
+      "text": "İddia çürütme",
+      "answer": "CERH",
       "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Oymak, kabile",
+      "answer": "AŞİRET",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Keyifli",
-      "answer": "NEŞELİ",
+      "text": "Kumarhane görevlisi",
+      "answer": "KRUPİYE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tatlı kokusu",
-      "answer": "VANİLYA",
-      "row": 1,
+      "text": "Alt görevli",
+      "answer": "AST",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Denizci",
-      "answer": "GEMİCİ",
+      "text": "Hasta bölümü",
+      "answer": "REVİR",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Cinsel çekicilik",
+      "answer": "SEKSİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yetmiş dokuzdan sonra",
-      "answer": "SEKSEN",
-      "row": 3,
+      "text": "Ölçülü şiir",
+      "answer": "NAZIM",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -138,38 +145,30 @@
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 5
+      "col": 3
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
       "col": 7
     },
     {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
+      "row": 6,
       "col": 6
     },
     {
-      "row": 9,
+      "row": 8,
       "col": 4
     },
     {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
+      "row": 8,
       "col": 6
     }
   ],

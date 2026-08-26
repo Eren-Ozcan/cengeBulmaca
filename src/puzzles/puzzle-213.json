@@ -1,6 +1,6 @@
 {
   "id": "puzzle-213",
-  "title": "Bulmaca 88",
+  "title": "Bulmaca 60",
   "rows": 10,
   "cols": 8,
   "clues": [
@@ -124,7 +124,7 @@
       "arrow": "down"
     },
     {
-      "text": "Parlayan, ışıldayan",
+      "text": "Parıltılı",
       "answer": "IŞIL",
       "row": 0,
       "col": 6,
@@ -176,6 +176,6 @@
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 88
+  "difficulty": "kolay",
+  "order": 60
 }

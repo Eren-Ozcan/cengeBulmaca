@@ -1,139 +1,125 @@
 {
   "id": "puzzle-291",
-  "title": "Bulmaca 138",
+  "title": "Bulmaca 100",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Sadık hayvan",
-      "answer": "KÖPEK",
+      "text": "Koloni",
+      "answer": "SÖMÜRGE",
       "row": 0,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Din uğruna savaş",
-      "answer": "GAZA",
+      "text": "Ses (eski dilde)",
+      "answer": "SEDA",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mağlubiyet",
-      "answer": "YENİLGİ",
+      "text": "Post giysisi",
+      "answer": "KÜRK",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Pistonlu boru",
-      "answer": "TROMPET",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Anıtsal kapı",
-      "answer": "TAK",
-      "row": 4,
+      "text": "Et suyu çorbası",
+      "answer": "KONSOME",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yergi, taşlama",
-      "answer": "HİCİV",
+      "text": "Yaban köpeği",
+      "answer": "KURT",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kandil yazısı",
+      "answer": "MAHYA",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Gerçek, hakiki",
-      "answer": "SAHİCİ",
+      "text": "Rütbeli asker",
+      "answer": "ERBAŞ",
       "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kozalaklı ağaç",
-      "answer": "LADİN",
-      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kayık türü",
-      "answer": "TEKNE",
-      "row": 9,
+      "text": "Başvuru yeri",
+      "answer": "MERCİ",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İnce sicim",
-      "answer": "KAYTAN",
+      "text": "Zırhlı kule",
+      "answer": "TARET",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Dev Kaliforniya ağacı",
+      "answer": "SEKOYA",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kendi yöneten",
-      "answer": "ÖZERK",
+      "text": "Taviz",
+      "answer": "ÖDÜN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Duyuru tahtası",
-      "answer": "PANO",
+      "text": "Kızıl gezegen",
+      "answer": "MARS",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ülke insanları",
-      "answer": "HALK",
+      "text": "Güvenilir, dürüst",
+      "answer": "MERT",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sınav",
-      "answer": "İMTİHAN",
+      "text": "Pis kokulu hayvan",
+      "answer": "KOKARCA",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kap tutamağı",
-      "answer": "KULP",
-      "row": 0,
+      "text": "İhbarcı",
+      "answer": "MUHBİR",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kastamonu ilçesi",
-      "answer": "CİDE",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalıcı olmayan",
-      "answer": "GEÇİCİ",
+      "text": "Deniz, umman",
+      "answer": "DERYA",
       "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Umut",
-      "answer": "ÜMİT",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Yük kaldırma",
-      "answer": "VİNÇ",
-      "row": 5,
+      "text": "Taşıma aracı",
+      "answer": "TAŞIT",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -149,11 +135,35 @@
     },
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 2
     },
     {
       "row": 6,
@@ -164,18 +174,22 @@
       "col": 0
     },
     {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
+      "row": 7,
       "col": 1
     },
     {
-      "row": 9,
+      "row": 8,
       "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
     }
   ],
   "difficulty": "orta",
-  "order": 138
+  "order": 100
 }

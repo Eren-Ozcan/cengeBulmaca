@@ -1,132 +1,139 @@
 {
   "id": "puzzle-290",
-  "title": "Bulmaca 169",
+  "title": "Bulmaca 78",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yangı",
-      "answer": "İLTİHAP",
+      "text": "Perşembeden sonraki gün",
+      "answer": "CUMA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yağlı merhem",
-      "answer": "POMAT",
+      "text": "Ödünç para",
+      "answer": "KREDİ",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Geniş, açık",
-      "answer": "FERAH",
+      "text": "Locaya bağlı kimse",
+      "answer": "MASON",
       "row": 3,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yün giysi",
-      "answer": "KAZAK",
+      "text": "Köpek emri",
+      "answer": "APORT",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kadar, değin",
-      "answer": "DEK",
-      "row": 4,
-      "col": 0,
+      "text": "Sık dokuma bez",
+      "answer": "PATİSKA",
+      "row": 5,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Alternatif",
-      "answer": "SEÇENEK",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Örnek",
-      "answer": "MİSAL",
+      "text": "Koruma, kayırma",
+      "answer": "HİMAYE",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Büyüklenen",
-      "answer": "KİBİRLİ",
+      "text": "Onur",
+      "answer": "ŞEREF",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Güç, derman",
-      "answer": "TAKAT",
+      "text": "Armağan levhası",
+      "answer": "ŞİLT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Belge",
-      "answer": "VESİKA",
-      "row": 3,
+      "text": "Ucu olan",
+      "answer": "UÇLU",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kesilmiş olan",
-      "answer": "KESİK",
+      "text": "Kızartılmış hamur",
+      "answer": "PİŞİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Mikroskop camı",
+      "answer": "LAMEL",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Koza ipliği",
-      "answer": "İPEK",
+      "text": "Akış hâli",
+      "answer": "AKMA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gayret",
-      "answer": "ÇABA",
+      "text": "Meyveli pasta",
+      "answer": "TART",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Balkan oyunu",
-      "answer": "HORA",
-      "row": 0,
+      "text": "Geniş başlı çivi",
+      "answer": "RAPTİYE",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ayrıcalıklı kesim",
-      "answer": "ELİT",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Savaşçı kadın",
-      "answer": "AMAZON",
+      "text": "Amerika parası",
+      "answer": "PESO",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Değer, fiyat",
-      "answer": "PAHA",
-      "row": 0,
+      "text": "Keyifli hâl",
+      "answer": "SEFA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Zirve noktası",
+      "answer": "DORUK",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Avlanan dağ kuşu",
-      "answer": "KEKLİK",
-      "row": 3,
+      "text": "Zevk düşkünü",
+      "answer": "RİNT",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Sonradan ortaya çıkan",
+      "answer": "ARIZ",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -134,53 +141,49 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 7
+      "col": 4
     },
     {
-      "row": 1,
-      "col": 7
+      "row": 0,
+      "col": 6
     },
     {
       "row": 2,
       "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
     },
     {
       "row": 3,
       "col": 0
     },
     {
+      "row": 4,
+      "col": 0
+    },
+    {
       "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
       "col": 6
     },
     {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
+      "row": 8,
       "col": 6
     },
     {
       "row": 9,
-      "col": 5
+      "col": 4
     },
     {
       "row": 9,
       "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 169
+  "difficulty": "kolay",
+  "order": 78
 }

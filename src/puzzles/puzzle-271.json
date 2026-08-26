@@ -1,124 +1,131 @@
 {
   "id": "puzzle-271",
-  "title": "Bulmaca 174",
+  "title": "Bulmaca 68",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Tiz ses",
-      "answer": "ISLIK",
+      "text": "Züğürt",
+      "answer": "FUKARA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Metal kızgınlığı",
-      "answer": "TAV",
+      "text": "Sarı, tüylü meyve",
+      "answer": "AYVA",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tahta ayakkabı",
-      "answer": "SABO",
-      "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Düşünme organı",
-      "answer": "BEYİN",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Vahşi hayvan gezisi",
-      "answer": "SAFARİ",
-      "row": 5,
+      "text": "Kaçık",
+      "answer": "MANYAK",
+      "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Görüşme",
-      "answer": "MÜLAKAT",
-      "row": 6,
+      "text": "Mezar üstü tabut",
+      "answer": "SANDUKA",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İri maymun",
-      "answer": "GORİL",
-      "row": 6,
+      "text": "Çizgili kedi",
+      "answer": "TEKİR",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Belge saklama",
+      "answer": "ARŞİV",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tel kadayıf tatlısı",
-      "answer": "KÜNEFE",
-      "row": 8,
+      "text": "Bitki toprağı",
+      "answer": "HUMUS",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Evlenen erkek, güveyi",
-      "answer": "DAMAT",
-      "row": 8,
+      "text": "Şarkı topluluğu",
+      "answer": "KORO",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İstenmeyen ileti",
-      "answer": "SPAM",
+      "text": "Ünlü, şerefli",
+      "answer": "ŞANLI",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Pozitif bilim",
+      "answer": "FEN",
       "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "İçkili kimse",
+      "answer": "SARHOŞ",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kahve türü",
-      "answer": "MOKA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Satış oranı",
-      "answer": "SÜRÜM",
-      "row": 4,
+      "text": "Bilinç kaybı",
+      "answer": "KOMA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dev deniz memelisi",
-      "answer": "BALİNA",
-      "row": 3,
+      "text": "Danışma kurulu",
+      "answer": "ŞURA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "51 numaralı element",
+      "answer": "ANTİMON",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yoksulluk",
-      "answer": "SEFALET",
-      "row": 2,
+      "text": "Buluşma sözü",
+      "answer": "RANDEVU",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kötek",
-      "answer": "DAYAK",
-      "row": 1,
+      "text": "Gök zirvesi",
+      "answer": "AYYUK",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Erkek kardeş",
-      "answer": "BİRADER",
-      "row": 2,
+      "text": "Gerçekleşmiş olan",
+      "answer": "VAKİ",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sert kauçuk",
-      "answer": "EBONİT",
+      "text": "Onur kırma",
+      "answer": "HAKARET",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -127,7 +134,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
@@ -135,43 +142,35 @@
     },
     {
       "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
       "col": 4
     },
     {
-      "row": 0,
+      "row": 8,
       "col": 5
     },
     {
-      "row": 0,
+      "row": 8,
       "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
-      "col": 3
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 7
     },
     {
       "row": 8,
@@ -179,13 +178,13 @@
     },
     {
       "row": 9,
-      "col": 5
+      "col": 6
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 174
+  "difficulty": "kolay",
+  "order": 68
 }

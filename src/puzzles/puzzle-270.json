@@ -1,139 +1,132 @@
 {
   "id": "puzzle-270",
-  "title": "Bulmaca 62",
+  "title": "Bulmaca 110",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kasır",
-      "answer": "KÖŞK",
+      "text": "Görme ile",
+      "answer": "OPTİK",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İnci çiçeği",
-      "answer": "MÜGE",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Boş yere",
-      "answer": "BEYHUDE",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kötü, alçak, soysuz",
-      "answer": "HABİS",
-      "row": 4,
+      "text": "Hak kazanmış",
+      "answer": "LAYIK",
+      "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yaban köpeği",
-      "answer": "KURT",
+      "text": "Kan kanalı",
+      "answer": "DAMAR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bildik",
+      "answer": "TANIDIK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tarikat kurucusu",
+      "answer": "PİR",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kafka romanı",
+      "answer": "ŞATO",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Haber toplayan",
-      "answer": "MUHABİR",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Satış belgesi",
-      "answer": "FATURA",
+      "text": "Zor dışkılama",
+      "answer": "KABIZ",
       "row": 6,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kopya",
-      "answer": "SURET",
-      "row": 8,
-      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zaman",
-      "answer": "VAKİT",
-      "row": 8,
+      "text": "Öneri",
+      "answer": "TEKLİF",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Küçük ışık",
+      "answer": "SPOT",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Karayipler'de ada ülkesi",
-      "answer": "KÜBA",
+      "text": "İyilikbilmez",
+      "answer": "NANKÖR",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kullanışlı",
+      "answer": "PRATİK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çalışma mobilyası",
-      "answer": "MASA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Parça, unsur",
-      "answer": "ÖGE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Rahat konuşamayan",
-      "answer": "TUTUK",
-      "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tarikat lideri",
-      "answer": "ŞEYH",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Cennet kızı",
-      "answer": "HURİ",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Onur kırma",
-      "answer": "HAKARET",
+      "text": "Uzun yol koşusu",
+      "answer": "MARATON",
       "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Duyuru",
+      "answer": "İLAN",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İkinci Yunan harfi",
+      "answer": "BETA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Düzensiz, karma",
+      "answer": "KARIŞIK",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tahıl",
-      "answer": "HUBUBAT",
-      "row": 1,
+      "text": "Saçsız kafa",
+      "answer": "DAZLAK",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ölü karşıtı",
-      "answer": "DİRİ",
-      "row": 2,
+      "text": "Sınırlama",
+      "answer": "KISIT",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Orkestra şefi",
-      "answer": "MAESTRO",
-      "row": 0,
+      "text": "Maddi rahatlık",
+      "answer": "KONFOR",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -141,11 +134,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 4
+      "col": 2
     },
     {
       "row": 0,
@@ -153,45 +142,33 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
       "col": 5
     },
     {
-      "row": 9,
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
       "col": 6
     },
     {
       "row": 9,
-      "col": 7
+      "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 62
+  "difficulty": "orta",
+  "order": 110
 }

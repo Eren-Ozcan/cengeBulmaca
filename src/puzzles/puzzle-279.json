@@ -1,139 +1,118 @@
 {
   "id": "puzzle-279",
-  "title": "Bulmaca 51",
+  "title": "Bulmaca 174",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Gülmece",
-      "answer": "MİZAH",
+      "text": "Salgın soğuk algınlığı",
+      "answer": "GRİP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "'Ben'in yönelme hâli",
-      "answer": "BANA",
-      "row": 2,
+      "text": "Tütün rengi",
+      "answer": "TABA",
+      "row": 1,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Lifli halat bitkisi",
+      "answer": "KENEVİR",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Göze çarpan parlaklık",
-      "answer": "PARILTI",
-      "row": 2,
+      "text": "Namaz topluluğu",
+      "answer": "CEMAAT",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kısa gezi",
+      "answer": "GEZİNTİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Türk hükümdarı",
+      "answer": "HAKAN",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yazı makinesi",
-      "answer": "DAKTİLO",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mekân; zemin",
-      "answer": "YER",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Taze karşıtı",
-      "answer": "BAYAT",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Peynirli hamur işi",
-      "answer": "POĞAÇA",
+      "text": "Kavrulan bitki",
+      "answer": "KAHVE",
       "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yıkma işi",
-      "answer": "YIKIM",
-      "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sigara artığı",
-      "answer": "İZMARİT",
-      "row": 8,
+      "text": "Naylon torba",
+      "answer": "POŞET",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tapınma",
-      "answer": "İBADET",
-      "row": 0,
+      "text": "Gazlı içecek",
+      "answer": "GAZOZ",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ziyan",
-      "answer": "ZARAR",
+      "text": "Meşrubat",
+      "answer": "İÇECEK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hazır, amade",
-      "answer": "ANIK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Renklendirme maddesi",
-      "answer": "BOYA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yakışıksız davranış",
-      "answer": "HALT",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Hafif karşıtı",
-      "answer": "AĞIR",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Bağımlı, düşkün",
-      "answer": "TİRYAKİ",
+      "text": "Kibarlık",
+      "answer": "NEZAKET",
       "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Güvence",
+      "answer": "TEMİNAT",
+      "row": 1,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yağsız, sade",
+      "answer": "YAVAN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Parıltılı",
-      "answer": "IŞIL",
+      "text": "Yönetici itaati",
+      "answer": "BİAT",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Güç birimi",
+      "answer": "VAT",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Siyasal topluluk",
+      "answer": "PARTİ",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kapı, pencere açıklığı",
-      "answer": "AÇIT",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Koşullar bütünü",
-      "answer": "ORTAM",
-      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -141,41 +120,69 @@
   "blocks": [
     {
       "row": 0,
-      "col": 5
+      "col": 1
     },
     {
       "row": 0,
-      "col": 7
+      "col": 3
     },
     {
-      "row": 1,
-      "col": 5
+      "row": 0,
+      "col": 4
     },
     {
-      "row": 1,
-      "col": 7
+      "row": 0,
+      "col": 6
     },
     {
       "row": 2,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 4,
+      "col": 0
     },
     {
       "row": 6,
-      "col": 0
+      "col": 5
     },
     {
-      "row": 7,
-      "col": 0
+      "row": 6,
+      "col": 7
     },
     {
       "row": 8,
-      "col": 1
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 2
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 51
+  "difficulty": "zor",
+  "order": 174
 }

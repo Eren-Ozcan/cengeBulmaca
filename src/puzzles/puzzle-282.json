@@ -1,117 +1,103 @@
 {
   "id": "puzzle-282",
-  "title": "Bulmaca 177",
+  "title": "Bulmaca 200",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Caz çalıcısı",
-      "answer": "CAZCI",
-      "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kızartılmış hamur",
-      "answer": "PİŞİ",
+      "text": "Bağnaz kimse",
+      "answer": "YOBAZ",
       "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sonunda",
-      "answer": "NİHAYET",
-      "row": 3,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yer çizimi",
-      "answer": "HARİTA",
+      "text": "Makama erişme",
+      "answer": "İKBAL",
       "row": 3,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Senato üyesi",
-      "answer": "SENATÖR",
+      "text": "Sağın karşıtı",
+      "answer": "SOL",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çalışma tasarısı",
+      "answer": "PROJE",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Estetik",
+      "answer": "BEDİİ",
       "row": 5,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Duvar harcı",
-      "answer": "SIVA",
-      "row": 6,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Dökme işi",
-      "answer": "DÖKÜM",
+      "text": "Eşya deposu",
+      "answer": "ARDİYE",
       "row": 7,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Taraf, kenar",
-      "answer": "YAN",
+      "text": "Portekiz şarabı",
+      "answer": "PORTO",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Süt satıcısı",
-      "answer": "SÜTÇÜ",
+      "text": "Kişi resmi",
+      "answer": "PORTRE",
       "row": 9,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Kelime oyunu",
-      "answer": "CİNAS",
+      "text": "Çok konuşan",
+      "answer": "GEVEZE",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Oymak, kabile",
-      "answer": "AŞİRET",
-      "row": 0,
+      "text": "Dövme, vurma",
+      "answer": "DARP",
+      "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Düşünme yetisi",
-      "answer": "ZİHİN",
-      "row": 0,
+      "text": "Alkol",
+      "answer": "İSPİRTO",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Halk deyişi",
-      "answer": "ATASÖZÜ",
+      "text": "Geçit yolu",
+      "answer": "KORİDOR",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eğik durumda",
-      "answer": "YATIK",
-      "row": 2,
+      "text": "Süs eşyası",
+      "answer": "BİBLO",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Başarı gururu",
-      "answer": "ÖVÜNÇ",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Saygı gösterme",
-      "answer": "İHTİRAM",
+      "text": "Deprem",
+      "answer": "ZELZELE",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -124,11 +110,15 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 2
     },
     {
       "row": 0,
-      "col": 5
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
     },
     {
       "row": 0,
@@ -136,31 +126,47 @@
     },
     {
       "row": 1,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 2
     },
     {
       "row": 2,
       "col": 6
     },
     {
-      "row": 6,
+      "row": 3,
       "col": 0
     },
     {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
       "row": 6,
-      "col": 1
+      "col": 5
     },
     {
-      "row": 7,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 3
+      "row": 6,
+      "col": 6
     },
     {
       "row": 8,
       "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 8,
@@ -169,12 +175,8 @@
     {
       "row": 9,
       "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
     }
   ],
   "difficulty": "zor",
-  "order": 177
+  "order": 200
 }

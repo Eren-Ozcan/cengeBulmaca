@@ -1,6 +1,6 @@
 {
   "id": "puzzle-54",
-  "title": "Bulmaca 124",
+  "title": "Bulmaca 53",
   "rows": 10,
   "cols": 8,
   "clues": [
@@ -12,7 +12,7 @@
       "arrow": "down-right"
     },
     {
-      "text": "Avcının kısmeti",
+      "text": "Vurulan hayvan",
       "answer": "AV",
       "row": 1,
       "col": 5,
@@ -180,6 +180,6 @@
       "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 124
+  "difficulty": "kolay",
+  "order": 53
 }

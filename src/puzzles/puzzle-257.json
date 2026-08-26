@@ -1,146 +1,139 @@
 {
   "id": "puzzle-257",
-  "title": "Bulmaca 29",
+  "title": "Bulmaca 99",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Çöl göçebesi",
-      "answer": "BEDEVİ",
-      "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Diyelim ki",
-      "answer": "FARAZA",
+      "text": "Kırmızı sebze",
+      "answer": "DOMATES",
       "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Öksürük hastalığı",
-      "answer": "BOĞMACA",
+      "text": "Yaş karşıtı",
+      "answer": "KURU",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Görkemli, büyük",
+      "answer": "MUAZZAM",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Huy",
-      "answer": "HASLET",
+      "text": "Vana",
+      "answer": "VALF",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Polis sopası",
-      "answer": "COP",
+      "text": "İtici neden",
+      "answer": "SAİK",
+      "row": 4,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ön taraf",
+      "answer": "CEPHE",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yok etme",
-      "answer": "İMHA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Küba dansı",
-      "answer": "RUMBA",
+      "text": "Uyma",
+      "answer": "RİAYET",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Askerî hücum",
-      "answer": "TAARRUZ",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tehditle çıkar sağlama",
-      "answer": "ŞANTAJ",
-      "row": 8,
+      "text": "Teli olan",
+      "answer": "TELLİ",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Erkek ebeveyn",
-      "answer": "BABA",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
+      "text": "Yineleme",
+      "answer": "TEKRAR",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Merkez nokta",
-      "answer": "ORTA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yunan aşk tanrısı",
-      "answer": "EROS",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Başarı sayısı",
-      "answer": "PUAN",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Dağ halkından",
-      "answer": "DAĞLI",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Satrançta yenilgi",
-      "answer": "MAT",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ezerek yapılan yiyecek",
-      "answer": "EZME",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Borçtan aklama",
-      "answer": "İBRA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Verilen söz",
-      "answer": "VAAT",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kenar boşluğu",
-      "answer": "MARJ",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Eskil söz kullanımı",
-      "answer": "ARKAİZM",
+      "text": "Özür",
+      "answer": "MAZERET",
       "row": 2,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Öğretim kurumu",
+      "answer": "OKUL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kumaş kıvrımı",
+      "answer": "PİLE",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yükümlülük dışı",
+      "answer": "MUAF",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Ülke insanları",
+      "answer": "HALK",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Piyasaya sürme",
+      "answer": "ARZ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Gidiş, ilerleyiş",
+      "answer": "SEYİR",
+      "row": 4,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tuz üretimi",
+      "answer": "TUZLA",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Oruç açma",
+      "answer": "İFTAR",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ekşi baharat",
+      "answer": "SUMAK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -152,37 +145,45 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 1
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
     },
     {
-      "row": 1,
-      "col": 7
+      "row": 2,
+      "col": 0
     },
     {
       "row": 2,
       "col": 6
     },
     {
-      "row": 4,
-      "col": 6
+      "row": 6,
+      "col": 5
     },
     {
-      "row": 5,
-      "col": 6
+      "row": 6,
+      "col": 7
     },
     {
       "row": 7,
-      "col": 6
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 6
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 29
+  "difficulty": "orta",
+  "order": 99
 }

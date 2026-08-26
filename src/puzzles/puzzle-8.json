@@ -1,6 +1,6 @@
 {
   "id": "puzzle-8",
-  "title": "Bulmaca 40",
+  "title": "Bulmaca 91",
   "rows": 10,
   "cols": 8,
   "clues": [
@@ -19,7 +19,7 @@
       "arrow": "down-right"
     },
     {
-      "text": "Güçlü inanç",
+      "text": "Güven duyma",
       "answer": "İNAN",
       "row": 2,
       "col": 1,
@@ -190,6 +190,6 @@
       "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 40
+  "difficulty": "orta",
+  "order": 91
 }

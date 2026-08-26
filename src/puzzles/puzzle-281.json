@@ -1,139 +1,139 @@
 {
   "id": "puzzle-281",
-  "title": "Bulmaca 59",
+  "title": "Bulmaca 117",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Silindir tavan",
-      "answer": "TONOZ",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Adını belirterek",
-      "answer": "İSMEN",
-      "row": 1,
+      "text": "Efsane, söylence, mit",
+      "answer": "MİTOS",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İçme miktarı",
-      "answer": "YUDUM",
-      "row": 3,
-      "col": 2,
+      "text": "Nakliyat",
+      "answer": "ULAŞIM",
+      "row": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İnce kadın sesi",
-      "answer": "SOPRANO",
+      "text": "Yasa",
+      "answer": "KANUN",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mikstür",
+      "answer": "KARIŞIM",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ayakyolu",
-      "answer": "TUVALET",
+      "text": "İnatçı hayvan",
+      "answer": "KEÇİ",
       "row": 5,
-      "col": 1,
-      "arrow": "down-right"
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "En yüksek rütbe",
-      "answer": "MAREŞAL",
-      "row": 6,
+      "text": "Ağrılı deri hastalığı",
+      "answer": "ZONA",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Balık tutan kimse",
-      "answer": "BALIKÇI",
-      "row": 8,
+      "text": "Ezgi bütünü",
+      "answer": "BESTE",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zamanında olan",
-      "answer": "DAKİK",
-      "row": 8,
+      "text": "İnce yün",
+      "answer": "KAŞMİR",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Su buharı",
-      "answer": "SİS",
-      "row": 1,
+      "text": "Sallanan barfiks",
+      "answer": "TRAPEZ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Cambaz",
+      "answer": "AKROBAT",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tütün rengi",
-      "answer": "TABA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Oturulacak şey",
-      "answer": "OTURAK",
-      "row": 3,
+      "text": "Avrupa nehri",
+      "answer": "TUNA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ses aygıtı",
-      "answer": "TEYP",
+      "text": "Yayımlama",
+      "answer": "NEŞR",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Onay, izin, tasdik",
+      "answer": "OLUR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sorumlu kimse",
-      "answer": "VELİ",
+      "text": "Üzüm bitkisi",
+      "answer": "ASMA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Şeref, haysiyet",
-      "answer": "ONUR",
+      "text": "Yargılanan kimse",
+      "answer": "SANIK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Vurgun, tutkun",
-      "answer": "AŞIK",
-      "row": 5,
+      "text": "Çeşit, tür",
+      "answer": "TİP",
+      "row": 6,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Saçsız kafa",
-      "answer": "DAZLAK",
-      "row": 2,
+      "text": "Soyağacı",
+      "answer": "ŞECERE",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yakacak parça",
-      "answer": "ODUN",
+      "text": "Kesici silah",
+      "answer": "KILIÇ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Devlet temsilcisi",
-      "answer": "ELÇİ",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalın dış giysi",
-      "answer": "MONT",
-      "row": 2,
+      "text": "Küçük, sevimli",
+      "answer": "MİNİK",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -141,18 +141,10 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
       "col": 5
     },
     {
@@ -160,26 +152,30 @@
       "col": 7
     },
     {
-      "row": 3,
-      "col": 0
+      "row": 1,
+      "col": 5
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 6
     },
     {
       "row": 7,
-      "col": 7
+      "col": 6
     },
     {
-      "row": 9,
-      "col": 5
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 59
+  "difficulty": "orta",
+  "order": 117
 }

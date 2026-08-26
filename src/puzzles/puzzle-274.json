@@ -1,125 +1,118 @@
 {
   "id": "puzzle-274",
-  "title": "Bulmaca 126",
+  "title": "Bulmaca 156",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yüz güzelliği",
-      "answer": "CEMAL",
+      "text": "Bize göre",
+      "answer": "BİZCE",
       "row": 0,
       "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Yapı arazisi",
-      "answer": "ARSA",
-      "row": 1,
+      "text": "Uçmak işi",
+      "answer": "UÇUŞ",
+      "row": 2,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Azimli",
-      "answer": "KARARLI",
+      "text": "Soğuk giysisi",
+      "answer": "HIRKA",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Simit satan",
-      "answer": "SİMİTÇİ",
+      "text": "Dikili direk",
+      "answer": "DİKME",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Annenin erkek kardeşi",
-      "answer": "DAYI",
+      "text": "Küçük davul",
+      "answer": "TRAMPET",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sirküler yazı",
-      "answer": "GENELGE",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Korunma duruşu",
-      "answer": "GARD",
-      "row": 7,
+      "text": "Hiç değilse",
+      "answer": "BARİ",
+      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Renkli cam bezeme",
-      "answer": "VİTRAY",
-      "row": 7,
+      "text": "Karışık içki",
+      "answer": "KOKTEYL",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yayımlama",
-      "answer": "NEŞR",
-      "row": 9,
-      "col": 3,
+      "text": "Karşılaşmalar kümesi",
+      "answer": "LİG",
+      "row": 8,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Salepgil süs çiçeği",
-      "answer": "ORKİDE",
+      "text": "Sigara tutacağı",
+      "answer": "AĞIZLIK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çevre",
+      "answer": "MUHİT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ekin kalıntısı",
-      "answer": "SAMAN",
+      "text": "Kuyu makarası",
+      "answer": "ÇIKRIK",
       "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Saray kölesi",
-      "answer": "CARİYE",
+      "text": "Altın bilezik",
+      "answer": "BURMA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Korkusuz girişken",
-      "answer": "ATILGAN",
-      "row": 2,
+      "text": "Geviş getiren midesi",
+      "answer": "İŞKEMBE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Beton delme kalemi",
-      "answer": "MURÇ",
-      "row": 0,
+      "text": "Hisseli",
+      "answer": "PAYLI",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Amaç, erek",
-      "answer": "GAYE",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Önder",
-      "answer": "LİDER",
-      "row": 2,
+      "text": "Yiğitlik, mertlik",
+      "answer": "ERLİK",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Geniş karşıtı",
-      "answer": "DAR",
-      "row": 6,
+      "text": "Geçici",
+      "answer": "EĞRETİ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -135,53 +128,53 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
+      "row": 1,
+      "col": 0
     },
     {
       "row": 2,
-      "col": 7
+      "col": 5
     },
     {
-      "row": 4,
-      "col": 7
+      "row": 2,
+      "col": 6
     },
     {
-      "row": 5,
-      "col": 7
+      "row": 3,
+      "col": 6
     },
     {
-      "row": 7,
+      "row": 6,
       "col": 1
     },
     {
       "row": 7,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
       "col": 2
     },
     {
       "row": 8,
-      "col": 6
+      "col": 3
     },
     {
       "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 2
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 126
+  "order": 156
 }

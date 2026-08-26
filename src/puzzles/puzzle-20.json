@@ -1,6 +1,6 @@
 {
   "id": "puzzle-20",
-  "title": "Bulmaca 38",
+  "title": "Bulmaca 95",
   "rows": 10,
   "cols": 8,
   "clues": [
@@ -103,7 +103,7 @@
       "arrow": "down"
     },
     {
-      "text": "Saat başını geçerek",
+      "text": "Saatte 'kala'nın tersi",
       "answer": "GEÇE",
       "row": 5,
       "col": 3,
@@ -187,6 +187,6 @@
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 38
+  "difficulty": "orta",
+  "order": 95
 }

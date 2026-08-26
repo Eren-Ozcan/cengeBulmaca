@@ -1,125 +1,139 @@
 {
   "id": "puzzle-265",
-  "title": "Bulmaca 155",
+  "title": "Bulmaca 40",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Mısır anıtı",
-      "answer": "PİRAMİT",
+      "text": "Eski kitapçı",
+      "answer": "SAHAF",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hayvan ölümü",
-      "answer": "TELEF",
+      "text": "Yansıtma aygıtı",
+      "answer": "TEPEGÖZ",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Uçan küre",
+      "answer": "BALON",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Aptal, dengesiz",
+      "answer": "SALAK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Emir tutsağı",
+      "answer": "KÖLE",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yer altı yolu",
+      "answer": "TÜNEL",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ehemmiyetsiz",
-      "answer": "ÖNEMSİZ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Podyum modeli",
-      "answer": "MANKEN",
-      "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Rüzgâr",
-      "answer": "YEL",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kavrulan bitki",
-      "answer": "KAHVE",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Eskil",
-      "answer": "ARKAİK",
+      "text": "Koyun lifi",
+      "answer": "YÜN",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İçe doğma",
-      "answer": "ÖNSEZİ",
+      "text": "Temel bilgi",
+      "answer": "VERİ",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Gömme işlemi",
+      "answer": "DEFİN",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kırmızı taneli meyve",
+      "answer": "NAR",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Görüntü yüzeyi",
-      "answer": "EKRAN",
-      "row": 4,
+      "text": "Anlama yetisi",
+      "answer": "ZEKA",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Halk deyişi",
+      "answer": "ATASÖZÜ",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ev, arsa",
-      "answer": "EMLAK",
-      "row": 2,
+      "text": "Dinen izinli",
+      "answer": "HELAL",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Savurma eylemi",
-      "answer": "ATMA",
+      "text": "Omuzdaki rütbe",
+      "answer": "APOLET",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dalgalı çizgi",
-      "answer": "HARE",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Beyitli divan türü",
-      "answer": "MESNEVİ",
+      "text": "Kötü",
+      "answer": "FENA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kemik dokusu",
-      "answer": "İLİK",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Canı her şeyi çeken",
-      "answer": "EKTİ",
+      "text": "Kırmızı meyveli ağaç",
+      "answer": "ÜVEZ",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Tel kadayıf tatlısı",
+      "answer": "KÜNEFE",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dışkı yakıtı",
-      "answer": "TEZEK",
-      "row": 0,
+      "text": "Ekşimsi yaz meyvesi",
+      "answer": "ERİK",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Pantolon ucu",
-      "answer": "PAÇA",
-      "row": 5,
+      "text": "Dev deniz memelisi",
+      "answer": "BALİNA",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -127,11 +141,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 5
     },
     {
       "row": 0,
-      "col": 2
+      "col": 6
     },
     {
       "row": 0,
@@ -139,41 +153,29 @@
     },
     {
       "row": 1,
-      "col": 7
+      "col": 5
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 3,
-      "col": 7
-    },
-    {
-      "row": 6,
       "col": 6
     },
     {
-      "row": 7,
+      "row": 4,
       "col": 6
     },
     {
       "row": 8,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 155
+  "difficulty": "kolay",
+  "order": 40
 }

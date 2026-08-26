@@ -1,132 +1,132 @@
 {
   "id": "puzzle-275",
-  "title": "Bulmaca 33",
+  "title": "Bulmaca 50",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Adaletli paylaştırma",
-      "answer": "KIST",
+      "text": "Büyük heyecan",
+      "answer": "COŞKU",
       "row": 1,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Hristiyan mabedi",
-      "answer": "KİLİSE",
+      "text": "Bağlama",
+      "answer": "SAZ",
       "row": 1,
-      "col": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kabuk kırığı",
-      "answer": "FAY",
+      "text": "Umutsuz karamsarlık",
+      "answer": "YEİS",
       "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Özlenen memleket",
-      "answer": "SILA",
-      "row": 3,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Kişi resmi",
-      "answer": "PORTRE",
-      "row": 4,
-      "col": 0,
+      "text": "Buz alanı",
+      "answer": "BUZLA",
+      "row": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sahne dansı",
-      "answer": "BALE",
+      "text": "Akıl yönünden",
+      "answer": "AKLEN",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tarikat lideri",
+      "answer": "ŞEYH",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Konak yöneticisi",
-      "answer": "KAHYA",
+      "text": "Ekşi narenciye",
+      "answer": "TURUNÇ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sıradan, basmakalıp",
-      "answer": "BANAL",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Karışık canlı",
-      "answer": "MELEZ",
+      "text": "Pasif",
+      "answer": "EDİLGEN",
       "row": 7,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yiyecek, azık, nasip",
-      "answer": "RIZIK",
-      "row": 9,
-      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Örtme nesnesi",
-      "answer": "KAPAK",
-      "row": 1,
+      "text": "Güvenlik",
+      "answer": "EMNİYET",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Karma sahne gösterisi",
+      "answer": "VARYETE",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Alto keman",
-      "answer": "VİYOLA",
-      "row": 0,
+      "text": "İçme miktarı",
+      "answer": "YUDUM",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kılavuz",
-      "answer": "REHBER",
-      "row": 3,
+      "text": "Denizle ilgili",
+      "answer": "BAHRİ",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sıvı kese",
-      "answer": "KİST",
+      "text": "Çukur yer",
+      "answer": "OYUK",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Harflerle anlatım",
-      "answer": "YAZI",
+      "text": "Yüce, manevi",
+      "answer": "ULVİ",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yakıcı tüylü ot",
-      "answer": "ISIRGAN",
+      "text": "Uzanmalık koltuk",
+      "answer": "ŞEZLONG",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bisiklet koltuğu",
-      "answer": "SELE",
+      "text": "Ölçek",
+      "answer": "KİLE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yok olma",
-      "answer": "HELAK",
-      "row": 4,
+      "text": "Ağız kemiği",
+      "answer": "ÇENE",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bıkkınlık duygusu",
+      "answer": "USANÇ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -138,35 +138,31 @@
     },
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
       "col": 3
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
+      "row": 3,
       "col": 0
     },
     {
-      "row": 2,
+      "row": 6,
       "col": 7
     },
     {
-      "row": 5,
-      "col": 6
+      "row": 8,
+      "col": 0
     },
     {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
+      "row": 8,
       "col": 1
+    },
+    {
+      "row": 8,
+      "col": 3
     },
     {
       "row": 8,
@@ -174,17 +170,9 @@
     },
     {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 33
+  "order": 50
 }

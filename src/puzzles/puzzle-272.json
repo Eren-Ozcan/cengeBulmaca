@@ -1,49 +1,42 @@
 {
   "id": "puzzle-272",
-  "title": "Bulmaca 122",
+  "title": "Bulmaca 187",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Ayaklı bardak",
-      "answer": "KADEH",
+      "text": "Yemek konan nesne",
+      "answer": "KAP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yük taşıyıcı",
-      "answer": "HAMAL",
+      "text": "Tiksindirici",
+      "answer": "İĞRENÇ",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Azıcık",
-      "answer": "BİRAZ",
-      "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Üretim gideri",
-      "answer": "MALİYET",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
+      "text": "İplik bağlantısı",
+      "answer": "DİKİŞ",
+      "row": 3,
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Kale duvarı",
-      "answer": "SUR",
+      "text": "Sert gövde",
+      "answer": "KOÇAN",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Büyük kara kütlesi",
-      "answer": "KITA",
-      "row": 5,
-      "col": 3,
+      "text": "Vahşi at sporu",
+      "answer": "RODEO",
+      "row": 6,
+      "col": 2,
       "arrow": "right"
     },
     {
@@ -51,82 +44,68 @@
       "answer": "SİYASET",
       "row": 6,
       "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaka kenar şeridi",
-      "answer": "BİYE",
-      "row": 6,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ham kavun",
-      "answer": "KELEK",
+      "text": "Mitolojik çalgı",
+      "answer": "LİR",
       "row": 8,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Sıçrayan asalak böcek",
-      "answer": "PİRE",
+      "text": "Ses bilgisi",
+      "answer": "FONETİK",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Müzik",
-      "answer": "MUSİKİ",
+      "text": "Taşlı masa oyunu",
+      "answer": "DOMİNO",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yol korkuluğu",
-      "answer": "BARİYER",
-      "row": 2,
+      "text": "Erginleşmemiş tavuk",
+      "answer": "PİLİÇ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yetkin, uzman",
-      "answer": "EHİL",
-      "row": 0,
+      "text": "Japon dövüş sanatı",
+      "answer": "KARATE",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "At kılları",
-      "answer": "YELE",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Olağanüstü",
-      "answer": "HARİKA",
+      "text": "Ton balığı",
+      "answer": "ORKİNOS",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Beşinci ay",
-      "answer": "MAYIS",
-      "row": 1,
+      "text": "Aklını yitirmiş",
+      "answer": "DELİ",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Günlük haber yayını",
-      "answer": "GAZETE",
-      "row": 0,
+      "text": "Silah parçası",
+      "answer": "TETİK",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ara süresi",
-      "answer": "TATİL",
-      "row": 3,
+      "text": "Kanatlı hava taşıtı",
+      "answer": "UÇAK",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -138,7 +117,7 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 3
     },
     {
       "row": 0,
@@ -146,57 +125,53 @@
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 1,
-      "col": 7
+      "col": 3
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 2,
       "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
     },
     {
       "row": 3,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
+      "row": 3,
       "col": 5
     },
     {
-      "row": 7,
+      "row": 3,
       "col": 6
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 7
     },
     {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 6
+      "col": 2
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 122
+  "difficulty": "zor",
+  "order": 187
 }

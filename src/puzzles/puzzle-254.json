@@ -1,6 +1,6 @@
 {
   "id": "puzzle-254",
-  "title": "Bulmaca 100",
+  "title": "Bulmaca 157",
   "rows": 10,
   "cols": 8,
   "clues": [
@@ -68,7 +68,7 @@
       "arrow": "down"
     },
     {
-      "text": "Kesik",
+      "text": "Ameliyatta açılan",
       "answer": "KESİ",
       "row": 5,
       "col": 1,
@@ -182,6 +182,6 @@
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 100
+  "difficulty": "zor",
+  "order": 157
 }

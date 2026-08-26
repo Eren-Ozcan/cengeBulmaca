@@ -1,145 +1,124 @@
 {
   "id": "puzzle-263",
-  "title": "Bulmaca 58",
+  "title": "Bulmaca 70",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Düzgün konuşan",
-      "answer": "FASİH",
+      "text": "Öyle olsa da",
+      "answer": "GERÇİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kürklü hayvan",
-      "answer": "SAMUR",
+      "text": "Deniz rüzgârı",
+      "answer": "İMBAT",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ayrılış selamlaması",
-      "answer": "VEDA",
+      "text": "Bitki örtüsü",
+      "answer": "FLORA",
       "row": 3,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Nüfuzlu kimse",
-      "answer": "KODAMAN",
-      "row": 3,
-      "col": 1,
-      "arrow": "down-right"
+      "text": "Çevre, etraf",
+      "answer": "ORTALIK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Yaptırım",
-      "answer": "CEZA",
+      "text": "Dip ağı",
+      "answer": "TROL",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tuzlanmış torik",
-      "answer": "LAKERDA",
+      "text": "Dolaylı anlatım",
+      "answer": "KİNAYE",
       "row": 6,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bilme süreci",
-      "answer": "BİLİŞ",
+      "text": "İnce hamur",
+      "answer": "YUFKA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Enerji çeviren düzenek",
-      "answer": "MAKİNE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Mal paylaşımı",
-      "answer": "ZEKAT",
+      "text": "Bağımsız, özgür",
+      "answer": "SERBEST",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Pozitif bilim",
-      "answer": "FEN",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Sözcük",
-      "answer": "KELİME",
-      "row": 3,
+      "text": "Köz, ateş",
+      "answer": "KOR",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Çam meyvesi",
-      "answer": "KOZALAK",
-      "row": 2,
+      "text": "Küflü peynir",
+      "answer": "ROKFOR",
+      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kurum lekesi",
-      "answer": "İS",
+      "text": "Tarım işletmesi",
+      "answer": "ÇİFTLİK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Altmış saniye",
-      "answer": "DAKİKA",
-      "row": 3,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Gaz karışımı",
-      "answer": "HAVA",
+      "text": "Yazım kuralları",
+      "answer": "İMLA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Aynı değerde",
-      "answer": "EŞİT",
+      "text": "Kokulu bitki",
+      "answer": "NANE",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Devlet çalışanı",
-      "answer": "MEMUR",
+      "text": "Fazlaca, bol",
+      "answer": "BOLCA",
       "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Uzak Doğu bilgesi",
-      "answer": "BUDA",
+      "text": "Limon rengi",
+      "answer": "SARI",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İkili şarkı",
-      "answer": "DÜET",
+      "text": "Vatan",
+      "answer": "YURT",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Katlı yatak",
-      "answer": "RANZA",
+      "text": "Yarım küre başlık",
+      "answer": "TAKKE",
       "row": 1,
       "col": 7,
       "arrow": "down"
@@ -164,7 +143,11 @@
     },
     {
       "row": 2,
-      "col": 1
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
     },
     {
       "row": 7,
@@ -176,11 +159,19 @@
     },
     {
       "row": 8,
-      "col": 7
+      "col": 1
     },
     {
-      "row": 9,
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
       "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
@@ -188,5 +179,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 58
+  "order": 70
 }

@@ -1,139 +1,125 @@
 {
   "id": "puzzle-288",
-  "title": "Bulmaca 30",
+  "title": "Bulmaca 191",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kopmuş olan",
-      "answer": "KOPUK",
+      "text": "Kırık beyaz renk",
+      "answer": "FİLDİŞİ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Top mermisi",
-      "answer": "OBÜS",
+      "text": "Barış",
+      "answer": "SULH",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Açılan yol",
-      "answer": "KANAL",
+      "text": "Yüksek yapı",
+      "answer": "KULE",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Albayın üstü",
+      "answer": "GENERAL",
       "row": 3,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kız kardeşin kocası",
-      "answer": "ENİŞTE",
+      "text": "Maç yöneticisi",
+      "answer": "HAKEM",
       "row": 4,
-      "col": 1,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Bağışlanma dileme",
-      "answer": "ŞEFAAT",
+      "text": "Yurt içi",
+      "answer": "YERLİ",
       "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sadaka isteyen",
-      "answer": "DİLENCİ",
-      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dönme, çağ",
-      "answer": "DEVİR",
+      "text": "Kalıtım materyali",
+      "answer": "GENOM",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşk",
+      "answer": "SEVİ",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Zarfla gönderilen yazı",
-      "answer": "MEKTUP",
+      "text": "Kramp",
+      "answer": "SPAZM",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kaynamakta olan",
-      "answer": "KAYNAR",
-      "row": 0,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Çay kıvamı",
-      "answer": "DEM",
-      "row": 6,
+      "text": "Çaba",
+      "answer": "GAYRET",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Dik dalış",
-      "answer": "PİKE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yöresel söyleyiş",
-      "answer": "ŞİVE",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Analık",
-      "answer": "ANNELİK",
+      "text": "Dümen kolu",
+      "answer": "YEKE",
       "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kokulu bahar çiçeği",
+      "answer": "NERGİS",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Daire tabanlı cisim",
-      "answer": "KONİ",
+      "text": "Arkalıksız sandalye",
+      "answer": "İSKEMLE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Birey",
-      "answer": "FERT",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Reis",
-      "answer": "BAŞKAN",
-      "row": 1,
+      "text": "Bilinç",
+      "answer": "ŞUUR",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Aşırı ilgi",
-      "answer": "KÜLT",
+      "text": "Yapı kurma",
+      "answer": "İNŞA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Ne olursa olsun",
+      "answer": "İLLA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Şaşırtıcı, tuhaf",
-      "answer": "ACİP",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kayının eşi",
-      "answer": "ELTİ",
-      "row": 3,
+      "text": "Kıbrıs peyniri",
+      "answer": "HELLİM",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -145,31 +131,43 @@
     },
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
       "col": 3
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 7
+      "row": 2,
+      "col": 0
     },
     {
       "row": 2,
       "col": 1
     },
     {
+      "row": 3,
+      "col": 0
+    },
+    {
       "row": 5,
-      "col": 1
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
     },
     {
       "row": 8,
-      "col": 5
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 8,
@@ -177,9 +175,9 @@
     },
     {
       "row": 9,
-      "col": 7
+      "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 30
+  "difficulty": "zor",
+  "order": 191
 }

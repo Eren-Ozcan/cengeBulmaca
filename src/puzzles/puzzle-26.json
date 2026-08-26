@@ -1,6 +1,6 @@
 {
   "id": "puzzle-26",
-  "title": "Bulmaca 27",
+  "title": "Bulmaca 41",
   "rows": 10,
   "cols": 8,
   "clues": [
@@ -96,7 +96,7 @@
       "arrow": "down"
     },
     {
-      "text": "Yozlaşmış, bozulmuş, dejenere",
+      "text": "Ekilmemiş toprak",
       "answer": "YOZ",
       "row": 6,
       "col": 3,
@@ -185,5 +185,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 27
+  "order": 41
 }

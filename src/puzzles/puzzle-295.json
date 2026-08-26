@@ -1,118 +1,125 @@
 {
   "id": "puzzle-295",
-  "title": "Bulmaca 137",
+  "title": "Bulmaca 37",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Uzun boyunlu hayvan",
-      "answer": "ZÜRAFA",
+      "text": "Kılıksız",
+      "answer": "PASAKLI",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kan kanseri",
-      "answer": "LÖKOZ",
+      "text": "Büyük bölüm",
+      "answer": "ÇOĞU",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Geçici alınan",
-      "answer": "ÖDÜNÇ",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Deniz, umman",
-      "answer": "DERYA",
+      "text": "Zayıf, ufak",
+      "answer": "CILIZ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çocuğun çocuğu",
+      "answer": "TORUN",
       "row": 4,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Ağaçlık alan",
-      "answer": "ORMAN",
+      "text": "Vida anahtarı",
+      "answer": "ALYAN",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Çabuk gücenen",
-      "answer": "ALINGAN",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Boyun takısı",
+      "answer": "KOLYE",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Soğuk-sıcak arası",
-      "answer": "ILIK",
+      "text": "Vurmalı çalgı",
+      "answer": "GONK",
       "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Pınar, memba",
-      "answer": "KAYNAK",
-      "row": 9,
+      "text": "Orkestra eseri",
+      "answer": "SENFONİ",
+      "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Hususiyet",
-      "answer": "ÖZELLİK",
-      "row": 2,
+      "text": "Kapı, pencere açıklığı",
+      "answer": "AÇIT",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Akarsu birikintisi",
-      "answer": "ALÜVYON",
+      "text": "Alışveriş ağı",
+      "answer": "FİLE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek icra",
+      "answer": "SOLO",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "İğ ağırlığı",
+      "answer": "AĞIRŞAK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Saç kurutma",
-      "answer": "FÖN",
+      "text": "Koyun yavrusu",
+      "answer": "KUZU",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yorgun, bitkin, mecalsiz",
-      "answer": "ARGIN",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Beyazımsı",
-      "answer": "AKÇA",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Harç aracı",
-      "answer": "MALA",
+      "text": "Kurum simgesi",
+      "answer": "LOGO",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Esnek yapay madde",
+      "answer": "NAYLON",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yanmış olan",
-      "answer": "YANIK",
-      "row": 4,
+      "text": "Nakit değil",
+      "answer": "AYNİ",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Veciz",
-      "answer": "ÖZLÜ",
-      "row": 0,
+      "text": "Anane",
+      "answer": "GELENEK",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -120,23 +127,23 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 0,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
     },
     {
       "row": 3,
@@ -144,18 +151,22 @@
     },
     {
       "row": 4,
-      "col": 2
+      "col": 6
     },
     {
       "row": 5,
-      "col": 7
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 2
+    },
+    {
+      "row": 6,
+      "col": 0
     },
     {
       "row": 7,
-      "col": 7
-    },
-    {
-      "row": 8,
       "col": 0
     },
     {
@@ -167,6 +178,6 @@
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 137
+  "difficulty": "kolay",
+  "order": 37
 }

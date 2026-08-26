@@ -1,139 +1,111 @@
 {
   "id": "puzzle-277",
-  "title": "Bulmaca 162",
+  "title": "Bulmaca 159",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Baç",
-      "answer": "HARAÇ",
+      "text": "İpek eşarp",
+      "answer": "FULAR",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Düğmeli giysi",
-      "answer": "CEKET",
+      "text": "İyileştirici madde",
+      "answer": "İLAÇ",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Boş inanç",
-      "answer": "HURAFE",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
+      "text": "Ayrıcalık",
+      "answer": "İMTİYAZ",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Darmadağın",
-      "answer": "PERİŞAN",
+      "text": "Açık mor",
+      "answer": "EFLATUN",
       "row": 4,
       "col": 0,
       "arrow": "right"
+    },
+    {
+      "text": "Zarar ihtimali",
+      "answer": "TEHLİKE",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "'Ben'in yönelme hâli",
+      "answer": "BANA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
       "text": "Evre, safha",
       "answer": "FAZ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ayak bakımı",
-      "answer": "PEDİKÜR",
       "row": 6,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Kaya kütlesi",
-      "answer": "KAYAÇ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kadın rahip",
-      "answer": "RAHİBE",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sevgili kadın",
-      "answer": "CANAN",
+      "text": "Uzun lüks otomobil",
+      "answer": "LİMUZİN",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ekmekli çorba",
-      "answer": "PAPARA",
-      "row": 3,
+      "text": "İletken madde",
+      "answer": "METAL",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Saçmalama",
-      "answer": "HEZEYAN",
-      "row": 2,
+      "text": "Rica ederim",
+      "answer": "LÜTFEN",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hıyara benzer sebze",
-      "answer": "ACUR",
-      "row": 0,
+      "text": "Esin",
+      "answer": "İLHAM",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İlave, ek",
-      "answer": "DAHA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Eski dilde asker",
-      "answer": "ÇERİ",
+      "text": "Suudi parası",
+      "answer": "RİYAL",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Amacıyla, maksadıyla",
-      "answer": "İÇİN",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yemek aracı",
-      "answer": "KAŞIK",
+      "text": "Yumuşak, hoş",
+      "answer": "LATİF",
       "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Keyifli hâl",
-      "answer": "SEFA",
+      "text": "Tanksavar silah",
+      "answer": "BAZUKA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bölüşülen pay",
-      "answer": "ÜLEŞ",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Tiz erkek sesi",
-      "answer": "TENOR",
-      "row": 1,
+      "text": "Soğuk algınlığı",
+      "answer": "NEZLE",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -145,27 +117,31 @@
     },
     {
       "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 7,
       "col": 2
     },
     {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 3,
-      "col": 0
+      "row": 7,
+      "col": 4
     },
     {
       "row": 7,
@@ -173,15 +149,31 @@
     },
     {
       "row": 7,
-      "col": 7
+      "col": 6
     },
     {
       "row": 8,
-      "col": 7
+      "col": 1
     },
     {
-      "row": 9,
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
       "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
@@ -189,5 +181,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 162
+  "order": 159
 }

@@ -1,168 +1,158 @@
 {
   "id": "puzzle-269",
-  "title": "Bulmaca 184",
+  "title": "Bulmaca 116",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yüzeye etkiyen güç",
-      "answer": "BASINÇ",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çiğneme organı",
-      "answer": "DİŞ",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yokuş, eğim",
-      "answer": "BAYIR",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bağlanmış nesne",
-      "answer": "PAKET",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeter, elverir",
-      "answer": "KAFİ",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Soy sop",
-      "answer": "SÜLALE",
-      "row": 5,
+      "text": "Gürültülü kavga",
+      "answer": "ARBEDE",
+      "row": 1,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Birlikte",
-      "answer": "BERABER",
-      "row": 6,
+      "text": "Kuşu örten yapı",
+      "answer": "TÜY",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bedava su",
-      "answer": "SEBİL",
-      "row": 8,
+      "text": "Güzel karşıtı",
+      "answer": "ÇİRKİN",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kat aracı",
+      "answer": "ASANSÖR",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saray bölümü",
+      "answer": "HAREM",
+      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Tutu",
-      "answer": "İPOTEK",
+      "text": "Öznel",
+      "answer": "İNDİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eş sesli",
+      "answer": "SESTEŞ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kuşların barınağı",
+      "answer": "YUVA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zorunluluk",
+      "answer": "ZARURET",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Töre, görgü",
-      "answer": "ADAP",
-      "row": 0,
+      "text": "Ebedî",
+      "answer": "SONSUZ",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hızlı olan",
-      "answer": "SERİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Öldürücü zehir",
-      "answer": "SİYANÜR",
+      "text": "Hilal",
+      "answer": "AYÇA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Aydınlık enerjisi",
-      "answer": "IŞIK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kement",
-      "answer": "LASO",
+      "text": "İlaç, çare",
+      "answer": "DEVA",
       "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tekel",
+      "answer": "İNHİSAR",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yarışma çekişmesi",
-      "answer": "REKABET",
-      "row": 2,
+      "text": "İlk Osmanlı başkenti",
+      "answer": "BURSA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Öğrenci",
-      "answer": "TALEBE",
-      "row": 3,
+      "text": "Taze, yeni",
+      "answer": "KÖRPE",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Genç piliç",
-      "answer": "FERİK",
-      "row": 4,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Beş parçalı",
-      "answer": "BEŞLİ",
+      "text": "Konut bölümü",
+      "answer": "DAİRE",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "arrow": "down"
     }
   ],
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 4,
+      "col": 7
+    },
+    {
+      "row": 6,
       "col": 4
     },
     {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
+      "row": 6,
       "col": 6
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 0
     },
     {
       "row": 6,
@@ -174,13 +164,21 @@
     },
     {
       "row": 8,
-      "col": 0
+      "col": 4
     },
     {
-      "row": 9,
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 184
+  "difficulty": "orta",
+  "order": 116
 }
