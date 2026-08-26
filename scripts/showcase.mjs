@@ -259,34 +259,34 @@ async function shots(send, page) {
   const take = (name) => page.shot(join(outDir, `${name}.png`));
 
   await boot(send, page);
-  await take("01_home");
+  await take("01-home");
 
   await openDaily(page);
   const answer = await activeAnswer(page);
   await typeAnswer(page, answer.slice(0, -1), 90);
-  await take("02_grid");
+  await take("02-grid");
 
   await typeAnswer(page, answer.slice(-1), 90);
   await sleep(1000);
-  await take("03_word_solved");
+  await take("03-word-solved");
 
   await backHome(page);
   await page.click("button", "/Kediler/");
   await waitForSelector(page, ".cats-grid");
   await sleep(900);
-  await take("04_cats");
+  await take("04-cat-album");
 
   await page.click('[aria-label="Anadolu haritası"]');
   await waitForSelector(page, ".map-canvas");
   await sleep(900);
-  await take("05_map");
+  await take("05-map");
 
   await backHome(page);
   await page.evaluate(
     `[...document.querySelectorAll("h2,h3")].find((h) => /Bulmacalar/.test(h.textContent))?.scrollIntoView({ block: "start" })`,
   );
   await sleep(700);
-  await take("06_puzzle_list");
+  await take("06-puzzle-list");
 
   // The newspaper theme is the one thing no other Turkish crossword app has, so
   // it gets its own frame instead of hiding inside the settings screen.
@@ -294,7 +294,7 @@ async function shots(send, page) {
   await boot(send, page);
   await openDaily(page);
   await sleep(800);
-  await take("07_newspaper_theme");
+  await take("07-newspaper-theme");
 
   // Completion is the payoff of the whole loop, so it is played for real: the
   // save is one letter short and that letter is typed on camera.
@@ -304,7 +304,7 @@ async function shots(send, page) {
   const last = await activeAnswer(page);
   await typeAnswer(page, last.slice(-1), 120);
   await sleep(2200);
-  await take("08_completed");
+  await take("08-completed");
 
   console.log(`raw${SUFFIX}/ 01..08`);
 }

@@ -71,8 +71,8 @@ The vertical clip and the GIF are encoded from the same capture:
 
 ```bash
 cd docs/store-assets-originals/frames
-ffmpeg -y -f concat -safe 0 -i frames.txt -vf "scale=720:1280:flags=lanczos,fps=30"   -c:v libx264 -pix_fmt yuv420p -crf 21 -movflags +faststart ../demo.mp4
-ffmpeg -y -f concat -safe 0 -i frames.txt   -vf "fps=12,scale=360:640:flags=lanczos,split[a][b];[a]palettegen=max_colors=128[p];[b][p]paletteuse=dither=bayer:bayer_scale=4"   ../demo.gif
+ffmpeg -y -f concat -safe 0 -i frames.txt -vf "scale=720:1280:flags=lanczos,fps=30"   -c:v libx264 -pix_fmt yuv420p -crf 21 -movflags +faststart ../demo-vertical-720x1280.mp4
+ffmpeg -y -f concat -safe 0 -i frames.txt   -vf "fps=12,scale=360:640:flags=lanczos,split[a][b];[a]palettegen=max_colors=128[p];[b][p]paletteuse=dither=bayer:bayer_scale=4"   ../demo-vertical-360x640.gif
 ```
 
 ## Android (APK)

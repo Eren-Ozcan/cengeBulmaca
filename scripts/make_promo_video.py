@@ -176,14 +176,14 @@ def main() -> None:
                 if start <= share < end:
                     alpha = min(1.0, (share - start) * body_len / 0.4, (end - share) * body_len / 0.4)
                     draw_beat(frame, title, sub, px + phone.width + 70, alpha)
-        frame.convert("RGB").save(OUT_FRAMES / f"promo_{n:05d}.png")
+        frame.convert("RGB").save(OUT_FRAMES / f"promo-{n:05d}.png")
         n += 1
 
-    out = ASSETS / "promo_1280x720.mp4"
+    out = ASSETS / "promo-1280x720.mp4"
     subprocess.run(
         [
             "ffmpeg", "-y", "-framerate", str(FPS),
-            "-i", str(OUT_FRAMES / "promo_%05d.png"),
+            "-i", str(OUT_FRAMES / "promo-%05d.png"),
             "-c:v", "libx264", "-pix_fmt", "yuv420p", "-crf", "20",
             "-movflags", "+faststart", str(out),
         ],

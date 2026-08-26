@@ -125,7 +125,7 @@ def main() -> None:
     title(img)
     cat(img)
     ASSETS.mkdir(parents=True, exist_ok=True)
-    out = ASSETS / "feature_graphic_1024x500.png"
+    out = ASSETS / "feature-graphic-1024x500.png"
     img.save(out)
     print("wrote", out)
 

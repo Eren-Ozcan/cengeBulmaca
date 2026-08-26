@@ -96,7 +96,7 @@ bulmaca, çengel bulmaca, kare bulmaca, kelime oyunu, Türkçe
   under `docs/store-assets/`, which are the pre-1.3.0 set.
 - [ ] Tablet screenshots (7"/10", 1600×2560) — `play-tablet/`, optional, but
   without them Play shows a "not optimized for large screens" notice.
-- [ ] Promo video: `promo_1280x720.mp4` is cut and ready, but Play only accepts
+- [ ] Promo video: `promo-1280x720.mp4` is cut and ready, but Play only accepts
   a YouTube URL, so it has to be uploaded to the studio's channel first.
 - The icon and the feature graphic come from `npm run icons` and
   `python scripts/make_feature_graphic.py`; the screenshots and the video are

@@ -44,16 +44,17 @@ AMBER = (247, 183, 49)
 
 TITLE_FONT = r"C:\Windows\Fonts\seguibl.ttf"
 
-# (render, caption, cat cut-out or None)
+# (render, caption, cat cut-out or None). The file names carry their own order:
+# Play uploads screenshots in the order the files are picked.
 SHOTS = [
-    ("01_home.png", "HER GÜN YENİ BULMACA", "duman.png"),
-    ("02_grid.png", "KLASİK ÇENGEL FORMATI", None),
-    ("03_word_solved.png", "200 BULMACA, 3600+ SORU", None),
-    ("04_cats.png", "ANADOLU'NUN BEKÇİ KEDİLERİ", "zeytin.png"),
-    ("05_map.png", "HARİTADA YOLCULUĞA ÇIK", "yayla.png"),
-    ("06_puzzle_list.png", "KOLAYDAN ZORA İLERLE", None),
-    ("07_newspaper_theme.png", "GAZETE TEMASI", None),
-    ("08_completed.png", "SERİNİ BOZMA", "duman.png"),
+    ("01-home.png", "HER GÜN YENİ BULMACA", "duman.png"),
+    ("02-grid.png", "KLASİK ÇENGEL FORMATI", None),
+    ("03-word-solved.png", "200 BULMACA, 3600+ SORU", None),
+    ("04-cat-album.png", "ANADOLU'NUN BEKÇİ KEDİLERİ", "zeytin.png"),
+    ("05-map.png", "HARİTADA YOLCULUĞA ÇIK", "yayla.png"),
+    ("06-puzzle-list.png", "KOLAYDAN ZORA İLERLE", None),
+    ("07-newspaper-theme.png", "GAZETE TEMASI", None),
+    ("08-completed.png", "SERİNİ BOZMA", "duman.png"),
 ]
 
 
@@ -151,8 +152,8 @@ def build(source: str, caption: str, cat: str | None, index: int, out_dir: Path)
         draw.text((text_left, y), line, font=font, fill=CREAM)
         y += line_h
 
-    slug = source.split("_", 1)[1].removesuffix(".png")
-    path = out_dir / f"{index:02d}_{slug}.png"
+    slug = Path(source).name.removesuffix(".png").split("-", 1)[1]
+    path = out_dir / f"{'tablet' if TABLET else 'phone'}-{index:02d}-{slug}.png"
     canvas.save(path)
     return path
 
