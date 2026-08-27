@@ -180,8 +180,18 @@ What was declared:
 
 ## Remaining
 
-- ⏳ Publishing to the Production track — bank verification is done, this is
-  the next step (currently only on the Internal testing channel).
+- ⏳ Publishing to the Production track — **the production-access application
+  was submitted on 2026-08-27 19:26.** The Console shows "Üretim erişimi
+  başvurunuzu aldık · Başvuru formunuz incelenmektedir · genellikle 7 gün veya
+  daha kısa"; the result comes to the account owner by email, and the Production
+  track stays locked until it clears. The latest closed-test release is
+  versionCode 7 / 1.3.1. Form answers (target audience 13+, first-year installs
+  0-10k, and the closed-test changes: difficulty reorder, hint-text rewrites,
+  the single 8x10 grid, the small-screen clue clipping fix) match the wording
+  used for the two sibling games; full text is in the reefy release-prep memory.
+  Confirmed in the same Console sweep: the promo video is set in the listing
+  (`https://www.youtube.com/watch?v=bC4Sxftnyg0`), and Android developer
+  verification is done account-wide.
 - [x] **15% service fee**: nothing to enrol in. Since July 2021 the reduced
   15% rate on the first $1M of yearly earnings applies to every developer
   automatically; the enrolment step only ever existed for developers who have
