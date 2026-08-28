@@ -1,6 +1,6 @@
 {
   "id": "puzzle-145",
-  "title": "Bulmaca 116",
+  "title": "Bulmaca 111",
   "rows": 10,
   "cols": 8,
   "clues": [
@@ -19,8 +19,8 @@
       "arrow": "right"
     },
     {
-      "text": "Gözle görülmeyen yaratık",
-      "answer": "CİN",
+      "text": "Silindir kap",
+      "answer": "TÜP",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
@@ -40,8 +40,8 @@
       "arrow": "right"
     },
     {
-      "text": "Perşembeden sonraki gün",
-      "answer": "CUMA",
+      "text": "Gizli yer",
+      "answer": "ZULA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
@@ -54,8 +54,8 @@
       "arrow": "right"
     },
     {
-      "text": "Toprak aleti",
-      "answer": "KAZMA",
+      "text": "Desenli kumaş",
+      "answer": "BASMA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
@@ -82,8 +82,8 @@
       "arrow": "down"
     },
     {
-      "text": "Günlük ibadet",
-      "answer": "NAMAZ",
+      "text": "Lüks otel",
+      "answer": "PALAS",
       "row": 2,
       "col": 2,
       "arrow": "down"
@@ -176,5 +176,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 116
+  "order": 111
 }

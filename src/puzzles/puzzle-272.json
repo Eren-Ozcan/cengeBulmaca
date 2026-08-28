@@ -1,132 +1,139 @@
 {
   "id": "puzzle-272",
-  "title": "Bulmaca 160",
+  "title": "Bulmaca 101",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Güneş batışı",
-      "answer": "GURUP",
+      "text": "Renkli kanatlı böcek",
+      "answer": "KELEBEK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dil",
-      "answer": "LİSAN",
+      "text": "Bozukluk, kusur",
+      "answer": "DEFO",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kötek",
-      "answer": "DAYAK",
+      "text": "Mukavemet",
+      "answer": "DİRENÇ",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Ödül",
-      "answer": "MÜKAFAT",
+      "text": "Cimri kimse",
+      "answer": "PİNTİ",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İkinci çoğul",
-      "answer": "SİZ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Silindir biçimli tahıl kulesi",
-      "answer": "SİLO",
+      "text": "Üreme ürünü",
+      "answer": "DÖL",
       "row": 5,
-      "col": 3,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Gözetim",
-      "answer": "NEZARET",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
+      "text": "Sağlık görevlisi",
+      "answer": "HEMŞİRE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
     },
     {
-      "text": "Ana, valide",
-      "answer": "ANNE",
+      "text": "Ortak topluluk",
+      "answer": "CAMİA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Rengarenk",
-      "answer": "ELVAN",
+      "text": "Vakıf senedi",
+      "answer": "VAKFİYE",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ahlak kuralları",
-      "answer": "ETİK",
+      "text": "Uçma organı",
+      "answer": "KANAT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İyiliğe borçluluk",
-      "answer": "MİNNET",
-      "row": 3,
+      "text": "Taze, yeni",
+      "answer": "KÖRPE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Gaz karışımı",
+      "answer": "HAVA",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tertipli",
-      "answer": "DÜZENLİ",
-      "row": 2,
+      "text": "Yaylı çalgı",
+      "answer": "KEMAN",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Haber götüren kimse",
-      "answer": "ULAK",
+      "text": "Edebiyatçı, yazar",
+      "answer": "EDİP",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Haz, keyif",
-      "answer": "ZEVK",
+      "text": "Şeffaf mineral",
+      "answer": "MİKA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Alım satım ortamı",
-      "answer": "PİYASA",
+      "text": "Öte karşıtı",
+      "answer": "BERİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Mavi değerli taş",
-      "answer": "SAFİR",
-      "row": 1,
+      "text": "Dönme aktaran mil",
+      "answer": "ŞAFT",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Nazik kimse",
+      "answer": "EFENDİ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gazete yazısı",
-      "answer": "MAKALE",
+      "text": "Kullanım birimi",
+      "answer": "KONTÖR",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bütünsel, toplam",
-      "answer": "TOTAL",
-      "row": 3,
+      "text": "Çok sıkıntı çeken",
+      "answer": "ÇİLEKEŞ",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -142,10 +149,6 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 7
     },
     {
@@ -154,19 +157,11 @@
     },
     {
       "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
       "col": 1
     },
     {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 4
+      "row": 4,
+      "col": 1
     },
     {
       "row": 7,
@@ -177,26 +172,14 @@
       "col": 6
     },
     {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
       "row": 9,
       "col": 5
     },
     {
       "row": 9,
       "col": 6
-    },
-    {
-      "row": 9,
-      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 160
+  "order": 101
 }

@@ -1,125 +1,125 @@
 {
   "id": "puzzle-216",
-  "title": "Bulmaca 101",
+  "title": "Bulmaca 127",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Servis kabı",
-      "answer": "TEPSİ",
+      "text": "Çok güçlü fırtına",
+      "answer": "KASIRGA",
       "row": 1,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sahne gösterisi",
-      "answer": "REVÜ",
-      "row": 1,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Piyasaya sürme",
+      "answer": "ARZ",
+      "row": 2,
+      "col": 4,
+      "arrow": "right"
     },
     {
-      "text": "Küçük taşıt",
-      "answer": "PİKAP",
+      "text": "Nişasta şekerlemesi",
+      "answer": "LOKUM",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sınırlama miktarı",
-      "answer": "KOTA",
+      "text": "Şampiyonluk ödülü",
+      "answer": "KUPA",
       "row": 4,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Ayak bakımı",
-      "answer": "PEDİKÜR",
-      "row": 4,
-      "col": 1,
-      "arrow": "down-right"
+      "text": "Temizlik maddesi",
+      "answer": "SABUN",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Batı soyluluk unvanı",
-      "answer": "VİKONT",
+      "text": "Kapatma aleti",
+      "answer": "KİLİT",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Pencere örtüsü",
-      "answer": "PERDE",
+      "text": "Sıtmaya tutulmuş",
+      "answer": "SITMALI",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ağıt şiiri",
-      "answer": "MERSİYE",
+      "text": "Üzücü olay",
+      "answer": "FACİA",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Defa, sefer",
-      "answer": "KEZ",
-      "row": 0,
+      "text": "Kısa ve toplu",
+      "answer": "TIKNAZ",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Döşem",
+      "answer": "TESİSAT",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İçme borusu",
-      "answer": "PİPET",
+      "text": "Müşteri",
+      "answer": "ALICI",
       "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Beyaz madde",
-      "answer": "ŞEKER",
-      "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Silindir kap",
-      "answer": "TÜP",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tır kasası",
-      "answer": "DORSE",
+      "text": "Bitkin, tükenmiş",
+      "answer": "BİTİK",
       "row": 4,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Öğle sonrası namaz",
-      "answer": "İKİNDİ",
+      "text": "Üniversite öğreticisi",
+      "answer": "OKUTMAN",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Karışık içki",
-      "answer": "KOKTEYL",
-      "row": 2,
+      "text": "Tilki yüzlü hayvan",
+      "answer": "RAKUN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Toplumsal konum",
-      "answer": "STATÜ",
+      "text": "Küme",
+      "answer": "GRUP",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kısa imza",
-      "answer": "PARAF",
-      "row": 2,
+      "text": "Üst giysisi",
+      "answer": "BLUZ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Aşırı büyümüş",
+      "answer": "AZMAN",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -131,19 +131,31 @@
     },
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
     },
     {
       "row": 0,
       "col": 4
     },
     {
-      "row": 0,
-      "col": 5
+      "row": 2,
+      "col": 0
     },
     {
-      "row": 0,
-      "col": 7
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 3
     },
     {
       "row": 3,
@@ -155,11 +167,15 @@
     },
     {
       "row": 6,
-      "col": 6
+      "col": 5
     },
     {
-      "row": 7,
-      "col": 6
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 5
     },
     {
       "row": 8,
@@ -167,25 +183,9 @@
     },
     {
       "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 2
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
-      "col": 6
-    },
-    {
-      "row": 9,
       "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 101
+  "order": 127
 }

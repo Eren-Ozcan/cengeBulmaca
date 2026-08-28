@@ -1,132 +1,139 @@
 {
   "id": "puzzle-274",
-  "title": "Bulmaca 107",
+  "title": "Bulmaca 183",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yeni doğan",
-      "answer": "BEBEK",
+      "text": "Büyücü",
+      "answer": "ŞAMAN",
       "row": 1,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Miktar eksilmesi",
-      "answer": "FİRE",
-      "row": 1,
+      "text": "Sabit",
+      "answer": "DURAĞAN",
+      "row": 2,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Gerçek yön",
-      "answer": "İÇYÜZ",
+      "text": "Yumuşak başlı",
+      "answer": "UYSAL",
       "row": 3,
-      "col": 2,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sivrisinek hastalığı",
-      "answer": "SITMA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Yiğit, kahraman",
-      "answer": "ALP",
-      "row": 4,
+      "text": "Öğrenme isteği",
+      "answer": "MERAK",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yerine geçen",
-      "answer": "KAİM",
+      "text": "Çok yiyen",
+      "answer": "OBUR",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Pat sesi",
-      "answer": "PATIRTI",
+      "text": "Şov",
+      "answer": "GÖSTERİ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tarım aracı",
-      "answer": "SABAN",
+      "text": "And Dağları ülkesi",
+      "answer": "PERU",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kalın ve dayanıklı",
-      "answer": "KUNT",
+      "text": "Saydam taş",
+      "answer": "BERİL",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kaçmış kimse",
-      "answer": "KAÇKIN",
+      "text": "Ağız kemiği",
+      "answer": "ÇENE",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güney Amerika devesi",
-      "answer": "ALPAKA",
+      "text": "Arazi girintisi",
+      "answer": "ENGEBE",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ayakkabı",
-      "answer": "PABUÇ",
-      "row": 4,
+      "text": "Bilinç",
+      "answer": "ŞUUR",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Sakınca, zarar",
-      "answer": "BEİS",
+      "text": "Eski yapı kalıntısı",
+      "answer": "ÖREN",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Operada solo parça",
+      "answer": "ARYA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Zırhlı taşıt",
-      "answer": "TANK",
+      "text": "Kur'an bölümü",
+      "answer": "SURE",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İleri çıkan bölüm",
-      "answer": "ÇIKINTI",
-      "row": 2,
+      "text": "Uğur getiren",
+      "answer": "MASKOT",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Veteriner",
-      "answer": "BAYTAR",
+      "text": "Büyük toprak sahibi",
+      "answer": "AĞA",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Umut",
-      "answer": "ÜMİT",
-      "row": 2,
+      "text": "Beş parçalı",
+      "answer": "BEŞLİ",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Hırdavatçı",
+      "answer": "NALBUR",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Döküntülü çocuk hastalığı",
-      "answer": "KIZAMIK",
-      "row": 0,
+      "text": "Kirpik boyası",
+      "answer": "RİMEL",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -142,27 +149,27 @@
     },
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
-      "col": 1
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 3,
+      "col": 7
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
       "row": 7,
-      "col": 5
+      "col": 4
     },
     {
       "row": 7,
@@ -170,25 +177,17 @@
     },
     {
       "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
       "col": 6
     },
     {
       "row": 9,
-      "col": 7
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "orta",
-  "order": 107
+  "order": 183
 }

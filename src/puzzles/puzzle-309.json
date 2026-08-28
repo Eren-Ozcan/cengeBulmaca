@@ -1,132 +1,139 @@
 {
   "id": "puzzle-309",
-  "title": "Bulmaca 124",
+  "title": "Bulmaca 153",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Gece eğlencesi",
-      "answer": "BALO",
+      "text": "Ajan",
+      "answer": "CASUS",
       "row": 0,
-      "col": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bağlanmış nesne",
-      "answer": "PAKET",
-      "row": 1,
-      "col": 1,
-      "arrow": "down-right"
+      "text": "Yanlışlıkla",
+      "answer": "KAZARA",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Sermaye koyma",
-      "answer": "YATIRIM",
+      "text": "Şalvar bağı",
+      "answer": "UÇKUR",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sarı-mavi karışımı",
-      "answer": "YEŞİL",
+      "text": "Kalp atışı",
+      "answer": "NABIZ",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İzinsiz şey",
-      "answer": "YASAK",
-      "row": 4,
-      "col": 0,
+      "text": "Spor sahası",
+      "answer": "STADYUM",
+      "row": 5,
+      "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Bakışım",
-      "answer": "SİMETRİ",
+      "text": "Görmeye dayalı",
+      "answer": "GÖRSEL",
       "row": 6,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gereksiz gürültü",
+      "answer": "VELVELE",
+      "row": 8,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kara altın",
-      "answer": "PETROL",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yumuşak deri",
-      "answer": "SÜET",
-      "row": 7,
+      "text": "Bölünmüş sayı",
+      "answer": "KESİR",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uğraşı, merak",
-      "answer": "HOBİ",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Lüks otel",
-      "answer": "PALAS",
-      "row": 1,
+      "text": "Beyazımsı",
+      "answer": "AKÇA",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Satrançta yenilgi",
-      "answer": "MAT",
+      "text": "Kapı çerçevesi",
+      "answer": "SÖVE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Hafif uykulu",
+      "answer": "SAK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Korunma yeri",
-      "answer": "SİPER",
+      "text": "Ruhsal gerilim",
+      "answer": "STRES",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Dünyanın sonu",
-      "answer": "KIYAMET",
-      "row": 1,
+      "text": "Kısa karşıtı",
+      "answer": "UZUN",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Bolluk",
-      "answer": "BEREKET",
+      "text": "Birincil, esas",
+      "answer": "ASLİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tutarık hastalığı",
+      "answer": "SARA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Nabız vuruşu",
-      "answer": "ATIŞ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Üçlü topluluk",
-      "answer": "TRİO",
+      "text": "Çağ, dönem",
+      "answer": "DEVR",
       "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bu biçimde",
+      "answer": "BÖYLE",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Makro karşıtı",
-      "answer": "MİKRO",
-      "row": 2,
+      "text": "Hac yapan",
+      "answer": "HACI",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Alaka",
-      "answer": "İLGİ",
-      "row": 5,
+      "text": "Üste kalan borç",
+      "answer": "ZİMMET",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -134,19 +141,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 5
     },
     {
       "row": 0,
@@ -154,33 +149,41 @@
     },
     {
       "row": 1,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
       "col": 7
     },
     {
-      "row": 3,
-      "col": 7
+      "row": 4,
+      "col": 0
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 5,
+      "col": 0
     },
     {
-      "row": 8,
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
       "col": 6
     },
     {
       "row": 9,
-      "col": 0
+      "col": 5
     },
     {
       "row": 9,
-      "col": 1
+      "col": 6
     }
   ],
   "difficulty": "orta",
-  "order": 124
+  "order": 153
 }

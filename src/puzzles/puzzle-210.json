@@ -1,132 +1,111 @@
 {
   "id": "puzzle-210",
-  "title": "Bulmaca 174",
+  "title": "Bulmaca 232",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kesme hamur",
-      "answer": "ERİŞTE",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Eski uzaklık ölçüsü",
-      "answer": "FERSAH",
-      "row": 2,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Rica ederim",
-      "answer": "LÜTFEN",
+      "text": "Bitek",
+      "answer": "VERİMLİ",
       "row": 2,
       "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Mektup",
-      "answer": "NAME",
-      "row": 4,
-      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gerçekten",
-      "answer": "SAHİ",
+      "text": "Küçük davul",
+      "answer": "TRAMPET",
       "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Sacda pişen ekmek",
-      "answer": "BAZLAMA",
-      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Takım kıyafeti",
-      "answer": "FORMA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Elverişli şart",
-      "answer": "İMKAN",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük parçacık",
-      "answer": "ZERRE",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hizmet alan",
-      "answer": "ABONE",
-      "row": 4,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Övünme",
-      "answer": "İFTİHAR",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yönetici",
-      "answer": "ŞEF",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ege incisi",
-      "answer": "İZMİR",
-      "row": 4,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Raylı taşıt",
-      "answer": "TREN",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Sim işlemeli kumaş",
-      "answer": "LAME",
+      "text": "Ağaç aracı",
+      "answer": "BALTA",
       "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İplik sarılan",
+      "answer": "MAKARA",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yenilmiş, aşınmış",
+      "answer": "YENİK",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yağda kavrulmuş yemek",
+      "answer": "SOTE",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Meltem",
+      "answer": "BRİZ",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Önerme, sav",
+      "answer": "TEZ",
+      "row": 9,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Renkli cam bezeme",
+      "answer": "VİTRAY",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kesik",
+      "answer": "KESİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sert siyah ağaç",
+      "answer": "ABANOZ",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Sigara artığı",
+      "answer": "İZMARİT",
+      "row": 1,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Süre, sıra",
-      "answer": "ESNA",
-      "row": 0,
+      "text": "Onurluk",
+      "answer": "PLAKET",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kaynak",
-      "answer": "MEMBA",
-      "row": 3,
+      "text": "Hastalık, dert",
+      "answer": "İLLET",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Görev, sorumluluk",
-      "answer": "UHDE",
-      "row": 0,
+      "text": "Lezzetsiz",
+      "answer": "TATSIZ",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -134,45 +113,73 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 6
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 2
+    },
+    {
+      "row": 1,
+      "col": 3
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 2
+    },
+    {
+      "row": 6,
       "col": 6
     },
     {
-      "row": 5,
-      "col": 5
-    },
-    {
-      "row": 5,
-      "col": 7
-    },
-    {
       "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
       "col": 6
     },
     {
-      "row": 9,
-      "col": 7
+      "row": 8,
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 174
+  "difficulty": "zor",
+  "order": 232
 }

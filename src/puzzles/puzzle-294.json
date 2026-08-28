@@ -1,111 +1,111 @@
 {
   "id": "puzzle-294",
-  "title": "Bulmaca 165",
+  "title": "Bulmaca 201",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Sığır çobanı",
-      "answer": "KOVBOY",
-      "row": 1,
+      "text": "Hafif topal",
+      "answer": "AKSAK",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yaranmak için verilen",
+      "answer": "PEŞKEŞ",
+      "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Acı bitki",
-      "answer": "PELİN",
-      "row": 2,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Büyükle küçük arası",
-      "answer": "ORTANCA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Düşünceye dalmış",
-      "answer": "DALGIN",
-      "row": 5,
+      "text": "Ani kuşatma",
+      "answer": "BASKIN",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ayrılmış bölüm",
-      "answer": "BÖLME",
-      "row": 5,
+      "text": "Batı",
+      "answer": "GARP",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Başka, öteki, diğer",
-      "answer": "SAİR",
-      "row": 7,
+      "text": "Hayvan besini",
+      "answer": "YEM",
+      "row": 5,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yunan dansı",
+      "answer": "SİRTAKİ",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Vücut yapısı",
-      "answer": "BÜNYE",
-      "row": 7,
+      "text": "Sirke tadında",
+      "answer": "EKŞİ",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mafsal",
-      "answer": "EKLEM",
+      "text": "Seslenme",
+      "answer": "HİTAP",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İnce palto",
-      "answer": "PARDÖSÜ",
-      "row": 2,
-      "col": 0,
-      "arrow": "right-down"
+      "text": "Kantar",
+      "answer": "BASKÜL",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
     },
     {
-      "text": "Yağma",
-      "answer": "TALAN",
-      "row": 3,
+      "text": "Ismarlama",
+      "answer": "SİPARİŞ",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tropik ağaç",
-      "answer": "PALMİYE",
+      "text": "Güldüren söz",
+      "answer": "ESPRİ",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Üçgen başlı yılan",
-      "answer": "ENGEREK",
-      "row": 2,
+      "text": "Kasır",
+      "answer": "KÖŞK",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bal üreticisi",
-      "answer": "BALCI",
-      "row": 0,
+      "text": "Dünyanın sonu",
+      "answer": "KIYAMET",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yardım parası",
-      "answer": "İANE",
-      "row": 2,
+      "text": "Tahsisat",
+      "answer": "ÖDENEK",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Taraf, istikamet",
-      "answer": "YÖN",
-      "row": 0,
+      "text": "Uzak göremeyen",
+      "answer": "MİYOP",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -113,15 +113,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
     },
     {
       "row": 0,
@@ -129,69 +121,69 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
       "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
       "col": 2
     },
     {
-      "row": 4,
-      "col": 7
-    },
-    {
-      "row": 5,
-      "col": 7
-    },
-    {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 7
+      "row": 8,
+      "col": 3
     },
     {
       "row": 8,
-      "col": 5
+      "col": 4
     },
     {
       "row": 8,
       "col": 6
-    },
-    {
-      "row": 8,
-      "col": 7
     },
     {
       "row": 9,
       "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 165
+  "difficulty": "zor",
+  "order": 201
 }

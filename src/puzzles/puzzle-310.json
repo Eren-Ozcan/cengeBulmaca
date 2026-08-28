@@ -1,132 +1,139 @@
 {
   "id": "puzzle-310",
-  "title": "Bulmaca 106",
+  "title": "Bulmaca 60",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Soğuk karşıtı",
-      "answer": "SICAK",
+      "text": "Ay ışığı",
+      "answer": "MEHTAP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bölümlü eser",
-      "answer": "SONAT",
+      "text": "Av alanı",
+      "answer": "AVLAK",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Parlak kırmızı",
-      "answer": "KIZIL",
-      "row": 2,
+      "text": "Önce karşıtı",
+      "answer": "SONRA",
+      "row": 3,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Yemek aracı",
-      "answer": "KAŞIK",
+      "text": "Mevlana ilimiz",
+      "answer": "KONYA",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Çatallı bitki",
-      "answer": "ÇALI",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yıkanacak giysi",
-      "answer": "ÇAMAŞIR",
-      "row": 5,
-      "col": 1,
+      "text": "Keman yayı",
+      "answer": "ARŞE",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çiçek halkası",
-      "answer": "ÇELENK",
+      "text": "Mevcudiyet",
+      "answer": "VARLIK",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sayıların ilki",
+      "answer": "BİR",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "En soğuk mevsim",
-      "answer": "KIŞ",
+      "text": "Türk boylarının atası",
+      "answer": "OĞUZ",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yayılan hastalık",
+      "answer": "SALGIN",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çok yorgun",
-      "answer": "BİTKİN",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Balık aracı",
+      "answer": "OLTA",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
     },
     {
-      "text": "Aydınlık enerjisi",
-      "answer": "IŞIK",
-      "row": 0,
+      "text": "Sofra hizmeti",
+      "answer": "SERVİS",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Odun ölçüsü",
-      "answer": "ÇEKİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Miras",
-      "answer": "KALIT",
+      "text": "Üzüm içkisi",
+      "answer": "ŞARAP",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kızgın, somurtkan (yüz)",
-      "answer": "ASIK",
+      "text": "Akaryakıt gemisi",
+      "answer": "TANKER",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sanat alıştırması",
-      "answer": "MEŞK",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Çevreyi dolaşma",
-      "answer": "KOLAÇAN",
+      "text": "AB para birimi",
+      "answer": "AVRO",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ne yapacağını bilmez",
-      "answer": "ŞAŞKIN",
-      "row": 3,
+      "text": "Kurum simgesi",
+      "answer": "LOGO",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İş düzeni",
+      "answer": "PLAN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Havada duran",
-      "answer": "ASILI",
-      "row": 1,
+      "text": "Yavaşça akan",
+      "answer": "IĞIL",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kalın ve dayanıklı",
+      "answer": "KUNT",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Donmuş çiy",
-      "answer": "KIRAĞI",
-      "row": 3,
+      "text": "Su birikintisi",
+      "answer": "AKMAZ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -134,53 +141,45 @@
   "blocks": [
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 6
-    },
-    {
-      "row": 0,
-      "col": 7
     },
     {
       "row": 1,
-      "col": 5
+      "col": 6
     },
     {
-      "row": 1,
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 6,
       "col": 7
     },
     {
-      "row": 4,
-      "col": 0
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
       "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 6
+      "col": 7
     },
     {
       "row": 9,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 106
+  "difficulty": "kolay",
+  "order": 60
 }

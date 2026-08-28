@@ -1,139 +1,125 @@
 {
   "id": "puzzle-169",
-  "title": "Bulmaca 206",
+  "title": "Bulmaca 190",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Organ boşluğu",
-      "answer": "SİNÜS",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Tekerlek dışı",
+      "answer": "LASTİK",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Baş kılları",
-      "answer": "SAÇ",
+      "text": "Tüylü yeşil meyve",
+      "answer": "KİVİ",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Metal kızgınlığı",
-      "answer": "TAV",
-      "row": 1,
-      "col": 5,
-      "arrow": "down-right"
+      "text": "Bebek sargısı",
+      "answer": "KUNDAK",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Ruhsal gerilim",
-      "answer": "STRES",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dış satım",
-      "answer": "İHRACAT",
+      "text": "Onarılamaz hasar",
+      "answer": "PERT",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kaba yün kumaş",
-      "answer": "KEBE",
+      "text": "Uyum sağlama",
+      "answer": "İNTİBAK",
       "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Mektup",
+      "answer": "NAME",
+      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Pişmanlık",
-      "answer": "NEDAMET",
-      "row": 6,
-      "col": 0,
+      "text": "Dar kumaş",
+      "answer": "ŞERİT",
+      "row": 7,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ekmekli çorba",
-      "answer": "PAPARA",
-      "row": 6,
+      "text": "Durak işareti",
+      "answer": "ES",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hayır",
-      "answer": "İYİLİK",
+      "text": "Bir denizimiz",
+      "answer": "EGE",
       "row": 8,
-      "col": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "'Asla' ünlemi",
-      "answer": "SAKIN",
-      "row": 8,
+      "text": "51 numaralı element",
+      "answer": "ANTİMON",
+      "row": 9,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Ayrık durum",
-      "answer": "İSTİSNA",
-      "row": 0,
+      "text": "Alım satım ortamı",
+      "answer": "PİYASA",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Resmî fiyat sınırı",
-      "answer": "NARH",
+      "text": "Mantar-yosun bitkisi",
+      "answer": "LİKEN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Destansı",
-      "answer": "EPİK",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Üçlü paylaştırma",
-      "answer": "ÜÇER",
+      "text": "Yanak içi",
+      "answer": "AVURT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Annenin erkek kardeşi",
-      "answer": "DAYI",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yapay tatlandırıcı",
-      "answer": "SAKARİN",
-      "row": 2,
+      "text": "Gemi dibi",
+      "answer": "SİNTİNE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yüz güzelliği",
-      "answer": "CEMAL",
-      "row": 3,
+      "text": "Maaş çizelgesi",
+      "answer": "BAREM",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Peygamber arkadaşı",
-      "answer": "SAHABE",
-      "row": 0,
+      "text": "Seyirci coşturucusu",
+      "answer": "AMİGO",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Silah parçası",
-      "answer": "TETİK",
-      "row": 3,
+      "text": "Dokuma bitkisi",
+      "answer": "KETEN",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -141,11 +127,19 @@
   "blocks": [
     {
       "row": 0,
-      "col": 4
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
     },
     {
       "row": 0,
       "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
     },
     {
       "row": 0,
@@ -153,29 +147,41 @@
     },
     {
       "row": 1,
-      "col": 7
-    },
-    {
-      "row": 5,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 9,
+      "row": 2,
       "col": 5
     },
     {
-      "row": 9,
+      "row": 2,
       "col": 6
     },
     {
-      "row": 9,
+      "row": 2,
       "col": 7
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
     }
   ],
   "difficulty": "zor",
-  "order": 206
+  "order": 190
 }

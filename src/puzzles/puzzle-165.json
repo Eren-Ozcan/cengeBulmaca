@@ -1,145 +1,145 @@
 {
   "id": "puzzle-165",
-  "title": "Bulmaca 123",
+  "title": "Bulmaca 114",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Hamur açacağı",
-      "answer": "OKLAVA",
+      "text": "Gece uçan memeli",
+      "answer": "YARASA",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Derin çukur",
-      "answer": "KUYU",
+      "text": "I simgeli element",
+      "answer": "İYOT",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Irmak, çay, dere",
-      "answer": "AKARSU",
+      "text": "Askerî yönetim",
+      "answer": "KOMUTA",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Altılı doğum",
-      "answer": "ALTIZ",
+      "text": "Şakacı, takılgan",
+      "answer": "MUZİP",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kelam",
-      "answer": "SÖZ",
+      "text": "Koyun lifi",
+      "answer": "YÜN",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sayılmayacak kadar",
-      "answer": "SAYISIZ",
+      "text": "Tertemiz",
+      "answer": "LEKESİZ",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Temsilci",
-      "answer": "DELEGE",
+      "text": "Köyden büyük yer",
+      "answer": "KASABA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mantar-yosun bitkisi",
-      "answer": "LİKEN",
+      "text": "Rahatsız böcek",
+      "answer": "SİNEK",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İlmikli ip",
-      "answer": "KEMENT",
+      "text": "Enerji ölçü birimi",
+      "answer": "KALORİ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kalın taban derisi",
-      "answer": "KÖSELE",
+      "text": "Özet",
+      "answer": "HÜLASA",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İğne süsü",
-      "answer": "OYA",
+      "text": "Var karşıtı",
+      "answer": "YOK",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Acımasız, zulmeden",
-      "answer": "ZALİM",
+      "text": "Kuşak",
+      "answer": "NESİL",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Oyuncak bebek",
-      "answer": "KUKA",
+      "text": "Madde parçacığı",
+      "answer": "ATOM",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dümen kolu",
-      "answer": "YEKE",
+      "text": "Küçük, hafif kayık",
+      "answer": "KANO",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Altı kenarlı",
-      "answer": "ALTIGEN",
+      "text": "Geçerli sayılan",
+      "answer": "MUTEBER",
       "row": 2,
       "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Ana atardamar",
-      "answer": "AORT",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dolar parçası",
-      "answer": "SENT",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Akışkan madde",
-      "answer": "SIVI",
-      "row": 2,
-      "col": 6,
       "arrow": "down"
     },
     {
       "text": "Divan şiiri ölçüsü",
       "answer": "ARUZ",
       "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İçki dağıtıcı",
+      "answer": "SAKİ",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kar fırtınası",
+      "answer": "TİPİ",
+      "row": 2,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyük acı, ıstırap",
+      "answer": "AZAP",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     },
     {
-      "text": "Mektup kesesi",
-      "answer": "ZARF",
+      "text": "Işık",
+      "answer": "ZİYA",
       "row": 5,
       "col": 7,
       "arrow": "down"
@@ -180,5 +180,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 123
+  "order": 114
 }

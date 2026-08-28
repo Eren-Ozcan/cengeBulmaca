@@ -1,6 +1,6 @@
 {
   "id": "puzzle-22",
-  "title": "Bulmaca 69",
+  "title": "Bulmaca 73",
   "rows": 10,
   "cols": 8,
   "clues": [
@@ -96,7 +96,7 @@
       "arrow": "down"
     },
     {
-      "text": "Fasıla",
+      "text": "Boşluk, aralık",
       "answer": "ARA",
       "row": 0,
       "col": 4,
@@ -186,5 +186,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 69
+  "order": 73
 }

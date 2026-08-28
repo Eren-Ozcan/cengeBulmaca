@@ -1,6 +1,6 @@
 {
   "id": "puzzle-139",
-  "title": "Bulmaca 120",
+  "title": "Bulmaca 180",
   "rows": 10,
   "cols": 8,
   "clues": [
@@ -26,8 +26,8 @@
       "arrow": "down-right"
     },
     {
-      "text": "Nefis",
-      "answer": "ENFES",
+      "text": "Dar olan",
+      "answer": "ENSİZ",
       "row": 4,
       "col": 2,
       "arrow": "right"
@@ -47,22 +47,22 @@
       "arrow": "right"
     },
     {
-      "text": "Sadaka isteyen",
-      "answer": "DİLENCİ",
+      "text": "Tablo",
+      "answer": "ÇİZELGE",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çapraz bakan",
-      "answer": "ŞAŞI",
+      "text": "Yaşlı karşıtı",
+      "answer": "GENÇ",
       "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Deli, kaçık",
-      "answer": "DİVANE",
+      "text": "Piknik yeri",
+      "answer": "MESİRE",
       "row": 9,
       "col": 0,
       "arrow": "right"
@@ -82,8 +82,8 @@
       "arrow": "down"
     },
     {
-      "text": "Silme aracı",
-      "answer": "SİLGİ",
+      "text": "Size göre",
+      "answer": "SİZCE",
       "row": 4,
       "col": 2,
       "arrow": "down"
@@ -103,29 +103,29 @@
       "arrow": "down"
     },
     {
-      "text": "Yapı kurma",
-      "answer": "İNŞA",
+      "text": "Alaka",
+      "answer": "İLGİ",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kulplu küçük kap",
-      "answer": "FİNCAN",
+      "text": "Deniz canlısı",
+      "answer": "SÜNGER",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Bilet penceresi",
-      "answer": "GİŞE",
+      "text": "Yine",
+      "answer": "GENE",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ders anlatısı",
-      "answer": "KISSA",
+      "text": "Ocak gazı",
+      "answer": "GRİZU",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -178,5 +178,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 120
+  "order": 180
 }

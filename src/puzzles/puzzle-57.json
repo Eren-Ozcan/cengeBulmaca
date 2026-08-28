@@ -1,6 +1,6 @@
 {
   "id": "puzzle-57",
-  "title": "Bulmaca 1",
+  "title": "Bulmaca 3",
   "rows": 10,
   "cols": 8,
   "clues": [
@@ -19,7 +19,7 @@
       "arrow": "down-right"
     },
     {
-      "text": "Sıçrayınca çıkan",
+      "text": "Zıplama sesi",
       "answer": "ZIP",
       "row": 2,
       "col": 4,
@@ -176,5 +176,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 1
+  "order": 3
 }

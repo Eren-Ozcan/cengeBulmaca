@@ -1,132 +1,139 @@
 {
   "id": "puzzle-166",
-  "title": "Bulmaca 203",
+  "title": "Bulmaca 98",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Köyden büyük yer",
-      "answer": "KASABA",
+      "text": "Zehirsiz yılan",
+      "answer": "PİTON",
+      "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tatlı içecek",
+      "answer": "ŞERBET",
       "row": 1,
       "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Onarım",
-      "answer": "TAMİR",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yasak uyarıcı",
-      "answer": "DOPİNG",
-      "row": 2,
-      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bölge",
-      "answer": "MINTIKA",
+      "text": "Vaktinden önce",
+      "answer": "ERKEN",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sessiz karşıtı",
+      "answer": "SESLİ",
       "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kumarhane görevlisi",
+      "answer": "KRUPİYE",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dogma",
-      "answer": "İNAK",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Türk hükümdarı",
-      "answer": "HAKAN",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tertemiz",
-      "answer": "LEKESİZ",
+      "text": "Rezillik",
+      "answer": "REZALET",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Talih",
-      "answer": "ŞANS",
+      "text": "Yağlı merhem",
+      "answer": "POMAT",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Titreyen",
-      "answer": "TİTREK",
+      "text": "Yapay tatlandırıcı",
+      "answer": "SAKARİN",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Taş çekme oyunu",
-      "answer": "TOMBALA",
-      "row": 1,
+      "text": "Topluluk mensubu",
+      "answer": "ÜYE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Kır koşusu",
+      "answer": "KROS",
+      "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Giriş bölmesi",
-      "answer": "KAPI",
-      "row": 0,
+      "text": "Süt tatlısı",
+      "answer": "KREMA",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Şehir",
-      "answer": "KENT",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Duadan sonra denen",
-      "answer": "AMİN",
+      "text": "Baskı makinesi",
+      "answer": "PRES",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ters, huysuz",
-      "answer": "AKSİ",
+      "text": "Yakın karşıtı",
+      "answer": "UZAK",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Gemi dibi",
-      "answer": "SİNTİNE",
+      "text": "Gösterge çubuğu",
+      "answer": "İBRE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yorgun, bitkin, mecalsiz",
-      "answer": "ARGIN",
+      "text": "Berabere kalma",
+      "answer": "PATA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Dokuma sanayisi",
+      "answer": "TEKSTİL",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Tüylü kumaş",
-      "answer": "KADİFE",
-      "row": 3,
+      "text": "Konaklama işletmesi",
+      "answer": "OTEL",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Sık ağlayan",
-      "answer": "AĞLAK",
-      "row": 0,
+      "text": "Eski karşıtı",
+      "answer": "YENİ",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Karar verme",
+      "answer": "NİYET",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -142,27 +149,23 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
       "col": 0
     },
     {
-      "row": 2,
-      "col": 6
+      "row": 3,
+      "col": 1
     },
     {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 4
+      "row": 4,
+      "col": 1
     },
     {
       "row": 8,
@@ -171,12 +174,8 @@
     {
       "row": 8,
       "col": 7
-    },
-    {
-      "row": 9,
-      "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 203
+  "difficulty": "orta",
+  "order": 98
 }

@@ -1,132 +1,132 @@
 {
   "id": "puzzle-275",
-  "title": "Bulmaca 119",
+  "title": "Bulmaca 63",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Alık, sünepe",
-      "answer": "ŞAPŞAL",
+      "text": "Samimi hitap",
+      "answer": "BACI",
       "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Nişasta bulamacı",
-      "answer": "KOLA",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yolculuk",
-      "answer": "SEFER",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Börek satan",
-      "answer": "BÖREKÇİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kenar boşluğu",
-      "answer": "MARJ",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Güldüren söz",
-      "answer": "ESPRİ",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İnce, zarif",
-      "answer": "NARİN",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Birinci, öncü",
-      "answer": "İLK",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hindistan halkından",
-      "answer": "HİNT",
-      "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Sağlıksız kimse",
-      "answer": "HASTA",
+      "text": "Kadın hükümdar",
+      "answer": "MELİKE",
+      "row": 1,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kişi, şahıs",
+      "answer": "ZAT",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Işık halkası",
+      "answer": "AYLA",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Zarfla gönderilen yazı",
+      "answer": "MEKTUP",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Koyu karşıtı",
+      "answer": "SULU",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yazılı tabela",
+      "answer": "LEVHA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yuvarlak kap",
+      "answer": "VARİL",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Mor kırmızı",
+      "answer": "GÜVEZ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yağma",
+      "answer": "TALAN",
       "row": 9,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Izgara et",
-      "answer": "KEBAP",
+      "text": "İşlenmiş eşya",
+      "answer": "MAMUL",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sürücü",
-      "answer": "ŞOFÖR",
+      "text": "Hesap kertiği",
+      "answer": "ÇETELE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Alerji yapan madde",
-      "answer": "ALERJEN",
-      "row": 0,
+      "text": "Fiziksel güç",
+      "answer": "KUVVET",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Parça",
-      "answer": "PARE",
+      "text": "Yönetici itaati",
+      "answer": "BİAT",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Alan; oyun yeri",
-      "answer": "SAHA",
+      "text": "Tam anlamıyla",
+      "answer": "HAZA",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Değişken istek",
-      "answer": "KAPRİS",
-      "row": 3,
+      "text": "Savunma hücresi",
+      "answer": "AKYUVAR",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Zevk düşkünü",
-      "answer": "RİNT",
-      "row": 5,
+      "text": "Askerlik çağrısı",
+      "answer": "CELP",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kısa namlulu tüfek",
-      "answer": "FİLİNTA",
-      "row": 2,
+      "text": "Yeni evli",
+      "answer": "GELİN",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -142,11 +142,7 @@
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 3
     },
     {
       "row": 0,
@@ -158,23 +154,27 @@
     },
     {
       "row": 2,
-      "col": 5
+      "col": 7
     },
     {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
+      "row": 5,
       "col": 6
     },
     {
       "row": 6,
-      "col": 0
+      "col": 6
     },
     {
       "row": 7,
       "col": 1
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
@@ -185,6 +185,6 @@
       "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 119
+  "difficulty": "kolay",
+  "order": 63
 }

@@ -1,138 +1,117 @@
 {
   "id": "puzzle-277",
-  "title": "Bulmaca 75",
+  "title": "Bulmaca 135",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Zeki deniz memelisi",
-      "answer": "YUNUS",
+      "text": "Düğün çalgısı",
+      "answer": "ZURNA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ufki",
-      "answer": "YATAY",
+      "text": "Adla ilgili",
+      "answer": "ADSAL",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ahmak",
-      "answer": "BUDALA",
+      "text": "Çok bilgili",
+      "answer": "ALLAME",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Özür",
-      "answer": "MAZERET",
+      "text": "Gurur",
+      "answer": "KİBİR",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Döviz oranı",
-      "answer": "KUR",
+      "text": "Yenilik düşkünlüğü",
+      "answer": "MODA",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sıtmaya tutulmuş",
-      "answer": "SITMALI",
+      "text": "Su sığırı",
+      "answer": "MANDA",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cinayete dair",
-      "answer": "CİNAİ",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kaynamakta olan",
-      "answer": "KAYNAR",
-      "row": 8,
+      "text": "Bağlaşma",
+      "answer": "İTTİFAK",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Söyleyerek yazdırma",
-      "answer": "DİKTE",
+      "text": "Kara kış",
+      "answer": "ZEMHERİ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Müzik",
-      "answer": "MUSİKİ",
+      "text": "Alt kurul",
+      "answer": "KOMİTE",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sığınılacak yer",
-      "answer": "BARINAK",
+      "text": "Üyelik ücreti",
+      "answer": "AİDAT",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Deri hastalığı",
-      "answer": "UYUZ",
+      "text": "Nal çakan",
+      "answer": "NALBANT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Esnek giysi",
-      "answer": "TAYT",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Şekersiz kahve",
-      "answer": "SADE",
+      "text": "Hukukla ilgili",
+      "answer": "ADLİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Diş dokusu",
-      "answer": "MİNE",
+      "text": "Mısra",
+      "answer": "DİZE",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Ürün toprağı",
-      "answer": "TARLA",
+      "text": "Kuyumcu, para bozan",
+      "answer": "SARRAF",
       "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sahne dansı",
-      "answer": "BALE",
+      "text": "Mikroskop parçası",
+      "answer": "LAM",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ansızın, birdenbire",
-      "answer": "LARP",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Namaz vakti",
-      "answer": "YATSI",
+      "text": "Beyaz etli balık",
+      "answer": "LEVREK",
       "row": 1,
       "col": 7,
       "arrow": "down"
@@ -168,12 +147,32 @@
       "col": 0
     },
     {
-      "row": 7,
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
       "col": 5
     },
     {
-      "row": 7,
-      "col": 7
+      "row": 8,
+      "col": 6
     },
     {
       "row": 8,
@@ -181,13 +180,9 @@
     },
     {
       "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 75
+  "difficulty": "orta",
+  "order": 135
 }

@@ -1,145 +1,145 @@
 {
   "id": "puzzle-212",
-  "title": "Bulmaca 63",
+  "title": "Bulmaca 13",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Süprüntü",
-      "answer": "ÇÖP",
+      "text": "Yuvarlak parça",
+      "answer": "TOPAK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tek hücreli canlı",
-      "answer": "AMİP",
-      "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Rus parası",
-      "answer": "RUBLE",
+      "text": "Çekişme, anlaşmazlık, kavga",
+      "answer": "NİZA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kısa yergi şiiri",
-      "answer": "EPİGRAM",
+      "text": "Uyarlayıcı parça",
+      "answer": "ADAPTÖR",
       "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tamirat",
-      "answer": "ONARIM",
-      "row": 3,
+      "text": "Yürütme hakkı",
+      "answer": "YETKİ",
+      "row": 4,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "İngiliz ölçüsü",
-      "answer": "YARDA",
+      "text": "Hilal",
+      "answer": "AYÇA",
       "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayrılan bölüm",
+      "answer": "PARÇA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Küçük bağlama",
+      "answer": "CURA",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ezan okuyan",
-      "answer": "MÜEZZİN",
+      "text": "Metal iplik",
+      "answer": "TEL",
       "row": 7,
-      "col": 0,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Uygulama, yapma",
-      "answer": "İCRA",
+      "text": "Manzaralı ev",
+      "answer": "NAZIR",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Net karşıtı",
-      "answer": "FLU",
+      "text": "At yetiştiren kimse",
+      "answer": "ATÇI",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gizli tuzak",
-      "answer": "PUSU",
+      "text": "Tırnak cilası",
+      "answer": "OJE",
       "row": 9,
-      "col": 3,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Eski yapı kalıntısı",
-      "answer": "ÖREN",
+      "text": "Tasdik",
+      "answer": "ONAY",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Sebep olan güç",
-      "answer": "AMİL",
+      "text": "Fırsat",
+      "answer": "PUNT",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Geminin arkası",
-      "answer": "PUPA",
+      "text": "Yassı, mayalı ekmek",
+      "answer": "PİDE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Geri dönme",
-      "answer": "RÜCU",
+      "text": "Alet, vasıta",
+      "answer": "ARAÇ",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Erkek kardeş",
-      "answer": "BİRADER",
-      "row": 1,
+      "text": "Serbest bırakma",
+      "answer": "AZAT",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İdrak",
-      "answer": "ALGI",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Büyük acı, ıstırap",
-      "answer": "AZAP",
+      "text": "Kabul eden",
+      "answer": "RAZI",
       "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kapıp kaçma",
+      "answer": "KAPKAÇ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Patlayıcı madde",
-      "answer": "MERMİ",
-      "row": 0,
+      "text": "Sahne sanatı",
+      "answer": "TİYATRO",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Patates atıştırmalığı",
-      "answer": "CİPS",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırmızı-beyaz karışımı",
-      "answer": "PEMBE",
+      "text": "Soğuk giysisi",
+      "answer": "HIRKA",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -148,10 +148,18 @@
   "blocks": [
     {
       "row": 0,
-      "col": 3
+      "col": 5
     },
     {
       "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
       "col": 6
     },
     {
@@ -163,8 +171,12 @@
       "col": 6
     },
     {
+      "row": 5,
+      "col": 0
+    },
+    {
       "row": 6,
-      "col": 5
+      "col": 6
     },
     {
       "row": 6,
@@ -172,7 +184,7 @@
     },
     {
       "row": 8,
-      "col": 5
+      "col": 6
     },
     {
       "row": 8,
@@ -180,5 +192,5 @@
     }
   ],
   "difficulty": "kolay",
-  "order": 63
+  "order": 13
 }

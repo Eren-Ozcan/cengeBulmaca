@@ -1,111 +1,118 @@
 {
   "id": "puzzle-156",
-  "title": "Bulmaca 191",
+  "title": "Bulmaca 28",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Çünkü",
-      "answer": "ZİRA",
+      "text": "Yemek listesi",
+      "answer": "MENÜ",
       "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ölüm vakti",
+      "answer": "ECEL",
+      "row": 1,
       "col": 4,
       "arrow": "down-right"
     },
     {
-      "text": "Yüz kılları",
-      "answer": "SAKAL",
-      "row": 1,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Dar uzun körfez",
-      "answer": "FİYORT",
+      "text": "Kuşların barınağı",
+      "answer": "YUVA",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Seçim sorusu",
-      "answer": "HANGİ",
+      "text": "Ateşleyici",
+      "answer": "ÇAKMAK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Vicdan duygusu",
-      "answer": "İNSAF",
+      "text": "Aptal, dengesiz",
+      "answer": "SALAK",
       "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tasdik",
-      "answer": "ONAY",
-      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "78 numaralı element",
-      "answer": "PLATİN",
+      "text": "Hediye",
+      "answer": "ARMAĞAN",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kesin yargı",
+      "answer": "KARAR",
       "row": 7,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Marpuçlu tütün aleti",
-      "answer": "NARGİLE",
+      "text": "Aile işareti",
+      "answer": "ARMA",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Dönme hareketi",
+      "answer": "TAKLA",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Büyü",
-      "answer": "SİHİR",
-      "row": 1,
+      "text": "Gökyüzü oyuncağı",
+      "answer": "UÇURTMA",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kadın unvanı",
-      "answer": "BAYAN",
+      "text": "Parlayan yıldız",
+      "answer": "NOVA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Duvar kenarı mobilya",
-      "answer": "KONSOL",
-      "row": 1,
+      "text": "Yaşlı bilge",
+      "answer": "AKSAKAL",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Uzun gagalı balık",
-      "answer": "ZARGANA",
-      "row": 0,
+      "text": "Yer altı boşluğu",
+      "answer": "MAĞARA",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Güzel söz",
-      "answer": "İLTİFAT",
-      "row": 0,
+      "text": "Tehlike işareti",
+      "answer": "ALARM",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Gene",
-      "answer": "YİNE",
-      "row": 5,
+      "text": "Yeter bulma",
+      "answer": "KANAAT",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Öç isteği",
-      "answer": "KİN",
-      "row": 2,
+      "text": "Göz rengi",
+      "answer": "ELA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -113,10 +120,6 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
@@ -125,31 +128,27 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 4
     },
     {
       "row": 0,
-      "col": 7
+      "col": 5
     },
     {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 2,
+      "row": 0,
       "col": 6
     },
     {
-      "row": 3,
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
       "col": 6
     },
     {
       "row": 4,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 0
+      "col": 7
     },
     {
       "row": 6,
@@ -161,33 +160,17 @@
     },
     {
       "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
       "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 191
+  "difficulty": "kolay",
+  "order": 28
 }

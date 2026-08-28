@@ -1,139 +1,125 @@
 {
   "id": "puzzle-263",
-  "title": "Bulmaca 25",
+  "title": "Bulmaca 128",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Taban, yer",
-      "answer": "ZEMİN",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kira ödeyen",
-      "answer": "KİRACI",
-      "row": 1,
+      "text": "Gerekli malzeme",
+      "answer": "GEREÇ",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mutlu",
-      "answer": "MESUT",
+      "text": "Oranlama",
+      "answer": "KIYAS",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Toplumsal konum",
+      "answer": "STATÜ",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Saklanmış olan",
-      "answer": "SAKLI",
+      "text": "Yeşil yapraklı sebze",
+      "answer": "ISPANAK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hükümdar başlığı",
-      "answer": "TAÇ",
+      "text": "Mazeret",
+      "answer": "ÖZÜR",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Asla sözü",
-      "answer": "HAŞA",
+      "text": "Ölçülü davranma",
+      "answer": "TEMKİN",
+      "row": 6,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Giyim eşyası",
+      "answer": "GİYSİ",
       "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Bahar ısınması",
-      "answer": "CEMRE",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Harf dizisi",
-      "answer": "ALFABE",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Vakıf senedi",
-      "answer": "VAKFİYE",
+      "text": "Et suyu çorbası",
+      "answer": "KONSOME",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Su sürüngeni",
-      "answer": "TİMSAH",
-      "row": 0,
+      "text": "Dişi çocuk",
+      "answer": "KIZ",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Şişe kapağı aracı",
-      "answer": "AÇACAK",
+      "text": "Kadın iç giysisi",
+      "answer": "SÜTYEN",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yapıştırıcı madde",
-      "answer": "ZAMK",
+      "text": "Hızlı tren",
+      "answer": "EKSPRES",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kıta sahanlığı",
-      "answer": "ŞELF",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ölüm vakti",
-      "answer": "ECEL",
+      "text": "İnce, uzun tahta",
+      "answer": "ÇITA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Üniversite dersliği",
-      "answer": "AMFİ",
+      "text": "Japon çorbası çeşnisi",
+      "answer": "MİSO",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sarı tahıl",
-      "answer": "MISIR",
+      "text": "Göz-burun arası",
+      "answer": "YANAK",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapılan yanlış",
+      "answer": "HATA",
       "row": 0,
-      "col": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tren yolu",
-      "answer": "RAY",
-      "row": 6,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Hamile",
-      "answer": "GEBE",
+      "text": "Mayhoş ağaç",
+      "answer": "İĞDE",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Konuşma, söylev",
-      "answer": "NUTUK",
-      "row": 0,
+      "text": "Durgunluk, sükûnet",
+      "answer": "SÜKUN",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -141,7 +127,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
@@ -149,30 +135,42 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 6
+      "col": 0
     },
     {
       "row": 3,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 6
+      "row": 7,
+      "col": 5
     },
     {
-      "row": 6,
+      "row": 7,
       "col": 7
     },
     {
-      "row": 7,
-      "col": 0
+      "row": 8,
+      "col": 1
     },
     {
-      "row": 7,
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
       "col": 7
     },
     {
@@ -180,6 +178,6 @@
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 25
+  "difficulty": "orta",
+  "order": 128
 }

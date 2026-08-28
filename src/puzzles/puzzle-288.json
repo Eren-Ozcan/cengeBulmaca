@@ -1,139 +1,132 @@
 {
   "id": "puzzle-288",
-  "title": "Bulmaca 74",
+  "title": "Bulmaca 188",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Sopalı spor",
-      "answer": "HOKEY",
+      "text": "Musluklu yıkama yeri",
+      "answer": "LAVABO",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ümit",
-      "answer": "UMUT",
+      "text": "Olumsuz",
+      "answer": "MENFİ",
       "row": 2,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kâinat",
-      "answer": "EVREN",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
+      "text": "Ermiş",
+      "answer": "EVLİYA",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Ortodoks başı",
-      "answer": "PATRİK",
+      "text": "İş birimi",
+      "answer": "ERG",
       "row": 4,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Sofra bezi",
-      "answer": "PEÇETE",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Çok sıkıntı çeken",
-      "answer": "ÇİLEKEŞ",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kozalaklı ağaç",
-      "answer": "LADİN",
-      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eleştiri",
-      "answer": "TENKİT",
-      "row": 9,
+      "text": "Duvar harcı",
+      "answer": "SIVA",
+      "row": 4,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kokulu beyaz çiçek",
+      "answer": "YASEMİN",
+      "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Cümle âlem",
-      "answer": "HERKES",
-      "row": 0,
+      "text": "Yapı tabanı",
+      "answer": "TEMEL",
+      "row": 6,
       "col": 0,
-      "arrow": "down"
+      "arrow": "down-right"
     },
     {
-      "text": "Yol birleşimi",
-      "answer": "ÇAT",
-      "row": 6,
+      "text": "Sınırı aşma",
+      "answer": "TECAVÜZ",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tasvir",
+      "answer": "BETİM",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Karma sahne gösterisi",
+      "answer": "VARYETE",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yumurtalı tatlı",
-      "answer": "KREP",
+      "text": "Üreme hücresi",
+      "answer": "GAMET",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Tek hücreli canlı",
+      "answer": "AMİP",
       "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Yassı, mayalı ekmek",
-      "answer": "PİDE",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Petrol merhemi",
-      "answer": "VAZELİN",
-      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Vatan",
-      "answer": "YURT",
+      "text": "Nesirde uyak",
+      "answer": "SECİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Koca, eş",
+      "answer": "BEY",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Arp benzeri çalgı",
-      "answer": "ÇENK",
-      "row": 5,
+      "text": "Nezaket gösterisi",
+      "answer": "SELAM",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Işık kıran cam",
-      "answer": "MERCEK",
-      "row": 1,
+      "text": "Tamirat",
+      "answer": "ONARIM",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yapay",
-      "answer": "SUNİ",
+      "text": "Mikroskobik asalak",
+      "answer": "VİRÜS",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Karanlık hapis",
+      "answer": "ZİNDAN",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Çamaşır leğeni",
-      "answer": "TEŞT",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Çocuk yuvası",
-      "answer": "KREŞ",
-      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -145,41 +138,37 @@
     },
     {
       "row": 0,
-      "col": 3
+      "col": 2
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 1,
-      "col": 7
+      "col": 6
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 3,
+      "col": 6
     },
     {
-      "row": 5,
-      "col": 1
-    },
-    {
-      "row": 8,
+      "row": 7,
       "col": 5
     },
     {
-      "row": 8,
+      "row": 7,
       "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
     },
     {
       "row": 9,
       "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 74
+  "difficulty": "orta",
+  "order": 188
 }

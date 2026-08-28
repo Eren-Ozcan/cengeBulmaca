@@ -1,131 +1,131 @@
 {
   "id": "puzzle-170",
-  "title": "Bulmaca 170",
+  "title": "Bulmaca 229",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Açık karşıtı",
-      "answer": "GİZLİ",
+      "text": "Geri gelme",
+      "answer": "DÖNÜŞ",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Piyasaya sürme",
-      "answer": "ARZ",
+      "text": "Süs oyuğu",
+      "answer": "NİŞ",
       "row": 1,
       "col": 5,
       "arrow": "down-right"
     },
     {
-      "text": "Yumurtalı tava yemeği",
-      "answer": "KAYGANA",
+      "text": "Tatlı su kabuklusu",
+      "answer": "KEREVİT",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Hayvan bilimi",
-      "answer": "ZOOLOJİ",
+      "text": "Çam meyvesi",
+      "answer": "KOZALAK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Baskı makinesi",
-      "answer": "PRES",
+      "text": "Müddet",
+      "answer": "SÜRE",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yas",
-      "answer": "MATEM",
+      "text": "Ağır karşıtı",
+      "answer": "HAFİF",
       "row": 5,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Yanlışlıkla",
-      "answer": "KAZARA",
+      "text": "Dolaylı anlatım",
+      "answer": "KİNAYE",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Söz",
-      "answer": "KELAM",
+      "text": "Zorunlu para",
+      "answer": "VERGİ",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yayın bütünü",
-      "answer": "BASIN",
+      "text": "Açık artırma",
+      "answer": "MEZAT",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kısa anlatım",
-      "answer": "İCAZ",
+      "text": "Küme, grup",
+      "answer": "ÖBEK",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kor aracı",
-      "answer": "MAŞA",
+      "text": "Bağış",
+      "answer": "HİBE",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bağnaz kimse",
-      "answer": "YOBAZ",
+      "text": "Kurmaca eser",
+      "answer": "ROMAN",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kurum simgesi",
-      "answer": "LOGO",
+      "text": "Kırmızı meyveli ağaç",
+      "answer": "ÜVEZ",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ziynet eşyası",
-      "answer": "TAKI",
+      "text": "Bakla ezmesi",
+      "answer": "FAVA",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yiğit derviş",
-      "answer": "ALPEREN",
+      "text": "Ölüm sonrası isteği",
+      "answer": "VASİYET",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Olağan dışı",
-      "answer": "ANORMAL",
+      "text": "Su üstü çiçeği",
+      "answer": "NİLÜFER",
       "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kaplı tatlı",
-      "answer": "DRAJE",
+      "text": "Perdeli çalgı",
+      "answer": "GİTAR",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yararlanılan buhar",
-      "answer": "İSTİM",
+      "text": "Yontma aracı",
+      "answer": "KESKİ",
       "row": 3,
       "col": 7,
       "arrow": "down"
@@ -177,6 +177,6 @@
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 170
+  "difficulty": "zor",
+  "order": 229
 }

@@ -1,111 +1,118 @@
 {
   "id": "puzzle-287",
-  "title": "Bulmaca 219",
+  "title": "Bulmaca 213",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Gözaltında olan",
-      "answer": "TUTUKLU",
+      "text": "Duvar yuvası",
+      "answer": "DÜBEL",
       "row": 1,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Oturulacak şey",
+      "answer": "OTURAK",
+      "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ortaya koyma",
-      "answer": "İBRAZ",
-      "row": 2,
-      "col": 3,
-      "arrow": "down-right"
+      "text": "Tır kasası",
+      "answer": "DORSE",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
     },
     {
-      "text": "Yer altı deposu",
-      "answer": "MAHZEN",
+      "text": "Açılan yol",
+      "answer": "KANAL",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Mezopotamya nehri",
-      "answer": "DİCLE",
+      "text": "Bağırsak dürümü",
+      "answer": "KOKOREÇ",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Zamanında olan",
-      "answer": "DAKİK",
-      "row": 5,
+      "text": "Seçiciler kurulu",
+      "answer": "JÜRİ",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Sert taş",
+      "answer": "GRANİT",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Namlu çapı",
-      "answer": "KALİBRE",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sıvı",
-      "answer": "MAYİ",
-      "row": 7,
+      "text": "Kalan, artan",
+      "answer": "BAKİYE",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Öneri",
-      "answer": "TEKLİF",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İçten bağlılık",
-      "answer": "SADAKAT",
-      "row": 2,
+      "text": "Sol elli",
+      "answer": "SOLAK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Öykü",
-      "answer": "HİKAYE",
+      "text": "Ses işareti",
+      "answer": "NOTA",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Keşşaflık",
-      "answer": "İZCİLİK",
-      "row": 2,
+      "text": "Ağız kısmı",
+      "answer": "DUDAK",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Olabilir ki",
-      "answer": "BELKİ",
-      "row": 2,
+      "text": "İdrar yolları dalı",
+      "answer": "ÜROLOJİ",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Başarı belgesi",
-      "answer": "KARNE",
+      "text": "İçkili mekân",
+      "answer": "BAR",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eşya konan yer",
-      "answer": "RAF",
-      "row": 6,
+      "text": "Meslek derecesi",
+      "answer": "RÜTBE",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Bilirkişi",
+      "answer": "EKSPER",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Doruk",
-      "answer": "ZİRVE",
-      "row": 2,
+      "text": "Kırmızı, küçük meyve",
+      "answer": "ÇİLEK",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -117,51 +124,39 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 2,
+      "row": 1,
       "col": 0
     },
     {
       "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 6
+      "col": 7
     },
     {
       "row": 6,
-      "col": 5
+      "col": 1
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
     },
     {
       "row": 8,
@@ -169,17 +164,13 @@
     },
     {
       "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 7
+      "col": 6
     },
     {
       "row": 9,
-      "col": 7
+      "col": 6
     }
   ],
   "difficulty": "zor",
-  "order": 219
+  "order": 213
 }

@@ -1,111 +1,139 @@
 {
   "id": "puzzle-219",
-  "title": "Bulmaca 192",
+  "title": "Bulmaca 195",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Tolerans",
-      "answer": "HOŞGÖRÜ",
-      "row": 1,
+      "text": "Adana ilçesi",
+      "answer": "FEKE",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Ani tehlike",
-      "answer": "BADİRE",
+      "text": "Büyük erkek kardeş",
+      "answer": "AĞABEY",
       "row": 2,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Açık oturum",
-      "answer": "PANEL",
-      "row": 3,
+      "text": "Kumaş cilalama",
+      "answer": "APRE",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kardeş çocuğu",
-      "answer": "YEĞEN",
-      "row": 5,
+      "text": "Binek hayvanı",
+      "answer": "AT",
+      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Enerji",
-      "answer": "ERKE",
-      "row": 5,
+      "text": "İnce karşıtı",
+      "answer": "KABA",
+      "row": 3,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sarsılmış boksör",
+      "answer": "GROGİ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yer bilgisi",
-      "answer": "ADRES",
+      "text": "Dağ lalesi",
+      "answer": "ANEMON",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hayvan yemi",
+      "answer": "YONCA",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Dördüncüden sonra",
+      "answer": "BEŞİNCİ",
       "row": 7,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Omuzdan ele uzanan",
-      "answer": "KOL",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Gürcistan'ın başkenti",
-      "answer": "TİFLİS",
+      "text": "Keseli memeli",
+      "answer": "KOALA",
       "row": 9,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Millet simgesi",
-      "answer": "BAYRAK",
+      "text": "Koşut",
+      "answer": "PARALEL",
       "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kısa fıkra",
-      "answer": "ANEKDOT",
-      "row": 2,
+      "text": "Kalın kâğıt",
+      "answer": "KARTON",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Kıymetli",
-      "answer": "DEĞERLİ",
-      "row": 2,
+      "text": "Törpü",
+      "answer": "EĞE",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sıkıntı, dert, üzüntü",
-      "answer": "GAİLE",
-      "row": 0,
+      "text": "Boynuzlu memeli",
+      "answer": "GEYİK",
+      "row": 4,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Japon giysisi",
+      "answer": "KİMONO",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Biçim soran söz",
-      "answer": "NASIL",
-      "row": 4,
+      "text": "Yaratma",
+      "answer": "İBDA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kamboçya para birimi",
-      "answer": "RİEL",
-      "row": 0,
+      "text": "O kadar",
+      "answer": "ONCA",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Kendini düşünen",
+      "answer": "BENCİL",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ödeme yetersizliği",
-      "answer": "İFLAS",
-      "row": 4,
+      "text": "Hâlbuki",
+      "answer": "OYSA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -113,67 +141,35 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 2
+      "col": 4
     },
     {
       "row": 0,
-      "col": 3
+      "col": 6
     },
     {
-      "row": 0,
-      "col": 5
+      "row": 1,
+      "col": 4
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 5
-    },
-    {
-      "row": 2,
-      "col": 7
-    },
-    {
-      "row": 3,
-      "col": 7
+      "row": 1,
+      "col": 6
     },
     {
       "row": 5,
-      "col": 6
+      "col": 7
     },
     {
       "row": 6,
-      "col": 4
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 6
+      "col": 7
     },
     {
       "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 6
+      "col": 7
     },
     {
       "row": 9,
@@ -181,5 +177,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 192
+  "order": 195
 }

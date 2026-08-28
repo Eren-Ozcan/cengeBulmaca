@@ -1,96 +1,124 @@
 {
   "id": "puzzle-286",
-  "title": "Bulmaca 220",
+  "title": "Bulmaca 163",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Meyve",
-      "answer": "YEMİŞ",
+      "text": "Yıkıntı tepesi",
+      "answer": "HÖYÜK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Boru musluğu",
+      "answer": "VANA",
       "row": 1,
-      "col": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Orta düzey soylu",
+      "answer": "BARON",
+      "row": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gömlek aksesuarı",
-      "answer": "KRAVAT",
-      "row": 2,
+      "text": "Koruma, kayırma",
+      "answer": "HİMAYE",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Savunma",
-      "answer": "MÜDAFAA",
-      "row": 4,
+      "text": "Hastaneden çıkan",
+      "answer": "TABURCU",
+      "row": 5,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Çiçek satan",
-      "answer": "ÇİÇEKÇİ",
+      "text": "Varlıklı",
+      "answer": "ZENGİN",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Koyuluk derecesi",
-      "answer": "KIVAM",
-      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Beş parçalı",
-      "answer": "BEŞLİ",
-      "row": 8,
+      "text": "Hayvan besleme",
+      "answer": "BESİ",
+      "row": 7,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kandil yazısı",
+      "answer": "MAHYA",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Devenin tümseği",
-      "answer": "HÖRGÜÇ",
+      "text": "Yapıştırıcı madde",
+      "answer": "ZAMK",
+      "row": 9,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Değişmez, durağan",
+      "answer": "SABİT",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "İplik bağlantısı",
-      "answer": "DİKİŞ",
-      "row": 4,
+      "text": "Taraf, kenar",
+      "answer": "YAN",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Günlük ibadet",
+      "answer": "NAMAZ",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İki ışının kesişimi",
-      "answer": "AÇI",
-      "row": 4,
+      "text": "Yıkıntı",
+      "answer": "HARABE",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Düşünmeden davranan",
-      "answer": "FEVRİ",
-      "row": 4,
+      "text": "Oynamayı seven",
+      "answer": "OYUNBAZ",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kesinlikle",
-      "answer": "MUTLAKA",
+      "text": "Direktif",
+      "answer": "YÖNERGE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çıkmaz",
-      "answer": "AÇMAZ",
+      "text": "Madde nesnesi",
+      "answer": "CİSİM",
       "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tanrı'ya ortak koşma",
-      "answer": "ŞİRK",
+      "text": "Gri renk",
+      "answer": "KURŞUNİ",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -107,31 +135,11 @@
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 4
     },
     {
       "row": 0,
       "col": 6
-    },
-    {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 2,
-      "col": 3
-    },
-    {
-      "row": 2,
-      "col": 4
     },
     {
       "row": 2,
@@ -142,24 +150,12 @@
       "col": 6
     },
     {
-      "row": 5,
-      "col": 7
-    },
-    {
-      "row": 7,
+      "row": 6,
       "col": 0
     },
     {
       "row": 7,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 3
+      "col": 2
     },
     {
       "row": 8,
@@ -171,13 +167,13 @@
     },
     {
       "row": 9,
-      "col": 5
+      "col": 0
     },
     {
       "row": 9,
-      "col": 7
+      "col": 2
     }
   ],
-  "difficulty": "zor",
-  "order": 220
+  "difficulty": "orta",
+  "order": 163
 }

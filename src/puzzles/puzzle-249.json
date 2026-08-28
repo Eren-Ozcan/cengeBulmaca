@@ -1,132 +1,132 @@
 {
   "id": "puzzle-249",
-  "title": "Bulmaca 110",
+  "title": "Bulmaca 202",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Beden etkinliği",
-      "answer": "SPOR",
+      "text": "Yol ayrımı",
+      "answer": "SAPAK",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Burun duyumu",
-      "answer": "KOKU",
+      "text": "Saçma sapan",
+      "answer": "ABUK",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Dilimli et",
-      "answer": "SALAM",
+      "text": "Halk müziği çalgısı",
+      "answer": "TAMBURA",
       "row": 3,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hoşa giden",
-      "answer": "ZARİF",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Bağırarak duyuran",
+      "answer": "TELLAL",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Ramazan namazı",
-      "answer": "TERAVİH",
+      "text": "Amerika tahılı",
+      "answer": "KİNOA",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hizmetli",
-      "answer": "HADEME",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ülke, yurt",
-      "answer": "DİYAR",
-      "row": 7,
+      "text": "Birden anlama sesi",
+      "answer": "DANK",
+      "row": 5,
       "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kaplıca",
+      "answer": "ILICA",
+      "row": 7,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kokulu bahar çiçeği",
-      "answer": "NERGİS",
+      "text": "Çiçek demeti",
+      "answer": "BUKET",
       "row": 8,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "İkili şarkı",
-      "answer": "DÜET",
+      "text": "Kök içeceği",
+      "answer": "SALEP",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yağlı merhem",
-      "answer": "POMAT",
-      "row": 0,
+      "text": "Konak yöneticisi",
+      "answer": "KAHYA",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tutulan kimse",
-      "answer": "REHİNE",
-      "row": 3,
+      "text": "78 numaralı element",
+      "answer": "PLATİN",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bulaşma",
-      "answer": "SİRAYET",
+      "text": "Din büyüğü öyküsü",
+      "answer": "MENKIBE",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Görüş ortağı",
-      "answer": "KAFADAR",
-      "row": 1,
+      "text": "Akım teli",
+      "answer": "KABLO",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dar karşıtı",
-      "answer": "BOL",
-      "row": 0,
-      "col": 5,
+      "text": "Küçük büyüteç",
+      "answer": "LUP",
+      "row": 6,
+      "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Zorunlu para",
-      "answer": "VERGİ",
-      "row": 4,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Çok eski",
-      "answer": "KADİM",
+      "text": "Duru olmayan",
+      "answer": "BULANIK",
       "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yakın yer",
+      "answer": "BURA",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Taş kırıntısı",
-      "answer": "KUM",
-      "row": 0,
-      "col": 7,
+      "text": "Giysi bölmesi",
+      "answer": "CEP",
+      "row": 6,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tümü",
-      "answer": "HEPSİ",
-      "row": 4,
+      "text": "Gemi onarımı",
+      "answer": "KALAFAT",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -134,7 +134,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
@@ -142,37 +142,41 @@
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
       "col": 6
-    },
-    {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
-      "col": 2
-    },
-    {
-      "row": 6,
-      "col": 0
     },
     {
       "row": 7,
-      "col": 6
+      "col": 0
     },
     {
       "row": 9,
-      "col": 4
+      "col": 5
     },
     {
       "row": 9,
-      "col": 6
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 110
+  "difficulty": "zor",
+  "order": 202
 }

@@ -1,139 +1,153 @@
 {
   "id": "puzzle-265",
-  "title": "Bulmaca 70",
+  "title": "Bulmaca 1",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Cıvık hamur",
-      "answer": "BULAMAÇ",
+      "text": "Hastalık tekrarı",
+      "answer": "NÜKS",
       "row": 0,
-      "col": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tanrı hizmetkârı",
-      "answer": "KUL",
+      "text": "Araç lambası",
+      "answer": "FAR",
       "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yapmacık davranışlı",
+      "answer": "ZÜPPE",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ofis",
+      "answer": "BÜRO",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kaba örtü",
-      "answer": "ÇUL",
-      "row": 2,
+      "text": "Bir selamlaşma sözü",
+      "answer": "MERHABA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Aceleci",
+      "answer": "ACUL",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Laf",
-      "answer": "LAKIRTI",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yasa dışı taşıyan",
-      "answer": "KAÇAKÇI",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Küçük boru",
-      "answer": "ZIVANA",
+      "text": "Süslü hayal",
+      "answer": "FANTEZİ",
       "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bağlanmış çiçekler",
+      "answer": "DEMET",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çoban çalgısı",
-      "answer": "KAVAL",
+      "text": "İlenme, yakınma",
+      "answer": "AH",
       "row": 7,
+      "col": 5,
+      "arrow": "right"
+    },
+    {
+      "text": "Mahkemelik anlaşmazlık",
+      "answer": "DAVA",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Havlı dokuma",
-      "answer": "HALI",
+      "text": "Sanat insanı",
+      "answer": "SANATÇI",
       "row": 8,
-      "col": 1,
-      "arrow": "right"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Dağ lalesi",
-      "answer": "ANEMON",
-      "row": 9,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Duru olmayan",
-      "answer": "BULANIK",
+      "text": "Bağ meyvesi",
+      "answer": "ÜZÜM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Zarf-fiil",
-      "answer": "ULAÇ",
+      "text": "Uğurda vazgeçme",
+      "answer": "FEDA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Top cismi",
+      "answer": "KÜRE",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çöl yeşilliği",
-      "answer": "VAHA",
+      "text": "Yardım sözü",
+      "answer": "AMAN",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çekme ev",
-      "answer": "KARAVAN",
-      "row": 2,
+      "text": "Beden etkinliği",
+      "answer": "SPOR",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Kapalı karşıtı",
-      "answer": "AÇIK",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İnleme, inilti",
-      "answer": "NALE",
+      "text": "Ses, ahenk, nağme",
+      "answer": "NEVA",
       "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hat ustası",
+      "answer": "HATTAT",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Beton delme kalemi",
-      "answer": "MURÇ",
+      "text": "Eski kadın mantosu",
+      "answer": "FERACE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Satın alma",
-      "answer": "ALIM",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Beşten sonraki sayı",
-      "answer": "ALTI",
-      "row": 0,
+      "text": "Sığır yavrusu",
+      "answer": "BUZAĞI",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Su bitkisi",
-      "answer": "YOSUN",
-      "row": 4,
+      "text": "Baht, şans",
+      "answer": "TALİH",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -141,11 +155,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 4
     },
     {
       "row": 0,
-      "col": 3
+      "col": 6
     },
     {
       "row": 0,
@@ -153,33 +167,25 @@
     },
     {
       "row": 2,
-      "col": 7
+      "col": 6
     },
     {
       "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
       "col": 0
     },
     {
       "row": 8,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
-      "col": 0
+      "col": 7
     }
   ],
   "difficulty": "kolay",
-  "order": 70
+  "order": 1
 }

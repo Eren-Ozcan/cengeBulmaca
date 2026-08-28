@@ -1,124 +1,124 @@
 {
   "id": "puzzle-251",
-  "title": "Bulmaca 198",
+  "title": "Bulmaca 199",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Cinayet işleyen",
-      "answer": "CANİ",
+      "text": "Yalan karşıtı",
+      "answer": "DOĞRU",
       "row": 0,
-      "col": 4,
+      "col": 3,
       "arrow": "down-right"
     },
     {
-      "text": "Borç kapatma",
-      "answer": "ÖDEME",
+      "text": "Göğüs, bağır, yürek",
+      "answer": "SİNE",
       "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Süzme aracı",
-      "answer": "SÜZGEÇ",
+      "text": "Ant içmiş",
+      "answer": "YEMİNLİ",
       "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bol ağlı pantolon",
-      "answer": "ŞALVAR",
-      "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Anaya dayalı düzen",
-      "answer": "ANAERKİ",
+      "text": "Aşırı fiyat",
+      "answer": "FAHİŞ",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ekşi sıvı",
+      "answer": "SİRKE",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Küme, grup",
-      "answer": "ÖBEK",
+      "text": "Işık kıran cam",
+      "answer": "MERCEK",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
-    },
-    {
-      "text": "Ağız demiri",
-      "answer": "GEM",
-      "row": 6,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Haber kuruluşu",
-      "answer": "AJANS",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İngiliz unvanı",
-      "answer": "LORT",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Pudra minerali",
-      "answer": "TALK",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Kalıp örnek",
-      "answer": "ŞABLON",
-      "row": 3,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "İdrar torbası",
-      "answer": "MESANE",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Görüşme",
-      "answer": "MÜLAKAT",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kahve kabı",
-      "answer": "CEZVE",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Boğaz çalkalama",
-      "answer": "GARGARA",
-      "row": 2,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Vaktinden önce",
-      "answer": "ERKEN",
-      "row": 2,
-      "col": 6,
-      "arrow": "down"
     },
     {
       "text": "Oruç vakti",
       "answer": "İMSAK",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Sakınca, zarar",
+      "answer": "BEİS",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Benzeme çabası",
+      "answer": "ÖZENTİ",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Politika",
+      "answer": "SİYASET",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Irmak",
+      "answer": "NEHİR",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Demir döven",
+      "answer": "DEMİRCİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Geviş getiren midesi",
+      "answer": "İŞKEMBE",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Bölen çizgi",
+      "answer": "EKSEN",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Dürülmüş kağıt",
+      "answer": "RULO",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "İlgili, ilişkin",
+      "answer": "AİT",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Cinsel çekicilik",
+      "answer": "SEKSİ",
       "row": 4,
       "col": 7,
       "arrow": "down"
@@ -131,11 +131,11 @@
     },
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
@@ -143,41 +143,41 @@
     },
     {
       "row": 0,
-      "col": 6
-    },
-    {
-      "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 1
+      "row": 2,
+      "col": 5
     },
     {
       "row": 2,
       "col": 7
     },
     {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
+      "row": 5,
       "col": 6
     },
     {
-      "row": 9,
+      "row": 7,
       "col": 0
     },
     {
-      "row": 9,
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
       "col": 2
+    },
+    {
+      "row": 9,
+      "col": 0
     }
   ],
   "difficulty": "zor",
-  "order": 198
+  "order": 199
 }

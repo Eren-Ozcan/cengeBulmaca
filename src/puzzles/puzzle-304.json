@@ -1,132 +1,132 @@
 {
   "id": "puzzle-304",
-  "title": "Bulmaca 108",
+  "title": "Bulmaca 36",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Çift sığırı",
-      "answer": "ÖKÜZ",
+      "text": "Yol kesişimi",
+      "answer": "KAVŞAK",
       "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Birden anlama sesi",
-      "answer": "DANK",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çay kabı",
-      "answer": "DEMLİK",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Vur kaç savaşçısı",
-      "answer": "GERİLLA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Global",
-      "answer": "KÜRESEL",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yırtıcı kedigil",
-      "answer": "VAŞAK",
-      "row": 6,
+      "text": "Soy bakımından",
+      "answer": "ASLEN",
+      "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Ortaya çıkarma",
-      "answer": "KEŞİF",
+      "text": "Silah çubuğu",
+      "answer": "HARBİ",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Karşı davranış",
+      "answer": "TEPKİ",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hekim",
+      "answer": "DOKTOR",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ölçek",
+      "answer": "KİLE",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yetenek",
-      "answer": "YETİ",
+      "text": "Çay kıvamı",
+      "answer": "DEM",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Emir",
+      "answer": "BUYRUK",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Pembe şarap",
-      "answer": "ROZE",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
+      "text": "Mektup kesesi",
+      "answer": "ZARF",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Gölge yamaç",
-      "answer": "GÜZEY",
-      "row": 3,
+      "text": "Salatalık yabani ot",
+      "answer": "HİNDİBA",
+      "row": 2,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Lider",
-      "answer": "ÖNDER",
+      "text": "Onay, izin, tasdik",
+      "answer": "OLUR",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gereken koşul",
+      "answer": "ŞART",
       "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Belirsiz nesne",
-      "answer": "ŞEY",
-      "row": 6,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Tatlı su kabuklusu",
-      "answer": "KEREVİT",
-      "row": 1,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Konuk",
-      "answer": "MİSAFİR",
-      "row": 2,
+      "text": "Neşe hâli",
+      "answer": "KEYF",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Isıya dayanıklı lif",
+      "answer": "ASBEST",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sözünde durmayan",
-      "answer": "KALLEŞ",
+      "text": "Şarkı filmi",
+      "answer": "KLİP",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ne olursa olsun",
-      "answer": "İLLA",
-      "row": 2,
+      "text": "Yakacak parça",
+      "answer": "ODUN",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Toprak aracı",
+      "answer": "KÜREK",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Balık yemi",
-      "answer": "ZOKA",
+      "text": "İstiridye tanesi",
+      "answer": "İNCİ",
       "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Yük sepeti",
-      "answer": "KÜFE",
-      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -134,15 +134,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 3
+      "col": 2
     },
     {
       "row": 0,
@@ -150,37 +146,45 @@
     },
     {
       "row": 1,
-      "col": 1
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 6,
+      "col": 7
     },
     {
       "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
       "col": 6
     },
     {
       "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 108
+  "difficulty": "kolay",
+  "order": 36
 }

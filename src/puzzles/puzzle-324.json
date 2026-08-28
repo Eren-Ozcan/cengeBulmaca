@@ -1,0 +1,183 @@
+{
+  "id": "puzzle-324",
+  "title": "Bulmaca 191",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Kaba et",
+      "answer": "POPO",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ses (eski dilde)",
+      "answer": "SEDA",
+      "row": 1,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güzel kokulu madde",
+      "answer": "MİSK",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Rüzgâr",
+      "answer": "YEL",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Mısır'ın başkenti",
+      "answer": "KAHİRE",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Mahkeme görevlisi",
+      "answer": "MÜBAŞİR",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayakkabı kılıfı",
+      "answer": "GALOŞ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Rütbe yükselmesi",
+      "answer": "TERFİ",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Doğan zarar",
+      "answer": "HASAR",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Para yerine",
+      "answer": "JETON",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Rahatlatıcı ovma",
+      "answer": "MASAJ",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Süs sarkıtı",
+      "answer": "PÜSKÜL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Kıyı taşımacılığı",
+      "answer": "KABOTAJ",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Böcek",
+      "answer": "HAŞERE",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İfade biçimi",
+      "answer": "DEYİŞ",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Vücut örtüsü",
+      "answer": "DERİ",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Bağışıklık tepkisi",
+      "answer": "ALERJİ",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    }
+  ],
+  "difficulty": "zor",
+  "order": 191
+}

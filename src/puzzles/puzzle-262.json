@@ -1,138 +1,131 @@
 {
   "id": "puzzle-262",
-  "title": "Bulmaca 136",
+  "title": "Bulmaca 99",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Koni biçimli başlık",
-      "answer": "KALPAK",
+      "text": "Alınan ders",
+      "answer": "İBRET",
       "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yer bulucu",
+      "answer": "RADAR",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Deniz, umman",
-      "answer": "DERYA",
-      "row": 2,
+      "text": "Dev fosil sürüngen",
+      "answer": "DİNOZOR",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Nişan yüzüğü",
-      "answer": "ALYANS",
-      "row": 2,
+      "text": "Kalın destek",
+      "answer": "DİREK",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ayakkabı kılıfı",
-      "answer": "GALOŞ",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tatlı ilaç",
-      "answer": "ŞURUP",
+      "text": "Donuk, mat",
+      "answer": "OPAK",
       "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yapı bağlayıcısı",
-      "answer": "ÇİMENTO",
-      "row": 7,
-      "col": 0,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Mazereti olan",
-      "answer": "MAZUR",
-      "row": 7,
+      "text": "Çay kabı",
+      "answer": "DEMLİK",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Eskil söz kullanımı",
+      "answer": "ARKAİZM",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Larva",
-      "answer": "KURTÇUK",
+      "text": "Sanı, şüphe",
+      "answer": "ZAN",
+      "row": 8,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Yakasız gömlek",
+      "answer": "MİNTAN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hukukla ilgili",
-      "answer": "ADLİ",
+      "text": "Haydi",
+      "answer": "HADİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kanatlı hava taşıtı",
-      "answer": "UÇAK",
+      "text": "Sahne oyunu",
+      "answer": "DRAM",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Romanya parası",
-      "answer": "LEY",
-      "row": 0,
+      "text": "Kol eklemi",
+      "answer": "DİRSEK",
+      "row": 1,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Ocak gazı",
-      "answer": "GRİZU",
+      "text": "Yardım parası",
+      "answer": "İANE",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Değerli kızıl ağaç",
+      "answer": "MAUN",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeşil karnabahar",
+      "answer": "BROKOLİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "İtalyan yemeği",
+      "answer": "PİZZA",
       "row": 4,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Çek başkenti",
-      "answer": "PRAG",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Aldırış etme",
-      "answer": "UMUR",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yansıtıcı cam",
-      "answer": "AYNA",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Onarılamaz hasar",
-      "answer": "PERT",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Adaleli",
-      "answer": "KASLI",
-      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Otu bulunan",
-      "answer": "OTLU",
-      "row": 5,
+      "text": "Bozulmamış, saf",
+      "answer": "AKMAN",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Japon sanatçısı",
-      "answer": "GEYŞA",
+      "text": "Tarama aracı",
+      "answer": "TARAK",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -141,41 +134,53 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 2,
+      "col": 5
     },
     {
       "row": 2,
       "col": 6
     },
     {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
+      "row": 5,
       "col": 0
     },
     {
       "row": 6,
-      "col": 5
+      "col": 7
     },
     {
-      "row": 6,
+      "row": 7,
       "col": 7
     },
     {
       "row": 8,
-      "col": 5
+      "col": 0
     },
     {
       "row": 8,
+      "col": 2
+    },
+    {
+      "row": 9,
       "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 136
+  "order": 99
 }

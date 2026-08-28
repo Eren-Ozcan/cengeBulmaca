@@ -1,125 +1,125 @@
 {
   "id": "puzzle-247",
-  "title": "Bulmaca 175",
+  "title": "Bulmaca 110",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Orta düzey",
-      "answer": "VASAT",
-      "row": 0,
+      "text": "Tutturmalı küpe",
+      "answer": "KLİPS",
+      "row": 1,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Salgın ishal hastalığı",
-      "answer": "KOLERA",
+      "text": "İkiyüzlülük",
+      "answer": "RİYA",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kurban taşı",
-      "answer": "SUNAK",
+      "text": "Etki",
+      "answer": "TESİR",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Anapara",
-      "answer": "SERMAYE",
+      "text": "Ağız üstü",
+      "answer": "DAMAK",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Öğrenme isteği",
-      "answer": "MERAK",
-      "row": 5,
+      "text": "Üstün, kaliteli",
+      "answer": "CİNS",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Bulunmaz",
+      "answer": "EŞSİZ",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kumarhane görevlisi",
-      "answer": "KRUPİYE",
-      "row": 7,
+      "text": "Üretim tesisi",
+      "answer": "FABRİKA",
+      "row": 6,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kafiye",
-      "answer": "UYAK",
+      "text": "Kebap çubuğu",
+      "answer": "ŞİŞ",
       "row": 8,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Varsayım",
-      "answer": "HİPOTEZ",
-      "row": 8,
+      "text": "Alternatif",
+      "answer": "SEÇENEK",
+      "row": 9,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Yankı bilimi",
-      "answer": "AKUSTİK",
+      "text": "Ödünç para",
+      "answer": "KREDİ",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "14 dizeli şiir",
-      "answer": "SONE",
+      "text": "Dil",
+      "answer": "LİSAN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Tehlike işareti",
-      "answer": "ALARM",
+      "text": "Nikbin",
+      "answer": "İYİMSER",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Ayakla vuruş",
-      "answer": "TEKME",
+      "text": "Emek kazancı",
+      "answer": "PARA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Heykel, sanem",
-      "answer": "PUT",
-      "row": 6,
+      "text": "Cam kap",
+      "answer": "ŞİŞE",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Eşya deposu",
-      "answer": "ARDİYE",
+      "text": "İyi kesen",
+      "answer": "KESKİN",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eşya demeti",
-      "answer": "BALYA",
+      "text": "Besleme, bakma",
+      "answer": "İAŞE",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Banyo giysisi",
+      "answer": "BORNOZ",
       "row": 0,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "En sıcak mevsim",
-      "answer": "YAZ",
-      "row": 6,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Temel besin",
-      "answer": "EKMEK",
-      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -127,39 +127,47 @@
   "blocks": [
     {
       "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
       "col": 5
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
     },
     {
       "row": 1,
-      "col": 5
-    },
-    {
-      "row": 1,
-      "col": 7
+      "col": 6
     },
     {
       "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 4,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 1
+    },
+    {
+      "row": 7,
       "col": 7
     },
     {
-      "row": 5,
+      "row": 8,
       "col": 0
-    },
-    {
-      "row": 6,
-      "col": 0
-    },
-    {
-      "row": 6,
-      "col": 2
-    },
-    {
-      "row": 6,
-      "col": 3
     },
     {
       "row": 8,
@@ -170,10 +178,10 @@
       "col": 2
     },
     {
-      "row": 9,
+      "row": 8,
       "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 175
+  "order": 110
 }

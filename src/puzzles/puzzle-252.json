@@ -1,110 +1,145 @@
 {
   "id": "puzzle-252",
-  "title": "Bulmaca 200",
+  "title": "Bulmaca 90",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Sönmüş olan",
-      "answer": "SÖNÜK",
-      "row": 1,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Savaş gazı",
-      "answer": "İPERİT",
-      "row": 2,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Parmak halkası",
-      "answer": "YÜZÜK",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Sesli uyarı",
-      "answer": "KORNA",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yardım, imdat",
-      "answer": "MEDET",
-      "row": 4,
+      "text": "Doku şişmesi",
+      "answer": "ÖDEM",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üniversite birimi",
-      "answer": "FAKÜLTE",
+      "text": "İnanç sistemi",
+      "answer": "DİN",
+      "row": 1,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "File sporu",
+      "answer": "VOLEY",
+      "row": 2,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Etiyopya para birimi",
+      "answer": "BİRR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Priz ucu",
+      "answer": "FİŞ",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Eski eşya alıcısı",
+      "answer": "ESKİCİ",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Bölüşülen pay",
+      "answer": "ÜLEŞ",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "İki kat",
+      "answer": "DUBLE",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Büyük ihanet",
-      "answer": "HIYANET",
+      "text": "Gönenç",
+      "answer": "REFAH",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kabartma maddesi",
+      "answer": "MAYA",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Pis su",
-      "answer": "ÇİRKEF",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
+      "text": "Sakınca",
+      "answer": "ÇEKİNCE",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Kurum hizmetlisi",
-      "answer": "ODACI",
-      "row": 3,
+      "text": "Borç kapatma",
+      "answer": "ÖDEME",
+      "row": 5,
+      "col": 0,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Aşama, safha",
+      "answer": "EVRE",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Aralıklı",
-      "answer": "SEYREK",
+      "text": "Normalden küçük",
+      "answer": "UFAK",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Denizaygırı",
+      "answer": "MORS",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yinelenen düzen",
-      "answer": "ÖRÜNTÜ",
-      "row": 0,
+      "text": "Satış noktası",
+      "answer": "BAYİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hamam ocağı",
+      "answer": "KÜLHAN",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Çekişme, anlaşmazlık, kavga",
-      "answer": "NİZA",
+      "text": "Moda gösterisi",
+      "answer": "DEFİLE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "İnternette bağlantı",
-      "answer": "LİNK",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kırışık gideren araç",
-      "answer": "ÜTÜ",
+      "text": "Oldukça iyi",
+      "answer": "İYİCE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Gemi korkuluğu",
-      "answer": "KÜPEŞTE",
+      "text": "Kabarık olan",
+      "answer": "ŞİŞİK",
       "row": 2,
       "col": 7,
       "arrow": "down"
@@ -113,77 +148,49 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 2
+      "col": 4
     },
     {
       "row": 0,
       "col": 7
     },
     {
-      "row": 1,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
       "row": 4,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 7,
       "col": 0
     },
     {
-      "row": 7,
-      "col": 1
+      "row": 6,
+      "col": 6
     },
     {
       "row": 7,
-      "col": 3
-    },
-    {
-      "row": 7,
-      "col": 4
+      "col": 5
     },
     {
       "row": 7,
       "col": 6
     },
     {
-      "row": 9,
-      "col": 0
+      "row": 8,
+      "col": 5
     },
     {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 2
-    },
-    {
-      "row": 9,
-      "col": 3
-    },
-    {
-      "row": 9,
-      "col": 4
-    },
-    {
-      "row": 9,
+      "row": 8,
       "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 200
+  "difficulty": "kolay",
+  "order": 90
 }

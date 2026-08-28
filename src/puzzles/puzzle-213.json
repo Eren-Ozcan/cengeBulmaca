@@ -1,139 +1,132 @@
 {
   "id": "puzzle-213",
-  "title": "Bulmaca 112",
+  "title": "Bulmaca 140",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Sanırım",
-      "answer": "GALİBA",
+      "text": "Perişan olma",
+      "answer": "MAHV",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Derinlik aracı",
-      "answer": "SONDA",
+      "text": "Yer bilgisi",
+      "answer": "ADRES",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Tarım",
-      "answer": "ZİRAAT",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yer altı kayacı",
-      "answer": "MAGMA",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Leş yiyen kuş",
-      "answer": "AKBABA",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Bilyeli yatak",
-      "answer": "RULMAN",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Avrupa Birliği parası",
-      "answer": "EURO",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Otlu alan",
-      "answer": "OTLUK",
-      "row": 8,
+      "text": "Eziyet, sıkıntı",
+      "answer": "CEVR",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sürtünme sesi",
-      "answer": "GICIRTI",
-      "row": 0,
+      "text": "İçten bağlılık",
+      "answer": "SADAKAT",
+      "row": 4,
       "col": 0,
-      "arrow": "down"
+      "arrow": "right"
     },
     {
-      "text": "Kasap besini",
-      "answer": "ET",
-      "row": 7,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yeşil salata",
-      "answer": "MARUL",
+      "text": "Hristiyan mabedi",
+      "answer": "KİLİSE",
       "row": 5,
       "col": 1,
-      "arrow": "right-down"
+      "arrow": "right"
     },
     {
-      "text": "Ad",
-      "answer": "İSİM",
+      "text": "Renk dizisi",
+      "answer": "TAYF",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tarım",
+      "answer": "ZİRAAT",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yuvarlak başlık",
+      "answer": "BERE",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kâinat",
+      "answer": "EVREN",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Osmanlı gece bekçisi",
+      "answer": "ASES",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük lokma",
+      "answer": "TİKE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağırbaşlılık",
+      "answer": "VAKAR",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çalışma nöbeti",
+      "answer": "VARDİYA",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yaş karşıtı",
-      "answer": "KURU",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Şiddetli fırtına",
-      "answer": "BORA",
-      "row": 0,
+      "text": "Harf dizisi",
+      "answer": "ALFABE",
+      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Site birimi",
-      "answer": "BLOK",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Harf değiştirme oyunu",
-      "answer": "ANAGRAM",
+      "text": "Taslak çizim",
+      "answer": "KROKİ",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Ev üstü",
-      "answer": "DAM",
-      "row": 1,
+      "text": "Cilt, deri",
+      "answer": "TEN",
+      "row": 6,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İskambilde birli",
+      "answer": "AS",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İspanya'da bir halk",
-      "answer": "BASK",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Kavisli kısa kılıç",
-      "answer": "YATAĞAN",
-      "row": 0,
+      "text": "Kahve tortusu",
+      "answer": "TELVE",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -141,35 +134,55 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
-      "col": 2
+      "col": 4
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 4,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
+      "row": 0,
       "col": 7
     },
     {
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
       "row": 9,
-      "col": 5
+      "col": 6
     },
     {
       "row": 9,
@@ -177,5 +190,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 112
+  "order": 140
 }

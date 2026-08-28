@@ -1,132 +1,139 @@
 {
   "id": "puzzle-313",
-  "title": "Bulmaca 162",
+  "title": "Bulmaca 187",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Gevşeklik",
-      "answer": "REHAVET",
+      "text": "Bel-bacak arası",
+      "answer": "KALÇA",
       "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gök zirvesi",
+      "answer": "AYYUK",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Hortum fırtınası",
+      "answer": "TORNADO",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Koyuluk derecesi",
+      "answer": "KIVAM",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Efsanevi kurt",
+      "answer": "BOZKURT",
+      "row": 5,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "İrticalen söyleme",
-      "answer": "DOĞAÇ",
+      "text": "İnsan öldüren",
+      "answer": "KATİL",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Şeffaf ambalaj",
+      "answer": "SELOFAN",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Akıl yönünden",
+      "answer": "AKLEN",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Beşten sonraki sayı",
+      "answer": "ALTI",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İspanya'da bir halk",
+      "answer": "BASK",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yol oteli",
+      "answer": "MOTEL",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Dönen tekerlek",
+      "answer": "ÇARK",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Tokat ilçesi",
+      "answer": "ZİLE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eşi, tıpkısı",
+      "answer": "AYNI",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Genetik kopya",
+      "answer": "KLON",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Küçük canlı",
+      "answer": "YAVRU",
       "row": 1,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kurnaz hayvan",
-      "answer": "TİLKİ",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Destek verme",
-      "answer": "KATKI",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kafa",
-      "answer": "BAŞ",
-      "row": 4,
       "col": 5,
-      "arrow": "down-right"
+      "arrow": "down"
     },
     {
-      "text": "Tükenmiş fil",
-      "answer": "MAMUT",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Nükteli hikâye",
-      "answer": "FIKRA",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İşten anlayan",
-      "answer": "ERBAP",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kırbaç",
-      "answer": "KAMÇI",
-      "row": 9,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "İzlenecek yol",
-      "answer": "ROTA",
+      "text": "Uzak Doğu bilgesi",
+      "answer": "BUDA",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Kumaş cilalama",
-      "answer": "APRE",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Terbiye, öğretim",
-      "answer": "EĞİTİM",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Ülke insanları",
-      "answer": "HALK",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Normalden küçük",
-      "answer": "UFAK",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Yüzey parlatma",
-      "answer": "AÇKI",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Fıçı ağzı tıkacı",
-      "answer": "TIPA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kavşak",
-      "answer": "AYRIÇ",
-      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Saç kesimi",
-      "answer": "TIRAŞ",
-      "row": 0,
+      "text": "Yemek, çorba",
+      "answer": "AŞ",
+      "row": 7,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kumandan",
+      "answer": "KOMUTAN",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -134,49 +141,45 @@
   "blocks": [
     {
       "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
       "col": 0
     },
     {
-      "row": 0,
-      "col": 5
+      "row": 4,
+      "col": 0
     },
     {
-      "row": 0,
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
       "col": 6
     },
     {
-      "row": 2,
+      "row": 7,
       "col": 5
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 7
     },
     {
       "row": 9,
-      "col": 0
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 162
+  "order": 187
 }

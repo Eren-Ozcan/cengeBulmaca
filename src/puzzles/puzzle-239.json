@@ -1,132 +1,118 @@
 {
   "id": "puzzle-239",
-  "title": "Bulmaca 65",
+  "title": "Bulmaca 221",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Evcil olmayan",
-      "answer": "YABANİ",
+      "text": "Bolluk",
+      "answer": "BEREKET",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İdeal",
-      "answer": "ÜLKÜ",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Özge",
-      "answer": "BAŞKA",
+      "text": "İlmikli ip",
+      "answer": "KEMENT",
       "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Az yüksek",
-      "answer": "ALÇAK",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kayık türü",
-      "answer": "TEKNE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Geçerli sayılan",
-      "answer": "MUTEBER",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Atlı spor",
-      "answer": "CİRİT",
-      "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Gök boşluğu",
-      "answer": "UZAY",
+      "text": "Akciğer iltihabı",
+      "answer": "ZATÜRRE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çıkarım sonucu",
+      "answer": "ARDIL",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kumsal",
+      "answer": "PLAJ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Temel besin",
+      "answer": "EKMEK",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kara altın",
+      "answer": "PETROL",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bulgaristan parası",
-      "answer": "LEV",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Saç kırıntısı",
-      "answer": "KEPEK",
+      "text": "Gene",
+      "answer": "YİNE",
       "row": 9,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Belirtke",
-      "answer": "AMBLEM",
-      "row": 0,
+      "text": "Elinde bulunduran",
+      "answer": "ZİLYET",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kollar arası",
-      "answer": "KUCAK",
-      "row": 4,
+      "text": "Arap el yazısı",
+      "answer": "RİKA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yapı alanı",
-      "answer": "ŞANTİYE",
+      "text": "Küçük raflı dolap",
+      "answer": "ETAJER",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çekirdeksel",
-      "answer": "NÜKLEER",
+      "text": "Siyah yakıt",
+      "answer": "KÖMÜR",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "İyileştirici madde",
-      "answer": "İLAÇ",
+      "text": "Deniz girintisi",
+      "answer": "KOY",
+      "row": 6,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Faziletli",
+      "answer": "ERDEMLİ",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Allah",
+      "answer": "TANRI",
       "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dahi sözü",
-      "answer": "BİLE",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Belden aşağı giysi",
-      "answer": "ETEK",
-      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Padişah",
-      "answer": "HÜNKAR",
-      "row": 0,
+      "text": "Büyük tüy",
+      "answer": "TELEK",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -134,7 +120,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 1
     },
     {
       "row": 0,
@@ -142,11 +128,15 @@
     },
     {
       "row": 0,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
-      "col": 6
+      "col": 7
     },
     {
       "row": 2,
@@ -154,14 +144,22 @@
     },
     {
       "row": 2,
-      "col": 2
+      "col": 1
     },
     {
       "row": 3,
+      "col": 0
+    },
+    {
+      "row": 6,
       "col": 6
     },
     {
-      "row": 7,
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
       "col": 7
     },
     {
@@ -170,9 +168,9 @@
     },
     {
       "row": 9,
-      "col": 7
+      "col": 2
     }
   ],
-  "difficulty": "kolay",
-  "order": 65
+  "difficulty": "zor",
+  "order": 221
 }

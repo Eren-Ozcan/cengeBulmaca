@@ -1,110 +1,138 @@
 {
   "id": "puzzle-302",
-  "title": "Bulmaca 215",
+  "title": "Bulmaca 97",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Şen, fettan",
-      "answer": "YOSMA",
+      "text": "Padişah imzası",
+      "answer": "TUĞRA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yazılı tabela",
-      "answer": "LEVHA",
+      "text": "Egemenliğe katma",
+      "answer": "İLHAK",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yol kesişimi",
-      "answer": "KAVŞAK",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Âşık",
-      "answer": "SEVDALI",
-      "row": 3,
+      "text": "Tapınak",
+      "answer": "MABET",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Üniversite diploması",
-      "answer": "LİSANS",
+      "text": "Basit küçük yapı",
+      "answer": "KULÜBE",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Hızlı olan",
+      "answer": "SERİ",
       "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Mide iltihabı",
+      "answer": "GASTRİT",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Saç maddesi",
+      "answer": "JÖLE",
+      "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yetersiz, az",
-      "answer": "KIT",
-      "row": 7,
+      "text": "Boş konuşma",
+      "answer": "ZIRVA",
+      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Metal pişirme aracı",
-      "answer": "IZGARA",
+      "text": "Şehir bölgesi",
+      "answer": "SEMT",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Taş kırıntısı",
+      "answer": "KUM",
       "row": 9,
-      "col": 1,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Vücut çatısı",
-      "answer": "KEMİK",
-      "row": 2,
+      "text": "Erkek hizmetçi",
+      "answer": "UŞAK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Rus ve Leh soydaşı",
-      "answer": "SLAV",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gevşek karşıtı",
-      "answer": "SIKI",
+      "text": "Canlıdaki en küçük birim",
+      "answer": "GÖZE",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kriz",
+      "answer": "BUNALIM",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Banka birikimi",
-      "answer": "MEVDUAT",
+      "text": "Kamboçya para birimi",
+      "answer": "RİEL",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Marmara'da tatil adası",
-      "answer": "AVŞA",
+      "text": "Yumuşak karşıtı",
+      "answer": "SERT",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Karmakarışık",
+      "answer": "ALTÜST",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Saf, temiz",
-      "answer": "HALİS",
-      "row": 1,
+      "text": "Duru",
+      "answer": "BERRAK",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Manzara yönü",
-      "answer": "BAKI",
+      "text": "Sergi salonu",
+      "answer": "GALERİ",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Patlayıcı araç",
-      "answer": "BOMBA",
+      "text": "Suçlama",
+      "answer": "İTHAM",
       "row": 4,
       "col": 7,
       "arrow": "down"
@@ -113,7 +141,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 2
     },
     {
       "row": 0,
@@ -125,14 +153,10 @@
     },
     {
       "row": 1,
-      "col": 7
+      "col": 5
     },
     {
-      "row": 2,
-      "col": 0
-    },
-    {
-      "row": 2,
+      "row": 1,
       "col": 7
     },
     {
@@ -141,57 +165,21 @@
     },
     {
       "row": 5,
-      "col": 4
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 7,
-      "col": 4
-    },
-    {
-      "row": 7,
-      "col": 5
-    },
-    {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
+      "row": 7,
       "col": 4
     },
     {
-      "row": 8,
-      "col": 5
+      "row": 7,
+      "col": 6
     },
     {
       "row": 8,
       "col": 6
-    },
-    {
-      "row": 9,
-      "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 215
+  "difficulty": "kolay",
+  "order": 97
 }

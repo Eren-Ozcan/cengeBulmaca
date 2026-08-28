@@ -1,139 +1,160 @@
 {
   "id": "puzzle-242",
-  "title": "Bulmaca 146",
+  "title": "Bulmaca 14",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Hisseli",
-      "answer": "PAYLI",
+      "text": "Yaşam gücü",
+      "answer": "CAN",
       "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çanakkale ilçesi",
-      "answer": "BİGA",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sırada ilk",
-      "answer": "BİRİNCİ",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Geniş, açık",
-      "answer": "FERAH",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kızartma kabı",
-      "answer": "TAVA",
-      "row": 5,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Osmanlı hükümdarı",
-      "answer": "PADİŞAH",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Örtülü, kapanmış",
-      "answer": "KAPALI",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Tehlikeli durum",
-      "answer": "VARTA",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Ucuz karşıtı",
-      "answer": "PAHALI",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Bağış",
-      "answer": "HİBE",
+      "text": "Ses, seda",
+      "answer": "SADA",
       "row": 0,
-      "col": 1,
-      "arrow": "down"
+      "col": 4,
+      "arrow": "down-right"
     },
     {
-      "text": "Berabere kalma",
-      "answer": "PATA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Su burgacı",
-      "answer": "GİRDAP",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Emek kazancı",
-      "answer": "PARA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Mahkemelik anlaşmazlık",
-      "answer": "DAVA",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Devrim ayaklanması",
-      "answer": "İHTİLAL",
+      "text": "Kadın parasıyla geçinen",
+      "answer": "JİGOLO",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Dönemlik pazar",
+      "answer": "PANAYIR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kibarlık",
+      "answer": "NEZAKET",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yuvarlak nesne",
+      "answer": "DİSK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Çok belirgin",
+      "answer": "APAÇIK",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Arap yazısı işareti",
+      "answer": "HAREKE",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Havada duran",
+      "answer": "ASILI",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Divan şiirinde şarap",
+      "answer": "BADE",
+      "row": 5,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Haber kuruluşu",
+      "answer": "AJANS",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyükanne",
+      "answer": "NİNE",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Çöl yeşilliği",
+      "answer": "VAHA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Din uğruna savaş",
+      "answer": "GAZA",
+      "row": 1,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Oksit tabakası",
+      "answer": "PAS",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Protein fasulyesi",
+      "answer": "SOYA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Japon parası",
-      "answer": "YEN",
+      "text": "Kuraklık tahılı",
+      "answer": "DARI",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Şaşkın, ahmak",
+      "answer": "ALIK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çok fazla",
-      "answer": "AŞIRI",
-      "row": 4,
+      "text": "Mersin'in eski adı",
+      "answer": "İÇEL",
+      "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Sıvı metal",
-      "answer": "CIVA",
-      "row": 2,
+      "text": "Altın sarısı",
+      "answer": "DORE",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Akılsız kimse",
-      "answer": "AHMAK",
-      "row": 4,
+      "text": "Gevşek karşıtı",
+      "answer": "SIKI",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Dergâh",
+      "answer": "TEKKE",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -141,19 +162,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 3
     },
     {
       "row": 0,
@@ -164,18 +173,14 @@
       "col": 7
     },
     {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 7,
-      "col": 6
+      "row": 6,
+      "col": 1
     },
     {
       "row": 9,
-      "col": 6
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 146
+  "difficulty": "kolay",
+  "order": 14
 }

@@ -1,103 +1,103 @@
 {
   "id": "puzzle-258",
-  "title": "Bulmaca 190",
+  "title": "Bulmaca 226",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Aynı atom numarası",
-      "answer": "İZOTOP",
+      "text": "Erkek takımı",
+      "answer": "KOSTÜM",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Damga, mühür",
-      "answer": "KAŞE",
+      "text": "İstanbul ilçesi",
+      "answer": "ŞİLE",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Var olan",
-      "answer": "MEVCUT",
+      "text": "Yumuşak kumaş",
+      "answer": "FLANEL",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kolsuz iç fanila",
-      "answer": "ATLET",
+      "text": "Kısa süren",
+      "answer": "ANLIK",
       "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Işık ayrıştıran cisim",
-      "answer": "PRİZMA",
+      "text": "Meclis teklifi",
+      "answer": "ÖNERGE",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yeşil kabuklu sebze",
-      "answer": "BAKLA",
+      "text": "Köken mahallesi",
+      "answer": "GETTO",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Vida anahtarı",
-      "answer": "ALYAN",
+      "text": "Dışında, dış",
+      "answer": "HARİÇ",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Niğde'nin ilçesi",
-      "answer": "BOR",
+      "text": "Kelam",
+      "answer": "SÖZ",
       "row": 8,
       "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Cimri kimse",
-      "answer": "PİNTİ",
+      "text": "İçten arzu",
+      "answer": "İSTEK",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gölge seven bitki",
-      "answer": "EĞRELTİ",
-      "row": 2,
+      "text": "Ayırtı",
+      "answer": "NÜANS",
+      "row": 4,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Caz orkestrası",
-      "answer": "CAZBANT",
+      "text": "Marpuçlu tütün aleti",
+      "answer": "NARGİLE",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Üniversite öğreticisi",
-      "answer": "OKUTMAN",
+      "text": "Tembel, üşenen",
+      "answer": "ÜŞENGEÇ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yarık, delik",
-      "answer": "PATLAK",
+      "text": "Ulus",
+      "answer": "MİLLET",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Set, baraj",
-      "answer": "BENT",
+      "text": "Haz, keyif",
+      "answer": "ZEVK",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -123,6 +123,10 @@
     {
       "row": 1,
       "col": 6
+    },
+    {
+      "row": 2,
+      "col": 1
     },
     {
       "row": 2,
@@ -170,5 +174,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 190
+  "order": 226
 }

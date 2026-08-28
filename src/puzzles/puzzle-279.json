@@ -1,141 +1,137 @@
 {
   "id": "puzzle-279",
-  "title": "Bulmaca 98",
+  "title": "Bulmaca 184",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Boya tahtası",
-      "answer": "PALET",
-      "row": 1,
+      "text": "Kanın sıvı bölümü",
+      "answer": "PLAZMA",
+      "row": 0,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Renk dizisi",
-      "answer": "TAYF",
+      "text": "Yapı arazisi",
+      "answer": "ARSA",
       "row": 2,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Sac kap",
-      "answer": "BİDON",
-      "row": 2,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Anıt mezar",
-      "answer": "MOZOLE",
+      "text": "Şapkalı bitki",
+      "answer": "MANTAR",
       "row": 3,
-      "col": 0,
-      "arrow": "down-right"
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Özverili",
-      "answer": "FEDAKAR",
+      "text": "Hücum",
+      "answer": "SALDIRI",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yıkma işi",
+      "answer": "YIKIM",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Türk makamı",
+      "answer": "MAHUR",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tek kişilik konuşma",
-      "answer": "MONOLOG",
+      "text": "Dava eden",
+      "answer": "DAVACI",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Katliam",
-      "answer": "KIYIM",
-      "row": 8,
-      "col": 1,
-      "arrow": "right"
+      "text": "Yakışır görülen",
+      "answer": "REVA",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Sert olmayan",
-      "answer": "YUMUŞAK",
+      "text": "Arnavutluk'un başkenti",
+      "answer": "TİRAN",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kuralsız yaşam",
-      "answer": "BOHEM",
-      "row": 2,
+      "text": "Tarikat kurucusu",
+      "answer": "PİR",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Mutluluk",
+      "answer": "SAADET",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gücü yetmeyen, güçsüz",
-      "answer": "ACİZ",
+      "text": "Savurma eylemi",
+      "answer": "ATMA",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hücre topluluğu",
-      "answer": "DOKU",
+      "text": "Kapsayan",
+      "answer": "HAVİ",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Teçhizat",
-      "answer": "DONANIM",
+      "text": "Kırmızı kan hücresi",
+      "answer": "ALYUVAR",
       "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Omuz atkısı",
-      "answer": "ETOL",
+      "text": "Süt çiftliği",
+      "answer": "MANDIRA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Soluk karşıtı",
-      "answer": "KOYU",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Adet",
-      "answer": "TANE",
+      "text": "Geriye kalan",
+      "answer": "ARTIK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Satış karşıtı",
-      "answer": "ALIŞ",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "İtalya'nın başkenti",
-      "answer": "ROMA",
-      "row": 5,
+      "text": "Sarı saçlı",
+      "answer": "SARIŞIN",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Onma",
-      "answer": "İFLAH",
+      "text": "Ziraat",
+      "answer": "TARIM",
       "row": 0,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 0
-    },
     {
       "row": 0,
       "col": 1
@@ -149,34 +145,42 @@
       "col": 6
     },
     {
-      "row": 1,
-      "col": 6
-    },
-    {
       "row": 2,
-      "col": 0
+      "col": 1
     },
     {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
+      "row": 6,
+      "col": 5
     },
     {
       "row": 6,
       "col": 7
     },
     {
+      "row": 7,
+      "col": 7
+    },
+    {
       "row": 8,
-      "col": 0
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 5
     },
     {
       "row": 8,
       "col": 7
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
   "difficulty": "orta",
-  "order": 98
+  "order": 184
 }

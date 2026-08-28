@@ -1,40 +1,40 @@
 {
   "id": "puzzle-143",
-  "title": "Bulmaca 126",
+  "title": "Bulmaca 142",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Delikli kumaş",
-      "answer": "ETAMİN",
+      "text": "Savaşçı kadın",
+      "answer": "AMAZON",
       "row": 1,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Dokunma, ilişki",
-      "answer": "TEMAS",
+      "text": "Ara süresi",
+      "answer": "TATİL",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tümsek",
-      "answer": "KABARTI",
+      "text": "Anılar",
+      "answer": "HATIRAT",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kıskaç, maşa",
-      "answer": "PENSE",
+      "text": "Kalın tahta",
+      "answer": "KALAS",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Arap el yazısı",
-      "answer": "RİKA",
+      "text": "Salata yeşilliği",
+      "answer": "ROKA",
       "row": 5,
       "col": 1,
       "arrow": "down-right"
@@ -61,8 +61,8 @@
       "arrow": "right"
     },
     {
-      "text": "Yarışta aşama",
-      "answer": "ETAP",
+      "text": "Girişken, çevik",
+      "answer": "ATAK",
       "row": 0,
       "col": 1,
       "arrow": "down"
@@ -75,15 +75,15 @@
       "arrow": "down"
     },
     {
-      "text": "Tahta kalemi",
-      "answer": "TEBEŞİR",
+      "text": "Boğa güreşçisi",
+      "answer": "MATADOR",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Yardım sözü",
-      "answer": "AMAN",
+      "text": "Hareketsiz, işlevsiz",
+      "answer": "ATIL",
       "row": 0,
       "col": 3,
       "arrow": "down"
@@ -96,8 +96,8 @@
       "arrow": "down"
     },
     {
-      "text": "Kızıl gezegen",
-      "answer": "MARS",
+      "text": "Çünkü",
+      "answer": "ZİRA",
       "row": 0,
       "col": 4,
       "arrow": "down"
@@ -110,8 +110,8 @@
       "arrow": "down"
     },
     {
-      "text": "İçten arzu",
-      "answer": "İSTEK",
+      "text": "Muhtemel",
+      "answer": "OLASI",
       "row": 0,
       "col": 5,
       "arrow": "down"
@@ -131,8 +131,8 @@
       "arrow": "down"
     },
     {
-      "text": "Dönem",
-      "answer": "DEVRE",
+      "text": "Sıvı birimi",
+      "answer": "LİTRE",
       "row": 4,
       "col": 7,
       "arrow": "down"
@@ -189,5 +189,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 126
+  "order": 142
 }

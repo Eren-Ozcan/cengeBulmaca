@@ -1,139 +1,139 @@
 {
   "id": "puzzle-214",
-  "title": "Bulmaca 181",
+  "title": "Bulmaca 148",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kırgızistan'ın başkenti",
-      "answer": "BİŞKEK",
+      "text": "Sıvı ölçüsü",
+      "answer": "GALON",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Seyirci coşturucusu",
-      "answer": "AMİGO",
+      "text": "Karın-uyluk arası",
+      "answer": "KASIK",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Devlet çalışanı",
-      "answer": "MEMUR",
-      "row": 3,
-      "col": 2,
-      "arrow": "right"
+      "text": "Gürültülü kavga",
+      "answer": "ARBEDE",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Erden kız",
-      "answer": "BAKİRE",
+      "text": "Belirleme, atama",
+      "answer": "TAYİN",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Şeker hastalığı",
-      "answer": "DİYABET",
+      "text": "Sürekli, kesintisiz",
+      "answer": "DAİM",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Yürürlükte",
+      "answer": "GEÇERLİ",
       "row": 5,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "İplik sarılan",
-      "answer": "MAKARA",
+      "text": "Gürcistan para birimi",
+      "answer": "LARİ",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Çift karşıtı",
-      "answer": "TEK",
+      "text": "Mekân; zemin",
+      "answer": "YER",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Ufak tefek",
+      "answer": "MİNYON",
       "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mal satan",
-      "answer": "SATICI",
+      "text": "Demek oluyor ki",
+      "answer": "YANİ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kıvrımlı saç",
-      "answer": "BUKLE",
+      "text": "Ana atardamar",
+      "answer": "AORT",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Bilgisayarda veri",
-      "answer": "DATA",
+      "text": "Üçüncü Yunan harfi",
+      "answer": "GAMA",
       "row": 5,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Preslenmiş yakacak",
-      "answer": "BRİKET",
-      "row": 3,
+      "text": "Bale sanatçısı",
+      "answer": "BALERİN",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Keskin bıçak",
-      "answer": "KAMA",
+      "text": "Dört kişilik masa oyunu",
+      "answer": "OKEY",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Deriye konan ilaç",
-      "answer": "YAKI",
+      "text": "Süslü seramik",
+      "answer": "ÇİNİ",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Eskiden beri çalışan",
-      "answer": "EMEKTAR",
+      "text": "Az bulunur",
+      "answer": "NADİDE",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bazıları",
-      "answer": "KİMİ",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Samimi hitap",
-      "answer": "BACI",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Yemek uzmanı",
-      "answer": "GURME",
+      "text": "Film metni",
+      "answer": "SENARYO",
       "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Beddua",
+      "answer": "İLENÇ",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Altın sarısı",
-      "answer": "DORE",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Kirli sudan bulaşan hastalık",
-      "answer": "TİFO",
-      "row": 5,
+      "text": "İnce yün",
+      "answer": "KAŞMİR",
+      "row": 1,
       "col": 7,
       "arrow": "down"
     }
@@ -141,41 +141,49 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 6
     },
     {
       "row": 3,
-      "col": 1
-    },
-    {
-      "row": 7,
       "col": 6
     },
     {
-      "row": 8,
-      "col": 4
+      "row": 5,
+      "col": 0
     },
     {
       "row": 8,
-      "col": 6
+      "col": 7
     },
     {
       "row": 9,
-      "col": 6
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "zor",
-  "order": 181
+  "difficulty": "orta",
+  "order": 148
 }

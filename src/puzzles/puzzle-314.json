@@ -1,118 +1,104 @@
 {
   "id": "puzzle-314",
-  "title": "Bulmaca 216",
+  "title": "Bulmaca 223",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Cilve, naz",
-      "answer": "İŞVE",
-      "row": 1,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Karadeniz balığı",
-      "answer": "HAMSİ",
-      "row": 1,
-      "col": 1,
+      "text": "Çekişme, dövüş",
+      "answer": "KAVGA",
+      "row": 0,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Güreş bitişi",
-      "answer": "TUŞ",
+      "text": "Ehlileştirilmiş hayvan",
+      "answer": "EVCİL",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Akarsu bölgesi",
+      "answer": "HAVZA",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Şarkı filmi",
-      "answer": "KLİP",
-      "row": 3,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Tenis aracı",
-      "answer": "RAKET",
+      "text": "Karar uygulama",
+      "answer": "İNFAZ",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yıkanma yeri",
-      "answer": "HAMAM",
+      "text": "Çalışma çizelgesi",
+      "answer": "PUANTAJ",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Aşk yakınlaşması",
-      "answer": "FLÖRT",
+      "text": "At yavrusu",
+      "answer": "TAY",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Osmanlı bandosu",
-      "answer": "MEHTER",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Yatak giysisi",
+      "answer": "PİJAMA",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Keder",
-      "answer": "ÜZÜNTÜ",
+      "text": "Duyarlı",
+      "answer": "HASSAS",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Boş inanç",
-      "answer": "HURAFE",
-      "row": 1,
+      "text": "Lamba siperi",
+      "answer": "ABAJUR",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hayat",
-      "answer": "YAŞAM",
+      "text": "Kısa gezi",
+      "answer": "GEZİNTİ",
       "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Süslü uzun giysi",
-      "answer": "KAFTAN",
-      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Arkalıksız sandalye",
-      "answer": "İSKEMLE",
+      "text": "Üstünlük",
+      "answer": "AVANTAJ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Armağan levhası",
-      "answer": "ŞİLT",
+      "text": "Duvar kaplaması",
+      "answer": "FAYANS",
+      "row": 3,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Dönemeç",
+      "answer": "VİRAJ",
       "row": 0,
-      "col": 5,
+      "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Şiş işi",
-      "answer": "ÖRGÜ",
+      "text": "Amaç, erek",
+      "answer": "GAYE",
       "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Pasta yapan",
-      "answer": "PASTACI",
-      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -120,19 +106,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 5
     },
     {
       "row": 0,
@@ -140,23 +118,27 @@
     },
     {
       "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 3,
+      "col": 7
+    },
+    {
+      "row": 6,
       "col": 0
     },
     {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
-    },
-    {
-      "row": 5,
+      "row": 6,
       "col": 6
     },
     {
       "row": 7,
-      "col": 6
+      "col": 0
     },
     {
       "row": 8,
@@ -165,6 +147,10 @@
     {
       "row": 8,
       "col": 2
+    },
+    {
+      "row": 8,
+      "col": 3
     },
     {
       "row": 8,
@@ -180,5 +166,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 216
+  "order": 223
 }

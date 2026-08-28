@@ -1,146 +1,118 @@
 {
   "id": "puzzle-267",
-  "title": "Bulmaca 13",
+  "title": "Bulmaca 228",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Yayla",
-      "answer": "PLATO",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Gürültülü çekişme",
-      "answer": "DALAŞ",
-      "row": 1,
+      "text": "Ezan okuyan",
+      "answer": "MÜEZZİN",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Son, sonuç",
-      "answer": "AKIBET",
+      "text": "Geçişme olayı",
+      "answer": "OZMOZ",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Baharatlı tohum",
-      "answer": "KAKULE",
-      "row": 4,
-      "col": 1,
+      "text": "Üstün gelen",
+      "answer": "GALİP",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tereyağı kabı",
+      "answer": "YAYIK",
+      "row": 5,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Matem",
-      "answer": "YAS",
+      "text": "Muvaffakiyet",
+      "answer": "BAŞARI",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gayret",
-      "answer": "ÇABA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Anılar",
-      "answer": "HATIRAT",
+      "text": "Eziyet çektiren",
+      "answer": "CEFAKAR",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Akım elemanı",
-      "answer": "DİYOT",
+      "text": "Adet",
+      "answer": "TANE",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uzaklık",
-      "answer": "MESAFE",
+      "text": "Eşya seti",
+      "answer": "TAKIM",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Döl yatağı",
-      "answer": "RAHİM",
-      "row": 4,
+      "text": "Şişe kapağı aracı",
+      "answer": "AÇACAK",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Gramofon diski",
-      "answer": "PLAK",
+      "text": "Omuz atkısı",
+      "answer": "ETOL",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Koruma, yardım",
-      "answer": "SAYE",
+      "text": "Neşeli, sevinçli",
+      "answer": "ŞEN",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "İkinci ad",
-      "answer": "LAKAP",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Kafa vurma",
-      "answer": "TOS",
-      "row": 6,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Vurgun, tutkun",
-      "answer": "AŞIK",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İnce, uzun tahta",
-      "answer": "ÇITA",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Gaz hâli",
-      "answer": "BUHAR",
+      "text": "Şölen",
+      "answer": "ZİYAFET",
       "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Pürüz giderici",
+      "answer": "ZIMPARA",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yıkılmış olan",
+      "answer": "YIKIK",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Konaklama işletmesi",
-      "answer": "OTEL",
+      "text": "Gönlü zor",
+      "answer": "NAZLI",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Divan şiirinde şarap",
-      "answer": "BADE",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Karşıtlık",
-      "answer": "TEZAT",
-      "row": 2,
+      "text": "Bilimsel açıklama",
+      "answer": "KURAM",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -148,11 +120,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 1
     },
     {
       "row": 0,
-      "col": 1
+      "col": 3
     },
     {
       "row": 0,
@@ -167,26 +139,42 @@
       "col": 7
     },
     {
-      "row": 3,
+      "row": 2,
       "col": 0
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 2,
+      "col": 1
     },
     {
-      "row": 8,
+      "row": 2,
       "col": 5
     },
     {
-      "row": 8,
+      "row": 2,
       "col": 7
     },
     {
-      "row": 9,
+      "row": 3,
       "col": 7
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 13
+  "difficulty": "zor",
+  "order": 228
 }

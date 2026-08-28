@@ -1,131 +1,131 @@
 {
   "id": "puzzle-250",
-  "title": "Bulmaca 81",
+  "title": "Bulmaca 175",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Kara içi deniz",
-      "answer": "KÖRFEZ",
+      "text": "15 numaralı element",
+      "answer": "FOSFOR",
       "row": 1,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Müzik türü",
-      "answer": "CAZ",
+      "text": "Blucin kumaşı",
+      "answer": "KOT",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Doğru sözlü",
-      "answer": "DÜRÜST",
+      "text": "Sınırlanmış arazi",
+      "answer": "PARSEL",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Macera",
-      "answer": "SERÜVEN",
+      "text": "Dev dalga",
+      "answer": "TSUNAMİ",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Boru musluğu",
-      "answer": "VANA",
+      "text": "Kilogramın binde biri",
+      "answer": "GRAM",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Uzunluk birimi",
-      "answer": "METRE",
+      "text": "Tıpla ilgili",
+      "answer": "TIBBİ",
       "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Meslek derecesi",
-      "answer": "RÜTBE",
+      "text": "Meslek birliği",
+      "answer": "LONCA",
       "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Bekleme bölümü",
-      "answer": "FUAYE",
+      "text": "Bitki örtüsü",
+      "answer": "FLORA",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sınırlanmış arazi",
-      "answer": "PARSEL",
+      "text": "Kuş midesi",
+      "answer": "KURSAK",
       "row": 9,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Beden yapısı",
-      "answer": "CÜSSE",
+      "text": "Destek verme",
+      "answer": "KATKI",
       "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kenarları eşit dörtgen",
-      "answer": "KARE",
+      "text": "Nüfuz, itibar",
+      "answer": "FORS",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Hendek, tuzak",
-      "answer": "TRAP",
+      "text": "Site birimi",
+      "answer": "BLOK",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Mazeret",
-      "answer": "ÖZÜR",
+      "text": "Yumuşak gövdeli",
+      "answer": "OTSU",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Düş",
-      "answer": "RÜYA",
+      "text": "Su geçiren silindir",
+      "answer": "BORU",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yün kazak",
-      "answer": "SÜVETER",
+      "text": "Dikenli sebze",
+      "answer": "ENGİNAR",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dinî görüş",
-      "answer": "FETVA",
+      "text": "İpek eşarp",
+      "answer": "FULAR",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Arazi girintisi",
-      "answer": "ENGEBE",
+      "text": "Büyük dükkân",
+      "answer": "MAĞAZA",
       "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Düğün çalgısı",
-      "answer": "ZURNA",
+      "text": "Döl yatağı",
+      "answer": "RAHİM",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -181,6 +181,6 @@
       "col": 0
     }
   ],
-  "difficulty": "kolay",
-  "order": 81
+  "difficulty": "orta",
+  "order": 175
 }

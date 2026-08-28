@@ -1,132 +1,132 @@
 {
   "id": "puzzle-255",
-  "title": "Bulmaca 149",
+  "title": "Bulmaca 67",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Sarı, tüylü meyve",
-      "answer": "AYVA",
+      "text": "Ayrıcalıklı, asil",
+      "answer": "SOYLU",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kramp",
-      "answer": "SPAZM",
+      "text": "Isınma aracı",
+      "answer": "SOBA",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Gelenek, âdet",
-      "answer": "TÖRE",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
+      "text": "Pers valisi",
+      "answer": "SATRAP",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
     },
     {
-      "text": "Genç boğa",
-      "answer": "TOSUN",
+      "text": "Nebülöz",
+      "answer": "BULUTSU",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Toplama, birleştirme",
-      "answer": "CEM",
+      "text": "Sözleşme",
+      "answer": "KONTRAT",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tanksavar silah",
-      "answer": "BAZUKA",
+      "text": "Enerji maddesi",
+      "answer": "YAKIT",
       "row": 6,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Albayın üstü",
-      "answer": "GENERAL",
+      "text": "Tütün rengi",
+      "answer": "TABA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Değişmeyen",
-      "answer": "DURAL",
+      "text": "Kağıtlı kumar",
+      "answer": "POKER",
       "row": 8,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Çatı örtüsü",
-      "answer": "KİREMİT",
+      "text": "Ses özelliği",
+      "answer": "TINI",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ufak tefek şey",
-      "answer": "ÖTEBERİ",
-      "row": 2,
+      "text": "Taşkın su",
+      "answer": "SEL",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Kahverengi ayı",
+      "answer": "BOZAYI",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kurmaca eser",
-      "answer": "ROMAN",
-      "row": 2,
+      "text": "Su bitkisi",
+      "answer": "YOSUN",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Osmanlı gece bekçisi",
-      "answer": "ASES",
+      "text": "Temel donanım",
+      "answer": "ALTYAPI",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Berber bıçağı",
+      "answer": "USTURA",
       "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ezik, bere",
-      "answer": "ZEDE",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Dik yar",
-      "answer": "UÇURUM",
-      "row": 3,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Değerli kızıl ağaç",
-      "answer": "MAUN",
-      "row": 0,
+      "text": "İş paydaşı",
+      "answer": "ORTAK",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kur'an okuyucusu",
-      "answer": "KARİ",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Kalın ip",
-      "answer": "HALAT",
-      "row": 4,
+      "text": "Kıymalı yemek",
+      "answer": "BASTI",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "İlke, prensip",
-      "answer": "UMDE",
+      "text": "Mülkiyet belgesi",
+      "answer": "TAPU",
       "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Meyveli pasta",
+      "answer": "TART",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -138,45 +138,45 @@
     },
     {
       "row": 0,
-      "col": 2
+      "col": 3
     },
     {
       "row": 0,
-      "col": 4
+      "col": 5
     },
     {
       "row": 0,
       "col": 6
     },
     {
-      "row": 1,
-      "col": 4
-    },
-    {
-      "row": 1,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 7
-    },
-    {
-      "row": 6,
-      "col": 7
+      "row": 2,
+      "col": 1
     },
     {
       "row": 7,
-      "col": 7
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
     },
     {
       "row": 9,
-      "col": 7
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "orta",
-  "order": 149
+  "difficulty": "kolay",
+  "order": 67
 }

@@ -1,139 +1,146 @@
 {
   "id": "puzzle-172",
-  "title": "Bulmaca 58",
+  "title": "Bulmaca 42",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Hafif topal",
-      "answer": "AKSAK",
-      "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Külhanbeyi",
-      "answer": "APAŞ",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Yeşil yapraklı sebze",
-      "answer": "ISPANAK",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Enerji ölçü birimi",
-      "answer": "KALORİ",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sıvı kese",
-      "answer": "KİST",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yalvarma, yakarma",
-      "answer": "NİYAZ",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İç giysi",
-      "answer": "FANİLA",
-      "row": 7,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Kayma ayakkabısı",
-      "answer": "PATEN",
-      "row": 8,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Uyarı notu",
-      "answer": "ANDIÇ",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Akıl",
-      "answer": "US",
-      "row": 9,
-      "col": 5,
-      "arrow": "right"
-    },
-    {
-      "text": "İyi kesen",
-      "answer": "KESKİN",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Edilgin",
-      "answer": "PASİF",
-      "row": 2,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Temel donanım",
-      "answer": "ALTYAPI",
-      "row": 2,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Küçük, hafif kayık",
-      "answer": "KANO",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Şefkatli davranan",
-      "answer": "ANAÇ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Asalak",
-      "answer": "PARAZİT",
+      "text": "Maaş listesi",
+      "answer": "BORDRO",
       "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kısa ceket",
+      "answer": "BOLERO",
+      "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Tahta sedir",
+      "answer": "KEREVET",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İstinat noktası",
+      "answer": "DAYANAK",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Taht mirasçısı",
+      "answer": "VELİAHT",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kanun",
+      "answer": "YASA",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Matem",
+      "answer": "YAS",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Salgın ishal hastalığı",
+      "answer": "KOLERA",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Büro",
+      "answer": "OFİS",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Parasız",
+      "answer": "BEDAVA",
+      "row": 1,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Şiddetli fırtına",
+      "answer": "BORA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Yeni karşıtı",
+      "answer": "ESKİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Sevinç ünlemi",
+      "answer": "OLEY",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Güneydoğu Asya ülkesi",
+      "answer": "LAOS",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İrmikli şerbetli tatlı",
+      "answer": "REVANİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Su boşaltma kanalı",
+      "answer": "DREN",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kalıcı, ölümsüz",
-      "answer": "BAKİ",
+      "text": "Sure bölümü",
+      "answer": "AYET",
+      "row": 5,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "İzlenecek yol",
+      "answer": "ROTA",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Rumen parası",
-      "answer": "LEU",
-      "row": 6,
+      "text": "Halk dilinde ateş",
+      "answer": "HAR",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ayırtı",
-      "answer": "NÜANS",
-      "row": 4,
+      "text": "Mukaddes",
+      "answer": "KUTSAL",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -141,15 +148,11 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
+      "col": 0
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 5
+      "col": 1
     },
     {
       "row": 0,
@@ -157,25 +160,25 @@
     },
     {
       "row": 1,
-      "col": 7
+      "col": 0
     },
     {
-      "row": 3,
+      "row": 2,
       "col": 7
     },
     {
       "row": 5,
-      "col": 6
-    },
-    {
-      "row": 7,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 1
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 58
+  "order": 42
 }

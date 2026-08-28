@@ -1,125 +1,125 @@
 {
   "id": "puzzle-298",
-  "title": "Bulmaca 167",
+  "title": "Bulmaca 154",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Koruyucu gaz",
-      "answer": "OZON",
+      "text": "Bütünsel, toplam",
+      "answer": "TOTAL",
       "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çağ, dönem",
-      "answer": "DEVR",
-      "row": 1,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Ses sanatı",
-      "answer": "MÜZİK",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kesilmiş parça",
-      "answer": "DİLİM",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Nağme",
-      "answer": "TERANE",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Hristiyan bayramı",
-      "answer": "YORTU",
-      "row": 6,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Buğday rengi",
-      "answer": "ESMER",
-      "row": 7,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Tekerlek çemberi",
-      "answer": "JANT",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İş birimi",
-      "answer": "ERG",
-      "row": 8,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Yelken ipi",
-      "answer": "ORSA",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Doğal kuyu",
-      "answer": "DÜDEN",
+      "text": "Delik kapatan",
+      "answer": "TIKAÇ",
       "row": 1,
-      "col": 1,
-      "arrow": "down"
+      "col": 0,
+      "arrow": "down-right"
     },
     {
-      "text": "Osmanlı görevlisi",
-      "answer": "VEZİR",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İl",
-      "answer": "VİLAYET",
-      "row": 1,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Ton balığı",
-      "answer": "ORKİNOS",
-      "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Beyaz süs taşı",
-      "answer": "MERMER",
+      "text": "Şüphe",
+      "answer": "KUŞKU",
       "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yabani at",
+      "answer": "YILKI",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İki kişilik bisiklet",
+      "answer": "TANDEM",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İri deniz kabuklusu",
+      "answer": "ISTAKOZ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Suların donması",
+      "answer": "DON",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Nüans",
+      "answer": "AYIRTI",
+      "row": 9,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tıkırdama sesi",
+      "answer": "TIKIRTI",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Öğretim kurumu",
+      "answer": "OKUL",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Hiçbir zaman, kesinlikle",
+      "answer": "ASLA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Özbekistan'ın başkenti",
+      "answer": "TAŞKENT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüzey parlatma",
+      "answer": "AÇKI",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çocuk bakıcısı",
+      "answer": "DADI",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Süsleme düzeni",
+      "answer": "DEKOR",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Arka yüz",
-      "answer": "TERS",
+      "text": "Kalın dış giysi",
+      "answer": "MONT",
       "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Eğe kemikleri",
-      "answer": "KABURGA",
-      "row": 2,
+      "text": "Uçan küre",
+      "answer": "BALON",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -131,14 +131,6 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 5
     },
     {
@@ -146,12 +138,8 @@
       "col": 6
     },
     {
-      "row": 0,
-      "col": 7
-    },
-    {
       "row": 1,
-      "col": 0
+      "col": 6
     },
     {
       "row": 2,
@@ -170,26 +158,30 @@
       "col": 6
     },
     {
+      "row": 5,
+      "col": 0
+    },
+    {
       "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 8,
       "col": 1
+    },
+    {
+      "row": 8,
+      "col": 7
     },
     {
       "row": 9,
       "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 2
     }
   ],
   "difficulty": "orta",
-  "order": 167
+  "order": 154
 }

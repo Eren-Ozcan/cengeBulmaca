@@ -1,145 +1,124 @@
 {
   "id": "puzzle-217",
-  "title": "Bulmaca 55",
+  "title": "Bulmaca 209",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Çembalo",
-      "answer": "KLAVSEN",
+      "text": "Tüfek arkası",
+      "answer": "DİPÇİK",
       "row": 0,
-      "col": 1,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İhanet eden",
-      "answer": "HAİN",
+      "text": "Bağışlama",
+      "answer": "AF",
       "row": 1,
+      "col": 6,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Değişken istek",
+      "answer": "KAPRİS",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yeşil karnabahar",
-      "answer": "BROKOLİ",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Seke yürüyen",
-      "answer": "TOPAL",
+      "text": "Bina bölümü",
+      "answer": "KAT",
       "row": 4,
-      "col": 2,
+      "col": 4,
       "arrow": "right"
     },
     {
-      "text": "Yer mantarı",
-      "answer": "DOMALAN",
-      "row": 5,
-      "col": 1,
+      "text": "Coşku",
+      "answer": "HEYECAN",
+      "row": 4,
+      "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Gemi omurgası",
-      "answer": "KARİNA",
+      "text": "Teselli",
+      "answer": "AVUNTU",
       "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Büyük kümes hayvanı",
-      "answer": "HİNDİ",
-      "row": 8,
-      "col": 0,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Temel eğitim yeri",
-      "answer": "İLKOKUL",
+      "text": "Cepteki bez",
+      "answer": "MENDİL",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Karadeniz teknesi",
+      "answer": "TAKA",
+      "row": 8,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Makama erişme",
+      "answer": "İKBAL",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İnce karşıtı",
-      "answer": "KABA",
+      "text": "Babanın kız kardeşi",
+      "answer": "HALA",
+      "row": 4,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Anlatım, açıklama",
+      "answer": "İFADE",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Üstün zekâlı",
-      "answer": "DAHİ",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Mitolojik çalgı",
-      "answer": "LİR",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "İri maymun",
-      "answer": "GORİL",
+      "text": "Eğik olan",
+      "answer": "YAMUK",
       "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Artı kutup",
-      "answer": "ANOT",
+      "text": "Resim kenarlığı",
+      "answer": "ÇERÇEVE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Vizon",
-      "answer": "MİNK",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Özel eğitimli asker",
-      "answer": "KOMANDO",
-      "row": 2,
+      "text": "Yönetim gaspı",
+      "answer": "CUNTA",
+      "row": 4,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dur işareti",
-      "answer": "STOP",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Dinden bağımsız",
-      "answer": "LAİK",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Nişastalı bulamaç",
-      "answer": "LAPA",
+      "text": "Rezalet olayı",
+      "answer": "SKANDAL",
       "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski, kadim",
+      "answer": "ANTİK",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ulaşmış, kavuşmuş",
-      "answer": "NAİL",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Doğuş bayramı",
-      "answer": "NOEL",
+      "text": "Zarf-fiil",
+      "answer": "ULAÇ",
       "row": 5,
       "col": 7,
       "arrow": "down"
@@ -148,7 +127,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 2
     },
     {
       "row": 0,
@@ -156,25 +135,41 @@
     },
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
-      "row": 4,
-      "col": 0
+      "row": 0,
+      "col": 7
     },
     {
-      "row": 5,
-      "col": 0
+      "row": 1,
+      "col": 7
     },
     {
-      "row": 7,
-      "col": 6
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 3,
+      "col": 7
     },
     {
       "row": 8,
+      "col": 1
+    },
+    {
+      "row": 9,
       "col": 6
     }
   ],
-  "difficulty": "kolay",
-  "order": 55
+  "difficulty": "zor",
+  "order": 209
 }

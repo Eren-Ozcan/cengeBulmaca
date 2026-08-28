@@ -1,110 +1,131 @@
 {
   "id": "puzzle-291",
-  "title": "Bulmaca 176",
+  "title": "Bulmaca 200",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Vuruş sesi",
-      "answer": "ŞAK",
-      "row": 1,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Uydurma sebep",
-      "answer": "BAHANE",
-      "row": 1,
+      "text": "Yakın dost",
+      "answer": "AHBAP",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "İş süresi",
-      "answer": "MESAİ",
+      "text": "Marmara'da tatil adası",
+      "answer": "AVŞA",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Ege incisi",
+      "answer": "İZMİR",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Mor kokulu çiçek",
+      "answer": "MENEKŞE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Sidik",
-      "answer": "İDRAR",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Dans eşi",
-      "answer": "KAVALYE",
-      "row": 6,
+      "text": "Arka yüz",
+      "answer": "TERS",
+      "row": 4,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Şuur",
-      "answer": "BİLİNÇ",
-      "row": 7,
+      "text": "Öfke",
+      "answer": "HİDDET",
+      "row": 6,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "El vuruşu",
-      "answer": "SİLLE",
+      "text": "Maharet",
+      "answer": "BECERİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çay demleme kabı",
+      "answer": "SEMAVER",
       "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Bronz",
-      "answer": "TUNÇ",
+      "text": "Yas",
+      "answer": "MATEM",
       "row": 9,
-      "col": 3,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "El ucu",
-      "answer": "PARMAK",
+      "text": "Işık demeti",
+      "answer": "HÜZME",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Büyük kardeş",
-      "answer": "ABLA",
-      "row": 5,
+      "text": "Deri lekesi",
+      "answer": "BEN",
+      "row": 6,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Sürülen ilaç",
+      "answer": "MERHEM",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Askerî olmayan",
-      "answer": "SİVİL",
-      "row": 3,
+      "text": "Uyumlu düzen",
+      "answer": "İNSİCAM",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Hak, hukuk",
-      "answer": "ADALET",
-      "row": 3,
+      "text": "Parça",
+      "answer": "PARE",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kentli",
-      "answer": "ŞEHİRLİ",
-      "row": 0,
+      "text": "İlaç, çare",
+      "answer": "DEVA",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yapabilme gücü",
+      "answer": "KUDRET",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Olduğu gibi",
-      "answer": "AYNEN",
-      "row": 4,
+      "text": "İrlanda'nın kendi adı",
+      "answer": "EİRE",
+      "row": 5,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bağırsak dürümü",
-      "answer": "KOKOREÇ",
+      "text": "Buluş belgesi",
+      "answer": "PATENT",
       "row": 0,
       "col": 7,
       "arrow": "down"
@@ -113,10 +134,6 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
@@ -125,43 +142,31 @@
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
-    },
-    {
-      "row": 1,
-      "col": 2
-    },
-    {
-      "row": 1,
-      "col": 3
-    },
-    {
-      "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
-      "col": 0
-    },
-    {
-      "row": 3,
-      "col": 2
-    },
-    {
-      "row": 3,
-      "col": 6
-    },
-    {
-      "row": 5,
-      "col": 0
-    },
-    {
-      "row": 8,
       "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 7
     },
     {
       "row": 8,
@@ -170,12 +175,8 @@
     {
       "row": 9,
       "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
     }
   ],
-  "difficulty": "orta",
-  "order": 176
+  "difficulty": "zor",
+  "order": 200
 }

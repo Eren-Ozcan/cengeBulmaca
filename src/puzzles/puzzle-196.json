@@ -1,131 +1,131 @@
 {
   "id": "puzzle-196",
-  "title": "Bulmaca 113",
+  "title": "Bulmaca 70",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Sivri çıkıntı",
-      "answer": "DİKEN",
+      "text": "Türemiş şey",
+      "answer": "TÜREV",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kahverengi benek",
-      "answer": "ÇİL",
+      "text": "Geri çevirme",
+      "answer": "RET",
       "row": 2,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Gerekli malzeme",
-      "answer": "GEREÇ",
+      "text": "Hasta bölümü",
+      "answer": "REVİR",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Camlı bölme",
-      "answer": "CAMEKAN",
+      "text": "Harcama",
+      "answer": "TÜKETİM",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ne fiyata",
-      "answer": "KAÇA",
+      "text": "Kenarları eşit dörtgen",
+      "answer": "KARE",
       "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Küçük bölme",
-      "answer": "KABİN",
+      "text": "Mevsimlik rüzgâr",
+      "answer": "MUSON",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İki kişilik bisiklet",
-      "answer": "TANDEM",
+      "text": "Parlayan gök cismi",
+      "answer": "YILDIZ",
       "row": 7,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "İstiridye tanesi",
-      "answer": "İNCİ",
+      "text": "Toplama işareti",
+      "answer": "ARTI",
       "row": 8,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Esprili",
-      "answer": "NÜKTELİ",
+      "text": "Tek hücreli mikrop",
+      "answer": "BAKTERİ",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Meşrubat",
-      "answer": "İÇECEK",
+      "text": "Mal çıkarma",
+      "answer": "ÜRETİM",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kullanım ücreti",
-      "answer": "KİRA",
+      "text": "Sahne gösterisi",
+      "answer": "REVÜ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çabuk, tez",
-      "answer": "ATİK",
+      "text": "Kafiye",
+      "answer": "UYAK",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Keder, üzüntü",
-      "answer": "ELEM",
+      "text": "Ahlak kuralları",
+      "answer": "ETİK",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yapışkan şerit",
-      "answer": "BANT",
+      "text": "Gövdenin arka yüzü",
+      "answer": "SIRT",
       "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sakınca",
-      "answer": "ÇEKİNCE",
+      "text": "Yıllık ürün",
+      "answer": "REKOLTE",
       "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yağ lambası",
-      "answer": "KANDİL",
+      "text": "Toprak fırın",
+      "answer": "TANDIR",
       "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kaya kütlesi",
-      "answer": "KAYAÇ",
+      "text": "Ölünün yeri",
+      "answer": "KABİR",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ezgi, melodi",
-      "answer": "NAĞME",
+      "text": "Konu",
+      "answer": "MEVZU",
       "row": 3,
       "col": 7,
       "arrow": "down"
@@ -181,6 +181,6 @@
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 113
+  "difficulty": "kolay",
+  "order": 70
 }

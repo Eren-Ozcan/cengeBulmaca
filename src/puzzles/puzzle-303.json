@@ -1,137 +1,134 @@
 {
   "id": "puzzle-303",
-  "title": "Bulmaca 168",
+  "title": "Bulmaca 204",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Ritmik hareket",
-      "answer": "DANS",
+      "text": "Doldurma maddesi",
+      "answer": "DOLGU",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sayı aşan",
-      "answer": "AŞKIN",
-      "row": 2,
+      "text": "Batı soyluluk unvanı",
+      "answer": "VİKONT",
+      "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Edilgin",
+      "answer": "PASİF",
+      "row": 4,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yüz, çehre",
-      "answer": "VECH",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Adam öldürme",
-      "answer": "CİNAYET",
-      "row": 4,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İstek duygusu",
-      "answer": "HEVES",
+      "text": "Gezinti teknesi",
+      "answer": "YAT",
       "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Baskı işi",
-      "answer": "BASI",
-      "row": 6,
+      "text": "Onay damgası",
+      "answer": "VİZE",
+      "row": 5,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yakalama",
-      "answer": "DERDEST",
+      "text": "Yer mantarı",
+      "answer": "DOMALAN",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ant",
+      "answer": "YEMİN",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Başkaldırı",
-      "answer": "İSYAN",
+      "text": "Abartan erkek",
+      "answer": "MAÇO",
       "row": 8,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tehditle çıkar sağlama",
-      "answer": "ŞANTAJ",
+      "text": "Toprak aşınması",
+      "answer": "EROZYON",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "İlk bilgi",
-      "answer": "ABECE",
-      "row": 0,
+      "text": "Hizmetli",
+      "answer": "HADEME",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yakın çevre",
-      "answer": "CİVAR",
-      "row": 2,
+      "text": "Kağıt rulosu",
+      "answer": "TOMAR",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Gösteri yeri",
-      "answer": "SAHNE",
+      "text": "Salgın soğuk algınlığı",
+      "answer": "GRİP",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İnanç sistemi",
-      "answer": "DİN",
-      "row": 6,
+      "text": "Gemide tayfa yamağı",
+      "answer": "MİÇO",
+      "row": 5,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Isıya dayanıklı lif",
-      "answer": "ASBEST",
-      "row": 3,
+      "text": "Kapaklı cam kap",
+      "answer": "KAVANOZ",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Dört kişilik masa oyunu",
-      "answer": "OKEY",
-      "row": 0,
+      "text": "Canlı kalıntısı",
+      "answer": "FOSİL",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "En büyük kıta",
-      "answer": "ASYA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Meslek çalışması",
-      "answer": "STAJ",
-      "row": 5,
+      "text": "Düzen",
+      "answer": "NİZAM",
+      "row": 2,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Ayak direyen",
-      "answer": "İNATÇI",
+      "text": "Rica ederim",
+      "answer": "LÜTFEN",
       "row": 0,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
     {
       "row": 0,
       "col": 2
@@ -142,23 +139,35 @@
     },
     {
       "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
       "col": 6
     },
     {
       "row": 1,
-      "col": 4
+      "col": 6
     },
     {
-      "row": 1,
-      "col": 6
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 2
     },
     {
       "row": 3,
-      "col": 6
+      "col": 0
     },
     {
-      "row": 6,
-      "col": 1
+      "row": 7,
+      "col": 5
     },
     {
       "row": 7,
@@ -166,17 +175,17 @@
     },
     {
       "row": 8,
-      "col": 0
+      "col": 5
     },
     {
       "row": 8,
-      "col": 1
+      "col": 6
     },
     {
-      "row": 9,
+      "row": 8,
       "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 168
+  "difficulty": "zor",
+  "order": 204
 }

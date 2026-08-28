@@ -1,132 +1,146 @@
 {
   "id": "puzzle-257",
-  "title": "Bulmaca 59",
+  "title": "Bulmaca 17",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Garson yardımcısı",
-      "answer": "KOMİ",
+      "text": "Bakanlar kurulu",
+      "answer": "KABİNE",
       "row": 0,
-      "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Kızıl metal",
-      "answer": "BAKIR",
-      "row": 1,
       "col": 1,
       "arrow": "down-right"
     },
     {
-      "text": "Alçak gönüllülük",
-      "answer": "TEVAZU",
-      "row": 2,
+      "text": "Serüven",
+      "answer": "MACERA",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eşini kaybeden",
-      "answer": "DUL",
-      "row": 4,
+      "text": "Küçük at",
+      "answer": "MİDİLLİ",
+      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Mal, mülk",
-      "answer": "MİRAS",
-      "row": 4,
+      "text": "Değerli yığın",
+      "answer": "HAZİNE",
+      "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Yangın söndürme",
-      "answer": "İTFAİYE",
-      "row": 6,
+      "text": "Bitkinin gövdesi",
+      "answer": "SAP",
+      "row": 5,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Başkaları, yabancılar, eller",
-      "answer": "AĞYAR",
+      "text": "Yeşilimsi kahverengi",
+      "answer": "HAKİ",
+      "row": 5,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Toplantı yeri",
+      "answer": "LOKAL",
       "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Yakıcı tüylü ot",
+      "answer": "ISIRGAN",
+      "row": 8,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Ayak direyen",
+      "answer": "İNATÇI",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Keskin bıçak",
+      "answer": "KAMA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Yüz üstü",
+      "answer": "ALIN",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gücü yetmeyen, güçsüz",
+      "answer": "ACİZ",
+      "row": 0,
       "col": 2,
-      "arrow": "right"
+      "arrow": "down"
     },
     {
-      "text": "Denetleme",
-      "answer": "KONTROL",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Güzel koku",
-      "answer": "ITIR",
-      "row": 9,
-      "col": 3,
-      "arrow": "right"
+      "text": "Yiyecek artığı",
+      "answer": "POSA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
     },
     {
       "text": "Estetik",
       "answer": "BEDİİ",
-      "row": 1,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yanak içi",
-      "answer": "AVURT",
-      "row": 1,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Gemi onarımı",
-      "answer": "KALAFAT",
-      "row": 1,
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Dişi çocuk",
-      "answer": "KIZ",
+      "text": "Yetersiz, az",
+      "answer": "KIT",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yaradaki cerahat",
+      "answer": "İRİN",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bel-kuyruk arası",
-      "answer": "SAĞRI",
-      "row": 4,
+      "text": "Duvar karışımı",
+      "answer": "HARÇ",
+      "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yemeden durma",
-      "answer": "ORUÇ",
+      "text": "İnleme, inilti",
+      "answer": "NALE",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "I simgeli element",
-      "answer": "İYOT",
+      "text": "İdrak",
+      "answer": "ALGI",
       "row": 5,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kıyı evi",
-      "answer": "YALI",
-      "row": 5,
-      "col": 6,
-      "arrow": "down"
-    },
-    {
-      "text": "Nikbin",
-      "answer": "İYİMSER",
-      "row": 0,
+      "text": "Ayrık durum",
+      "answer": "İSTİSNA",
+      "row": 2,
       "col": 7,
       "arrow": "down"
     }
@@ -138,30 +152,18 @@
     },
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
       "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
     },
     {
       "row": 1,
-      "col": 0
+      "col": 7
     },
     {
       "row": 2,
-      "col": 6
-    },
-    {
-      "row": 3,
       "col": 6
     },
     {
@@ -169,26 +171,18 @@
       "col": 6
     },
     {
+      "row": 5,
+      "col": 6
+    },
+    {
       "row": 7,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 7
+      "col": 6
     },
     {
       "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 2
+      "col": 6
     }
   ],
   "difficulty": "kolay",
-  "order": 59
+  "order": 17
 }

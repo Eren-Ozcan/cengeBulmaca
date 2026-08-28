@@ -1,111 +1,132 @@
 {
   "id": "puzzle-253",
-  "title": "Bulmaca 189",
+  "title": "Bulmaca 215",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Göz kapağı kılı",
-      "answer": "KİRPİK",
-      "row": 1,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Küçük ağırlık birimi",
-      "answer": "GRAM",
-      "row": 1,
+      "text": "Uyanık, kurnaz",
+      "answer": "AÇIKGÖZ",
+      "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Motorsuz uçak",
-      "answer": "PLANÖR",
+      "text": "Kitap yazan",
+      "answer": "YAZAR",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Beddua, kargış",
+      "answer": "LANET",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Beddua",
-      "answer": "İLENÇ",
+      "text": "İstekli kimse",
+      "answer": "TALİP",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Boks kategorisi",
-      "answer": "SIKLET",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "İslam'ın beşinci şartı",
-      "answer": "HAC",
-      "row": 5,
+      "text": "Kamıştan üflemeli çalgı",
+      "answer": "NEY",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Tek hücreli mikrop",
-      "answer": "BAKTERİ",
+      "text": "Devlete ait",
+      "answer": "RESMİ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Öç alma",
+      "answer": "İNTİKAM",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Damıtma aracı",
-      "answer": "İMBİK",
+      "text": "Tren bölümü",
+      "answer": "VAGON",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yansıtma aygıtı",
+      "answer": "TEPEGÖZ",
       "row": 9,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hedefi vurma",
-      "answer": "İSABET",
+      "text": "Dinî hukuk",
+      "answer": "ŞERİAT",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Ilıca",
-      "answer": "KAPLICA",
-      "row": 0,
+      "text": "Amca karısı",
+      "answer": "YENGE",
+      "row": 4,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Logo",
-      "answer": "İMLEK",
+      "text": "Myanmar para birimi",
+      "answer": "KYAT",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "İfade",
-      "answer": "ANLATIM",
-      "row": 2,
+      "text": "Dur işareti",
+      "answer": "STOP",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Batı Afrika ülkesi",
+      "answer": "GANA",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Tırnaklı ayak",
-      "answer": "PENÇE",
+      "text": "Diş dokusu",
+      "answer": "MİNE",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hususiyet",
+      "answer": "ÖZELLİK",
       "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Terlemiş olan",
-      "answer": "TERLİ",
-      "row": 4,
+      "text": "Zaten",
+      "answer": "ZATİ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "39'dan sonraki sayı",
-      "answer": "KIRK",
-      "row": 0,
+      "text": "Kaynatılmış üzüm suyu",
+      "answer": "PEKMEZ",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -113,23 +134,27 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 4
+      "col": 2
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 6
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
     },
     {
       "row": 3,
@@ -137,31 +162,11 @@
     },
     {
       "row": 5,
-      "col": 7
+      "col": 6
     },
     {
       "row": 6,
-      "col": 3
-    },
-    {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 0
-    },
-    {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 3
+      "col": 6
     },
     {
       "row": 8,
@@ -169,13 +174,9 @@
     },
     {
       "row": 8,
-      "col": 7
-    },
-    {
-      "row": 9,
-      "col": 0
+      "col": 6
     }
   ],
   "difficulty": "zor",
-  "order": 189
+  "order": 215
 }

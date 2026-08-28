@@ -1,118 +1,146 @@
 {
   "id": "puzzle-159",
-  "title": "Bulmaca 201",
+  "title": "Bulmaca 15",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Devlete ait",
-      "answer": "RESMİ",
+      "text": "Kazıklı humma",
+      "answer": "TETANOS",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Değerli taş",
-      "answer": "ELMAS",
+      "text": "Peygamber arkadaşı",
+      "answer": "SAHABE",
       "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Olağan",
-      "answer": "NORMAL",
-      "row": 3,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ay biçimi",
-      "answer": "HİLAL",
+      "text": "Sığınılacak yer",
+      "answer": "BARINAK",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gösteri çadırı",
+      "answer": "SİRK",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Ağır, tehlikeli",
-      "answer": "VAHİM",
+      "text": "Merkez",
+      "answer": "ÖZEK",
       "row": 5,
-      "col": 1,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Taze karşıtı",
-      "answer": "BAYAT",
+      "text": "Kaldırma aleti",
+      "answer": "KRİKO",
       "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Sergi salonu",
-      "answer": "GALERİ",
-      "row": 7,
-      "col": 1,
+      "text": "Sakin, edepli",
+      "answer": "USLU",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Vahşi at sporu",
+      "answer": "RODEO",
+      "row": 8,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Edat",
-      "answer": "İLGEÇ",
+      "text": "Cansız varlık",
+      "answer": "NESNE",
       "row": 9,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kan pompası",
-      "answer": "KALP",
-      "row": 4,
-      "col": 0,
-      "arrow": "down"
-    },
-    {
-      "text": "Sicilya yanardağı",
-      "answer": "ETNA",
+      "text": "Temel öz",
+      "answer": "ESAS",
       "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Kale sayısı",
-      "answer": "GOL",
-      "row": 6,
+      "text": "Sağlıklı",
+      "answer": "ESEN",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Geçmiş bilimi",
+      "answer": "TARİH",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bir selamlaşma sözü",
-      "answer": "MERHABA",
+      "text": "Hayvan barınağı",
+      "answer": "AHIR",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Din kuralları kitabı",
-      "answer": "İLMİHAL",
+      "text": "Eğitim programı",
+      "answer": "KURS",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "İyilikbilmez",
+      "answer": "NANKÖR",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Devlet gelirleri",
-      "answer": "MALİYE",
-      "row": 1,
+      "text": "Dokuzdan sonraki sayı",
+      "answer": "ON",
+      "row": 7,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Göçebe yerleşimi",
+      "answer": "OBA",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Mürekkep balığı",
-      "answer": "KALAMAR",
+      "text": "Diri, canlı",
+      "answer": "ZİNDE",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Taşlı zıplama oyunu",
+      "answer": "SEKSEK",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kar fırtınası",
-      "answer": "TİPİ",
-      "row": 5,
+      "text": "Dikey destek",
+      "answer": "KOLON",
+      "row": 4,
       "col": 7,
       "arrow": "down"
     }
@@ -120,14 +148,6 @@
   "blocks": [
     {
       "row": 0,
-      "col": 2
-    },
-    {
-      "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
       "col": 7
     },
     {
@@ -136,41 +156,29 @@
     },
     {
       "row": 2,
-      "col": 0
+      "col": 7
     },
     {
       "row": 3,
       "col": 7
     },
     {
-      "row": 6,
-      "col": 1
+      "row": 5,
+      "col": 0
     },
     {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
+      "row": 7,
       "col": 6
+    },
+    {
+      "row": 8,
+      "col": 0
     },
     {
       "row": 9,
       "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 201
+  "difficulty": "kolay",
+  "order": 15
 }

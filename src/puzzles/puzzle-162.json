@@ -1,125 +1,139 @@
 {
   "id": "puzzle-162",
-  "title": "Bulmaca 205",
+  "title": "Bulmaca 167",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "İlk ay",
-      "answer": "OCAK",
+      "text": "Ayaklı bardak",
+      "answer": "KADEH",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Beyazımsı",
-      "answer": "AKÇA",
-      "row": 1,
+      "text": "Düzgün konuşan",
+      "answer": "FASİH",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Yön kolu",
+      "answer": "GİDON",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kalsiyum maddesi",
+      "answer": "KİREÇ",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Kez, kere",
+      "answer": "DEFA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kartal türü",
+      "answer": "KARAKUŞ",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Keskin kokulu gaz",
+      "answer": "AMONYAK",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Br simgeli element",
+      "answer": "BROM",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Orman hayvanı",
+      "answer": "AYI",
+      "row": 8,
       "col": 4,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Üst giysisi",
-      "answer": "BLUZ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Güreşçi pantolonu",
-      "answer": "KİSPET",
-      "row": 4,
-      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Yayvan, düz",
-      "answer": "YASSI",
-      "row": 5,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Çam meyvesi",
-      "answer": "KOZALAK",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Nitrogliserinli patlayıcı",
-      "answer": "DİNAMİT",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Kamıştan üflemeli çalgı",
-      "answer": "NEY",
-      "row": 7,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Ünlüler haberleri",
-      "answer": "MAGAZİN",
+      "text": "Dalga aleti",
+      "answer": "ANTEN",
       "row": 9,
-      "col": 0,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Bağlantı cihazı",
-      "answer": "MODEM",
-      "row": 4,
+      "text": "Çabuk, tez",
+      "answer": "ATİK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Saçma sapan",
-      "answer": "ABUK",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Işık",
-      "answer": "ZİYA",
+      "text": "Kur'an okuyucusu",
+      "answer": "KARİ",
       "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Üreteç",
+      "answer": "DİNAMO",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Zarar",
-      "answer": "ZİYAN",
-      "row": 2,
+      "text": "Güç harcama",
+      "answer": "EFOR",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yeşillik karışımı",
-      "answer": "SALATA",
-      "row": 3,
+      "text": "İtalya'nın başkenti",
+      "answer": "ROMA",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Hükümdar ailesi",
+      "answer": "HANEDAN",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Şümul",
-      "answer": "KAPSAM",
-      "row": 1,
+      "text": "Açılan koltuk",
+      "answer": "ÇEKYAT",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eski eşya alıcısı",
-      "answer": "ESKİCİ",
-      "row": 3,
+      "text": "Bekleme bölümü",
+      "answer": "FUAYE",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kıymalı yemek",
-      "answer": "BASTI",
-      "row": 0,
+      "text": "Ne yapacağını bilmez",
+      "answer": "ŞAŞKIN",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -127,15 +141,7 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
+      "col": 2
     },
     {
       "row": 0,
@@ -144,36 +150,36 @@
     {
       "row": 0,
       "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 5
     },
     {
       "row": 1,
       "col": 6
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 1,
+      "col": 7
     },
     {
-      "row": 4,
+      "row": 3,
+      "col": 6
+    },
+    {
+      "row": 5,
       "col": 0
     },
     {
-      "row": 6,
-      "col": 7
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 7
+      "row": 9,
+      "col": 0
     }
   ],
-  "difficulty": "zor",
-  "order": 205
+  "difficulty": "orta",
+  "order": 167
 }

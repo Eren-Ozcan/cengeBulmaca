@@ -1,118 +1,111 @@
 {
   "id": "puzzle-292",
-  "title": "Bulmaca 178",
+  "title": "Bulmaca 216",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Ev arası yol",
-      "answer": "SOKAK",
+      "text": "Endişe",
+      "answer": "KAYGI",
       "row": 1,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Motif",
-      "answer": "DESEN",
+      "text": "Kore başkenti",
+      "answer": "SEUL",
       "row": 2,
-      "col": 3,
-      "arrow": "down-right"
+      "col": 0,
+      "arrow": "right"
     },
     {
-      "text": "Yüzer araç",
-      "answer": "DUBA",
+      "text": "Şiir dizesi",
+      "answer": "MISRA",
+      "row": 3,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Düşünen canlı",
+      "answer": "İNSAN",
       "row": 3,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Para saçan",
-      "answer": "HOVARDA",
+      "text": "Muvazeneli",
+      "answer": "DENGELİ",
       "row": 5,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Avlanan dağ kuşu",
-      "answer": "KEKLİK",
-      "row": 6,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Ahbaplık",
-      "answer": "DOSTLUK",
-      "row": 6,
+      "text": "Yüz boyama",
+      "answer": "MAKYAJ",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Saç maddesi",
-      "answer": "JÖLE",
-      "row": 8,
-      "col": 0,
+      "text": "Sargı",
+      "answer": "BANDAJ",
+      "row": 7,
+      "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sığ karşıtı",
-      "answer": "DERİN",
+      "text": "Halkalı bağ",
+      "answer": "ZİNCİR",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kalabalık, sürü",
-      "answer": "GÜRUH",
-      "row": 0,
+      "text": "Derinlik aracı",
+      "answer": "SONDA",
+      "row": 1,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Tırnak cilası",
-      "answer": "OJE",
-      "row": 6,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Yumruk sporcusu",
-      "answer": "BOKSÖR",
+      "text": "Osmanlı sınır askeri",
+      "answer": "SEKBAN",
       "row": 3,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Çağrılı",
-      "answer": "DAVETLİ",
-      "row": 2,
+      "text": "Gemi erzağı",
+      "answer": "KUMANYA",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Akıl yönünden",
-      "answer": "AKLEN",
-      "row": 4,
+      "text": "Çabuk gücenen",
+      "answer": "ALINGAN",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Kusuru olan",
-      "answer": "KUSURLU",
-      "row": 0,
+      "text": "Masal canavarı",
+      "answer": "EJDER",
+      "row": 4,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Dikili direk",
-      "answer": "DİKME",
-      "row": 4,
+      "text": "İri maymun",
+      "answer": "GORİL",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Kiremit renkli içki",
-      "answer": "KONYAK",
-      "row": 0,
+      "text": "Yakışıklı başrol",
+      "answer": "JÖN",
+      "row": 6,
       "col": 7,
       "arrow": "down"
     }
@@ -124,19 +117,19 @@
     },
     {
       "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 3
+      "col": 5
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
@@ -144,41 +137,45 @@
     },
     {
       "row": 2,
-      "col": 0
+      "col": 5
     },
     {
       "row": 2,
-      "col": 2
+      "col": 7
     },
     {
-      "row": 2,
-      "col": 4
+      "row": 4,
+      "col": 7
     },
     {
-      "row": 2,
+      "row": 6,
       "col": 6
     },
     {
       "row": 7,
-      "col": 7
+      "col": 0
     },
     {
       "row": 8,
-      "col": 5
+      "col": 1
     },
     {
       "row": 8,
-      "col": 7
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
     },
     {
       "row": 9,
-      "col": 5
-    },
-    {
-      "row": 9,
-      "col": 7
+      "col": 6
     }
   ],
   "difficulty": "zor",
-  "order": 178
+  "order": 216
 }

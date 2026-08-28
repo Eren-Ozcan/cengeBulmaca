@@ -1,141 +1,123 @@
 {
   "id": "puzzle-215",
-  "title": "Bulmaca 197",
+  "title": "Bulmaca 206",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Üreme tanesi",
-      "answer": "TOHUM",
+      "text": "Bu kadar çok",
+      "answer": "BUNCA",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Türemiş şey",
-      "answer": "TÜREV",
+      "text": "Nefis",
+      "answer": "ENFES",
       "row": 2,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Kuru peksimet",
-      "answer": "GALETA",
-      "row": 3,
-      "col": 1,
-      "arrow": "right"
-    },
-    {
-      "text": "Yaprak dökümü",
-      "answer": "HAZAN",
-      "row": 4,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Kısa hatırlatma",
-      "answer": "NOT",
-      "row": 4,
+      "text": "Ateşli hastalık",
+      "answer": "HUMMA",
+      "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Eski karşıtı",
-      "answer": "YENİ",
+      "text": "Çatı örtüsü",
+      "answer": "KİREMİT",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Nağme",
+      "answer": "TERANE",
       "row": 5,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yumurtalı tatlı",
+      "answer": "KREP",
+      "row": 6,
       "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Divan",
-      "answer": "SEDİR",
+      "text": "Yaldızlı süsleme",
+      "answer": "TEZHİP",
       "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Raylı şehir taşıtı",
-      "answer": "TRAMVAY",
-      "row": 7,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Sezgi",
-      "answer": "SEZİ",
-      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Komisyoncu",
-      "answer": "SİMSAR",
-      "row": 9,
+      "text": "Bilek demiri",
+      "answer": "KELEPÇE",
+      "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Kabin memuru",
-      "answer": "HOSTES",
-      "row": 3,
+      "text": "Dudak kabarcığı",
+      "answer": "UÇUK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Giysi ustası",
-      "answer": "TERZİ",
-      "row": 4,
+      "text": "Dümen kolu",
+      "answer": "YEKE",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Söylence, efsane",
+      "answer": "MİT",
+      "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Bir ABD eyaleti",
-      "answer": "UTAH",
+      "text": "Bahar ısınması",
+      "answer": "CEMRE",
       "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Sürekli, kesintisiz",
-      "answer": "DAİM",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Uysal kimse",
-      "answer": "MÜLAYİM",
+      "text": "Anaya dayalı düzen",
+      "answer": "ANAERKİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yedek kaynak",
-      "answer": "REZERV",
-      "row": 1,
+      "text": "Nargile hortumu",
+      "answer": "MARPUÇ",
+      "row": 3,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Yanıcı gaz",
-      "answer": "METAN",
+      "text": "Tutulan kimse",
+      "answer": "REHİNE",
       "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Tatlı kokusu",
-      "answer": "VANİLYA",
-      "row": 1,
+      "text": "Servis kabı",
+      "answer": "TEPSİ",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
   ],
   "blocks": [
-    {
-      "row": 0,
-      "col": 1
-    },
     {
       "row": 0,
       "col": 2
@@ -149,28 +131,36 @@
       "col": 7
     },
     {
-      "row": 2,
-      "col": 0
+      "row": 1,
+      "col": 5
     },
     {
-      "row": 2,
-      "col": 1
+      "row": 1,
+      "col": 7
     },
     {
-      "row": 3,
+      "row": 5,
       "col": 0
     },
     {
       "row": 6,
+      "col": 2
+    },
+    {
+      "row": 7,
       "col": 6
     },
     {
       "row": 8,
-      "col": 4
+      "col": 2
     },
     {
       "row": 8,
-      "col": 5
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 4
     },
     {
       "row": 8,
@@ -182,5 +172,5 @@
     }
   ],
   "difficulty": "zor",
-  "order": 197
+  "order": 206
 }

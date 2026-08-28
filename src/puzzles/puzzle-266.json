@@ -1,132 +1,118 @@
 {
   "id": "puzzle-266",
-  "title": "Bulmaca 91",
+  "title": "Bulmaca 227",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Tutturmalı küpe",
-      "answer": "KLİPS",
+      "text": "Düzenleme",
+      "answer": "TERTİP",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Dört dizeli şiir",
-      "answer": "RUBAİ",
-      "row": 2,
-      "col": 2,
-      "arrow": "right"
-    },
-    {
-      "text": "Dirim bilimci",
-      "answer": "BİYOLOG",
+      "text": "Canlandırılan kişi",
+      "answer": "ROL",
       "row": 2,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Oturulacak şey",
-      "answer": "OTURAK",
+      "text": "Öldürücü zehir",
+      "answer": "SİYANÜR",
       "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Erkek masajcı",
+      "answer": "MASÖR",
+      "row": 5,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Gemi topluluğu",
-      "answer": "FİLO",
-      "row": 4,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Düne özgü",
-      "answer": "DÜNKÜ",
+      "text": "Doku ölümü",
+      "answer": "KANGREN",
       "row": 6,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Demirci aracı",
-      "answer": "ÖRS",
+      "text": "Siyah-beyaz memeli",
+      "answer": "PANDA",
       "row": 6,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Örgü işi",
-      "answer": "ÖRME",
-      "row": 7,
-      "col": 3,
+      "text": "Ana yol",
+      "answer": "ARTER",
+      "row": 8,
+      "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Binek hayvanı",
-      "answer": "AT",
+      "text": "Yabani",
+      "answer": "VAHŞİ",
       "row": 8,
       "col": 0,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Minicik",
-      "answer": "KÜÇÜCÜK",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Anlayış, kavrayış",
-      "answer": "İDRAK",
-      "row": 4,
+      "text": "Yunan aşk tanrısı",
+      "answer": "EROS",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Yol kenarı",
-      "answer": "YOLÜSTÜ",
+      "text": "Siyah",
+      "answer": "KARA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gemi kıyısı",
+      "answer": "LİMAN",
       "row": 2,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Artı yüklü parçacık",
-      "answer": "PROTON",
-      "row": 0,
+      "text": "Taraftar",
+      "answer": "YANDAŞ",
+      "row": 3,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Koyu karşıtı",
-      "answer": "SULU",
+      "text": "En az",
+      "answer": "ASGARİ",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Motorsuz uçak",
+      "answer": "PLANÖR",
       "row": 0,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "İyi karşıtı",
-      "answer": "KÖTÜ",
-      "row": 5,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Kaldırım taşı",
-      "answer": "BORDÜR",
-      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Kuşların ağzı",
-      "answer": "GAGA",
-      "row": 0,
+      "text": "Jeneratör",
+      "answer": "ÜRETEÇ",
+      "row": 3,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Dükkân kapağı",
-      "answer": "KEPENK",
-      "row": 3,
+      "text": "Cl simgeli element",
+      "answer": "KLOR",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -134,49 +120,61 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
-    },
-    {
-      "row": 0,
       "col": 2
     },
     {
       "row": 0,
-      "col": 5
-    },
-    {
-      "row": 0,
-      "col": 7
-    },
-    {
-      "row": 1,
-      "col": 7
-    },
-    {
-      "row": 2,
-      "col": 1
-    },
-    {
-      "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 6
-    },
-    {
-      "row": 8,
       "col": 3
     },
     {
-      "row": 8,
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 1,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 3
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 5,
+      "col": 7
+    },
+    {
+      "row": 7,
       "col": 5
     },
     {
-      "row": 8,
-      "col": 6
+      "row": 7,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "orta",
-  "order": 91
+  "difficulty": "zor",
+  "order": 227
 }

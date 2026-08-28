@@ -1,111 +1,139 @@
 {
   "id": "puzzle-312",
-  "title": "Bulmaca 210",
+  "title": "Bulmaca 168",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Girintisiz yüzey",
-      "answer": "DÜZLEM",
+      "text": "İki parçalı takım",
+      "answer": "DÖPİYES",
       "row": 0,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "İnanmış",
-      "answer": "KANİ",
-      "row": 2,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Büyük yük taşıtı",
-      "answer": "KAMYON",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Diz altı bölge",
-      "answer": "BALDIR",
-      "row": 4,
       "col": 1,
-      "arrow": "right"
+      "arrow": "down-right"
     },
     {
-      "text": "Amerika tahılı",
-      "answer": "KİNOA",
-      "row": 5,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Parça sanatı",
-      "answer": "KOLAJ",
-      "row": 5,
+      "text": "Yatak altı",
+      "answer": "BAZA",
+      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Herhangi kişi",
-      "answer": "KİMSE",
-      "row": 7,
+      "text": "Serinletme aracı",
+      "answer": "YELPAZE",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İnce örgü işi",
+      "answer": "DANTEL",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İskambilde karo",
+      "answer": "ORYA",
+      "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Uyku giysisi",
-      "answer": "GECELİK",
+      "text": "Vana",
+      "answer": "VALF",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Teminat",
+      "answer": "GARANTİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Duvar kenarı mobilya",
+      "answer": "KONSOL",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Tohum artığı",
+      "answer": "KÜSPE",
       "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Boyun takısı",
-      "answer": "KOLYE",
-      "row": 4,
+      "text": "Kötek",
+      "answer": "DAYAK",
+      "row": 0,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Hasır torba",
-      "answer": "ZEMBİL",
+      "text": "İtina",
+      "answer": "ÖZEN",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Göz-burun arası",
-      "answer": "YANAK",
-      "row": 2,
+      "text": "Belge geçer",
+      "answer": "FAKS",
+      "row": 6,
+      "col": 1,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Kışlık kaban",
+      "answer": "PALTO",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Çevre bilimi",
-      "answer": "EKOLOJİ",
-      "row": 0,
+      "text": "Kadın elbisesi",
+      "answer": "ROP",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Dönen kanat",
+      "answer": "PERVANE",
+      "row": 2,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Su sığırı",
-      "answer": "MANDA",
-      "row": 0,
+      "text": "Nişan yüzüğü",
+      "answer": "ALYANS",
+      "row": 2,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Hafif uykulu",
-      "answer": "SAK",
-      "row": 6,
+      "text": "Kalın kadın sesi",
+      "answer": "ALTO",
+      "row": 4,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Hint hükümdarı",
-      "answer": "MİHRACE",
+      "text": "Yumuşak deri",
+      "answer": "SÜET",
       "row": 0,
+      "col": 7,
+      "arrow": "down"
+    },
+    {
+      "text": "Gemi topluluğu",
+      "answer": "FİLO",
+      "row": 5,
       "col": 7,
       "arrow": "down"
     }
@@ -113,69 +141,41 @@
   "blocks": [
     {
       "row": 0,
-      "col": 1
+      "col": 0
     },
     {
       "row": 0,
-      "col": 3
+      "col": 4
     },
     {
       "row": 0,
-      "col": 6
+      "col": 5
     },
     {
-      "row": 1,
+      "row": 0,
       "col": 6
     },
     {
       "row": 2,
-      "col": 1
-    },
-    {
-      "row": 3,
       "col": 6
-    },
-    {
-      "row": 4,
-      "col": 0
     },
     {
       "row": 5,
-      "col": 6
-    },
-    {
-      "row": 6,
-      "col": 5
-    },
-    {
-      "row": 7,
       "col": 0
     },
     {
-      "row": 8,
-      "col": 2
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
-      "col": 5
-    },
-    {
-      "row": 8,
-      "col": 7
+      "row": 6,
+      "col": 0
     },
     {
       "row": 9,
-      "col": 7
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
     }
   ],
-  "difficulty": "zor",
-  "order": 210
+  "difficulty": "orta",
+  "order": 168
 }

@@ -1,111 +1,139 @@
 {
   "id": "puzzle-281",
-  "title": "Bulmaca 169",
+  "title": "Bulmaca 174",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Beyaz kır çiçeği",
-      "answer": "PAPATYA",
+      "text": "Atalar",
+      "answer": "ECDAT",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Sallanan yatak",
-      "answer": "HAMAK",
+      "text": "Terminal",
+      "answer": "OTOGAR",
       "row": 2,
       "col": 1,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Program takdimcisi",
-      "answer": "SUNUCU",
+      "text": "Ölü bezi",
+      "answer": "KEFEN",
       "row": 3,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Kazıda çıkan",
+      "answer": "BULUNTU",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Evre, safha",
+      "answer": "FAZ",
+      "row": 4,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kırılmış olan",
-      "answer": "KIRIK",
-      "row": 5,
+      "text": "Açıkça söyleme",
+      "answer": "İKRAR",
+      "row": 6,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Yön bulma aracı",
-      "answer": "PUSULA",
-      "row": 5,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Basılıp çoğaltma",
-      "answer": "BASIM",
+      "text": "Sacda pişen ekmek",
+      "answer": "BAZLAMA",
       "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Hisse, parça",
-      "answer": "PAY",
-      "row": 7,
+      "text": "Bilme süreci",
+      "answer": "BİLİŞ",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "İnceleme parçası",
+      "answer": "ÖRNEK",
+      "row": 8,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Ot biçme aracı",
-      "answer": "TIRPAN",
-      "row": 9,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Tahıl",
-      "answer": "HUBUBAT",
-      "row": 2,
+      "text": "Uygarlaşmamış",
+      "answer": "BARBAR",
+      "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Başarı sayısı",
-      "answer": "PUAN",
+      "text": "Sekizden sonraki sayı",
+      "answer": "DOKUZ",
       "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Rakam kümesi",
-      "answer": "SAYI",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Organ salgısı",
-      "answer": "MUKUS",
-      "row": 2,
+      "text": "Kırık desteği",
+      "answer": "ATEL",
+      "row": 0,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Acı yemek",
-      "answer": "ACILI",
-      "row": 2,
+      "text": "Loş, kuytu",
+      "answer": "İZBE",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Soya peyniri",
+      "answer": "TOFU",
+      "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Bilimsel açıklama",
-      "answer": "KURAM",
-      "row": 2,
+      "text": "Hizip",
+      "answer": "KLİK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Albayın üstü",
+      "answer": "GENERAL",
+      "row": 1,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Çekemeyen",
-      "answer": "KISKANÇ",
-      "row": 1,
+      "text": "Tekerlek çemberi",
+      "answer": "JANT",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Üst görevli",
+      "answer": "AMİR",
+      "row": 5,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Meslek",
+      "answer": "UĞRAŞ",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -117,22 +145,14 @@
     },
     {
       "row": 0,
-      "col": 3
-    },
-    {
-      "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
       "col": 5
     },
     {
       "row": 0,
-      "col": 6
+      "col": 7
     },
     {
-      "row": 0,
+      "row": 1,
       "col": 7
     },
     {
@@ -140,40 +160,16 @@
       "col": 0
     },
     {
-      "row": 2,
-      "col": 6
-    },
-    {
       "row": 3,
-      "col": 6
-    },
-    {
-      "row": 4,
-      "col": 6
+      "col": 0
     },
     {
       "row": 6,
-      "col": 6
+      "col": 0
     },
     {
-      "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 3
-    },
-    {
-      "row": 8,
-      "col": 4
-    },
-    {
-      "row": 8,
+      "row": 9,
       "col": 5
-    },
-    {
-      "row": 8,
-      "col": 6
     },
     {
       "row": 9,
@@ -181,5 +177,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 169
+  "order": 174
 }

@@ -1,0 +1,179 @@
+{
+  "id": "puzzle-317",
+  "title": "Bulmaca 214",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "İnce, uzun ağaç",
+      "answer": "SERVİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Büyük çivi",
+      "answer": "EKSER",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Deri kabarcığı",
+      "answer": "SİVİLCE",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bol, enli",
+      "answer": "GENİŞ",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "İpek böceği yuvası",
+      "answer": "KOZA",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Erdem",
+      "answer": "FAZİLET",
+      "row": 5,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yasak uyarıcı",
+      "answer": "DOPİNG",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Silindir içinde hareket",
+      "answer": "PİSTON",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kuş tutan yapışkan",
+      "answer": "ÖKSE",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Aşırı korku",
+      "answer": "FOBİ",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Ağaçlarda yaşayan kemirgen",
+      "answer": "SİNCAP",
+      "row": 1,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Aşk",
+      "answer": "SEVİ",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kara katran",
+      "answer": "ZİFT",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Yetişkin",
+      "answer": "ERİŞKİN",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Yenmeye hazır",
+      "answer": "OLGUN",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Özdeyiş",
+      "answer": "VECİZE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kolsuz iç fanila",
+      "answer": "ATLET",
+      "row": 4,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 2
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "zor",
+  "order": 214
+}

@@ -1,118 +1,125 @@
 {
   "id": "puzzle-147",
-  "title": "Bulmaca 172",
+  "title": "Bulmaca 120",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Doğru, gerçek",
-      "answer": "ESSAH",
+      "text": "Kalaylı sac",
+      "answer": "TENEKE",
       "row": 0,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Afrika maymunu",
-      "answer": "ŞEBEK",
+      "text": "Tüy karışımı",
+      "answer": "AĞDA",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "arrow": "right"
     },
     {
-      "text": "Yemek, çorba",
-      "answer": "AŞ",
-      "row": 2,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Süt tatlısı",
-      "answer": "KREMA",
+      "text": "Emzikli kap",
+      "answer": "İBRİK",
       "row": 3,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Hırvatistan'ın başkenti",
-      "answer": "ZAGREB",
+      "text": "Yalnız yaşayan",
+      "answer": "MÜNZEVİ",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Koruma görevlisi",
-      "answer": "BEKÇİ",
+      "text": "Lenf organı",
+      "answer": "DALAK",
       "row": 5,
       "col": 2,
       "arrow": "right"
     },
     {
-      "text": "Rengarenk taş",
-      "answer": "OPAL",
-      "row": 6,
+      "text": "Şu hâlde, artık",
+      "answer": "İMDİ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yeğleme",
+      "answer": "TERCİH",
+      "row": 7,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Tutu",
-      "answer": "İPOTEK",
-      "row": 6,
+      "text": "Dağ arası",
+      "answer": "VADİ",
+      "row": 7,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Keskin kokulu gaz",
-      "answer": "AMONYAK",
-      "row": 8,
+      "text": "Kâbe kuyusu suyu",
+      "answer": "ZEMZEM",
+      "row": 9,
       "col": 0,
-      "arrow": "down-right"
+      "arrow": "right"
     },
     {
-      "text": "Polis sopası",
-      "answer": "COP",
-      "row": 5,
-      "col": 0,
-      "arrow": "right-down"
+      "text": "Ayrıcalıklı",
+      "answer": "MÜMTAZ",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
     },
     {
-      "text": "Kaba et",
-      "answer": "POPO",
+      "text": "Büyükbaba",
+      "answer": "DEDE",
       "row": 5,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Türkmenistan'ın başkenti",
-      "answer": "AŞKABAT",
-      "row": 0,
+      "text": "Tenzilat",
+      "answer": "İNDİRİM",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Yük bilmeyen at",
-      "answer": "HERGELE",
+      "text": "Silah tutamağı",
+      "answer": "KABZA",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Sert, katı",
-      "answer": "BERK",
-      "row": 1,
+      "text": "Gölge seven bitki",
+      "answer": "EĞRELTİ",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Basın açıklaması",
-      "answer": "DEMEÇ",
-      "row": 0,
+      "text": "Ünlü kadın sanatçı",
+      "answer": "DİVA",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Bakanlar kurulu",
-      "answer": "KABİNE",
-      "row": 1,
+      "text": "Olmamış, işlenmemiş",
+      "answer": "HAM",
+      "row": 6,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Altmış saniye",
+      "answer": "DAKİKA",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -128,39 +135,35 @@
     },
     {
       "row": 0,
-      "col": 5
+      "col": 3
     },
     {
       "row": 0,
-      "col": 7
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 0
     },
     {
       "row": 2,
       "col": 1
     },
     {
-      "row": 4,
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 3,
       "col": 0
     },
     {
       "row": 6,
-      "col": 5
-    },
-    {
-      "row": 6,
-      "col": 6
+      "col": 4
     },
     {
       "row": 7,
-      "col": 6
-    },
-    {
-      "row": 8,
-      "col": 1
-    },
-    {
-      "row": 8,
-      "col": 3
+      "col": 7
     },
     {
       "row": 8,
@@ -172,10 +175,6 @@
     },
     {
       "row": 8,
-      "col": 6
-    },
-    {
-      "row": 8,
       "col": 7
     },
     {
@@ -184,5 +183,5 @@
     }
   ],
   "difficulty": "orta",
-  "order": 172
+  "order": 120
 }

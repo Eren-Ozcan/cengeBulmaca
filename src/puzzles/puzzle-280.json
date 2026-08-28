@@ -1,153 +1,139 @@
 {
   "id": "puzzle-280",
-  "title": "Bulmaca 4",
+  "title": "Bulmaca 117",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Ajan",
-      "answer": "CASUS",
+      "text": "Ev arası yol",
+      "answer": "SOKAK",
       "row": 0,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Suç topluluğu",
-      "answer": "ÇETE",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Uyku sesi",
-      "answer": "HORULTU",
-      "row": 3,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Savurma eylemi",
-      "answer": "ATMA",
-      "row": 3,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Alacakaranlık",
-      "answer": "TAN",
-      "row": 4,
-      "col": 4,
-      "arrow": "right"
-    },
-    {
-      "text": "Kılıksız",
-      "answer": "PASAKLI",
-      "row": 5,
-      "col": 1,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Büyük dükkân",
-      "answer": "MAĞAZA",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Menfaatçi",
-      "answer": "ÇIKARCI",
-      "row": 8,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yat limanı",
-      "answer": "MARİNA",
-      "row": 8,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Çabalama",
-      "answer": "CEHT",
-      "row": 0,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Pantolon ucu",
-      "answer": "PAÇA",
-      "row": 5,
-      "col": 1,
-      "arrow": "down"
-    },
-    {
-      "text": "Madde parçacığı",
-      "answer": "ATOM",
-      "row": 0,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Hafif karşıtı",
-      "answer": "AĞIR",
-      "row": 5,
-      "col": 2,
-      "arrow": "down"
-    },
-    {
-      "text": "Bitki camlığı",
-      "answer": "SERA",
-      "row": 0,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "İçki dağıtıcı",
-      "answer": "SAKİ",
-      "row": 5,
-      "col": 3,
-      "arrow": "down"
-    },
-    {
-      "text": "Tatlı su balığı",
-      "answer": "SAZAN",
-      "row": 4,
-      "col": 4,
-      "arrow": "down"
-    },
-    {
-      "text": "Yalnızca, sadece; mutlak",
-      "answer": "SALT",
-      "row": 0,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Siyah",
-      "answer": "KARA",
-      "row": 5,
-      "col": 5,
-      "arrow": "down"
-    },
-    {
-      "text": "Uzak Doğu ağırlık ölçüsü",
-      "answer": "TAEL",
+      "text": "Parlatma maddesi",
+      "answer": "CİLA",
       "row": 2,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Çemberin yarısı",
+      "answer": "YARIÇAP",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Suçsuz, günahsız",
+      "answer": "MASUM",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Geçmiş zaman",
+      "answer": "MAZİ",
+      "row": 5,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Saat yüzü",
+      "answer": "KADRAN",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Belçika'nın başkenti",
+      "answer": "BRÜKSEL",
+      "row": 7,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Fotoğraf ışığı",
+      "answer": "FLAŞ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Erkek sanatçı",
+      "answer": "AKTÖR",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "İlk ay",
+      "answer": "OCAK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Büyük kardeş",
+      "answer": "ABLA",
+      "row": 5,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Pislik, is",
+      "answer": "KİR",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Anlayış, kavrayış",
+      "answer": "İDRAK",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Satın alma",
+      "answer": "ALIM",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Erginlik",
+      "answer": "RÜŞT",
+      "row": 5,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Gizli sapma",
+      "answer": "KAÇAMAK",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Kat aracı",
+      "answer": "ASANSÖR",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Yuvarlak uçlu silah",
+      "answer": "TOPUZ",
+      "row": 0,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Yakacak parça",
-      "answer": "ODUN",
-      "row": 0,
-      "col": 7,
-      "arrow": "down"
-    },
-    {
-      "text": "Parıltılı",
-      "answer": "IŞIL",
-      "row": 5,
+      "text": "Ulusal",
+      "answer": "MİLLİ",
+      "row": 3,
       "col": 7,
       "arrow": "down"
     }
@@ -155,37 +141,49 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
+      "col": 5
     },
     {
       "row": 0,
-      "col": 4
-    },
-    {
-      "row": 0,
-      "col": 6
+      "col": 7
     },
     {
       "row": 1,
-      "col": 6
+      "col": 5
+    },
+    {
+      "row": 1,
+      "col": 7
     },
     {
       "row": 2,
-      "col": 4
+      "col": 7
     },
     {
-      "row": 5,
+      "row": 4,
       "col": 0
     },
     {
-      "row": 7,
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 4
+    },
+    {
+      "row": 8,
       "col": 6
     },
     {
       "row": 9,
       "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 4
+  "difficulty": "orta",
+  "order": 117
 }

@@ -1,132 +1,125 @@
 {
   "id": "puzzle-268",
-  "title": "Bulmaca 52",
+  "title": "Bulmaca 185",
   "rows": 10,
   "cols": 8,
   "clues": [
     {
-      "text": "Maneviyat",
-      "answer": "MORAL",
+      "text": "Saygısız",
+      "answer": "KÜSTAH",
       "row": 0,
-      "col": 3,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Yetkili kimse",
-      "answer": "VEKİL",
-      "row": 1,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Kazakistan'ın başkenti",
-      "answer": "ASTANA",
+      "text": "Yetenek",
+      "answer": "YETİ",
+      "row": 2,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Milenyum",
+      "answer": "BİNYIL",
       "row": 3,
       "col": 1,
       "arrow": "right"
     },
     {
-      "text": "Sırt dayanağı",
-      "answer": "ARKALIK",
+      "text": "Namlu çapı",
+      "answer": "KALİBRE",
       "row": 4,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Kayının eşi",
-      "answer": "ELTİ",
-      "row": 4,
+      "text": "Manastır papazı",
+      "answer": "RAHİP",
+      "row": 5,
       "col": 0,
       "arrow": "down-right"
     },
     {
-      "text": "Önce karşıtı",
-      "answer": "SONRA",
-      "row": 6,
-      "col": 0,
-      "arrow": "right"
-    },
-    {
-      "text": "Yemek konan nesne",
-      "answer": "KAP",
-      "row": 6,
-      "col": 0,
-      "arrow": "down-right"
-    },
-    {
-      "text": "Şeref, haysiyet",
-      "answer": "ONUR",
+      "text": "Sindirim sıvısı",
+      "answer": "SAFRA",
       "row": 7,
-      "col": 3,
-      "arrow": "right"
-    },
-    {
-      "text": "Bitkisel yakıt",
-      "answer": "TURBA",
-      "row": 8,
       "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Osmanlı parası",
-      "answer": "AKÇE",
+      "text": "Tarımsal",
+      "answer": "ZİRAİ",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kat kat börek",
+      "answer": "KATMER",
       "row": 9,
-      "col": 3,
+      "col": 0,
       "arrow": "right"
     },
     {
-      "text": "Çabuk satma",
-      "answer": "ALSAT",
+      "text": "Eskimeyen",
+      "answer": "KLASİK",
       "row": 3,
       "col": 1,
       "arrow": "down"
     },
     {
-      "text": "Beyaz süs çiçeği",
-      "answer": "KARTOPU",
-      "row": 1,
+      "text": "Gündoğusu yeli",
+      "answer": "SABA",
+      "row": 0,
       "col": 2,
       "arrow": "down"
     },
     {
-      "text": "Uyuşuk",
-      "answer": "MİSKİN",
-      "row": 0,
+      "text": "At çiftliği",
+      "answer": "HARA",
+      "row": 5,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Güzel söz",
+      "answer": "İLTİFAT",
+      "row": 2,
       "col": 3,
       "arrow": "down"
     },
     {
-      "text": "Balık aracı",
-      "answer": "OLTA",
+      "text": "Nakit değil",
+      "answer": "AYNİ",
       "row": 0,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Giyside omuz parçası",
-      "answer": "ROBA",
+      "text": "Ek kazanç",
+      "answer": "PRİM",
       "row": 5,
       "col": 4,
       "arrow": "down"
     },
     {
-      "text": "Yıllık",
-      "answer": "ALMANAK",
-      "row": 2,
+      "text": "Eyer torbası",
+      "answer": "HEYBE",
+      "row": 0,
       "col": 5,
       "arrow": "down"
     },
     {
-      "text": "Eşi, tıpkısı",
-      "answer": "AYNI",
-      "row": 0,
+      "text": "Uzun yol kamyonu",
+      "answer": "TIR",
+      "row": 1,
       "col": 6,
       "arrow": "down"
     },
     {
-      "text": "Erkek sanatçı",
-      "answer": "AKTÖR",
-      "row": 2,
+      "text": "Sadaka isteyen",
+      "answer": "DİLENCİ",
+      "row": 0,
       "col": 7,
       "arrow": "down"
     }
@@ -134,26 +127,22 @@
   "blocks": [
     {
       "row": 0,
-      "col": 0
-    },
-    {
-      "row": 0,
       "col": 1
     },
     {
       "row": 0,
-      "col": 2
+      "col": 3
     },
     {
       "row": 0,
-      "col": 5
+      "col": 6
     },
     {
-      "row": 0,
-      "col": 7
+      "row": 2,
+      "col": 0
     },
     {
-      "row": 1,
+      "row": 2,
       "col": 1
     },
     {
@@ -166,7 +155,19 @@
     },
     {
       "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
       "col": 6
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 5
     },
     {
       "row": 8,
@@ -178,17 +179,9 @@
     },
     {
       "row": 9,
-      "col": 0
-    },
-    {
-      "row": 9,
-      "col": 1
-    },
-    {
-      "row": 9,
-      "col": 2
+      "col": 7
     }
   ],
-  "difficulty": "kolay",
-  "order": 52
+  "difficulty": "orta",
+  "order": 185
 }
