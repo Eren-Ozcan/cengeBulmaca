@@ -31,6 +31,12 @@ const USE_PROFILES = args.includes("--profiles");
 // dusuyor - limitte butun katmanlar ayni anda tukeniyor. Profil anahtari ve
 // acgozlu secici bunun kaba bir yaklasimiydi (bkz. dict-sources/README.md).
 const USE_MIX = args.includes("--mix");
+// Faz 1'i (mevcut seti yeniden üret) atla: takipçiyi diskteki bulmacaların
+// ipuçlarından kur ve doğrudan faz 2'ye (yeni bulmaca ekle) geç. Set zaten
+// deterministik regen çıktısı ve audit temizse yeniden üretim aynı dosyaları
+// üretir, bu yüzden faz 2 sonucu değişmez - sadece saatlerce süren faz 1
+// tekrarı ortadan kalkar. Not: yeniden-üretilemeyen bulmaca artık silinmez.
+const EXTEND = args.includes("--extend");
 // buildPuzzle'ın maske denemesi tavanı. Varsayılan 2000, shapeRuns'lı maske ~10
 // kat pahalı: üretilemeyen tek bir bulmaca TRIES x 2000 deneme yakıp koşuyu
 // dakikalarca kilitliyor. Tipik başarılı bulmaca 100 denemenin altında kalıyor,
@@ -169,6 +175,16 @@ for (const { file, n } of files) {
   shapes.push(sekil);
   difficulties.push(old.difficulty);
 
+  if (EXTEND) {
+    // Faz 1 atlandı: takipçiyi diskteki ipuçlarından doldur.
+    commitToTracker(tracker, old.clues);
+    havuzDus(old.clues);
+    clues += old.clues.length;
+    built++;
+    if (built % 40 === 0) console.log(`  yuklendi ${built}/${files.length} | soru ${clues}`);
+    continue;
+  }
+
   const prof = profilSec();
   let p = null;
   for (let t = 0; t < TRIES && !p; t++) {
@@ -198,7 +214,7 @@ for (const { file, n } of files) {
   if (built % 20 === 0) console.log(`  mevcut ${built}/${files.length} | soru ${clues}`);
 }
 
-console.log(`\nmevcut set yeniden uretildi: ${built} bulmaca, ${clues} soru, ${failed} basarisiz`);
+console.log(`\n${EXTEND ? "mevcut set diskten yuklendi" : "mevcut set yeniden uretildi"}: ${built} bulmaca, ${clues} soru, ${failed} basarisiz`);
 console.log(`havuz tuketilene kadar yeni bulmaca deneniyor...\n`);
 
 // Arka arkaya GIVE_UP deneme boşa giderse havuz bitmiş sayılır.
