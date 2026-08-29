@@ -1,0 +1,179 @@
+{
+  "id": "puzzle-359",
+  "title": "Bulmaca 214",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Başka",
+      "answer": "ÖZGE",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Pistonlu çalgı",
+      "answer": "TUBA",
+      "row": 1,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Tümüyle, yalnızca, sadece",
+      "answer": "SIRF",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Metal kap",
+      "answer": "TAS",
+      "row": 3,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Saç kıvırıcı",
+      "answer": "BİGUDİ",
+      "row": 4,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Görüşme",
+      "answer": "MÜLAKAT",
+      "row": 5,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Gazlı içecek",
+      "answer": "GAZOZ",
+      "row": 5,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Zarar",
+      "answer": "ZİYAN",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Çalıştırma düğmesi",
+      "answer": "BUTON",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Takım kıyafeti",
+      "answer": "FORMA",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Bilinen şey",
+      "answer": "MALUM",
+      "row": 4,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "İyi gelişmiş",
+      "answer": "GÜRBÜZ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Feylesof",
+      "answer": "FİLOZOF",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Eğlence yeri",
+      "answer": "GAZİNO",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Rahat konuşamayan",
+      "answer": "TUTUK",
+      "row": 0,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Duvar kireci",
+      "answer": "BADANA",
+      "row": 1,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Kolay anlaşılan",
+      "answer": "BASİT",
+      "row": 0,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 4,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 5
+    },
+    {
+      "row": 6,
+      "col": 7
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    }
+  ],
+  "difficulty": "orta",
+  "order": 214
+}

@@ -1,0 +1,185 @@
+{
+  "id": "puzzle-343",
+  "title": "Bulmaca 271",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Dirim bilimci",
+      "answer": "BİYOLOG",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Birey",
+      "answer": "FERT",
+      "row": 2,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Gümüş iplik",
+      "answer": "SİM",
+      "row": 2,
+      "col": 5,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Ütülenmiş olan",
+      "answer": "ÜTÜLÜ",
+      "row": 4,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Nikâhsız eş",
+      "answer": "METRES",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Yarım küre dam",
+      "answer": "KUBBE",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Parlak kaplama",
+      "answer": "VERNİK",
+      "row": 7,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Yapraklı not defteri",
+      "answer": "BLOKNOT",
+      "row": 9,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Meşrubat",
+      "answer": "İÇECEK",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Gerilmiş kumaş",
+      "answer": "TUVAL",
+      "row": 4,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Mezar yapısı",
+      "answer": "TÜRBE",
+      "row": 2,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Kutlama",
+      "answer": "TEBRİK",
+      "row": 3,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Mor bitki",
+      "answer": "SÜSEN",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Izgara",
+      "answer": "GRİL",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Ses sanatı",
+      "answer": "MÜZİK",
+      "row": 2,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 1,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": 4
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 0
+    },
+    {
+      "row": 8,
+      "col": 1
+    },
+    {
+      "row": 8,
+      "col": 3
+    },
+    {
+      "row": 8,
+      "col": 5
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    }
+  ],
+  "difficulty": "zor",
+  "order": 271
+}

@@ -1,0 +1,185 @@
+{
+  "id": "puzzle-337",
+  "title": "Bulmaca 90",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Para saçan",
+      "answer": "HOVARDA",
+      "row": 0,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Dilimli et",
+      "answer": "SALAM",
+      "row": 1,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Adak hayvanı",
+      "answer": "KURBAN",
+      "row": 3,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Sarı-mavi karışımı",
+      "answer": "YEŞİL",
+      "row": 3,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Seçme eser",
+      "answer": "SEÇKİ",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Güvenilir, dürüst",
+      "answer": "MERT",
+      "row": 6,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Mat boya",
+      "answer": "GUAJ",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Köz, ateş",
+      "answer": "KOR",
+      "row": 7,
+      "col": 4,
+      "arrow": "right"
+    },
+    {
+      "text": "Sözcük",
+      "answer": "KELİME",
+      "row": 8,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Eylem, iş",
+      "answer": "FİİL",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Maç yöneticisi",
+      "answer": "HAKEM",
+      "row": 0,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Meydana gelme, vuku",
+      "answer": "OLUŞ",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Gerçekleşmiş olan",
+      "answer": "VAKİ",
+      "row": 6,
+      "col": 1,
+      "arrow": "right-down"
+    },
+    {
+      "text": "Damar hastalığı",
+      "answer": "VARİS",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Pelte kıvamı",
+      "answer": "JEL",
+      "row": 6,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Belirtke",
+      "answer": "AMBLEM",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Çivi aleti",
+      "answer": "ÇEKİÇ",
+      "row": 4,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Parlak element",
+      "answer": "KROM",
+      "row": 4,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Titreyen",
+      "answer": "TİTREK",
+      "row": 3,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 6
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 5
+    },
+    {
+      "row": 2,
+      "col": 6
+    },
+    {
+      "row": 2,
+      "col": 7
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 9,
+      "col": 4
+    },
+    {
+      "row": 9,
+      "col": 6
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 90
+}

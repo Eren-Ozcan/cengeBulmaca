@@ -1,0 +1,189 @@
+{
+  "id": "puzzle-336",
+  "title": "Bulmaca 93",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Dar pantolon",
+      "answer": "POTUR",
+      "row": 0,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Öğretim, alıştırma",
+      "answer": "TALİM",
+      "row": 2,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Temel bilgi",
+      "answer": "VERİ",
+      "row": 3,
+      "col": 3,
+      "arrow": "right"
+    },
+    {
+      "text": "Kasa görevlisi",
+      "answer": "KASİYER",
+      "row": 3,
+      "col": 1,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Hayvan topluluğu",
+      "answer": "SÜRÜ",
+      "row": 4,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Jimnastik demiri",
+      "answer": "BARFİKS",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bezmiş, usanmış, bıkmış",
+      "answer": "BİZAR",
+      "row": 6,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kudüs askeri",
+      "answer": "HAÇLI",
+      "row": 8,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Damıtma aracı",
+      "answer": "İMBİK",
+      "row": 8,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Sağlam, dayanıklı",
+      "answer": "PEK",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Geometrik sanat akımı",
+      "answer": "KÜBİZM",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Kin, hınç, garez",
+      "answer": "GARAZ",
+      "row": 2,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Eski dilde utanma",
+      "answer": "UT",
+      "row": 0,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun boyunlu kap",
+      "answer": "SÜRAHİ",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Nakleden kimse",
+      "answer": "RAVİ",
+      "row": 0,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Uzun etekli tören ceketi",
+      "answer": "FRAK",
+      "row": 5,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Hanım unvanı",
+      "answer": "LEYDİ",
+      "row": 1,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Üzüm şırasından tatlı",
+      "answer": "ŞİRE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Vâris",
+      "answer": "MİRASÇI",
+      "row": 1,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 5,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 5
+    },
+    {
+      "row": 9,
+      "col": 6
+    },
+    {
+      "row": 9,
+      "col": 7
+    }
+  ],
+  "difficulty": "kolay",
+  "order": 93
+}

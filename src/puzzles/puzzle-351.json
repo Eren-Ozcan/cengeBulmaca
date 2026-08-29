@@ -1,0 +1,172 @@
+{
+  "id": "puzzle-351",
+  "title": "Bulmaca 253",
+  "rows": 10,
+  "cols": 8,
+  "clues": [
+    {
+      "text": "Temsilci",
+      "answer": "DELEGE",
+      "row": 1,
+      "col": 1,
+      "arrow": "right"
+    },
+    {
+      "text": "Madeni çalgı",
+      "answer": "GONG",
+      "row": 2,
+      "col": 4,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Kısa silah",
+      "answer": "TABANCA",
+      "row": 4,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Fazilet",
+      "answer": "ERDEM",
+      "row": 5,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Kara kuş",
+      "answer": "KARGA",
+      "row": 6,
+      "col": 0,
+      "arrow": "right"
+    },
+    {
+      "text": "Bal üreticisi",
+      "answer": "BALCI",
+      "row": 7,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Aşağı karşıtı",
+      "answer": "YUKARI",
+      "row": 7,
+      "col": 0,
+      "arrow": "down-right"
+    },
+    {
+      "text": "Güç, derman",
+      "answer": "TAKAT",
+      "row": 9,
+      "col": 2,
+      "arrow": "right"
+    },
+    {
+      "text": "Tatlı çörek",
+      "answer": "KEK",
+      "row": 0,
+      "col": 0,
+      "arrow": "down"
+    },
+    {
+      "text": "Bizans beyi",
+      "answer": "TEKFUR",
+      "row": 3,
+      "col": 1,
+      "arrow": "down"
+    },
+    {
+      "text": "Tabiat",
+      "answer": "DOĞA",
+      "row": 0,
+      "col": 2,
+      "arrow": "down"
+    },
+    {
+      "text": "Rezil, kötü",
+      "answer": "BERBAT",
+      "row": 3,
+      "col": 3,
+      "arrow": "down"
+    },
+    {
+      "text": "Boğaz çalkalama",
+      "answer": "GARGARA",
+      "row": 2,
+      "col": 4,
+      "arrow": "down"
+    },
+    {
+      "text": "Onlu sistem",
+      "answer": "ONDALIK",
+      "row": 2,
+      "col": 5,
+      "arrow": "down"
+    },
+    {
+      "text": "Günlük defter",
+      "answer": "GÜNCE",
+      "row": 0,
+      "col": 6,
+      "arrow": "down"
+    },
+    {
+      "text": "Üzüntülü, kaygılı",
+      "answer": "GAMLI",
+      "row": 2,
+      "col": 7,
+      "arrow": "down"
+    }
+  ],
+  "blocks": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 3
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 5
+    },
+    {
+      "row": 0,
+      "col": 7
+    },
+    {
+      "row": 2,
+      "col": 1
+    },
+    {
+      "row": 2,
+      "col": 3
+    },
+    {
+      "row": 5,
+      "col": 0
+    },
+    {
+      "row": 6,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 6
+    },
+    {
+      "row": 8,
+      "col": 7
+    },
+    {
+      "row": 9,
+      "col": 0
+    }
+  ],
+  "difficulty": "zor",
+  "order": 253
+}
