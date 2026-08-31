@@ -1,14 +1,14 @@
-// src/puzzles/manifest.json dosyasını üretir: her bulmacanın tam içeriğini
-// (clues/blocks) değil, listeleme ekranlarının ihtiyaç duyduğu hafif meta
-// verisini (id/title/rows/cols/difficulty/order/dosya adı) içerir.
+// Generates src/puzzles/manifest.json: not each puzzle's full content
+// (clues/blocks), but the lightweight metadata that listing screens need
+// (id/title/rows/cols/difficulty/order/file name).
 //
-// Neden gerekli: puzzles/index.ts artık tam bulmaca içeriğini lazy (ilk N
-// hariç arka planda) yüklüyor; ama görüntüleme sırası puzzle içindeki
-// "order" alanına bağlı, o da dosya içeriği okunmadan bilinemez. Bu script
-// bir kerelik/derleme-öncesi adım olarak order bilgisini küçük bir
-// manifest'e çıkarır ki index.ts tüm 300 dosyayı açmadan sıralayabilsin.
+// Why it's needed: puzzles/index.ts now lazy-loads the full puzzle content
+// (all but the first N, in the background); but display order depends on
+// the puzzle's "order" field, which can't be known without reading the file
+// content. This script extracts the order info into a small manifest as a
+// one-off/pre-build step, so index.ts can sort without opening all 300 files.
 //
-// Yeni bulmaca eklendiğinde veya order/title değiştiğinde tekrar çalıştır:
+// Re-run whenever a puzzle is added or order/title changes:
 //   npm run puzzles:manifest
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
