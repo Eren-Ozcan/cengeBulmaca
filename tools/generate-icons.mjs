@@ -1,17 +1,17 @@
-// Duman temalı app icon / favicon üretici.
+// Duman-themed app icon / favicon generator.
 //
-// Kaynak: tools/icon-src/duman-icon-raw.png (Gemini ile üretilen, kare,
-// köşeleri beyaz kare üstünde turuncu daire içinde kedi portresi).
+// Source: tools/icon-src/duman-icon-raw.png (generated with Gemini, square,
+// cat portrait inside an orange circle on a white square, corners included).
 //
-// Akış:
-//  1. Köşelerden flood-fill ile beyaz arka planı şeffaflaştır (turuncu
-//     daire + kedi olduğu gibi kalır) -> foreground.png
-//  2. Dairenin turuncu rengini örnekle -> adaptive icon background rengi
-//     (aynı renk olunca daire kenarı görünmez, hangi maske şekli
-//     uygulanırsa uygulansın kaynaşır).
-//  3. sharp ile Android mipmap yoğunluklarına ve favicon'a ölçekle.
+// Flow:
+//  1. Flood-fill from the corners to make the white background transparent
+//     (the orange circle + cat stay as-is) -> foreground.png
+//  2. Sample the circle's orange tone -> adaptive icon background color
+//     (same color makes the circle's edge invisible, blending in whatever
+//     mask shape gets applied).
+//  3. Scale with sharp to Android mipmap densities and to the favicon.
 //
-// Kullanım: node tools/generate-icons.mjs
+// Usage: node tools/generate-icons.mjs
 
 import sharp from "sharp";
 import { writeFileSync, mkdirSync } from "node:fs";
@@ -23,16 +23,16 @@ const root = join(__dirname, "..");
 const SRC = join(root, "tools/icon-src/duman-icon-raw.png");
 
 const RES = join(root, "android/app/src/main/res");
-// legacy launcher / round: dp boyutu = px boyutu (mdpi baz)
+// legacy launcher / round: dp size = px size (mdpi baseline)
 const LAUNCHER_SIZES = { mdpi: 48, hdpi: 72, xhdpi: 96, xxhdpi: 144, xxxhdpi: 192 };
-// adaptive foreground: 108dp tuval, yoğunluğa göre ölçekli
+// adaptive foreground: 108dp canvas, scaled per density
 const FOREGROUND_SIZES = { mdpi: 108, hdpi: 162, xhdpi: 216, xxhdpi: 324, xxxhdpi: 432 };
 
 function colorDistToWhite(r, g, b) {
   return 255 - Math.min(r, g, b);
 }
 
-/** Köşelerden başlayıp beyaza yakın, birbirine bağlı pikselleri şeffaflaştırır. */
+/** Starting from the corners, makes connected near-white pixels transparent. */
 function floodFillTransparentBg(raw, width, height, channels) {
   const visited = new Uint8Array(width * height);
   const stack = [];
@@ -44,7 +44,7 @@ function floodFillTransparentBg(raw, width, height, channels) {
   ];
   for (const [x, y] of seeds) stack.push(y * width + x);
 
-  const THRESHOLD = 18; // beyazdan sapma toleransı
+  const THRESHOLD = 18; // tolerance for deviation from white
 
   while (stack.length) {
     const idx = stack.pop();
@@ -56,9 +56,9 @@ function floodFillTransparentBg(raw, width, height, channels) {
     const r = raw[p];
     const g = raw[p + 1];
     const b = raw[p + 2];
-    if (colorDistToWhite(r, g, b) > THRESHOLD) continue; // beyaz değil, sınır
+    if (colorDistToWhite(r, g, b) > THRESHOLD) continue; // not white, boundary
 
-    raw[p + 3] = 0; // şeffaf yap
+    raw[p + 3] = 0; // make transparent
 
     if (x > 0) stack.push(idx - 1);
     if (x < width - 1) stack.push(idx + 1);
@@ -74,7 +74,7 @@ async function main() {
 
   floodFillTransparentBg(data, width, height, channels);
 
-  // dairenin turuncu tonunu örnekle: üst-orta, kedi kulaklarının üstü
+  // sample the circle's orange tone: top-center, above the cat's ears
   const sampleX = Math.round(width * 0.5);
   const sampleY = Math.round(height * 0.14);
   const sp = (sampleY * width + sampleX) * channels;
@@ -87,14 +87,14 @@ async function main() {
   const foregroundBuf = await foreground.toBuffer();
 
   // ---------- favicon ----------
-  // turuncu zemin üstünde tam kare, kenardan kenara ikon (tarayıcı sekmesi için)
+  // full square, edge-to-edge icon on an orange ground (for the browser tab)
   const bgLayer = { create: { width, height, channels: 4, background: bgHex } };
   const flatFull = await sharp(bgLayer).composite([{ input: foregroundBuf }]).png().toBuffer();
   const faviconBuf = await sharp(flatFull).resize(256, 256).png().toBuffer();
   writeFileSync(join(root, "public/favicon.png"), faviconBuf);
   console.log("public/favicon.png yazıldı");
 
-  // ---------- adaptive icon background rengi ----------
+  // ---------- adaptive icon background color ----------
   writeFileSync(
     join(RES, "values/ic_launcher_background.xml"),
     `<?xml version="1.0" encoding="utf-8"?>\n<resources>\n    <color name="ic_launcher_background">${bgHex}</color>\n</resources>\n`,
@@ -105,20 +105,20 @@ async function main() {
   );
   console.log("adaptive icon background güncellendi:", bgHex);
 
-  // ---------- her yoğunluk için raster üret ----------
+  // ---------- generate raster for every density ----------
   for (const [density, size] of Object.entries(LAUNCHER_SIZES)) {
     const dir = join(RES, `mipmap-${density}`);
     mkdirSync(dir, { recursive: true });
 
-    // legacy ic_launcher / ic_launcher_round: kenardan kenara, arka plan
-    // rengiyle kaynaşmış tam kare (API < 26 maskesiz gösterir)
+    // legacy ic_launcher / ic_launcher_round: edge-to-edge full square
+    // blended with the background color (API < 26 shows it unmasked)
     const flat = await sharp(flatFull).resize(size, size).png().toBuffer();
     writeFileSync(join(dir, "ic_launcher.png"), flat);
     writeFileSync(join(dir, "ic_launcher_round.png"), flat);
 
-    // adaptive foreground: 108dp tuval, OS maskesi (yuvarlak/squircle) sadece
-    // iç ~66dp'lik "güvenli alan"ı garanti gösterir; konuyu ~%65 ölçekleyip
-    // şeffaf boşlukla ortala ki kulaklar kesilmesin
+    // adaptive foreground: 108dp canvas; the OS mask (circle/squircle) only
+    // guarantees the inner ~66dp "safe zone" is shown, so scale the subject
+    // to ~65% and center it with transparent padding so the ears aren't cut off
     const fgSize = FOREGROUND_SIZES[density];
     const inner = Math.round(fgSize * 0.65);
     const pad = Math.round((fgSize - inner) / 2);
@@ -138,14 +138,14 @@ async function main() {
     console.log(`mipmap-${density}: ${size}px launcher, ${fgSize}px foreground`);
   }
 
-  // ---------- Play Store: 512x512 yüksek çözünürlüklü ikon ----------
+  // ---------- Play Store: 512x512 high-resolution icon ----------
   const storeAssetsDir = join(root, "docs/store-assets");
   mkdirSync(storeAssetsDir, { recursive: true });
   const icon512 = await sharp(flatFull).resize(512, 512).png().toBuffer();
   writeFileSync(join(storeAssetsDir, "icon-512.png"), icon512);
   console.log("docs/store-assets/icon-512.png yazıldı");
 
-  // ---------- Play Store: 1024x500 öne çıkan görsel (feature graphic) ----------
+  // ---------- Play Store: 1024x500 feature graphic ----------
   const FG_W = 1024;
   const FG_H = 500;
   const PORTRAIT_SIZE = 360;
@@ -167,7 +167,7 @@ async function main() {
       { input: textSvg, left: 0, top: 0 },
     ])
     .flatten({ background: bgHex })
-    .removeAlpha() // Play Store feature graphic: alfa kanalsız (24-bit) PNG istiyor
+    .removeAlpha() // Play Store feature graphic requires a PNG with no alpha channel (24-bit)
     .png()
     .toBuffer();
   writeFileSync(join(storeAssetsDir, "feature-graphic.png"), featureGraphic);
