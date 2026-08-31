@@ -1,11 +1,11 @@
-// Sözlüğün şu anki hâliyle sıfır tekrar kuralı altında kaç bulmaca
-// üretilebildiğini ölçer.
+// Measures how many puzzles can be generated under the zero-repeat rule
+// with the dictionary's current contents.
 //
-// Kullanım: node tools/grow-puzzles.mjs [baseSeed] [--apply]
+// Usage: node tools/grow-puzzles.mjs [baseSeed] [--apply]
 //
-// Önce mevcut bulmacaları ortak bir strict takipçiyle yeniden üretir, sonra
-// havuz tükenene kadar yeni bulmaca eklemeyi dener. `--apply` verilmezse
-// hiçbir dosya yazılmaz, yalnızca ulaşılan sayı raporlanır.
+// First regenerates the existing puzzles with a shared strict tracker, then
+// tries adding new puzzles until the pool is exhausted. Without `--apply`,
+// no file is written — only the reached count is reported.
 
 import { readFileSync, writeFileSync, readdirSync, rmSync } from "node:fs";
 import { fileURLToPath } from "node:url";
@@ -17,43 +17,50 @@ const args = process.argv.slice(2);
 const apply = args.includes("--apply");
 const baseSeed = Number(args.find((a) => !a.startsWith("--")) ?? 20260821);
 const num = (name, dflt) => Number(args.find((a) => a.startsWith(`--${name}=`))?.split("=")[1] ?? dflt);
-// Havuz daraldıkça doldurma zorlaşıyor; kaç tohum denendiği sonucu doğrudan
-// etkiliyor, bu yüzden dışarıdan ayarlanabilir.
+// Filling gets harder as the pool shrinks; how many seeds get tried directly
+// affects the outcome, so it's configurable from outside.
 const TRIES = num("tries", 8);
 const GIVE_UP = num("giveup", 12);
-// Bulmaca başına izin verilen 3 harfli cevap sayısı. 0 = eski davranış.
-// --profiles verilirse yok sayılır.
+// Number of 3-letter answers allowed per puzzle. 0 = old behavior.
+// Ignored if --profiles is given.
 const THREE = num("three", 0);
-// Profil karışımı: her bulmaca için, kalan havuza en iyi oturan profil seçilir.
+// Profile mix: for each puzzle, pick whichever profile best fits the
+// remaining pool.
 const USE_PROFILES = args.includes("--profiles");
-// Su-doldurma karisimi: her bulmacanin hedef uzunluk dagilimi, sozlukte kalan
-// arza orantili verilir. Bir katman bosaldikca payi dusuyor, talebi otomatik
-// dusuyor - limitte butun katmanlar ayni anda tukeniyor. Profil anahtari ve
-// acgozlu secici bunun kaba bir yaklasimiydi (bkz. dict-sources/README.md).
+// Water-filling mix: each puzzle's target length distribution is given
+// proportional to the remaining supply in the dictionary. As a layer empties
+// out, its share drops, which automatically lowers demand for it — at the
+// limit, every layer runs out at the same time. The profile key and the
+// greedy selector were a crude approximation of this (see
+// dict-sources/README.md).
 const USE_MIX = args.includes("--mix");
-// Faz 1'i (mevcut seti yeniden üret) atla: takipçiyi diskteki bulmacaların
-// ipuçlarından kur ve doğrudan faz 2'ye (yeni bulmaca ekle) geç. Set zaten
-// deterministik regen çıktısı ve audit temizse yeniden üretim aynı dosyaları
-// üretir, bu yüzden faz 2 sonucu değişmez - sadece saatlerce süren faz 1
-// tekrarı ortadan kalkar. Not: yeniden-üretilemeyen bulmaca artık silinmez.
+// Skip phase 1 (regenerate the existing set): build the tracker from the
+// clues already on disk and go straight to phase 2 (add new puzzles). Since
+// the set is already the output of a deterministic regen and the audit is
+// clean, regeneration would produce the same files, so phase 2's result is
+// unchanged — this just removes the hours-long phase 1 repeat. Note: a
+// puzzle that fails to regenerate is no longer deleted.
 const EXTEND = args.includes("--extend");
-// buildPuzzle'ın maske denemesi tavanı. Varsayılan 2000, shapeRuns'lı maske ~10
-// kat pahalı: üretilemeyen tek bir bulmaca TRIES x 2000 deneme yakıp koşuyu
-// dakikalarca kilitliyor. Tipik başarılı bulmaca 100 denemenin altında kalıyor,
-// bu yüzden tavanı düşürmek başarıyı düşürmüyor, yalnızca başarısızlığı ucuzlatıyor.
+// Cap on buildPuzzle's mask attempts. Default 2000; a mask with shapeRuns is
+// ~10x more expensive: a single ungeneratable puzzle burns TRIES x 2000
+// attempts and locks up the run for minutes. A typical successful puzzle
+// stays under 100 attempts, so lowering the cap doesn't hurt the success
+// rate — it just makes failure cheaper.
 const ATTEMPTS = num("attempts", USE_MIX ? 1500 : 2000);
-// Zorluk eğrisi. Su-doldurma hedefi ortalamayı doğru tutuyor ama her bulmacaya
-// aynı karışımı veriyor; set o hâlde baştan sona aynı zorlukta. Eğri, hedefi
-// üretim sırasına bağlı olarak eğiyor: baştaki bulmacalarda kısa/çok ipuçlu
-// katmanlar yukarı, sondakilerde aşağı. Sapma su-doldurmanın kendisi
-// tarafından bir sonraki turda geri alınıyor, bu yüzden kullanım oranı
-// bozulmuyor. Oyun sırası ayrıca reorder-puzzles.mjs ile veriliyor; buradaki
-// eğrinin işi sıralama değil, sıralanacak *dağılımı* üretmek.
-// Sabit ızgara şekli, "8x10" biçiminde. Verilirse setteki bütün bulmacalar
-// (yeniden üretilenler dahil) bu şekle geçer. 8x10, telefon ızgara alanının
-// (386x477) en/boy oranına oturuyor: hücre 47.7 px ile setin en büyüğü kalırken
-// yanlardaki 52 px boşluk kapanıyor ve bulmaca başına soru 15.7'den 19.2'ye
-// çıkıyor. Kare şekiller (9x9) yan boşluğu kapatıp altta daha büyüğünü açıyor.
+// Difficulty curve. The water-filling target keeps the average right but
+// gives every puzzle the same mix, so the set is the same difficulty from
+// start to finish. The curve skews the target based on generation order:
+// short/multi-clue layers are weighted up for the earlier puzzles and down
+// for the later ones. The skew is undone by the water-filling itself on the
+// next round, so the overall usage rate isn't affected. Play order is set
+// separately by reorder-puzzles.mjs; the curve's job here isn't ordering,
+// it's producing the *distribution* to be ordered.
+// Fixed grid shape, in "8x10" form. If given, every puzzle in the set
+// (including regenerated ones) switches to this shape. 8x10 fits the phone's
+// grid area's (386x477) aspect ratio: at a 47.7 px cell — the largest in the
+// set — the 52 px of side margin closes up, and clues per puzzle go from
+// 15.7 to 19.2. Square shapes (9x9) close the side margin but open a bigger
+// one at the bottom.
 const SHAPE = args.find((x) => x.startsWith("--shape="))?.split("=")[1] ?? null;
 const sabitSekil = SHAPE
   ? { cols: Number(SHAPE.split("x")[0]), rows: Number(SHAPE.split("x")[1]) }
@@ -62,11 +69,11 @@ const sabitSekil = SHAPE
 const CURVE = num("curve", 0.6);
 const CURVE_TAU = num("curvetau", 70);
 
-// Ölçülmüş talep vektörleri (bulmaca başına ortalama cevap sayısı, uzunluk
-// başına). 25 tohum x 5 ızgara boyutu, scratch/prof.mjs ile ölçüldü.
-// Amaç: setin talep karışımını sözlüğün arz karışımına oturtmak. Tek profille
-// üretilen set kısa katmanları arzın 2 katı hızda tüketiyor, uzun katmanların
-// üçte biri hiç kullanılmadan kalıyordu.
+// Measured demand vectors (average answer count per puzzle, per length).
+// Measured across 25 seeds x 5 grid sizes with scratch/prof.mjs.
+// Goal: fit the set's demand mix to the dictionary's supply mix. A set
+// generated with a single profile consumed short layers at 2x the supply
+// rate, leaving a third of the long layers completely unused.
 const PROFILES = [
   { ad: "kisa", opts: { minWordLen: 4, shortBudget: 3 }, talep: { 3: 2.72, 4: 6.48, 5: 7.04, 6: 3.88, 7: 4.04 } },
   { ad: "uzun", opts: { minWordLen: 5, shortBudget: 4 }, talep: { 3: 0.0, 4: 3.77, 5: 5.46, 6: 5.31, 7: 4.38 } },
@@ -78,12 +85,12 @@ const { WORDS: ALL_WORDS } = await import("./dictionary.mjs");
 const kalan = {};
 for (const w of ALL_WORDS) {
   const l = [...w.a].length;
-  // 2 harfli katman dahil: 81 kelimenin %99'u çok ipuçlu, yani zorluk
-  // eğrisinin en ince olduğu yere denk geliyor.
+  // includes the 2-letter layer: 99% of the 81 words are multi-clue, i.e.
+  // it lands right where the difficulty curve is thinnest.
   if (l >= 2) kalan[l] = (kalan[l] ?? 0) + 1;
 }
 
-// Bu profille kaç bulmaca daha sürdürülebilir: en dar katman belirler.
+// How many more puzzles this profile can sustain: the narrowest layer decides.
 function kapasite(prof) {
   let min = Infinity;
   for (const [l, d] of Object.entries(prof.talep)) {
@@ -93,12 +100,15 @@ function kapasite(prof) {
   return min;
 }
 
-// En uzun süre sürdürülebilir profili seç: havuz daraldıkça karışım kendi
-// kendini düzeltir (3 harfli bitince "uzun"a, 4 harfli bitince "cokuzun"a).
-// Kalan arza orantili hedef vektor. Mutlak buyukluk onemsiz: shapeRuns hedefi
-// maskenin kendi yuva sayisina olcekliyor, yalnizca oranlar kullaniliyor.
-// Eğrinin i. bulmacadaki sapması: pozitif = kolay uca, negatif = zor uca.
-// Ortalaması sıfıra yakın olsun diye sönümlü üstelin kendi ortalaması çıkarılır.
+// Pick the profile that can be sustained longest: as the pool shrinks, the
+// mix self-corrects (moves to "uzun" once 3-letter runs out, to "cokuzun"
+// once 4-letter runs out).
+// Target vector proportional to remaining supply. Absolute magnitude doesn't
+// matter: shapeRuns scales the target to the mask's own slot count, only the
+// ratios are used.
+// The curve's skew at puzzle i: positive = toward the easy end, negative =
+// toward the hard end. The damped exponential's own mean is subtracted so
+// the overall average stays close to zero.
 function egriSapmasi(i, n) {
   if (CURVE <= 0 || n <= 1) return 0;
   const ort = (CURVE_TAU / n) * (1 - Math.exp(-n / CURVE_TAU));
@@ -126,8 +136,9 @@ function profilSec() {
       opts: {
         targetMix: karisimHedefi(i),
         preferEasy: egriSapmasi(i, 300) > 0,
-        // Katı kelimeleri baştan harca: koşu havuz bittiği için değil arama
-        // tıkandığı için ölüyor, esnek kelimeleri finale saklamak o anı geciktirir.
+        // Spend rigid words first: a run dies from the search getting stuck,
+        // not from the pool running out, so saving flexible words for last
+        // delays that moment.
         preferRigid: true,
       },
     };
@@ -149,11 +160,11 @@ function havuzDus(clues) {
 }
 
 const profilSayaci = {};
-// Üretim sırası: zorluk eğrisi bunun üzerinden okunuyor.
+// Generation order: the difficulty curve is read against this.
 let uretilen = 0;
-// Yeni bulmaca ekleme aşaması için duvar saati sınırı (dakika). Havuz
-// daraldıkça bulmaca başına süre patlıyor; sınıra gelince koşu elle
-// öldürülmek yerine kendi kendine düzgün biter. 0 = sınırsız.
+// Wall-clock limit for the new-puzzle-adding phase (minutes). Per-puzzle
+// time explodes as the pool shrinks; once the limit hits, the run ends
+// cleanly on its own instead of being killed by hand. 0 = unlimited.
 const MAX_MINUTES = num("maxminutes", 0);
 
 const files = readdirSync(puzzleDir)
@@ -164,7 +175,7 @@ const files = readdirSync(puzzleDir)
 const tracker = createTracker({ strict: true });
 let built = 0, failed = 0, clues = 0;
 let maxN = 0, maxOrder = 0;
-// Yeni bulmacalara mevcut setin boyut/zorluk dağılımını ver.
+// Give new puzzles the existing set's size/difficulty distribution.
 const shapes = [], difficulties = [];
 
 for (const { file, n } of files) {
@@ -176,7 +187,7 @@ for (const { file, n } of files) {
   difficulties.push(old.difficulty);
 
   if (EXTEND) {
-    // Faz 1 atlandı: takipçiyi diskteki ipuçlarından doldur.
+    // Phase 1 skipped: fill the tracker from the clues on disk.
     commitToTracker(tracker, old.clues);
     havuzDus(old.clues);
     clues += old.clues.length;
@@ -196,9 +207,10 @@ for (const { file, n } of files) {
     if (r.puzzle) p = r.puzzle;
   }
   if (!p) {
-    // Yeniden üretilemeyen bulmacanın eski içeriği yeni setle çakışır: eski
-    // cevaplar takipçiye işlenmediği için sonraki bulmacalar onları tekrar
-    // kullanır. Bozuk set üretmemek için dosya silinir.
+    // The old content of a puzzle that fails to regenerate conflicts with
+    // the new set: since its old answers were never committed to the
+    // tracker, later puzzles reuse them. The file is deleted to avoid
+    // producing a broken set.
     failed++;
     console.error(`${old.id}: uretilemedi - dosya siliniyor`);
     if (apply) rmSync(join(puzzleDir, file), { force: true });
@@ -217,7 +229,7 @@ for (const { file, n } of files) {
 console.log(`\n${EXTEND ? "mevcut set diskten yuklendi" : "mevcut set yeniden uretildi"}: ${built} bulmaca, ${clues} soru, ${failed} basarisiz`);
 console.log(`havuz tuketilene kadar yeni bulmaca deneniyor...\n`);
 
-// Arka arkaya GIVE_UP deneme boşa giderse havuz bitmiş sayılır.
+// If GIVE_UP attempts in a row come up empty, the pool is considered exhausted.
 let miss = 0, added = 0, n = maxN, order = maxOrder;
 
 const deadline = MAX_MINUTES > 0 ? Date.now() + MAX_MINUTES * 60_000 : Infinity;
