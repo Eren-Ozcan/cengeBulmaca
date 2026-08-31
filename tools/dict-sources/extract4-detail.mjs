@@ -1,13 +1,14 @@
-// TDK Güncel Türkçe Sözlük'ten 4 harfli aday kelimeleri çıkarır.
+// Extracts 4-letter candidate words from the TDK Güncel Türkçe Sözlük.
 //
-// extract6-detail.mjs / extract7-detail.mjs ile aynı desen, iki farkla:
-//   - hedef uzunluk 4,
-//   - özel isimler atılmıyor, ayrı bir dosyaya yazılıyor. Çengel bulmacada
-//     il/ilçe adları da cevap oluyor, bu yüzden kendi başına değerlendirilecek
-//     bir havuz.
+// Same pattern as extract6-detail.mjs / extract7-detail.mjs, with two
+// differences:
+//   - target length is 4,
+//   - proper nouns aren't discarded, they're written to a separate file.
+//     Province/district names are valid answers in the hooked crossword,
+//     so they're their own pool to be evaluated separately.
 //
-// Girdi: bu klasörde `gts.json` (gitignore'lu, README'deki gh api komutuyla
-// indirilip açılır). Çıktı: 4letter-tdk-candidates.tsv ve
+// Input: `gts.json` in this folder (gitignored; download and unzip it with
+// the gh api command in the README). Output: 4letter-tdk-candidates.tsv and
 // 4letter-tdk-proper.tsv.
 
 import fs from 'fs';
@@ -17,8 +18,8 @@ const base = new URL('.', import.meta.url);
 
 const t = fs.readFileSync('C:/Projects/cengeBulmaca/tools/dictionary.mjs', 'utf8');
 const existing = new Set();
-// Cevaplarda düzeltme işaretli harfler de geçiyor (Â/Î/Û: DÜKKÂN, MAHKÛM, HAKÎ),
-// bu yüzden harf sınıfı yerine tırnak arası her şeyi al.
+// Answers can also contain circumflex letters (Â/Î/Û: DÜKKÂN, MAHKÛM, HAKÎ),
+// so capture everything between the quotes instead of a letter class.
 const re = /a:\s*"([^"]+)"/g;
 let m;
 while ((m = re.exec(t))) { if (Array.from(m[1]).length === 4) existing.add(m[1]); }
@@ -32,7 +33,7 @@ rl.on('line', (line) => {
   let obj;
   try { obj = JSON.parse(line); } catch (e) { return; }
   const w = obj.madde;
-  // Ünlem maddeleri ("bak!") tek kelime sayılıyor ama cevap olamaz.
+  // Interjection entries ("bak!") count as one word but can't be an answer.
   if (!w || /[ \-.'!]/.test(w)) return;
   const chars = Array.from(w);
   if (chars.length !== 4) return;

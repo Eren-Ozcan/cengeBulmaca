@@ -5,8 +5,8 @@ const base = new URL('.', import.meta.url);
 
 const t = fs.readFileSync('C:/Projects/cengeBulmaca/tools/dictionary.mjs', 'utf8');
 const existing = new Set();
-// Cevaplarda düzeltme işaretli harfler de geçiyor (Â/Î/Û: DÜKKÂN, MAHKÛM, HAKÎ),
-// bu yüzden harf sınıfı yerine tırnak arası her şeyi al.
+// Answers can also contain circumflex letters (Â/Î/Û: DÜKKÂN, MAHKÛM, HAKÎ),
+// so capture everything between the quotes instead of a letter class.
 const re = /a:\s*"([^"]+)"/g;
 let m;
 while ((m = re.exec(t))) { if (Array.from(m[1]).length === 7) existing.add(m[1]); }
