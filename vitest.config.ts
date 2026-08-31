@@ -1,8 +1,8 @@
 import { configDefaults, defineConfig } from "vitest/config";
 
-// security-tests/ sadece Firestore emulator çalışırken anlamlı olduğu için
-// (bkz. security-tests/README.md), normal `npm test` koşusunun dışında
-// tutuluyor — emulator kapalıyken bağlantı hatasıyla kırmızı görünmesin diye.
+// security-tests/ only makes sense while the Firestore emulator is running
+// (see security-tests/README.md), so it's kept out of the normal `npm test`
+// run — otherwise it shows red with a connection error when the emulator is off.
 export default defineConfig({
   test: {
     exclude: [...configDefaults.exclude, "security-tests/**"],
