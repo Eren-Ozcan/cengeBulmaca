@@ -1,4 +1,4 @@
-// Çengel bulmaca (hooked crossword) data model.
+// Hooked crossword (Çengel bulmaca) data model.
 //
 // The grid consists of two kinds of cells:
 //  - Clue cell: contains the clue text and the arrow showing the answer's direction.
