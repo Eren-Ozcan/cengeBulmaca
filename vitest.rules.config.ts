@@ -1,8 +1,8 @@
 import { defineConfig } from "vitest/config";
 
-// security-tests/README.md içindeki `npm run test:rules` tarafından, bir
-// Firestore emulator ayaktayken kullanılır. Normal `vitest.config.ts` bu
-// klasörü dışlıyor; bu dosya sadece onu içerir.
+// Used by `npm run test:rules` (see security-tests/README.md) while a
+// Firestore emulator is running. The normal `vitest.config.ts` excludes
+// this folder; this file exists solely to include it.
 export default defineConfig({
   test: {
     include: ["security-tests/**/*.test.ts"],
