@@ -1,6 +1,6 @@
-// Türkçe çengel bulmaca sözlüğü.
-// Her giriş: { a: CEVAP (Türkçe büyük harf), c: [olası ipucu metinleri] }
-// Kaynak: klasik Türk bulmacacılığında yaygın soru-cevap kalıpları.
+// Turkish hooked-crossword dictionary.
+// Each entry: { a: ANSWER (Turkish uppercase), c: [possible clue texts] }
+// Source: common clue/answer patterns from classic Turkish crossword puzzling.
 
 export const WORDS = [
   // ---- 2 harf ----
@@ -335,7 +335,7 @@ export const WORDS = [
   { a: "İKEBANA", c: ["Çiçek düzenleme"] },
   { a: "ASİTANE", c: ["İstanbul'un eski adı"] },
 
-  // ==== Genişletme (araştırma turu 2) ====
+  // ==== Expansion (research round 2) ====
 
   // ---- 2 harf ----
   { a: "AF", c: ["Bağışlama", "Cezanın kaldırılması", "Kusuru hoş görme"] },
@@ -657,7 +657,7 @@ export const WORDS = [
   { a: "YASTIK", c: ["Baş desteği"] },
   { a: "ZEYTİN", c: ["Yağlı meyve"] },
 
-  // ==== Genişletme (araştırma turu 3) ====
+  // ==== Expansion (research round 3) ====
 
   // ---- 2 harf ----
   { a: "EY", c: ["Seslenme ünlemi", "Hitap sözü"] },
@@ -665,7 +665,7 @@ export const WORDS = [
   { a: "ÖZ", c: ["Kendi, asıl", "Üvey olmayan", "Esas, cevher", "İçerik, ruh"] },
   { a: "İÇ", c: ["Dış karşıtı", "Yut, kana kana", "Cevizin yenen yeri", "Ortadaki bölüm"] },
 
-  // ---- 2 harf: TDK sözlüğünden elle seçilmiş ekler (tur 5) ----
+  // ---- 2-letter: hand-picked additions from TDK dictionary (round 5) ----
   { a: "AÇ", c: ["Tok karşıtı", "Karnı boş", "Doymamış kimse", "Kapıyı arala"] },
   { a: "EH", c: ["Olur, peki", "İdare eder", "Şöyle böyle"] },
   { a: "EN", c: ["Genişlik", "Üstünlük eki", "Boy karşıtı ölçü", "Kumaşın genişliği"] },
@@ -890,7 +890,7 @@ export const WORDS = [
   { a: "MAĞARA", c: ["Yer altı boşluğu"] },
   { a: "YENGEÇ", c: ["Kıskaçlı deniz hayvanı", "Yılın dördüncü burcu"] },
 
-  // ---- 3 harf: TDK sözlüğünden elle seçilmiş ekler (tur 5) ----
+  // ---- 3-letter: hand-picked additions from TDK dictionary (round 5) ----
   { a: "ADİ", c: ["Sıradan, kalitesiz", "Bayağı, düşük", "Değersiz nesne", "Aritmetikte bir kesir"] },
   { a: "ALO", c: ["Telefon sözü", "Ahizeyi açınca denen", "Çağrıda ilk söz", "Telefonda selamlama"] },
   { a: "ANİ", c: ["Ansızın, beklenmedik", "Birdenbire olan", "Hazırlıksız yakalayan", "Şipşak gelişen"] },
@@ -1037,7 +1037,7 @@ export const WORDS = [
   { a: "ŞUT", c: ["Kale vuruşu", "Topa sert vuruş", "Basketbolda atış", "Golü getiren vuruş"] },
   { a: "ŞİŞ", c: ["Kebap çubuğu", "Örgü çubuğu", "Etin geçirildiği", "Kabar anlamında"] },
 
-  // ---- 4 harf: TDK sözlüğünden elle seçilmiş ekler (tur 5, parça 1: A-B) ----
+  // ---- 4-letter: hand-picked additions from TDK dictionary (round 5, part 1: A-B) ----
   { a: "ABES", c: ["Gereksiz, yersiz", "Saçma, boş", "Anlamsız davranış", "Yakışıksız iş"] },
   { a: "ABİS", c: ["Okyanus derinliği", "Deniz dibi çukur", "Uçurum, derinlik", "Işık girmeyen derinlik"] },
   { a: "ACAR", c: ["Güçlü, becerikli", "Atılgan kimse", "Gürcistan'da bir bölge", "Yılmaz, çetin"] },
@@ -1157,7 +1157,7 @@ export const WORDS = [
   { a: "BETA", c: ["İkinci Yunan harfi", "Alfa'dan sonraki", "Deneme sürümü", "Bir ışın türü"] },
   { a: "BEZE", c: ["Hamur parçası", "Yumurta akı tatlısı", "Açılmayı bekleyen hamur", "Şekerli köpük tatlı"] },
 
-  // ---- 4 harf: TDK sözlüğünden elle seçilmiş ekler (tur 5, parça 2: B-F) ----
+  // ---- 4-letter: hand-picked additions from TDK dictionary (round 5, part 2: B-F) ----
   { a: "BLUZ", c: ["Üst giysisi", "Kadın gömleği", "Etekle giyilen", "İnce üst giysi"] },
   { a: "BLÖF", c: ["Yanıltıcı gösterme", "Pokerde yapılan", "Elinde yokken varmış gibi", "Kandırma numarası"] },
   { a: "BONE", c: ["Kumaştan başlık", "Saç toplayan başlık", "Havuzda takılan", "Kep benzeri başlık"] },
@@ -1289,7 +1289,7 @@ export const WORDS = [
   { a: "FLİT", c: ["Sinek ilacı", "Böcek öldürücü sprey", "Haşereye sıkılan", "Eski böcek ilacı"] },
   { a: "FOBİ", c: ["Aşırı korku", "Mantıksız ürküntü", "Yükseklikten korkma gibi", "Tedavisi olan korku"] },
 
-  // ---- 4 harf: TDK sözlüğünden elle seçilmiş ekler (tur 5, parça 3: F-L) ----
+  // ---- 4-letter: hand-picked additions from TDK dictionary (round 5, part 3: F-L) ----
   { a: "FORM", c: ["Kondisyon", "Biçim, şekil", "Doldurulan belge", "Sporcunun durumu"] },
   { a: "FOYA", c: ["Sahte parlaklık", "Ortaya çıkan gerçek", "Taşın altındaki varak", "Meydana çıkan hile"] },
   { a: "FREN", c: ["Hız kesici", "Pedala basınca çalışan", "Durdurma düzeneği", "Balatası olan"] },
@@ -1433,7 +1433,7 @@ export const WORDS = [
   { a: "LEKE", c: ["İz, benek", "Gömlekteki kir", "Silinmesi zor iz", "Şarabın bıraktığı"] },
   { a: "LEVA", c: ["Bulgar parası", "Sofya'da geçen para", "Bulgaristan'ın birimi", "Komşunun parası"] },
 
-  // ---- 4 harf: TDK sözlüğünden elle seçilmiş ekler (tur 5, parça 4: L-S) ----
+  // ---- 4-letter: hand-picked additions from TDK dictionary (round 5, part 4: L-S) ----
   { a: "LOBİ", c: ["Giriş holü", "Otelde bekleme yeri", "Baskı grubu", "Resepsiyonun bulunduğu"] },
   { a: "LORT", c: ["İngiliz unvanı", "İngiltere'de soylu", "Kamarasında oturan", "Britanya asaleti"] },
   { a: "LÜKS", c: ["Gösterişli yaşayış", "Pahalı ve konforlu", "Aydınlatma birimi", "Zenginlik göstergesi"] },
@@ -1581,7 +1581,7 @@ export const WORDS = [
   { a: "SARİ", c: ["Hint giysisi", "Hindistan'da kadın giysisi", "Vücuda sarılan kumaş", "Bulaşıcı anlamında"] },
   { a: "SASI", c: ["Küf kokulu", "Ağır kokan", "Bozulmuş kokan", "Küflenmiş"] },
 
-  // ---- 4 harf: TDK sözlüğünden elle seçilmiş ekler (tur 5, parça 5: S-Y) ----
+  // ---- 4-letter: hand-picked additions from TDK dictionary (round 5, part 5: S-Y) ----
   { a: "SAYE", c: ["Koruma, yardım", "Gölge anlamında", "Birinin himayesi", "Sayesinde derken"] },
   { a: "SAÇI", c: ["Şeker, para", "Düğünde atılan", "Geline serpilen", "Törende serpilen"] },
   { a: "SAİR", c: ["Başka, öteki, diğer", "Geri kalanlar", "Adı geçmeyenler", "Eski dilde diğer"] },
@@ -1726,7 +1726,7 @@ export const WORDS = [
   { a: "YÜCE", c: ["Erdemce üstün", "Ulu, büyük", "Yüksek ve saygın", "Dağ için kullanılan"] },
   { a: "YİNE", c: ["Gene", "Tekrar", "Bir daha", "Aynı biçimde olan"] },
 
-  // ---- 4 harf: TDK sözlüğünden elle seçilmiş ekler (tur 5, parça 6: Z-Ş, sonuncu) ----
+  // ---- 4-letter: hand-picked additions from TDK dictionary (round 5, part 6: Z-Ş, last) ----
   { a: "ZAAF", c: ["İrade zayıflığı", "Karşı konulamayan düşkünlük", "Güçsüzlük", "Zayıf yön"] },
   { a: "ZAMK", c: ["Yapıştırıcı madde", "Kâğıt yapıştıran", "Ağaçtan sızan reçine", "Tutkal benzeri"] },
   { a: "ZAPT", c: ["Zorla el koyma", "Zapt etmek deyimi", "Kaydetme, yazma", "Dizginleyip tutma"] },
@@ -1857,7 +1857,7 @@ export const WORDS = [
   { a: "ŞİVE", c: ["Yöresel söyleyiş", "Konuşma özelliği", "Karadeniz'e özgü olanı", "Söyleyiş farkı"] },
   { a: "ŞİŞE", c: ["Cam kap", "Ağzı dar kap", "İçine su konan", "Kapağı olan cam"] },
 
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 6, parça 1: A-BAG) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 6, part 1: A-BAG) ----
   { a: "ABDAL", c: ["Gezgin derviş"] },
   { a: "ABECE", c: ["İlk bilgi"] },
   { a: "ABLAK", c: ["Dolgun yüz"] },
@@ -2010,7 +2010,7 @@ export const WORDS = [
   { a: "BAGAJ", c: ["Eşya bölümü"] },
   { a: "BAGET", c: ["Bateri çubuğu"] },
 
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 6, parça 2: BAH-BİZ) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 6, part 2: BAH-BİZ) ----
   { a: "BAHRİ", c: ["Denizle ilgili"] },
   { a: "BAHİS", c: ["Konuşulan konu"] },
   { a: "BAKAN", c: ["Kabine üyesi", "Hükümette görevli"] },
@@ -2152,7 +2152,7 @@ export const WORDS = [
   { a: "BİTİŞ", c: ["Final"] },
   { a: "BİZAR", c: ["Bezmiş, usanmış, bıkmış"] },
 
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 6, parça 3: BİZ-DÜŞ) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 6, part 3: BİZ-DÜŞ) ----
   { a: "BİZCE", c: ["Bize göre"] },
   { a: "BİZON", c: ["Yaban öküzü"] },
   { a: "BİÇKİ", c: ["Kumaş kesme"] },
@@ -2309,7 +2309,7 @@ export const WORDS = [
   { a: "DÜŞES", c: ["Dük karısı"] },
   { a: "DÜŞEY", c: ["Şakuli"] },
 
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 6, parça 4: DÜŞ-FOR) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 6, part 4: DÜŞ-FOR) ----
   { a: "DÜŞÜK", c: ["Sarkmış, düşmüş"] },
   { a: "DİBEK", c: ["Taş havan"] },
   { a: "DİKEY", c: ["Yatay karşıtı"] },
@@ -2442,7 +2442,7 @@ export const WORDS = [
   { a: "FLÖRE", c: ["Eskrim kılıcı"] },
   { a: "FLÖRT", c: ["Aşk yakınlaşması"] },
   { a: "FORMA", c: ["Takım kıyafeti"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 1: FORSA-GURUR) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 1: FORSA-GURUR) ----
   { a: "FORSA", c: ["Kürek tutsağı"] },
   { a: "FORTE", c: ["Güçlü çalma"] },
   { a: "FORUM", c: ["Roma alanı"] },
@@ -2535,7 +2535,7 @@ export const WORDS = [
   { a: "GURME", c: ["Yemek uzmanı"] },
   { a: "GURUP", c: ["Güneş batışı"] },
   { a: "GURUR", c: ["Kendini beğenme"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 2: GÜBRE-HERTZ) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 2: GÜBRE-HERTZ) ----
   { a: "GÜBRE", c: ["Verimlilik maddesi"] },
   { a: "GÜÇLÜ", c: ["Zayıf karşıtı"] },
   { a: "GÜDÜK", c: ["Eksik, tamamlanmamış, kısa"] },
@@ -2635,7 +2635,7 @@ export const WORDS = [
   { a: "HEPSİ", c: ["Tümü"] },
   { a: "HERİF", c: ["Aşağı erkek"] },
   { a: "HERTZ", c: ["Frekans birimi"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 3: HEVES-İRADE) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 3: HEVES-İRADE) ----
   { a: "HEVES", c: ["İstek duygusu"] },
   { a: "HEYBE", c: ["Eyer torbası"] },
   { a: "HEYET", c: ["Görevlendirilen kurul"] },
@@ -2766,7 +2766,7 @@ export const WORDS = [
   { a: "İPTAL", c: ["Geçersiz kılma"] },
   { a: "İPUCU", c: ["Yönlendirici belirti"] },
   { a: "İRADE", c: ["Karar gücü"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 4: İRFAN-KAZIK) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 4: İRFAN-KAZIK) ----
   { a: "İRFAN", c: ["Bilme, anlama, sezgi"] },
   { a: "İRMİK", c: ["Buğday unu"] },
   { a: "İRONİ", c: ["Alaylı anlatım"] },
@@ -2875,7 +2875,7 @@ export const WORDS = [
   { a: "KAYRA", c: ["Lütuf"] },
   { a: "KAZAK", c: ["Yün giysi"] },
   { a: "KAZIK", c: ["Sivri direk"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 5: KAZMA-KOVAN) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 5: KAZMA-KOVAN) ----
   { a: "KAZMA", c: ["Toprak aleti"] },
   { a: "KEBAP", c: ["Izgara et"] },
   { a: "KEDER", c: ["Elem"] },
@@ -2981,7 +2981,7 @@ export const WORDS = [
   { a: "KOŞUM", c: ["Kayış takımı"] },
   { a: "KOŞUT", c: ["Paralel"] },
   { a: "KOVAN", c: ["Arı yapısı"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 6: KOVUK-LÜZUM) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 6: KOVUK-LÜZUM) ----
   { a: "KOVUK", c: ["Oyuk bölüm"] },
   { a: "KOYUN", c: ["Yapağı hayvanı"] },
   { a: "KÖÇEK", c: ["Kadın kılıklı dansçı"] },
@@ -3083,7 +3083,7 @@ export const WORDS = [
   { a: "LÜFER", c: ["İstanbul balığı"] },
   { a: "LÜTUF", c: ["Kayra"] },
   { a: "LÜZUM", c: ["Gereklilik"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 7: MABET-MOREN) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 7: MABET-MOREN) ----
   { a: "MABET", c: ["Tapınak"] },
   { a: "MACUN", c: ["Yapışkan madde"] },
   { a: "MADAM", c: ["Fransız unvanı"] },
@@ -3188,7 +3188,7 @@ export const WORDS = [
   { a: "MOLLA", c: ["Din bilgini"] },
   { a: "MOLOZ", c: ["Yıkıntı kalıntısı"] },
   { a: "MORAL", c: ["Maneviyat"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 8: MOTEL-ORFOZ) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 8: MOTEL-ORFOZ) ----
   { a: "MOTEL", c: ["Yol oteli"] },
   { a: "MOTİF", c: ["Yinelenen öge"] },
   { a: "MOTOR", c: ["Hareket düzeneği"] },
@@ -3278,7 +3278,7 @@ export const WORDS = [
   { a: "ONLUK", c: ["On tane"] },
   { a: "OPTİK", c: ["Görme ile"] },
   { a: "ORFOZ", c: ["Lezzetli balık"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 9: ORGAN-PUSLU) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 9: ORGAN-PUSLU) ----
   { a: "ORGAN", c: ["Vücut bölümü"] },
   { a: "ORTAK", c: ["İş paydaşı"] },
   { a: "ORTAM", c: ["Koşullar bütünü"] },
@@ -3377,7 +3377,7 @@ export const WORDS = [
   { a: "PUDRA", c: ["Yüz tozu"] },
   { a: "PULLU", c: ["Pul yapıştırılmış"] },
   { a: "PUSLU", c: ["Hafif sisli"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 10: PÜRÜZ-SAVCI) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 10: PÜRÜZ-SAVCI) ----
   { a: "PÜRÜZ", c: ["Bozan kusur"] },
   { a: "RADAR", c: ["Yer bulucu"] },
   { a: "RAGBİ", c: ["On beşerli spor"] },
@@ -3476,7 +3476,7 @@ export const WORDS = [
   { a: "SAUNA", c: ["Buhar banyosu"] },
   { a: "SAVAŞ", c: ["Harp"] },
   { a: "SAVCI", c: ["Dava açan"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 11: SAYAÇ-SÖZCE) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 11: SAYAÇ-SÖZCE) ----
   { a: "SAYAÇ", c: ["Ölçüm aleti"] },
   { a: "SAYIM", c: ["Sayma işi"] },
   { a: "SAYIN", c: ["Saygı unvanı"] },
@@ -3583,7 +3583,7 @@ export const WORDS = [
   { a: "SÖĞÜT", c: ["Sulak ağaç"] },
   { a: "SÖKÜK", c: ["Sökülmüş olan"] },
   { a: "SÖNÜK", c: ["Sönmüş olan"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 12: SÖZCÜ-TANEN) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 12: SÖZCÜ-TANEN) ----
   { a: "SÖZCÜ", c: ["Adına konuşan"] },
   { a: "SÖZDE", c: ["Güya"] },
   { a: "SÖZLÜ", c: ["Şifahi"] },
@@ -3688,7 +3688,7 @@ export const WORDS = [
   { a: "TAMAH", c: ["Açgözlülük"] },
   { a: "TAMİM", c: ["Genelge"] },
   { a: "TAMİR", c: ["Onarım"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 13: TANGO-TURTA) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 13: TANGO-TURTA) ----
   { a: "TANGO", c: ["Ritimli dans"] },
   { a: "TANIK", c: ["Şahit"] },
   { a: "TANIM", c: ["Kavram açıklaması"] },
@@ -3795,7 +3795,7 @@ export const WORDS = [
   { a: "TURNA", c: ["Uzun boyunlu kuş"] },
   { a: "TURNE", c: ["Gezici tur"] },
   { a: "TURTA", c: ["Kakaolu pasta"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 14: TUTAK-YAĞLI) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 14: TUTAK-YAĞLI) ----
   { a: "TUTAK", c: ["Tutma yeri"] },
   { a: "TUTAM", c: ["Avuç miktarı"] },
   { a: "TUTAR", c: ["Toplam miktar"] },
@@ -3890,7 +3890,7 @@ export const WORDS = [
   { a: "YAĞIŞ", c: ["Yağmur, kar"] },
   { a: "YAĞIZ", c: ["Esmer renkli"] },
   { a: "YAĞLI", c: ["Yağ içeren"] },
-  // ---- 5 harf: TDK sözlüğünden elle seçilmiş ekler (tur 7, parça 15: YAHNİ-ZÜRRA, son) ----
+  // ---- 5-letter: hand-picked additions from TDK dictionary (round 7, part 15: YAHNİ-ZÜRRA, son) ----
   { a: "YAHNİ", c: ["Soğanlı et"] },
   { a: "YAHUT", c: ["Veya"] },
   { a: "YAKIN", c: ["Uzak karşıtı"] },
@@ -4014,7 +4014,7 @@ export const WORDS = [
   { a: "ZÜLÜF", c: ["Saç lülesi"] },
   { a: "ZÜMRE", c: ["Topluluk"] },
   { a: "ZÜPPE", c: ["Yapmacık davranışlı"] },
-  // ---- 6 harf: TDK sözlüğünden elle seçilmiş ekler (tur 8, parça 1: ABAJUR-ARALIK) ----
+  // ---- 6-letter: hand-picked additions from TDK dictionary (round 8, part 1: ABAJUR-ARALIK) ----
   { a: "ABAJUR", c: ["Lamba siperi"] },
   { a: "ABANOZ", c: ["Sert siyah ağaç"] },
   { a: "ABARTI", c: ["Mübalağa"] },
@@ -4071,7 +4071,7 @@ export const WORDS = [
   { a: "APAÇIK", c: ["Çok belirgin"] },
   { a: "APOLET", c: ["Omuzdaki rütbe"] },
   { a: "ARALIK", c: ["Yılın son ayı"] },
-  // ---- 6 harf: TDK sözlüğünden elle seçilmiş ekler (tur 8, parça 2: ARASTA-CAZGIR) ----
+  // ---- 6-letter: hand-picked additions from TDK dictionary (round 8, part 2: ARASTA-CAZGIR) ----
   { a: "ARASTA", c: ["Çarşı sokağı"] },
   { a: "ARBEDE", c: ["Gürültülü kavga"] },
   { a: "ARDİYE", c: ["Eşya deposu"] },
@@ -4213,7 +4213,7 @@ export const WORDS = [
   { a: "CARİYE", c: ["Saray kölesi"] },
   { a: "CAZİBE", c: ["Çekicilik"] },
   { a: "CAZGIR", c: ["Güreş tanıtıcısı"] },
-  // ---- 6 harf: TDK sözlüğünden elle seçilmiş ekler (tur 8, parça 3: CELLAT-ELBİSE) ----
+  // ---- 6-letter: hand-picked additions from TDK dictionary (round 8, part 3: CELLAT-ELBİSE) ----
   { a: "CELLAT", c: ["İdam görevlisi"] },
   { a: "CEMAAT", c: ["Namaz topluluğu"] },
   { a: "CEMEVİ", c: ["Alevi ibadethanesi"] },
@@ -4349,7 +4349,7 @@ export const WORDS = [
   { a: "EĞRETİ", c: ["Geçici"] },
   { a: "EKSPER", c: ["Bilirkişi"] },
   { a: "ELBİSE", c: ["Giysi"] },
-  // ---- 6 harf: TDK sözlüğünden elle seçilmiş ekler (tur 8, parça 4: ELİFBA-HERCAİ) ----
+  // ---- 6-letter: hand-picked additions from TDK dictionary (round 8, part 4: ELİFBA-HERCAİ) ----
   { a: "ELİFBA", c: ["Arap alfabesi"] },
   { a: "ELOĞLU", c: ["Elin oğlu"] },
   { a: "ELVEDA", c: ["Ayrılık sözü"] },
@@ -4511,7 +4511,7 @@ export const WORDS = [
   { a: "HENDEK", c: ["Kazılmış çukur"] },
   { a: "HERKES", c: ["Cümle âlem"] },
   { a: "HERCAİ", c: ["Kararsız"] },
-  // ---- 6 harf: TDK sözlüğünden elle seçilmiş ekler (tur 8, parça 5: HEVENK-KILCAL) ----
+  // ---- 6-letter: hand-picked additions from TDK dictionary (round 8, part 5: HEVENK-KILCAL) ----
   { a: "HEVENK", c: ["Dizilmiş meyve"] },
   { a: "HEYBET", c: ["Saygı uyandıran görünüş"] },
   { a: "HEYKEL", c: ["Yontu"] },
@@ -4662,7 +4662,7 @@ export const WORDS = [
   { a: "KEVGİR", c: ["Delikli kepçe"] },
   { a: "KILÇIK", c: ["Balık dikeni"] },
   { a: "KILCAL", c: ["Çok ince"] },
-  // ---- 6 harf: TDK sözlüğünden elle seçilmiş ekler (tur 8, parça 6: KIRAĞI-MELİKE) ----
+  // ---- 6-letter: hand-picked additions from TDK dictionary (round 8, part 6: KIRAĞI-MELİKE) ----
   { a: "KIRAĞI", c: ["Donmuş çiy"] },
   { a: "KIRBAÇ", c: ["Uzun deri sopa"] },
   { a: "KISKAÇ", c: ["Pens, kerpeten"] },
@@ -4825,7 +4825,7 @@ export const WORDS = [
   { a: "MEHTER", c: ["Osmanlı bandosu"] },
   { a: "MELEKE", c: ["Kazanılmış yatkınlık"] },
   { a: "MELİKE", c: ["Kadın hükümdar"] },
-  // ---- 6 harf: TDK sözlüğünden elle seçilmiş ekler (tur 8, parça 7: MELTEM-PAYTAK) ----
+  // ---- 6-letter: hand-picked additions from TDK dictionary (round 8, part 7: MELTEM-PAYTAK) ----
   { a: "MELTEM", c: ["Yaz rüzgârı"] },
   { a: "MEMNUN", c: ["Hoşnut kimse"] },
   { a: "MENDİL", c: ["Cepteki bez"] },
@@ -4989,7 +4989,7 @@ export const WORDS = [
   { a: "PAVYON", c: ["Gece kulübü"] },
   { a: "PAYDOS", c: ["İşi bırakma"] },
   { a: "PAYTAK", c: ["Eğri bacaklı"] },
-  // ---- 6 harf: TDK sözlüğünden elle seçilmiş ekler (tur 8, parça 8: PEÇETE-SOHBET) ----
+  // ---- 6-letter: hand-picked additions from TDK dictionary (round 8, part 8: PEÇETE-SOHBET) ----
   { a: "PEÇETE", c: ["Sofra bezi"] },
   { a: "PEKMEZ", c: ["Kaynatılmış üzüm suyu"] },
   { a: "PELTEK", c: ["Dili dolaşan"] },
@@ -5147,7 +5147,7 @@ export const WORDS = [
   { a: "SMOKİN", c: ["Erkek gece kıyafeti"] },
   { a: "SODYUM", c: ["11 numaralı element"] },
   { a: "SOHBET", c: ["Dost konuşması"] },
-  // ---- 6 harf: TDK sözlüğünden elle seçilmiş ekler (tur 8, parça 9: SOLFEJ-TRAFİK) ----
+  // ---- 6-letter: hand-picked additions from TDK dictionary (round 8, part 9: SOLFEJ-TRAFİK) ----
   { a: "SOLFEJ", c: ["Nota okuma"] },
   { a: "SOLGUN", c: ["Rengi uçmuş"] },
   { a: "SOLİST", c: ["Tek başına söyleyen"] },
@@ -5302,7 +5302,7 @@ export const WORDS = [
   { a: "TORPİL", c: ["Kayırma"] },
   { a: "TÖHMET", c: ["Suç yükleme"] },
   { a: "TRAFİK", c: ["Yol hareketliliği"] },
-  // ---- 6 harf: TDK sözlüğünden elle seçilmiş ekler (tur 8, parça 10: TRAMPA-ZİKZAK) ----
+  // ---- 6-letter: hand-picked additions from TDK dictionary (round 8, part 10: TRAMPA-ZİKZAK) ----
   { a: "TRAMPA", c: ["Takas"] },
   { a: "TRAPEZ", c: ["Sallanan barfiks"] },
   { a: "TRİBÜN", c: ["Seyirci basamağı"] },
@@ -5420,7 +5420,7 @@ export const WORDS = [
   { a: "ZİMMET", c: ["Üste kalan borç"] },
   { a: "ZIVANA", c: ["Küçük boru"] },
   { a: "ZİKZAK", c: ["Kırık çizgi"] },
-  // ---- 7 harf: TDK sözlüğünden elle seçilmiş ekler (tur 9, parça 1: ACELECİ-ANAGRAM) ----
+  // ---- 7-letter: hand-picked additions from TDK dictionary (round 9, part 1: ACELECİ-ANAGRAM) ----
   { a: "ACELECİ", c: ["Tez canlı"] },
   { a: "AÇGÖZLÜ", c: ["Doymak bilmeyen"] },
   { a: "AÇIKGÖZ", c: ["Uyanık, kurnaz"] },
@@ -5525,7 +5525,7 @@ export const WORDS = [
   { a: "ATAERKİ", c: ["Babaya dayalı düzen"] },
   { a: "ARKAİZM", c: ["Eskil söz kullanımı"] },
   { a: "ANAGRAM", c: ["Harf değiştirme oyunu"] },
-  // ---- 7 harf: TDK sözlüğünden elle seçilmiş ekler (tur 9, parça 2: BARFİKS-ÇİSENTİ) ----
+  // ---- 7-letter: hand-picked additions from TDK dictionary (round 9, part 2: BARFİKS-ÇİSENTİ) ----
   { a: "BARFİKS", c: ["Jimnastik demiri"] },
   { a: "BARINAK", c: ["Sığınılacak yer"] },
   { a: "BARİKAT", c: ["Yol engeli"] },
@@ -5635,7 +5635,7 @@ export const WORDS = [
   { a: "ÇİMENTO", c: ["Yapı bağlayıcısı"] },
   { a: "ÇİNEKOP", c: ["Küçük lüfer"] },
   { a: "ÇİSENTİ", c: ["İnce yağmur"] },
-  // ---- 7 harf: TDK sözlüğünden elle seçilmiş ekler (tur 9, parça 3: ÇİZELGE-ETKİSİZ) ----
+  // ---- 7-letter: hand-picked additions from TDK dictionary (round 9, part 3: ÇİZELGE-ETKİSİZ) ----
   { a: "ÇİZELGE", c: ["Tablo"] },
   { a: "ÇÖKELEK", c: ["Kesik süt peyniri"] },
   { a: "ÇÖKELTİ", c: ["Dibe çöken madde"] },
@@ -5750,7 +5750,7 @@ export const WORDS = [
   { a: "EVCİMEN", c: ["Evine bağlı"] },
   { a: "EVHAMLI", c: ["Kuruntulu"] },
   { a: "ETKİSİZ", c: ["Tesirsiz"] },
-  // ---- 7 harf: TDK sözlüğünden elle seçilmiş ekler (tur 9, parça 4: EVLİLİK-ISKARTA) ----
+  // ---- 7-letter: hand-picked additions from TDK dictionary (round 9, part 4: EVLİLİK-ISKARTA) ----
   { a: "EVLİLİK", c: ["İzdivaç"] },
   { a: "FABRİKA", c: ["Üretim tesisi"] },
   { a: "FAKÜLTE", c: ["Üniversite birimi"] },
@@ -5883,7 +5883,7 @@ export const WORDS = [
   { a: "ISTAKOZ", c: ["İri deniz kabuklusu"] },
   { a: "ISTAMPA", c: ["Mürekkepli mühür yastığı"] },
   { a: "ISKARTA", c: ["Elden çıkarılan"] },
-  // ---- 7 harf: TDK sözlüğünden elle seçilmiş ekler (tur 9, parça 5: İBRİŞİM-KARAKUŞ) ----
+  // ---- 7-letter: hand-picked additions from TDK dictionary (round 9, part 5: İBRİŞİM-KARAKUŞ) ----
   { a: "İBRİŞİM", c: ["Bükülmüş ipek iplik"] },
   { a: "İÇBÜKEY", c: ["Konkav"] },
   { a: "İÇTİHAT", c: ["Hukuki yorum"] },
@@ -6033,7 +6033,7 @@ export const WORDS = [
   { a: "KEYİFLİ", c: ["Neşesi yerinde"] },
   { a: "KETHÜDA", c: ["Konak kâhyası"] },
   { a: "KARAKUŞ", c: ["Kartal türü"] },
-  // ---- 7 harf: TDK sözlüğünden elle seçilmiş ekler (tur 9, parça 6: KILAVUZ-MALUMAT) ----
+  // ---- 7-letter: hand-picked additions from TDK dictionary (round 9, part 6: KILAVUZ-MALUMAT) ----
   { a: "KILAVUZ", c: ["Rehber"] },
   { a: "KILIBIK", c: ["Karısına boyun eğen"] },
   { a: "KIRMIZI", c: ["Kanın rengi"] },
@@ -6161,7 +6161,7 @@ export const WORDS = [
   { a: "MALZEME", c: ["Gereç"] },
   { a: "MALİYET", c: ["Üretim gideri"] },
   { a: "MALUMAT", c: ["Bilgi"] },
-  // ---- 7 harf: TDK sözlüğünden elle seçilmiş ekler (tur 9, parça 7: MERİNOS-PARAGÖZ) ----
+  // ---- 7-letter: hand-picked additions from TDK dictionary (round 9, part 7: MERİNOS-PARAGÖZ) ----
   { a: "MERİNOS", c: ["İnce yapağılı koyun"] },
   { a: "MERSİYE", c: ["Ağıt şiiri"] },
   { a: "MERTEBE", c: ["Aşama, derece"] },
@@ -6296,7 +6296,7 @@ export const WORDS = [
   { a: "PAZARCI", c: ["Pazarda satan"] },
   { a: "PEDAGOG", c: ["Eğitim bilimci"] },
   { a: "PARAGÖZ", c: ["Paraya düşkün"] },
-  // ---- 7 harf: TDK sözlüğünden elle seçilmiş ekler (tur 9, parça 8: PEDİKÜR-STERLİN) ----
+  // ---- 7-letter: hand-picked additions from TDK dictionary (round 9, part 8: PEDİKÜR-STERLİN) ----
   { a: "PEDİKÜR", c: ["Ayak bakımı"] },
   { a: "PELERİN", c: ["Kolsuz üstlük"] },
   { a: "PELİKAN", c: ["Gagası keseli kuş"] },
@@ -6430,7 +6430,7 @@ export const WORDS = [
   { a: "STAJYER", c: ["Staj yapan"] },
   { a: "STATÜKO", c: ["Süregelen düzen"] },
   { a: "STERLİN", c: ["İngiliz parası"] },
-  // ---- 7 harf: TDK sözlüğünden elle seçilmiş ekler (tur 9, parça 9: SUİKAST-ÜCRETLİ) ----
+  // ---- 7-letter: hand-picked additions from TDK dictionary (round 9, part 9: SUİKAST-ÜCRETLİ) ----
   { a: "SUİKAST", c: ["Gizli cana kıyma"] },
   { a: "SÜPÜRGE", c: ["Yer süpüren araç"] },
   { a: "SÜREKLİ", c: ["Devamlı"] },
@@ -6561,7 +6561,7 @@ export const WORDS = [
   { a: "UZAKLIK", c: ["Mesafe ölçüsü"] },
   { a: "UZUNLUK", c: ["Boy ölçüsü"] },
   { a: "ÜCRETLİ", c: ["Ücretle çalışan"] },
-  // ---- 7 harf: TDK sözlüğünden elle seçilmiş ekler (tur 9, parça 10: ÜÇKÂĞIT-VEREMLİ) ----
+  // ---- 7-letter: hand-picked additions from TDK dictionary (round 9, part 10: ÜÇKÂĞIT-VEREMLİ) ----
   { a: "ÜSTÜBEÇ", c: ["Beyaz boya tozu"] },
   { a: "ÜSTYAPI", c: ["Altyapı üstündeki"] },
   { a: "ÜŞENGEÇ", c: ["Tembel, üşenen"] },
@@ -6655,7 +6655,7 @@ export const WORDS = [
   { a: "ÜROLOJİ", c: ["İdrar yolları dalı"] },
   { a: "VERİMLİ", c: ["Bitek"] },
   { a: "VEREMLİ", c: ["Vereme tutulmuş"] },
-  // ---- 4 harf: sıfır tekrar için eklenen kelimeler (parça 1) ----
+  // ---- 4-letter: words added for zero repeats (part 1) ----
   { a: "ARZU", c: ["İstek, dilek"] },
   { a: "AVLU", c: ["Yapı içi bahçe"] },
   { a: "BOZA", c: ["Darıdan içecek"] },
@@ -6717,7 +6717,7 @@ export const WORDS = [
   { a: "VECH", c: ["Yüz, çehre"] },
   { a: "VEHM", c: ["Boş korku"] },
   { a: "ZEHR", c: ["Zehir"] },
-  // ---- 4 harf: sıfır tekrar için eklenen kelimeler (parça 2) ----
+  // ---- 4-letter: words added for zero repeats (part 2) ----
   { a: "ABAT", c: ["Bayındır, mamur"] },
   { a: "AKUT", c: ["Ani ve şiddetli"] },
   { a: "ALTO", c: ["Kalın kadın sesi"] },
@@ -6742,7 +6742,7 @@ export const WORDS = [
   { a: "PLAJ", c: ["Kumsal"] },
   { a: "PRES", c: ["Baskı makinesi"] },
   { a: "STAT", c: ["Maçın oynandığı yapı"] },
-  // ---- 4 harf: sıfır tekrar için eklenen kelimeler (parça 3) ----
+  // ---- 4-letter: words added for zero repeats (part 3) ----
   { a: "ALEM", c: ["Eski dilde dünya"] },
   { a: "AMİN", c: ["Duadan sonra denen"] },
   { a: "ANKA", c: ["Efsanevi kuş"] },
@@ -6757,7 +6757,7 @@ export const WORDS = [
   { a: "HAKİ", c: ["Yeşilimsi kahverengi"] },
   { a: "ZİFT", c: ["Kara katran"] },
   { a: "ZOKA", c: ["Balık yemi"] },
-  // ---- 4 harf: sıfır tekrar için eklenen kelimeler (parça 4) ----
+  // ---- 4-letter: words added for zero repeats (part 4) ----
   { a: "ARIZ", c: ["Sonradan ortaya çıkan"] },
   { a: "BEKA", c: ["Kalıcılık"] },
   { a: "BEYT", c: ["Şiirde iki dize"] },
@@ -6774,7 +6774,7 @@ export const WORDS = [
   { a: "OTAK", c: ["Halk dilinde çadır"] },
   { a: "KEBE", c: ["Kaba yün kumaş"] },
   { a: "NAİM", c: ["Bolluk, rahatlık"] },
-  // ---- 4 harf: TDK + Hürriyet arşivi sıklık listesi (tur 10, parça 1) ----
+  // ---- 4-letter: TDK + Hürriyet archive frequency list (round 10, part 1) ----
   { a: "ACEM", c: ["İranlı"] },
   { a: "AFİŞ", c: ["Duvara asılan ilan"] },
   { a: "AHAR", c: ["Hattat kâğıdı cilası"] },
@@ -6853,7 +6853,7 @@ export const WORDS = [
   { a: "YEKE", c: ["Dümen kolu"] },
   { a: "ZİRA", c: ["Çünkü"] },
   { a: "ZONA", c: ["Ağrılı deri hastalığı"] },
-  // ---- 4 harf: TDK + Hürriyet arşivi sıklık listesi (tur 10, parça 2) ----
+  // ---- 4-letter: TDK + Hürriyet archive frequency list (round 10, part 2) ----
   { a: "ADAP", c: ["Töre, görgü"] },
   { a: "AJUR", c: ["İşlemede boşluk"] },
   { a: "AMİL", c: ["Sebep olan güç"] },
@@ -6919,7 +6919,7 @@ export const WORDS = [
   { a: "ÜLEŞ", c: ["Bölüşülen pay"] },
   { a: "UMAR", c: ["Çare"] },
   { a: "UYAK", c: ["Kafiye"] },
-  // ---- 4 harf: TDK + Hürriyet arşivi sıklık listesi (tur 10, parça 3) ----
+  // ---- 4-letter: TDK + Hürriyet archive frequency list (round 10, part 3) ----
   { a: "ABUK", c: ["Saçma sapan"] },
   { a: "ACEP", c: ["Acaba"] },
   { a: "ACUL", c: ["Aceleci"] },
@@ -6949,7 +6949,7 @@ export const WORDS = [
   { a: "DEVE", c: ["Hörgüçlü çöl hayvanı"] },
   { a: "ÜVEZ", c: ["Kırmızı meyveli ağaç"] },
   { a: "VALF", c: ["Vana"] },
-  // ---- 4 harf: TDK + Hürriyet arşivi sıklık listesi (tur 10, parça 4) ----
+  // ---- 4-letter: TDK + Hürriyet archive frequency list (round 10, part 4) ----
   { a: "DİVA", c: ["Ünlü kadın sanatçı"] },
   { a: "EDAT", c: ["İlgi kuran sözcük"] },
   { a: "ELEM", c: ["Keder, üzüntü"] },
@@ -6979,10 +6979,11 @@ export const WORDS = [
   { a: "İRİN", c: ["Yaradaki cerahat"] },
   { a: "İTKİ", c: ["İçten gelen dürtü"] },
   { a: "İYON", c: ["Yüklü atom"] },
-  // ---- 6-7 harf: düzeltme işareti kaldırılarak geri konan kelimeler ----
-  // Ekran klavyesinde Â/Î/Û tuşu olmadığı için bu cevaplar düz yazımla
-  // tutuluyor; ipuçları silinmeden önceki hâlleriyle aynı. HAKÎ geri
-  // konmadı, düz yazımı (HAKİ) sözlükte zaten var.
+  // ---- 6-7 letter: words restored with the circumflex removed ----
+  // These answers are kept in plain spelling since there's no Â/Î/Û key on
+  // the in-game keyboard; the clues are unchanged from before they were
+  // removed. HAKÎ wasn't restored — its plain spelling (HAKİ) is already in
+  // the dictionary.
   { a: "DÜKKAN", c: ["Satış yeri"] },
   { a: "HİKAYE", c: ["Öykü"] },
   { a: "HÜNKAR", c: ["Padişah"] },
@@ -7003,7 +7004,7 @@ export const WORDS = [
   { a: "ÜÇKAĞIT", c: ["El çabukluğu dolandırıcılığı"] },
   { a: "YADİGAR", c: ["Anı olarak kalan"] },
   { a: "VEFAKAR", c: ["Vefalı"] },
-  // ---- 4 harf: TDK + Hürriyet arşivi sıklık listesi (tur 10, parça 5, son) ----
+  // ---- 4-letter: TDK + Hürriyet archive frequency list (round 10, part 5, last) ----
   { a: "İYOT", c: ["I simgeli element"] },
   { a: "İZAH", c: ["Anlatıp aydınlatma", "Gerekçe gösterme"] },
   { a: "JUDO", c: ["Japon güreşi"] },
@@ -7089,10 +7090,10 @@ export const WORDS = [
   { a: "VOLİ", c: ["Ağ atma"] },
   { a: "ZATİ", c: ["Zaten"] },
   { a: "ZEDE", c: ["Ezik, bere"] },
-  // ---- 4 harf: ön filtreden dönenler (tur 11) ----
-  // TDK'da esk./ağz./argo etiketli oldukları için ilk turda hiç incelenmemişti;
-  // üç arşivde de sık geçtikleri için elden geçirildi. Yalnızca bugün hâlâ
-  // gerçekten kullanılanlar alındı.
+  // ---- 4-letter: returned from the pre-filter (round 11) ----
+  // Never reviewed in the first round since they're tagged old/dialect/slang
+  // in TDK; revisited because they show up frequently in all three archives.
+  // Only words genuinely still in use today were taken.
   { a: "AKİL", c: ["Akıllı, bilge"] },
   { a: "AKİM", c: ["Sonuçsuz kalan"] },
   { a: "ASRİ", c: ["Çağdaş, modern"] },
@@ -7107,12 +7108,12 @@ export const WORDS = [
   { a: "NAME", c: ["Mektup"] },
   { a: "ŞARK", c: ["Doğu"] },
   { a: "TALİ", c: ["İkincil, ikinci derece"] },
-  // ---- 4 harf: özel adlar, kısaltmalar ve para birimleri (tur 12) ----
-  // Klasik çengel bulmacanın standart malzemesi; ilk turlarda TDK'nın
-  // sözcük maddesi olmadıkları için havuz dışında kalmışlardı.
-  // İlçe adları oyunun Türkiye haritası temasıyla da örtüşüyor.
+  // ---- 4-letter: proper nouns, abbreviations, and currencies (round 12) ----
+  // Standard material for classic hooked crosswords; left out of the pool in
+  // earlier rounds because they aren't dictionary entries in TDK.
+  // District names also tie into the game's Turkey-map theme.
 
-  // Türkiye'den ilçe ve yer adları
+  // District and place names from Turkey
   { a: "AYAŞ", c: ["Ankara ilçesi"] },
   { a: "AVŞA", c: ["Marmara'da tatil adası"] },
   { a: "BİGA", c: ["Çanakkale ilçesi"] },
@@ -7139,7 +7140,7 @@ export const WORDS = [
   { a: "ZARA", c: ["Sivas ilçesi"] },
   { a: "ZİLE", c: ["Tokat ilçesi"] },
 
-  // Dünyadan yer adları
+  // Place names from around the world
   { a: "AARE", c: ["İsviçre'de ırmak"] },
   { a: "AGRA", c: ["Tac Mahal'in kenti"] },
   { a: "ARAL", c: ["Kuruyan Orta Asya gölü"] },
@@ -7156,7 +7157,7 @@ export const WORDS = [
   { a: "TOGO", c: ["Afrika'da küçük ülke"] },
   { a: "UTAH", c: ["Bir ABD eyaleti"] },
 
-  // Halk, topluluk ve mitoloji adları
+  // Peoples, communities, and mythology names
   { a: "AVAR", c: ["Kafkasya'da bir halk"] },
   { a: "DUMA", c: ["Rus parlamentosu"] },
   { a: "EROS", c: ["Yunan aşk tanrısı"] },
@@ -7170,7 +7171,7 @@ export const WORDS = [
   { a: "SLAV", c: ["Rus ve Leh soydaşı"] },
   { a: "TÜRK", c: ["Anadolu'nun halkı", "Orta Asya kökenli ulus"] },
 
-  // Kısaltmalar
+  // Abbreviations
   { a: "FIFA", c: ["Dünya futbol federasyonu"] },
   { a: "İETT", c: ["İstanbul'un otobüs idaresi"] },
   { a: "KKTC", c: ["Kuzey Kıbrıs'ın kısaltması"] },
@@ -7189,16 +7190,16 @@ export const WORDS = [
   { a: "TAEL", c: ["Uzak Doğu ağırlık ölçüsü"] },
   { a: "YUAN", c: ["Çin para birimi"] },
 
-  // ---- 4 harf: 633'lük artık listeden elle onaylananlar (tur 13) ----
-  // TDK'nın kalan dört harfli maddeleri baştan sona tarandı; geri kalanı
-  // eskimiş, yöresel, salt yönlendirme ya da bitki/balık jargonu olduğu
-  // için alınmadı.
+  // ---- 4-letter: hand-approved from the 633-word leftover list (round 13) ----
+  // TDK's remaining 4-letter entries were scanned end to end; the rest
+  // wasn't taken because it was archaic, regional, purely a cross-reference,
+  // or plant/fish jargon.
   { a: "ACUR", c: ["Hıyara benzer sebze"] },
   { a: "NATO", c: ["Batı savunma ittifakı"] },
   { a: "SELA", c: ["Minareden okunan dua"] },
   { a: "ŞİRK", c: ["Tanrı'ya ortak koşma"] },
 
-  // ---- 4 harf: 633'lük artık listeden onaylanan ikinci grup (tur 13, parça 2) ----
+  // ---- 4-letter: second approved group from the 633-word leftover list (round 13, part 2) ----
   { a: "ADLI", c: ["Şu adı taşıyan"] },
   { a: "ALIŞ", c: ["Satış karşıtı"] },
   { a: "BARK", c: ["Ev ile anılan söz"] },
