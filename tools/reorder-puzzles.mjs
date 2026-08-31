@@ -1,18 +1,22 @@
-// Bulmacaları ölçülen zorluğa göre yeniden sıralar: 1. bulmaca en kolay,
-// sonuncusu en zor. Dosya adları ve "id" alanları DEĞİŞMEZ (oyuncu ilerlemesi
-// id'ye bağlı); yalnızca "order", "title" ve "difficulty" alanları yazılır.
+// Reorders puzzles by measured difficulty: puzzle 1 is the easiest, the last
+// one is the hardest. File names and "id" fields are UNCHANGED (player
+// progress is keyed on id); only "order", "title", and "difficulty" fields
+// are written.
 //
-// Zorluk skoru dört ölçülebilir sinyalin ağırlıklı toplamı:
-//   rare   cevabın sözlükte tek ipucu olması, yani sonradan TDK'dan eklenmiş
-//          "derin" kelime olması. Çekirdek kelimeler 4-5 ipuçlu.
-//   depth  cevabın sözlükteki sırası; sözlük yaygından nadire doğru büyüdü.
-//   cross  kesişen hücre oranı; kesişim çözücüye yardım eder, tersi zorluktur.
+// The difficulty score is the weighted sum of four measurable signals:
+//   rare   the answer has only one clue in the dictionary, i.e. it's a
+//          "deep" word added later from TDK. Core words have 4-5 clues.
+//   depth  the answer's position in the dictionary; the dictionary grew from
+//          common to rare words.
+//   cross  the fraction of intersecting cells; intersections help the
+//          solver, so fewer of them means harder.
 //
-// Izgara alanı eskiden dördüncü sinyaldi, ama set tek bir 8x10 şekle geçtikten
-// sonra bütün bulmacalarda aynı değeri aldı ve sıralamaya hiçbir katkısı
-// kalmadı; ağırlığı diğer üç sinyale oranlı şekilde dağıtıldı.
+// Grid area used to be a fourth signal, but once the set moved to a single
+// 8x10 shape it took the same value for every puzzle and stopped
+// contributing to the ranking at all; its weight was redistributed
+// proportionally across the other three signals.
 //
-// Kullanım: node tools/reorder-puzzles.mjs [--apply]
+// Usage: node tools/reorder-puzzles.mjs [--apply]
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -29,10 +33,10 @@ const ARROW = {
   "down-right": { sr: 1, sc: 0, dRow: 0, dCol: 1 },
 };
 
-// Not: cevap uzunluğu bilerek dışarıda. Bu sözlükte 4 harfli katman elle
-// derlenmiş çekirdek kelimelerden oluşuyor (%68'i çok ipuçlu), 5-7 harfli
-// katmanların tamamına yakını ise TDK'dan toplu çekilmiş derin kelimeler.
-// Yani uzunluk, "rare" sinyalinin tersten kopyası olurdu.
+// Note: answer length is deliberately left out. In this dictionary the
+// 4-letter layer is made of hand-curated core words (68% multi-clue), while
+// almost all of the 5-7 letter layers are deep words pulled in bulk from
+// TDK. So length would just be an inverted copy of the "rare" signal.
 const WEIGHTS = { rare: 0.51, depth: 0.29, cross: 0.20 };
 
 const puzzlesDir = join(dirname(fileURLToPath(import.meta.url)), "..", "src", "puzzles");
@@ -61,12 +65,12 @@ const rows = files.map((file) => {
     depth:
       clues.reduce((sum, c) => sum + (dictIndex.get(c.answer) ?? dict.length) / dict.length, 0) /
       clues.length,
-    // ters çevrildi: kesişim ne kadar azsa o kadar zor
+    // inverted: the fewer the intersections, the harder
     cross: 1 - cells.filter((v) => v > 1).length / cells.length,
   };
 });
 
-// her sinyali kendi min-max aralığında 0..1'e getir
+// normalize each signal to 0..1 within its own min-max range
 for (const key of Object.keys(WEIGHTS)) {
   const values = rows.map((r) => r[key]);
   const min = Math.min(...values);
@@ -79,8 +83,8 @@ for (const r of rows) {
 
 rows.sort((a, b) => a.score - b.score);
 
-// zorluk etiketleri mevcut dağılımı korur, yalnızca hangi bulmacaya
-// düştükleri değişir
+// difficulty labels keep the existing distribution; only which puzzle
+// they land on changes
 const previous = rows.map((r) => r.data.difficulty);
 const counts = { kolay: 0, orta: 0, zor: 0 };
 for (const d of previous) if (d in counts) counts[d]++;
