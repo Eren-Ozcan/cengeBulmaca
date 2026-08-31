@@ -5,13 +5,14 @@ const config: CapacitorConfig = {
   appName: 'Cengel Bulmaca',
   webDir: 'dist',
   plugins: {
-    // skipNativeAuth ZORUNLU olarak true: oyunun tüm veri katmanı
-    // (src/cloud-save.ts, src/referral.ts) Firebase JS SDK'sını kullanıyor.
-    // Varsayılan (false) davranışta eklenti oturumu NATIVE SDK'da açar; JS
-    // SDK'nın oturumu ayrı kaldığı için giriş "başarılı" görünür ama Firestore
-    // yazmaları hâlâ eski anonim kullanıcıya gider. true iken native katman
-    // yalnızca hesap seçiciyi gösterip kimlik bilgisini döndürür, oturumu JS
-    // SDK açar (bkz. src/firebase-app.ts linkWithGoogle).
+    // skipNativeAuth MUST be true: the game's entire data layer
+    // (src/cloud-save.ts, src/referral.ts) uses the Firebase JS SDK.
+    // With the default (false), the plugin opens the session in the NATIVE
+    // SDK; since the JS SDK's session stays separate, sign-in looks
+    // "successful" but Firestore writes still go to the old anonymous user.
+    // With true, the native layer only shows the account picker and returns
+    // the credential; the JS SDK opens the session (see linkWithGoogle in
+    // src/firebase-app.ts).
     FirebaseAuthentication: {
       skipNativeAuth: true,
       providers: ['google.com'],
