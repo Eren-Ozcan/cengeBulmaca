@@ -1,25 +1,26 @@
-// Gemini web arayüzünden indirilen kedi portrelerini (public/cats/*.png)
-// temizler.
+// Cleans up cat portraits downloaded from the Gemini web UI
+// (public/cats/*.png).
 //
-// Gözlemlenen sorun: Gemini web'in "Tam boyutu indir" çıktısı GERÇEK alfa
-// şeffaflığı içermiyor — istenen "transparent background" bir önizleme
-// dama deseni (ya da bazen düz soluk bir renk) olarak TAMAMEN OPAK
-// piksellere gömülüyor (alpha=255 her yerde). Ayrıca sağ alt köşede
-// yarı saydam bir Gemini kıvılcım logosu bulunuyor. Bu script:
-//  1. Görselin 4 köşesinden zemin renk(ler)ini örnekler (dama deseni ise
-//     genelde 1-2 farklı ton çıkar, düz renkse tek ton).
-//  2. Köşelerden başlayan bir flood-fill ile bu renklere yakın, birbirine
-//     bağlı tüm pikselleri gerçekten şeffaflaştırır (alpha=0). Bağlantı
-//     tabanlı olduğu için kalın kontur çizgisinde durur — beyaz tüylü bir
-//     kedi zeminle aynı renkte olsa bile konturun içine sızmaz. Köşedeki
-//     logo, zeminle bağlantılı olduğu için bu adımda kendiliğinden gider.
-//  3. Şeffaf kenar boşluklarını kırpıp (trim) sadece kediyi bırakır.
-//  4. Sonucu sabit bir kare tuvale ortalanmış halde yerleştirir — 16
-//     karakterin hepsi uygulamada aynı çerçeveleme/ölçekte görünsün diye.
+// Observed issue: Gemini web's "Download full size" output doesn't contain
+// REAL alpha transparency — the requested "transparent background" is baked
+// into FULLY OPAQUE pixels as a preview checkerboard pattern (or sometimes a
+// flat pale color) (alpha=255 everywhere). There's also a semi-transparent
+// Gemini spark logo in the bottom-right corner. This script:
+//  1. Samples the ground color(s) from the image's 4 corners (a checkerboard
+//     usually yields 1-2 distinct tones, a flat color yields one).
+//  2. Runs a flood-fill from the corners to actually make all connected
+//     pixels close to these colors transparent (alpha=0). Because it's
+//     connectivity-based, it stops at a thick outline — even a white-furred
+//     cat that shares the ground's color won't leak past the outline. The
+//     corner logo disappears on its own in this step since it's connected
+//     to the ground.
+//  3. Trims the transparent margins, leaving only the cat.
+//  4. Places the result centered on a fixed square canvas — so all 16
+//     characters appear at the same framing/scale in the app.
 //
-// Kullanım: node tools/process-cat-images.mjs
-// Birden fazla kez çalıştırmak güvenlidir (zaten temizlenmiş bir
-// dosyada köşeler zaten şeffaftır, flood-fill ve trim değişiklik yapmaz).
+// Usage: node tools/process-cat-images.mjs
+// Safe to run more than once (on an already-cleaned file the corners are
+// already transparent, so flood-fill and trim make no change).
 
 import sharp from "sharp";
 import { readdirSync, writeFileSync } from "node:fs";
@@ -29,8 +30,8 @@ import { dirname, join } from "node:path";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CATS_DIR = join(__dirname, "..", "public/cats");
 const CANVAS = 900;
-const CONTENT = 760; // CANVAS içindeki kedi boyutu, geri kalanı şeffaf kenar boşluğu
-const COLOR_TOLERANCE = 26; // kanal başına izin verilen sapma
+const CONTENT = 760; // cat size within CANVAS, the rest is transparent margin
+const COLOR_TOLERANCE = 26; // allowed deviation per channel
 
 function colorDist(r1, g1, b1, r2, g2, b2) {
   return Math.max(Math.abs(r1 - r2), Math.abs(g1 - g2), Math.abs(b1 - b2));
@@ -40,7 +41,7 @@ function matchesAnyReference(r, g, b, refs) {
   return refs.some((ref) => colorDist(r, g, b, ref[0], ref[1], ref[2]) <= COLOR_TOLERANCE);
 }
 
-/** Köşelerden zemin rengi örnekleri toplar (birbirine çok yakın olanları tekilleştirir). */
+/** Collects ground-color samples from the corners (dedupes near-identical ones). */
 function sampleCornerColors(data, width, height, channels) {
   const pts = [
     [2, 2],
@@ -59,7 +60,7 @@ function sampleCornerColors(data, width, height, channels) {
   return colors;
 }
 
-/** Köşelerden başlayıp zemin rengine yakın, birbirine bağlı pikselleri şeffaflaştırır. */
+/** Starting from the corners, makes connected pixels close to the ground color transparent. */
 function floodFillBackground(data, width, height, channels, refs) {
   const visited = new Uint8Array(width * height);
   const stack = [0, width - 1, (height - 1) * width, height * width - 1];
@@ -72,7 +73,7 @@ function floodFillBackground(data, width, height, channels, refs) {
     const p = idx * channels;
     if (!matchesAnyReference(data[p], data[p + 1], data[p + 2], refs)) continue;
 
-    data[p + 3] = 0; // şeffaf yap
+    data[p + 3] = 0; // make transparent
 
     if (x > 0) stack.push(idx - 1);
     if (x < width - 1) stack.push(idx + 1);
@@ -93,11 +94,11 @@ async function processOne(path) {
 
   const cleaned = await sharp(data, { raw: { width, height, channels } }).png().toBuffer();
 
-  // sadece kediyi bırakacak şekilde şeffaf kenarları kırp
+  // trim transparent margins so only the cat is left
   const trimmed = await sharp(cleaned).trim({ threshold: 10 }).toBuffer();
   const trimmedMeta = await sharp(trimmed).metadata();
 
-  // sabit tuvale ortalanmış şekilde yerleştir
+  // place centered on the fixed canvas
   const scale = Math.min(CONTENT / trimmedMeta.width, CONTENT / trimmedMeta.height, 1);
   const outW = Math.round(trimmedMeta.width * scale);
   const outH = Math.round(trimmedMeta.height * scale);
