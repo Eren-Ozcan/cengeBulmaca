@@ -1,16 +1,17 @@
-// Tüm bulmacaları küresel ipucu takibiyle yeniden üretir.
+// Regenerates all puzzles with a global clue tracker.
 //
-// Kullanım:
+// Usage:
 //   node tools/regenerate-all.mjs [baseSeed] [--strict]
 //
-// --strict: aynı cevap tüm üretim boyunca yalnızca bir kez kullanılır, dolayısıyla
-// aynı soru da iki bulmacada çıkmaz. Sözlük yetmezse bulmacalar üretilemez ve
-// eski dosyaları korunur.
+// --strict: each answer is used only once across the whole generation run,
+// so the same clue never appears in two puzzles either. If the dictionary
+// runs short, puzzles can't be generated and the old files are kept.
 //
-// Her src/puzzles/puzzle-N.json dosyasının kimliği, başlığı, satır/sütun
-// sayısı, zorluğu ve sırası korunur; sadece ızgara ve sorular yenilenir.
-// generate.mjs'teki tracker sayesinde aynı ipucu metni 300 bulmaca boyunca
-// mümkün olduğunca az tekrarlanır (bkz. createTracker/commitToTracker).
+// Each src/puzzles/puzzle-N.json file's id, title, row/column count,
+// difficulty, and order are preserved; only the grid and clues are
+// regenerated. Thanks to the tracker in generate.mjs, the same clue text is
+// repeated as little as possible across the 300 puzzles (see
+// createTracker/commitToTracker).
 
 import { readFileSync, writeFileSync, readdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
@@ -42,8 +43,8 @@ for (const { file, n } of files) {
   const old = JSON.parse(readFileSync(path, "utf8"));
 
   let built = null;
-  // Aynı bulmaca için birkaç farklı tohum dene: ilk tohum üretilemezse
-  // (maske/atama/doldurma elemesi) sonraki tohumla devam et.
+  // Try a few different seeds for the same puzzle: if the first seed fails
+  // to generate (mask/assignment/fill rejection), move on to the next one.
   for (let t = 0; t < 5 && !built; t++) {
     const { puzzle } = buildPuzzle({
       id: old.id,
@@ -70,7 +71,7 @@ for (const { file, n } of files) {
   if (n % 25 === 0) console.log(`${n}/${files.length} ...`);
 }
 
-// ---------- özet ----------
+// ---------- summary ----------
 const counts = [...tracker.text.values()];
 const dupGroups = counts.filter((v) => v > 1).length;
 const dupSlots = counts.reduce((s, v) => s + (v > 1 ? v : 0), 0);
