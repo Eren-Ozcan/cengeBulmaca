@@ -1,9 +1,9 @@
-// Tek tek bulmacaları, geri kalan setin cevaplarını rezerve eden bir strict
-// takipçiyle yeniden üretir. grow-puzzles.mjs bütün seti baştan kurar ve
-// saatler sürer; bir koşu yarıda kesildiğinde geride kalan birkaç bayat
-// dosyayı onarmak için bu yeterli.
+// Regenerates individual puzzles with a strict tracker that reserves the
+// answers of the rest of the set. grow-puzzles.mjs rebuilds the whole set
+// from scratch and takes hours; this is enough to repair the handful of
+// stale files left over when a run gets cut off midway.
 //
-// Kullanım: node tools/rebuild-puzzles.mjs <numara...> [--apply] [--tries=N]
+// Usage: node tools/rebuild-puzzles.mjs <number...> [--apply] [--tries=N]
 import { readFileSync, writeFileSync, readdirSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
