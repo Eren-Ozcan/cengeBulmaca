@@ -1,16 +1,16 @@
-// Yayına hazırlık denetimi: check-puzzles.mjs yalnızca tekrarlara bakar, bu
-// script her bulmacanın kendi içinde tutarlı ve çözülebilir olduğunu doğrular.
+// Release-readiness audit: check-puzzles.mjs only looks for duplicates; this
+// script verifies each puzzle is internally consistent and solvable.
 //
-// Kontroller:
-//   1. Şema: zorunlu alanlar, id ile dosya adının uyuşması, order/title uyumu.
-//   2. Izgara: her cevap sınırlar içinde mi, ipucu hücresi ızgarada mı.
-//   3. Çakışma: cevap harfleri ipucu hücrelerinin ya da blokların üstüne
-//      yazılmıyor mu, kesişen cevapların ortak hücrede harfleri aynı mı.
-//   4. Klavye: cevaplar yalnızca oyundaki klavyede bulunan harflerden mi
-//      oluşuyor (A-Z + ÇĞİÖŞÜ; düzeltme işaretli Â/Î/Û yazılamaz).
-//   5. Sözlük: her cevap sözlükte var mı, ipucu metni o cevabın ipuçlarından
-//      biri mi (üretimden kalan bayat metin yakalanır).
-//   6. Manifest: dosya kümesi ile manifest.json birebir örtüşüyor mu.
+// Checks:
+//   1. Schema: required fields, id matches file name, order/title consistency.
+//   2. Grid: every answer is within bounds, clue cell is on the grid.
+//   3. Overlap: answer letters don't overwrite clue cells or blocks, and
+//      intersecting answers agree on the letter in their shared cell.
+//   4. Keyboard: answers only use letters present on the in-game keyboard
+//      (A-Z + ÇĞİÖŞÜ; circumflex Â/Î/Û can't be typed).
+//   5. Dictionary: every answer exists in the dictionary, and the clue text
+//      is one of that answer's clues (catches stale text left from generation).
+//   6. Manifest: the file set matches manifest.json exactly.
 import { readdirSync, readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
