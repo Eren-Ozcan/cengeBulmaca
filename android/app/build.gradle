@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 
-// Release imzası: android/keystore.properties varsa okunur (depoya girmez).
-// Şablon için keystore.properties.example dosyasına bakın.
+// Release signing: read from android/keystore.properties if present (not committed).
+// See keystore.properties.example for the template.
 def keystorePropertiesFile = rootProject.file("keystore.properties")
 def keystoreProperties = new Properties()
 if (keystorePropertiesFile.exists()) {
