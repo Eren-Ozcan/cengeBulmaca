@@ -1,13 +1,13 @@
-// GÜVENLİK TESTİ — firestore.rules'daki bulut kaydı (saves/{uid}) kurallarına
-// karşı saldırı senaryoları. Gerçek Firebase projesine DOKUNMAZ; sadece
-// Firestore emulator üzerinde çalışır (bkz. security-tests/README.md).
+// SECURITY TEST — attack scenarios against the cloud-save (saves/{uid})
+// rules in firestore.rules. Does NOT touch the real Firebase project; runs
+// only against the Firestore emulator (see security-tests/README.md).
 //
-// Buradaki asıl iddia: ilerlemeyi koruyan garanti İSTEMCİ MANTIĞINDA DEĞİL,
-// kuralda. src/cloud-save.ts monotonik bir `rev` sayacı yazar, ama istemci
-// kodu her zaman eski (uzun süredir güncellenmemiş bir cihaz) ya da doğrudan
-// Firebase SDK'sıyla konuşan biri tarafından değiştirilmiş olabilir. Bayat bir
-// istemcinin başka bir cihazın yazdığı daha yeni kaydı EZEMEYECEĞİNİ kural
-// düzeyinde doğruluyoruz.
+// The core claim being tested: the guarantee that protects progress lives
+// IN THE RULE, NOT IN CLIENT LOGIC. src/cloud-save.ts writes a monotonic
+// `rev` counter, but the client code can always be stale (a device that
+// hasn't updated in a while) or altered by someone talking to the Firebase
+// SDK directly. We verify, at the rule level, that a stale client CANNOT
+// OVERWRITE a newer save written by another device.
 
 import { readFileSync } from "node:fs";
 import { afterAll, beforeAll, beforeEach, describe, expect, it } from "vitest";
@@ -58,8 +58,8 @@ function ownerDoc(uid = OWNER) {
 
 describe("SALDIRI: bayat istemci daha yeni ilerlemeyi eziyor", () => {
   it("rev geriye gidemez", async () => {
-    // Cihaz B kaydı rev=9'a taşıdı. Uzun süre çevrimdışı kalmış cihaz A hâlâ
-    // rev=3'te; kendi kaydını yazabilseydi B'nin ilerlemesi yok olurdu.
+    // Device B moved the save to rev=9. Device A, offline for a long time,
+    // is still at rev=3; if it could write its own save, B's progress would be lost.
     await seedSave(OWNER, 9);
     await assertFails(ownerDoc().set(saveDoc(3)));
   });
@@ -109,8 +109,9 @@ describe("kayıt silme ve boyut sınırı", () => {
   });
 
   it("doküman tavanını aşan payload reddedilir", async () => {
-    // 400 KB tavanı src/cloud-save.ts'teki MAX_PAYLOAD_BYTES ile aynı; 300
-    // bulmaca tamamen dolu bile ~200 KB ettiği için meşru kayıt asla çarpmaz.
+    // The 400 KB ceiling matches MAX_PAYLOAD_BYTES in src/cloud-save.ts; a
+    // legitimate save never hits it, since even all 300 puzzles fully filled
+    // in comes to ~200 KB.
     await assertFails(ownerDoc().set(saveDoc(1, "x".repeat(400_001))));
   });
 
