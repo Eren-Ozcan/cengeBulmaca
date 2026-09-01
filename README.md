@@ -7,10 +7,44 @@ which cell the answer starts from and in which direction it is written.
 Built with web technology (Vite + TypeScript, no framework) and packaged as
 an Android app with Capacitor.
 
+**▶ Play it in your browser: <https://eren-ozcan.github.io/cengeBulmaca/demo/>** —
+no install, no account, progress saved in the browser. (The root of the site,
+`eren-ozcan.github.io/cengeBulmaca/`, is the privacy-policy redirect Play
+Console has on file — the demo lives under `/demo/` so that link stays put.)
+
+On Android it is in closed testing.
+
+<p align="center">
+  <img src="docs/readme/promo.gif" alt="Solving a çengel puzzle: tapping cells, typing on the Turkish keyboard, checking answers, and a puzzle completing" width="270"/>
+</p>
+
+<p align="center">
+  <img src="docs/store-assets/screenshot-1-home.png" alt="Home screen with the puzzle of the day and streak" width="200"/>
+  <img src="docs/store-assets/screenshot-2-gameplay.png" alt="A çengel grid mid-solve" width="200"/>
+  <img src="docs/store-assets/screenshot-3-cats.png" alt="The cat collection screen" width="200"/>
+  <img src="docs/store-assets/screenshot-5-newspaper.png" alt="The newspaper-style results share screen" width="200"/>
+</p>
+
+## The demo
+
+The link above runs the same code as the shipped app with `VITE_DEMO=1`, which
+takes out everything that needs a server or a store:
+
+- **No account, no cloud.** Firebase reports itself unconfigured
+  (`isFirebaseConfigured()` in `src/firebase-app.ts`), so nothing is signed in
+  anonymously and nothing is written to the production Firestore project
+  (`cengel-bulmaca-c504d`, shared with the referral system). Progress lives in
+  `localStorage` and clearing site data resets it.
+- **No ads.** AdMob is a native plugin gated on `Capacitor.isNativePlatform()`
+  (`src/ads.ts`), so a web build already no-ops it.
+
+Everything else — all puzzles, difficulty levels, the cat collection, the
+keyboard, sound and haptics — is the real thing.
+
 ## Features
 
 - Classic çengel format: in-cell clues, 4 arrow directions, cells with two clues
-- 10 puzzles, three difficulty levels (easy / medium / hard)
+- 271 puzzles across three difficulty levels (easy / medium / hard)
 - Puzzle of the day (deterministic selection by date) and 🔥 daily streak
 - Turkish on-screen keyboard (Ğ Ü Ş İ Ö Ç), check and hint (reveal a letter)
 - Sound effects (Web Audio, can be toggled) and haptic feedback
@@ -25,6 +59,19 @@ npm install
 npm run dev        # http://localhost:5173
 npm test           # unit tests (vitest)
 ```
+
+### Rebuilding the web demo
+
+`docs/demo/` is a static build of the game, committed to the repo (not built
+by CI) and served by GitHub Pages at the `/demo/` URL above:
+
+```bash
+VITE_DEMO=1 npm run build:demo
+```
+
+`VITE_DEMO=1` makes `isFirebaseConfigured()` (`src/firebase-app.ts`) report
+false, so the demo never signs in anonymously and never writes to the
+production Firestore project. Commit the resulting `docs/demo/` changes.
 
 ## Generating new puzzles
 
