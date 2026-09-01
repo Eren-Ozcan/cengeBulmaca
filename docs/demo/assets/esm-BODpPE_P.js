@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-B87LTVX1.js","./dist-BDdlKBnh.js","./definitions-BMtIys5d.js","./index.esm-BCDMsa6l.js","./index.esm-CwYp3sxU.js"])))=>i.map(i=>d[i]);
+import{r as e}from"./dist-BDdlKBnh.js";import{t}from"./preload-helper-HclGiUj8.js";import"./definitions-BMtIys5d.js";var n=e(`FirebaseAuthentication`,{web:()=>t(()=>import(`./web-B87LTVX1.js`).then(e=>new e.FirebaseAuthenticationWeb),__vite__mapDeps([0,1,2,3,4]),import.meta.url)});export{n as FirebaseAuthentication};

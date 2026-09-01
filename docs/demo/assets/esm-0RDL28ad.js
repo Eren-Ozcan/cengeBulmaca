@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-39z3-heC.js","./dist-BDdlKBnh.js"])))=>i.map(i=>d[i]);
+import{r as e}from"./dist-BDdlKBnh.js";import{t}from"./preload-helper-HclGiUj8.js";var n=e(`App`,{web:()=>t(()=>import(`./web-39z3-heC.js`).then(e=>new e.AppWeb),__vite__mapDeps([0,1]),import.meta.url)});export{n as App};
