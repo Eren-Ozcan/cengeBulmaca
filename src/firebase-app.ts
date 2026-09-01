@@ -40,6 +40,10 @@ export const FIREBASE_CONFIG = {
 };
 
 export function isFirebaseConfigured(): boolean {
+  // The public demo build (VITE_DEMO=1, see .github/workflows/demo.yml)
+  // reports unconfigured so it never signs anyone in anonymously and never
+  // writes to the production Firestore project.
+  if (import.meta.env.VITE_DEMO === "1") return false;
   return Boolean(FIREBASE_CONFIG.apiKey && FIREBASE_CONFIG.projectId);
 }
 
